@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2005-07-11 01:30+0200\n"
+"POT-Creation-Date: 2005-10-17 02:40+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -21,8 +21,15 @@ msgstr "Üzgärtkeç Saylaw"
 #. i18n: file ./interfaces/ktexteditor/editorchooser_ui.ui line 41
 #: rc.cpp:6
 #, no-c-format
-msgid "Please choose the default text editing component that you wish to use in this application. If you choose <B>System Default</B>, the application will honor your changes in the Control Center. All other choices will override that setting."
-msgstr "Bu yazılımda qullanası, yazmalar tözätüçe komponentnı sayla zinhar. <B>Sistem öçen Töbe</B> digäne saylana ikän, bu yazılım İdärä Üzäge eşendäge caylarnı qullanaçaq. Başqa saylawlar töp caylarnı almaştıraçaq."
+msgid ""
+"Please choose the default text editing component that you wish to use in this "
+"application. If you choose <B>System Default</B>, the application will honor "
+"your changes in the Control Center. All other choices will override that "
+"setting."
+msgstr ""
+"Bu yazılımda qullanası, yazmalar tözätüçe komponentnı sayla zinhar. <B>"
+"Sistem öçen Töbe</B> digäne saylana ikän, bu yazılım İdärä Üzäge eşendäge "
+"caylarnı qullanaçaq. Başqa saylawlar töp caylarnı almaştıraçaq."
 
 #. i18n: file ./kdecore/kconfig_compiler/general_base.ui line 16
 #: rc.cpp:9
@@ -69,7 +76,8 @@ msgstr "Töp çaptırma:"
 #. i18n: file ./kdeui/kshortcutdialog_advanced.ui line 155
 #: rc.cpp:33
 #, no-c-format
-msgid "The currently set shortcut or the shortcut you are entering will show up here."
+msgid ""
+"The currently set shortcut or the shortcut you are entering will show up here."
 msgstr "Bu cirdä biredä bulğan yä ki yaña kertelä torğan çaptırma kürsätelä."
 
 #. i18n: file ./kdeui/kshortcutdialog_advanced.ui line 182
@@ -99,8 +107,14 @@ msgstr "Küp-töymäle çaptırmalar kertergä birü"
 #. i18n: file ./kdeui/kshortcutdialog_advanced.ui line 219
 #: rc.cpp:54
 #, no-c-format
-msgid "Select this checkbox to enable the entry of multi-key shortcuts.  A multi-key shortcut consists of a sequence of up to 4 keys.  For example, you could assign \"Ctrl+F,B\" to Font-Bold and \"Ctrl+F,U\" to Font-Underline."
-msgstr "Bonı açıp, küp-töymäle çaptırmalarnı kerterlek itä. Küp-töymälä çaptırmalar iñ kübe 4 töymadän tora ala. Ürnäk öçen, qalın yazuğa \"Ctrl+Y,B\", sızdırılğan yazuğa \"Ctrl+Y,S\" çaptırmalar birep bula."
+msgid ""
+"Select this checkbox to enable the entry of multi-key shortcuts.  A multi-key "
+"shortcut consists of a sequence of up to 4 keys.  For example, you could assign "
+"\"Ctrl+F,B\" to Font-Bold and \"Ctrl+F,U\" to Font-Underline."
+msgstr ""
+"Bonı açıp, küp-töymäle çaptırmalarnı kerterlek itä. Küp-töymälä çaptırmalar iñ "
+"kübe 4 töymadän tora ala. Ürnäk öçen, qalın yazuğa \"Ctrl+Y,B\", sızdırılğan "
+"yazuğa \"Ctrl+Y,S\" çaptırmalar birep bula."
 
 #. i18n: file ./kdeui/ui_standards.rc line 4
 #: common_texts.cpp:77 rc.cpp:57 rc.cpp:278
@@ -186,14 +200,30 @@ msgstr "Bilgesez süz:"
 #: rc.cpp:108 rc.cpp:120 rc.cpp:311 rc.cpp:323
 #, no-c-format
 msgid ""
-"<qt><p>This word was considered to be an \"unknown word\" because it does not match any entry in the dictionary currently in use. It may also be a word in a foreign language.</p>\n"
-"<p>If the word is not misspelled, you may add it to the dictionary by clicking <b>Add to Dictionary</b>. If you don't want to add the unknown word to the dictionary, but you want to leave it unchanged, click <b>Ignore</b> or <b>Ignore All</b>.</p>\n"
-"<p>However, if the word is misspelled, you can try to find the correct replacement in the list below. If you cannot find a replacement there, you may type it in the text box below, and click <b>Replace</b> or <b>Replace All</b>.</p>\n"
+"<qt>"
+"<p>This word was considered to be an \"unknown word\" because it does not match "
+"any entry in the dictionary currently in use. It may also be a word in a "
+"foreign language.</p>\n"
+"<p>If the word is not misspelled, you may add it to the dictionary by clicking "
+"<b>Add to Dictionary</b>. If you don't want to add the unknown word to the "
+"dictionary, but you want to leave it unchanged, click <b>Ignore</b> or <b>"
+"Ignore All</b>.</p>\n"
+"<p>However, if the word is misspelled, you can try to find the correct "
+"replacement in the list below. If you cannot find a replacement there, you may "
+"type it in the text box below, and click <b>Replace</b> or <b>Replace All</b>"
+".</p>\n"
 "</qt>"
 msgstr ""
-"<qt><p>Bu süz süzleklärdä bulmağaç, ul \"bilgesez süz\" dip sanala. Ul süzneñ başqa teldän buluı bar.</p>\n"
-"<p>Ul süz yalğış tügel ikän, <b>Süzlekkä Östä</b> diğanne çirtep, anı süzlekkä östäp bula. Östise kilmäsä inde, <b>Ütäse</b> yä ki <b>Barın Ütäse</b> östenä çirtep bula.</p>\n"
-"<p>Ägär dä bu süz yalğıs bulğan ikän, birelgän tezmädän çın yazılışın saylap bula. Ägär birelgän tezmädä dä çın yazılış bulmí ikän anı quldan kertep bula. Çın yazılış bilgelängän bulğaç, <b>Almaştır</b> yä ki <b>Barın Almaştır</b> östenä çirtäse qala.</p>\n"
+"<qt>"
+"<p>Bu süz süzleklärdä bulmağaç, ul \"bilgesez süz\" dip sanala. Ul süzneñ başqa "
+"teldän buluı bar.</p>\n"
+"<p>Ul süz yalğış tügel ikän, <b>Süzlekkä Östä</b> diğanne çirtep, anı süzlekkä "
+"östäp bula. Östise kilmäsä inde, <b>Ütäse</b> yä ki <b>Barın Ütäse</b> "
+"östenä çirtep bula.</p>\n"
+"<p>Ägär dä bu süz yalğıs bulğan ikän, birelgän tezmädän çın yazılışın saylap "
+"bula. Ägär birelgän tezmädä dä çın yazılış bulmí ikän anı quldan kertep bula. "
+"Çın yazılış bilgelängän bulğaç, <b>Almaştır</b> yä ki <b>Barın Almaştır</b> "
+"östenä çirtäse qala.</p>\n"
 "</qt>"
 
 #. i18n: file ./kdeui/kspellui.ui line 52
@@ -243,11 +273,16 @@ msgstr "Tanılmağan süzeneñ qullanılu tiräsen kürsätkän yazma kisäge."
 #, no-c-format
 msgid ""
 "<qt>\n"
-"<p>Here you can see a text excerpt showing the unknown word in its context. If this information is not sufficient to choose the best replacement for the unknown word, you can click on the document you are proofing, read a larger part of the text and then return here to continue proofing.</p>\n"
+"<p>Here you can see a text excerpt showing the unknown word in its context. If "
+"this information is not sufficient to choose the best replacement for the "
+"unknown word, you can click on the document you are proofing, read a larger "
+"part of the text and then return here to continue proofing.</p>\n"
 "</qt>"
 msgstr ""
 "<qt>\n"
-"<p>Bilgesez süz oçrağan yazma kisäge bu cirdä kürsätelä. Bu belem şul bilgesez süz turında tulayım beleşergä birmi ikän, istälekkä çirtep, annan uqıp alıp, tözätü eşen dawam itep bula.</p>\n"
+"<p>Bilgesez süz oçrağan yazma kisäge bu cirdä kürsätelä. Bu belem şul bilgesez "
+"süz turında tulayım beleşergä birmi ikän, istälekkä çirtep, annan uqıp alıp, "
+"tözätü eşen dawam itep bula.</p>\n"
 "</qt>"
 
 #. i18n: file ./kdeui/kspellui.ui line 107
@@ -261,13 +296,21 @@ msgstr "<< Süzlekkä Östäw"
 #, no-c-format
 msgid ""
 "<qt>\n"
-"<p>The unknown word was detected and considered unknown because it is not included in the dictionary.<br>\n"
-"Click here if you consider that the unknown word is not misspelled and you want to avoid wrongly detecting it again in the future. If you want to let it remain as is, but not add it to the dictionary, then click <b>Ignore</b> or <b>Ignore All</b> instead.</p>\n"
+"<p>The unknown word was detected and considered unknown because it is not "
+"included in the dictionary."
+"<br>\n"
+"Click here if you consider that the unknown word is not misspelled and you want "
+"to avoid wrongly detecting it again in the future. If you want to let it remain "
+"as is, but not add it to the dictionary, then click <b>Ignore</b> or <b>"
+"Ignore All</b> instead.</p>\n"
 "</qt>"
 msgstr ""
 "<qt>\n"
-"<p>Bu süz süzleklärdä bulmağaç, ul bilgesez dip sanalğana. Ul süzneñ başqa teldän buluı bar<br>\n"
-"Ul bilgesez süz yalğış bulmíça, anı süzlekkä östise kilmäsä, <b>Ütäse</b> yä ki <b>Barın Ütäse</b>  östenä çirtep bula.</p>\n"
+"<p>Bu süz süzleklärdä bulmağaç, ul bilgesez dip sanalğana. Ul süzneñ başqa "
+"teldän buluı bar"
+"<br>\n"
+"Ul bilgesez süz yalğış bulmíça, anı süzlekkä östise kilmäsä, <b>Ütäse</b> "
+"yä ki <b>Barın Ütäse</b>  östenä çirtep bula.</p>\n"
 "</qt>"
 
 #. i18n: file ./kdeui/kspellui.ui line 138
@@ -281,7 +324,8 @@ msgstr "Ba&rın Almaştır"
 #, no-c-format
 msgid ""
 "<qt>\n"
-"<p>Click here to replace all occurrences of the unknown text with the text in the edit box above (to the left).</p>\n"
+"<p>Click here to replace all occurrences of the unknown text with the text in "
+"the edit box above (to the left).</p>\n"
 "</qt>"
 msgstr ""
 "<qt>\n"
@@ -305,13 +349,20 @@ msgstr "Alaştıru Tezmäse"
 #, no-c-format
 msgid ""
 "<qt>\n"
-"<p>If the unknown word is misspelled, you should check if the correction for it is available and if it is, click on it. If none of the words in this list is a good replacement you may type the correct word in the edit box above.</p>\n"
-"<p>To correct this word click <b>Replace</b> if you want to correct only this occurrence or <b>Replace All</b> if you want to correct all occurrences.</p>\n"
+"<p>If the unknown word is misspelled, you should check if the correction for it "
+"is available and if it is, click on it. If none of the words in this list is a "
+"good replacement you may type the correct word in the edit box above.</p>\n"
+"<p>To correct this word click <b>Replace</b> if you want to correct only this "
+"occurrence or <b>Replace All</b> if you want to correct all occurrences.</p>\n"
 "</qt>"
 msgstr ""
 "<qt>\n"
-"<p>Tanılmağan süz yalğış yazılğan ikän, birelgän süzlär arasında çın yazılışın tabıp, aña çirtergä bula. Çıñ yazılışı ul tezmädä dä bulmasa, anı quldan kertep bula.</p>\n"
-"<p>Ul süzne ber cirdä genä almaştıru öçen <b>Almaştır</b> östenä çirtäse, <b>Barın Almaştır</b> digänen çirtep ul süzne böten istälektä almaştırıp bula.</p>\n"
+"<p>Tanılmağan süz yalğış yazılğan ikän, birelgän süzlär arasında çın yazılışın "
+"tabıp, aña çirtergä bula. Çıñ yazılışı ul tezmädä dä bulmasa, anı quldan kertep "
+"bula.</p>\n"
+"<p>Ul süzne ber cirdä genä almaştıru öçen <b>Almaştır</b> östenä çirtäse, <b>"
+"Barın Almaştır</b> digänen çirtep ul süzne böten istälektä almaştırıp bula.</p>"
+"\n"
 "</qt>"
 
 #. i18n: file ./kdeui/kspellui.ui line 179
@@ -325,11 +376,13 @@ msgstr "&Almaştır"
 #, no-c-format
 msgid ""
 "<qt>\n"
-"<p>Click here to replace this occurrence of the unknown text with the text in the edit box above (to the left).</p>\n"
+"<p>Click here to replace this occurrence of the unknown text with the text in "
+"the edit box above (to the left).</p>\n"
 "</qt>"
 msgstr ""
 "<qt>\n"
-"<p>Tanılmağan süzne bu tözätü qırındağı belän almaştıru öçen bonda çirtäse.</p>\n"
+"<p>Tanılmağan süzne bu tözätü qırındağı belän almaştıru öçen bonda çirtäse.</p>"
+"\n"
 "</qt>"
 
 #. i18n: file ./kdeui/kspellui.ui line 192
@@ -343,13 +396,19 @@ msgstr "&Moña almaştır:"
 #, no-c-format
 msgid ""
 "<qt>\n"
-"<p>If the unknown word is misspelled, you should type the correction for your misspelled word here or select it from the list below.</p>\n"
-"<p>You can then click <b>Replace</b> if you want to correct only this occurrence of the word or <b>Replace All</b> if you want to correct all occurrences.</p>\n"
+"<p>If the unknown word is misspelled, you should type the correction for your "
+"misspelled word here or select it from the list below.</p>\n"
+"<p>You can then click <b>Replace</b> if you want to correct only this "
+"occurrence of the word or <b>Replace All</b> if you want to correct all "
+"occurrences.</p>\n"
 "</qt>"
 msgstr ""
 "<qt>\n"
-"<p>Tanılmağan süz yalğış yazılğan ikän, birelgän süzlär arasında çın yazılışın saylap bula. Çıñ yazılışı ul tezmädä dä bulmasa, anı quldan kertep bula.</p>\n"
-"<p>Ul süzne ber cirdä genä almaştıru öçen <b>Almaştır</b> östenä çirtäse, <b>Barın Almaştır</b> digänen çirtep ul süzne böten istälektä almaştırıp bula.</p>\n"
+"<p>Tanılmağan süz yalğış yazılğan ikän, birelgän süzlär arasında çın yazılışın "
+"saylap bula. Çıñ yazılışı ul tezmädä dä bulmasa, anı quldan kertep bula.</p>\n"
+"<p>Ul süzne ber cirdä genä almaştıru öçen <b>Almaştır</b> östenä çirtäse, <b>"
+"Barın Almaştır</b> digänen çirtep ul süzne böten istälektä almaştırıp bula.</p>"
+"\n"
 "</qt>"
 
 #. i18n: file ./kdeui/kspellui.ui line 209
@@ -364,12 +423,14 @@ msgstr "&Uzası"
 msgid ""
 "<qt>\n"
 "<p>Click here to let this occurrence of the unknown word remain as is.</p>\n"
-"<p>This action is useful when the word is a name, an acronym, a foreign word or any other unknown word that you want to use but not add to the dictionary.</p>\n"
+"<p>This action is useful when the word is a name, an acronym, a foreign word or "
+"any other unknown word that you want to use but not add to the dictionary.</p>\n"
 "</qt>"
 msgstr ""
 "<qt>\n"
 "<p>Tanılmağan süzne bulğanınça qaldıru öçen bonda çirtäse.</p>\n"
-"<p>Ul süz berär isem, qısqartma yä ki çit teldän bulğan çaqta, anı süzlekkä östämiçä, ütep tä bula.</p>\n"
+"<p>Ul süz berär isem, qısqartma yä ki çit teldän bulğan çaqta, anı süzlekkä "
+"östämiçä, ütep tä bula.</p>\n"
 "</qt>"
 
 #. i18n: file ./kdeui/kspellui.ui line 223
@@ -383,13 +444,16 @@ msgstr "Ba&rın Ütäse"
 #, no-c-format
 msgid ""
 "<qt>\n"
-"<p>Click here to let all occurrences of the unknown word remain as they are.</p>\n"
-"<p>This action is useful when the word is a name, an acronym, a foreign word or any other unknown word that you want to use but not add to the dictionary.</p>\n"
+"<p>Click here to let all occurrences of the unknown word remain as they are.</p>"
+"\n"
+"<p>This action is useful when the word is a name, an acronym, a foreign word or "
+"any other unknown word that you want to use but not add to the dictionary.</p>\n"
 "</qt>"
 msgstr ""
 "<qt>\n"
 "<p>Tanılmağan süzne bar cirlärdä dä bulğanınça qaldıru öçen bonda çirtäse.</p>\n"
-"<p>Ul süz berär isem, qısqartma yä ki çit teldän bulğan çaqta, anı süzlekkä östämiçä, bar cirlärendä dä ütep bula.</p>\n"
+"<p>Ul süz berär isem, qısqartma yä ki çit teldän bulğan çaqta, anı süzlekkä "
+"östämiçä, bar cirlärendä dä ütep bula.</p>\n"
 "</qt>"
 
 #. i18n: file ./kdeui/kspellui.ui line 248
@@ -425,11 +489,23 @@ msgstr "JavaScript Xatası"
 #. i18n: file ./khtml/kjserrordlg.ui line 20
 #: rc.cpp:235
 #, no-c-format
-msgid "This dialog provides you with notification and details of scripting errors that occur on web pages.  In many cases it is due to an error in the web site as designed by its author.  In other cases it is the result of a programming error in Konqueror.  If you suspect the former, please contact the webmaster of the site in question.  Conversely if you suspect an error in Konqueror, please file a bug report at http://bugs.kde.org/.  A test case which illustrates the problem will be appreciated."
-msgstr "Web-bitlärdä kilep çıqqan xatalarnı bu bittä kürep bula. Bulğan oçraqlarnıñ kübesendä ul xata şul bit yasalğanda kerep qalğan, qayçaqta säbäp Konqueror'nıñ üzendä bulala. Berençe oçraqta şul bit yasağan ostasın belderep bula. Konqueror xatası turında isä http://bugs.kde.org/ säxifäsendä belderü qaldırıp bula. Ul xatanı kürsätkän sınaw kisägen qaldıru da anı tözätergä bulışır."
+msgid ""
+"This dialog provides you with notification and details of scripting errors that "
+"occur on web pages.  In many cases it is due to an error in the web site as "
+"designed by its author.  In other cases it is the result of a programming error "
+"in Konqueror.  If you suspect the former, please contact the webmaster of the "
+"site in question.  Conversely if you suspect an error in Konqueror, please file "
+"a bug report at http://bugs.kde.org/.  A test case which illustrates the "
+"problem will be appreciated."
+msgstr ""
+"Web-bitlärdä kilep çıqqan xatalarnı bu bittä kürep bula. Bulğan oçraqlarnıñ "
+"kübesendä ul xata şul bit yasalğanda kerep qalğan, qayçaqta säbäp Konqueror'nıñ "
+"üzendä bulala. Berençe oçraqta şul bit yasağan ostasın belderep bula. Konqueror "
+"xatası turında isä http://bugs.kde.org/ säxifäsendä belderü qaldırıp bula. Ul "
+"xatanı kürsätkän sınaw kisägen qaldıru da anı tözätergä bulışır."
 
 #. i18n: file ./khtml/kjserrordlg.ui line 39
-#: kdeui/kstdaction_p.h:58 kdeui/kstdguiitem.cpp:159 rc.cpp:241
+#: kdeui/kstdaction_p.h:58 kdeui/kstdguiitem.cpp:161 rc.cpp:241
 #, no-c-format
 msgid "C&lear"
 msgstr "B&uşat"
@@ -576,7 +652,7 @@ msgstr "Bit"
 msgid "Border"
 msgstr "Çik"
 
-#: common_texts.cpp:32 kdeui/ktoolbar.cpp:2115
+#: common_texts.cpp:32 kdeui/ktoolbar.cpp:2116
 msgid "Orientation"
 msgstr "Yünäleş"
 
@@ -705,10 +781,10 @@ msgstr "&Turında"
 msgid "Untitled"
 msgstr "Atalmadı"
 
-#: common_texts.cpp:67 kdecore/kapplication.cpp:1379
-#: kdecore/kapplication.cpp:2201 kdecore/kapplication.cpp:2236
-#: kdecore/kapplication.cpp:2500 kdecore/kapplication.cpp:2522
-#: kdecore/kdebug.cpp:295 kdeui/kdialogbase.cpp:908 kdeui/kstdguiitem.cpp:97
+#: common_texts.cpp:67 kdecore/kapplication.cpp:1380
+#: kdecore/kapplication.cpp:2207 kdecore/kapplication.cpp:2242
+#: kdecore/kapplication.cpp:2506 kdecore/kapplication.cpp:2528
+#: kdecore/kdebug.cpp:295 kdeui/kdialogbase.cpp:908 kdeui/kstdguiitem.cpp:99
 msgid "&OK"
 msgstr "&OK"
 
@@ -720,15 +796,15 @@ msgstr "Açıq"
 msgid "Off"
 msgstr "Sünek"
 
-#: common_texts.cpp:73 kdeui/kdialogbase.cpp:938 kdeui/kstdguiitem.cpp:142
+#: common_texts.cpp:73 kdeui/kdialogbase.cpp:938 kdeui/kstdguiitem.cpp:144
 msgid "&Apply"
 msgstr "&Qabul"
 
-#: common_texts.cpp:74 kdecore/kstdaccel.cpp:48
+#: common_texts.cpp:74 kdecore/kstdaccel.cpp:52
 msgid "File"
 msgstr "Birem"
 
-#: common_texts.cpp:75 kdeui/kstdguiitem.cpp:118
+#: common_texts.cpp:75 kdeui/kstdguiitem.cpp:120
 msgid "&Discard"
 msgstr "&Yuğalası"
 
@@ -736,7 +812,7 @@ msgstr "&Yuğalası"
 msgid "Discard"
 msgstr "Yuğalası"
 
-#: common_texts.cpp:80 kdecore/kstdaccel.cpp:55
+#: common_texts.cpp:80 kdecore/kstdaccel.cpp:59
 msgid "Edit"
 msgstr "Üzgärtü..."
 
@@ -752,19 +828,19 @@ msgstr "Kürsätü"
 msgid "E&xit"
 msgstr "&Çığış"
 
-#: common_texts.cpp:86 kdecore/kstdaccel.cpp:54
+#: common_texts.cpp:86 kdecore/kstdaccel.cpp:58
 msgid "Quit"
 msgstr "Çığış"
 
-#: common_texts.cpp:87 kdeui/kstdaction_p.h:50 kdeui/kstdguiitem.cpp:230
+#: common_texts.cpp:87 kdeui/kstdaction_p.h:50 kdeui/kstdguiitem.cpp:232
 msgid "&Quit"
 msgstr "&Çığış"
 
-#: common_texts.cpp:88 kdecore/kstdaccel.cpp:84 kded/kbuildsycoca.cpp:781
+#: common_texts.cpp:88 kdecore/kstdaccel.cpp:88 kded/kbuildsycoca.cpp:782
 msgid "Reload"
 msgstr "Yaña Yöklä"
 
-#: common_texts.cpp:89 kdecore/kstdaccel.cpp:82
+#: common_texts.cpp:89 kdecore/kstdaccel.cpp:86
 msgid "Back"
 msgstr "Kire"
 
@@ -788,7 +864,7 @@ msgstr "Yaña Uyın"
 msgid "&New Game"
 msgstr "&Yaña Uyın"
 
-#: common_texts.cpp:99 kdecore/kkeyserver_x11.cpp:133 kdecore/kstdaccel.cpp:49
+#: common_texts.cpp:99 kdecore/kkeyserver_x11.cpp:133 kdecore/kstdaccel.cpp:53
 msgid "Open"
 msgstr "Aç"
 
@@ -800,7 +876,7 @@ msgstr "Birem Açu"
 msgid "Open..."
 msgstr "Açu..."
 
-#: common_texts.cpp:102 kdeui/kstdaction_p.h:41 kdeui/kstdguiitem.cpp:224
+#: common_texts.cpp:102 kdeui/kstdaction_p.h:41 kdeui/kstdguiitem.cpp:226
 msgid "&Open..."
 msgstr "&Açu..."
 
@@ -824,16 +900,16 @@ msgstr "&Ösyaq Töse"
 msgid "&Background Color"
 msgstr "&Asyaq Töse"
 
-#: common_texts.cpp:109 kdecore/kstdaccel.cpp:52
+#: common_texts.cpp:109 kdecore/kstdaccel.cpp:56
 msgid "Save"
 msgstr "Saqla"
 
-#: common_texts.cpp:110 kdeui/kstdaction_p.h:43 kdeui/kstdguiitem.cpp:125
+#: common_texts.cpp:110 kdeui/kstdaction_p.h:43 kdeui/kstdguiitem.cpp:127
 msgid "&Save"
 msgstr "&Saqla"
 
-#: common_texts.cpp:111 khtml/khtml_part.cpp:3899 khtml/khtml_part.cpp:4103
-#: khtml/khtml_part.cpp:4417 khtml/khtml_run.cpp:83 kparts/browserrun.cpp:411
+#: common_texts.cpp:111 khtml/khtml_part.cpp:3909 khtml/khtml_part.cpp:4113
+#: khtml/khtml_part.cpp:4427 khtml/khtml_run.cpp:83 kparts/browserrun.cpp:411
 msgid "Save As"
 msgstr "Yañaça Saqlaw..."
 
@@ -845,7 +921,7 @@ msgstr "Yañaça Saqlaw..."
 msgid "S&ave As..."
 msgstr "Y&añaça Saqlaw..."
 
-#: common_texts.cpp:116 kdeui/kstdaction_p.h:47 kdeui/kstdguiitem.cpp:205
+#: common_texts.cpp:116 kdeui/kstdaction_p.h:47 kdeui/kstdguiitem.cpp:207
 msgid "&Print..."
 msgstr "&Bastıru..."
 
@@ -853,11 +929,11 @@ msgstr "&Bastıru..."
 msgid "Sorry"
 msgstr "Ğafu it"
 
-#: common_texts.cpp:119 kdeui/kstdguiitem.cpp:267
+#: common_texts.cpp:119 kdeui/kstdguiitem.cpp:269
 msgid "Remove"
 msgstr "Töşer"
 
-#: common_texts.cpp:120 kdeui/kstdguiitem.cpp:262
+#: common_texts.cpp:120 kdeui/kstdguiitem.cpp:264
 msgid "Add"
 msgstr "Östä"
 
@@ -865,7 +941,7 @@ msgstr "Östä"
 msgid "Change"
 msgstr "Üzgärt"
 
-#: common_texts.cpp:123 kdeui/kstdguiitem.cpp:218
+#: common_texts.cpp:123 kdeui/kstdguiitem.cpp:220
 msgid "&Delete"
 msgstr "&Beter"
 
@@ -899,7 +975,7 @@ msgstr "Saylaw..."
 
 #: common_texts.cpp:137 kdecore/kkeyserver_x11.cpp:127 kdeui/keditcl2.cpp:107
 #: kdeui/keditcl2.cpp:120 kdeui/keditcl2.cpp:377 kdeui/keditcl2.cpp:390
-#: kdeui/keditcl2.cpp:456 kdeui/keditcl2.cpp:469 kdeui/kstdguiitem.cpp:257
+#: kdeui/keditcl2.cpp:456 kdeui/keditcl2.cpp:469 kdeui/kstdguiitem.cpp:259
 #: khtml/ecma/kjs_debugwin.cpp:458 kutils/kreplace.cpp:319
 msgid "Stop"
 msgstr "Tuqta"
@@ -913,7 +989,7 @@ msgstr "&Beter"
 msgid "&Properties..."
 msgstr "&Üzençälege..."
 
-#: common_texts.cpp:140 kdeui/kstdguiitem.cpp:277
+#: common_texts.cpp:140 kdeui/kstdguiitem.cpp:279
 msgid "Properties"
 msgstr "Üzençälege"
 
@@ -962,7 +1038,7 @@ msgid "Appearance"
 msgstr "Küreneş"
 
 #: common_texts.cpp:152 kdecore/kkeyserver_x11.cpp:137
-#: kdecore/kstdaccel.cpp:53
+#: kdecore/kstdaccel.cpp:57
 msgid "Print"
 msgstr "Bastır"
 
@@ -1021,7 +1097,7 @@ msgid "&Previous"
 msgstr "&Uzğanı"
 
 #: common_texts.cpp:170 kcert/kcertpart.cc:730 kcert/kcertpart.cc:746
-#: kdecore/kstdaccel.cpp:69 kdeui/keditcl2.cpp:456 kdeui/keditcl2.cpp:469
+#: kdecore/kstdaccel.cpp:73 kdeui/keditcl2.cpp:456 kdeui/keditcl2.cpp:469
 #: kdeui/keditcl2.cpp:830 kutils/kreplace.cpp:45 kutils/kreplace.cpp:49
 msgid "Replace"
 msgstr "Almaştır"
@@ -1036,7 +1112,7 @@ msgstr "&Almaştıru..."
 msgid "Default"
 msgstr "Ğädäti"
 
-#: common_texts.cpp:174 kdeui/kstdguiitem.cpp:178
+#: common_texts.cpp:174 kdeui/kstdguiitem.cpp:180
 msgid "&Defaults"
 msgstr "&Ğädäti"
 
@@ -1052,7 +1128,7 @@ msgstr "Soñğını Aç"
 msgid "Open &Recent"
 msgstr "S&oñğını Aç"
 
-#: common_texts.cpp:179 kdeui/kstdaction_p.h:61 khtml/khtml_part.cpp:4220
+#: common_texts.cpp:179 kdeui/kstdaction_p.h:61 khtml/khtml_part.cpp:4230
 msgid "&Find..."
 msgstr "&Ezläw..."
 
@@ -1505,7 +1581,7 @@ msgstr "Email"
 msgid "Personal"
 msgstr "Şäxsi"
 
-#: kab/addressbook.cc:176 kabc/addressee.cpp:718 kabc/field.cpp:211
+#: kab/addressbook.cc:176 kabc/addressee.cpp:721 kabc/field.cpp:211
 #: kabc/scripts/field.src.cpp:107
 msgid "Organization"
 msgstr "Oyışma"
@@ -1523,8 +1599,12 @@ msgid "Override existing entries"
 msgstr "Bulğan keremnärne almaştırası"
 
 #: kabc/kab2kabc.cpp:287
-msgid "Address book file <b>%1</b> not found! Make sure the old address book is located there and you have read permission for this file."
-msgstr "Adres däftäreneñ <b>%1</b> bireme tabılmadı! İske adres däftäreneneñ buluı belän anı uqırlıq xoquqlar buluın tikşerep alırğa kiräk."
+msgid ""
+"Address book file <b>%1</b> not found! Make sure the old address book is "
+"located there and you have read permission for this file."
+msgstr ""
+"Adres däftäreneñ <b>%1</b> bireme tabılmadı! İske adres däftäreneneñ buluı "
+"belän anı uqırlıq xoquqlar buluın tikşerep alırğa kiräk."
 
 #: kabc/kab2kabc.cpp:435
 msgid "Kab to Kabc Converter"
@@ -1633,7 +1713,7 @@ msgid ""
 "Car"
 msgstr "Arbada"
 
-#: kabc/addressee.cpp:592 kabc/phonenumber.cpp:184
+#: kabc/addressee.cpp:595 kabc/phonenumber.cpp:184
 msgid "ISDN"
 msgstr "ISDN"
 
@@ -1641,11 +1721,11 @@ msgstr "ISDN"
 msgid "PCS"
 msgstr "PCS"
 
-#: kabc/addressee.cpp:598 kabc/phonenumber.cpp:190
+#: kabc/addressee.cpp:601 kabc/phonenumber.cpp:190
 msgid "Pager"
 msgstr "Bitçe"
 
-#: kabc/addressee.cpp:574 kabc/phonenumber.cpp:193
+#: kabc/addressee.cpp:577 kabc/phonenumber.cpp:193
 msgid "Home Fax"
 msgstr "Öy Faksı"
 
@@ -1653,7 +1733,7 @@ msgstr "Öy Faksı"
 msgid "Work Fax"
 msgstr "Eş Faksı"
 
-#: kabc/address.cpp:312 kabc/phonenumber.cpp:199 kdecore/kcharsets.cpp:45
+#: kabc/address.cpp:312 kabc/phonenumber.cpp:199 kdecore/kcharsets.cpp:43
 msgid "Other"
 msgstr "Başqa"
 
@@ -1686,11 +1766,11 @@ msgstr "Tezmäne Beter"
 msgid "Available addresses:"
 msgstr "Barlıqta adreslar:"
 
-#: kabc/addressee.cpp:326 kabc/addresseedialog.cpp:70
+#: kabc/addressee.cpp:329 kabc/addresseedialog.cpp:70
 #: kabc/addresseedialog.cpp:100 kabc/distributionlistdialog.cpp:174
 #: kabc/distributionlistdialog.cpp:189 kabc/distributionlisteditor.cpp:142
-#: kabc/distributionlisteditor.cpp:161 knewstuff/downloaddialog.cpp:259
-#: knewstuff/downloaddialog.cpp:265 knewstuff/downloaddialog.cpp:271
+#: kabc/distributionlisteditor.cpp:161 knewstuff/downloaddialog.cpp:264
+#: knewstuff/downloaddialog.cpp:270 knewstuff/downloaddialog.cpp:276
 #: knewstuff/providerdialog.cpp:65 kresources/configpage.cpp:119
 #: kutils/kpluginselector.cpp:200
 msgid "Name"
@@ -1894,7 +1974,7 @@ msgstr "Uram"
 msgid "Locality"
 msgstr "Urnaşılu"
 
-#: kabc/address.cpp:217
+#: kabc/address.cpp:217 kdeui/ktimezonewidget.cpp:46
 msgid "Region"
 msgstr "Töbäk"
 
@@ -2000,171 +2080,171 @@ msgstr "vCard Kileş"
 msgid "No description available."
 msgstr "Açıqlamalar yuq."
 
-#: kabc/addressee.cpp:308 kabc/scripts/addressee.src.cpp:177
+#: kabc/addressee.cpp:311 kabc/scripts/addressee.src.cpp:180
 msgid "Unique Identifier"
 msgstr "Qabatsız Tanıtma"
 
-#: kab/addressbook.cc:271 kabc/addressee.cpp:345
+#: kab/addressbook.cc:271 kabc/addressee.cpp:348
 msgid "Formatted Name"
 msgstr "Endäşü İseme"
 
-#: kabc/addressee.cpp:364
+#: kabc/addressee.cpp:367
 msgid "Family Name"
 msgstr "Näsel Adı"
 
-#: kabc/addressee.cpp:383
+#: kabc/addressee.cpp:386
 msgid "Given Name"
 msgstr "Birelgän Atama"
 
-#: kabc/addressee.cpp:402
+#: kabc/addressee.cpp:405
 msgid "Additional Names"
 msgstr "Östämä Atama"
 
-#: kabc/addressee.cpp:421
+#: kabc/addressee.cpp:424
 msgid "Honorific Prefixes"
 msgstr "Xörmätle Möräcäğät (Aldan)"
 
-#: kabc/addressee.cpp:440
+#: kabc/addressee.cpp:443
 msgid "Honorific Suffixes"
 msgstr "Xörmätle Möräcäğät (Arttan)"
 
-#: kabc/addressee.cpp:459
+#: kabc/addressee.cpp:462
 msgid "Nick Name"
 msgstr "Quşamat"
 
-#: kab/addressbook.cc:291 kabc/addressee.cpp:478
+#: kab/addressbook.cc:291 kabc/addressee.cpp:481
 msgid "Birthday"
 msgstr "Tuu köne"
 
-#: kabc/addressee.cpp:484
+#: kabc/addressee.cpp:487
 msgid "Home Address Street"
 msgstr "Öy Adrese, Uram"
 
-#: kabc/addressee.cpp:490
+#: kabc/addressee.cpp:493
 msgid "Home Address City"
 msgstr "Öy Adrese, Qala"
 
-#: kabc/addressee.cpp:496
+#: kabc/addressee.cpp:499
 msgid "Home Address State"
 msgstr "Öy Adrese, Töbäk"
 
-#: kabc/addressee.cpp:502
+#: kabc/addressee.cpp:505
 msgid "Home Address Zip Code"
 msgstr "Öy Adrese, Poşt Sanı"
 
-#: kabc/addressee.cpp:508
+#: kabc/addressee.cpp:511
 msgid "Home Address Country"
 msgstr "Öy Adrese, İl"
 
-#: kabc/addressee.cpp:514
+#: kabc/addressee.cpp:517
 msgid "Home Address Label"
 msgstr "Öy Adrese, Yazma"
 
-#: kabc/addressee.cpp:520
+#: kabc/addressee.cpp:523
 msgid "Business Address Street"
 msgstr "Eş Urını, Uram"
 
-#: kabc/addressee.cpp:526
+#: kabc/addressee.cpp:529
 msgid "Business Address City"
 msgstr "Eş Urını, Qala"
 
-#: kabc/addressee.cpp:532
+#: kabc/addressee.cpp:535
 msgid "Business Address State"
 msgstr "Eş Urını, Töbäk"
 
-#: kabc/addressee.cpp:538
+#: kabc/addressee.cpp:541
 msgid "Business Address Zip Code"
 msgstr "Eş Urını, Poşt Sanı"
 
-#: kabc/addressee.cpp:544
+#: kabc/addressee.cpp:547
 msgid "Business Address Country"
 msgstr "Eş Urını, İl"
 
-#: kabc/addressee.cpp:550
+#: kabc/addressee.cpp:553
 msgid "Business Address Label"
 msgstr "Eş Urını, Tamğa"
 
-#: kabc/addressee.cpp:556
+#: kabc/addressee.cpp:559
 msgid "Home Phone"
 msgstr "Öydä Telefon"
 
-#: kabc/addressee.cpp:562
+#: kabc/addressee.cpp:565
 msgid "Business Phone"
 msgstr "Eştä Telefon"
 
-#: kabc/addressee.cpp:568
+#: kabc/addressee.cpp:571
 msgid "Mobile Phone"
 msgstr "Kesä Telefonı"
 
-#: kabc/addressee.cpp:580
+#: kabc/addressee.cpp:583
 msgid "Business Fax"
 msgstr "Eştä Fax"
 
-#: kabc/addressee.cpp:586
+#: kabc/addressee.cpp:589
 msgid "Car Phone"
 msgstr "Arbada Telefon"
 
-#: kabc/addressee.cpp:604
+#: kabc/addressee.cpp:607
 msgid "Email Address"
 msgstr "Email Adres"
 
-#: kabc/addressee.cpp:623
+#: kabc/addressee.cpp:626
 msgid "Mail Client"
 msgstr "Xat Kliente"
 
-#: kabc/addressee.cpp:642
+#: kabc/addressee.cpp:645
 msgid "Time Zone"
 msgstr "Waqıt Quşağı"
 
-#: kabc/addressee.cpp:661
+#: kabc/addressee.cpp:664
 msgid "Geographic Position"
 msgstr "Cir Urınlaşuı"
 
-#: kab/addressbook.cc:263 kabc/addressee.cpp:680
+#: kab/addressbook.cc:263 kabc/addressee.cpp:683
 msgid "Title"
 msgstr "Başlıq"
 
-#: kabc/addressee.cpp:699
+#: kabc/addressee.cpp:702
 msgid "Role"
 msgstr "Eşe"
 
-#: kabc/addressee.cpp:737
+#: kabc/addressee.cpp:740
 msgid "Note"
 msgstr "Yazma"
 
-#: kabc/addressee.cpp:756
+#: kabc/addressee.cpp:759
 msgid "Product Identifier"
 msgstr "Eşlänmä Bilgelänüe"
 
-#: kabc/addressee.cpp:775
+#: kabc/addressee.cpp:778
 msgid "Revision Date"
 msgstr "Çığış Çağı"
 
-#: kabc/addressee.cpp:794
+#: kabc/addressee.cpp:797
 msgid "Sort String"
 msgstr "Yul Tezü"
 
-#: kabc/addressee.cpp:813 kdeui/kaboutdialog.cpp:92
+#: kabc/addressee.cpp:816 kdeui/kaboutdialog.cpp:92
 msgid "Homepage"
 msgstr "Anabit"
 
-#: kabc/addressee.cpp:832
+#: kabc/addressee.cpp:835
 msgid "Security Class"
 msgstr "İminlek Sínıfı"
 
-#: kabc/addressee.cpp:851
+#: kabc/addressee.cpp:854
 msgid "Logo"
 msgstr "Logo"
 
-#: kabc/addressee.cpp:870
+#: kabc/addressee.cpp:873
 msgid "Photo"
 msgstr "Foto"
 
-#: kabc/addressee.cpp:889
+#: kabc/addressee.cpp:892
 msgid "Sound"
 msgstr "Tawış"
 
-#: kabc/addressee.cpp:908
+#: kabc/addressee.cpp:911
 msgid "Agent"
 msgstr "Eşçe"
 
@@ -2231,7 +2311,7 @@ msgstr ""
 msgid "kde-menu"
 msgstr "kde-saylaq"
 
-#: kded/kbuildsycoca.cpp:752 kded/kbuildsycoca.cpp:753 kded/kde-menu.cpp:119
+#: kded/kbuildsycoca.cpp:753 kded/kbuildsycoca.cpp:754 kded/kde-menu.cpp:119
 #: kded/khostname.cpp:358 kdeui/kaboutdialog.cpp:90
 msgid "Author"
 msgstr "Yazuçı"
@@ -2241,8 +2321,12 @@ msgid "You must specify an application-id such as 'kde-konsole.desktop'"
 msgstr "application-id bilgelise bar, ü.ö. 'kde-konsole.desktop' itep"
 
 #: kded/kde-menu.cpp:142
-msgid "You must specify at least one of --print-menu-id, --print-menu-name or --highlight"
-msgstr "Bolar arasınnan kimendä bersen bilgelise bar: --print-menu-id, --print-menu-name, --highlight"
+msgid ""
+"You must specify at least one of --print-menu-id, --print-menu-name or "
+"--highlight"
+msgstr ""
+"Bolar arasınnan kimendä bersen bilgelise bar: --print-menu-id, "
+"--print-menu-name, --highlight"
 
 #: kded/kde-menu.cpp:164
 msgid "No menu item '%1'."
@@ -2261,12 +2345,16 @@ msgid "New hostname"
 msgstr "Hostnıñ yaña adı"
 
 #: kded/khostname.cpp:79
-msgid "Error: HOME environment variable not set.\n"
-msgstr "Xata: tirä-yaqnıñ HOME üzgärelmäse bilgelänmi qalğan.\n"
+msgid ""
+"Error: HOME environment variable not set.\n"
+msgstr ""
+"Xata: tirä-yaqnıñ HOME üzgärelmäse bilgelänmi qalğan.\n"
 
 #: kded/khostname.cpp:88
-msgid "Error: DISPLAY environment variable not set.\n"
-msgstr "Xata: tirä-yaqnıñ DISPLAY üzgärelmäse bilgelänmi qalğan.\n"
+msgid ""
+"Error: DISPLAY environment variable not set.\n"
+msgstr ""
+"Xata: tirä-yaqnıñ DISPLAY üzgärelmäse bilgelänmi qalğan.\n"
 
 #: kded/khostname.cpp:355
 msgid "KDontChangeTheHostName"
@@ -2276,96 +2364,98 @@ msgstr "KDontChangeTheHostName"
 msgid "Informs KDE about a change in hostname"
 msgstr "Host adında üzgäreşlär turında KDE'gä äytä"
 
-#: kded/kded.cpp:668
+#: kded/kded.cpp:673
 msgid "Check Sycoca database only once"
 msgstr "Sycoca biremlegen ber tapqır ğına tikşeräse"
 
-#: kded/kded.cpp:796
+#: kded/kded.cpp:803
 msgid "KDE Daemon"
 msgstr "KDE Xezmäte"
 
-#: kded/kded.cpp:798
+#: kded/kded.cpp:805
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
 msgstr "KDE Xezmäte - Sycoca biremleklär yañartuların kiräk çaqta küçerä"
 
 #: kded/kbuildsycoca.cpp:498
 msgid ""
 "Error creating database '%1'.\n"
-"Check that the permissions are correct on the directory and the disk is not full.\n"
+"Check that the permissions are correct on the directory and the disk is not "
+"full.\n"
 msgstr ""
 "'%1' biremlegen yasaw xatası.\n"
 "Bu törgäkkä ireşerlek xoquqlarnıñ buluı belän disk tulı bulmawın tikşeräse.\n"
 
 #: kded/kbuildsycoca.cpp:498 kded/kbuildsycoca.cpp:527
-#: kded/kbuildsycoca.cpp:749
+#: kded/kbuildsycoca.cpp:750
 msgid "KBuildSycoca"
 msgstr "KBuildSycoca"
 
 #: kded/kbuildsycoca.cpp:527
 msgid ""
 "Error writing database '%1'.\n"
-"Check that the permissions are correct on the directory and the disk is not full.\n"
+"Check that the permissions are correct on the directory and the disk is not "
+"full.\n"
 msgstr ""
 "'%1' biremlegenä yazu xatası.\n"
 "Bu törgäkkä ireşerlek xoquqlarnıñ buluı belän disk tulı bulmawın tikşeräse.\n"
 
-#: kded/kbuildsycoca.cpp:723
+#: kded/kbuildsycoca.cpp:724
 msgid "Do not signal applications to update"
 msgstr "Yazılımğa yañartu ımlawın cibärmäskä"
 
-#: kded/kbuildsycoca.cpp:724
+#: kded/kbuildsycoca.cpp:725
 msgid "Disable incremental update, re-read everything"
 msgstr "Arttırılıp yañartunı sünderep, barısın da uqıp çığası"
 
-#: kded/kbuildsycoca.cpp:725
+#: kded/kbuildsycoca.cpp:726
 msgid "Check file timestamps"
 msgstr "Waqıt tamğaların tikşeräse"
 
-#: kded/kbuildsycoca.cpp:726
+#: kded/kbuildsycoca.cpp:727
 msgid "Disable checking files (dangerous)"
 msgstr "Birem tikşerü sünderäse (qurqınıç)"
 
-#: kded/kbuildsycoca.cpp:727
+#: kded/kbuildsycoca.cpp:728
 msgid "Create global database"
 msgstr "Ğömümi biremlek yasaw"
 
-#: kded/kbuildsycoca.cpp:728
+#: kded/kbuildsycoca.cpp:729
 msgid "Perform menu generation test run only"
 msgstr "Saylaq ürçätü sınawın ğına ütkärü"
 
-#: kded/kbuildsycoca.cpp:729
+#: kded/kbuildsycoca.cpp:730
 msgid "Track menu id for debug purposes"
 msgstr "Tözätü öçen saylaq tanıtmasın saqlísı"
 
-#: kded/kbuildsycoca.cpp:731
+#: kded/kbuildsycoca.cpp:732
 msgid "Silent - work without windows and stderr"
 msgstr "Tınıç - täräzäsez dä, stderr'sez dä eşlise"
 
-#: kded/kbuildsycoca.cpp:732
+#: kded/kbuildsycoca.cpp:733
 msgid "Show progress information (even if 'silent' mode is on)"
 msgstr "Alğabarış belemen kürsätäse ('tınıç' ısul açıq bulsa da)"
 
-#: kded/kbuildsycoca.cpp:750
+#: kded/kbuildsycoca.cpp:751
 msgid "Rebuilds the system configuration cache."
 msgstr "Sistem caylawınıñ alxäteren qabat yasaw."
 
-#: kded/kbuildsycoca.cpp:778
+#: kded/kbuildsycoca.cpp:779
 msgid "Reloading KDE configuration, please wait..."
 msgstr "KDE caylawı qabat yöklänä, beraz kötäze..."
 
-#: kded/kbuildsycoca.cpp:779
+#: kded/kbuildsycoca.cpp:780
 msgid "KDE Configuration Manager"
 msgstr "KDE Caylaw İdäräçese"
 
-#: kded/kbuildsycoca.cpp:781
+#: kded/kbuildsycoca.cpp:782
 msgid "Do you want to reload KDE configuration?"
 msgstr "KDE caylanuın yañadan kökliseme?"
 
-#: kded/kbuildsycoca.cpp:781
+#: kded/kbuildsycoca.cpp:782
 msgid "Do Not Reload"
 msgstr "Yañadan Yöklämäskä"
 
-#: kded/kbuildsycoca.cpp:964
+#: kded/kbuildsycoca.cpp:965
 msgid "Configuration information reloaded successfully."
 msgstr "Caylaw belemen qabat yökläw uñışlı uzdı."
 
@@ -2552,19 +2642,24 @@ msgstr "%1 tuplaması KDE belän kileşkän ürçetkeç birä almí."
 msgid "Library files for \"%1\" not found in paths."
 msgstr "\"%1\" öçen tuplmama biremnäre yullarda tabılmadı."
 
-#: kdecore/kapplication.cpp:930
-msgid "_: Dear Translator! Translate this string to the string 'LTR' in left-to-right languages (as english) or to 'RTL' in right-to-left languages (such as Hebrew and Arabic) to get proper widget layout."
+#: kdecore/kapplication.cpp:931
+msgid ""
+"_: Dear Translator! Translate this string to the string 'LTR' in left-to-right "
+"languages (as english) or to 'RTL' in right-to-left languages (such as Hebrew "
+"and Arabic) to get proper widget layout."
 msgstr "LTR"
 
-#: kdecore/kapplication.cpp:1366
+#: kdecore/kapplication.cpp:1367
 msgid ""
-"There was an error setting up inter-process communications for KDE. The message returned by the system was:\n"
+"There was an error setting up inter-process communications for KDE. The message "
+"returned by the system was:\n"
 "\n"
 msgstr ""
-"KDE öçen eşlänü-ara elemtä qorğanda xata çıqtı. Sistem qaytarğan belderüe bondí:\n"
+"KDE öçen eşlänü-ara elemtä qorğanda xata çıqtı. Sistem qaytarğan belderüe "
+"bondí:\n"
 "\n"
 
-#: kdecore/kapplication.cpp:1370
+#: kdecore/kapplication.cpp:1371
 msgid ""
 "\n"
 "\n"
@@ -2574,23 +2669,23 @@ msgstr ""
 "\n"
 "\"dcopserver\" yazılımı cibärelgän dip tamğala zinhar!"
 
-#: kdecore/kapplication.cpp:1377
+#: kdecore/kapplication.cpp:1378
 msgid "DCOP communications error (%1)"
 msgstr "DCOP totaşılu xatası (%1)"
 
-#: kdecore/kapplication.cpp:1395
+#: kdecore/kapplication.cpp:1396
 msgid "Use the X-server display 'displayname'"
 msgstr "X-serverneñ 'displayname' digän küräk qullanası"
 
-#: kdecore/kapplication.cpp:1397
+#: kdecore/kapplication.cpp:1398
 msgid "Use the QWS display 'displayname'"
 msgstr "QWS'nıñ 'displayname' kürägen qullanası"
 
-#: kdecore/kapplication.cpp:1399
+#: kdecore/kapplication.cpp:1400
 msgid "Restore the application for the given 'sessionId'"
 msgstr "Yazılımnı 'sessionId' buyınça tözätäse"
 
-#: kdecore/kapplication.cpp:1400
+#: kdecore/kapplication.cpp:1401
 msgid ""
 "Causes the application to install a private color\n"
 "map on an 8-bit display"
@@ -2598,7 +2693,7 @@ msgstr ""
 "8-bit küräk qullanılğan çaqta yazılım\n"
 "üz töslär caylawın quyaçaq"
 
-#: kdecore/kapplication.cpp:1401
+#: kdecore/kapplication.cpp:1402
 msgid ""
 "Limits the number of colors allocated in the color\n"
 "cube on an 8-bit display, if the application is\n"
@@ -2609,11 +2704,11 @@ msgstr ""
 "Bu yazılım QApplication::ManyColor ısulın \n"
 "qullansa ğına bu köylämä eşläyäçäk."
 
-#: kdecore/kapplication.cpp:1402
+#: kdecore/kapplication.cpp:1403
 msgid "tells Qt to never grab the mouse or the keyboard"
 msgstr "Qt'ğa küse belän töylekne berqayçan da sözmäskä di"
 
-#: kdecore/kapplication.cpp:1403
+#: kdecore/kapplication.cpp:1404
 msgid ""
 "running under a debugger can cause an implicit\n"
 "-nograb, use -dograb to override"
@@ -2621,15 +2716,15 @@ msgstr ""
 "betçedä cibärelgän çaqta anıqsız itep -nograb\n"
 "ısulı qullanıla, anı almaştıru öçen -dograb östise"
 
-#: kdecore/kapplication.cpp:1404
+#: kdecore/kapplication.cpp:1405
 msgid "switches to synchronous mode for debugging"
 msgstr "betsezläw öçen sinxron ısulın aça"
 
-#: kdecore/kapplication.cpp:1406
+#: kdecore/kapplication.cpp:1407
 msgid "defines the application font"
 msgstr "bu yazılım yazuın bilgeli"
 
-#: kdecore/kapplication.cpp:1408
+#: kdecore/kapplication.cpp:1409
 msgid ""
 "sets the default background color and an\n"
 "application palette (light and dark shades are\n"
@@ -2639,23 +2734,23 @@ msgstr ""
 "köyläwen bilgeli (yaqtı belän qaranğı külägälär\n"
 "sanalaçaq)"
 
-#: kdecore/kapplication.cpp:1410
+#: kdecore/kapplication.cpp:1411
 msgid "sets the default foreground color"
 msgstr "alyaq öçen töp tös bilgeli"
 
-#: kdecore/kapplication.cpp:1412
+#: kdecore/kapplication.cpp:1413
 msgid "sets the default button color"
 msgstr "töymä öçen töp tös bilgeli"
 
-#: kdecore/kapplication.cpp:1413
+#: kdecore/kapplication.cpp:1414
 msgid "sets the application name"
 msgstr "yazılım adın bilgeli"
 
-#: kdecore/kapplication.cpp:1414
+#: kdecore/kapplication.cpp:1415
 msgid "sets the application title (caption)"
 msgstr "yazılım başlığın bilgeli"
 
-#: kdecore/kapplication.cpp:1416
+#: kdecore/kapplication.cpp:1417
 msgid ""
 "forces the application to use a TrueColor visual on\n"
 "an 8-bit display"
@@ -2663,7 +2758,7 @@ msgstr ""
 "bu yazılımğa 8-bit küräk belän tulıtösle belän kebek\n"
 "eşlärgä quşa"
 
-#: kdecore/kapplication.cpp:1417
+#: kdecore/kapplication.cpp:1418
 msgid ""
 "sets XIM (X Input Method) input style. Possible\n"
 "values are onthespot, overthespot, offthespot and\n"
@@ -2672,72 +2767,77 @@ msgstr ""
 "XIM (X Input Method) kertü ısulın bilgeli. Qullanırlıq\n"
 "bäyälär: onthespot, overthespot, offthespot, root"
 
-#: kdecore/kapplication.cpp:1418
+#: kdecore/kapplication.cpp:1419
 msgid "set XIM server"
 msgstr "XIM server bilgeli"
 
-#: kdecore/kapplication.cpp:1419
+#: kdecore/kapplication.cpp:1420
 msgid "disable XIM"
 msgstr "XIM sünderü"
 
-#: kdecore/kapplication.cpp:1422
+#: kdecore/kapplication.cpp:1423
 msgid "forces the application to run as QWS Server"
 msgstr "yazılımğa QWS Server itep eşlärgä quşa"
 
-#: kdecore/kapplication.cpp:1424
+#: kdecore/kapplication.cpp:1425
 msgid "mirrors the whole layout of widgets"
 msgstr "widgetlärneñ urınlaşuın közgeli"
 
-#: kdecore/kapplication.cpp:1430
+#: kdecore/kapplication.cpp:1431
 msgid "Use 'caption' as name in the titlebar"
 msgstr "Bu başlıq adı itep 'caption' qullanası"
 
-#: kdecore/kapplication.cpp:1431
+#: kdecore/kapplication.cpp:1432
 msgid "Use 'icon' as the application icon"
 msgstr "Bu yazılım tamğası itep 'icon' qullanası"
 
-#: kdecore/kapplication.cpp:1432
+#: kdecore/kapplication.cpp:1433
 msgid "Use 'icon' as the icon in the titlebar"
 msgstr "Bu başlıq tamğası itep 'icon' qullanası"
 
-#: kdecore/kapplication.cpp:1433
+#: kdecore/kapplication.cpp:1434
 msgid "Use alternative configuration file"
 msgstr "Caylawnıñ almaştırma birem qullanası"
 
-#: kdecore/kapplication.cpp:1434
+#: kdecore/kapplication.cpp:1435
 msgid "Use the DCOP Server specified by 'server'"
 msgstr "'server' digän DCOP Server qullanası"
 
-#: kdecore/kapplication.cpp:1435
+#: kdecore/kapplication.cpp:1436
 msgid "Disable crash handler, to get core dumps"
 msgstr "Cimerelü totqıçın sünderep, core dump alası"
 
-#: kdecore/kapplication.cpp:1436
+#: kdecore/kapplication.cpp:1437
 msgid "Waits for a WM_NET compatible windowmanager"
 msgstr "WM_NET belän kileşkän täräzä-citäkçe kötäse"
 
-#: kdecore/kapplication.cpp:1437
+#: kdecore/kapplication.cpp:1438
 msgid "sets the application GUI style"
 msgstr "bu yazılımğa Sızımlı Yözara quya"
 
-#: kdecore/kapplication.cpp:1438
-msgid "sets the client geometry of the main widget - see man X for the argument format"
-msgstr "töp täräzäneñ urınlaşuı belän ülçämen bilgeli – ul köylämä tözeleşe turında man X qarísı"
+#: kdecore/kapplication.cpp:1439
+msgid ""
+"sets the client geometry of the main widget - see man X for the argument format"
+msgstr ""
+"töp täräzäneñ urınlaşuı belän ülçämen bilgeli – ul köylämä tözeleşe turında man "
+"X qarísı"
 
-#: kdecore/kapplication.cpp:1478
-msgid "The style %1 was not found\n"
-msgstr "%1 digän bizäleş tabılmadı\n"
+#: kdecore/kapplication.cpp:1479
+msgid ""
+"The style %1 was not found\n"
+msgstr ""
+"%1 digän bizäleş tabılmadı\n"
 
-#: kdecore/kapplication.cpp:1934 kstyles/klegacy/klegacystyle.cpp:3044
+#: kdecore/kapplication.cpp:1940 kstyles/klegacy/klegacystyle.cpp:3044
 #: kstyles/web/webstyle.cpp:1604
 msgid "modified"
 msgstr "üzgärelde"
 
-#: kdecore/kapplication.cpp:2200 kdecore/kapplication.cpp:2235
+#: kdecore/kapplication.cpp:2206 kdecore/kapplication.cpp:2241
 msgid "Could not Launch Help Center"
 msgstr "Yärdäm Üzägen Cibärep Bulmadı"
 
-#: kdecore/kapplication.cpp:2201 kdecore/kapplication.cpp:2236
+#: kdecore/kapplication.cpp:2207 kdecore/kapplication.cpp:2242
 #, c-format
 msgid ""
 "Could not launch the KDE Help Center:\n"
@@ -2748,11 +2848,11 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdecore/kapplication.cpp:2499
+#: kdecore/kapplication.cpp:2505
 msgid "Could not Launch Mail Client"
 msgstr "Xat Klienten Cibärep Bulmadı"
 
-#: kdecore/kapplication.cpp:2500
+#: kdecore/kapplication.cpp:2506
 #, c-format
 msgid ""
 "Could not launch the mail client:\n"
@@ -2763,11 +2863,11 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdecore/kapplication.cpp:2521
+#: kdecore/kapplication.cpp:2527
 msgid "Could not Launch Browser"
 msgstr "Gizgeç Cibärep Bulmadı"
 
-#: kdecore/kapplication.cpp:2522
+#: kdecore/kapplication.cpp:2528
 #, c-format
 msgid ""
 "Could not launch the browser:\n"
@@ -2778,13 +2878,17 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdecore/kapplication.cpp:2586
-msgid "Could not register with DCOP.\n"
-msgstr "DCOP belän terkäp bulmadı.\n"
+#: kdecore/kapplication.cpp:2592
+msgid ""
+"Could not register with DCOP.\n"
+msgstr ""
+"DCOP belän terkäp bulmadı.\n"
 
-#: kdecore/kapplication.cpp:2618
-msgid "KLauncher could not be reached via DCOP.\n"
-msgstr "DCOP aşa KLauncher'ğa ireşep bulmí.\n"
+#: kdecore/kapplication.cpp:2624
+msgid ""
+"KLauncher could not be reached via DCOP.\n"
+msgstr ""
+"DCOP aşa KLauncher'ğa ireşep bulmí.\n"
 
 #: kdecore/kwinmodule.cpp:413
 #, c-format
@@ -2792,12 +2896,16 @@ msgid "Desktop %1"
 msgstr "%1 Östäl"
 
 #: kdecore/kconfigbackend.cpp:1087 kdecore/kconfigbackend.cpp:1096
-msgid "Will not save configuration.\n"
-msgstr "Caylaw saqlanmayaçaq.\n"
+msgid ""
+"Will not save configuration.\n"
+msgstr ""
+"Caylaw saqlanmayaçaq.\n"
 
 #: kdecore/kconfigbackend.cpp:1089 kdecore/kconfigbackend.cpp:1097
-msgid "Configuration file \"%1\" not writable.\n"
-msgstr "\"%1\" atlı caybirem yazırlıq tügel.\n"
+msgid ""
+"Configuration file \"%1\" not writable.\n"
+msgstr ""
+"\"%1\" atlı caybirem yazırlıq tügel.\n"
 
 #: kdecore/kconfigbackend.cpp:1104
 msgid "Please contact your system administrator."
@@ -2824,27 +2932,29 @@ msgstr ""
 msgid "This application was written by somebody who wants to remain anonymous."
 msgstr "Bu yazılımnı, tanılırğa telämägän keşe yazğan."
 
-#: kdecore/kcmdlineargs.cpp:623
-msgid "Please use http://bugs.kde.org to report bugs, do not mail the authors directly.\n"
-msgstr "Xatalar turında http://bugs.kde.org adresına belderäse, yazuçısına üzenä yazası tügel.\n"
+#: kdecore/kcmdlineargs.cpp:625
+#, fuzzy
+msgid ""
+"Please use http://bugs.kde.org to report bugs.\n"
+msgstr ""
+"Xatalar turında http://bugs.kde.org adresına belderäse, yazuçısına üzenä yazası "
+"tügel.\n"
 
-#: kdecore/kcmdlineargs.cpp:626
-msgid "Please report bugs to %1.\n"
-msgstr "Xata yomğağın %1 taba cibär zinhar.\n"
+#: kdecore/kcmdlineargs.cpp:628 kdecore/kcmdlineargs.cpp:630
+msgid ""
+"Please report bugs to %1.\n"
+msgstr ""
+"Xata yomğağın %1 taba cibär zinhar.\n"
 
-#: kdecore/kcmdlineargs.cpp:628
-msgid "Please report bugs to %1, do not mail the authors directly.\n"
-msgstr "Xata yomğağın %1 taba cibär zinhar, yazuçısına turı cibäräse tügel.\n"
-
-#: kdecore/kcmdlineargs.cpp:649
+#: kdecore/kcmdlineargs.cpp:656
 msgid "Unexpected argument '%1'."
 msgstr "Kötelmägän köylämä: %1"
 
-#: kdecore/kcmdlineargs.cpp:754
+#: kdecore/kcmdlineargs.cpp:761
 msgid "Use --help to get a list of available command line options."
 msgstr "--help kertep boyırıq yulında qullanırlıq köylämälärne kürep bula."
 
-#: kdecore/kcmdlineargs.cpp:769
+#: kdecore/kcmdlineargs.cpp:776
 msgid ""
 "\n"
 "%1:\n"
@@ -2852,55 +2962,57 @@ msgstr ""
 "\n"
 "%1:\n"
 
-#: kdecore/kcmdlineargs.cpp:778
+#: kdecore/kcmdlineargs.cpp:785
 msgid "[options] "
 msgstr "[caylaw] "
 
-#: kdecore/kcmdlineargs.cpp:785
+#: kdecore/kcmdlineargs.cpp:792
 msgid "[%1-options]"
 msgstr "[%1-caylaw]"
 
-#: kdecore/kcmdlineargs.cpp:805
-msgid "Usage: %1 %2\n"
-msgstr "Qullanu: %1 %2\n"
+#: kdecore/kcmdlineargs.cpp:812
+msgid ""
+"Usage: %1 %2\n"
+msgstr ""
+"Qullanu: %1 %2\n"
 
-#: kdecore/kcmdlineargs.cpp:808
+#: kdecore/kcmdlineargs.cpp:815
 msgid "Generic options"
 msgstr "Töp köylämä"
 
-#: kdecore/kcmdlineargs.cpp:809
+#: kdecore/kcmdlineargs.cpp:816
 msgid "Show help about options"
 msgstr "Köylämä turında yärdäm kürsätü"
 
-#: kdecore/kcmdlineargs.cpp:817
+#: kdecore/kcmdlineargs.cpp:824
 msgid "Show %1 specific options"
 msgstr "%1 belän bäyle köylämälär kürsätäse"
 
-#: kdecore/kcmdlineargs.cpp:824
+#: kdecore/kcmdlineargs.cpp:831
 msgid "Show all options"
 msgstr "Bar köylämälär kürsätü"
 
-#: kdecore/kcmdlineargs.cpp:825
+#: kdecore/kcmdlineargs.cpp:832
 msgid "Show author information"
 msgstr "Yazuçı turında kürsätü"
 
-#: kdecore/kcmdlineargs.cpp:826
+#: kdecore/kcmdlineargs.cpp:833
 msgid "Show version information"
 msgstr "Sörem turında kürsätü"
 
-#: kdecore/kcmdlineargs.cpp:827
+#: kdecore/kcmdlineargs.cpp:834
 msgid "Show license information"
 msgstr "Şartnämä turında kürsätü"
 
-#: kdecore/kcmdlineargs.cpp:828
+#: kdecore/kcmdlineargs.cpp:835
 msgid "End of options"
 msgstr "Köylämälär azağı"
 
-#: kdecore/kcmdlineargs.cpp:850
+#: kdecore/kcmdlineargs.cpp:857
 msgid "%1 options"
 msgstr "%1 caylaw"
 
-#: kdecore/kcmdlineargs.cpp:852
+#: kdecore/kcmdlineargs.cpp:859
 msgid ""
 "\n"
 "Options:\n"
@@ -2908,7 +3020,7 @@ msgstr ""
 "\n"
 "Köylämä:\n"
 
-#: kdecore/kcmdlineargs.cpp:909
+#: kdecore/kcmdlineargs.cpp:916
 msgid ""
 "\n"
 "Arguments:\n"
@@ -2916,7 +3028,7 @@ msgstr ""
 "\n"
 "Köylämä:\n"
 
-#: kdecore/kcmdlineargs.cpp:1270
+#: kdecore/kcmdlineargs.cpp:1277
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr "Bu yazılım açqan birem/URL'lar qullanudan soñ beterelgän bulaçaq"
 
@@ -2958,149 +3070,149 @@ msgstr "<h2>Tizlätkeçlär beterelde</h2>"
 msgid "<h2>Accelerators added (just for your info)</h2>"
 msgstr "<h2>Tizlätkeçlär östälende (siña ğına)</h2>"
 
-#: kdecore/kstdaccel.cpp:50
+#: kdecore/kstdaccel.cpp:54
 msgid "New"
 msgstr "Yaña"
 
-#: kdecore/kstdaccel.cpp:61
+#: kdecore/kstdaccel.cpp:65
 msgid "Paste Selection"
 msgstr "Saylanğannı Östäp quy"
 
-#: kdecore/kstdaccel.cpp:63
+#: kdecore/kstdaccel.cpp:67
 msgid "Deselect"
 msgstr "Saylanusız it"
 
-#: kdecore/kstdaccel.cpp:64
+#: kdecore/kstdaccel.cpp:68
 msgid "Delete Word Backwards"
 msgstr "Ütkän Süzne Beter"
 
-#: kdecore/kstdaccel.cpp:65
+#: kdecore/kstdaccel.cpp:69
 msgid "Delete Word Forward"
 msgstr "Aldağı Süzne Beter"
 
-#: kdecore/kkeyserver_x11.cpp:135 kdecore/kstdaccel.cpp:66
+#: kdecore/kkeyserver_x11.cpp:135 kdecore/kstdaccel.cpp:70
 #: kdeui/keditcl2.cpp:107 kdeui/keditcl2.cpp:120 kdeui/keditcl2.cpp:377
 #: kdeui/keditcl2.cpp:390 kdeui/keditcl2.cpp:700 kutils/kfinddialog.cpp:119
 msgid "Find"
 msgstr "Tap"
 
-#: kdecore/kstdaccel.cpp:67 kutils/kfind.cpp:47
+#: kdecore/kstdaccel.cpp:71 kutils/kfind.cpp:47
 msgid "Find Next"
 msgstr "Kiläsen Tap"
 
-#: kdecore/kstdaccel.cpp:68
+#: kdecore/kstdaccel.cpp:72
 msgid "Find Prev"
 msgstr "Aldağın Tap"
 
-#: kdecore/kstdaccel.cpp:70
+#: kdecore/kstdaccel.cpp:74
 msgid "Navigation"
 msgstr "Küçeş"
 
-#: kdecore/kstdaccel.cpp:71
+#: kdecore/kstdaccel.cpp:75
 msgid ""
 "_: Opposite to End\n"
 "Home"
 msgstr "Başı"
 
-#: kdecore/kstdaccel.cpp:72
+#: kdecore/kstdaccel.cpp:76
 msgid "End"
 msgstr "Azaq"
 
-#: kdecore/kstdaccel.cpp:73
+#: kdecore/kstdaccel.cpp:77
 msgid "Beginning of Line"
 msgstr "Yul Başlanğıçı"
 
-#: kdecore/kstdaccel.cpp:74 kutils/kfinddialog.cpp:451
+#: kdecore/kstdaccel.cpp:78 kutils/kfinddialog.cpp:451
 msgid "End of Line"
 msgstr "Yul Azağı"
 
-#: kdecore/kstdaccel.cpp:75
+#: kdecore/kstdaccel.cpp:79
 msgid "Prior"
 msgstr "Aldağı"
 
-#: kdecore/kstdaccel.cpp:76
+#: kdecore/kstdaccel.cpp:80
 msgid ""
 "_: Opposite to Prior\n"
 "Next"
 msgstr "Kiläse"
 
-#: kdecore/kstdaccel.cpp:77 kdeui/keditcl2.cpp:976
+#: kdecore/kstdaccel.cpp:81 kdeui/keditcl2.cpp:976
 msgid "Go to Line"
 msgstr "Yulğa Küçü"
 
-#: kdecore/kstdaccel.cpp:78
+#: kdecore/kstdaccel.cpp:82
 msgid "Add Bookmark"
 msgstr "Bitbilge Östä"
 
-#: kdecore/kstdaccel.cpp:79
+#: kdecore/kstdaccel.cpp:83
 msgid "Zoom In"
 msgstr "Ereräyt"
 
-#: kdecore/kstdaccel.cpp:80
+#: kdecore/kstdaccel.cpp:84
 msgid "Zoom Out"
 msgstr "Keçeräyt"
 
-#: kdecore/kstdaccel.cpp:81
+#: kdecore/kstdaccel.cpp:85
 msgid "Up"
 msgstr "Öskä"
 
-#: kdecore/kstdaccel.cpp:83
+#: kdecore/kstdaccel.cpp:87
 msgid "Forward"
 msgstr "Alğa"
 
-#: kdecore/kstdaccel.cpp:85
+#: kdecore/kstdaccel.cpp:89
 msgid "Popup Menu Context"
 msgstr "Atılma Saylaq Eştiräse"
 
-#: kdecore/kstdaccel.cpp:86
+#: kdecore/kstdaccel.cpp:90
 msgid "Show Menu Bar"
 msgstr "Saylaqtirä Kürsätü"
 
-#: kdecore/kstdaccel.cpp:87
+#: kdecore/kstdaccel.cpp:91
 msgid "Backward Word"
 msgstr "Ütkän Süz"
 
-#: kdecore/kstdaccel.cpp:88
+#: kdecore/kstdaccel.cpp:92
 msgid "Forward Word"
 msgstr "Aldağı Süz"
 
-#: kdecore/kstdaccel.cpp:89
+#: kdecore/kstdaccel.cpp:93
 msgid "Activate Next Tab"
 msgstr "Kiläse Tabaqqa Küç"
 
-#: kdecore/kstdaccel.cpp:90
+#: kdecore/kstdaccel.cpp:94
 msgid "Activate Previous Tab"
 msgstr "Ütkän Tabaqqa Küç"
 
-#: kdecore/kstdaccel.cpp:91
+#: kdecore/kstdaccel.cpp:95
 msgid "Full Screen Mode"
 msgstr "Tulı Küräk Isulı"
 
-#: kdecore/kstdaccel.cpp:94
+#: kdecore/kstdaccel.cpp:98
 msgid "What's This"
 msgstr "Ni Bu"
 
-#: kdecore/kstdaccel.cpp:95 kdecore/kstdaccel.cpp:96 kdeui/klineedit.cpp:861
+#: kdecore/kstdaccel.cpp:99 kdecore/kstdaccel.cpp:100 kdeui/klineedit.cpp:861
 msgid "Text Completion"
 msgstr "Süz Tutıru"
 
-#: kdecore/kstdaccel.cpp:97
+#: kdecore/kstdaccel.cpp:101
 msgid "Previous Completion Match"
 msgstr "Uzğan Tulılandıru"
 
-#: kdecore/kstdaccel.cpp:98
+#: kdecore/kstdaccel.cpp:102
 msgid "Next Completion Match"
 msgstr "Kiläse Tulılandıru"
 
-#: kdecore/kstdaccel.cpp:99
+#: kdecore/kstdaccel.cpp:103
 msgid "Substring Completion"
 msgstr "Yazmanı Tulılandıru"
 
-#: kdecore/kstdaccel.cpp:100
+#: kdecore/kstdaccel.cpp:104
 msgid "Previous Item in List"
 msgstr "Tezmäneñ Aldağı Kereme"
 
-#: kdecore/kstdaccel.cpp:101
+#: kdecore/kstdaccel.cpp:105
 msgid "Next Item in List"
 msgstr "Tezmäneñ Kiläse Kereme"
 
@@ -3306,7 +3418,10 @@ msgstr "Yaum al-Ahad"
 
 #: kdecore/klocale.cpp:217
 msgid ""
-"_: Dear translator, please do not translate this string in any form, but pick the _right_ value out of NoPlural/TwoForms/French... If not sure what to do mail thd@kde.org and coolo@kde.org, they will tell you. Better leave that out if unsure, the programs will crash!!\n"
+"_: Dear translator, please do not translate this string in any form, but pick "
+"the _right_ value out of NoPlural/TwoForms/French... If not sure what to do "
+"mail thd@kde.org and coolo@kde.org, they will tell you. Better leave that out "
+"if unsure, the programs will crash!!\n"
 "Definition of PluralForm - to be set by the translator of kdelibs.po"
 msgstr "NoPlural"
 
@@ -3554,69 +3669,69 @@ msgstr "Nöyäber"
 msgid "of December"
 msgstr "Dekäber"
 
-#: kdecore/klocale.cpp:1779 kdecore/klocale.cpp:1919
+#: kdecore/klocale.cpp:1780 kdecore/klocale.cpp:1920
 msgid "pm"
 msgstr "töştän soñ"
 
-#: kdecore/klocale.cpp:1788 kdecore/klocale.cpp:1921
+#: kdecore/klocale.cpp:1789 kdecore/klocale.cpp:1922
 msgid "am"
 msgstr "töşkä tikle"
 
-#: kdecore/klocale.cpp:1962
+#: kdecore/klocale.cpp:1963
 msgid ""
 "_: concatenation of dates and time\n"
 "%1 %2"
 msgstr "%1 %2"
 
-#: kdecore/klocale.cpp:2453
+#: kdecore/klocale.cpp:2454
 msgid "&Next"
 msgstr "&Kiläse"
 
-#: kdecore/netsupp.cpp:894 kdecore/network/kresolver.cpp:555
+#: kdecore/netsupp.cpp:896 kdecore/network/kresolver.cpp:557
 msgid "no error"
 msgstr "xata yuq"
 
-#: kdecore/netsupp.cpp:895
+#: kdecore/netsupp.cpp:897
 msgid "address family for nodename not supported"
 msgstr "töyen adı öçen adres ğäiläse totılmí"
 
-#: kdecore/netsupp.cpp:896 kdecore/network/kresolver.cpp:557
+#: kdecore/netsupp.cpp:898 kdecore/network/kresolver.cpp:559
 msgid "temporary failure in name resolution"
 msgstr "atama yaraqlığında waqıtlı ütmäw "
 
-#: kdecore/netsupp.cpp:897
+#: kdecore/netsupp.cpp:899
 msgid "invalid value for 'ai_flags'"
 msgstr "'ai_flags' öçen bäyä yaraqsız"
 
-#: kdecore/netsupp.cpp:898 kdecore/network/kresolver.cpp:558
+#: kdecore/netsupp.cpp:900 kdecore/network/kresolver.cpp:560
 msgid "non-recoverable failure in name resolution"
 msgstr "atama yaraqlığında tözätmäslek ütmäw"
 
-#: kdecore/netsupp.cpp:899
+#: kdecore/netsupp.cpp:901
 msgid "'ai_family' not supported"
 msgstr "'ai_family' totılmí"
 
-#: kdecore/netsupp.cpp:900 kdecore/network/kresolver.cpp:560
+#: kdecore/netsupp.cpp:902 kdecore/network/kresolver.cpp:562
 msgid "memory allocation failure"
 msgstr "xäter bülep alu xatası"
 
-#: kdecore/netsupp.cpp:901
+#: kdecore/netsupp.cpp:903
 msgid "no address associated with nodename"
 msgstr "töyen adına kileşterelgän adres yuq"
 
-#: kdecore/netsupp.cpp:902 kdecore/network/kresolver.cpp:561
+#: kdecore/netsupp.cpp:904 kdecore/network/kresolver.cpp:563
 msgid "name or service not known"
 msgstr "bilgesez atama yä ki xezmät"
 
-#: kdecore/netsupp.cpp:903
+#: kdecore/netsupp.cpp:905
 msgid "servname not supported for ai_socktype"
 msgstr "ai_socktype öçen servname totılmí"
 
-#: kdecore/netsupp.cpp:904
+#: kdecore/netsupp.cpp:906
 msgid "'ai_socktype' not supported"
 msgstr "'ai_socktype' totılmí"
 
-#: kdecore/netsupp.cpp:905
+#: kdecore/netsupp.cpp:907
 msgid "system error"
 msgstr "sistem xatası"
 
@@ -3808,73 +3923,83 @@ msgstr "Üzençälek"
 msgid "Front"
 msgstr "Aldı"
 
-#: kdecore/kcharsets.cpp:46 khtml/khtml_part.cpp:277
+#: kdecore/kcharsets.cpp:44 khtml/khtml_part.cpp:279
 msgid "Arabic"
 msgstr "Ğäräpçä"
 
-#: kdecore/kcharsets.cpp:47 khtml/khtml_part.cpp:278
+#: kdecore/kcharsets.cpp:45 khtml/khtml_part.cpp:280
 msgid "Baltic"
 msgstr "Baltíq"
 
-#: kdecore/kcharsets.cpp:48 khtml/khtml_part.cpp:279
+#: kdecore/kcharsets.cpp:46 khtml/khtml_part.cpp:281
 msgid "Central European"
 msgstr "Üzäk Awrupı"
 
-#: kdecore/kcharsets.cpp:49
+#: kdecore/kcharsets.cpp:47
 msgid "Chinese Simplified"
 msgstr "Çinçä (Ciñel)"
 
-#: kdecore/kcharsets.cpp:50
+#: kdecore/kcharsets.cpp:48
 msgid "Chinese Traditional"
 msgstr "Çinçä (Ğädäti)"
 
-#: kdecore/kcharsets.cpp:51
+#: kdecore/kcharsets.cpp:49
 msgid "Cyrillic"
 msgstr "Urısälif"
 
-#: kdecore/kcharsets.cpp:52 khtml/khtml_part.cpp:281
+#: kdecore/kcharsets.cpp:50 khtml/khtml_part.cpp:283
 msgid "Greek"
 msgstr "Yunança"
 
-#: kdecore/kcharsets.cpp:53 kdeui/ksconfig.cpp:233 kdeui/ksconfig.cpp:393
-#: kdeui/ksconfig.cpp:648 khtml/khtml_part.cpp:282
+#: kdecore/kcharsets.cpp:51 kdeui/ksconfig.cpp:233 kdeui/ksconfig.cpp:393
+#: kdeui/ksconfig.cpp:648 khtml/khtml_part.cpp:284
 msgid "Hebrew"
 msgstr "Yähüdçä"
 
-#: kdecore/kcharsets.cpp:54 khtml/khtml_part.cpp:283
+#: kdecore/kcharsets.cpp:52 khtml/khtml_part.cpp:285
 msgid "Japanese"
 msgstr "Japança"
 
-#: kdecore/kcharsets.cpp:55
+#: kdecore/kcharsets.cpp:53
 msgid "Korean"
 msgstr "Koreyçä"
 
-#: kdecore/kcharsets.cpp:56
+#: kdecore/kcharsets.cpp:54
 msgid "Thai"
 msgstr "Tayça"
 
-#: kdecore/kcharsets.cpp:57 kdeui/ksconfig.cpp:238 kdeui/ksconfig.cpp:398
-#: kdeui/ksconfig.cpp:653 khtml/khtml_part.cpp:287
+#: kdecore/kcharsets.cpp:55 kdeui/ksconfig.cpp:238 kdeui/ksconfig.cpp:398
+#: kdeui/ksconfig.cpp:653 khtml/khtml_part.cpp:289
 msgid "Turkish"
 msgstr "Törekçä"
 
-#: kdecore/kcharsets.cpp:58 khtml/khtml_part.cpp:290
+#: kdecore/kcharsets.cpp:56 khtml/khtml_part.cpp:292
 msgid "Western European"
 msgstr "Batış Awrupı"
 
-#: kdecore/kcharsets.cpp:59
+#: kdecore/kcharsets.cpp:57
 msgid "Tamil"
 msgstr "Tamilça"
 
-#: kdecore/kcharsets.cpp:60
+#: kdecore/kcharsets.cpp:58
 msgid "Unicode"
 msgstr "Unicode"
 
-#: kdecore/kcharsets.cpp:61
+#: kdecore/kcharsets.cpp:59
 msgid "Northern Saami"
 msgstr "Tönyaq Saami"
 
-#: kdecore/kcharsets.cpp:554
+#: kdecore/kcharsets.cpp:60
+#, fuzzy
+msgid "Vietnamese"
+msgstr "Birelgän Atama"
+
+#: kdecore/kcharsets.cpp:61
+#, fuzzy
+msgid "South-Eastern Europe"
+msgstr "Batış Awrupı"
+
+#: kdecore/kcharsets.cpp:537
 msgid ""
 "_: Descriptive Encoding Name\n"
 "%1 ( %2 )"
@@ -3901,8 +4026,10 @@ msgstr ""
 "berdän artıq.\n"
 
 #: kdecore/kcompletion.cpp:643
-msgid "There is no matching item available.\n"
-msgstr "Kileşkän keremnär bulmadı.\n"
+msgid ""
+"There is no matching item available.\n"
+msgstr ""
+"Kileşkän keremnär bulmadı.\n"
 
 #: kdecore/kcalendarsystemhebrew.cpp:402
 msgid "Tishrey"
@@ -3960,13 +4087,19 @@ msgstr "Adar I"
 msgid "Adar II"
 msgstr "Adar II"
 
-#: kdecore/kaboutdata.cpp:360
+#: kdecore/kaboutdata.cpp:363
 msgid ""
 "_: replace this with information about your translation team\n"
-"<p>KDE is translated into many languages thanks to the work of the translation teams all over the world.</p><p>For more information on KDE internationalization visit http://i18n.kde.org</p>"
-msgstr "<p>Böten dönyada bulğan telläşterü törkemnäre yärdäme belän KDE bu köngä küp tellärgä telläşterelgän.</p><p>KDE telläşterü turında belem öçen http://i18n.kde.org säxifäsenä keräse</p>"
+"<p>KDE is translated into many languages thanks to the work of the translation "
+"teams all over the world.</p>"
+"<p>For more information on KDE internationalization visit "
+"http://i18n.kde.org</p>"
+msgstr ""
+"<p>Böten dönyada bulğan telläşterü törkemnäre yärdäme belän KDE bu köngä küp "
+"tellärgä telläşterelgän.</p>"
+"<p>KDE telläşterü turında belem öçen http://i18n.kde.org säxifäsenä keräse</p>"
 
-#: kdecore/kaboutdata.cpp:415
+#: kdecore/kaboutdata.cpp:418
 msgid ""
 "No licensing terms for this program have been specified.\n"
 "Please check the documentation or the source for any\n"
@@ -3976,7 +4109,7 @@ msgstr ""
 "Şartnama turında belemneñ anıñ qullanmada yä ki\n"
 "çığanaqlarında buluı bar.\n"
 
-#: kdecore/kaboutdata.cpp:422
+#: kdecore/kaboutdata.cpp:425
 #, c-format
 msgid "This program is distributed under the terms of the %1."
 msgstr "Bu yazılım %1 şartları buyınça taratıla."
@@ -4063,38 +4196,38 @@ msgstr "Köylämälärem"
 msgid "cfgc example"
 msgstr "cfgc ürnäge"
 
-#: kdecore/network/kresolver.cpp:556
+#: kdecore/network/kresolver.cpp:558
 msgid "requested family not supported for this host name"
 msgstr "bu host adı öçen telängän ğäilä totılmí"
 
-#: kdecore/network/kresolver.cpp:559
+#: kdecore/network/kresolver.cpp:561
 msgid "invalid flags"
 msgstr "yaraqsız bayıraq"
 
-#: kdecore/network/kresolver.cpp:562
+#: kdecore/network/kresolver.cpp:564
 msgid "requested family not supported"
 msgstr "telängän ğäilä totılmí"
 
-#: kdecore/network/kresolver.cpp:563
+#: kdecore/network/kresolver.cpp:565
 msgid "requested service not supported for this socket type"
 msgstr "bu soket töre öçen telängän xezmät totılmí"
 
-#: kdecore/network/kresolver.cpp:564
+#: kdecore/network/kresolver.cpp:566
 msgid "requested socket type not supported"
 msgstr "telängän soket töre totılmí"
 
-#: kdecore/network/kresolver.cpp:565
+#: kdecore/network/kresolver.cpp:567
 msgid "unknown error"
 msgstr "bilgesez xata"
 
-#: kdecore/network/kresolver.cpp:567
+#: kdecore/network/kresolver.cpp:569
 #, c-format
 msgid ""
 "_: 1: the i18n'ed system error code, from errno\n"
 "system error: %1"
 msgstr "sistem xatası: %1"
 
-#: kdecore/network/kresolver.cpp:572
+#: kdecore/network/kresolver.cpp:574
 msgid "request was canceled"
 msgstr "soraw özderelgän buldı"
 
@@ -4270,62 +4403,62 @@ msgstr "Tutırmasqa"
 msgid "The file '%1' already exists. Do you want to overwrite it?"
 msgstr "'%1' atlı birem bar inde. Anıñ östennän yazasımı?"
 
-#: khtml/khtml_ext.cpp:798 knewstuff/knewstuffgeneric.cpp:135
+#: khtml/khtml_ext.cpp:823 knewstuff/knewstuffgeneric.cpp:135
 msgid "Overwrite"
 msgstr "Östän Yaz"
 
-#: knewstuff/provider.cpp:208
+#: knewstuff/provider.cpp:264
 msgid "Error parsing providers list."
 msgstr "Tä'minçelär tezmäsen uqıp çığıp bulmadı."
 
-#: knewstuff/downloaddialog.cpp:96 knewstuff/downloaddialog.cpp:103
-#: knewstuff/downloaddialog.cpp:119 knewstuff/downloaddialog.cpp:126
+#: knewstuff/downloaddialog.cpp:101 knewstuff/downloaddialog.cpp:108
+#: knewstuff/downloaddialog.cpp:124 knewstuff/downloaddialog.cpp:131
 msgid "Get Hot New Stuff"
 msgstr "Yaña Närsä Alu"
 
-#: knewstuff/downloaddialog.cpp:217
+#: knewstuff/downloaddialog.cpp:222
 msgid "Welcome"
 msgstr "Räxim it"
 
-#: knewstuff/downloaddialog.cpp:248
+#: knewstuff/downloaddialog.cpp:253
 msgid "Highest Rated"
 msgstr "İñ Yuğarı Bäyä"
 
-#: knewstuff/downloaddialog.cpp:249
+#: knewstuff/downloaddialog.cpp:254
 msgid "Most Downloads"
 msgstr "İñ İñderelgäne"
 
-#: knewstuff/downloaddialog.cpp:250
+#: knewstuff/downloaddialog.cpp:255
 msgid "Latest"
 msgstr "Soñğısı"
 
-#: knewstuff/downloaddialog.cpp:260 knewstuff/downloaddialog.cpp:266
-#: knewstuff/downloaddialog.cpp:272
+#: knewstuff/downloaddialog.cpp:265 knewstuff/downloaddialog.cpp:271
+#: knewstuff/downloaddialog.cpp:277
 msgid "Version"
 msgstr "Sörem"
 
-#: knewstuff/downloaddialog.cpp:261
+#: knewstuff/downloaddialog.cpp:266
 msgid "Rating"
 msgstr "Däräcä"
 
-#: knewstuff/downloaddialog.cpp:267
+#: knewstuff/downloaddialog.cpp:272
 msgid "Downloads"
 msgstr "İñderü"
 
-#: knewstuff/downloaddialog.cpp:273
+#: knewstuff/downloaddialog.cpp:278
 msgid "Release Date"
 msgstr "Çığu Çağı"
 
-#: knewstuff/downloaddialog.cpp:283
+#: knewstuff/downloaddialog.cpp:288
 msgid "Install"
 msgstr "Quyu"
 
-#: kdeui/kmessagebox.cpp:246 knewstuff/downloaddialog.cpp:284
-#: knewstuff/downloaddialog.cpp:463
+#: kdeui/kmessagebox.cpp:246 knewstuff/downloaddialog.cpp:289
+#: knewstuff/downloaddialog.cpp:499
 msgid "Details"
 msgstr "Centekle"
 
-#: knewstuff/downloaddialog.cpp:435
+#: knewstuff/downloaddialog.cpp:471
 msgid ""
 "Name: %1\n"
 "Author: %2\n"
@@ -4347,7 +4480,7 @@ msgstr ""
 "Çığarılış çağı: %8\n"
 "Yomğaq: %9\n"
 
-#: knewstuff/downloaddialog.cpp:457
+#: knewstuff/downloaddialog.cpp:493
 msgid ""
 "Preview: %1\n"
 "Payload: %2\n"
@@ -4355,17 +4488,23 @@ msgstr ""
 "Kürep alu: %1\n"
 "Tülängäne: %2\n"
 
-#: knewstuff/downloaddialog.cpp:531
+#: knewstuff/downloaddialog.cpp:592
 msgid "Installation successful."
 msgstr "Quyu uñışlı uzdı."
 
-#: knewstuff/downloaddialog.cpp:531 knewstuff/downloaddialog.cpp:533
+#: knewstuff/downloaddialog.cpp:592 knewstuff/downloaddialog.cpp:594
 msgid "Installation"
 msgstr "Quyu"
 
-#: knewstuff/downloaddialog.cpp:533
+#: knewstuff/downloaddialog.cpp:594
 msgid "Installation failed."
 msgstr "Quyıp bulmadı."
+
+#: knewstuff/downloaddialog.cpp:687
+#, fuzzy
+msgid "Preview not available."
+msgstr ""
+"Kileşkän keremnär bulmadı.\n"
 
 #: knewstuff/knewstuff.cpp:38 knewstuff/knewstuffbutton.cpp:61
 #, c-format
@@ -4385,24 +4524,34 @@ msgid "Unable to create file to upload."
 msgstr "Yöklise biremne yasap bulmadı."
 
 #: knewstuff/engine.cpp:296
-msgid "The files to be uploaded have been created at:\n"
-msgstr "Yöklise biremnär bu çaqta yasalğan bulırğa tieş:\n"
+msgid ""
+"The files to be uploaded have been created at:\n"
+msgstr ""
+"Yöklise biremnär bu çaqta yasalğan bulırğa tieş:\n"
 
 #: knewstuff/engine.cpp:297
-msgid "Data file: %1\n"
-msgstr "Eçtälek bireme: %1\n"
+msgid ""
+"Data file: %1\n"
+msgstr ""
+"Eçtälek bireme: %1\n"
 
 #: knewstuff/engine.cpp:299
-msgid "Preview image: %1\n"
-msgstr "Sürät küzläw: %1\n"
+msgid ""
+"Preview image: %1\n"
+msgstr ""
+"Sürät küzläw: %1\n"
 
 #: knewstuff/engine.cpp:301
-msgid "Content information: %1\n"
-msgstr "Eçtälek turında: %1\n"
+msgid ""
+"Content information: %1\n"
+msgstr ""
+"Eçtälek turında: %1\n"
 
 #: knewstuff/engine.cpp:302
-msgid "Those files can now be uploaded.\n"
-msgstr "Ul biremnärne yökläp tä bula xäzer.\n"
+msgid ""
+"Those files can now be uploaded.\n"
+msgstr ""
+"Ul biremnärne yökläp tä bula xäzer.\n"
 
 #: knewstuff/engine.cpp:303
 msgid "Beware that any people might have access to them at any time."
@@ -4433,8 +4582,12 @@ msgid "Download New Stuff"
 msgstr "Yaña Närsä İñderü"
 
 #: knewstuff/knewstuffsecure.cpp:83
-msgid "There was an error with the downloaded resource tarball file. Possible causes are damaged archive or invalid directory structure in the archive."
-msgstr "Yöklängän resur bireme belän xata bulıp çıqtı. Tuplamanıñ üzeneñ yä ki anıñ törgäkläre tözeleşendä bozılış buluı bar."
+msgid ""
+"There was an error with the downloaded resource tarball file. Possible causes "
+"are damaged archive or invalid directory structure in the archive."
+msgstr ""
+"Yöklängän resur bireme belän xata bulıp çıqtı. Tuplamanıñ üzeneñ yä ki anıñ "
+"törgäkläre tözeleşendä bozılış buluı bar."
 
 #: knewstuff/knewstuffsecure.cpp:83
 msgid "Resource Installation Error"
@@ -4465,12 +4618,28 @@ msgid "The signature is unknown."
 msgstr "Bu imza bilgesez."
 
 #: knewstuff/knewstuffsecure.cpp:131
-msgid "The resource was signed with key <i>0x%1</i>, belonging to <i>%2 &lt;%3&gt;</i>."
-msgstr "Bu resurs <i>0x%1</i> açqıçı belän, <i>%2 &lt;%3&gt;</i> tarafınnan imzalanğan."
+msgid ""
+"The resource was signed with key <i>0x%1</i>, belonging to <i>%2 &lt;%3&gt;</i>"
+"."
+msgstr ""
+"Bu resurs <i>0x%1</i> açqıçı belän, <i>%2 &lt;%3&gt;</i> tarafınnan imzalanğan."
 
 #: knewstuff/knewstuffsecure.cpp:137
-msgid "<qt>There is a problem with the resource file you have downloaded. The errors are :<b>%1</b><br>%2<br><br>Installation of the resource is <b>not recommended</b>.<br><br>Do you want to proceed with the installation?</qt>"
-msgstr "<qt>İñderelgän resurs biremendä xatalar bar:<b>%1</b><br>%2<br><br>Bu resursnı quyu <b>kiñäş itelmi</b>.<br><br>Anı quyunı uzdırasımı?</qt>"
+msgid ""
+"<qt>There is a problem with the resource file you have downloaded. The errors "
+"are :<b>%1</b>"
+"<br>%2"
+"<br>"
+"<br>Installation of the resource is <b>not recommended</b>."
+"<br>"
+"<br>Do you want to proceed with the installation?</qt>"
+msgstr ""
+"<qt>İñderelgän resurs biremendä xatalar bar:<b>%1</b>"
+"<br>%2"
+"<br>"
+"<br>Bu resursnı quyu <b>kiñäş itelmi</b>."
+"<br>"
+"<br>Anı quyunı uzdırasımı?</qt>"
 
 #: knewstuff/knewstuffsecure.cpp:137
 msgid "Problematic Resource File"
@@ -4490,23 +4659,41 @@ msgstr "Bu imzalaw bilgesez säbäp belän uzmadı."
 
 #: knewstuff/knewstuffsecure.cpp:195
 msgid ""
-"There are no keys usable for signing or you did not entered the correct passphrase.\n"
+"There are no keys usable for signing or you did not entered the correct "
+"passphrase.\n"
 "Proceed without signing the resource?"
 msgstr ""
 "İmzalap quyu öçen yä yaraqlı açqıçlar yuq, yä yaraqlı sersüz kertelmi qaldı.\n"
 "Bu resursnı imzalamíça eşlätäseme?"
 
 #: knewstuff/security.cpp:63
-msgid "<qt>Cannot start <i>gpg</i> and retrieve the available keys. Make sure that <i>gpg</i> is installed, otherwise verification of downloaded resources will not be possible.</qt>"
-msgstr "<qt><i>gpg</i> cibärep, barlıq açqıçlarnı alıp bulmadı. Şuña kürä <i>gpg</i> digäneneñ quyılğan buluın tişeräse bar, yä isä iñderelgän resurs yaraqlılğın tikşerep bulmayaçaq.</qt>"
+msgid ""
+"<qt>Cannot start <i>gpg</i> and retrieve the available keys. Make sure that <i>"
+"gpg</i> is installed, otherwise verification of downloaded resources will not "
+"be possible.</qt>"
+msgstr ""
+"<qt><i>gpg</i> cibärep, barlıq açqıçlarnı alıp bulmadı. Şuña kürä <i>gpg</i> "
+"digäneneñ quyılğan buluın tişeräse bar, yä isä iñderelgän resurs yaraqlılğın "
+"tikşerep bulmayaçaq.</qt>"
 
 #: knewstuff/security.cpp:177
-msgid "<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br><i>%2&lt;%3&gt;</i>:</qt>"
-msgstr "<qt><br><i>%2&lt;%3&gt;</i> tarafınnan bulğan <b>0x%1</b> açqıçına sersüz kertü:</qt>"
+msgid ""
+"<qt>Enter passphrase for key <b>0x%1</b>, belonging to"
+"<br><i>%2&lt;%3&gt;</i>:</qt>"
+msgstr ""
+"<qt>"
+"<br><i>%2&lt;%3&gt;</i> tarafınnan bulğan <b>0x%1</b> "
+"açqıçına sersüz kertü:</qt>"
 
 #: knewstuff/security.cpp:257
-msgid "<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure that <i>gpg</i> is installed, otherwise verification of downloaded resources will not be possible.</qt>"
-msgstr "<qt><i>gpg</i> cibärep, bu birem yaraqlılğın tikşerep bulmadı. Şuña kürä <i>gpg</i> digäneneñ quyılğan buluın tişeräse bar, yä isä iñderelgän resurs yaraqlılğın tikşerep bulmayaçaq.</qt>"
+msgid ""
+"<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure that "
+"<i>gpg</i> is installed, otherwise verification of downloaded resources will "
+"not be possible.</qt>"
+msgstr ""
+"<qt><i>gpg</i> cibärep, bu birem yaraqlılğın tikşerep bulmadı. Şuña kürä <i>"
+"gpg</i> digäneneñ quyılğan buluın tişeräse bar, yä isä iñderelgän resurs "
+"yaraqlılğın tikşerep bulmayaçaq.</qt>"
 
 #: knewstuff/security.cpp:317
 msgid "Select Signing Key"
@@ -4517,8 +4704,13 @@ msgid "Key used for signing:"
 msgstr "İmza öçen açqıç:"
 
 #: knewstuff/security.cpp:338
-msgid "<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> is installed, otherwise signing of the resources will not be possible.</qt>"
-msgstr "<qt><i>gpg</i> cibärep, bu biremgä imza quyıp bulmadı. Şuña kürä <i>gpg</i> digäneneñ quyılğan buluın tişeräse bar, yä isä iñderelgän resurs yaraqlılğın tikşerep bulmayaçaq.</qt>"
+msgid ""
+"<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> "
+"is installed, otherwise signing of the resources will not be possible.</qt>"
+msgstr ""
+"<qt><i>gpg</i> cibärep, bu biremgä imza quyıp bulmadı. Şuña kürä <i>gpg</i> "
+"digäneneñ quyılğan buluın tişeräse bar, yä isä iñderelgän resurs yaraqlılğın "
+"tikşerep bulmayaçaq.</qt>"
 
 #: knewstuff/ghns.cpp:50
 msgid "Get hot new stuff:"
@@ -4553,12 +4745,22 @@ msgid "&Search:"
 msgstr "&Ezlä:"
 
 #: kdeui/kkeydialog.cpp:331
-msgid "Search interactively for shortcut names (e.g. Copy) or combination of keys (e.g. Ctrl+C) by typing them here."
-msgstr "Bonda kertep, çaptırma adın (ü.ö. İskä al) yä töymälär berläşmäsen (ü.ö. Ctrl+C) ezläw."
+msgid ""
+"Search interactively for shortcut names (e.g. Copy) or combination of keys "
+"(e.g. Ctrl+C) by typing them here."
+msgstr ""
+"Bonda kertep, çaptırma adın (ü.ö. İskä al) yä töymälär berläşmäsen (ü.ö. "
+"Ctrl+C) ezläw."
 
 #: kdeui/kkeydialog.cpp:355
-msgid "Here you can see a list of key bindings, i.e. associations between actions (e.g. 'Copy') shown in the left column and keys or combination of keys (e.g. Ctrl+V) shown in the right column."
-msgstr "Bonda töymä bäyläwlären kürep bula, yäğni sul buyda kürsätelgän boyırıqqa (ü.ö. İskä al), uñ buyda aña kileşterelgän çaptırma töymäläre kürsätelä (ü.ö. Ctrl+V)."
+msgid ""
+"Here you can see a list of key bindings, i.e. associations between actions "
+"(e.g. 'Copy') shown in the left column and keys or combination of keys (e.g. "
+"Ctrl+V) shown in the right column."
+msgstr ""
+"Bonda töymä bäyläwlären kürep bula, yäğni sul buyda kürsätelgän boyırıqqa (ü.ö. "
+"İskä al), uñ buyda aña kileşterelgän çaptırma töymäläre kürsätelä (ü.ö. "
+"Ctrl+V)."
 
 #: kdeui/kkeydialog.cpp:364
 msgid "Action"
@@ -4593,20 +4795,33 @@ msgid ""
 msgstr "Ğä&däti"
 
 #: kdeui/kkeydialog.cpp:407
-msgid "This will bind the default key to the selected action. Usually a reasonable choice."
-msgstr "Bu saylanğan boyırıqqa aldan bilgelängän töymä kileşterelgän. Ğädättä ul uñay bula."
+msgid ""
+"This will bind the default key to the selected action. Usually a reasonable "
+"choice."
+msgstr ""
+"Bu saylanğan boyırıqqa aldan bilgelängän töymä kileşterelgän. Ğädättä ul uñay "
+"bula."
 
 #: kdeui/kkeydialog.cpp:410
 msgid "C&ustom"
 msgstr "Köylä&wle"
 
 #: kdeui/kkeydialog.cpp:415
-msgid "If this option is selected you can create a customized key binding for the selected action using the buttons below."
-msgstr "Bu köylämä açılğan bulsa, asta bulğan töymälär qullanıp, saylanğan boyırıqqa berär çaptırma bäyläp bula."
+msgid ""
+"If this option is selected you can create a customized key binding for the "
+"selected action using the buttons below."
+msgstr ""
+"Bu köylämä açılğan bulsa, asta bulğan töymälär qullanıp, saylanğan boyırıqqa "
+"berär çaptırma bäyläp bula."
 
 #: kdeui/kkeydialog.cpp:429
-msgid "Use this button to choose a new shortcut key. Once you click it, you can press the key-combination which you would like to be assigned to the currently selected action."
-msgstr "Yaña çaptırma saylaw öçen bu töymä qullanası. Aña çirtep, saylanğan boyırıqqa kileşteräse kilgän töymälärgä basarğa bula."
+msgid ""
+"Use this button to choose a new shortcut key. Once you click it, you can press "
+"the key-combination which you would like to be assigned to the currently "
+"selected action."
+msgstr ""
+"Yaña çaptırma saylaw öçen bu töymä qullanası. Aña çirtep, saylanğan boyırıqqa "
+"kileşteräse kilgän töymälärgä basarğa bula."
 
 #: kdeui/kkeydialog.cpp:471
 msgid "Shortcuts"
@@ -4621,8 +4836,12 @@ msgid "None"
 msgstr "Yuq"
 
 #: kdeui/kkeydialog.cpp:716
-msgid "In order to use the '%1' key as a shortcut, it must be combined with the Win, Alt, Ctrl, and/or Shift keys."
-msgstr "'%1' töymäsen çaptırma itep qullanu öçen, anı Win, Alt, Ctrl, belän/yä Shift töymäläre berlän qullanası."
+msgid ""
+"In order to use the '%1' key as a shortcut, it must be combined with the Win, "
+"Alt, Ctrl, and/or Shift keys."
+msgstr ""
+"'%1' töymäsen çaptırma itep qullanu öçen, anı Win, Alt, Ctrl, belän/yä Shift "
+"töymäläre berlän qullanası."
 
 #: kdeui/kkeydialog.cpp:719
 msgid "Invalid Shortcut Key"
@@ -4642,7 +4861,8 @@ msgstr "Yazılımnıñ Töp Çaptırması belän Qarşı kilü"
 
 #: kdeui/kkeydialog.cpp:957
 msgid ""
-"The '%1' key combination has already been allocated to the standard action \"%2\".\n"
+"The '%1' key combination has already been allocated to the standard action "
+"\"%2\".\n"
 "Do you want to reassign it from that action to the current one?"
 msgstr ""
 "'%1' çaptırması \"%2\" digän töp boyırıqqa bäylängän inde.\n"
@@ -4654,7 +4874,8 @@ msgstr "Asıldağı Çaptırma belän Qarşı kilü"
 
 #: kdeui/kkeydialog.cpp:963
 msgid ""
-"The '%1' key combination has already been allocated to the global action \"%2\".\n"
+"The '%1' key combination has already been allocated to the global action "
+"\"%2\".\n"
 "Do you want to reassign it from that action to the current one?"
 msgstr ""
 "'%1' çaptırması \"%2\" digän ğömümi boyırıqqa bäylängän inde.\n"
@@ -4764,7 +4985,7 @@ msgstr "Norwejçä"
 msgid "Polish"
 msgstr "Polça"
 
-#: kdeui/ksconfig.cpp:322 khtml/khtml_part.cpp:285
+#: kdeui/ksconfig.cpp:322 khtml/khtml_part.cpp:287
 msgid "Russian"
 msgstr "Urısça"
 
@@ -4788,7 +5009,7 @@ msgstr "İswäcçä"
 msgid "Swiss German"
 msgstr "Almança (İswiçrä)"
 
-#: kdeui/ksconfig.cpp:340 khtml/khtml_part.cpp:288
+#: kdeui/ksconfig.cpp:340 khtml/khtml_part.cpp:290
 msgid "Ukrainian"
 msgstr "Ukrainça"
 
@@ -4848,16 +5069,23 @@ msgid "Preview of the selected font"
 msgstr "Saylanğan yazu ürnäge"
 
 #: kdeui/kfontrequester.cpp:111
-msgid "This is a preview of the selected font. You can change it by clicking the \"Choose...\" button."
-msgstr "Saylanğan yazunıñ ürnäge bu. Anı almaştıru öçen \"Saylaw...\" töymäsen çirtäse."
+msgid ""
+"This is a preview of the selected font. You can change it by clicking the "
+"\"Choose...\" button."
+msgstr ""
+"Saylanğan yazunıñ ürnäge bu. Anı almaştıru öçen \"Saylaw...\" töymäsen çirtäse."
 
 #: kdeui/kfontrequester.cpp:117
 msgid "Preview of the \"%1\" font"
 msgstr "\"%1\" yazuınıñ küreneşe"
 
 #: kdeui/kfontrequester.cpp:119
-msgid "This is a preview of the \"%1\" font. You can change it by clicking the \"Choose...\" button."
-msgstr "Saylanğan yazunıñ küreneşe bu. Anı almaştıru öçen \"Saylaw...\" töymäsen çirtäse."
+msgid ""
+"This is a preview of the \"%1\" font. You can change it by clicking the "
+"\"Choose...\" button."
+msgstr ""
+"Saylanğan yazunıñ küreneşe bu. Anı almaştıru öçen \"Saylaw...\" töymäsen "
+"çirtäse."
 
 #: kdeui/kaboutapplication.cpp:61
 msgid "??"
@@ -4879,27 +5107,30 @@ msgstr "Yaz&uçısı"
 msgid "A&uthors"
 msgstr "Yaz&uçısı"
 
-#: kdeui/kaboutapplication.cpp:111
-msgid "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to report bugs, do not mail the authors directly.\n"
-msgstr "Xatalar turında <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> adresına belderegez, yazuçısına turı yazmağız.\n"
-
 #: kdeui/kaboutapplication.cpp:115
-msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>."
+#, fuzzy
+msgid ""
+"Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> "
+"to report bugs.\n"
+msgstr ""
+"Xatalar turında <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> "
+"adresına belderegez, yazuçısına turı yazmağız.\n"
+
+#: kdeui/kaboutapplication.cpp:119 kdeui/kaboutapplication.cpp:122
+#, fuzzy
+msgid ""
+"Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
 msgstr "Xatalar turında <a href=\"mailto:%1\">%2</a> adresına belderegez."
 
-#: kdeui/kaboutapplication.cpp:118
-msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>, do not mail the authors directly.\n"
-msgstr "Xatalar turında <a href=\"mailto:%1\">%2</a> adresına belderegez, yazuçısına turı yazmağız.\n"
-
-#: kdeui/kaboutapplication.cpp:137
+#: kdeui/kaboutapplication.cpp:147
 msgid "&Thanks To"
 msgstr "&Räxmätebez"
 
-#: kdeui/kaboutapplication.cpp:164
+#: kdeui/kaboutapplication.cpp:174
 msgid "T&ranslation"
 msgstr "Telläşte&rü"
 
-#: kdeui/kaboutapplication.cpp:169
+#: kdeui/kaboutapplication.cpp:179
 msgid "&License Agreement"
 msgstr "&Şartnämä belän Rízalaşu"
 
@@ -4919,7 +5150,7 @@ msgstr "Yazu ğäiläsen üzgärtäseme?"
 msgid "Enable this checkbox to change the font family settings."
 msgstr "Yazu ğäiläsen üzgärtü öçen bonı bolgelise."
 
-#: kdeui/kcharselect.cpp:373 kdeui/kfontdialog.cpp:148
+#: kdeui/kcharselect.cpp:383 kdeui/kfontdialog.cpp:148
 msgid "Font:"
 msgstr "Yazu adı:"
 
@@ -4986,8 +5217,13 @@ msgid "Font size<br><i>fixed</i> or <i>relative</i><br>to environment"
 msgstr "Yazu ülçäme <br><i>berketelgän</i> yä ki tirä-yaqqa <i>bäyle</i><br>"
 
 #: kdeui/kfontdialog.cpp:252
-msgid "Here you can switch between fixed font size and font size to be calculated dynamically and adjusted to changing environment (e.g. widget dimensions, paper size)."
-msgstr "Qullanılğan yazu ülçämen berketäsen yä ki qullanu tirä-yağına (ü.ö. widget/qäğäz ülçäme) qarap isäplisen bonda saylap bula."
+msgid ""
+"Here you can switch between fixed font size and font size to be calculated "
+"dynamically and adjusted to changing environment (e.g. widget dimensions, paper "
+"size)."
+msgstr ""
+"Qullanılğan yazu ülçämen berketäsen yä ki qullanu tirä-yağına (ü.ö. "
+"widget/qäğäz ülçäme) qarap isäplisen bonda saylap bula."
 
 #: kdeui/kfontdialog.cpp:276
 msgid "Here you can choose the font size to be used."
@@ -4998,8 +5234,12 @@ msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgstr "Körän Tölkä Yawız Ut Aşa Ütep Qarağan"
 
 #: kdeui/kfontdialog.cpp:304
-msgid "This sample text illustrates the current settings. You may edit it to test special characters."
-msgstr "Bu ürnäk yazması biredäge köyläwne kürsätä. Ayırmalı bilgelär sınaw öçen anı üzgärtep tä bula."
+msgid ""
+"This sample text illustrates the current settings. You may edit it to test "
+"special characters."
+msgstr ""
+"Bu ürnäk yazması biredäge köyläwne kürsätä. Ayırmalı bilgelär sınaw öçen anı "
+"üzgärtep tä bula."
 
 #: kdeui/kfontdialog.cpp:313 kdeui/kfontdialog.cpp:323
 msgid "Actual Font"
@@ -5013,17 +5253,24 @@ msgstr "B&arlıqtağı:"
 msgid "&Selected:"
 msgstr "&Saylanğanı:"
 
-#: kdeui/kcharselect.cpp:356
+#: kdeui/kcharselect.cpp:366
 msgid ""
 "_: Character\n"
-"<qt><font size=\"+4\" face=\"%1\">%2</font><br>Unicode code point: U+%3<br>(In decimal: %4)<br>(Character: %5)</qt>"
-msgstr "<qt><font size=\"+4\" face=\"%1\">%2</font><br>Unicode kod urını: U+%3<br>(Unlı san: %4)<br>(Bilde: %5)</qt>"
+"<qt><font size=\"+4\" face=\"%1\">%2</font>"
+"<br>Unicode code point: U+%3"
+"<br>(In decimal: %4)"
+"<br>(Character: %5)</qt>"
+msgstr ""
+"<qt><font size=\"+4\" face=\"%1\">%2</font>"
+"<br>Unicode kod urını: U+%3"
+"<br>(Unlı san: %4)"
+"<br>(Bilde: %5)</qt>"
 
-#: kdeui/kcharselect.cpp:384
+#: kdeui/kcharselect.cpp:394
 msgid "Table:"
 msgstr "Cäymä:"
 
-#: kdeui/kcharselect.cpp:394
+#: kdeui/kcharselect.cpp:404
 msgid "&Unicode code point:"
 msgstr "&Unicode kod urını:"
 
@@ -5064,20 +5311,104 @@ msgid "Dropdown List && Automatic"
 msgstr "Atılma Tezmä && Üzennän"
 
 #: kdeui/kaboutkde.cpp:34
-msgid "The <b>K Desktop Environment</b> is written and maintained by the KDE Team, a world-wide network of software engineers committed to <a href=\"http://www.gnu.org/philosophy/free-sw.html\">Free Software</a> development.<br><br>No single group, company or organization controls the KDE source code. Everyone is welcome to contribute to KDE.<br><br>Visit <A HREF=\"http://www.kde.org/\">http://www.kde.org</A> for more information on the KDE project. "
-msgstr "<b>K Östäl Tirä-yağı</b> digänen KDE Team atlı dönyawí eş çeltäre <a href=\"http://www.gnu.org/philosophy/free-sw.html\">Free Software</a> itep citeşterelde.<br><br>KDE çığanaqlarına ber kem dä iä bula almí. KDE citeşterü eşenä barkem qatnaşa ala.<br><br>KDE projekte turında tulırağın <A HREF=\"http://www.kde.org/\">http://www.kde.org</A> säxifäsendä uqıp bula. "
+msgid ""
+"The <b>K Desktop Environment</b> is written and maintained by the KDE Team, a "
+"world-wide network of software engineers committed to <a "
+"href=\"http://www.gnu.org/philosophy/free-sw.html\">Free Software</a> "
+"development."
+"<br>"
+"<br>No single group, company or organization controls the KDE source code. "
+"Everyone is welcome to contribute to KDE."
+"<br>"
+"<br>Visit <A HREF=\"http://www.kde.org/\">http://www.kde.org</A> "
+"for more information on the KDE project. "
+msgstr ""
+"<b>K Östäl Tirä-yağı</b> digänen KDE Team atlı dönyawí eş çeltäre <a "
+"href=\"http://www.gnu.org/philosophy/free-sw.html\">Free Software</a> "
+"itep citeşterelde."
+"<br>"
+"<br>KDE çığanaqlarına ber kem dä iä bula almí. KDE citeşterü eşenä barkem "
+"qatnaşa ala."
+"<br>"
+"<br>KDE projekte turında tulırağın <A HREF=\"http://www.kde.org/\">"
+"http://www.kde.org</A> säxifäsendä uqıp bula. "
 
 #: kdeui/kaboutkde.cpp:43
-msgid "Software can always be improved, and the KDE Team is ready to do so. However, you - the user - must tell us when something does not work as expected or could be done better.<br><br>The K Desktop Environment has a bug tracking system. Visit <A HREF=\"http://bugs.kde.org/\">http://bugs.kde.org</A> or use the \"Report Bug...\" dialog from the \"Help\" menu to report bugs.<br><br>If you have a suggestion for improvement then you are welcome to use the bug tracking system to register your wish. Make sure you use the severity called \"Wishlist\"."
-msgstr "Yazılımnarnı bar çaqta da tözätep bula, KDE törkeme bu eşkä äzer. Ämmä läkin bonı öçen, kürengän kimçeleklär turında qullanuçılarıbıznıñ äytep toruları belän kiñäşläre kiräk.<br><br>KDE betlären terkäwçe ber sistem bar. Xatalar turında yomğaqlarnı <A HREF=\"http://bugs.kde.org/\">http://bugs.kde.org</A> säxifäsenä kerep tä, \"Yärdäm\" saylağındağı \"Bet Yomğağı...\" aşa da belderep bula. Şul yullar qullanıp, \"Wishlist\" digän däräcäsen saylap, yaqşırtular/teläklär turında da belderep bula."
+msgid ""
+"Software can always be improved, and the KDE Team is ready to do so. However, "
+"you - the user - must tell us when something does not work as expected or could "
+"be done better."
+"<br>"
+"<br>The K Desktop Environment has a bug tracking system. Visit <A "
+"HREF=\"http://bugs.kde.org/\">http://bugs.kde.org</A> "
+"or use the \"Report Bug...\" dialog from the \"Help\" menu to report bugs."
+"<br>"
+"<br>If you have a suggestion for improvement then you are welcome to use the "
+"bug tracking system to register your wish. Make sure you use the severity "
+"called \"Wishlist\"."
+msgstr ""
+"Yazılımnarnı bar çaqta da tözätep bula, KDE törkeme bu eşkä äzer. Ämmä läkin "
+"bonı öçen, kürengän kimçeleklär turında qullanuçılarıbıznıñ äytep toruları "
+"belän kiñäşläre kiräk."
+"<br>"
+"<br>KDE betlären terkäwçe ber sistem bar. Xatalar turında yomğaqlarnı <A "
+"HREF=\"http://bugs.kde.org/\">http://bugs.kde.org</A> "
+"säxifäsenä kerep tä, \"Yärdäm\" saylağındağı \"Bet Yomğağı...\" aşa da belderep "
+"bula. Şul yullar qullanıp, \"Wishlist\" digän däräcäsen saylap, "
+"yaqşırtular/teläklär turında da belderep bula."
 
 #: kdeui/kaboutkde.cpp:54
-msgid "You do not have to be a software developer to be a member of the KDE team. You can join the national teams that translate program interfaces. You can provide graphics, themes, sounds, and improved documentation. You decide!<br><br>Visit <A HREF=\"http://www.kde.org/jobs/\">http://www.kde.org/jobs/</A> for information on some projects in which you can participate.<br><br>If you need more information or documentation, then a visit to <A HREF=\"http://developer.kde.org/\">http://developer.kde.org</A> will provide you with what you need."
-msgstr "KDE törkemeneñ äğzäse bulu öçen yazılım citeşterüçe buluı kiräk tügel. Milli törkemgä qatnaşıp, telläşterü eşenä kerep bula. Qullanma yaqşırtu, sürätlär/tawışlar/tışlawlar äzerlär eşendä dä qatnaşıp bula. Teläk kenä bulsın!<br><br>Qatnaşu turında belemne <A HREF=\"http://www.kde.org/jobs/\">http://www.kde.org/jobs/</A> bitendä tabıp bula.<br><br>Bonı turında kübrägen <A HREF=\"http://developer.kde.org/\">http://developer.kde.org</A> bitendä uqıp bula."
+msgid ""
+"You do not have to be a software developer to be a member of the KDE team. You "
+"can join the national teams that translate program interfaces. You can provide "
+"graphics, themes, sounds, and improved documentation. You decide!"
+"<br>"
+"<br>Visit <A HREF=\"http://www.kde.org/jobs/\">http://www.kde.org/jobs/</A> "
+"for information on some projects in which you can participate."
+"<br>"
+"<br>If you need more information or documentation, then a visit to <A "
+"HREF=\"http://developer.kde.org/\">http://developer.kde.org</A> "
+"will provide you with what you need."
+msgstr ""
+"KDE törkemeneñ äğzäse bulu öçen yazılım citeşterüçe buluı kiräk tügel. Milli "
+"törkemgä qatnaşıp, telläşterü eşenä kerep bula. Qullanma yaqşırtu, "
+"sürätlär/tawışlar/tışlawlar äzerlär eşendä dä qatnaşıp bula. Teläk kenä bulsın!"
+"<br>"
+"<br>Qatnaşu turında belemne <A HREF=\"http://www.kde.org/jobs/\">"
+"http://www.kde.org/jobs/</A> bitendä tabıp bula."
+"<br>"
+"<br>Bonı turında kübrägen <A HREF=\"http://developer.kde.org/\">"
+"http://developer.kde.org</A> bitendä uqıp bula."
 
 #: kdeui/kaboutkde.cpp:67
-msgid "KDE is available free of charge, but making it is not free.<br><br>Thus, the KDE team formed the KDE e.V., a non-profit organization legally founded in Tuebingen, Germany. The KDE e.V. represents the KDE project in legal and financial matters. See <a href=\"http://www.kde-ev.org/\">http://www.kde-ev.org</a> for information on the KDE e.V.<br><br>The KDE team does need financial support. Most of the money is used to reimburse members and others on expenses they experienced when contributing to KDE. You are encouraged to support KDE through a financial donation, using one of the ways described at <a href=\"http://www.kde.org/support/\">http://www.kde.org/support/</a>.<br><br>Thank you very much in advance for your support."
-msgstr "KDE ul buşlay taratılsa da, anı citeştergändä çığımnar bula.<br><br>Çığımnarnı qaplawçı aqça tuplaw öçen Almanianıñ Tübingen şähärendä «KDE e.V.» digän şerkät oyıştırılğan, anıñ turında <a href=\"http://www.kde-ev.org/\">http://www.kde-ev.org</a> säxifäsendä uqıp bula.<br><br>KDE citeşterü eşendä qatnaşqan keşelärneñ çığımnarı şul aqçada qaplana. Aqça beäln yärdäm itü turında <a href=\"http://www.kde.org/support/\">http://www.kde.org/support/</a> bitendä belep bula.<br><br>Yärdäm itärgä teläwçelärgä räxmätebezne aldan uq belderäbez!"
+msgid ""
+"KDE is available free of charge, but making it is not free."
+"<br>"
+"<br>Thus, the KDE team formed the KDE e.V., a non-profit organization legally "
+"founded in Tuebingen, Germany. The KDE e.V. represents the KDE project in legal "
+"and financial matters. See <a href=\"http://www.kde-ev.org/\">"
+"http://www.kde-ev.org</a> for information on the KDE e.V."
+"<br>"
+"<br>The KDE team does need financial support. Most of the money is used to "
+"reimburse members and others on expenses they experienced when contributing to "
+"KDE. You are encouraged to support KDE through a financial donation, using one "
+"of the ways described at <a href=\"http://www.kde.org/support/\">"
+"http://www.kde.org/support/</a>."
+"<br>"
+"<br>Thank you very much in advance for your support."
+msgstr ""
+"KDE ul buşlay taratılsa da, anı citeştergändä çığımnar bula."
+"<br>"
+"<br>Çığımnarnı qaplawçı aqça tuplaw öçen Almanianıñ Tübingen şähärendä «KDE "
+"e.V.» digän şerkät oyıştırılğan, anıñ turında <a "
+"href=\"http://www.kde-ev.org/\">http://www.kde-ev.org</a> "
+"säxifäsendä uqıp bula."
+"<br>"
+"<br>KDE citeşterü eşendä qatnaşqan keşelärneñ çığımnarı şul aqçada qaplana. "
+"Aqça beäln yärdäm itü turında <a href=\"http://www.kde.org/support/\">"
+"http://www.kde.org/support/</a> bitendä belep bula."
+"<br>"
+"<br>Yärdäm itärgä teläwçelärgä räxmätebezne aldan uq belderäbez!"
 
 #: kdeui/kaboutkde.cpp:81
 #, c-format
@@ -5102,176 +5433,189 @@ msgstr "KDE Törkemenä &Qatnaşu"
 msgid "&Support KDE"
 msgstr "KDE'gä &Teräk"
 
-#: kdeui/kstdguiitem.cpp:108 khtml/java/kjavaappletserver.cpp:804
+#: kdeui/kstdguiitem.cpp:110 khtml/java/kjavaappletserver.cpp:804
 msgid "&Yes"
 msgstr "Ä&ye"
 
-#: kdeui/kstdguiitem.cpp:113 khtml/java/kjavaappletserver.cpp:797
+#: kdeui/kstdguiitem.cpp:115 khtml/java/kjavaappletserver.cpp:797
 msgid "&No"
 msgstr "Yu&q"
 
-#: kdeui/kstdguiitem.cpp:118
+#: kdeui/kstdguiitem.cpp:120
 msgid "Discard changes"
 msgstr "Üzgärmäne yuğaltası"
 
-#: kdeui/kstdguiitem.cpp:119
-msgid "Pressing this button will discard all recent changes made in this dialog"
+#: kdeui/kstdguiitem.cpp:121
+msgid ""
+"Pressing this button will discard all recent changes made in this dialog"
 msgstr "Bu töymägä basıp, bu täräzädä baya yasalğan üzgärtmälärne beterä."
 
-#: kdeui/kstdguiitem.cpp:125
+#: kdeui/kstdguiitem.cpp:127
 msgid "Save data"
 msgstr "Biremen saqla"
 
-#: kdeui/kstdguiitem.cpp:130
+#: kdeui/kstdguiitem.cpp:132
 msgid "&Do Not Save"
 msgstr "&Saqlamasqa"
 
-#: kdeui/kstdguiitem.cpp:131
+#: kdeui/kstdguiitem.cpp:133
 msgid "Don't save data"
 msgstr "Eçtälekne saqlamasqa"
 
-#: kdeui/kstdaction_p.h:44 kdeui/kstdguiitem.cpp:136
+#: kdeui/kstdaction_p.h:44 kdeui/kstdguiitem.cpp:138
 msgid "Save &As..."
 msgstr "Y&añaça Saqlaw..."
 
-#: kdeui/kstdguiitem.cpp:137
+#: kdeui/kstdguiitem.cpp:139
 msgid "Save file with another name"
 msgstr "Biremne başqa adı belän saqla"
 
-#: kdeui/kstdguiitem.cpp:142
+#: kdeui/kstdguiitem.cpp:144
 msgid "Apply changes"
 msgstr "Üzgäreşne aşır"
 
-#: kdeui/kstdguiitem.cpp:143
+#: kdeui/kstdguiitem.cpp:145
 msgid ""
-"When clicking <b>Apply</b>, the settings will be handed over to the program, but the dialog will not be closed.\n"
+"When clicking <b>Apply</b>, the settings will be handed over to the program, "
+"but the dialog will not be closed.\n"
 "Use this to try different settings."
 msgstr ""
-"<b>Aşır</b> östenä çirtep, bu täräzä yapmíça, köyläwlärne yazılımğa tapşırıp bula.\n"
+"<b>Aşır</b> östenä çirtep, bu täräzä yapmíça, köyläwlärne yazılımğa tapşırıp "
+"bula.\n"
 "Bonı qullanıp, törle köyläwlärne sınap bula."
 
-#: kdeui/kstdguiitem.cpp:151
+#: kdeui/kstdguiitem.cpp:153
 msgid "Administrator &Mode..."
 msgstr "İ&däräşe Isulı..."
 
-#: kdeui/kstdguiitem.cpp:151
+#: kdeui/kstdguiitem.cpp:153
 msgid "Enter Administrator Mode"
 msgstr "İdäräçe Bulıp Kertü"
 
-#: kdeui/kstdguiitem.cpp:152
-msgid "When clicking <b>Administrator Mode</b> you will be prompted for the administrator (root) password in order to make changes which require root privileges."
-msgstr "<b>İdäräçe Isulı</b> östenä çirtelgäç, idäräçe xoquqı kiräk bulğan eşlärne ütkärü öçen idäräçe (root) sersüze soralaçaq."
+#: kdeui/kstdguiitem.cpp:154
+msgid ""
+"When clicking <b>Administrator Mode</b> you will be prompted for the "
+"administrator (root) password in order to make changes which require root "
+"privileges."
+msgstr ""
+"<b>İdäräçe Isulı</b> östenä çirtelgäç, idäräçe xoquqı kiräk bulğan eşlärne "
+"ütkärü öçen idäräçe (root) sersüze soralaçaq."
 
-#: kdeui/kstdguiitem.cpp:160
+#: kdeui/kstdguiitem.cpp:162
 msgid "Clear input"
 msgstr "Kertüne buşat"
 
-#: kdeui/kstdguiitem.cpp:161
+#: kdeui/kstdguiitem.cpp:163
 msgid "Clear the input in the edit field"
 msgstr "Bu üzgärtü qırın kertüennän buşat"
 
-#: kdeui/kstdaction.cpp:62 kdeui/kstdguiitem.cpp:166
+#: kdeui/kstdaction.cpp:62 kdeui/kstdguiitem.cpp:168
 msgid ""
 "_: show help\n"
 "&Help"
 msgstr "&Yärdäm"
 
-#: kdeui/kstdguiitem.cpp:167
+#: kdeui/kstdguiitem.cpp:169
 msgid "Show help"
 msgstr "Yärdäm kürsätäse"
 
-#: kdeui/kstdguiitem.cpp:173
+#: kdeui/kstdguiitem.cpp:175
 msgid "Close the current window or document"
 msgstr "Biredäge täräzä yä ki istälekne yap"
 
-#: kdeui/kstdguiitem.cpp:179
+#: kdeui/kstdguiitem.cpp:181
 msgid "Reset all items to their default values"
 msgstr "Bar kerem bäyälären töpcayğa awdaru"
 
-#: kdeui/kstdaction.cpp:51 kdeui/kstdguiitem.cpp:186
+#: kdeui/kstdaction.cpp:51 kdeui/kstdguiitem.cpp:188
 msgid ""
 "_: go back\n"
 "&Back"
 msgstr "&Kire"
 
-#: kdeui/kstdguiitem.cpp:187
+#: kdeui/kstdguiitem.cpp:189
 msgid "Go back one step"
 msgstr "Ber adımğa artqa küç"
 
-#: kdeui/kstdaction.cpp:56 kdeui/kstdguiitem.cpp:194
+#: kdeui/kstdaction.cpp:56 kdeui/kstdguiitem.cpp:196
 msgid ""
 "_: go forward\n"
 "&Forward"
 msgstr "&Alğa"
 
-#: kdeui/kstdguiitem.cpp:195
+#: kdeui/kstdguiitem.cpp:197
 msgid "Go forward one step"
 msgstr "Ber adımğa alğa küç"
 
-#: kdeui/kstdguiitem.cpp:206
+#: kdeui/kstdguiitem.cpp:208
 msgid "Opens the print dialog to print the current document"
 msgstr "Biredäge istälekne bastıru öçen bastıru täräzäsen açu"
 
-#: kdeui/kstdguiitem.cpp:212
+#: kdeui/kstdguiitem.cpp:214
 msgid "C&ontinue"
 msgstr "&Däwam"
 
-#: kdeui/kstdguiitem.cpp:213
+#: kdeui/kstdguiitem.cpp:215
 msgid "Continue operation"
 msgstr "Eşlätüne dawam itü"
 
-#: kdeui/kstdguiitem.cpp:219
+#: kdeui/kstdguiitem.cpp:221
 msgid "Delete item(s)"
 msgstr "Keremne beter"
 
-#: kdeui/kstdguiitem.cpp:225
+#: kdeui/kstdguiitem.cpp:227
 msgid "Open file"
 msgstr "Birem açu"
 
-#: kdeui/kstdguiitem.cpp:231
+#: kdeui/kstdguiitem.cpp:233
 msgid "Quit application"
 msgstr "Yazılımnan çığu"
 
-#: kdeui/kstdguiitem.cpp:236
+#: kdeui/kstdguiitem.cpp:238
 msgid "&Reset"
 msgstr "&Awdar"
 
-#: kdeui/kstdguiitem.cpp:237
+#: kdeui/kstdguiitem.cpp:239
 msgid "Reset configuration"
 msgstr "Caylawnı awdar"
 
-#: kdeui/kstdguiitem.cpp:242
+#: kdeui/kstdguiitem.cpp:244
 msgid ""
 "_: Verb\n"
 "&Insert"
 msgstr "&Tıq"
 
-#: kdeui/kstdguiitem.cpp:247
+#: kdeui/kstdguiitem.cpp:249
 msgid "Confi&gure..."
 msgstr "&Caylaw..."
 
-#: kdeui/keditcl2.cpp:701 kdeui/keditcl2.cpp:833 kdeui/kstdguiitem.cpp:252
-#: kutils/kfind.cpp:51 kutils/kfinddialog.cpp:239
+#: kdeui/keditcl2.cpp:701 kdeui/keditcl2.cpp:833 kdeui/kstdguiitem.cpp:254
+#: kutils/kfinddialog.cpp:239
 msgid "&Find"
 msgstr "&Ezläw"
 
-#: kdeui/kstdguiitem.cpp:272
+#: kdeui/kstdguiitem.cpp:274
 msgid "Test"
 msgstr "Sınaw"
 
-#: kdeui/ksyntaxhighlighter.cpp:470 kdeui/ksyntaxhighlighter.cpp:577
+#: kdeui/kstdguiitem.cpp:284
+#, fuzzy
+msgid "&Overwrite"
+msgstr "Östän Yaz"
+
+#: kdeui/ksyntaxhighlighter.cpp:472 kdeui/ksyntaxhighlighter.cpp:579
 msgid "As-you-type spell checking enabled."
 msgstr "Kertkän-çaqta yazu döreslegen tikşerü açıq."
 
-#: kdeui/ksyntaxhighlighter.cpp:472
+#: kdeui/ksyntaxhighlighter.cpp:474
 msgid "As-you-type spell checking disabled."
 msgstr "Kertkän-çaqta yazu döreslegen tikşerü sünek."
 
-#: kdeui/ksyntaxhighlighter.cpp:519
+#: kdeui/ksyntaxhighlighter.cpp:521
 msgid "Incremental Spellcheck"
 msgstr "Arttırulı Yazma-tikşergeç"
 
-#: kdeui/ksyntaxhighlighter.cpp:579
+#: kdeui/ksyntaxhighlighter.cpp:581
 msgid "Too many misspelled words. As-you-type spell checking disabled."
 msgstr "Xatalı süzlär artıq küp. Kertkän-çaqta tikşerü eşe sünderelde."
 
@@ -5299,46 +5643,54 @@ msgstr "Qoraltiräne Yäşer"
 msgid "Toolbars"
 msgstr "Qoraltirä"
 
-#: kdeui/kdatepicker.cpp:87
+#: kdeui/kdatepicker.cpp:88
 #, c-format
 msgid "Week %1"
 msgstr "%1 Atna"
 
-#: kdeui/kdatepicker.cpp:162
+#: kdeui/kdatepicker.cpp:163
 msgid "Next year"
 msgstr "Kiläse yıl"
 
-#: kdeui/kdatepicker.cpp:163
+#: kdeui/kdatepicker.cpp:164
 msgid "Previous year"
 msgstr "Aldağı yıl"
 
-#: kdeui/kdatepicker.cpp:164
+#: kdeui/kdatepicker.cpp:165
 msgid "Next month"
 msgstr "Kiläse ay"
 
-#: kdeui/kdatepicker.cpp:165
+#: kdeui/kdatepicker.cpp:166
 msgid "Previous month"
 msgstr "Aldağı ay"
 
-#: kdeui/kdatepicker.cpp:166
+#: kdeui/kdatepicker.cpp:167
 msgid "Select a week"
 msgstr "Atna saylaw"
 
-#: kdeui/kdatepicker.cpp:167
+#: kdeui/kdatepicker.cpp:168
 msgid "Select a month"
 msgstr "Ay saylaw"
 
-#: kdeui/kdatepicker.cpp:168
+#: kdeui/kdatepicker.cpp:169
 msgid "Select a year"
 msgstr "Yıl saylaw"
 
-#: kdeui/kdatepicker.cpp:169
+#: kdeui/kdatepicker.cpp:170
 msgid "Select the current day"
 msgstr "Bu könen saylaw"
 
 #: kdeui/kwhatsthismanager.cpp:50
-msgid "<b>Not Defined</b><br>There is no \"What's This\" help assigned to this widget. If you want to help us and  describe the widget, you are welcome to <a href=\"submit-whatsthis\">send us \"What's This\" help</a> for it."
-msgstr "<b>Bilgelänmäde</b><br>Bu widget öçen \"Ni Bu\" digän yärdäm barlıqta yuq. <a href=\"submit-whatsthis\">Bu cirdäge \"Ni Bu\" yazmasın</a> bezgä cibärep, yärdäm bitlären tulılandıru eşendä bulışıp bula."
+msgid ""
+"<b>Not Defined</b>"
+"<br>There is no \"What's This\" help assigned to this widget. If you want to "
+"help us and  describe the widget, you are welcome to <a "
+"href=\"submit-whatsthis\">send us \"What's This\" help</a> for it."
+msgstr ""
+"<b>Bilgelänmäde</b>"
+"<br>Bu widget öçen \"Ni Bu\" digän yärdäm barlıqta yuq. <a "
+"href=\"submit-whatsthis\">Bu cirdäge \"Ni Bu\" yazmasın</a> "
+"bezgä cibärep, yärdäm bitlären tulılandıru eşendä bulışıp bula."
 
 #: kdeui/kshortcutdialog.cpp:68
 msgid "Configure Shortcut"
@@ -5348,52 +5700,73 @@ msgstr "Çaptırma Caylaw"
 msgid "Advanced"
 msgstr "Kiñäytep"
 
-#: kdeui/kedittoolbar.cpp:48
+#: kdeui/kedittoolbar.cpp:49
 msgid "--- line separator ---"
 msgstr "--- yul ayırğıçı ---"
 
-#: kdeui/kedittoolbar.cpp:49
+#: kdeui/kedittoolbar.cpp:50
 msgid "--- separator ---"
 msgstr "--- ayırğıç ---"
 
-#: kdeui/kedittoolbar.cpp:373 kdeui/kedittoolbar.cpp:382
-#: kdeui/kedittoolbar.cpp:389 kdeui/kedittoolbar.cpp:397
+#: kdeui/kedittoolbar.cpp:380 kdeui/kedittoolbar.cpp:392
+#: kdeui/kedittoolbar.cpp:402 kdeui/kedittoolbar.cpp:411
 msgid "Configure Toolbars"
 msgstr "Qoraltirälär Caylaw"
 
-#: kdeui/kedittoolbar.cpp:672
+#: kdeui/kedittoolbar.cpp:447
+msgid ""
+"Do you really want to reset all toolbars of this application to their default? "
+"The changes will be applied immediately."
+msgstr ""
+
+#: kdeui/kedittoolbar.cpp:447
+#, fuzzy
+msgid "Reset Toolbars"
+msgstr "Qoraltirä"
+
+#: kdeui/kedittoolbar.cpp:447 khtml/khtmlview.cpp:2478
+#: khtml/khtmlview.cpp:2511 khtml/rendering/render_form.cpp:312
+msgid "Reset"
+msgstr "Awdar"
+
+#: kdeui/kedittoolbar.cpp:761
 msgid "&Toolbar:"
 msgstr "&Qoraltirä:"
 
-#: kdeui/kedittoolbar.cpp:688
+#: kdeui/kedittoolbar.cpp:777
 msgid "A&vailable actions:"
 msgstr "&Bar ğämällär:"
 
-#: kdeui/kedittoolbar.cpp:706
+#: kdeui/kedittoolbar.cpp:795
 msgid "Curr&ent actions:"
 msgstr "Bir&edäge ğämällär:"
 
-#: kdeui/kedittoolbar.cpp:729
+#: kdeui/kedittoolbar.cpp:818
 msgid "Change &Icon..."
 msgstr "&Tamğa Üzgärtü..."
 
-#: kdeui/kedittoolbar.cpp:901
-msgid "This element will be replaced with all the elements of an embedded component."
+#: kdeui/kedittoolbar.cpp:991
+msgid ""
+"This element will be replaced with all the elements of an embedded component."
 msgstr "Bu element urınına quşıluçan komponent elementları urınlaştıralaçaq"
 
-#: kdeui/kedittoolbar.cpp:903
+#: kdeui/kedittoolbar.cpp:993
 msgid "<Merge>"
 msgstr "<Berläşter>"
 
-#: kdeui/kedittoolbar.cpp:905
+#: kdeui/kedittoolbar.cpp:995
 msgid "<Merge %1>"
 msgstr "<%1 Berläşter>"
 
-#: kdeui/kedittoolbar.cpp:911
-msgid "This is a dynamic list of actions. You can move it, but if you remove it you won't be able to re-add it."
-msgstr "Boyırıqlardan torğan üzgärtelüçän tezmä bu. Anı küçerep bula, läkin ul beterelä ikän, anı kire qaytartıp bulmas inde."
+#: kdeui/kedittoolbar.cpp:1001
+msgid ""
+"This is a dynamic list of actions. You can move it, but if you remove it you "
+"won't be able to re-add it."
+msgstr ""
+"Boyırıqlardan torğan üzgärtelüçän tezmä bu. Anı küçerep bula, läkin ul beterelä "
+"ikän, anı kire qaytartıp bulmas inde."
 
-#: kdeui/kedittoolbar.cpp:912
+#: kdeui/kedittoolbar.cpp:1002
 #, c-format
 msgid "ActionList: %1"
 msgstr "ĞämälTezmä: %1"
@@ -5417,26 +5790,36 @@ msgid ""
 msgstr "Forty Tösläre"
 
 #: kdeui/kcolordialog.cpp:87
+#, fuzzy
 msgid ""
 "_: palette name\n"
-"Royal Colors"
+"Rainbow Colors"
 msgstr "Royal Tösläre"
 
 #: kdeui/kcolordialog.cpp:88
 msgid ""
 "_: palette name\n"
+"Royal Colors"
+msgstr "Royal Tösläre"
+
+#: kdeui/kcolordialog.cpp:89
+msgid ""
+"_: palette name\n"
 "Web Colors"
 msgstr "Web Tösläre"
 
-#: kdeui/kcolordialog.cpp:561
+#: kdeui/kcolordialog.cpp:562
 msgid "Named Colors"
 msgstr "Atlı Töslär"
 
-#: kdeui/kcolordialog.cpp:714
-msgid "Unable to read X11 RGB color strings. The following file location(s) were examined:\n"
-msgstr "X11 öçen RGB töslär atamaların uqıp bulmadı. Kiläse urınlaştırular tikşerelde:\n"
+#: kdeui/kcolordialog.cpp:715
+msgid ""
+"Unable to read X11 RGB color strings. The following file location(s) were "
+"examined:\n"
+msgstr ""
+"X11 öçen RGB töslär atamaların uqıp bulmadı. Kiläse urınlaştırular tikşerelde:\n"
 
-#: kdeui/kcolordialog.cpp:937
+#: kdeui/kcolordialog.cpp:938
 msgid "Select Color"
 msgstr "Tös Saylaw"
 
@@ -5499,24 +5882,42 @@ msgid "Hide &Menubar"
 msgstr "&Saylaq Tiräsen Yäşer"
 
 #: kdeui/kstdaction.cpp:241
-msgid "Hide Menubar<p>Hide the menubar. You can usually get it back using the right mouse button inside the window itself."
-msgstr "Saylaq Yäşerü<p>Saylaq tiräsen yäşerü. Täräzä eçendä uñ-çirtü aşa anı ğädättä kire qaytartıp bula."
+msgid ""
+"Hide Menubar"
+"<p>Hide the menubar. You can usually get it back using the right mouse button "
+"inside the window itself."
+msgstr ""
+"Saylaq Yäşerü"
+"<p>Saylaq tiräsen yäşerü. Täräzä eçendä uñ-çirtü aşa anı ğädättä kire qaytartıp "
+"bula."
 
 #: kdeui/kstdaction.cpp:272 kdeui/kstdaction_p.h:97
 msgid "Show St&atusbar"
 msgstr "Xältirä Kürsätü"
 
 #: kdeui/kstdaction.cpp:274
-msgid "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of the window used for status information."
-msgstr "Xältirä Kürsätü<p>Xältiräne kürsätä. Täräzä astında bulğan xältirädä xälät turında belem kürsätelä."
+msgid ""
+"Show Statusbar"
+"<p>Shows the statusbar, which is the bar at the bottom of the window used for "
+"status information."
+msgstr ""
+"Xältirä Kürsätü"
+"<p>Xältiräne kürsätä. Täräzä astında bulğan xältirädä xälät turında belem "
+"kürsätelä."
 
 #: kdeui/kstdaction.cpp:276
 msgid "Hide St&atusbar"
 msgstr "Xältiräne Yäşer"
 
 #: kdeui/kstdaction.cpp:277
-msgid "Hide Statusbar<p>Hides the statusbar, which is the bar at the bottom of the window used for status information."
-msgstr "Xältirä Yäşerü<p>Xältiräne yäşertä. Täräzä astında bulğan xältirädä xälät turında belem kürsätelä."
+msgid ""
+"Hide Statusbar"
+"<p>Hides the statusbar, which is the bar at the bottom of the window used for "
+"status information."
+msgstr ""
+"Xältirä Yäşerü"
+"<p>Xältiräne yäşertä. Täräzä astında bulğan xältirädä xälät turında belem "
+"kürsätelä."
 
 #: kdeui/kpassdlg.cpp:370
 msgid "&Password:"
@@ -5536,12 +5937,14 @@ msgstr "Sersüz qatlawlığın ülçäw:"
 
 #: kdeui/kpassdlg.cpp:427
 msgid ""
-"The password strength meter gives an indication of the security of the password you have entered.  To improve the strength of the password, try:\n"
+"The password strength meter gives an indication of the security of the password "
+"you have entered.  To improve the strength of the password, try:\n"
 " - using a longer password;\n"
 " - using a mixture of upper- and lower-case letters;\n"
 " - using numbers or symbols, such as #, as well as letters."
 msgstr ""
-"Sersüz çıdamlığın ülçätkeç ul kertelgän sersüzneñ iminlek yaqtan yaqşı buluın ülçi. Sersüz çıdamlığın kütärü öçen kiläsen eşläp bula:\n"
+"Sersüz çıdamlığın ülçätkeç ul kertelgän sersüzneñ iminlek yaqtan yaqşı buluın "
+"ülçi. Sersüz çıdamlığın kütärü öçen kiläsen eşläp bula:\n"
 " - ozınraq sersüz qullanu;\n"
 " - olı belän keçe xäreflärne butap qullanu;\n"
 " - xäreflär belän bergä başqa bilgelärne qullanu, ü.ö. sannar, #, ...."
@@ -5556,14 +5959,16 @@ msgstr "Ber bersenä kileşmägän ike sersüz kertelde. Tağın kertep qarísı
 
 #: kdeui/kpassdlg.cpp:520
 msgid ""
-"The password you have entered has a low strength. To improve the strength of the password, try:\n"
+"The password you have entered has a low strength. To improve the strength of "
+"the password, try:\n"
 " - using a longer password;\n"
 " - using a mixture of upper- and lower-case letters;\n"
 " - using numbers or symbols as well as letters.\n"
 "\n"
 "Would you like to use this password anyway?"
 msgstr ""
-"Kertelgän sersüz çıdamlığı bik tübän. Sersüz çıdamlığın kütärü öçen kiläsen eşläp bula:\n"
+"Kertelgän sersüz çıdamlığı bik tübän. Sersüz çıdamlığın kütärü öçen kiläsen "
+"eşläp bula:\n"
 " - ozınraq sersüz qullanu;\n"
 " - olı belän keçe xäreflärne butap qullanu;\n"
 " - xäreflär belän bergä başqa bilgelärne qullanu, ü.ö. sannar, #, ....\n"
@@ -5664,8 +6069,10 @@ msgid "Submit Bug Report"
 msgstr "Bet Yomğağın Cibärü"
 
 #: kdeui/kbugreport.cpp:110
-msgid "Your email address. If incorrect, use the Configure Email button to change it"
-msgstr "Email adreseñ. Tuğrı bulmasa, Email Caylaw töymä qullanıp, anı tözätep bula"
+msgid ""
+"Your email address. If incorrect, use the Configure Email button to change it"
+msgstr ""
+"Email adreseñ. Tuğrı bulmasa, Email Caylaw töymä qullanıp, anı tözätep bula"
 
 #: kdeui/kbugreport.cpp:111
 msgid "From:"
@@ -5697,16 +6104,24 @@ msgid "Send this bug report to %1."
 msgstr "Bet yomğağın %1 adresenä cibärü."
 
 #: kdeui/kbugreport.cpp:147
-msgid "The application for which you wish to submit a bug report - if incorrect, please use the Report Bug menu item of the correct application"
-msgstr "Bet yomğağın cibärü öçen, ul bet kürengän yazılım adı – tuğrı bulmasa, saylaqnıñ Bet Yomğağı digän kerem aşa ul  yazılım adın tözätep bula"
+msgid ""
+"The application for which you wish to submit a bug report - if incorrect, "
+"please use the Report Bug menu item of the correct application"
+msgstr ""
+"Bet yomğağın cibärü öçen, ul bet kürengän yazılım adı – tuğrı bulmasa, "
+"saylaqnıñ Bet Yomğağı digän kerem aşa ul  yazılım adın tözätep bula"
 
 #: kdeui/kbugreport.cpp:148
 msgid "Application: "
 msgstr "Yazılım: "
 
 #: kdeui/kbugreport.cpp:173
-msgid "The version of this application - please make sure that no newer version is available before sending a bug report"
-msgstr "Bu yazılım söreme – bet yomğağın cibärü aldınnan, ul yazılımnıñ yañaraq söremeneñ buluın tikşeräse"
+msgid ""
+"The version of this application - please make sure that no newer version is "
+"available before sending a bug report"
+msgstr ""
+"Bu yazılım söreme – bet yomğağın cibärü aldınnan, ul yazılımnıñ yañaraq "
+"söremeneñ buluın tikşeräse"
 
 #: kdeui/kbugreport.cpp:180
 msgid "no version set (programmer error!)"
@@ -5752,20 +6167,25 @@ msgstr "Ni t&urında: "
 
 #: kdeui/kbugreport.cpp:232
 msgid ""
-"Enter the text (in English if possible) that you wish to submit for the bug report.\n"
-"If you press \"Send\", a mail message will be sent to the maintainer of this program.\n"
+"Enter the text (in English if possible) that you wish to submit for the bug "
+"report.\n"
+"If you press \"Send\", a mail message will be sent to the maintainer of this "
+"program.\n"
 msgstr ""
-"Bet yomğağın cibärü öçen, bet açıqlamasın kertäse bar (İnglizçä, mömkin bulsa).\n"
+"Bet yomğağın cibärü öçen, bet açıqlamasın kertäse bar (İnglizçä, mömkin "
+"bulsa).\n"
 "\"Cibär\" basılğan çaqta bu yazılım citeşterüçesenä bu xäbär cibäräläçäk.\n"
 
 #: kdeui/kbugreport.cpp:252
 msgid ""
 "To submit a bug report, click on the button below.\n"
-"This will open a web browser window on http://bugs.kde.org where you will find a form to fill in.\n"
+"This will open a web browser window on http://bugs.kde.org where you will find "
+"a form to fill in.\n"
 "The information displayed above will be transferred to that server."
 msgstr ""
 "Bet yomğağın cibärü öçen astağı töymägä çirtäse.\n"
-"Şunnan soñ http://bugs.kde.org bite belän web-gizgeç açılır, anda turıası ber form bulaçaq.\n"
+"Şunnan soñ http://bugs.kde.org bite belän web-gizgeç açılır, anda turıası ber "
+"form bulaçaq.\n"
 "Asta kertelgän närsälär şul servergä tapşıralaçaq."
 
 #: kdeui/kbugreport.cpp:260
@@ -5779,24 +6199,53 @@ msgid ""
 msgstr "bilgesez"
 
 #: kdeui/kbugreport.cpp:376
-msgid "You must specify both a subject and a description before the report can be sent."
+msgid ""
+"You must specify both a subject and a description before the report can be "
+"sent."
 msgstr "Yomğaq cibärü aldınnan tarmaq belän açıqlamanı keräse bar."
 
 #: kdeui/kbugreport.cpp:386
 msgid ""
-"<p>You chose the severity <b>Critical</b>. Please note that this severity is intended only for bugs that</p><ul><li>break unrelated software on the system (or the whole system)</li><li>cause serious data loss</li><li>introduce a security hole on the system where the affected package is installed</li></ul>\n"
-"<p>Does the bug you are reporting cause any of the above damage? If it does not, please select a lower severity. Thank you!</p>"
+"<p>You chose the severity <b>Critical</b>. Please note that this severity is "
+"intended only for bugs that</p>"
+"<ul>"
+"<li>break unrelated software on the system (or the whole system)</li>"
+"<li>cause serious data loss</li>"
+"<li>introduce a security hole on the system where the affected package is "
+"installed</li></ul>\n"
+"<p>Does the bug you are reporting cause any of the above damage? If it does "
+"not, please select a lower severity. Thank you!</p>"
 msgstr ""
-"<p><b>Ütmäslek</b> diğan möhimlek saylandı. Andí möhimlekne bolay añlarğa kiräk:</p><ul><li>ul bet başqa yazılımnarnı yä ki sistemne tulayım boza ala</li><li>biremnär yuğaluına kiterä ala</li><li>bu tuplama quyılğan sistem iminlegen boza alsa</li></ul>\n"
-"<p>Belderäse kilgän bet çınlap ta alay citdi me? Yuq bulsa, tübänräk möhimlek saylarğa kiräk. Räxmät!</p>"
+"<p><b>Ütmäslek</b> diğan möhimlek saylandı. Andí möhimlekne bolay añlarğa "
+"kiräk:</p>"
+"<ul>"
+"<li>ul bet başqa yazılımnarnı yä ki sistemne tulayım boza ala</li>"
+"<li>biremnär yuğaluına kiterä ala</li>"
+"<li>bu tuplama quyılğan sistem iminlegen boza alsa</li></ul>\n"
+"<p>Belderäse kilgän bet çınlap ta alay citdi me? Yuq bulsa, tübänräk möhimlek "
+"saylarğa kiräk. Räxmät!</p>"
 
 #: kdeui/kbugreport.cpp:397
 msgid ""
-"<p>You chose the severity <b>Grave</b>. Please note that this severity is intended only for bugs that</p><ul><li>make the package in question unusable or mostly so</li><li>cause data loss</li><li>introduce a security hole allowing access to the accounts of users who use the affected package</li></ul>\n"
-"<p>Does the bug you are reporting cause any of the above damage? If it does not, please select a lower severity. Thank you!</p>"
+"<p>You chose the severity <b>Grave</b>. Please note that this severity is "
+"intended only for bugs that</p>"
+"<ul>"
+"<li>make the package in question unusable or mostly so</li>"
+"<li>cause data loss</li>"
+"<li>introduce a security hole allowing access to the accounts of users who use "
+"the affected package</li></ul>\n"
+"<p>Does the bug you are reporting cause any of the above damage? If it does "
+"not, please select a lower severity. Thank you!</p>"
 msgstr ""
-"<p><b>Citdi</b> diğan möhimlek saylandı. Andí möhimlekne bolay añlarğa kiräk:</p><ul><li>ul bet bu yazılımnı qullanmaslıq itä</li><li>biremnär yuğaluına kiterä ala</li><li>bu tuplama quyılğan sistem iminlegen boza ala, şul isäbennän, qullanuçı biremnären çittän ireşerlek itä</li></ul>\n"
-"<p>Belderäse kilgän betr çınlap ta alay citdi me? Yuq bulsa, tübänräk möhimlek saylarğa kiräk. Räxmät!</p>"
+"<p><b>Citdi</b> diğan möhimlek saylandı. Andí möhimlekne bolay añlarğa "
+"kiräk:</p>"
+"<ul>"
+"<li>ul bet bu yazılımnı qullanmaslıq itä</li>"
+"<li>biremnär yuğaluına kiterä ala</li>"
+"<li>bu tuplama quyılğan sistem iminlegen boza ala, şul isäbennän, qullanuçı "
+"biremnären çittän ireşerlek itä</li></ul>\n"
+"<p>Belderäse kilgän betr çınlap ta alay citdi me? Yuq bulsa, tübänräk möhimlek "
+"saylarğa kiräk. Räxmät!</p>"
 
 #: kdeui/kbugreport.cpp:409
 msgid ""
@@ -5895,11 +6344,11 @@ msgstr "%1 &Turında"
 msgid "About &KDE"
 msgstr "&KDE Turında"
 
-#: kdeui/kactionclasses.cpp:2044
+#: kdeui/kactionclasses.cpp:2085
 msgid "Exit F&ull Screen Mode"
 msgstr "T&ulı Ekranğa Isulı"
 
-#: kdeui/kactionclasses.cpp:2049 kdeui/kstdaction_p.h:98
+#: kdeui/kactionclasses.cpp:2090 kdeui/kstdaction_p.h:98
 msgid "F&ull Screen Mode"
 msgstr "T&ulı Ekranğa"
 
@@ -5917,7 +6366,7 @@ msgid ""
 "Column No. %1"
 msgstr "%1. Buy"
 
-#: kdeui/klistviewsearchline.cpp:422
+#: kdeui/klistviewsearchline.cpp:455
 msgid "S&earch:"
 msgstr "&Ezlise:"
 
@@ -5926,8 +6375,10 @@ msgid "Tip of the Day"
 msgstr "Bu Kön Kiñäşe"
 
 #: kdeui/ktip.cpp:224
-msgid "Did you know...?\n"
-msgstr "Belä ideñme...?\n"
+msgid ""
+"Did you know...?\n"
+msgstr ""
+"Belä ideñme...?\n"
 
 #: kdeui/ktip.cpp:287
 msgid "&Show tips on startup"
@@ -5989,27 +6440,27 @@ msgstr "Tamğa Yanında Yazma"
 msgid "Text Under Icons"
 msgstr "Tamğa Astında Yazma"
 
-#: kdeui/ktoolbar.cpp:2079 kdeui/ktoolbar.cpp:2100
+#: kdeui/ktoolbar.cpp:2080 kdeui/ktoolbar.cpp:2101
 msgid "Small (%1x%2)"
 msgstr "Keçe (%1x%2)"
 
-#: kdeui/ktoolbar.cpp:2081 kdeui/ktoolbar.cpp:2102
+#: kdeui/ktoolbar.cpp:2082 kdeui/ktoolbar.cpp:2103
 msgid "Medium (%1x%2)"
 msgstr "Urtaça (%1x%2)"
 
-#: kdeui/ktoolbar.cpp:2083 kdeui/ktoolbar.cpp:2104
+#: kdeui/ktoolbar.cpp:2084 kdeui/ktoolbar.cpp:2105
 msgid "Large (%1x%2)"
 msgstr "Olıraq (%1x%2)"
 
-#: kdeui/ktoolbar.cpp:2085 kdeui/ktoolbar.cpp:2106
+#: kdeui/ktoolbar.cpp:2086 kdeui/ktoolbar.cpp:2107
 msgid "Huge (%1x%2)"
 msgstr "Olı (%1x%2)"
 
-#: kdeui/ktoolbar.cpp:2117
+#: kdeui/ktoolbar.cpp:2118
 msgid "Text Position"
 msgstr "Yazma Urını"
 
-#: kdeui/ktoolbar.cpp:2119
+#: kdeui/ktoolbar.cpp:2120
 msgid "Icon Size"
 msgstr "Tamğa Ülçäme"
 
@@ -6036,6 +6487,15 @@ msgstr "(Sürätlär yuq)"
 #: kdeui/kaboutdialog.cpp:1770
 msgid "Image missing"
 msgstr "Sürät tabılmadı"
+
+#: kdeui/ktimezonewidget.cpp:45
+#, fuzzy
+msgid "Area"
+msgstr "Yasa"
+
+#: kab/addressbook.cc:295 kdeui/ktimezonewidget.cpp:47
+msgid "Comment"
+msgstr "Açıqlama"
 
 #: kdeui/keditcl2.cpp:105 kdeui/keditcl2.cpp:375 kdeui/keditcl2.cpp:454
 msgid ""
@@ -6158,124 +6618,130 @@ msgstr "Sürät - %1x%2 Noqta"
 msgid "Done."
 msgstr "Buldı."
 
-#: khtml/khtml_ext.cpp:429
+#: khtml/khtml_ext.cpp:431
 msgid "&Copy Text"
 msgstr "Yazunı &İskä al"
 
-#: khtml/khtml_ext.cpp:472
+#: khtml/khtml_ext.cpp:475
 msgid "Search '%1' at %2"
 msgstr "'%1' ezläw, %2 eçendä"
 
-#: khtml/khtml_ext.cpp:481
+#: khtml/khtml_ext.cpp:484
 msgid "Search '%1' At"
 msgstr "'%1' Ezläw:"
 
-#: khtml/khtml_ext.cpp:510
+#: khtml/khtml_ext.cpp:513
 msgid "Open '%1'"
 msgstr "'%1' Açu"
 
-#: khtml/khtml_ext.cpp:517 khtml/khtml_ext.cpp:568
+#: khtml/khtml_ext.cpp:520 khtml/khtml_ext.cpp:577
 msgid "Stop Animations"
 msgstr "Canlandırunı Tuqtat"
 
-#: khtml/khtml_ext.cpp:525
+#: khtml/khtml_ext.cpp:528
 msgid "Copy Email Address"
 msgstr "Email Adresen İskä al"
 
-#: khtml/khtml_ext.cpp:530
+#: khtml/khtml_ext.cpp:533
 msgid "&Save Link As..."
 msgstr "Bäyne Saqlaw..."
 
-#: khtml/khtml_ext.cpp:532
+#: khtml/khtml_ext.cpp:535
 msgid "Copy &Link Address"
 msgstr "&Bäy Urının İskä al"
 
-#: khtml/khtml_ext.cpp:542
+#: khtml/khtml_ext.cpp:545
 msgid "Open in New &Window"
 msgstr "Yaña &Täräzädä Aç"
 
-#: khtml/khtml_ext.cpp:544
+#: khtml/khtml_ext.cpp:547
 msgid "Open in &This Window"
 msgstr "Bu &Täräzädä Aç"
 
-#: khtml/khtml_ext.cpp:546
+#: khtml/khtml_ext.cpp:549
 msgid "Open in &New Tab"
 msgstr "&Yaña Tabaqta Aç"
 
-#: khtml/khtml_ext.cpp:548
+#: khtml/khtml_ext.cpp:551
 msgid "Reload Frame"
 msgstr "Qısanı Yañart"
 
-#: khtml/khtml_ext.cpp:550 khtml/khtml_part.cpp:253
+#: khtml/khtml_ext.cpp:556
+#, fuzzy
+msgid "Block IFrame..."
+msgstr "Sürät Tıyu..."
+
+#: khtml/khtml_ext.cpp:559 khtml/khtml_part.cpp:255
 msgid "View Frame Source"
 msgstr "Qısa Çığanağı"
 
-#: khtml/khtml_ext.cpp:552
+#: khtml/khtml_ext.cpp:561
 msgid "View Frame Information"
 msgstr "Qısa Turında Beleşü"
 
-#: khtml/khtml_ext.cpp:556 khtml/khtml_part.cpp:401
+#: khtml/khtml_ext.cpp:565 khtml/khtml_part.cpp:403
 msgid "Print Frame..."
 msgstr "Qısanı Bastıru..."
 
-#: khtml/khtml_ext.cpp:557 khtml/khtml_part.cpp:259
+#: khtml/khtml_ext.cpp:566 khtml/khtml_part.cpp:261
 msgid "Save &Frame As..."
 msgstr "&Qısanı Saqlaw..."
 
-#: khtml/khtml_ext.cpp:587
+#: khtml/khtml_ext.cpp:596
 msgid "Save Image As..."
 msgstr "Sürätne Saqlaw..."
 
-#: khtml/khtml_ext.cpp:589
+#: khtml/khtml_ext.cpp:598
 msgid "Send Image..."
 msgstr "Sürät Cibärü..."
 
-#: khtml/khtml_ext.cpp:594
+#: khtml/khtml_ext.cpp:603
 msgid "Copy Image"
 msgstr "Sürätne İskä al"
 
-#: khtml/khtml_ext.cpp:599
+#: khtml/khtml_ext.cpp:608
 msgid "Copy Image Location"
 msgstr "Sürät Urınlaşuın İskä al"
 
-#: khtml/khtml_ext.cpp:604
+#: khtml/khtml_ext.cpp:613
 msgid "View Image (%1)"
 msgstr "Sürätne Kürsät (%1)"
 
-#: khtml/khtml_ext.cpp:609
+#: khtml/khtml_ext.cpp:618
 msgid "Block Image..."
 msgstr "Sürät Tıyu..."
 
-#: khtml/khtml_ext.cpp:615
+#: khtml/khtml_ext.cpp:624
 #, c-format
 msgid "Block Images From %1"
 msgstr "Sürät Tıyu, %1 Yaqtan"
 
-#: khtml/khtml_ext.cpp:639
+#: khtml/khtml_ext.cpp:648
 msgid "Save Link As"
 msgstr "Bäyne Saqlaw"
 
-#: khtml/khtml_ext.cpp:659
+#: khtml/khtml_ext.cpp:668
 msgid "Save Image As"
 msgstr "Sürätne Saqlaw..."
 
-#: khtml/khtml_ext.cpp:672
+#: khtml/khtml_ext.cpp:682 khtml/khtml_ext.cpp:695
 msgid "Add URL to Filter"
 msgstr "Sözgeçkä URL Östäw"
 
-#: khtml/khtml_ext.cpp:798
-msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+#: khtml/khtml_ext.cpp:823
+msgid ""
+"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "%1 atlı birem bar inde. Anıñ östennän yazıp almaştırasımı?"
 
-#: khtml/khtml_ext.cpp:798
+#: khtml/khtml_ext.cpp:823
 msgid "Overwrite File?"
 msgstr "Biremne Östennän Yazasımı?"
 
-#: khtml/khtml_ext.cpp:859 kparts/browserrun.cpp:385
+#: khtml/khtml_ext.cpp:884 kparts/browserrun.cpp:385
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "İñderü Citäkçesen (%1) $PATH buyınça tabıp bulmadı "
 
-#: khtml/khtml_ext.cpp:860 kparts/browserrun.cpp:386
+#: khtml/khtml_ext.cpp:885 kparts/browserrun.cpp:386
 msgid ""
 "Try to reinstall it  \n"
 "\n"
@@ -6285,27 +6751,71 @@ msgstr ""
 "\n"
 "Konqueror belän berläşterü sünderelde!"
 
-#: khtml/khtml_ext.cpp:953
+#: khtml/khtml_ext.cpp:978
 #, no-c-format
 msgid "Default Font Size (100%)"
 msgstr "Yazunıñ Töp Ülçäme (100%)"
 
-#: khtml/khtml_ext.cpp:966
+#: khtml/khtml_ext.cpp:991
 #, no-c-format
 msgid "%1%"
 msgstr "%1%"
 
 #: khtml/khtml_printsettings.cpp:31
-msgid "<qt><p><strong>'Print images'</strong></p><p>If this checkbox is enabled, images contained in the HTML page will be printed. Printing may take longer and use more ink or toner.</p><p>If this checkbox is disabled, only the text of the HTML page will be printed, without the included images. Printing will be faster and use less ink or toner.</p> </qt>"
-msgstr "<qt><p><strong>'Sürätlär bastıru'</strong></p><p>Bi närsä açıq bulsa, HTML bit eçendäge sürätlär dä basılğan bulaçaq. Alay itep bastıru waqıtnı da, buyawnı da kübräk alala.</p><p>Bi närsä sünek bulsa, HTML bit yazmaları anıñ eçendä bulğan sürätlärsez basılğan bulaçaq. Alay itep bastıru tizräk tä bulala, buyawnıñ da kimräk qullanuı bar.</p> </qt>"
+msgid ""
+"<qt>"
+"<p><strong>'Print images'</strong></p>"
+"<p>If this checkbox is enabled, images contained in the HTML page will be "
+"printed. Printing may take longer and use more ink or toner.</p>"
+"<p>If this checkbox is disabled, only the text of the HTML page will be "
+"printed, without the included images. Printing will be faster and use less ink "
+"or toner.</p> </qt>"
+msgstr ""
+"<qt>"
+"<p><strong>'Sürätlär bastıru'</strong></p>"
+"<p>Bi närsä açıq bulsa, HTML bit eçendäge sürätlär dä basılğan bulaçaq. Alay "
+"itep bastıru waqıtnı da, buyawnı da kübräk alala.</p>"
+"<p>Bi närsä sünek bulsa, HTML bit yazmaları anıñ eçendä bulğan sürätlärsez "
+"basılğan bulaçaq. Alay itep bastıru tizräk tä bulala, buyawnıñ da kimräk "
+"qullanuı bar.</p> </qt>"
 
 #: khtml/khtml_printsettings.cpp:43
-msgid "<qt><p><strong>'Print header'</strong></p><p>If this checkbox is enabled, the printout of the HTML document will contain a header line at the top of each page. This header contains the current date, the location URL of the printed page and the page number.</p><p>If this checkbox is disabled, the printout of the HTML document will not contain such a header line.</p> </qt>"
-msgstr "<qt><p><strong>'Başlıq bastıru'</strong></p><p>Bi närsä açıq bulsa, HTML bit basılğan çaqta anın aldınnan ber östämä başlıq östälänäçäk. Ul başlıqta bastıru çağı, bit urınlaşuı, basılaçaq bitneñ sanı çığarıla.</p><p>Bi närsä sünek bulsa, HTML bit andí başlıq östälänmiçä basılaçaq.</p> </qt>"
+msgid ""
+"<qt>"
+"<p><strong>'Print header'</strong></p>"
+"<p>If this checkbox is enabled, the printout of the HTML document will contain "
+"a header line at the top of each page. This header contains the current date, "
+"the location URL of the printed page and the page number.</p>"
+"<p>If this checkbox is disabled, the printout of the HTML document will not "
+"contain such a header line.</p> </qt>"
+msgstr ""
+"<qt>"
+"<p><strong>'Başlıq bastıru'</strong></p>"
+"<p>Bi närsä açıq bulsa, HTML bit basılğan çaqta anın aldınnan ber östämä başlıq "
+"östälänäçäk. Ul başlıqta bastıru çağı, bit urınlaşuı, basılaçaq bitneñ sanı "
+"çığarıla.</p>"
+"<p>Bi närsä sünek bulsa, HTML bit andí başlıq östälänmiçä basılaçaq.</p> </qt>"
 
 #: khtml/khtml_printsettings.cpp:56
-msgid "<qt><p><strong>'Printerfriendly mode'</strong></p><p>If this checkbox is enabled, the printout of the HTML document will be black and white only, and all colored background will be converted into white. Printout will be faster and use less ink or toner.</p><p>If this checkbox is disabled, the printout of the HTML document will happen in the original color settings as you see in your application. This may result in areas of full-page color (or grayscale, if you use a black+white printer). Printout will possibly happen slower and will certainly use much more toner or ink.</p> </qt>"
-msgstr "<qt><p><strong>'Basaq İptäşe'</strong></p><p>Bi närsä açıq bulsa, HTML bit aq-qara töstä genä basılaçaq, tösle artyaqlar aq bulıp sanalaçaq. Alay itep bastıru waqıtnı da, buyawnı da kimräk alala.</p><p>Bi närsä sünek bulsa, HTML bit küräktä kürsätelgänençä basılaçaq, yäğni basaq tösle bulsa, tulıtösle itep çığaçaq. Alay itep bastıru waqıtnı da, buyawnı da kübräk alala.</p> </qt>"
+msgid ""
+"<qt>"
+"<p><strong>'Printerfriendly mode'</strong></p>"
+"<p>If this checkbox is enabled, the printout of the HTML document will be black "
+"and white only, and all colored background will be converted into white. "
+"Printout will be faster and use less ink or toner.</p>"
+"<p>If this checkbox is disabled, the printout of the HTML document will happen "
+"in the original color settings as you see in your application. This may result "
+"in areas of full-page color (or grayscale, if you use a black+white printer). "
+"Printout will possibly happen slower and will certainly use much more toner or "
+"ink.</p> </qt>"
+msgstr ""
+"<qt>"
+"<p><strong>'Basaq İptäşe'</strong></p>"
+"<p>Bi närsä açıq bulsa, HTML bit aq-qara töstä genä basılaçaq, tösle artyaqlar "
+"aq bulıp sanalaçaq. Alay itep bastıru waqıtnı da, buyawnı da kimräk alala.</p>"
+"<p>Bi närsä sünek bulsa, HTML bit küräktä kürsätelgänençä basılaçaq, yäğni "
+"basaq tösle bulsa, tulıtösle itep çığaçaq. Alay itep bastıru waqıtnı da, "
+"buyawnı da kübräk alala.</p> </qt>"
 
 #: khtml/khtml_printsettings.cpp:71
 msgid "HTML Settings"
@@ -6323,283 +6833,336 @@ msgstr "Sürätlär bastırası"
 msgid "Print header"
 msgstr "Bastıru başlığı"
 
-#: khtml/khtml_part.cpp:252
+#: khtml/khtml_part.cpp:254
 msgid "View Do&cument Source"
 msgstr "İstälek &Çığanağın Qaraw"
 
-#: khtml/khtml_part.cpp:254
+#: khtml/khtml_part.cpp:256
 msgid "View Document Information"
 msgstr "İstälek Turında Beleşü"
 
-#: khtml/khtml_part.cpp:255
+#: khtml/khtml_part.cpp:257
 msgid "Save &Background Image As..."
 msgstr "Asyaq Süräten Saqlaw..."
 
-#: khtml/khtml_part.cpp:260
+#: khtml/khtml_part.cpp:262
 msgid "Security..."
 msgstr "İminlek..."
 
-#: khtml/khtml_part.cpp:261
-msgid "Security Settings<p>Shows the certificate of the displayed page. Only pages that have been transmitted using a secure, encrypted connection have a certificate.<p> Hint: If the image shows a closed lock, the page has been transmitted over a secure connection."
-msgstr "İminlek Caylawı<p>Kürsätelgän bit imin totaşu aşa alınğan bulsa, anıñ tanıqlığı kürsätelä.<p> Beläse: Bu räsemdä yabıq yozaq kürsätelgän çaqta, bu bit imin totaşu aşa alınğan dip añlarğa kiräk."
+#: khtml/khtml_part.cpp:263
+msgid ""
+"Security Settings"
+"<p>Shows the certificate of the displayed page. Only pages that have been "
+"transmitted using a secure, encrypted connection have a certificate."
+"<p> Hint: If the image shows a closed lock, the page has been transmitted over "
+"a secure connection."
+msgstr ""
+"İminlek Caylawı"
+"<p>Kürsätelgän bit imin totaşu aşa alınğan bulsa, anıñ tanıqlığı kürsätelä."
+"<p> Beläse: Bu räsemdä yabıq yozaq kürsätelgän çaqta, bu bit imin totaşu aşa "
+"alınğan dip añlarğa kiräk."
 
-#: khtml/khtml_part.cpp:267
+#: khtml/khtml_part.cpp:269
 msgid "Print Rendering Tree to STDOUT"
 msgstr "Render Ağaçın STDOUT'qa Çığar"
 
-#: khtml/khtml_part.cpp:268
+#: khtml/khtml_part.cpp:270
 msgid "Print DOM Tree to STDOUT"
 msgstr "DOM Ağaçın STDOUT'qa Çığar"
 
-#: khtml/khtml_part.cpp:269
+#: khtml/khtml_part.cpp:271
 msgid "Stop Animated Images"
 msgstr "Canlı Sürätlärne Tuqtat"
 
-#: khtml/khtml_part.cpp:271
+#: khtml/khtml_part.cpp:273
 msgid "Set &Encoding"
 msgstr "&Bilgelämä Quyu"
 
-#: khtml/khtml_part.cpp:276
+#: khtml/khtml_part.cpp:278
 msgid "Semi-Automatic"
 msgstr "Ayrtıça-Üzennän"
 
-#: khtml/khtml_part.cpp:294 khtml/khtml_part.cpp:2267
+#: khtml/khtml_part.cpp:296 khtml/khtml_part.cpp:2277
 msgid "Automatic Detection"
 msgstr "Üzennän Sizü"
 
-#: khtml/khtml_part.cpp:299
+#: khtml/khtml_part.cpp:301
 msgid ""
 "_: short for Manual Detection\n"
 "Manual"
 msgstr "Qullap"
 
-#: khtml/khtml_part.cpp:354
+#: khtml/khtml_part.cpp:356
 msgid "Use S&tylesheet"
 msgstr "&Bizütabaq Qullanası"
 
-#: khtml/khtml_part.cpp:358
+#: khtml/khtml_part.cpp:360
 msgid "Enlarge Font"
 msgstr "Yazunı Ereräyt"
 
-#: khtml/khtml_part.cpp:360
-msgid "Enlarge Font<p>Make the font in this window bigger. Click and hold down the mouse button for a menu with all available font sizes."
-msgstr "Yazunı Ereräyt<p>Bu täräzä yazuın ereräk itä. Küse töymäsenä basıp torğanda yazunıñ ülçämnäre  belän saylaq çığaçaq."
+#: khtml/khtml_part.cpp:362
+msgid ""
+"Enlarge Font"
+"<p>Make the font in this window bigger. Click and hold down the mouse button "
+"for a menu with all available font sizes."
+msgstr ""
+"Yazunı Ereräyt"
+"<p>Bu täräzä yazuın ereräk itä. Küse töymäsenä basıp torğanda yazunıñ ülçämnäre "
+" belän saylaq çığaçaq."
 
-#: khtml/khtml_part.cpp:364
+#: khtml/khtml_part.cpp:366
 msgid "Shrink Font"
 msgstr "Yazunı Keçeräyt"
 
-#: khtml/khtml_part.cpp:366
-msgid "Shrink Font<p>Make the font in this window smaller. Click and hold down the mouse button for a menu with all available font sizes."
-msgstr "Yazunı Keçeräyt<p>Bu täräzä yazuın keçeräk itä. Küse töymäsenä basıp torğanda yazunıñ ülçämnäre  belän saylaq çığaçaq."
+#: khtml/khtml_part.cpp:368
+msgid ""
+"Shrink Font"
+"<p>Make the font in this window smaller. Click and hold down the mouse button "
+"for a menu with all available font sizes."
+msgstr ""
+"Yazunı Keçeräyt"
+"<p>Bu täräzä yazuın keçeräk itä. Küse töymäsenä basıp torğanda yazunıñ "
+"ülçämnäre  belän saylaq çığaçaq."
 
-#: khtml/khtml_part.cpp:372
-msgid "Find text<p>Shows a dialog that allows you to find text on the displayed page."
+#: khtml/khtml_part.cpp:374
+msgid ""
+"Find text"
+"<p>Shows a dialog that allows you to find text on the displayed page."
 msgstr "Yazma ezläw<p>Kürsätelgän bittä yazma ezläw öçen täräzä kürsätelä."
 
-#: khtml/khtml_part.cpp:376
-msgid "Find next<p>Find the next occurrence of the text that you have found using the <b>Find Text</b> function"
-msgstr "Kiläsen tap<p><b>Yazma Ezläw</b> boyırığı aşa ezlängänne qabat tabu öçen qullanıla"
+#: khtml/khtml_part.cpp:378
+msgid ""
+"Find next"
+"<p>Find the next occurrence of the text that you have found using the <b>"
+"Find Text</b> function"
+msgstr ""
+"Kiläsen tap"
+"<p><b>Yazma Ezläw</b> boyırığı aşa ezlängänne qabat tabu öçen qullanıla"
 
-#: khtml/khtml_part.cpp:381
-msgid "Find previous<p>Find the previous occurrence of the text that you have found using the <b>Find Text</b> function"
-msgstr "Ütkänen tap<p><b>Yazma Ezläw</b> boyırığı aşa ezlängänne kire taba ezläw öçen qullanıla"
+#: khtml/khtml_part.cpp:383
+msgid ""
+"Find previous"
+"<p>Find the previous occurrence of the text that you have found using the <b>"
+"Find Text</b> function"
+msgstr ""
+"Ütkänen tap"
+"<p><b>Yazma Ezläw</b> boyırığı aşa ezlängänne kire taba ezläw öçen qullanıla"
 
-#: khtml/khtml_part.cpp:402
-msgid "Print Frame<p>Some pages have several frames. To print only a single frame, click on it and then use this function."
-msgstr "Qısanı Bastır<p>Qayber bitlär berniçä qısadan tora. Ul qısalarnıñ berärsen genä bastıru öçen bu boyırıq qullanıla."
+#: khtml/khtml_part.cpp:387
+#, fuzzy
+msgid "Find Text as You Type"
+msgstr "Cíu barğan çaqta yazma ezläw bara"
 
-#: khtml/khtml_part.cpp:410
+#: khtml/khtml_part.cpp:389
+#, fuzzy
+msgid "Find Links as You Type"
+msgstr "Cíu barğan çaqta bäylär ezläw bara"
+
+#: khtml/khtml_part.cpp:404
+msgid ""
+"Print Frame"
+"<p>Some pages have several frames. To print only a single frame, click on it "
+"and then use this function."
+msgstr ""
+"Qısanı Bastır"
+"<p>Qayber bitlär berniçä qısadan tora. Ul qısalarnıñ berärsen genä bastıru öçen "
+"bu boyırıq qullanıla."
+
+#: khtml/khtml_part.cpp:412
 msgid "Toggle Caret Mode"
 msgstr "Kertü Isulın Küçerü"
 
-#: khtml/khtml_part.cpp:615
+#: khtml/khtml_part.cpp:617
 msgid "The fake user-agent '%1' is in use."
 msgstr "'%1' atlı aldaqçı user-agent qulanıla."
 
-#: khtml/khtml_part.cpp:1078
+#: khtml/khtml_part.cpp:1080
 msgid "This web page contains coding errors."
 msgstr "Bu bit tözegändä xatalar yasalğan."
 
-#: khtml/khtml_part.cpp:1120
+#: khtml/khtml_part.cpp:1122
 msgid "&Hide Errors"
 msgstr "Xatalar &Yäşeräse"
 
-#: khtml/khtml_part.cpp:1121
+#: khtml/khtml_part.cpp:1123
 msgid "&Disable Error Reporting"
 msgstr "Xata Yomğaqlaw &Sünderäse"
 
-#: khtml/khtml_part.cpp:1161
+#: khtml/khtml_part.cpp:1163
 msgid "<b>Error</b>: %1: %2"
 msgstr "<b>Xata</b>: %1: %2"
 
-#: khtml/khtml_part.cpp:1205
+#: khtml/khtml_part.cpp:1207
 msgid "<b>Error</b>: node %1: %2"
 msgstr "<b>Xata</b>: %1: %2 töyene"
 
-#: khtml/khtml_part.cpp:1348
+#: khtml/khtml_part.cpp:1350
 msgid "Display Images on Page"
 msgstr "Bitlärdä Sürät Kürsätü"
 
-#: khtml/khtml_part.cpp:1535 khtml/khtml_part.cpp:1626
+#: khtml/khtml_part.cpp:1538 khtml/khtml_part.cpp:1629
 msgid "Session is secured with %1 bit %2."
 msgstr "%1 bit belän %2 aşa yaqlanğan sessi."
 
-#: khtml/khtml_part.cpp:1536 khtml/khtml_part.cpp:1628
+#: khtml/khtml_part.cpp:1539 khtml/khtml_part.cpp:1631
 msgid "Session is not secured."
 msgstr "Yaqlanmağan sessi."
 
-#: khtml/khtml_part.cpp:1713
+#: khtml/khtml_part.cpp:1716
 #, c-format
 msgid "Error while loading %1"
 msgstr "%1 yöklägändä xata"
 
-#: khtml/khtml_part.cpp:1715
+#: khtml/khtml_part.cpp:1718
 msgid "An error occurred while loading <B>%1</B>:"
 msgstr "<B>%1</B> yöklägändä xata çıqtı:"
 
-#: khtml/khtml_part.cpp:1750
+#: khtml/khtml_part.cpp:1753
 msgid "Error: "
 msgstr "Xata: "
 
-#: khtml/khtml_part.cpp:1753
+#: khtml/khtml_part.cpp:1756
 msgid "The requested operation could not be completed"
 msgstr "Soralğan eşlänü azağına citkerelmäde"
 
-#: khtml/khtml_part.cpp:1759
+#: khtml/khtml_part.cpp:1762
 msgid "Technical Reason: "
 msgstr "Teknik Säbäp: "
 
-#: khtml/khtml_part.cpp:1764
+#: khtml/khtml_part.cpp:1767
 msgid "Details of the Request:"
 msgstr "Bu Soraw Turında:"
 
-#: khtml/khtml_part.cpp:1766
+#: khtml/khtml_part.cpp:1769
 #, c-format
 msgid "URL: %1"
 msgstr "URL: %1"
 
-#: khtml/khtml_part.cpp:1773
+#: khtml/khtml_part.cpp:1776
 #, c-format
 msgid "Date and Time: %1"
 msgstr "Waqıt belän Zaman: %1"
 
-#: khtml/khtml_part.cpp:1775
+#: khtml/khtml_part.cpp:1778
 #, c-format
 msgid "Additional Information: %1"
 msgstr "Östämä Belem: %1"
 
-#: khtml/khtml_part.cpp:1777
+#: khtml/khtml_part.cpp:1780
 msgid "Description:"
 msgstr "Açıqlama:"
 
-#: khtml/khtml_part.cpp:1783
+#: khtml/khtml_part.cpp:1786
 msgid "Possible Causes:"
 msgstr "Bulırlıq Säbäp:"
 
-#: khtml/khtml_part.cpp:1790
+#: khtml/khtml_part.cpp:1793
 msgid "Possible Solutions:"
 msgstr "Bulırlıq Çişeleş:"
 
-#: khtml/khtml_part.cpp:2104
+#: khtml/khtml_part.cpp:2114
 msgid "Page loaded."
 msgstr "Bit yöklände."
 
-#: khtml/khtml_part.cpp:2106
+#: khtml/khtml_part.cpp:2116
 msgid ""
 "_n: %n Image of %1 loaded.\n"
 "%n Images of %1 loaded."
 msgstr "%n Sürätneñ %1 yöklände."
 
-#: khtml/khtml_part.cpp:3700 khtml/khtml_part.cpp:3787
-#: khtml/khtml_part.cpp:3798
+#: khtml/khtml_part.cpp:3710 khtml/khtml_part.cpp:3797
+#: khtml/khtml_part.cpp:3808
 msgid " (In new window)"
 msgstr " (Yaña täräzädä)"
 
-#: khtml/khtml_part.cpp:3739
+#: khtml/khtml_part.cpp:3749
 msgid "Symbolic Link"
 msgstr "Yomşaq Bäy"
 
-#: khtml/khtml_part.cpp:3741
+#: khtml/khtml_part.cpp:3751
 msgid "%1 (Link)"
 msgstr "%1 (Läñker)"
 
-#: khtml/khtml_part.cpp:3761
+#: khtml/khtml_part.cpp:3771
 msgid "%2 (%1 bytes)"
 msgstr "%2 (%1 bayt)"
 
-#: khtml/khtml_part.cpp:3765
+#: khtml/khtml_part.cpp:3775
 msgid "%2 (%1 K)"
 msgstr "%2 (%1 K)"
 
-#: khtml/khtml_part.cpp:3800
+#: khtml/khtml_part.cpp:3810
 msgid " (In other frame)"
 msgstr " (Başqa qısada)"
 
-#: khtml/khtml_part.cpp:3805
+#: khtml/khtml_part.cpp:3815
 msgid "Email to: "
 msgstr "Moña Email: "
 
-#: khtml/khtml_part.cpp:3811
+#: khtml/khtml_part.cpp:3821
 msgid " - Subject: "
 msgstr " - Ni turında: "
 
-#: khtml/khtml_part.cpp:3813
+#: khtml/khtml_part.cpp:3823
 msgid " - CC: "
 msgstr " - CC: "
 
-#: khtml/khtml_part.cpp:3815
+#: khtml/khtml_part.cpp:3825
 msgid " - BCC: "
 msgstr " - BCC: "
 
-#: khtml/khtml_part.cpp:3904
-msgid "<qt>This untrusted page links to<BR><B>%1</B>.<BR>Do you want to follow the link?"
+#: khtml/khtml_part.cpp:3914
+msgid ""
+"<qt>This untrusted page links to<BR><B>%1</B>.<BR>Do you want to follow the "
+"link?"
 msgstr "<qt>Bu şikle bittä bäy bar:<BR><B>%1</B>.<BR>Ul bäy buyınça küçäseme?"
 
-#: khtml/khtml_part.cpp:3905
+#: khtml/khtml_part.cpp:3915
 msgid "Follow"
 msgstr "Kiläse"
 
-#: khtml/khtml_part.cpp:4005
+#: khtml/khtml_part.cpp:4015
 msgid "Frame Information"
 msgstr "Qısa Turında"
 
-#: khtml/khtml_part.cpp:4011
+#: khtml/khtml_part.cpp:4021
 msgid "   <a href=\"%1\">[Properties]</a>"
 msgstr "   <a href=\"%1\">[Üzençälege]</a>"
 
-#: khtml/khtml_part.cpp:4091
+#: khtml/khtml_part.cpp:4101
 msgid "Save Background Image As"
 msgstr "Asyaq Süräten Saqlaw..."
 
-#: khtml/khtml_part.cpp:4178
+#: khtml/khtml_part.cpp:4188
 msgid "Save Frame As"
 msgstr "Qısanı Saqlaw..."
 
-#: khtml/khtml_part.cpp:4218
+#: khtml/khtml_part.cpp:4228
 msgid "&Find in Frame..."
 msgstr "Qısada &Ezläw..."
 
-#: khtml/khtml_part.cpp:4718
+#: khtml/khtml_part.cpp:4728
 msgid ""
-"Warning:  This is a secure form but it is attempting to send your data back unencrypted.\n"
+"Warning:  This is a secure form but it is attempting to send your data back "
+"unencrypted.\n"
 "A third party may be able to intercept and view this information.\n"
 "Are you sure you wish to continue?"
 msgstr ""
-"Belderü:  Nu form yaqlanğan bulsa da, kertelgän belemne serlämiçä kire cibärep mataşa.\n"
+"Belderü:  Nu form yaqlanğan bulsa da, kertelgän belemne serlämiçä kire cibärep "
+"mataşa.\n"
 "Öçençe yaq bu belemne eläkterä dä ala.\n"
 "Bonı çınlap ta dawam itäseme?"
 
-#: khtml/khtml_part.cpp:4721 khtml/khtml_part.cpp:4730
-#: khtml/khtml_part.cpp:4754
+#: khtml/khtml_part.cpp:4731 khtml/khtml_part.cpp:4740
+#: khtml/khtml_part.cpp:4764
 msgid "Network Transmission"
 msgstr "Çeltärle Taşım"
 
-#: khtml/khtml_part.cpp:4721 khtml/khtml_part.cpp:4731
+#: khtml/khtml_part.cpp:4731 khtml/khtml_part.cpp:4741
 msgid "&Send Unencrypted"
 msgstr "Serlämiçä &Cibär"
 
-#: khtml/khtml_part.cpp:4728
+#: khtml/khtml_part.cpp:4738
 msgid ""
 "Warning: Your data is about to be transmitted across the network unencrypted.\n"
 "Are you sure you wish to continue?"
@@ -6607,7 +7170,7 @@ msgstr ""
 "Belderü: Kertelgän belem çeltär aşa serlänmiçä tapşıralaçaq.\n"
 "Bonı çınlap ta dawam itäseme?"
 
-#: khtml/khtml_part.cpp:4752
+#: khtml/khtml_part.cpp:4762
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
@@ -6615,118 +7178,131 @@ msgstr ""
 "Bu säxifädäge form eçtälege email aşa tapşıralaçaq.\n"
 "Dawam itäse kiläme?"
 
-#: khtml/khtml_part.cpp:4755
+#: khtml/khtml_part.cpp:4765
 msgid "&Send Email"
 msgstr "&Email Cibärü"
 
-#: khtml/khtml_part.cpp:4776
-msgid "<qt>The form will be submitted to <BR><B>%1</B><BR>on your local filesystem.<BR>Do you want to submit the form?"
-msgstr "<qt>Bu form eçtälege cirle birem sistemendäge<BR><B>%1</B><BR>taba cibäräläçäk.<BR>Form eçtälegen cibärü dawam itäseme?"
+#: khtml/khtml_part.cpp:4786
+msgid ""
+"<qt>The form will be submitted to <BR><B>%1</B><BR>on your local filesystem.<BR>"
+"Do you want to submit the form?"
+msgstr ""
+"<qt>Bu form eçtälege cirle birem sistemendäge<BR><B>%1</B><BR>"
+"taba cibäräläçäk.<BR>Form eçtälegen cibärü dawam itäseme?"
 
-#: khtml/html/html_formimpl.cpp:1469 khtml/khtml_part.cpp:4777
-#: khtml/khtmlview.cpp:2408 khtml/khtmlview.cpp:2450
+#: khtml/html/html_formimpl.cpp:1484 khtml/khtml_part.cpp:4787
+#: khtml/khtmlview.cpp:2464 khtml/khtmlview.cpp:2506
 #: khtml/rendering/render_form.cpp:296
 msgid "Submit"
 msgstr "Cibär"
 
-#: khtml/khtml_part.cpp:4825
-msgid "This site attempted to attach a file from your computer in the form submission. The attachment was removed for your protection."
-msgstr "Bu säxifädäge form bu sanaqtağı biremne qıstırıp cibärmäkçe bula. Saqlıq bozmaw öçen, ul qıstırılğan birem ayırılğan buldı."
+#: khtml/khtml_part.cpp:4835
+msgid ""
+"This site attempted to attach a file from your computer in the form submission. "
+"The attachment was removed for your protection."
+msgstr ""
+"Bu säxifädäge form bu sanaqtağı biremne qıstırıp cibärmäkçe bula. Saqlıq bozmaw "
+"öçen, ul qıstırılğan birem ayırılğan buldı."
 
-#: khtml/khtml_part.cpp:4825
+#: khtml/khtml_part.cpp:4835
 msgid "KDE"
 msgstr "KDE"
 
-#: khtml/khtml_part.cpp:5730
+#: khtml/khtml_part.cpp:5740
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6735
+#: khtml/khtml_part.cpp:6779
 msgid "Security Warning"
 msgstr "İminlek Kisätmäse"
 
-#: khtml/khtml_part.cpp:6741
+#: khtml/khtml_part.cpp:6785
 msgid "<qt>Access by untrusted page to<BR><B>%1</B><BR> denied."
 msgstr "<qt>Işanıp betmägän bittän <BR><B>%1</B><BR> taba ireşü tíıldı."
 
-#: khtml/java/kjavaappletserver.cpp:784 khtml/khtml_part.cpp:6742
+#: khtml/java/kjavaappletserver.cpp:784 khtml/khtml_part.cpp:6786
 msgid "Security Alert"
 msgstr "İminlek Beldergeçe"
 
-#: khtml/khtml_part.cpp:7167
+#: khtml/khtml_part.cpp:7211
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr "'%1' digän açıq buqça form eçtälege belän sersüzlär öçen qullanıla."
 
-#: khtml/khtml_part.cpp:7221
+#: khtml/khtml_part.cpp:7265
 msgid "&Close Wallet"
 msgstr "Buqçanı Ya&p"
 
-#: khtml/khtml_part.cpp:7264
+#: khtml/khtml_part.cpp:7308
 msgid "JavaScript &Debugger"
 msgstr "JavaScript &Betçese"
 
-#: khtml/khtml_part.cpp:7288
+#: khtml/khtml_part.cpp:7343
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr "Bu bittäge JavaScript yaña täräzä açıp qaradı."
 
-#: khtml/khtml_part.cpp:7294
+#: khtml/khtml_part.cpp:7349
 msgid "Popup Window Blocked"
 msgstr "Atılma Täräzä Sünek"
 
-#: khtml/khtml_part.cpp:7294
+#: khtml/khtml_part.cpp:7349
+#, fuzzy
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
-" You can click on this icon in the status bar to control this behavior."
+"You can click on this icon in the status bar to control this behavior\n"
+"or to open the popup."
 msgstr ""
 "Bu bittäge JavaScript atılma täräzä açarğa cíınğan.\n"
 "Xältirädäge räsemgä çirtep, tıyu eşen caylap bula."
 
-#: khtml/khtml_part.cpp:7307
-msgid "&Show Blocked Window Passive Popup Notification"
+#: khtml/khtml_part.cpp:7363
+#, c-format
+msgid ""
+"_n: &Show Blocked Popup Window\n"
+"Show %n Blocked Popup Windows"
+msgstr ""
+
+#: khtml/khtml_part.cpp:7364
+#, fuzzy
+msgid "Show Blocked Window Passive Popup &Notification"
 msgstr "Tıyılğan Täräzälär Turında Belderüne &Kürsätäse "
 
-#: khtml/khtml_part.cpp:7309
+#: khtml/khtml_part.cpp:7366
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript'neñ Yaña Täräzä açu Tärtibe..."
 
-#: khtml/khtmlview.cpp:1563
+#: khtml/khtmlview.cpp:1581
 msgid "Find stopped."
 msgstr "Ezläw tuqtadı."
 
-#: khtml/khtmlview.cpp:1574
+#: khtml/khtmlview.cpp:1592
 msgid "Starting -- find links as you type"
 msgstr "Cíu barğan çaqta bäylär ezläw bara"
 
-#: khtml/khtmlview.cpp:1580
+#: khtml/khtmlview.cpp:1598
 msgid "Starting -- find text as you type"
 msgstr "Cíu barğan çaqta yazma ezläw bara"
 
-#: khtml/khtmlview.cpp:1601
+#: khtml/khtmlview.cpp:1619
 msgid "Link found: \"%1\"."
 msgstr "Bäy tabıldı: \"%1\"."
 
-#: khtml/khtmlview.cpp:1606
+#: khtml/khtmlview.cpp:1624
 msgid "Link not found: \"%1\"."
 msgstr "Bäy tabılmadı: \"%1\"."
 
-#: khtml/khtmlview.cpp:1614
+#: khtml/khtmlview.cpp:1632
 msgid "Text found: \"%1\"."
 msgstr "Yazma tabıldı: \"%1\"."
 
-#: khtml/khtmlview.cpp:1619
+#: khtml/khtmlview.cpp:1637
 msgid "Text not found: \"%1\"."
 msgstr "Yazma tabılmadı: \"%1\"."
 
-#: khtml/khtmlview.cpp:1653
+#: khtml/khtmlview.cpp:1679
 msgid "Access Keys activated"
 msgstr "İreşü Töymäse açıldı"
 
-#: khtml/khtmlview.cpp:2422 khtml/khtmlview.cpp:2455
-#: khtml/rendering/render_form.cpp:312
-msgid "Reset"
-msgstr "Awdar"
-
-#: khtml/khtmlview.cpp:2630
+#: khtml/khtmlview.cpp:2693
 #, c-format
 msgid "Print %1"
 msgstr "%1 Bastıru"
@@ -6751,7 +7327,7 @@ msgstr "uqıp çıqqanda ütmäslek xata: %1, %2 yulında, %3 buyında"
 msgid "XML parsing error"
 msgstr "XML eçtälege xatalı"
 
-#: khtml/xml/dom_docimpl.cpp:1969
+#: khtml/xml/dom_docimpl.cpp:1989
 msgid "Basic Page Style"
 msgstr "Üz Bizäleşe"
 
@@ -6830,11 +7406,11 @@ msgstr ""
 "%1 yul %2:\n"
 "%3"
 
-#: khtml/ecma/kjs_html.cpp:2159 khtml/ecma/kjs_window.cpp:1322
+#: khtml/ecma/kjs_html.cpp:2165 khtml/ecma/kjs_window.cpp:1353
 msgid "Confirmation: JavaScript Popup"
 msgstr "Yaslaw: JavaScript Atılması"
 
-#: khtml/ecma/kjs_window.cpp:1325
+#: khtml/ecma/kjs_window.cpp:1356
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
@@ -6842,52 +7418,60 @@ msgstr ""
 "Bu bittäge JavaScript yaña täräzä açmaqçı bula.\n"
 "Aña bonı eşlärgä biräseme?"
 
-#: khtml/ecma/kjs_window.cpp:1328
-msgid "<qt>This site is requesting to open<p>%1</p>in a new browser window via JavaScript.<br />Do you want to allow this?</qt>"
-msgstr "<qt>Bu bittäge JavaScript <p>%1</p>urınlaşuın yaña täräzädä açmaqçı bula.<br />Aña bonı eşlärgä biräseme?</qt>"
+#: khtml/ecma/kjs_window.cpp:1359
+msgid ""
+"<qt>This site is requesting to open"
+"<p>%1</p>in a new browser window via JavaScript.<br />"
+"Do you want to allow this?</qt>"
+msgstr ""
+"<qt>Bu bittäge JavaScript "
+"<p>%1</p>urınlaşuın yaña täräzädä açmaqçı bula.<br />"
+"Aña bonı eşlärgä biräseme?</qt>"
 
-#: khtml/ecma/kjs_html.cpp:2166 khtml/ecma/kjs_window.cpp:1330
+#: khtml/ecma/kjs_html.cpp:2172 khtml/ecma/kjs_window.cpp:1361
 msgid "Allow"
 msgstr "Röxsät it"
 
-#: khtml/ecma/kjs_html.cpp:2166 khtml/ecma/kjs_window.cpp:1330
+#: khtml/ecma/kjs_html.cpp:2172 khtml/ecma/kjs_window.cpp:1361
 msgid "Do Not Allow"
 msgstr "Birmäskä"
 
-#: khtml/ecma/kjs_window.cpp:1563
+#: khtml/ecma/kjs_window.cpp:1639
 msgid "Close window?"
 msgstr "Täräzäne yabasımı?"
 
-#: khtml/ecma/kjs_window.cpp:1563
+#: khtml/ecma/kjs_window.cpp:1639
 msgid "Confirmation Required"
 msgstr "Raslísı Bar"
 
-#: khtml/ecma/kjs_window.cpp:1563
-msgid "Do Not Close"
-msgstr "Yapmasqa"
-
-#: khtml/ecma/kjs_window.cpp:2326
-msgid "Do you want a bookmark pointing to the location \"%1\" to be added to your collection?"
+#: khtml/ecma/kjs_window.cpp:2414
+msgid ""
+"Do you want a bookmark pointing to the location \"%1\" to be added to your "
+"collection?"
 msgstr "Saylanmağa \"%1\" taba kürsätkän bitbilgene östiseme?"
 
-#: khtml/ecma/kjs_window.cpp:2329
-msgid "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be added to your collection?"
+#: khtml/ecma/kjs_window.cpp:2417
+msgid ""
+"Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
+"added to your collection?"
 msgstr "Saylanmağa \"%1\" taba kürsätkän \"%2\" atlı bitbilgene östiseme?"
 
-#: khtml/ecma/kjs_window.cpp:2337
+#: khtml/ecma/kjs_window.cpp:2425
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript eçennän Bitbilge Östälänä"
 
-#: khtml/ecma/kjs_window.cpp:2341
+#: khtml/ecma/kjs_window.cpp:2429
 msgid "Disallow"
 msgstr "Birmäw"
 
 #: khtml/ecma/kjs_proxy.cpp:387
 msgid ""
-"A script on this page is causing KHTML to freeze. If it continues to run, other applications may become less responsive.\n"
+"A script on this page is causing KHTML to freeze. If it continues to run, other "
+"applications may become less responsive.\n"
 "Do you want to abort the script?"
 msgstr ""
-"Bu bittäge ämerlek KHTML'nı öşertep quydı. Ul ämerlek üz eşen dawam itsä, başqa yazılımnar äkren endäşä başlarlar.\n"
+"Bu bittäge ämerlek KHTML'nı öşertep quydı. Ul ämerlek üz eşen dawam itsä, başqa "
+"yazılımnar äkren endäşä başlarlar.\n"
 "Bu ämerlekne özep quyasımı?"
 
 #: khtml/ecma/kjs_proxy.cpp:387
@@ -6898,19 +7482,27 @@ msgstr "JavaScript"
 msgid "&Abort"
 msgstr "&Özäse"
 
-#: khtml/ecma/kjs_html.cpp:2161
+#: khtml/ecma/kjs_html.cpp:2167
 msgid ""
-"This site is submitting a form which will open up a new browser window via JavaScript.\n"
+"This site is submitting a form which will open up a new browser window via "
+"JavaScript.\n"
 "Do you want to allow the form to be submitted?"
 msgstr ""
-"Bu säxifädäge JavaScript form eçtälegen cibärep, gizgeçneñ yaña täräzäsen açmaqçı bula.\n"
+"Bu säxifädäge JavaScript form eçtälegen cibärep, gizgeçneñ yaña täräzäsen "
+"açmaqçı bula.\n"
 "Aña bonı eşlärgä biräseme?"
 
-#: khtml/ecma/kjs_html.cpp:2164
-msgid "<qt>This site is submitting a form which will open <p>%1</p> in a new browser window via JavaScript.<br />Do you want to allow the form to be submitted?</qt>"
-msgstr "<qt>Bu säxifädäge JavaScript form eçtälegen cibärep, <p>%1</p> biten gizgeçneñ yaña täräzäsendä açmaqçı bula.<br />Aña bonı eşlärgä biräseme?</qt>"
+#: khtml/ecma/kjs_html.cpp:2170
+msgid ""
+"<qt>This site is submitting a form which will open "
+"<p>%1</p> in a new browser window via JavaScript.<br />"
+"Do you want to allow the form to be submitted?</qt>"
+msgstr ""
+"<qt>Bu säxifädäge JavaScript form eçtälegen cibärep, "
+"<p>%1</p> biten gizgeçneñ yaña täräzäsendä açmaqçı bula.<br />"
+"Aña bonı eşlärgä biräseme?</qt>"
 
-#: khtml/html/htmlparser.cpp:1648
+#: khtml/html/htmlparser.cpp:1662
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "Ezläp bulğan töp isemlek bu. Ezlise süz kertü: "
 
@@ -6932,7 +7524,8 @@ msgstr "&Barıber Cibär"
 
 #: khtml/html/html_formimpl.cpp:365
 msgid ""
-"You're about to transfer the following files from your local computer to the Internet.\n"
+"You're about to transfer the following files from your local computer to the "
+"Internet.\n"
 "Do you really want to continue?"
 msgstr ""
 "Kiläse biremnärne cirle sanaqtan İnternet säxifäse taba cibärü soralğan.\n"
@@ -6962,9 +7555,27 @@ msgstr "Bu Säxifä öçen &Berqayçan"
 msgid "Do Not Store"
 msgstr "Saqlamasqa"
 
-#: khtml/html/html_formimpl.cpp:614
-msgid "Konqueror has the ability to store the password in an encrypted wallet. When the wallet is unlocked, it can then automatically restore the login information next time you visit this site. Do you want to store the information now?"
-msgstr "Konqueror bu sersüzne serlängän buqçada saqlí ala. Ul buqça açıq bulğanda, bu säxifägä kiläse kergän çaqta ul bu kerü belemen torğıza alaçaq. Bu belemne saqlísımı?"
+#: khtml/html/html_formimpl.cpp:615
+#, fuzzy
+msgid ""
+"Konqueror has the ability to store the password in an encrypted wallet. When "
+"the wallet is unlocked, it can then automatically restore the login information "
+"next time you submit this form. Do you want to store the information now?"
+msgstr ""
+"Konqueror bu sersüzne serlängän buqçada saqlí ala. Ul buqça açıq bulğanda, bu "
+"säxifägä kiläse kergän çaqta ul bu kerü belemen torğıza alaçaq. Bu belemne "
+"saqlísımı?"
+
+#: khtml/html/html_formimpl.cpp:620
+#, fuzzy
+msgid ""
+"Konqueror has the ability to store the password in an encrypted wallet. When "
+"the wallet is unlocked, it can then automatically restore the login information "
+"next time you visit %1. Do you want to store the information now?"
+msgstr ""
+"Konqueror bu sersüzne serlängän buqçada saqlí ala. Ul buqça açıq bulğanda, bu "
+"säxifägä kiläse kergän çaqta ul bu kerü belemen torğıza alaçaq. Bu belemne "
+"saqlísımı?"
 
 #: khtml/java/kjavaappletviewer.cpp:122
 msgid "Applet Parameters"
@@ -7098,15 +7709,15 @@ msgstr "Barın Kire Çaqır"
 msgid "&Grant All"
 msgstr "Barın Çitkä Taşla"
 
-#: khtml/kmultipart/kmultipart.cpp:317
+#: khtml/kmultipart/kmultipart.cpp:320
 msgid "No handler found for %1!"
 msgstr "%1 öçen eşkärtkeç tabılmadı!"
 
-#: khtml/kmultipart/kmultipart.cpp:573
+#: khtml/kmultipart/kmultipart.cpp:576
 msgid "KMultiPart"
 msgstr "KMultiPart"
 
-#: khtml/kmultipart/kmultipart.cpp:575
+#: khtml/kmultipart/kmultipart.cpp:578
 msgid "Embeddable component for multipart/mixed"
 msgstr "Comment=Qıstırmalar öçen Quşılma Komponent"
 
@@ -7133,18 +7744,22 @@ msgstr "İñdermäskä"
 #: kinit/kinit.cpp:440
 msgid ""
 "Unable to start new process.\n"
-"The system may have reached the maximum number of open files possible or the maximum number of open files that you are allowed to use has been reached."
+"The system may have reached the maximum number of open files possible or the "
+"maximum number of open files that you are allowed to use has been reached."
 msgstr ""
 "Yaña eşlänüne cibärep bulmadı.\n"
-"Yä sistemgä, yä qullanuçığa açarğa birelgän birem sanınıñ öske çigenä citü buldı."
+"Yä sistemgä, yä qullanuçığa açarğa birelgän birem sanınıñ öske çigenä citü "
+"buldı."
 
 #: kinit/kinit.cpp:462
 msgid ""
 "Unable to create new process.\n"
-"The system may have reached the maximum number of processes possible or the maximum number of processes that you are allowed to use has been reached."
+"The system may have reached the maximum number of processes possible or the "
+"maximum number of processes that you are allowed to use has been reached."
 msgstr ""
 "Yaña eşlänüne yasap bulmadı.\n"
-"Yä sistemgä, yä qullanuçığa açarğa birelgän eşlänü sanınıñ öske çigenä citü buldı."
+"Yä sistemgä, yä qullanuçığa açarğa birelgän eşlänü sanınıñ öske çigenä citü "
+"buldı."
 
 #: kinit/kinit.cpp:553
 msgid "Could not find '%1' executable."
@@ -7195,13 +7810,17 @@ msgstr "'%1' digän xezmät tözeleşe yaraqsız."
 msgid "Launching %1"
 msgstr "%1 Eşlätterü"
 
-#: kinit/klauncher.cpp:1256
-msgid "Unknown protocol '%1'.\n"
-msgstr "Bilgesez protokol '%1'.\n"
+#: kinit/klauncher.cpp:1263
+msgid ""
+"Unknown protocol '%1'.\n"
+msgstr ""
+"Bilgesez protokol '%1'.\n"
 
-#: kinit/klauncher.cpp:1309
-msgid "Error loading '%1'.\n"
-msgstr "Yökläw xatası: '%1'\n"
+#: kinit/klauncher.cpp:1316
+msgid ""
+"Error loading '%1'.\n"
+msgstr ""
+"Yökläw xatası: '%1'\n"
 
 #: kconf_update/kconf_update.cpp:43
 msgid "Keep output results from scripts"
@@ -7280,11 +7899,16 @@ msgid "Only run modules whose filenames match the regexp."
 msgstr "Modulnıñ birem adı bu regexp belän kileşsä genä cibäräse"
 
 #: kunittest/modrunner.cpp:43
-msgid "Only run tests modules which are found in the folder. Use the query option to select modules."
-msgstr "Bu törgäktä tabılğan sınaw-modullar ğına cibäräse. Modullar saylaw öçen soraw köylämäsen qullanası."
+msgid ""
+"Only run tests modules which are found in the folder. Use the query option to "
+"select modules."
+msgstr ""
+"Bu törgäktä tabılğan sınaw-modullar ğına cibäräse. Modullar saylaw öçen soraw "
+"köylämäsen qullanası."
 
 #: kunittest/modrunner.cpp:44
-msgid "Disables debug capturing. You typically use this option when you use the GUI."
+msgid ""
+"Disables debug capturing. You typically use this option when you use the GUI."
 msgstr "Betsezläwne sünderü. GUI qullanılğan çaqta ğına bu köylämä qullanıla."
 
 #: kunittest/modrunner.cpp:53
@@ -7418,20 +8042,32 @@ msgid "Start replace"
 msgstr "Almaştıra başla"
 
 #: kutils/kfinddialog.cpp:233
-msgid "<qt>If you press the <b>Replace</b> button, the text you entered above is searched for within the document and any occurrence is replaced with the replacement text.</qt>"
-msgstr "<qt><b>Almaştır</b> töymäse basılğan çaqta, östä kertelgän yazma bu istälek eçendä tabılıp almaştıru yazmasına almaştıralaçaq.</qt>"
+msgid ""
+"<qt>If you press the <b>Replace</b> button, the text you entered above is "
+"searched for within the document and any occurrence is replaced with the "
+"replacement text.</qt>"
+msgstr ""
+"<qt><b>Almaştır</b> töymäse basılğan çaqta, östä kertelgän yazma bu istälek "
+"eçendä tabılıp almaştıru yazmasına almaştıralaçaq.</qt>"
 
 #: kutils/kfinddialog.cpp:240
 msgid "Start searching"
 msgstr "Ezlä başla"
 
 #: kutils/kfinddialog.cpp:241
-msgid "<qt>If you press the <b>Find</b> button, the text you entered above is searched for within the document.</qt>"
-msgstr "<qt><b>Tap</b> töymäse basılğan çaqta, östä kertelgän yazma bu istälek eçendä tabılaçaq.</qt>"
+msgid ""
+"<qt>If you press the <b>Find</b> button, the text you entered above is searched "
+"for within the document.</qt>"
+msgstr ""
+"<qt><b>Tap</b> töymäse basılğan çaqta, östä kertelgän yazma bu istälek eçendä "
+"tabılaçaq.</qt>"
 
 #: kutils/kfinddialog.cpp:247
-msgid "Enter a pattern to search for, or select a previous pattern from the list."
-msgstr "Ezläw ürnägen kertäse, yä ki tezmä eçendägelär arasınnan elegräk kertelgänen saylísı."
+msgid ""
+"Enter a pattern to search for, or select a previous pattern from the list."
+msgstr ""
+"Ezläw ürnägen kertäse, yä ki tezmä eçendägelär arasınnan elegräk kertelgänen "
+"saylísı."
 
 #: kutils/kfinddialog.cpp:250
 msgid "If enabled, search for a regular expression."
@@ -7443,11 +8079,24 @@ msgstr "Bonda çirtep tärtip çağılışın sızımlı tözätkeç aşa tözä
 
 #: kutils/kfinddialog.cpp:254
 msgid "Enter a replacement string, or select a previous one from the list."
-msgstr "Almaştıru yazmasın kertäse, yä ki tezmä eçendägelär arasınnan elegräk kertelgänen saylísı."
+msgstr ""
+"Almaştıru yazmasın kertäse, yä ki tezmä eçendägelär arasınnan elegräk "
+"kertelgänen saylísı."
 
 #: kutils/kfinddialog.cpp:256
-msgid "<qt>If enabled, any occurrence of <code><b>\\N</b></code>, where <code><b>N</b></code> is a integer number, will be replaced with the corresponding capture (\"parenthesized substring\") from the pattern.<p>To include (a literal <code><b>\\N</b></code> in your replacement, put an extra backslash in front of it, like <code><b>\\\\N</b></code>.</qt>"
-msgstr "<qt>Açıq ikän, <code><b>\\N</b></code> oçrağan urınnar (<code><b>N</b></code> bonda berär tulısan) ürnäktän kileşterelgän totıq belän almaştıralaçaq (\"tügäräk-cäyä eçendä yazma\").<p>Ürnäkkä <code><b>\\N</b></code> digänen bilge itep kenä kertü öçen, anıñ aldına östämä kireawış kertep qaldırası, yäğni <code><b>\\\\N</b></code> itep.</qt>"
+msgid ""
+"<qt>If enabled, any occurrence of <code><b>\\N</b></code>, where <code><b>N</b>"
+"</code> is a integer number, will be replaced with the corresponding capture "
+"(\"parenthesized substring\") from the pattern."
+"<p>To include (a literal <code><b>\\N</b></code> in your replacement, put an "
+"extra backslash in front of it, like <code><b>\\\\N</b></code>.</qt>"
+msgstr ""
+"<qt>Açıq ikän, <code><b>\\N</b></code> oçrağan urınnar (<code><b>N</b></code> "
+"bonda berär tulısan) ürnäktän kileşterelgän totıq belän almaştıralaçaq "
+"(\"tügäräk-cäyä eçendä yazma\")."
+"<p>Ürnäkkä <code><b>\\N</b></code> digänen bilge itep kenä kertü öçen, anıñ "
+"aldına östämä kireawış kertep qaldırası, yäğni <code><b>\\\\N</b></code> "
+"itep.</qt>"
 
 #: kutils/kfinddialog.cpp:263
 msgid "Click for a menu of available captures."
@@ -7466,8 +8115,12 @@ msgid "Only search within the current selection."
 msgstr "Saylanğan kisäk eçendä genä ezlise."
 
 #: kutils/kfinddialog.cpp:271
-msgid "Perform a case sensitive search: entering the pattern 'Joe' will not match 'joe' or 'JOE', only 'Joe'."
-msgstr "Olı/keçe bilgelär ayırası: 'Azat' ürnägenä 'azat/AZAT/AzAt' süzläre kileşmi, ni barı 'Azat' qına."
+msgid ""
+"Perform a case sensitive search: entering the pattern 'Joe' will not match "
+"'joe' or 'JOE', only 'Joe'."
+msgstr ""
+"Olı/keçe bilgelär ayırası: 'Azat' ürnägenä 'azat/AZAT/AzAt' süzläre kileşmi, ni "
+"barı 'Azat' qına."
 
 #: kutils/kfinddialog.cpp:274
 msgid "Search backwards."
@@ -7542,8 +8195,18 @@ msgid "Invalid regular expression."
 msgstr "Tärtip çağılışı yaraqsız."
 
 #: kutils/kcmoduleloader.cpp:97
-msgid "<qt>There was an error when loading the module '%1'.<br><br>The desktop file (%2) as well as the library (%3) was found but yet the module could not be loaded properly. Most likely the factory declaration was wrong, or the create_* function was missing.</qt>"
-msgstr "<qt>'%1' digän modul yöklägändä xata çıqtı.<br><br>Östäl bireme dä (%2), tuplama da (%3) tabılğan bulsalar da, bu modulnı yökläp bulmadı. Citeştergeç bilgeläweneñ, yä ki create_* funksílarınıñ bulmawı bar.</qt>"
+msgid ""
+"<qt>There was an error when loading the module '%1'."
+"<br>"
+"<br>The desktop file (%2) as well as the library (%3) was found but yet the "
+"module could not be loaded properly. Most likely the factory declaration was "
+"wrong, or the create_* function was missing.</qt>"
+msgstr ""
+"<qt>'%1' digän modul yöklägändä xata çıqtı."
+"<br>"
+"<br>Östäl bireme dä (%2), tuplama da (%3) tabılğan bulsalar da, bu modulnı "
+"yökläp bulmadı. Citeştergeç bilgeläweneñ, yä ki create_* funksílarınıñ bulmawı "
+"bar.</qt>"
 
 #: kutils/kcmoduleloader.cpp:110
 msgid "The specified library %1 could not be found."
@@ -7554,7 +8217,10 @@ msgid "The module %1 could not be found."
 msgstr "%1 digän modulnı tabıp bulmí."
 
 #: kutils/kcmoduleloader.cpp:132
-msgid "<qt><p>The diagnostics is:<br>The desktop file %1 could not be found.</qt>"
+msgid ""
+"<qt>"
+"<p>The diagnostics is:"
+"<br>The desktop file %1 could not be found.</qt>"
 msgstr "<qt><p>Yuraw:<br>Östälneñ %1 digän bireme tabılmadı.</qt>"
 
 #: kutils/kcmoduleloader.cpp:151
@@ -7566,16 +8232,42 @@ msgid "The module %1 is not a valid configuration module."
 msgstr "%1 digän modul ul caylaw öçen yaraqlı modul tügel."
 
 #: kutils/kcmoduleloader.cpp:171
-msgid "<qt><p>The diagnostics is:<br>The desktop file %1 does not specify a library.</qt>"
-msgstr "<qt><p>Yuraw:<br>Östälneñ %1 digän bireme nindider tuplamanı bilgelämägän.</qt>"
+msgid ""
+"<qt>"
+"<p>The diagnostics is:"
+"<br>The desktop file %1 does not specify a library.</qt>"
+msgstr ""
+"<qt>"
+"<p>Yuraw:"
+"<br>Östälneñ %1 digän bireme nindider tuplamanı bilgelämägän.</qt>"
 
 #: kutils/kcmoduleloader.cpp:205
 msgid "There was an error loading the module."
 msgstr "Modul yöklägändä xata kilep çıqtı."
 
 #: kutils/kcmoduleloader.cpp:205 kutils/kcmoduleloader.cpp:273
-msgid "<qt><p>The diagnostics is:<br>%1<p>Possible reasons:</p><ul><li>An error occurred during your last KDE upgrade leaving an orphaned control module<li>You have old third party modules lying around.</ul><p>Check these points carefully and try to remove the module mentioned in the error message. If this fails, consider contacting your distributor or packager.</p></qt>"
-msgstr "<qt><p>Yuraw:<br>%1<p>Bulmalı säbäp:</p><ul><li>KDE soñğı tapqır yañartqanda iske söremendä bulğan idärä modulı qalğan.<li>Başqa yaqtan kilgän idärä modul qullanıla.</ul><p>Bu urınnarnı yaqşıraq tikşerep, anda äytelgän modullarnı beterep çığası. Ul xata qabat çığıp tora ikän, tuplamanı cíğan taratuçığa endäşäse.</p></qt>"
+msgid ""
+"<qt>"
+"<p>The diagnostics is:"
+"<br>%1"
+"<p>Possible reasons:</p>"
+"<ul>"
+"<li>An error occurred during your last KDE upgrade leaving an orphaned control "
+"module"
+"<li>You have old third party modules lying around.</ul>"
+"<p>Check these points carefully and try to remove the module mentioned in the "
+"error message. If this fails, consider contacting your distributor or "
+"packager.</p></qt>"
+msgstr ""
+"<qt>"
+"<p>Yuraw:"
+"<br>%1"
+"<p>Bulmalı säbäp:</p>"
+"<ul>"
+"<li>KDE soñğı tapqır yañartqanda iske söremendä bulğan idärä modulı qalğan."
+"<li>Başqa yaqtan kilgän idärä modul qullanıla.</ul>"
+"<p>Bu urınnarnı yaqşıraq tikşerep, anda äytelgän modullarnı beterep çığası. Ul "
+"xata qabat çığıp tora ikän, tuplamanı cíğan taratuçığa endäşäse.</p></qt>"
 
 #: kutils/kreplace.cpp:49
 msgid "&All"
@@ -7621,8 +8313,36 @@ msgid "Restart"
 msgstr "Yañadan cibär"
 
 #: kutils/kpluginselector.cpp:111
-msgid "<qt><table><tr><td><b>Description:</b></td><td>%1</td></tr><tr><td><b>Author:</b></td><td>%2</td></tr><tr><td><b>Version:</b></td><td>%3</td></tr><tr><td><b>License:</b></td><td>%4</td></tr></table></qt>"
-msgstr "<qt><table><tr><td><b>Açıqlama:</b></td><td>%1</td></tr><tr><td><b>Yazuçı:</b></td><td>%2</td></tr><tr><td><b>Sörem:</b></td><td>%3</td></tr><tr><td><b>Şartnämä:</b></td><td>%4</td></tr></table></qt>"
+msgid ""
+"<qt>"
+"<table>"
+"<tr>"
+"<td><b>Description:</b></td>"
+"<td>%1</td></tr>"
+"<tr>"
+"<td><b>Author:</b></td>"
+"<td>%2</td></tr>"
+"<tr>"
+"<td><b>Version:</b></td>"
+"<td>%3</td></tr>"
+"<tr>"
+"<td><b>License:</b></td>"
+"<td>%4</td></tr></table></qt>"
+msgstr ""
+"<qt>"
+"<table>"
+"<tr>"
+"<td><b>Açıqlama:</b></td>"
+"<td>%1</td></tr>"
+"<tr>"
+"<td><b>Yazuçı:</b></td>"
+"<td>%2</td></tr>"
+"<tr>"
+"<td><b>Sörem:</b></td>"
+"<td>%3</td></tr>"
+"<tr>"
+"<td><b>Şartnämä:</b></td>"
+"<td>%4</td></tr></table></qt>"
 
 #: kutils/kpluginselector.cpp:536
 msgid "(This plugin is not configurable)"
@@ -7679,12 +8399,23 @@ msgid "Continue from the beginning?"
 msgstr "Başınnan dawam itäseme?"
 
 #: kutils/kcmoduleproxy.cpp:212
-msgid "<b>Changes in this section requires root access.</b><br />Click the \"Administrator Mode\" button to allow modifications."
-msgstr "<b>Bu bülektä üzgärtü öçen idäräçe xoquqı kiräk.</b><br />Üzgärtä alu öçen, \"İdäräçe Isulı\" digän töymägä çirtäse."
+msgid ""
+"<b>Changes in this section requires root access.</b><br />"
+"Click the \"Administrator Mode\" button to allow modifications."
+msgstr ""
+"<b>Bu bülektä üzgärtü öçen idäräçe xoquqı kiräk.</b><br />"
+"Üzgärtä alu öçen, \"İdäräçe Isulı\" digän töymägä çirtäse."
 
 #: kutils/kcmoduleproxy.cpp:219
-msgid "This section requires special permissions, probably for system-wide changes; therefore, it is required that you provide the root password to be able to change the module's properties. If you do not provide the password, the module will be disabled."
-msgstr "Bu bülektä böten sistemgä bäyle bulğan kebek üzgäreşlärne kertü öçen ayırmalı xoquqlar kiräk, şuña kürä bu modul caylawın üzgärtü öçen root sersüzen kertäse bar. Ul sersüz kertelmi ikän, bu modul sünek qalaçaq."
+msgid ""
+"This section requires special permissions, probably for system-wide changes; "
+"therefore, it is required that you provide the root password to be able to "
+"change the module's properties. If you do not provide the password, the module "
+"will be disabled."
+msgstr ""
+"Bu bülektä böten sistemgä bäyle bulğan kebek üzgäreşlärne kertü öçen ayırmalı "
+"xoquqlar kiräk, şuña kürä bu modul caylawın üzgärtü öçen root sersüzen kertäse "
+"bar. Ul sersüz kertelmi ikän, bu modul sünek qalaçaq."
 
 #: kutils/kcmoduleproxy.cpp:251
 #, c-format
@@ -7775,8 +8506,11 @@ msgid "Unable to create resource of type '%1'."
 msgstr "%1 digän törlektä resurs yasap bulmadı."
 
 #: kresources/configpage.cpp:360
-msgid "You cannot remove your standard resource! Please select a new standard resource first."
-msgstr "Standard resursnı beterep bulmí! Baştan yaña standard resurs saylísı bar."
+msgid ""
+"You cannot remove your standard resource! Please select a new standard resource "
+"first."
+msgstr ""
+"Standard resursnı beterep bulmí! Baştan yaña standard resurs saylísı bar."
 
 #: kresources/configpage.cpp:394 kresources/configpage.cpp:413
 msgid "You cannot use a read-only resource as standard!"
@@ -7787,12 +8521,19 @@ msgid "You cannot use an inactive resource as standard!"
 msgstr "Eştä bulmağan resurnı standard itep qullanıp bulmí!"
 
 #: kresources/configpage.cpp:498
-msgid "You cannot deactivate the standard resource. Choose another standard resource first."
-msgstr "Bu standard resursnı eştän çığarıp bulmí! Baştan yaña standard resurs saylísı bar."
+msgid ""
+"You cannot deactivate the standard resource. Choose another standard resource "
+"first."
+msgstr ""
+"Bu standard resursnı eştän çığarıp bulmí! Baştan yaña standard resurs saylísı "
+"bar."
 
 #: kresources/configpage.cpp:528
-msgid "There is no valid standard resource! Please select one which is neither read-only nor inactive."
-msgstr "Yaraqlı standard resurs saylanmadı! Baştan yazırlıq eşçän bulğanın saylísı bar."
+msgid ""
+"There is no valid standard resource! Please select one which is neither "
+"read-only nor inactive."
+msgstr ""
+"Yaraqlı standard resurs saylanmadı! Baştan yazırlıq eşçän bulğanın saylísı bar."
 
 #: kab/addressbook.cc:168
 msgid "Headline"
@@ -7844,10 +8585,6 @@ msgstr "Ata İseme"
 msgid "Last Name"
 msgstr "Näsel İseme"
 
-#: kab/addressbook.cc:295
-msgid "Comment"
-msgstr "Açıqlama"
-
 #: kab/addressbook.cc:299
 msgid "Talk Addresses"
 msgstr "Söyläşü Adresläre"
@@ -7894,19 +8631,27 @@ msgstr "Xäter Citmi"
 
 #: kab/addressbook.cc:437
 msgid ""
-"Your local kab configuration file \"%1\" could not be created. kab will probably not work correctly without it.\n"
-"Make sure you have not removed write permission from your local KDE directory (usually ~/.kde)."
+"Your local kab configuration file \"%1\" could not be created. kab will "
+"probably not work correctly without it.\n"
+"Make sure you have not removed write permission from your local KDE directory "
+"(usually ~/.kde)."
 msgstr ""
-"kab öçen \"%1\" atlı cirle caylaw biremen yasap bulmadı. kab anısız tieşleçä eşli almas axrısı.\n"
-"Üz KDE törgägenä yazarlıq xoquqlar buluın tikşerep qararğa bula (ğädättä ul ~/.kde itep atala)."
+"kab öçen \"%1\" atlı cirle caylaw biremen yasap bulmadı. kab anısız tieşleçä "
+"eşli almas axrısı.\n"
+"Üz KDE törgägenä yazarlıq xoquqlar buluın tikşerep qararğa bula (ğädättä ul "
+"~/.kde itep atala)."
 
 #: kab/addressbook.cc:461
 msgid ""
-"Your standard kab database file \"%1\" could not be created. kab will probably not work correctly without it.\n"
-"Make sure you have not removed write permission from your local KDE directory (usually ~/.kde)."
+"Your standard kab database file \"%1\" could not be created. kab will probably "
+"not work correctly without it.\n"
+"Make sure you have not removed write permission from your local KDE directory "
+"(usually ~/.kde)."
 msgstr ""
-"kab öçen \"%1\" atlı standard caylaw biremen yasap bulmadı. kab anısız tieşleçä eşli almas axrısı.\n"
-"Üz KDE törgägenä yazarlıq xoquqlar buluın tikşerep qararğa bula (ğädättä ul ~/.kde itep atala)."
+"kab öçen \"%1\" atlı standard caylaw biremen yasap bulmadı. kab anısız tieşleçä "
+"eşli almas axrısı.\n"
+"Üz KDE törgägenä yazarlıq xoquqlar buluın tikşerep qararğa bula (ğädättä ul "
+"~/.kde itep atala)."
 
 #: kab/addressbook.cc:471
 msgid ""
@@ -7952,7 +8697,8 @@ msgid ""
 "Close it if you intended to do so.\n"
 "Your file will be closed by default."
 msgstr ""
-"Biredä yöklängän \"%1\" atlı biremen yañadan yökläp bulmadı. kab anı yaba yä ki saqlí ala.\n"
+"Biredä yöklängän \"%1\" atlı biremen yañadan yökläp bulmadı. kab anı yaba yä ki "
+"saqlí ala.\n"
 "Ul yalğış beterelgän bulsa, anı saqlap bula.\n"
 "Yabarğa cíınğan çaqta, yabası.\n"
 "Äytelmägän çaqta ul yabılğan bulır."
@@ -8334,8 +9080,11 @@ msgid "0 - Site Certificate"
 msgstr "0 - Säxifä Tanıqlığı"
 
 #: kcert/kcertpart.cc:729 kcert/kcertpart.cc:745
-msgid "A certificate with that name already exists. Are you sure that you wish to replace it?"
-msgstr "Andí atama belän tanıqlıq bar inde. Anı başqası belän almaştırası kiläme?"
+msgid ""
+"A certificate with that name already exists. Are you sure that you wish to "
+"replace it?"
+msgstr ""
+"Andí atama belän tanıqlıq bar inde. Anı başqası belän almaştırası kiläme?"
 
 #: kcert/kcertpart.cc:741 kcert/kcertpart.cc:759
 msgid ""
@@ -8357,15 +9106,15 @@ msgstr ""
 msgid "KDE Certificate Part"
 msgstr "KDE'nıñ Tanıqlıqlar Öleşe"
 
-#: khtml/khtml_settings.cc:151
+#: khtml/khtml_settings.cc:152
 msgid "Accept"
 msgstr "Qabul"
 
-#: khtml/khtml_settings.cc:152
+#: khtml/khtml_settings.cc:153
 msgid "Reject"
 msgstr "Çığart"
 
-#: khtml/khtml_settings.cc:755
+#: khtml/khtml_settings.cc:778
 msgid "Filter error"
 msgstr "Sözgeç xatası"
 
@@ -8529,7 +9278,173 @@ msgstr "&Beldermälär Caylaw..."
 msgid "What's &This?"
 msgstr "&Ni Bu?"
 
-#: kdeui/kstdaction_p.h:110 attic/qtmultilineedit.cpp:2129
+#: kdeui/kstdaction_p.h:110
+#, fuzzy
+msgid "Tip of the &Day"
+msgstr "Bu Kön Kiñäşe"
+
+#: kdecore/kde-config.cpp.in:14
+msgid "A little program to output installation paths"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:18
+msgid "expand ${prefix} and ${exec_prefix} in output"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:19
+msgid "Compiled in prefix for KDE libraries"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:20
+msgid "Compiled in exec_prefix for KDE libraries"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:21
+msgid "Compiled in library path suffix"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:22
+msgid "Prefix in $HOME used to write files"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:23
+msgid "Compiled in version string for KDE libraries"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:24
+#, fuzzy
+msgid "Available KDE resource types"
+msgstr "Barlıqta adreslar:"
+
+#: kdecore/kde-config.cpp.in:25
+msgid "Search path for resource type"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:26
+msgid "User path: desktop|autostart|trash|document"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:27
+msgid "Prefix to install resource files to"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:168
+msgid "Applications menu (.desktop files)"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:169
+msgid "CGIs to run from kdehelp"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:170
+#, fuzzy
+msgid "Configuration files"
+msgstr "Caylaw"
+
+#: kdecore/kde-config.cpp.in:171
+#, fuzzy
+msgid "Where applications store data"
+msgstr "Yazılımğa yañartu ımlawın cibärmäskä"
+
+#: kdecore/kde-config.cpp.in:172
+msgid "Executables in $prefix/bin"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:173
+#, fuzzy
+msgid "HTML documentation"
+msgstr "HTML Caylawı"
+
+#: kdecore/kde-config.cpp.in:174
+#, fuzzy
+msgid "Icons"
+msgstr "Tamğa Ğına"
+
+#: kdecore/kde-config.cpp.in:175
+#, fuzzy
+msgid "Configuration description files"
+msgstr "Kod ürçetüneñ caybireme"
+
+#: kdecore/kde-config.cpp.in:176
+msgid "Libraries"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:177
+msgid "Includes/Headers"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:178
+msgid "Translation files for KLocale"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:179
+msgid "Mime types"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:180
+msgid "Loadable modules"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:181
+#, fuzzy
+msgid "Qt plugins"
+msgstr "Web bizäleş quşılması"
+
+#: kdecore/kde-config.cpp.in:182
+#, fuzzy
+msgid "Services"
+msgstr "Tanıqlıqlar"
+
+#: kdecore/kde-config.cpp.in:183
+msgid "Service types"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:184
+#, fuzzy
+msgid "Application sounds"
+msgstr "Yazılım: "
+
+#: kdecore/kde-config.cpp.in:185
+#, fuzzy
+msgid "Templates"
+msgstr "Almaştır"
+
+#: kdecore/kde-config.cpp.in:186
+msgid "Wallpapers"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:187
+msgid "XDG Application menu (.desktop files)"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:188
+msgid "XDG Menu descriptions (.directory files)"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:189
+msgid "XDG Menu layout (.menu files)"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:190
+msgid "Temporary files (specific for both current host and current user)"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:191
+msgid "UNIX Sockets (specific for both current host and current user)"
+msgstr ""
+
+#: kdecore/kde-config.cpp.in:203
+#, fuzzy
+msgid ""
+"%1 - unknown type\n"
+msgstr "Bilgesez tördä"
+
+#: kdecore/kde-config.cpp.in:228
+msgid ""
+"%1 - unknown type of userpath\n"
+msgstr ""
+
+#: attic/qtmultilineedit.cpp:2129
 msgid "Undo"
 msgstr "Kire qaq"
 
@@ -8686,8 +9601,25 @@ msgid ""
 msgstr "Barına Yu&q"
 
 #: dialogs/qmessagebox.cpp:588
-msgid "<h3>About Qt</h3><p>This program uses Qt version %1.</p><p>Qt is a C++ toolkit for multiplatform GUI &amp; application development.</p><p>Qt provides single-source portability across MS&nbsp;Windows, Mac&nbsp;OS&nbsp;X, Linux, and all major commercial Unix variants.<br>Qt is also available for embedded devices.</p><p>Qt is a Trolltech product. See <tt>http://www.trolltech.com/qt/</tt> for more information.</p>"
-msgstr "<h3>Qt turında</h3><p>Bu yazılım %1 söremle Qt qullana.</p><p>Qt digäne ul C++ telendä törle platformlı GUI belän yazılım citeşterü öçen qorallar cıyıntığı.</p><p>Qt'nıñ töp eşe bularaq, çığanaqlarnı MS Windows, Mac OS X, Linux, tüläwle Unix törläre arasında üzgäreşsez küşermäle itü.<br>Qt şulay uq quşılmalı cıhazlar öçen dä bar.</p><p>Qt'nı Trolltech şirkäte citeştergän. Tulırağın <tt>http://www.trolltech.com/qt/</tt> säxifäsendä uqıp bula.</p>"
+msgid ""
+"<h3>About Qt</h3>"
+"<p>This program uses Qt version %1.</p>"
+"<p>Qt is a C++ toolkit for multiplatform GUI &amp; application development.</p>"
+"<p>Qt provides single-source portability across MS&nbsp;Windows, "
+"Mac&nbsp;OS&nbsp;X, Linux, and all major commercial Unix variants."
+"<br>Qt is also available for embedded devices.</p>"
+"<p>Qt is a Trolltech product. See <tt>http://www.trolltech.com/qt/</tt> "
+"for more information.</p>"
+msgstr ""
+"<h3>Qt turında</h3>"
+"<p>Bu yazılım %1 söremle Qt qullana.</p>"
+"<p>Qt digäne ul C++ telendä törle platformlı GUI belän yazılım citeşterü öçen "
+"qorallar cıyıntığı.</p>"
+"<p>Qt'nıñ töp eşe bularaq, çığanaqlarnı MS Windows, Mac OS X, Linux, tüläwle "
+"Unix törläre arasında üzgäreşsez küşermäle itü."
+"<br>Qt şulay uq quşılmalı cıhazlar öçen dä bar.</p>"
+"<p>Qt'nı Trolltech şirkäte citeştergän. Tulırağın <tt>"
+"http://www.trolltech.com/qt/</tt> säxifäsendä uqıp bula.</p>"
 
 #: dialogs/qmessagebox.cpp:1551
 msgid "About Qt"
@@ -8728,7 +9660,9 @@ msgstr "Añlaşılıp betnämägän \"%1\" eşkärtelmäde"
 #: kernel/qapplication.cpp:2896
 msgid ""
 "_: QT_LAYOUT_DIRECTION\n"
-"Translate this string to the string 'LTR' in left-to-right languages or to 'RTL' in right-to-left languages (such as Hebrew and Arabic) to get proper widget layout."
+"Translate this string to the string 'LTR' in left-to-right languages or to "
+"'RTL' in right-to-left languages (such as Hebrew and Arabic) to get proper "
+"widget layout."
 msgstr "LTR"
 
 #: kernel/qfontdatabase.cpp:1956
@@ -9807,8 +10741,10 @@ msgstr "standalone bilgeläweneñ bäyäse yaraqsız"
 #: qxml_clean.cpp:65
 msgid ""
 "_: QXml\n"
-"encoding declaration or standalone declaration expected while reading the XML declaration"
-msgstr "XML bilgeläwen uqığanda, bilgelämä yä ki standalone äytelgän buluı kötelde."
+"encoding declaration or standalone declaration expected while reading the XML "
+"declaration"
+msgstr ""
+"XML bilgeläwen uqığanda, bilgelämä yä ki standalone äytelgän buluı kötelde."
 
 #: qxml_clean.cpp:66
 msgid ""
@@ -9875,3 +10811,12 @@ msgid ""
 "_: QXml\n"
 "error in the text declaration of an external entity"
 msgstr "tışqı entity öçen yazma bilgeläwendä xata kilep çıqtı"
+
+#~ msgid "Please report bugs to %1, do not mail the authors directly.\n"
+#~ msgstr "Xata yomğağın %1 taba cibär zinhar, yazuçısına turı cibäräse tügel.\n"
+
+#~ msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>, do not mail the authors directly.\n"
+#~ msgstr "Xatalar turında <a href=\"mailto:%1\">%2</a> adresına belderegez, yazuçısına turı yazmağız.\n"
+
+#~ msgid "Do Not Close"
+#~ msgstr "Yapmasqa"
