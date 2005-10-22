@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2005-10-17 02:40+0200\n"
+"POT-Creation-Date: 2005-10-22 02:41+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -3669,21 +3669,21 @@ msgstr "Nöyäber"
 msgid "of December"
 msgstr "Dekäber"
 
-#: kdecore/klocale.cpp:1780 kdecore/klocale.cpp:1920
+#: kdecore/klocale.cpp:1773 kdecore/klocale.cpp:1913
 msgid "pm"
 msgstr "töştän soñ"
 
-#: kdecore/klocale.cpp:1789 kdecore/klocale.cpp:1922
+#: kdecore/klocale.cpp:1782 kdecore/klocale.cpp:1915
 msgid "am"
 msgstr "töşkä tikle"
 
-#: kdecore/klocale.cpp:1963
+#: kdecore/klocale.cpp:1956
 msgid ""
 "_: concatenation of dates and time\n"
 "%1 %2"
 msgstr "%1 %2"
 
-#: kdecore/klocale.cpp:2454
+#: kdecore/klocale.cpp:2447
 msgid "&Next"
 msgstr "&Kiläse"
 

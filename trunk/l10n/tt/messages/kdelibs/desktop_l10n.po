@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2005-10-21 00:57+0000\n"
+"POT-Creation-Date: 2005-10-22 01:01+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -303,7 +303,7 @@ msgstr "Name=Törekçä"
 
 #: tt/messages/entry.desktop:2
 #, fuzzy
-msgid "Name=Tartarish"
+msgid "Name=Tatar"
 msgstr "Name=Törekçä"
 
 #: uk/messages/entry.desktop:2
