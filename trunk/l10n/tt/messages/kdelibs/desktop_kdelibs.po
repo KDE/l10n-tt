@@ -359,6 +359,7 @@ msgid "Name=French"
 msgstr "Name=Fransça"
 
 #: kdecore/all_languages.desktop:2638
+#, fuzzy
 msgid "Name=Frisian"
 msgstr "Frisçä"
 
@@ -1260,6 +1261,7 @@ msgid "Name=Embeddable Image Viewer"
 msgstr "Name=Sürät öçen Qusılma-Kürsätkeç"
 
 #: khtml/kmultipart/kmultipart.desktop:5
+#, fuzzy
 msgid "Name=Embeddable Component for multipart/mixed"
 msgstr "Comment=Qıstırmalar öçen Quşılma Komponent"
 

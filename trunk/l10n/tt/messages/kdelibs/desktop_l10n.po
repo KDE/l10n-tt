@@ -99,6 +99,7 @@ msgid "Name=French"
 msgstr "Name=Fransça"
 
 #: fy/messages/entry.desktop:2
+#, fuzzy
 msgid "Name=Frisian"
 msgstr "Frisçä"
 
@@ -346,3 +347,4 @@ msgstr "Name=Çinçä"
 #: zu/messages/entry.desktop:2
 msgid "Name=Zulu"
 msgstr "Name=Zuluça"
+
