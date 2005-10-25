@@ -1,0 +1,31 @@
+# Tatarish localization
+# Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase kio_tar\n"
+"POT-Creation-Date: 2005-07-11 01:31+0200\n"
+"PO-Revision-Date: 2005-08-11 00:00+04\n"
+"Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: tar.cc:226 tar.cc:317 tar.cc:390
+#, c-format
+msgid ""
+"Could not open the file, probably due to an unsupported file format.\n"
+"%1"
+msgstr ""
+"Bu biremne açıp bulmí, ul totılmağan törendä axrı.\n"
+"%1"
+
+#: tar.cc:460
+#, c-format
+msgid ""
+"The archive file could not be opened, perhaps because the format is unsupported.\n"
+"%1"
+msgstr ""
+"Bu tuplama biremen açıp bulmí, ul totılmağan törendä axrı.\n"
+"%1"

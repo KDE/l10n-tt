@@ -1,0 +1,159 @@
+# Tatarish localization
+# Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase kdesu\n"
+"POT-Creation-Date: 2005-05-18 21:23+0200\n"
+"PO-Revision-Date: 2005-08-11 00:00+04\n"
+"Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kdesu.cpp:56 kdesu.cpp:57
+msgid "Specifies the command to run"
+msgstr "Cibäräse boyırıqnı bilgeli"
+
+#: kdesu.cpp:58
+msgid "Run command under target uid if <file> is not writable"
+msgstr "Boyırıqnı äytelgän uid belän cibäräse, <file> eçenä yazarlıq bulmasa"
+
+#: kdesu.cpp:59
+msgid "Specifies the target uid"
+msgstr "Yünälmä qullanuçısın bilgeli"
+
+#: kdesu.cpp:60
+msgid "Do not keep password"
+msgstr "Sersüz saqlamasqa"
+
+#: kdesu.cpp:61
+msgid "Stop the daemon (forgets all passwords)"
+msgstr "Xezmätne tuqtat (bar sersüzlär onıtılaçaq)"
+
+#: kdesu.cpp:62
+msgid "Enable terminal output (no password keeping)"
+msgstr "Terminalğa çığımnı açası (sersüz saqlamíça)"
+
+#: kdesu.cpp:63
+msgid "Set priority value: 0 <= prio <= 100, 0 is lowest"
+msgstr "Östenlek bäyäse: 0 <= bäyä <= 100, 0 beläne keçeräk"
+
+#: kdesu.cpp:64
+msgid "Use realtime scheduling"
+msgstr "Çınçaq kötterü qullanası"
+
+#: kdesu.cpp:65
+msgid "Let command use existing dcopserver"
+msgstr "Boyırıqqa barlıqtağı dcopserver qullanırğa birü"
+
+#: kdesu.cpp:66
+msgid "Specify icon to use in the password dialog"
+msgstr "Sersüz täräzäsendä qullanası tamğa bilgeläw"
+
+#: kdesu.cpp:67
+msgid "Do not show the command to be run in the dialog"
+msgstr "Eşlätäse boyırıqnı bu täräzädä kürsätmäskä"
+
+#: kdesu.cpp:98
+msgid "KDE su"
+msgstr "KDE su"
+
+#: kdesu.cpp:99
+msgid "Runs a program with elevated privileges."
+msgstr "Yazılımnı kütärelgän östenlek belän cibärü."
+
+#: kdesu.cpp:102
+msgid "Maintainer"
+msgstr "Bulışuçı"
+
+#: kdesu.cpp:104
+msgid "Original author"
+msgstr "Baş yazuçı"
+
+#: kdesu.cpp:127
+msgid "Command '%1' not found."
+msgstr "\"%1\" boyırığı tabılmadı."
+
+#: kdesu.cpp:203
+#, c-format
+msgid "Illegal priority: %1"
+msgstr "Yaraqsız östenlek: %1"
+
+#: kdesu.cpp:231
+msgid "No command specified."
+msgstr "Boyırıq birelmäde."
+
+#: kdesu.cpp:339
+msgid "Su returned with an error.\n"
+msgstr "Su ber xatanı belän qaytarttı.\n"
+
+#: kdesu.cpp:360
+msgid "Command:"
+msgstr "Boyırıq:"
+
+#: kdesu.cpp:365
+msgid "realtime: "
+msgstr "çınçaq: "
+
+#: kdesu.cpp:368
+msgid "Priority:"
+msgstr "Möhimlek:"
+
+#: sudlg.cpp:19
+#, c-format
+msgid "Run as %1"
+msgstr "%1 adınnan Cibär"
+
+#: sudlg.cpp:23
+msgid "The action you requested needs root privileges. Please enter root's password below or click Ignore to continue with your current privileges."
+msgstr "Bu eş qılu öçen root xoquqları kiräk. Xäzer root sersüzen kertäse qala, yä ki Qarama östenä çirtep biredäge xoquqlar belän däwam itäse."
+
+#: sudlg.cpp:27
+msgid "The action you requested needs additional privileges. Please enter the password for \"%1\" below or click Ignore to continue with your current privileges."
+msgstr "Bu soralğan eş qılu öçen östämä xoquqlar kiräk. Xäzer \"%1\" öçen sersüz kertäse qala, yä ki Qarama östenä çirtep biredäge xoquqlar belän däwam itäse."
+
+#: sudlg.cpp:32
+msgid "&Ignore"
+msgstr "&Uzası"
+
+#: sudlg.cpp:48
+msgid "Conversation with su failed."
+msgstr "su aşa äyländerü uzmadı."
+
+#: sudlg.cpp:57
+msgid ""
+"The program 'su' is not found;\n"
+"make sure your PATH is set correctly."
+msgstr ""
+"'su' atlı yazılım tabılmadı;\n"
+"biredäge PATH tieşleçä köylängän buluın tikşeräse."
+
+#: sudlg.cpp:64
+msgid ""
+"You are not allowed to use 'su';\n"
+"on some systems, you need to be in a special group (often: wheel) to use this program."
+msgstr ""
+"'su' qullanu tíılğan;\n"
+"bu yazılımnı qullanu öçen, qayber sistemnärdä nindider törkemgä kergän buluı kiräk (yış: wheel)."
+
+#: sudlg.cpp:71
+msgid "Incorrect password; please try again."
+msgstr "Sersüz kileşmäde; tağın kertep qara."
+
+#: sudlg.cpp:75
+msgid "Internal error: illegal return from SuProcess::checkInstall()"
+msgstr "Eçke xata: SuProcess::checkInstall() qaytarğanı yaraqsız"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Tatarish Localizators"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "tatarish-l10n@gmail.com"

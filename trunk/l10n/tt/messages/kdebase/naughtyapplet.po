@@ -1,0 +1,73 @@
+# Tatarish localization
+# Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase naughtyapplet\n"
+"POT-Creation-Date: 2005-07-09 01:31+0200\n"
+"PO-Revision-Date: 2005-08-11 00:00+04\n"
+"Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: NaughtyApplet.cpp:112
+msgid ""
+"A program called '%1' is slowing down the others on your machine. It may have a bug that is causing this, or it may just be busy.\n"
+"Would you like to try to stop the program?"
+msgstr ""
+"'%1' digän yazılım bu sistem eşen äkrenäytä. Anıñ böcäge buluınnan da alay bulıp çığuı bar, yä ki ul üzennän üze şulay eşli.\n"
+"Ul yazılımnı tuqtatıp qarísı kilmime?"
+
+#: NaughtyApplet.cpp:117
+msgid "Keep Running"
+msgstr "CIbärelgän Kileş Qaldır"
+
+#: NaughtyApplet.cpp:123
+msgid "In future, should busy programs called '%1' be ignored?"
+msgstr "Kiläçäktä '%1' atlı yazılımnıñ yökle buluına qaramasqamı?"
+
+#: NaughtyApplet.cpp:125
+msgid "Ignore"
+msgstr "Uzası"
+
+#: NaughtyApplet.cpp:125
+msgid "Do Not Ignore"
+msgstr "Ütmäskä"
+
+#: NaughtyApplet.cpp:163
+msgid "Naughty applet"
+msgstr "Şikle applet"
+
+#: NaughtyApplet.cpp:165
+msgid "Runaway process catcher"
+msgstr "Içqınğan eşlänü totqıç"
+
+#: NaughtyConfigDialog.cpp:55
+msgid "&Update interval:"
+msgstr "&Yañartu arası:"
+
+#: NaughtyConfigDialog.cpp:56
+msgid "CPU &load threshold:"
+msgstr "CPU &yöklänü adımı:"
+
+#: NaughtyConfigDialog.cpp:62
+msgid "&Programs to Ignore"
+msgstr "Ütäse &Yazılımnar"
+
+#: NaughtyProcessMonitor.cpp:242 NaughtyProcessMonitor.cpp:279
+msgid "Unknown"
+msgstr "Bilgesez"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Tatarish Localizators"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "tatarish-l10n@gmail.com"

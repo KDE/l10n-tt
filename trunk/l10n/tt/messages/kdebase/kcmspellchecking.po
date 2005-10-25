@@ -1,0 +1,21 @@
+# Tatarish localization
+# Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase kcmspellchecking\n"
+"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"PO-Revision-Date: 2005-08-11 00:00+04\n"
+"Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: spellchecking.cpp:38
+msgid "Spell Checking Settings"
+msgstr "Yazu Tikşerüen Caylaw"
+
+#: spellchecking.cpp:46
+msgid "<h1>Spell Checker</h1><p>This control module allows you to configure the KDE spell checking system. You can configure:<ul><li> which spell checking program to use<li> which types of spelling errors are identified<li> which dictionary is used by default.</ul><br>The KDE spell checking system (KSpell) provides support for two common spell checking utilities: ASpell and ISpell. This allows you to share dictionaries between KDE applications and non-KDE applications.</p>"
+msgstr "<h1>Yazma Tikşergeç</h1><p>KDE'neñ yazma tikşergeç sistemen bu modul aşa köyläp bula. Köylänä torğannarı arasında:<ul><li> tikşergeç tazılımnarnıñ qaysın qullanası<li> qaysı xatalar tabası<li> töp itep qaysı süzlek qullanası.</ul><br>KDE'neñ KSpell atlı yazma tikşergeç sisteme ike töp yazma-tikşergeçne tota: ASpell belän ISpell. Şulay itep, tikşerü süzleklären KDE-yazılımnar belän KDE-bulmağan arasında büleşep qullanırğa bula.</p>"

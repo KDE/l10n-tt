@@ -1,0 +1,53 @@
+# Tatarish localization
+# Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase kwriteconfig\n"
+"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"PO-Revision-Date: 2005-08-11 00:00+04\n"
+"Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kwriteconfig.cpp:19
+msgid "Use <file> instead of global config"
+msgstr "Ğömümi caybirem urınına <file> qullanası"
+
+#: kwriteconfig.cpp:20
+msgid "Group to look in"
+msgstr "Nindi törkemdä ezlise"
+
+#: kwriteconfig.cpp:21
+msgid "Key to look for"
+msgstr "Nindi açqıç ezlise"
+
+#: kwriteconfig.cpp:22
+msgid "Type of variable. Use \"bool\" for a boolean, otherwise it is treated as a string"
+msgstr "Üzgärelmä töre. Yuqbar öçen \"bool\" qullanası, yä isä ul sätir kebek qullanılır"
+
+#: kwriteconfig.cpp:23
+msgid "The value to write. Mandatory, on a shell use '' for empty"
+msgstr "Saqlaw öçen bäyä. Mäcbüri. Buş bulsa, qabıqta '' qullanası"
+
+#: kwriteconfig.cpp:28
+msgid "KWriteConfig"
+msgstr "KWriteConfig"
+
+#: kwriteconfig.cpp:30
+msgid "Write KConfig entries - for use in shell scripts"
+msgstr "KConfig keremnär yazu - qabıq ämerleklärendä qullanu öçen"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Tatarish Localizators"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "tatarish-l10n@gmail.com"

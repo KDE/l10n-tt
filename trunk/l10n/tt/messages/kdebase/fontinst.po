@@ -1,0 +1,695 @@
+# Tatarish localization
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase fontinst\n"
+"POT-Creation-Date: 2003-06-23 21:00+0200\n"
+"PO-Revision-Date: 2005-08-11 00:00+04\n"
+"Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: AfmCreator.cpp:73
+msgid "Creating AFM: "
+msgstr "AFM Yasaw: "
+
+#: AfmCreator.cpp:76
+msgid ""
+"There was an error creating:\n"
+"%1\n"
+"Do you wish to continue?"
+msgstr ""
+"Bonı yasağanda xata kilep çıqtı:\n"
+"%1\n"
+"Dawam itäse kiläme?"
+
+#: AfmCreator.cpp:77
+msgid "AFM Error"
+msgstr "AFM Xatası"
+
+#: AfmCreator.cpp:418 FontListWidget.cpp:1849 StarOfficeConfig.cpp:251
+#: Ttf.cpp:457
+msgid "Success"
+msgstr "Uñışlı"
+
+#: AfmCreator.cpp:420
+msgid "Could not find encoding"
+msgstr "Bilgelämä tabıp bulmadı"
+
+#: AfmCreator.cpp:422
+msgid "Could not open font file"
+msgstr "Yazu biremen açıp bulmadı"
+
+#: AfmCreator.cpp:424
+msgid "Could not create file"
+msgstr "Birem yasap bulmadı"
+
+#: AfmCreator.cpp:426 FontListWidget.cpp:1865 StarOfficeConfig.cpp:267
+msgid "Unknown"
+msgstr "Bilgesez"
+
+#: Config.cpp:251
+msgid "<Not Found>"
+msgstr "<Tabılmadı>"
+
+#: ErrorDialog.cpp:39
+msgid "Errors"
+msgstr "Xatalar"
+
+#: ErrorDialog.cpp:61
+msgid "Item"
+msgstr "Kerem"
+
+#: ErrorDialog.cpp:62
+msgid "Reason"
+msgstr "Säbäp"
+
+#: FontListWidget.cpp:414 FontListWidget.cpp:450 FontListWidget.cpp:890
+#: FontListWidget.cpp:925 FontSelectorWidget.cpp:166
+msgid "Scanning folder %1:"
+msgstr "%1 törgägen uqıp çığu:"
+
+#: FontListWidget.cpp:558 FontSelectorWidget.cpp:66
+msgid "ERROR: Could not open font"
+msgstr "XATA: Yazu acıp bulmí"
+
+#: FontListWidget.cpp:594 FontListWidget.cpp:837 FontSelectorWidget.cpp:212
+msgid "Folder/File"
+msgstr "Törkem/Birem"
+
+#: FontListWidget.cpp:607 FontSelectorWidget.cpp:213
+msgid "Name"
+msgstr "İsem"
+
+#: FontListWidget.cpp:623 FontSelectorWidget.cpp:227
+msgid "Show Meta Data"
+msgstr "Meta-Belem Kürsätü"
+
+#: FontListWidget.cpp:625 FontListWidget.cpp:1709
+msgid "Fix TTF PostScript Names"
+msgstr "TTF PostScript Adın Tözät"
+
+#: FontListWidget.cpp:628
+msgid "Create New Sub-Folder..."
+msgstr "Yaña Eç-Törgäk Yasaw..."
+
+#: FontListWidget.cpp:630
+msgid "Set Unscaled"
+msgstr "Ereräytep Tormasqa"
+
+#: FontListWidget.cpp:631
+msgid "Set Scaled"
+msgstr "Ereräytep Torası"
+
+#: FontListWidget.cpp:791 FontListWidget.cpp:867
+msgid "No Fonts!"
+msgstr "Yazular Yuq!"
+
+#: FontListWidget.cpp:839
+msgid "X11 Fonts Folder"
+msgstr "X11 Yazular Törgäge"
+
+#: FontListWidget.cpp:1129
+msgid "Please select destination folder first!"
+msgstr "Çığaru törgägen elegräk saqlísı!"
+
+#: FontListWidget.cpp:1137
+msgid "Install Fonts"
+msgstr "Yazu Quyu"
+
+#: FontListWidget.cpp:1142
+msgid "Reading font information"
+msgstr "Yazu turında uqıp çığu"
+
+#: FontListWidget.cpp:1367
+msgid "Updating:"
+msgstr "Yañartu:"
+
+#: FontListWidget.cpp:1467
+msgid "The following items could not be updated:"
+msgstr "Kiläse keremnär yañartılğan bulmağannar:"
+
+#: FontListWidget.cpp:1706
+msgid ""
+"This will *permanently* alter the TrueType font file(s),\n"
+"and cannot be undone.\n"
+"\n"
+"Are you sure?"
+msgstr ""
+"Alay eşlänsä, bu TrueType yazu biremnäre qayartmaslıq\n"
+"üzgäreläçäk, yäğni kire qaytartıp bulmayaçaq inde.\n"
+"\n"
+"Çınlap ta eşliseme?"
+
+#: FontListWidget.cpp:1719
+msgid "Fixing:"
+msgstr "Tözätü:"
+
+#: FontListWidget.cpp:1738
+msgid "The following files could not be modified:"
+msgstr "Kiläse biremnär üzgärtelgän bulmağannar:"
+
+#: FontListWidget.cpp:1776
+msgid "Folder %1 is not writable!"
+msgstr "%1 törgägenä yazıp bulmí!"
+
+#: FontListWidget.cpp:1782
+msgid "New Folder"
+msgstr "Yaña Törgäk"
+
+#: FontListWidget.cpp:1783
+msgid "New folder name:"
+msgstr "Yaña törgäk adı:"
+
+#: FontListWidget.cpp:1792
+msgid "Cannot create folders named \"%1\""
+msgstr "\"%1\" atlı törgäk yasap bulmadı"
+
+#: FontListWidget.cpp:1795
+msgid "Folder already exists!"
+msgstr "Törgäk bar inde!"
+
+#: FontListWidget.cpp:1851
+msgid "Permission denied?"
+msgstr "Röxsät itmäde?"
+
+#: FontListWidget.cpp:1853
+msgid "Already installed"
+msgstr "Quyılğan inde"
+
+#: FontListWidget.cpp:1855
+msgid "Contains sub-folders"
+msgstr "Eçtörgäklär bar"
+
+#: FontListWidget.cpp:1857
+msgid "Could not create folder to uninstall to"
+msgstr "Bonı eçenä quyu öçen törgäkne yasap bulmí:"
+
+#: FontListWidget.cpp:1859
+msgid "Could not delete folder"
+msgstr "Törgäkne beterep bulmadı"
+
+#: FontListWidget.cpp:1861
+msgid "Invalid font - or font file corrupt"
+msgstr "Yaraqsız yazu - yä isä yazu bireme bozıq"
+
+#: FontListWidget.cpp:1863
+msgid "Folder is not empty"
+msgstr "Törgäk buş tügel"
+
+#: FontPreview.cpp:42
+msgid " No preview available"
+msgstr " Aldan küzläp bulmí"
+
+#: FontSelectorWidget.cpp:229
+msgid "Install"
+msgstr "Quyu"
+
+#: FontSelectorWidget.cpp:315
+msgid "Home"
+msgstr "Anabit"
+
+#: FontSelectorWidget.cpp:317
+msgid "Root"
+msgstr "Asıl"
+
+#: FontmapCreator.cpp:158
+msgid "Adding %1 to Fontmap"
+msgstr "Fontmap öçen % östäw"
+
+#: FontmapCreator.cpp:561
+msgid "Writing to Fontmap file"
+msgstr "Fontmap biremenä yazu"
+
+#: FontsWidget.cpp:86
+msgid "<B>Install from:</B>"
+msgstr "<B>Monna quası:</B>"
+
+#: FontsWidget.cpp:94
+msgid "<B>Install to:</B>"
+msgstr "<B>Monda quyası:</B>"
+
+#: FontsWidget.cpp:98
+msgid "Add..."
+msgstr "Östäw..."
+
+#: FontsWidget.cpp:100
+msgid "Disable"
+msgstr "Sünek"
+
+#: FontsWidget.cpp:101
+msgid "Enable"
+msgstr "Açıq"
+
+#: FontsWidget.cpp:108
+msgid "Basic Mode"
+msgstr "Töp Isul"
+
+#: FontsWidget.cpp:109
+msgid "Advanced Mode"
+msgstr "Östämä Isullar"
+
+#: FontsWidget.cpp:110
+msgid "Advanced Mode (With Embedded Font Selector)"
+msgstr "Östämä Isullar (Kertelgän Yazu Saylağıçı Belän)"
+
+#: Kfi.cpp:45
+msgid "As this is the first time this module has been run as \"root\", it has tried to guess appropriate settings for your system. When the module appears, please have a look at the \"Settings\" page and check that these are ok. If not, make the appropriate changes and click the \"Apply\" button."
+msgstr "Bu modul \"root\" astında berençe tapqır cibärelä, şuña kürä sistemneñ yazu caylawların tanıp qaralğan bulaçaq. Modul kürsätelgän bulğaç \"Caylaw\" tabağında köylämälär turılığın qarap çığası, yä isä kiräk üzgäreşlär kertep \"Aşır\" töymäsenä çertäse."
+
+#: KfiCmModule.cpp:82
+msgid "KDE Font Installer"
+msgstr "KDE Şäkel Quydırğıçı"
+
+#: KfiCmModule.cpp:85
+msgid "(c) Craig Drummond, 2000 - 2002"
+msgstr "(c) Craig Drummond, 2000 - 2002"
+
+#: KfiCmModule.cpp:86
+msgid "(TQMM, PS - MBFM y CGD)"
+msgstr "(TQMM, PS - MBFM y CGD)"
+
+#: KfiCmModule.cpp:89
+msgid "StarOffice xprinter.prolog patch"
+msgstr "StarOffice xprinter.prolog yamawı"
+
+#: KfiCmModule.cpp:140
+msgid "<h1>Font Installer</h1><p> This module allows you to install TrueType, Type1, Speedo, and Bitmap fonts. If you have StarOffice installed on your system, this can also be configured.</p><p>This module has 2 main modes of operation:<ul><li><i>Basic:</i> The underlying folder structure is hidden, and you will only be able to install/uninstall TrueType and Type1 fonts.</li><li><i>Advanced:</i> This is for more experienced users, and displays the X fonts folder structure - allowing you to add/delete whole folders to/from the X font path. Using this mode you can also install/uninstall Speedo and Bitmap (pcf, bdf, and snf) fonts.</li></ol>"
+msgstr "<h1>Yazu Quydırğıç</h1><p> TrueType, Type1, Speedo, Bitmap yazuların bu modul aşa quyıp bula. Sanaqta StarOffice quyılğan çaqta, anı da caylap bula.</p><p>Bu modul eşläweneñ 2 ısulı bar:<ul><li><i>Töp:</i> Törgäklär ağaçı yäşerelä, TrueType belän Type1 yazuların ğına quyıp/taşlap bula.</li><li><i>Kiñäytep:</i> Täcribäle qullanuçı öçen, X-yazular törgäkläreneñ ağaçı kursätelä, X yazular yulında bulğan törgäklärne tulayım quyıp/taşlap bula. Bu ısulnı qullanıp Speedo belän Bitmap (pcf, bdf, snf) yazuların da quyıp/taşlap bula.</li></ol>"
+
+#: KfiCmModule.cpp:151
+msgid "<p><b>NOTE:</b> As you are not logged in as \"root\", any fonts installed will only be available to you. To install fonts system wide, use the \"Administrator Mode\" button to run this module as \"root\".</p>"
+msgstr "<p><b>BELDERÜ:</b> \"root\" adınnan eşlägändä quyılğan yazular aña ğına qullanırlıq bulaçaq. Yazularnı böten sistemgä qullanırlıq itü öçen, bu modulnı \"root\" kebek cibärgändä \"İdäräçe Isulı\" digän töymägä çirtäse.</p>"
+
+#: MetaDialog.cpp:45
+msgid "Meta Data"
+msgstr "Meta Belem"
+
+#: SettingsWidget.cpp:102
+msgid "Select Encodings Folder"
+msgstr "Bilgelämä Törgägen Saylaw"
+
+#: SettingsWidget.cpp:118
+msgid "Select Ghostscript \"Fontmap\""
+msgstr "Ghostscript'neñ \"Fontmap\" Saylaw"
+
+#: SettingsWidget.cpp:128 SettingsWidget.cpp:183
+msgid ""
+"File does not exist.\n"
+"Create new file?"
+msgstr ""
+"Ul birem yuq äle.\n"
+"Yañanı yasísımı?"
+
+#: SettingsWidget.cpp:129 SettingsWidget.cpp:132 SettingsWidget.cpp:184
+#: SettingsWidget.cpp:187
+msgid "File Error"
+msgstr "Birem Xatası"
+
+#: SettingsWidget.cpp:131 SettingsWidget.cpp:186
+msgid "File does not exist and folder is not writable."
+msgstr "Birem barlıqta yuq, törgäkkä dä yazıp bulmí."
+
+#: SettingsWidget.cpp:147
+msgid "Select CUPS Folder"
+msgstr "CUPS Törgäk Saylaw"
+
+#: SettingsWidget.cpp:160
+msgid "Select Fonts Folder"
+msgstr "Yazu Törgägen Saylaw"
+
+#: SettingsWidget.cpp:174
+msgid "Select X Config File"
+msgstr "X Caylaw Biremen Saylaw"
+
+#: SettingsWidget.cpp:196
+msgid ""
+"File format not recognized!\n"
+"Advanced mode folder operations will not be available."
+msgstr ""
+"Birem tözeleşe bilgesez!\n"
+"Törgäk belän kiñäytelgän eşlär qullanırlıq tügel."
+
+#: SettingsWidget.cpp:205
+msgid "Select StarOffice Folder"
+msgstr "StarOffice Törgägen Saylaw"
+
+#: StarOfficeConfig.cpp:97
+msgid "Adding %1 to StarOffice"
+msgstr "StarOffice öçen % östäw"
+
+#: StarOfficeConfig.cpp:128
+msgid "Setting up xprinter.prolog"
+msgstr "xprinter.prolog caylaw"
+
+#: StarOfficeConfig.cpp:253
+msgid "Could not open X11 folder"
+msgstr "X11 törgägen açıp bulmadı"
+
+#: StarOfficeConfig.cpp:255
+msgid "Could not open psstd.fonts"
+msgstr "psstd.fonts digänen açıp bulmadı"
+
+#: StarOfficeConfig.cpp:257
+msgid "Could not open printer file"
+msgstr "Basaq biremen açıp bulmadı"
+
+#: StarOfficeConfig.cpp:259
+msgid "Could not open X11 fonts.scale"
+msgstr "X11 fonts.scale digänen açıp bulmadı"
+
+#: StarOfficeConfig.cpp:261
+msgid "Could not modify xprinter.prolog"
+msgstr "xprinter.prolog üzgärtep bulmadı"
+
+#: StarOfficeConfig.cpp:263
+msgid "Could not link xprinter.prolog"
+msgstr "xprinter.prolog bäyläp bulmadı"
+
+#: StarOfficeConfig.cpp:265
+msgid "Could not restore xprinter.prolog"
+msgstr "xprinter.prolog biremen torğızıp bulmadı"
+
+#: SysConfigurer.cpp:176
+msgid "Configuring System:"
+msgstr "Sistem Caylaw:"
+
+#: SysConfigurer.cpp:180
+msgid "Configuring X (%1)..."
+msgstr "X Caylaw (%1)..."
+
+#: SysConfigurer.cpp:183
+msgid "Could not configure X (%1)"
+msgstr "X caylap bulmadı (%1)"
+
+#: SysConfigurer.cpp:196
+msgid "Saving X configuration file..."
+msgstr "X caybiremen saqlaw..."
+
+#: SysConfigurer.cpp:199
+msgid "Could not save X configuration file"
+msgstr "X caylaw biremen saqlap bulmadı"
+
+#: SysConfigurer.cpp:199 SysConfigurer.cpp:220 SysConfigurer.cpp:231
+#: SysConfigurer.cpp:254
+msgid "File permissions?"
+msgstr "Birem xoquqların?"
+
+#: SysConfigurer.cpp:210
+msgid "Saving XRender configuration file..."
+msgstr "XRender caybiremen saqlaw..."
+
+#: SysConfigurer.cpp:220
+msgid "Could not save XRender configuration file"
+msgstr "XRender caylaw biremen saqlap bulmadı"
+
+#: SysConfigurer.cpp:228
+msgid "Creating Fontmap (%1)..."
+msgstr "Fontmap Yasaw (%1)..."
+
+#: SysConfigurer.cpp:231
+msgid "Could not configure Fontmap (%1)"
+msgstr "Fontmap caylap bulmadı (%1)"
+
+#: SysConfigurer.cpp:243
+msgid "Configuring CUPS..."
+msgstr "CUPS Caylaw..."
+
+#: SysConfigurer.cpp:254
+msgid "Could not configure CUPS"
+msgstr "CUPS caylap bulmadı"
+
+#: SysConfigurer.cpp:267
+msgid "Creating AFMs (%1)..."
+msgstr "AFM Yasaw (%1)..."
+
+#: SysConfigurer.cpp:270
+msgid "Could not create AFM files (%1)"
+msgstr "AFM birem yasap bulmadı (%1)"
+
+#: SysConfigurer.cpp:280
+msgid "Configuring StarOffice (%1)..."
+msgstr "StarOffice (%1) Caylaw..."
+
+#: SysConfigurer.cpp:283
+msgid "Could not configure StarOffice (%1)"
+msgstr "StarOffice caylap bulmadı (%1)"
+
+#: SysConfigurer.cpp:310
+msgid "Refreshing X font list"
+msgstr "X yazular tezmäsen yañartu"
+
+#: SysConfigurer.cpp:331
+msgid "There was an error using the X refresh command"
+msgstr "X yañartu boyırığın qullanğanda xata kilep çıqtı"
+
+#: Ttf.cpp:459
+msgid "File open error"
+msgstr "Birem açu xatası"
+
+#: Ttf.cpp:461
+msgid "File write error"
+msgstr "Biremgä yazu xatası"
+
+#: Ttf.cpp:463
+msgid "No TTF header"
+msgstr "TTF-başlıq yuq"
+
+#: Ttf.cpp:465
+msgid "No 'postscript' table"
+msgstr "'postscript' tüşämäse yuq"
+
+#: Ttf.cpp:467
+msgid "No 'character map' table"
+msgstr "'character map' tüşämäse yuq"
+
+#: Ttf.cpp:469
+msgid "No suitable 'postscript' table"
+msgstr "Yaraqlı 'postscript' tüşäwe yuq "
+
+#: Ttf.cpp:471
+msgid "Uses MAC standard table"
+msgstr "MAC tüşämäsen qullanası"
+
+#: Ttf.cpp:473
+msgid "PS name mapping file not found, or empty"
+msgstr "PostScript atamalar äyländerü bireme tabılmadı, yä ki buş"
+
+#: Ttf.cpp:475
+msgid "Font does not contain any glyphs to remap"
+msgstr "Yazu eçendäge bilgelär arasında üzgärterlek yuq"
+
+#: Ttf.cpp:477
+msgid "Error with TTF file format"
+msgstr "TTF birem tözeleşendä xata"
+
+#: Ttf.cpp:479
+msgid "<ERROR>"
+msgstr "<XATA>"
+
+#: XConfig.cpp:56
+msgid "Creating encodings.dir"
+msgstr "encodings.dir biremen yasaw"
+
+#: XConfig.cpp:711
+msgid "Adding %1 to X"
+msgstr "X öçen % östäw"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Tatarish Localizators"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "tatarish-l10n@gmail.com"
+
+#: rc.cpp:1 rc.cpp:4
+msgid "Form1"
+msgstr "Form1"
+
+#: rc.cpp:2
+msgid "F&onts"
+msgstr "Y&azu"
+
+#: rc.cpp:5
+msgid "X Settings"
+msgstr "X Caylawları"
+
+#: rc.cpp:6
+msgid "Top level fonts folder:"
+msgstr "Töp yazular törgäge:"
+
+#: rc.cpp:7
+msgid ""
+"This is the top level X11 fonts folder.\n"
+"Located within this will be the folders\n"
+"containing your fonts, and encodings\n"
+"files. Usually this will be (for Linux):\n"
+"\n"
+"/usr/X11R6/lib/X11/fonts"
+msgstr ""
+"X11-yazular törgägeneñ töbe bu.\n"
+"Ul törgäk eçendä bilgelämälär belän\n"
+"yazular biremnäre yata. Linux'ta ul\n"
+"ğädättä bonda bula:\n"
+"\n"
+"/usr/X11R6/lib/X11/fonts"
+
+#: rc.cpp:8
+msgid "TrueType:"
+msgstr "TrueType:"
+
+#: rc.cpp:9
+msgid "Where TrueType fonts are installed in \"basic\" mode."
+msgstr "TrueType yazuların \"töp\" ısul aşa quyu urını."
+
+#: rc.cpp:10
+msgid "Type1:"
+msgstr "Type1:"
+
+#: rc.cpp:11
+msgid "Where Type1 fonts are installed in \"basic\" mode."
+msgstr "Type1 yazuların \"töp\" ısul aşa quyu urını."
+
+#: rc.cpp:12
+msgid "Configuration file:"
+msgstr "Caylaw bireme:"
+
+#: rc.cpp:13
+msgid "Encodings folder:"
+msgstr "Bilgelämä törgäge:"
+
+#: rc.cpp:14
+msgid "Refresh font list with:"
+msgstr "Yazularnı bonı belän yañart:"
+
+#: rc.cpp:15
+msgid "xset fp rehash (Standard)"
+msgstr "xset fp rehash (Töp)"
+
+#: rc.cpp:16
+msgid "/etc/init.d/xfs restart (Font Server)"
+msgstr "/etc/init.d/xfs restart (Yazu Servere)"
+
+#: rc.cpp:17
+msgid "Custom:"
+msgstr "Köyläwle:"
+
+#: rc.cpp:18
+msgid "This is the command that can be issued upon successful system configuration to restart the X font server."
+msgstr "Sistem caylawı uñışlı uzğannan soñ X-yazular serveren yañadan yökläw öçen eşlätäse boyırıq bu."
+
+#: rc.cpp:19
+msgid "Printing"
+msgstr "Bastıru"
+
+#: rc.cpp:20
+msgid "Ghostscript, Fontmap file:"
+msgstr "Ghostscript, Fontmap bireme:"
+
+#: rc.cpp:21
+msgid "Check this box to enable configuration of Ghostscript."
+msgstr "Ghostscript caylaw öçen bu bayraqnı quyası."
+
+#: rc.cpp:22
+msgid "CUPS folder:"
+msgstr "CUPS törgäge:"
+
+#: rc.cpp:23
+msgid "Check this box to enable configuration of CUPS."
+msgstr "CUPS caylaw öçen bu bayraqnı quyası."
+
+#: rc.cpp:24
+msgid "AFMs"
+msgstr "AFM'nar"
+
+#: rc.cpp:25
+msgid "&Generate with"
+msgstr "&Bonı belän ürçet"
+
+#: rc.cpp:26
+msgid ""
+"AFMs (Adobe Font Metrics) are files that\n"
+"may be used by programs (such as\n"
+"StarOffice) to obtain detailed \"metrics\"\n"
+"(e.g. sizes) of each character in a font -\n"
+"so that it may be displayed/printed\n"
+"correctly.\n"
+"\n"
+"AFMs may only contain one encoding,\n"
+"so here you can specify which one\n"
+"should be used."
+msgstr ""
+"AFM (Adobe Font Metrics) digäne ul\n"
+"törle yazu bilgelären bastırğanda/kürsätkändä\n"
+"tieşleçä çığaru öçen kiräk belem birüçe biremnär.\n"
+"Bu biremnärne StarOffice kebek yazılımnar qullana.\n"
+"\n"
+"AFM eçendä ber genä bilgelämä bula ala,\n"
+"anı üzenä dä üzgärtep bula."
+
+#: rc.cpp:27
+msgid ""
+"AFMs (Adobe Font Metrics) are files that may be used by programs (such as StarOffice) to obtain detailed \"metrics\" (e.g. sizes) of each character in a font - so that it may be displayed/printed correctly.\n"
+"\n"
+"AFMs may only contain one encoding, so here you can specify which one should be used."
+msgstr ""
+"AFM (Adobe Font Metrics) digäne ul törle yazu bilgelären bastırğanda/kürsätkändä tieşleçä çığaru öçen kiräk belem birüçe biremnär. Bu biremnärne StarOffice kebek yazılımnar qullana.\n"
+"\n"
+"AFM eçendä ber genä bilgelämä bula ala, anı üzenä dä üzgärtep bula."
+
+#: rc.cpp:28
+msgid "encoding"
+msgstr "bilgelämä"
+
+#: rc.cpp:29
+msgid "T&rueType"
+msgstr "T&rueType"
+
+#: rc.cpp:30
+msgid ""
+"Check this item to enable creation of AFM files for TrueType fonts.\n"
+"\n"
+"NOTE: StarOffice v6 (onwards), and OpenOffice, no longer require AFMs for TrueType fonts."
+msgstr ""
+"TrueType yazularğa AFM biremnären yasaw öçen bu köylämäne yanıq itäse.\n"
+"\n"
+"BELÄSE: StarOffice 6+, OpenOffice yazılımnarı TrueType yazularına AFM biremen soramílar bütän."
+
+#: rc.cpp:31
+msgid "Type&1"
+msgstr "&1. Tör"
+
+#: rc.cpp:32
+msgid ""
+"Check this item to enable creation of AFMs for Type1 fonts.\n"
+"\n"
+"These are required by StarOffice, and some other apps (such as AbiWord)."
+msgstr ""
+"Type1 yazularğa AFM biremnären yasaw öçen bu köylämäne yanıq itäse.\n"
+"\n"
+"BELÄSE: StarOffice, AbiWord kebek qayber yazılımnar öçen bu kiräk."
+
+#: rc.cpp:33
+msgid "StarOffice (Versions <= 5.2)"
+msgstr "StarOffice (5.2 söremenä tikle)"
+
+#: rc.cpp:35
+msgid "Select this box to enable StarOffice configuration."
+msgstr "StarOffice caylawın qullanu öçen bu qırda saylísı."
+
+#: rc.cpp:36
+msgid "Folder:"
+msgstr "Törgäk:"
+
+#: rc.cpp:37
+msgid "Printer file:"
+msgstr "Basaq bireme:"
