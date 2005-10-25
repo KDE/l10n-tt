@@ -1,0 +1,53 @@
+# Tatarish localization
+# Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase kgreet_winbind\n"
+"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"PO-Revision-Date: 2005-08-11 00:00+04\n"
+"Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kgreet_winbind.cpp:87
+msgid "&Domain:"
+msgstr "&Domain:"
+
+#: kgreet_winbind.cpp:92
+msgid "&Username:"
+msgstr "&Qullanuçı:"
+
+#: kgreet_winbind.cpp:106
+msgid "Domain:"
+msgstr "Domain:"
+
+#: kgreet_winbind.cpp:109
+msgid "Username:"
+msgstr "Qullanuçı:"
+
+#: kgreet_winbind.cpp:120
+msgid "&Password:"
+msgstr "&Sersüz:"
+
+#: kgreet_winbind.cpp:121
+msgid "Current &password:"
+msgstr "&Ağımdağı sersüz:"
+
+#: kgreet_winbind.cpp:142
+msgid "&New password:"
+msgstr "&Yaña sersüz:"
+
+#: kgreet_winbind.cpp:143
+msgid "Con&firm password:"
+msgstr "Sersüz qa&batlaw:"
+
+#: kgreet_winbind.cpp:310
+msgid "Unrecognized prompt \"%1\""
+msgstr "Tanılmağan çaqıru: \"%1\""
+
+#: kgreet_winbind.cpp:517
+msgid "Winbind / Samba"
+msgstr "Winbind / Samba"

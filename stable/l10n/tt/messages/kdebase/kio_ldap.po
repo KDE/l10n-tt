@@ -1,0 +1,56 @@
+# Tatarish localization
+# Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase kio_ldap\n"
+"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"PO-Revision-Date: 2005-08-11 00:00+04\n"
+"Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kio_ldap.cpp:161
+#, c-format
+msgid "LDAP server returned the following error: %1"
+msgstr "LDAP-server xata turında belderü qaytardı: %1"
+
+#: kio_ldap.cpp:522
+msgid "LDAP Login"
+msgstr "LDAP Kereşe"
+
+#: kio_ldap.cpp:525
+msgid "site:"
+msgstr "säxifä:"
+
+#: kio_ldap.cpp:552 kio_ldap.cpp:689
+msgid "Invalid authorization information."
+msgstr "Tanıtu beleme yaraqsız."
+
+#: kio_ldap.cpp:631
+#, c-format
+msgid "Cannot set LDAP protocol version %1"
+msgstr "%1 söremendä LDAP protokolın quyıp bulmadı"
+
+#: kio_ldap.cpp:649
+msgid "Cannot set size limit."
+msgstr "Külämne çikläp bulmadı."
+
+#: kio_ldap.cpp:659
+msgid "Cannot set time limit."
+msgstr "Waqıtnı çikläp bulmadı."
+
+#: kio_ldap.cpp:668
+msgid "SASL authentication not compiled into the ldap ioslave."
+msgstr "ldap qoralın cíılğanda SASL-tanılu östälenmägän."
+
+#: kio_ldap.cpp:945 kio_ldap.cpp:1026
+msgid "The LDIF parser failed."
+msgstr "LDIF digän parser cimerelde."
+
+#: kio_ldap.cpp:1036
+#, c-format
+msgid "Invalid LDIF file in line %1."
+msgstr "LDIF biremeneñ %1 yulı yaraqsız."

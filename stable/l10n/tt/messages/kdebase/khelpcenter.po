@@ -1,0 +1,605 @@
+# Tatarish localization
+# Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase khelpcenter\n"
+"POT-Creation-Date: 2005-07-09 01:31+0200\n"
+"PO-Revision-Date: 2005-08-11 00:00+04\n"
+"Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Tatarish Localizators"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "tatarish-l10n@gmail.com"
+
+#: application.cpp:57
+msgid "URL to display"
+msgstr "Kürsätäse URL"
+
+#: application.cpp:63 navigator.cpp:466
+msgid "KDE Help Center"
+msgstr "KDE Yärdäm Üzäge"
+
+#: application.cpp:65 khc_indexbuilder.cpp:171
+msgid "The KDE Help Center"
+msgstr "KDE Yärdäm Üzäge"
+
+#: application.cpp:67
+msgid "(c) 1999-2003, The KHelpCenter developers"
+msgstr "(c) 1999-2003, KHelpCenter tözüçeläre"
+
+#: application.cpp:71
+msgid "Original Author"
+msgstr "Baş Yazuçı"
+
+#: application.cpp:73
+msgid "Info page support"
+msgstr "Açıqlama bit totu"
+
+#: docmetainfo.cpp:32
+msgid "Top-Level Documentation"
+msgstr "Töp Qullanma"
+
+#: docmetainfo.cpp:72
+msgid ""
+"_: doctitle (language)\n"
+"%1 (%2)"
+msgstr "%1 (%2)"
+
+#: docmetainfo.cpp:108
+msgid "English"
+msgstr "İnglizçä"
+
+#: fontdialog.cpp:39
+msgid "Font Configuration"
+msgstr "Yazu Caylawı"
+
+#: fontdialog.cpp:59
+msgid "Sizes"
+msgstr "Ülçäm"
+
+#: fontdialog.cpp:65
+msgid "M&inimum font size:"
+msgstr "M&inimal' şrift zurlığı:"
+
+#: fontdialog.cpp:72
+msgid "M&edium font size:"
+msgstr "Urta yazu ülçäme:"
+
+#: fontdialog.cpp:88
+msgid "S&tandard font:"
+msgstr "S&tandart şrift:"
+
+#: fontdialog.cpp:94
+msgid "F&ixed font:"
+msgstr "Üz&gärmäs yazu:"
+
+#: fontdialog.cpp:100
+msgid "S&erif font:"
+msgstr "S&erif şriftı:"
+
+#: fontdialog.cpp:106
+msgid "S&ans serif font:"
+msgstr "Qoyırıqsız y&azu:"
+
+#: fontdialog.cpp:112
+msgid "&Italic font:"
+msgstr "&Awışlı yazu:"
+
+#: fontdialog.cpp:118
+msgid "&Fantasy font:"
+msgstr "&Fantasy yazu:"
+
+#: fontdialog.cpp:127
+msgid "Encoding"
+msgstr "Bilgelämä"
+
+#: fontdialog.cpp:133
+msgid "&Default encoding:"
+msgstr "&Ğädäti bilgelämä:"
+
+#: fontdialog.cpp:138 fontdialog.cpp:203
+msgid "Use Language Encoding"
+msgstr "Tel Kodlamasın faydalan"
+
+#: fontdialog.cpp:142
+msgid "&Font size adjustment:"
+msgstr "&Yazu ülçämen köyläw:"
+
+#: glossary.cpp:87
+msgid "By Topic"
+msgstr "Tarmaq Buyınça"
+
+#: glossary.cpp:90 infotree.cpp:91
+msgid "Alphabetically"
+msgstr "Älifba buyınça"
+
+#: glossary.cpp:147
+msgid "Rebuilding cache..."
+msgstr "Alxäterne tözü..."
+
+#: glossary.cpp:177
+msgid "Rebuilding cache... done."
+msgstr "Alxäterne tözü... buldı."
+
+#: glossary.cpp:272
+msgid "Unable to show selected glossary entry: unable to open file 'glossary.html.in'!"
+msgstr "Süznämäneñ saylanğan keremen kürsätep bulmí: 'glossary.html.in' bireme açılmí!"
+
+#: glossary.cpp:277
+msgid "See also: "
+msgstr "Şulay uq qara: "
+
+#: glossary.cpp:292
+msgid "KDE Glossary"
+msgstr "KDE Süzlege"
+
+#: htmlsearchconfig.cpp:44
+msgid "ht://dig"
+msgstr "ht://dig"
+
+#: htmlsearchconfig.cpp:51
+msgid "The fulltext search feature makes use of the ht://dig HTML search engine. You can get ht://dig at the"
+msgstr "Bar HTML-biremnär buyınça ezläwne açıp ht://dig digän ısul qullanıp bulaçaq. Anı bonda tabıp bula: "
+
+#: htmlsearchconfig.cpp:57
+msgid "Information about where to get the ht://dig package."
+msgstr "ht://dig tuplamasın qayda alıp bulu turında belderä."
+
+#: htmlsearchconfig.cpp:61
+msgid "ht://dig home page"
+msgstr "ht://dig ana bite"
+
+#: htmlsearchconfig.cpp:67
+msgid "Program Locations"
+msgstr "YazılımUrnaşıluı"
+
+#: htmlsearchconfig.cpp:74
+msgid "htsearch:"
+msgstr "htsearch:"
+
+#: htmlsearchconfig.cpp:80
+msgid "Enter the URL of the htsearch CGI program."
+msgstr "htsearch digän CGI-yazılımğa taba URL kertü."
+
+#: htmlsearchconfig.cpp:85
+msgid "Indexer:"
+msgstr "Tezegeç: "
+
+#: htmlsearchconfig.cpp:91
+msgid "Enter the path to your htdig indexer program here."
+msgstr "htdig digän tezüçe yazılımğa taba yul kertü."
+
+#: htmlsearchconfig.cpp:97
+msgid "htdig database:"
+msgstr "htdig biremlege:"
+
+#: htmlsearchconfig.cpp:103
+msgid "Enter the path to the htdig database folder."
+msgstr "htdig biremlek törgägenä kürsätkän yul kertü."
+
+#: infotree.cpp:94
+msgid "By Category"
+msgstr "Bülek Buyınça"
+
+#: kcmhelpcenter.cpp:61
+msgid "Change Index Folder"
+msgstr "Töptezem Törgägen Üzgärtü"
+
+#: kcmhelpcenter.cpp:67 kcmhelpcenter.cpp:287
+msgid "Index folder:"
+msgstr "Töptezmä törgäge:"
+
+#: kcmhelpcenter.cpp:97
+msgid "Build Search Indices"
+msgstr "Ezläw Tezmälären Töz"
+
+#: kcmhelpcenter.cpp:110
+msgid "Index creation log:"
+msgstr "Töptezmä qoru köndälege:"
+
+#: kcmhelpcenter.cpp:175
+msgid "Index creation finished."
+msgstr "Töptezmä qoru buldı."
+
+#: kcmhelpcenter.cpp:204
+msgid "Details <<"
+msgstr "Cöziräk <<"
+
+#: kcmhelpcenter.cpp:217
+msgid "Details >>"
+msgstr "Cöziräk >>"
+
+#: kcmhelpcenter.cpp:226
+msgid "Build Search Index"
+msgstr "Ezläw Tezmäsen Töz"
+
+#: kcmhelpcenter.cpp:235
+msgid "Build Index"
+msgstr "İsemlek Yasa"
+
+#: kcmhelpcenter.cpp:267
+msgid ""
+"To be able to search a document, there needs to exist a search\n"
+"index. The status column of the list below shows, if an index\n"
+"for a document exists.\n"
+msgstr ""
+"Berär istälek tabu öçen aña ezläw süztezmäse bulırğa tieş. Xäl\n"
+"buyıda şul istälek öçen süztezmä buluı kürsätelä.\n"
+
+#: kcmhelpcenter.cpp:270
+msgid ""
+"To create an index check the box in the list and press the\n"
+"\"Build Index\" button.\n"
+msgstr ""
+"Süztezmä qoru öçen, bu tezmä bayırağın saylap,\n"
+"\"Süztezmä Qoru\" digän töymägä basası.\n"
+
+#: kcmhelpcenter.cpp:278
+msgid "Search Scope"
+msgstr "Ezläw Arası"
+
+#: kcmhelpcenter.cpp:279
+msgid "Status"
+msgstr "Xälät"
+
+#: kcmhelpcenter.cpp:293
+msgid "Change..."
+msgstr "Üzgärtü..."
+
+#: kcmhelpcenter.cpp:312
+msgid "<qt>The folder <b>%1</b> does not exist; unable to create index.</qt>"
+msgstr "<qt><b>%1</b> atlı törgäk barlıqta yuq; töptezmä yasap bulmí.</qt>"
+
+#: kcmhelpcenter.cpp:352
+msgid "Missing"
+msgstr "Bulmağan"
+
+#: kcmhelpcenter.cpp:397
+msgid "Document '%1' (%2):\n"
+msgstr "'%1' İstälege (%2):\n"
+
+#: kcmhelpcenter.cpp:402
+msgid "No document type."
+msgstr "İstälek töre yuq."
+
+#: kcmhelpcenter.cpp:408
+msgid "No search handler available for document type '%1'."
+msgstr "'%1' tördä bulğan istälek ezläw öçen totqıçlar yuq."
+
+#: kcmhelpcenter.cpp:415
+msgid "No indexing command specified for document type '%1'."
+msgstr "'%1' törendä istälek öçen tezüçe boyırıqlarnıñ bilgelängäne yuq."
+
+#: kcmhelpcenter.cpp:530
+msgid "Failed to build index."
+msgstr "İsemlek yasap bulmadı."
+
+#: kcmhelpcenter.cpp:582
+#, c-format
+msgid ""
+"Error executing indexing build command:\n"
+"%1"
+msgstr ""
+"Töttezmä yasawçı boyırıqta xata kilep çıqtı:\n"
+"%1"
+
+#: khc_indexbuilder.cpp:99
+msgid "Unable to start command '%1'."
+msgstr "'%1' boyırığın cibärep bulmadı."
+
+#: khc_indexbuilder.cpp:161
+msgid "Document to be indexed"
+msgstr "İsemlek tözise istälek"
+
+#: khc_indexbuilder.cpp:162
+msgid "Index directory"
+msgstr "Töptezmä törgäge"
+
+#: khc_indexbuilder.cpp:169
+msgid "KHelpCenter Index Builder"
+msgstr "KHelpCenter İsemlek Tözegeç"
+
+#: khc_indexbuilder.cpp:173
+msgid "(c) 2003, The KHelpCenter developers"
+msgstr "(c) 2003, KHelpCenter tözüçeläre"
+
+#: mainwindow.cpp:58
+msgid "Search Error Log"
+msgstr "Xata Köndälegendä Ezläw"
+
+#: mainwindow.cpp:110
+msgid "Preparing Index"
+msgstr "Töptezmä Äzerläw"
+
+#: mainwindow.cpp:158
+msgid "Ready"
+msgstr "Äzer"
+
+#: mainwindow.cpp:215
+msgid "Previous Page"
+msgstr "Aldağı Bit"
+
+#: mainwindow.cpp:217
+msgid "Moves to the previous page of the document"
+msgstr "İstälekneñ ütkän bitenä küçerü"
+
+#: mainwindow.cpp:219
+msgid "Next Page"
+msgstr "Kiläse Bit"
+
+#: mainwindow.cpp:221
+msgid "Moves to the next page of the document"
+msgstr "İstälekneñ kiläse bitenä küçerü"
+
+#: mainwindow.cpp:224
+msgid "Table of &Contents"
+msgstr "&Eçtälek"
+
+#: mainwindow.cpp:225
+msgid "Table of Contents"
+msgstr "Eştälek"
+
+#: mainwindow.cpp:226
+msgid "Go back to the table of contents"
+msgstr "Eçtälek tezmäsenä kire qaytu"
+
+#: mainwindow.cpp:230
+msgid "&Last Search Result"
+msgstr "&Soñğı Ezläw Näticäse"
+
+#: mainwindow.cpp:235
+msgid "Build Search Index..."
+msgstr "Ezläw Tezmäsen Tözü..."
+
+#: mainwindow.cpp:243
+msgid "Show Search Error Log"
+msgstr "Ezläwneñ Xata Köndälegen Kürsätü"
+
+#: mainwindow.cpp:250
+msgid "Configure Fonts..."
+msgstr "Yazu Caylaw..."
+
+#: mainwindow.cpp:251
+msgid "Increase Font Sizes"
+msgstr "Yazu Ülçämen Arttır"
+
+#: mainwindow.cpp:252
+msgid "Decrease Font Sizes"
+msgstr "Yazu Ülçämen Keçeräyt"
+
+#: navigator.cpp:107
+msgid "Clear Search"
+msgstr "Ezläwne Buşat"
+
+#: navigator.cpp:115
+msgid "&Search"
+msgstr "&Ezlä"
+
+#: navigator.cpp:187
+msgid "Search Options"
+msgstr "Ezläw Köylämäse"
+
+#: navigator.cpp:195
+msgid "G&lossary"
+msgstr "Süz&lek"
+
+#: navigator.cpp:465
+msgid "Start Page"
+msgstr "Başbit"
+
+#: navigator.cpp:553
+msgid "Unable to run search program."
+msgstr "Ezläw yazılımın cibärep bulmadı"
+
+#: navigator.cpp:594
+msgid "A search index does not yet exist. Do you want to create the index now?"
+msgstr "Ezläw öçen töp tezmä barlıqta yuq. Anı xäzer yasísı kiläme?"
+
+#: navigator.cpp:598
+msgid "Create"
+msgstr "Yasa"
+
+#: navigator.cpp:599
+msgid "Do Not Create"
+msgstr "Yasamasqa"
+
+#. i18n: file khelpcenterui.rc line 25
+#: rc.cpp:12
+#, no-c-format
+msgid "&Go"
+msgstr "&Küç"
+
+#. i18n: file khelpcenter.kcfg line 11
+#: rc.cpp:18 rc.cpp:27
+#, no-c-format
+msgid "Path to index directory."
+msgstr "Töptezmä törgägenä yul."
+
+#. i18n: file khelpcenter.kcfg line 12
+#: rc.cpp:21 rc.cpp:30
+#, no-c-format
+msgid "Path to directory containing search indices."
+msgstr "Ezläw tezmäläre belän törgäkneñ yulı."
+
+#. i18n: file khelpcenter.kcfg line 26
+#: rc.cpp:24 rc.cpp:33
+#, no-c-format
+msgid "Currently visible navigator tab"
+msgstr "Gizgeçneñ biredä kürengän tabağı"
+
+#: searchengine.cpp:75
+msgid "Error: No document type specified."
+msgstr "Xata: İstälek töre äytelmäde."
+
+#: searchengine.cpp:77
+msgid "Error: No search handler for document type '%1'."
+msgstr "Xata: '%1' törendä istälek ezläw öçen eşkärtkeçe yuq."
+
+#: searchengine.cpp:225
+msgid "Unable to initialize SearchHandler from file '%1'."
+msgstr "'%1' biremennän EzläwTotqıç äzerläp bulmadı."
+
+#: searchengine.cpp:239
+msgid "No valid search handler found."
+msgstr "Ezläw öçen yaraqlı totqıç tabılmadı."
+
+#: searchengine.cpp:305
+msgid "Search Results for '%1':"
+msgstr "'%1' öçen Tabılğanı:"
+
+#: searchengine.cpp:310
+msgid "Search Results"
+msgstr "Ezläw Näticäse"
+
+#: searchhandler.cpp:132
+msgid "Error executing search command '%1'."
+msgstr "'%1' atlı ezläw boyırığında xata kilep çıqtı."
+
+#: searchhandler.cpp:152
+msgid "No search command or URL specified."
+msgstr "Ezläw öçen boyırıq yä ki URL bilgelänmäde."
+
+#: searchhandler.cpp:233
+#, c-format
+msgid "Error: %1"
+msgstr "Xata: %1"
+
+#: searchwidget.cpp:56
+msgid "and"
+msgstr "wä"
+
+#: searchwidget.cpp:57
+msgid "or"
+msgstr "yä"
+
+#: searchwidget.cpp:59
+msgid "&Method:"
+msgstr "&Isul:"
+
+#: searchwidget.cpp:73
+msgid "Max. &results:"
+msgstr "&Näticälär çikläw:"
+
+#: searchwidget.cpp:87
+msgid "&Scope selection:"
+msgstr "&Ara saylaw:"
+
+#: searchwidget.cpp:94
+msgid "Scope"
+msgstr "Ara"
+
+#: searchwidget.cpp:97
+msgid "Build Search &Index..."
+msgstr "Ezläw &Tezmäsen Tözü..."
+
+#: searchwidget.cpp:352
+msgid "Custom"
+msgstr "Köyläwle"
+
+#: searchwidget.cpp:356
+msgid "All"
+msgstr "Barısın"
+
+#: searchwidget.cpp:358
+msgid "None"
+msgstr "Yuq"
+
+#: searchwidget.cpp:360
+msgid "unknown"
+msgstr "bilgesez"
+
+#: view.cpp:110
+msgid "Conquer your Desktop!"
+msgstr "Östäleñne ciñep al!"
+
+#: view.cpp:114
+msgid "Help Center"
+msgstr "Yärdäm Üzäge"
+
+#: view.cpp:116
+msgid "Welcome to the K Desktop Environment"
+msgstr "KDE'dä kürergä şatbız!"
+
+#: view.cpp:117
+msgid "The KDE team welcomes you to user-friendly UNIX computing"
+msgstr "KDE eştörkeme qullanuda iptäşle bulğan UNIX tiräyağında kürergä şat"
+
+#: view.cpp:118
+msgid ""
+"KDE is a powerful graphical desktop environment for UNIX workstations. A\n"
+"KDE desktop combines ease of use, contemporary functionality and outstanding\n"
+"graphical design with the technological superiority of the UNIX operating\n"
+"system."
+msgstr ""
+"KDE digäne ul UNIX-eşsanaqlar öçen köçle sızımlı östäl tiräyağı. A\n"
+"KDE östäle qullanuda da ciñel, eşli aluları da zamança, sızımlı\n"
+"bizäleşe buyınça da şäp."
+
+#: view.cpp:122
+msgid "What is the K Desktop Environment?"
+msgstr "K Östäl Tiräyağı digäne ni ul?"
+
+#: view.cpp:123
+msgid "Contacting the KDE Project"
+msgstr "KDE Projektı belän Elemtä"
+
+#: view.cpp:124
+msgid "Supporting the KDE Project"
+msgstr "KDE Projektına yärdäm itü"
+
+#: view.cpp:125
+msgid "Useful links"
+msgstr "Faydalı bäylär"
+
+#: view.cpp:126
+msgid "Getting the most out of KDE"
+msgstr "KDE'ne osta qullanu ısulları"
+
+#: view.cpp:127
+msgid "General Documentation"
+msgstr "Töp Qullanma"
+
+#: view.cpp:128
+msgid "A Quick Start Guide to the Desktop"
+msgstr "Östäl öçen Tiz Başlaw Qullanması"
+
+#: view.cpp:129
+msgid "KDE Users' guide"
+msgstr "KDE Qullanması"
+
+#: view.cpp:130
+msgid "Frequently asked questions"
+msgstr "Yış birelgän sorawlar"
+
+#: view.cpp:131
+msgid "Basic Applications"
+msgstr "Töp Yazılımnar"
+
+#: view.cpp:132
+msgid "The Kicker Desktop Panel"
+msgstr "Kicker digän Östäl Tiräse"
+
+#: view.cpp:133
+msgid "The KDE Control Center"
+msgstr "KDE İdärä Üzäge"
+
+#: view.cpp:134
+msgid "The Konqueror File manager and Web Browser"
+msgstr "Konqueror atlı Birem Citäkçe dä Web Gizgeç"
+
+#: view.cpp:257
+msgid "Copy Link Address"
+msgstr "Bäy Urının İskä al"
