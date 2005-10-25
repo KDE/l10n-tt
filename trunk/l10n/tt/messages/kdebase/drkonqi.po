@@ -62,6 +62,7 @@ msgid "&Overwrite"
 msgstr "&Östän Yaz"
 
 #: debugger.cpp:134
+#, fuzzy
 msgid "Cannot open file %1 for writing"
 msgstr "% biremen yazu öçen açıp bulmadı"
 
@@ -228,3 +229,4 @@ msgstr "Kireez ürçätep bulıp çıqmadı."
 #: toplevel.cpp:216
 msgid "Backtrace Not Possible"
 msgstr "Kiregä Ezläp Bulmí"
+

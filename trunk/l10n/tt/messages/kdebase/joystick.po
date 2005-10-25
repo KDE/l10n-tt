@@ -81,6 +81,7 @@ msgid "The given device %1 is not a joystick."
 msgstr "%1 digän cıhaz joystik tügel ikän."
 
 #: joydevice.cpp:66
+#, fuzzy
 msgid "Could not get kernel driver version for joystick device %1: %2"
 msgstr "Could not get kernel driver version for joystick device %1: %2%1 digän joystik cıhazınıñ töş söremeñ belep bulmí: %2"
 
@@ -200,3 +201,4 @@ msgstr "<qt>Sizüçänlek köyläw başlana.<br><br><b>Joystik totqıçın üzä
 #, c-format
 msgid "Restored all calibration values for joystick device %1."
 msgstr "%1 digän joystik cıhazınıñ bar köylämälär bäyäläre torğızıldı."
+

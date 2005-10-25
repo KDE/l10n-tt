@@ -543,6 +543,7 @@ msgid "This is not a local file.\n"
 msgstr "Bu närsä cirle birem tügel.\n"
 
 #: konsole.cpp:3946
+#, fuzzy
 msgid ""
 "A file with this name already exists.\n"
 "Do you want to overwrite it?"
@@ -1277,3 +1278,4 @@ msgstr "<p>...tabaq tiräseneñ sulğı poçmağındağı \"Yaña\" töymäsenä
 #: zmodem_dialog.cpp:28
 msgid "&Stop"
 msgstr "&Tuqta"
+

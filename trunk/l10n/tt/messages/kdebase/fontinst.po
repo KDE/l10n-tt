@@ -218,6 +218,7 @@ msgid "Root"
 msgstr "Asıl"
 
 #: FontmapCreator.cpp:158
+#, fuzzy
 msgid "Adding %1 to Fontmap"
 msgstr "Fontmap öçen % östäw"
 
@@ -339,6 +340,7 @@ msgid "Select StarOffice Folder"
 msgstr "StarOffice Törgägen Saylaw"
 
 #: StarOfficeConfig.cpp:97
+#, fuzzy
 msgid "Adding %1 to StarOffice"
 msgstr "StarOffice öçen % östäw"
 
@@ -496,6 +498,7 @@ msgid "Creating encodings.dir"
 msgstr "encodings.dir biremen yasaw"
 
 #: XConfig.cpp:711
+#, fuzzy
 msgid "Adding %1 to X"
 msgstr "X öçen % östäw"
 
@@ -693,3 +696,4 @@ msgstr "Törgäk:"
 #: rc.cpp:37
 msgid "Printer file:"
 msgstr "Basaq bireme:"
+

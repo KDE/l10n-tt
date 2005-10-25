@@ -71,6 +71,7 @@ msgid "&Y:"
 msgstr "&Y:"
 
 #: kdm-appear.cpp:158
+#, fuzzy
 msgid "Here you specify the relative coordinates (in percent) of the login dialog's <em>center</em>."
 msgstr "Kerü täräzäseneñ <em>üzäk</em> urınlaşuın bonda %lap bilgeläp bula."
 
@@ -561,3 +562,4 @@ msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
+
