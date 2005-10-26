@@ -111,6 +111,7 @@ msgid "&Y:"
 msgstr "&Y:"
 
 #: kdm-appear.cpp:199
+#, fuzzy
 msgid ""
 "Here you specify the relative coordinates (in percent) of the login dialog's "
 "<em>center</em>."

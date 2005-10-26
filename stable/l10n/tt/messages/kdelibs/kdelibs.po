@@ -5064,6 +5064,7 @@ msgid "Preview of the \"%1\" font"
 msgstr "\"%1\" yazuınıñ küreneşe"
 
 #: kdeui/kfontrequester.cpp:119
+#, fuzzy
 msgid ""
 "This is a preview of the \"%1\" font. You can change it by clicking the "
 "\"Choose...\" button."

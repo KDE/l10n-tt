@@ -558,6 +558,7 @@ msgstr ""
 "Bu närsä cirle birem tügel.\n"
 
 #: konsole.cpp:4003
+#, fuzzy
 msgid ""
 "A file with this name already exists.\n"
 "Do you want to overwrite it?"

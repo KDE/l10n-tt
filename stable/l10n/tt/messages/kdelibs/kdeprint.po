@@ -3398,6 +3398,7 @@ msgid "Subnet: %1"
 msgstr "Eççeltär: %1"
 
 #: management/networkscanner.cpp:161
+#, fuzzy
 msgid ""
 "You are about to scan a subnet (%1.*) that does not correspond to the current "
 "subnet of this computer (%2.*). Do you want to scan the specified subnet "
@@ -6881,3 +6882,4 @@ msgstr "&Sorıtösmer"
 #: kpqtpage.cpp:151
 msgid "Ot&her"
 msgstr "&Başqa"
+

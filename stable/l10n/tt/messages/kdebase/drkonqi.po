@@ -63,6 +63,7 @@ msgid "&Overwrite"
 msgstr "&Östän Yaz"
 
 #: debugger.cpp:134
+#, fuzzy
 msgid "Cannot open file %1 for writing"
 msgstr "% biremen yazu öçen açıp bulmadı"
 

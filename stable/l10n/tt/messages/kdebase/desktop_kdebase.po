@@ -5015,6 +5015,7 @@ msgid "Name=System Tray"
 msgstr "Name=Sistem Tiräse"
 
 #: kicker/applets/systemtray/systemtrayapplet.desktop:72
+#, fuzzy
 msgid "Comment=The system tray panel applet"
 msgstr "Sistem-tirä taqtasınıñ applete"
 
@@ -7171,6 +7172,7 @@ msgid "Name=Tokelau"
 msgstr "Name=Tokelauça"
 
 #: l10n/tm/entry.desktop:2
+#, fuzzy
 msgid "Name=Turkmenistan"
 msgstr "Törkmänstan"
 
