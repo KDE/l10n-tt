@@ -14,7 +14,9 @@ msgstr ""
 
 #: kcmioslaveinfo.cpp:56
 msgid "<h1>IO slaves</h1> Gives you an overview of the installed ioslaves."
-msgstr "<h1>Kertü/Çığaru cıhazları</h1> Bar bulğan kertü/çığaru cıhazlarına küzätü birä."
+msgstr ""
+"<h1>Kertü/Çığaru cıhazları</h1> Bar bulğan kertü/çığaru cıhazlarına küzätü "
+"birä."
 
 #: kcmioslaveinfo.cpp:59
 msgid "Available IO slaves:"

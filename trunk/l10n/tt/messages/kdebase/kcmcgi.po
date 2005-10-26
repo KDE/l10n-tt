@@ -45,5 +45,11 @@ msgid "(c) 2002 Cornelius Schumacher"
 msgstr "(c) 2002 Cornelius Schumacher"
 
 #: kcmcgi.cpp:147
-msgid "<h1>CGI Scripts</h1> The CGI KIO slave lets you execute local CGI programs without the need to run a web server. In this control module you can configure the paths that are searched for CGI scripts."
-msgstr "<h1>CGI Ämerlek</h1> CGI KIO ul web-server cibärmiçä CGI yazılımnarnı eşlätergä mömkinlek birüçe qaral. CGI yazılımnar ezlägändä qullanası yullarnı anıñ bu idärä öleşendä köyläp quyarğa bula."
+msgid ""
+"<h1>CGI Scripts</h1> The CGI KIO slave lets you execute local CGI programs "
+"without the need to run a web server. In this control module you can configure "
+"the paths that are searched for CGI scripts."
+msgstr ""
+"<h1>CGI Ämerlek</h1> CGI KIO ul web-server cibärmiçä CGI yazılımnarnı eşlätergä "
+"mömkinlek birüçe qaral. CGI yazılımnar ezlägändä qullanası yullarnı anıñ bu "
+"idärä öleşendä köyläp quyarğa bula."

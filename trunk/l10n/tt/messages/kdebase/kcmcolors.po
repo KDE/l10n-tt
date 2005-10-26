@@ -13,44 +13,94 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: colorscm.cpp:100
-msgid "<h1>Colors</h1> This module allows you to choose the color scheme used for the KDE desktop. The different elements of the desktop, such as title bars, menu text, etc., are called \"widgets\". You can choose the widget whose color you want to change by selecting it from a list, or by clicking on a graphical representation of the desktop.<p> You can save color settings as complete color schemes, which can also be modified or deleted. KDE comes with several predefined color schemes on which you can base your own.<p> All KDE applications will obey the selected color scheme. Non-KDE applications may also obey some or all of the color settings, if this option is enabled."
-msgstr "<h1>Töslär</h1> KDE östäle öçen qullanası töslär köyläwen bu modul aşa saylap bula. Östälneñ başlıqtirä, saylaq yazması kebek öleşläre \"widget\" itep atala. Tösen üzgärtäse öleşen bondağı tezmädan dä saylap bula, östäge küzläp alu sürätenä çirtü aşa da saylap bula.<p> Töslär köyläwen berär ayırım töslär tözeleşe itep tä saqlap bula, alarnı şulay uq üzgärtep tä, beterep tä bula. KDE belän bergä kilüçe töslär köyläwläre asılında üz köyläwlären yasap bula.<p> KDE yazılımnarı bu saylanğan töslär köyläwen qullana. Kiräk itep äytelsä, KDE-bulmağan yazılımnar da bu töslär köyläwlären qullana ala."
+msgid ""
+"<h1>Colors</h1> This module allows you to choose the color scheme used for the "
+"KDE desktop. The different elements of the desktop, such as title bars, menu "
+"text, etc., are called \"widgets\". You can choose the widget whose color you "
+"want to change by selecting it from a list, or by clicking on a graphical "
+"representation of the desktop."
+"<p> You can save color settings as complete color schemes, which can also be "
+"modified or deleted. KDE comes with several predefined color schemes on which "
+"you can base your own."
+"<p> All KDE applications will obey the selected color scheme. Non-KDE "
+"applications may also obey some or all of the color settings, if this option is "
+"enabled."
+msgstr ""
+"<h1>Töslär</h1> KDE östäle öçen qullanası töslär köyläwen bu modul aşa saylap "
+"bula. Östälneñ başlıqtirä, saylaq yazması kebek öleşläre \"widget\" itep atala. "
+"Tösen üzgärtäse öleşen bondağı tezmädan dä saylap bula, östäge küzläp alu "
+"sürätenä çirtü aşa da saylap bula."
+"<p> Töslär köyläwen berär ayırım töslär tözeleşe itep tä saqlap bula, alarnı "
+"şulay uq üzgärtep tä, beterep tä bula. KDE belän bergä kilüçe töslär köyläwläre "
+"asılında üz köyläwlären yasap bula."
+"<p> KDE yazılımnarı bu saylanğan töslär köyläwen qullana. Kiräk itep äytelsä, "
+"KDE-bulmağan yazılımnar da bu töslär köyläwlären qullana ala."
 
 #: colorscm.cpp:133
-msgid "This is a preview of the color settings which will be applied if you click \"Apply\" or \"OK\". You can click on different parts of this preview image. The widget name in the \"Widget color\" box will change to reflect the part of the preview image you clicked."
-msgstr "Bonda kürsätelgän töslär köyläwe \"Aşır\" yä ki \"OK\" töymälärenä çirtkändä qullanuğa keräçäk. Bu aldan kürsätü sürätenä çirtkändä törle öleşlar saylanğan bula, ul çaqta \"Widget tese\" digän tezmä kereme dä saylanğan öleşkä qarap üzgäreläçäk."
+msgid ""
+"This is a preview of the color settings which will be applied if you click "
+"\"Apply\" or \"OK\". You can click on different parts of this preview image. "
+"The widget name in the \"Widget color\" box will change to reflect the part of "
+"the preview image you clicked."
+msgstr ""
+"Bonda kürsätelgän töslär köyläwe \"Aşır\" yä ki \"OK\" töymälärenä çirtkändä "
+"qullanuğa keräçäk. Bu aldan kürsätü sürätenä çirtkändä törle öleşlar saylanğan "
+"bula, ul çaqta \"Widget tese\" digän tezmä kereme dä saylanğan öleşkä qarap "
+"üzgäreläçäk."
 
 #: colorscm.cpp:145
 msgid "Color Scheme"
 msgstr "Tös Köyläwe"
 
 #: colorscm.cpp:154
-msgid "This is a list of predefined color schemes, including any that you may have created. You can preview an existing color scheme by selecting it from the list. The current scheme will be replaced by the selected color scheme.<p> Warning: if you have not yet applied any changes you may have made to the current scheme, those changes will be lost if you select another color scheme."
-msgstr "Aldan bilgelängän töstözeleşlär tezmäse bu, üz yasağannarı da bonda uq. Alar arasınnan berärsen saylap, anıñ küreneşen kürep alırğa bula. Ağımdağı töztozeleş bonda saylanğanı belän almaşınaçaq.<p> Belderü: biredäge köyläw saqlanmağan ikän, başqa töstözeleş saylanğan çaqta, biredägenä kertelğan üzgäreşlär yuğalaçaq."
+msgid ""
+"This is a list of predefined color schemes, including any that you may have "
+"created. You can preview an existing color scheme by selecting it from the "
+"list. The current scheme will be replaced by the selected color scheme."
+"<p> Warning: if you have not yet applied any changes you may have made to the "
+"current scheme, those changes will be lost if you select another color scheme."
+msgstr ""
+"Aldan bilgelängän töstözeleşlär tezmäse bu, üz yasağannarı da bonda uq. Alar "
+"arasınnan berärsen saylap, anıñ küreneşen kürep alırğa bula. Ağımdağı "
+"töztozeleş bonda saylanğanı belän almaşınaçaq."
+"<p> Belderü: biredäge köyläw saqlanmağan ikän, başqa töstözeleş saylanğan "
+"çaqta, biredägenä kertelğan üzgäreşlär yuğalaçaq."
 
 #: colorscm.cpp:162
 msgid "&Save Scheme..."
 msgstr "Tözeleşne &Saqlaw..."
 
 #: colorscm.cpp:165
-msgid "Press this button if you want to save the current color settings as a color scheme. You will be prompted for a name."
-msgstr "Ağımdağı tös köyläwen ayırım tös tözeleşe itep saqlaw öçen bu töymägä çirtäse. Berär atama soralaçaq."
+msgid ""
+"Press this button if you want to save the current color settings as a color "
+"scheme. You will be prompted for a name."
+msgstr ""
+"Ağımdağı tös köyläwen ayırım tös tözeleşe itep saqlaw öçen bu töymägä çirtäse. "
+"Berär atama soralaçaq."
 
 #: colorscm.cpp:169
 msgid "R&emove Scheme"
 msgstr "Tözeleşne &Beter"
 
 #: colorscm.cpp:173
-msgid "Press this button to remove the selected color scheme. Note that this button is disabled if you do not have permission to delete the color scheme."
-msgstr "Saylanğan tös tözeleşen beterü öçen bu töymägä çirtäse. Töslär tözeleşen betererlek xoquqlar citmägän çaqta bu töymä sünek toraçaq."
+msgid ""
+"Press this button to remove the selected color scheme. Note that this button is "
+"disabled if you do not have permission to delete the color scheme."
+msgstr ""
+"Saylanğan tös tözeleşen beterü öçen bu töymägä çirtäse. Töslär tözeleşen "
+"betererlek xoquqlar citmägän çaqta bu töymä sünek toraçaq."
 
 #: colorscm.cpp:177
 msgid "I&mport Scheme..."
 msgstr "&Tözeleş Yökläw..."
 
 #: colorscm.cpp:180
-msgid "Press this button to import a new color scheme. Note that the color scheme will only be available for the current user."
-msgstr "Tös tözeleşeneñ yañasın yökläw öçen bu töymägä çirtäse. Bonı beläse: ul töslär tözeleşe biredäge qullanuçığa ğına qullanırlıq bulaçaq."
+msgid ""
+"Press this button to import a new color scheme. Note that the color scheme will "
+"only be available for the current user."
+msgstr ""
+"Tös tözeleşeneñ yañasın yökläw öçen bu töymägä çirtäse. Bonı beläse: ul töslär "
+"tözeleşe biredäge qullanuçığa ğına qullanırlıq bulaçaq."
 
 #: colorscm.cpp:188
 msgid "&Widget Color"
@@ -149,19 +199,28 @@ msgid "Alternate Background in Lists"
 msgstr "Tezmädä Almaşınğan Artyaq"
 
 #: colorscm.cpp:227
-msgid "Click here to select an element of the KDE desktop whose color you want to change. You may either choose the \"widget\" here, or click on the corresponding part of the preview image above."
-msgstr "KDE östäleneñ berär öleşenä çirtep, anıñ tösen üzgärtep bula. Ul öleşne bondağı tezmädan dä saylap bula, östäge küzläp alu sürätenä çirtü aşa da saylap bula."
+msgid ""
+"Click here to select an element of the KDE desktop whose color you want to "
+"change. You may either choose the \"widget\" here, or click on the "
+"corresponding part of the preview image above."
+msgstr ""
+"KDE östäleneñ berär öleşenä çirtep, anıñ tösen üzgärtep bula. Ul öleşne bondağı "
+"tezmädan dä saylap bula, östäge küzläp alu sürätenä çirtü aşa da saylap bula."
 
 #: colorscm.cpp:238
-msgid "Click here to bring up a dialog box where you can choose a color for the \"widget\" selected in the above list."
-msgstr "Boña çirtüdän soñ çığuçı täräzäneñ tezmäsendä bu widget öçen tös saylap bula."
+msgid ""
+"Click here to bring up a dialog box where you can choose a color for the "
+"\"widget\" selected in the above list."
+msgstr ""
+"Boña çirtüdän soñ çığuçı täräzäneñ tezmäsendä bu widget öçen tös saylap bula."
 
 #: colorscm.cpp:242
 msgid "Shade sorted column in lists"
 msgstr "Tezmä tezü buyın yaqtırtası"
 
 #: colorscm.cpp:247
-msgid "Check this box to show the sorted column in a list with a shaded background"
+msgid ""
+"Check this box to show the sorted column in a list with a shaded background"
 msgstr "Bu tezmäneñ tärtip buyın başqaça tösläw öçen bu bayraqnı quyası."
 
 #: colorscm.cpp:249
@@ -169,8 +228,12 @@ msgid "Con&trast"
 msgstr "&Kiskenlek"
 
 #: colorscm.cpp:262
-msgid "Use this slider to change the contrast level of the current color scheme. Contrast does not affect all of the colors, only the edges of 3D objects."
-msgstr "Ağımdağı töstözeleşneñ kiskenlegen üzgärtü öçen bu şudırmanı qullanası. Kiskenlek bar töslärgä dä timi, ni barı tırpayğan cisem çiklärenä genä."
+msgid ""
+"Use this slider to change the contrast level of the current color scheme. "
+"Contrast does not affect all of the colors, only the edges of 3D objects."
+msgstr ""
+"Ağımdağı töstözeleşneñ kiskenlegen üzgärtü öçen bu şudırmanı qullanası. "
+"Kiskenlek bar töslärgä dä timi, ni barı tırpayğan cisem çiklärenä genä."
 
 #: colorscm.cpp:266
 msgid ""
@@ -189,8 +252,11 @@ msgid "Apply colors to &non-KDE applications"
 msgstr "Töslärne &KDE-bulmağan yazılımda aşırası"
 
 #: colorscm.cpp:277
-msgid "Check this box to apply the current color scheme to non-KDE applications."
-msgstr "Biredäge töslär köyläwe KDE-bulmağan yazılımnarda aşırsın oçen bu köylämäne yanıq itäse."
+msgid ""
+"Check this box to apply the current color scheme to non-KDE applications."
+msgstr ""
+"Biredäge töslär köyläwe KDE-bulmağan yazılımnarda aşırsın oçen bu köylämäne "
+"yanıq itäse."
 
 #: colorscm.cpp:282
 msgid "Colors"
@@ -203,7 +269,8 @@ msgstr "(c) 1997-2005 Colors Developers"
 #: colorscm.cpp:498
 msgid ""
 "This color scheme could not be removed.\n"
-"Perhaps you do not have permission to alter the filesystem where the color scheme is stored."
+"Perhaps you do not have permission to alter the filesystem where the color "
+"scheme is stored."
 msgstr ""
 "Bu töslär tözeleşen beterep bulmí\n"
 "Töslär tözeleşe belän biremnärne üzgärterlek xoquqlar citmäw buluı bar."

@@ -122,5 +122,7 @@ msgid "Original installer code"
 msgstr "Baş quydırğıç kodı"
 
 #: main.cpp:84
-msgid "<h1>Splash Screen Theme Manager </h1> Install and view splash screen themes."
-msgstr "<h1>Kürgäzmä Täräzä Citäkçese</h1> Kürgäzmä täräzälär quyu/küzätü eşläre."
+msgid ""
+"<h1>Splash Screen Theme Manager </h1> Install and view splash screen themes."
+msgstr ""
+"<h1>Kürgäzmä Täräzä Citäkçese</h1> Kürgäzmä täräzälär quyu/küzätü eşläre."

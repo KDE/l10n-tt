@@ -10114,7 +10114,9 @@ msgstr "İstälek öçen yaqşıraq PNM saylap qaraw; kileşmäwe bar"
 
 #: printers.cpp:4450
 #, no-c-format
-msgid "Attempts to choose best monochrome PNM format for document; not always reliable."
+msgid ""
+"Attempts to choose best monochrome PNM format for document; not always "
+"reliable."
 msgstr "İstälek öçen yaqşıraq aq-qara PNM saylap qaraw; kileşmäwe bar"
 
 #: printers.cpp:4452

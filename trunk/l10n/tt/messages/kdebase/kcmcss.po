@@ -13,14 +13,34 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: kcmcss.cpp:37
-msgid "<h1>Konqueror Stylesheets</h1> This module allows you to apply your own color and font settings to Konqueror by using stylesheets (CSS). You can either specify options or apply your own self-written stylesheet by pointing to its location.<br> Note that these settings will always have precedence before all other settings made by the site author. This can be useful to visually impaired people or for web pages that are unreadable due to bad design."
-msgstr "<h1>Konqueror Bizütabaqları</h1> Üzençä köylängän yazu-töslär belän bizütabaqlarnıñ (CSS) Konqueror'da qullanuın bu modul aşa köyläp bula. Ul köylämälär üzgärtep tä bula, şulay uq üz yasağan tabaq urınlaşuın da bilgelärgä yarí.<br> Belderü: ul bizäleşlär bit eçendäge bizäleş aldınnan qullanıla. Naçar kürüçe keşelärgä, yä ki caysız bizälgän bitlär uqığanda bu köyläwdän uñaylıq kürep bula."
+msgid ""
+"<h1>Konqueror Stylesheets</h1> This module allows you to apply your own color "
+"and font settings to Konqueror by using stylesheets (CSS). You can either "
+"specify options or apply your own self-written stylesheet by pointing to its "
+"location."
+"<br> Note that these settings will always have precedence before all other "
+"settings made by the site author. This can be useful to visually impaired "
+"people or for web pages that are unreadable due to bad design."
+msgstr ""
+"<h1>Konqueror Bizütabaqları</h1> Üzençä köylängän yazu-töslär belän "
+"bizütabaqlarnıñ (CSS) Konqueror'da qullanuın bu modul aşa köyläp bula. Ul "
+"köylämälär üzgärtep tä bula, şulay uq üz yasağan tabaq urınlaşuın da bilgelärgä "
+"yarí."
+"<br> Belderü: ul bizäleşlär bit eçendäge bizäleş aldınnan qullanıla. Naçar "
+"kürüçe keşelärgä, yä ki caysız bizälgän bitlär uqığanda bu köyläwdän uñaylıq "
+"kürep bula."
 
 #. i18n: file cssconfig.ui line 20
 #: rc.cpp:3 rc.cpp:33
 #, no-c-format
-msgid "<b>Stylesheets</b><p>See http://www.w3.org/Style/CSS for further information on cascading style sheets.</p>"
-msgstr "<b>Bizütabaq</b><p>Qoymalı bizü tabaqları turında tulırağın http://www.w3.org/Style/CSS for further bitendä tabıp bula.</p>"
+msgid ""
+"<b>Stylesheets</b>"
+"<p>See http://www.w3.org/Style/CSS for further information on cascading style "
+"sheets.</p>"
+msgstr ""
+"<b>Bizütabaq</b>"
+"<p>Qoymalı bizü tabaqları turında tulırağın http://www.w3.org/Style/CSS for "
+"further bitendä tabıp bula.</p>"
 
 #. i18n: file cssconfig.ui line 45
 #: rc.cpp:6
@@ -31,8 +51,13 @@ msgstr "Bizütabaq"
 #. i18n: file cssconfig.ui line 51
 #: rc.cpp:9
 #, no-c-format
-msgid "<b>Stylesheets</b><p>Use this groupbox to determine how Konqueror will render style sheets.</p>"
-msgstr "<b>Bizütabaq</b><p>Konqueror qaysı bizü tabaqlar qulanırğa tieş buluın bu täräzätä bilgeläp bula.</p>"
+msgid ""
+"<b>Stylesheets</b>"
+"<p>Use this groupbox to determine how Konqueror will render style sheets.</p>"
+msgstr ""
+"<b>Bizütabaq</b>"
+"<p>Konqueror qaysı bizü tabaqlar qulanırğa tieş buluın bu täräzätä bilgeläp "
+"bula.</p>"
 
 #. i18n: file cssconfig.ui line 68
 #: rc.cpp:12
@@ -43,8 +68,12 @@ msgstr "Töp bizütabaq &qullanası"
 #. i18n: file cssconfig.ui line 74
 #: rc.cpp:15
 #, no-c-format
-msgid "<b>Use default stylesheet</b><p>Select this option to use the default stylesheet.</p>"
-msgstr "<b>Töp bizütabaq qullanası</b><p>Bu köylämäne saylap töp bizütabağın qullanıp bula.</p>"
+msgid ""
+"<b>Use default stylesheet</b>"
+"<p>Select this option to use the default stylesheet.</p>"
+msgstr ""
+"<b>Töp bizütabaq qullanası</b>"
+"<p>Bu köylämäne saylap töp bizütabağın qullanıp bula.</p>"
 
 #. i18n: file cssconfig.ui line 82
 #: rc.cpp:18
@@ -55,8 +84,20 @@ msgstr "Ü&zençä bizütabaq qullanası"
 #. i18n: file cssconfig.ui line 85
 #: rc.cpp:21
 #, no-c-format
-msgid "<b>Use user-defined stylesheet</b><p>If this box is checked, Konqueror will try to load a user-defined style sheet as specified in the location below. The style sheet allows you to completely override the way web pages are rendered in your browser. The file specified should contain a valid style sheet (see http://www.w3.org/Style/CSS for further information on cascading style sheets).</p>"
-msgstr "<b>Üzençä bizütabaq qullanu</b><p>Bu köylämä yanıq ikän, Konqueror üz eşe öçen asqaraq äytelgän urınlaşu buyınça bizütabaq yökläp qaraçaq. Ul bizü tabağın qullanıp, web-bitlärneñ gizgeçtä küreşen bötenläy üzgärtep bula. Äytelgän birem tözeleşe tuğrı bulırğa tieş. CSS yäğni qoymalı bizü tabaqları turında belemne http://www.w3.org/Style/CSS säxifäsendä tabıp bula."
+msgid ""
+"<b>Use user-defined stylesheet</b>"
+"<p>If this box is checked, Konqueror will try to load a user-defined style "
+"sheet as specified in the location below. The style sheet allows you to "
+"completely override the way web pages are rendered in your browser. The file "
+"specified should contain a valid style sheet (see http://www.w3.org/Style/CSS "
+"for further information on cascading style sheets).</p>"
+msgstr ""
+"<b>Üzençä bizütabaq qullanu</b>"
+"<p>Bu köylämä yanıq ikän, Konqueror üz eşe öçen asqaraq äytelgän urınlaşu "
+"buyınça bizütabaq yökläp qaraçaq. Ul bizü tabağın qullanıp, web-bitlärneñ "
+"gizgeçtä küreşen bötenläy üzgärtep bula. Äytelgän birem tözeleşe tuğrı bulırğa "
+"tieş. CSS yäğni qoymalı bizü tabaqları turında belemne "
+"http://www.w3.org/Style/CSS säxifäsendä tabıp bula."
 
 #. i18n: file cssconfig.ui line 136
 #: rc.cpp:24
@@ -67,8 +108,16 @@ msgstr "Qulaylıq bizütabaq &qullanası"
 #. i18n: file cssconfig.ui line 139
 #: rc.cpp:27
 #, no-c-format
-msgid "<b>Use accessibility stylesheet</b><p>Selecting this option will allow you to define a default font, font size, and font color with a few simple clicks of the mouse. Simply wander over to the Customize... dialog and pick out your desired options.</p>"
-msgstr "<b>Qulaylıq arttıru</b><p>Bu köylämäne saylap, töp yazu, anın ülçäme belän tösen küseneñ berniçä çirtü aşa köyläp bulaçaq. Bonı öçen Üzläşterü... täräzäsendä iıräk närsälären saylap ğına çığası.</p>"
+msgid ""
+"<b>Use accessibility stylesheet</b>"
+"<p>Selecting this option will allow you to define a default font, font size, "
+"and font color with a few simple clicks of the mouse. Simply wander over to the "
+"Customize... dialog and pick out your desired options.</p>"
+msgstr ""
+"<b>Qulaylıq arttıru</b>"
+"<p>Bu köylämäne saylap, töp yazu, anın ülçäme belän tösen küseneñ berniçä çirtü "
+"aşa köyläp bulaçaq. Bonı öçen Üzläşterü... täräzäsendä iıräk närsälären saylap "
+"ğına çığası.</p>"
 
 #. i18n: file cssconfig.ui line 175
 #: rc.cpp:30
@@ -169,8 +218,14 @@ msgstr "Bar element öçen şul uq ülçäm qullanası"
 #. i18n: file csscustom.ui line 149
 #: rc.cpp:84
 #, no-c-format
-msgid "<b>Use same size for all elements</b><p>Select this option to override custom font sizes in favor of the base font size. All fonts will be displayed in the same size.</p>"
-msgstr "<b>Bar element öçen berü ük ülçäm qullanası</b><p>Bar yazmalarnıñ üzençä ülçäme urınına töp yazu ülçämen qullanu öçen bonı tamğalap bula. Bar yazmalar ber ük bieklektä kürsäteler.</p>"
+msgid ""
+"<b>Use same size for all elements</b>"
+"<p>Select this option to override custom font sizes in favor of the base font "
+"size. All fonts will be displayed in the same size.</p>"
+msgstr ""
+"<b>Bar element öçen berü ük ülçäm qullanası</b>"
+"<p>Bar yazmalarnıñ üzençä ülçäme urınına töp yazu ülçämen qullanu öçen bonı "
+"tamğalap bula. Bar yazmalar ber ük bieklektä kürsäteler.</p>"
 
 #. i18n: file csscustom.ui line 159
 #: rc.cpp:87
@@ -193,8 +248,12 @@ msgstr "&Sürätlärne sünderäse"
 #. i18n: file csscustom.ui line 176
 #: rc.cpp:96
 #, no-c-format
-msgid "<b>Suppress images</b><p>Selecting this will prevent Konqueror from loading images.</p>"
-msgstr "<b>Sürätlärgä kirtä</b><p>Bu köylämä yanıq bulsa, Konqueror asyaq sürätlären yöklämi başlí.</p>"
+msgid ""
+"<b>Suppress images</b>"
+"<p>Selecting this will prevent Konqueror from loading images.</p>"
+msgstr ""
+"<b>Sürätlärgä kirtä</b>"
+"<p>Bu köylämä yanıq bulsa, Konqueror asyaq sürätlären yöklämi başlí.</p>"
 
 #. i18n: file csscustom.ui line 184
 #: rc.cpp:99
@@ -205,8 +264,13 @@ msgstr "Asyaq sürätlärenä kirtä"
 #. i18n: file csscustom.ui line 190
 #: rc.cpp:102
 #, no-c-format
-msgid "<b>Suppress background images</b><p>Selecting this option will prevent Konqueror from loading background images.</p>"
-msgstr "<b>Asyaq sürätlärenä kirtä</b><p>Bu köylämä yanıq bulsa, Konqueror asyaq sürätlären yöklämi başlí.</p>"
+msgid ""
+"<b>Suppress background images</b>"
+"<p>Selecting this option will prevent Konqueror from loading background "
+"images.</p>"
+msgstr ""
+"<b>Asyaq sürätlärenä kirtä</b>"
+"<p>Bu köylämä yanıq bulsa, Konqueror asyaq sürätlären yöklämi başlí.</p>"
 
 #. i18n: file csscustom.ui line 200
 #: rc.cpp:105
@@ -217,8 +281,14 @@ msgstr "Yazu Ğäiläse"
 #. i18n: file csscustom.ui line 203
 #: rc.cpp:108
 #, no-c-format
-msgid "<b>Font family</b><p>A font family is a group of fonts that resemble one another, with family members that are e.g. bold, italic, or any number of the above.</p>"
-msgstr "<b>Yazu ğäiläse</b><p>Adı ber bulıp, küreneşe ayırılğan yazular törkeme yazula ğäiläse itep atala, anda awış, qalın, yä quşma-üzençälekle yazular bula ala.</p>"
+msgid ""
+"<b>Font family</b>"
+"<p>A font family is a group of fonts that resemble one another, with family "
+"members that are e.g. bold, italic, or any number of the above.</p>"
+msgstr ""
+"<b>Yazu ğäiläse</b>"
+"<p>Adı ber bulıp, küreneşe ayırılğan yazular törkeme yazula ğäiläse itep atala, "
+"anda awış, qalın, yä quşma-üzençälekle yazular bula ala.</p>"
 
 #. i18n: file csscustom.ui line 214
 #: rc.cpp:111
@@ -241,8 +311,13 @@ msgstr "Bar yazma öçen ber ük ğäilä qullanası"
 #. i18n: file csscustom.ui line 261
 #: rc.cpp:120
 #, no-c-format
-msgid "<b>Use same family for all text</b><p>Select this option to override custom fonts everywhere in favor of the base font.</p>"
-msgstr "<b>Bar yazma öçen ber ük ğäilä qullanası</b><p>Bar üzençä yazmalar urınına töp yazu qullanu öçen bonı tamğalap bula.</p>"
+msgid ""
+"<b>Use same family for all text</b>"
+"<p>Select this option to override custom fonts everywhere in favor of the base "
+"font.</p>"
+msgstr ""
+"<b>Bar yazma öçen ber ük ğäilä qullanası</b>"
+"<p>Bar üzençä yazmalar urınına töp yazu qullanu öçen bonı tamğalap bula.</p>"
 
 #. i18n: file csscustom.ui line 302
 #: rc.cpp:123
@@ -253,8 +328,12 @@ msgstr "&Küzläp alu"
 #. i18n: file csscustom.ui line 305
 #: rc.cpp:126
 #, no-c-format
-msgid "<b>Preview</b><p>Click on this button to see what your selections look like in action.</p>"
-msgstr "<b>Küzätü</b><p>Saylanu eşläw küreneşen kürü öçen bu töymägä çirtäse.</p>"
+msgid ""
+"<b>Preview</b>"
+"<p>Click on this button to see what your selections look like in action.</p>"
+msgstr ""
+"<b>Küzätü</b>"
+"<p>Saylanu eşläw küreneşen kürü öçen bu töymägä çirtäse.</p>"
 
 #. i18n: file csscustom.ui line 332
 #: rc.cpp:129
@@ -284,7 +363,9 @@ msgstr "&Qara östennän Aq"
 #: rc.cpp:141
 #, no-c-format
 msgid "<b>White on Black</b><p>This is your classic inverse color scheme.</p>"
-msgstr "<b>Qara östendä Aq</b><p>Klassik sanalğan äyländerelgän töz caylawı.</p>"
+msgstr ""
+"<b>Qara östendä Aq</b>"
+"<p>Klassik sanalğan äyländerelgän töz caylawı.</p>"
 
 #. i18n: file csscustom.ui line 374
 #: rc.cpp:144
@@ -295,14 +376,22 @@ msgstr "&Köyläwle"
 #. i18n: file csscustom.ui line 377
 #: rc.cpp:147
 #, no-c-format
-msgid "<b>Custom</b><p>Select this option to define a custom color for the default font.</p>"
-msgstr "<b>Üzençä</b><p>Töp yazuğa üzençä tös bilgeläw öçen bu köylämäne saylísı.</p>"
+msgid ""
+"<b>Custom</b>"
+"<p>Select this option to define a custom color for the default font.</p>"
+msgstr ""
+"<b>Üzençä</b>"
+"<p>Töp yazuğa üzençä tös bilgeläw öçen bu köylämäne saylísı.</p>"
 
 #. i18n: file csscustom.ui line 402
 #: rc.cpp:151 rc.cpp:157
 #, no-c-format
-msgid "<b>Foreground color</b><p>The foreground color is the color that the text is drawn in.</p>"
-msgstr "<b>Alyaq töse</b><p>Yazmalar çığaru öçen qullanılğan tös \"alyaq\" itep atala.</p>"
+msgid ""
+"<b>Foreground color</b>"
+"<p>The foreground color is the color that the text is drawn in.</p>"
+msgstr ""
+"<b>Alyaq töse</b>"
+"<p>Yazmalar çığaru öçen qullanılğan tös \"alyaq\" itep atala.</p>"
 
 #. i18n: file csscustom.ui line 478
 #: rc.cpp:154
@@ -313,7 +402,9 @@ msgstr "&Ösyaq"
 #. i18n: file csscustom.ui line 495
 #: rc.cpp:161
 #, no-c-format
-msgid "<b>Background</b><p>Behind this door lays the ability to choose a custom default background.</p>"
+msgid ""
+"<b>Background</b>"
+"<p>Behind this door lays the ability to choose a custom default background.</p>"
 msgstr "<b>Asyaq</b><p>Asyaq öçen üzençä süräten saylarğa birä.</p>"
 
 #. i18n: file csscustom.ui line 503
@@ -325,8 +416,13 @@ msgstr "&Asyaq:"
 #. i18n: file csscustom.ui line 509
 #: rc.cpp:167
 #, no-c-format
-msgid "<b>Background</b><p>This background color is the one displayed behind the text by default. A background image will override this.</p>"
-msgstr "<b>Asyaq</b><p>Yazmalar astında kürsätäse tos. Asyaq süräte anı almaştıraçaq.</p>"
+msgid ""
+"<b>Background</b>"
+"<p>This background color is the one displayed behind the text by default. A "
+"background image will override this.</p>"
+msgstr ""
+"<b>Asyaq</b>"
+"<p>Yazmalar astında kürsätäse tos. Asyaq süräte anı almaştıraçaq.</p>"
 
 #. i18n: file csscustom.ui line 519
 #: rc.cpp:170
@@ -337,8 +433,13 @@ msgstr "Bar yazma öçen ber ük tös qullanası"
 #. i18n: file csscustom.ui line 522
 #: rc.cpp:173
 #, no-c-format
-msgid "<b>Use same color for all text</b><p>Select this option to apply your chosen color to the default font as well as any custom fonts as specified in a stylesheet.</p>"
-msgstr "<b>Bar yazma öçen ber ük tös qullanası</b><p>Töp yazu belän bizütabaqtağı yazular üzgärtü öçen bonı tamğalap bula.</p>"
+msgid ""
+"<b>Use same color for all text</b>"
+"<p>Select this option to apply your chosen color to the default font as well as "
+"any custom fonts as specified in a stylesheet.</p>"
+msgstr ""
+"<b>Bar yazma öçen ber ük tös qullanası</b>"
+"<p>Töp yazu belän bizütabaqtağı yazular üzgärtü öçen bonı tamğalap bula.</p>"
 
 #. i18n: file preview.ui line 16
 #: rc.cpp:176
@@ -352,9 +453,12 @@ msgstr "Küzläp alu"
 msgid ""
 "<qt>\n"
 "\n"
-"<h1>Heading 1</h1><br/>\n"
-"<h2>Heading 2</h2><br/>\n"
-"<h3>Heading 3</h3><br/>\n"
+"<h1>Heading 1</h1>"
+"<br/>\n"
+"<h2>Heading 2</h2>"
+"<br/>\n"
+"<h3>Heading 3</h3>"
+"<br/>\n"
 "\n"
 "<p>User defined stylesheets allow increased\n"
 "accessibility for visually handicapped\n"
@@ -364,9 +468,12 @@ msgid ""
 msgstr ""
 "<qt>\n"
 "\n"
-"<h1>1. Başlıq</h1><br/>\n"
-"<h2>2. Başlıq</h2><br/>\n"
-"<h3>3. Başlıq</h3><br/>\n"
+"<h1>1. Başlıq</h1>"
+"<br/>\n"
+"<h2>2. Başlıq</h2>"
+"<br/>\n"
+"<h3>3. Başlıq</h3>"
+"<br/>\n"
 "\n"
 "<p>Qullanuçı bilgelägän tışlaw bireme\n"
 "küzgä ğärip bulğannarı öçen qullanunı\n"

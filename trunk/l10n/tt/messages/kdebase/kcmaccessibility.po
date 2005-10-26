@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmaccessibility\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2005-07-31 01:40+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -50,10 +50,12 @@ msgstr "&Tawışlı Zil"
 #: rc.cpp:12 rc.cpp:155
 #, no-c-format
 msgid ""
-"This is the configuration of the Audible Bell.<br>\n"
+"This is the configuration of the Audible Bell."
+"<br>\n"
 "It could be the system bell and/or a custom bell."
 msgstr ""
-"Tawışlı Belderü caylawı bu.<br>\n"
+"Tawışlı Belderü caylawı bu."
+"<br>\n"
 "Aña sistem zile belän/yä üzençä tawış köyläp bula."
 
 #. i18n: file accessibilityconfigwidget.ui line 61
@@ -66,10 +68,14 @@ msgstr "&Sistem zilen qullanası"
 #: rc.cpp:19 rc.cpp:162
 #, no-c-format
 msgid ""
-"If this option is checked, the default system bell will be used. See the \"System Bell\" control module for how to customize the system bell.<br>\n"
+"If this option is checked, the default system bell will be used. See the "
+"\"System Bell\" control module for how to customize the system bell."
+"<br>\n"
 "Normally, this is just a \"beep\"."
 msgstr ""
-"Bu köylämä yanıq torsa, sistemneñ töpcay zile qullanılaçaq. Sistem zilen köyläw öçen \"Sistem Zile\" digän caylaw modulın qullanası.<br>\n"
+"Bu köylämä yanıq torsa, sistemneñ töpcay zile qullanılaçaq. Sistem zilen köyläw "
+"öçen \"Sistem Zile\" digän caylaw modulın qullanası."
+"<br>\n"
 "Töpcay bulıp, ul \"bip\" kileş kenä."
 
 #. i18n: file accessibilityconfigwidget.ui line 73
@@ -82,11 +88,17 @@ msgstr "Ü&zençä zil qullanası"
 #: rc.cpp:26 rc.cpp:169
 #, no-c-format
 msgid ""
-"Check this option if you want to use a customized bell, playing a sound file. If you do this, you will probably want to turn off the system bell.<br>\n"
-"Please note that on slow machines this may cause a \"lag\" between the event causing the bell and the sound being played."
+"Check this option if you want to use a customized bell, playing a sound file. "
+"If you do this, you will probably want to turn off the system bell."
+"<br>\n"
+"Please note that on slow machines this may cause a \"lag\" between the event "
+"causing the bell and the sound being played."
 msgstr ""
-"Bu köylämä yanıq ikän, zil öçen üzençä tawış biremen saylap bula. Sistem tawışı ul çaqta sünderelsä, yaqşıraq.<br>\n"
-"Bonı beläse: sanaq ärken bulsa, waqığa çığudan soñ täwış çığuına tikle olı ara bulıp çığuı bar."
+"Bu köylämä yanıq ikän, zil öçen üzençä tawış biremen saylap bula. Sistem tawışı "
+"ul çaqta sünderelsä, yaqşıraq."
+"<br>\n"
+"Bonı beläse: sanaq ärken bulsa, waqığa çığudan soñ täwış çığuına tikle olı ara "
+"bulıp çığuı bar."
 
 #. i18n: file accessibilityconfigwidget.ui line 113
 #: rc.cpp:30 rc.cpp:173
@@ -97,8 +109,12 @@ msgstr "Uynatası &tawış:"
 #. i18n: file accessibilityconfigwidget.ui line 119
 #: rc.cpp:33 rc.cpp:176
 #, no-c-format
-msgid "If the option \"Use customized bell\" is enabled, you can choose a sound file here."
-msgstr "\"Üzençä zil qullanası\" digän köylämä yanıq torsa, bonda tawış biremen saylap bula."
+msgid ""
+"If the option \"Use customized bell\" is enabled, you can choose a sound file "
+"here."
+msgstr ""
+"\"Üzençä zil qullanası\" digän köylämä yanıq torsa, bonda tawış biremen saylap "
+"bula."
 
 #. i18n: file accessibilityconfigwidget.ui line 139
 #: rc.cpp:36 rc.cpp:179
@@ -133,8 +149,8 @@ msgstr "Küräkne &kire it"
 
 #. i18n: file accessibilityconfigwidget.ui line 310
 #: rc.cpp:52 rc.cpp:195
-#, no-c-format
-msgid "F&lash screen"
+#, fuzzy, no-c-format
+msgid "F&lash screen:"
 msgstr "Küräkne &cemeldä"
 
 #. i18n: file accessibilityconfigwidget.ui line 380

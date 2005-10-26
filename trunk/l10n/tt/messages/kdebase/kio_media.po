@@ -4,53 +4,13 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kio_media\n"
-"POT-Creation-Date: 2005-07-11 01:31+0200\n"
+"POT-Creation-Date: 2005-10-26 02:41+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#: mediamanager/fstabbackend.cpp:267
-msgid "CD Recorder"
-msgstr "CD Yazdırğıç"
-
-#: mediamanager/fstabbackend.cpp:272
-msgid "DVD"
-msgstr "DVD"
-
-#: mediamanager/fstabbackend.cpp:282
-msgid "CD-ROM"
-msgstr "CD-ROM"
-
-#: mediamanager/fstabbackend.cpp:295
-msgid "Floppy"
-msgstr "Floppi"
-
-#: mediamanager/fstabbackend.cpp:303
-msgid "Zip Disk"
-msgstr "Zip Disk"
-
-#: mediamanager/fstabbackend.cpp:314
-msgid "Removable Device"
-msgstr "Çığarulı Cıhaz"
-
-#: mediamanager/fstabbackend.cpp:319 mediamanager/fstabbackend.cpp:325
-msgid "Remote Share"
-msgstr "Çittäge Urtaq"
-
-#: mediamanager/fstabbackend.cpp:330
-msgid "Hard Disk"
-msgstr "Eçke Disk"
-
-#: kio_media.cpp:35
-msgid "Protocol name"
-msgstr "Protokol adı"
-
-#: kio_media.cpp:36 kio_media.cpp:37
-msgid "Socket name"
-msgstr "Soket adı"
 
 #: _translatorinfo.cpp:1
 msgid ""
@@ -64,109 +24,19 @@ msgid ""
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
 
+#: kio_media.cpp:35
+msgid "Protocol name"
+msgstr "Protokol adı"
+
+#: kio_media.cpp:36 kio_media.cpp:37
+msgid "Socket name"
+msgstr "Soket adı"
+
 #: mediaimpl.cpp:86 mediaimpl.cpp:113 mediaimpl.cpp:139 mediaimpl.cpp:173
 #: mediaimpl.cpp:193 mediaimpl.cpp:214
 #: mounthelper/kio_media_mounthelper.cpp:43
 msgid "The KDE mediamanager is not running."
 msgstr "KDE'neñ taşılma-citäkçese cibärelgän tügel."
-
-#: mounthelper/kio_media_mounthelper.cpp:60
-msgid "%1 cannot be found."
-msgstr "%1 digäne tabılmadı."
-
-#: mounthelper/kio_media_mounthelper.cpp:67
-msgid "%1 is not a mountable media."
-msgstr "%1 digäne totaşulı media tügel."
-
-#: mounthelper/kio_media_mounthelper.cpp:134
-#: mounthelper/kio_media_mounthelper.cpp:159
-msgid ""
-"\n"
-"Please check that the disk is entered correctly."
-msgstr ""
-"\n"
-"Bu disk tieşleçä kertelgän dip bilgelä zinhar."
-
-#: mounthelper/kio_media_mounthelper.cpp:139
-#: mounthelper/kio_media_mounthelper.cpp:164
-msgid ""
-"\n"
-"Please check that the device is plugged correctly."
-msgstr ""
-"\n"
-"Bu cıhaz tieşleçä totaşqan buluın tikşerep alası."
-
-#: mounthelper/kio_media_mounthelper.cpp:189
-msgid "Unmount given URL"
-msgstr "Bu URL'nı ayıru"
-
-#: mounthelper/kio_media_mounthelper.cpp:190
-msgid "Mount given URL (default)"
-msgstr "Bu URL'nı totaştıru (ğädättä)"
-
-#: mounthelper/kio_media_mounthelper.cpp:191
-msgid "Eject given URL via kdeeject"
-msgstr "Bu URL'nı çığaru, kdeeject aşa"
-
-#: mounthelper/kio_media_mounthelper.cpp:192
-msgid "Unmount and Eject given URL (necessary for some USB devices)"
-msgstr "URL'nı Ayırıp Çığarası (USB-cıhazlarınıñ qayberenä kiräk)"
-
-#: mounthelper/kio_media_mounthelper.cpp:193
-msgid "media:/ URL to mount/unmount/eject/remove"
-msgstr "media:/ tağu/ayıru/çığaru/beterü öçen URL"
-
-#: kcmodule/main.cpp:47
-msgid "&Notifications"
-msgstr "&Beldermälär"
-
-#: kcmodule/main.cpp:54
-msgid "Storage Media"
-msgstr "Saqlawlı Media"
-
-#: kcmodule/main.cpp:56
-msgid "Storage Media Control Panel Module"
-msgstr "Saqlawlı Media öçen İdärä Taqtası Modulı"
-
-#: kcmodule/main.cpp:58
-msgid "(c) 2005 Jean-Remy Falleri"
-msgstr "(c) 2005 Jean-Remy Falleri"
-
-#: kcmodule/main.cpp:59
-msgid "Maintainer"
-msgstr "Bulışuçı"
-
-#: kcmodule/main.cpp:61
-msgid "Help for the application design"
-msgstr "Yazılım tözeşendä bulışa"
-
-#: kcmodule/main.cpp:88
-msgid "FIXME : Write me..."
-msgstr "TÖZÄTÇE : Yaz miña..."
-
-#: kcmodule/serviceconfigdialog.cpp:33
-msgid "Edit Service"
-msgstr "Xezmät Tözätü"
-
-#: kcmodule/notifiermodule.cpp:46
-msgid "All Mime Types"
-msgstr "Bar Mime Törläre"
-
-#: libmediacommon/actionlistboxitem.cpp:34
-msgid "Auto Action"
-msgstr "Üzennän Eşlänü"
-
-#: libmediacommon/notifieropenaction.cpp:28
-msgid "Open in New Window"
-msgstr "Yaña Täräzädä Aç"
-
-#: libmediacommon/notifiernothingaction.cpp:28
-msgid "Do nothing"
-msgstr "Berni eşlämäskä"
-
-#: libmediacommon/notifierserviceaction.cpp:33
-msgid "Unknown"
-msgstr "Bilgesez"
 
 #: mediaimpl.cpp:183
 msgid "This media name already exists."
@@ -212,10 +82,134 @@ msgstr "Totılu"
 msgid "Bar Graph"
 msgstr "Bağanalı Sızım"
 
-#: medianotifier/notificationdialog.cpp:34
-msgid "Medium Detected"
-msgstr "Cıhaz Tabıldı"
+#: libmediacommon/actionlistboxitem.cpp:34
+msgid "Auto Action"
+msgstr "Üzennän Eşlänü"
 
-#: medianotifier/notificationdialog.cpp:43
-msgid "<b>Medium Type:</b>"
-msgstr "<b>Cıhaz Töre:</b>"
+#: libmediacommon/notifiernothingaction.cpp:28
+#, fuzzy
+msgid "Do Nothing"
+msgstr "Berni eşlämäskä"
+
+#: libmediacommon/notifieropenaction.cpp:28
+msgid "Open in New Window"
+msgstr "Yaña Täräzädä Aç"
+
+#: libmediacommon/notifierserviceaction.cpp:33
+msgid "Unknown"
+msgstr "Bilgesez"
+
+#: mediamanager/fstabbackend.cpp:354
+msgid "CD Recorder"
+msgstr "CD Yazdırğıç"
+
+#: mediamanager/fstabbackend.cpp:360
+msgid "DVD"
+msgstr "DVD"
+
+#: mediamanager/fstabbackend.cpp:371
+msgid "CD-ROM"
+msgstr "CD-ROM"
+
+#: mediamanager/fstabbackend.cpp:384
+msgid "Floppy"
+msgstr "Floppi"
+
+#: mediamanager/fstabbackend.cpp:392
+msgid "Zip Disk"
+msgstr "Zip Disk"
+
+#: mediamanager/fstabbackend.cpp:403
+msgid "Removable Device"
+msgstr "Çığarulı Cıhaz"
+
+#: mediamanager/fstabbackend.cpp:408 mediamanager/fstabbackend.cpp:414
+msgid "Remote Share"
+msgstr "Çittäge Urtaq"
+
+#: mediamanager/fstabbackend.cpp:419
+msgid "Hard Disk"
+msgstr "Eçke Disk"
+
+#: mediamanager/halbackend.cpp:583
+msgid "Camera"
+msgstr ""
+
+#: mounthelper/kio_media_mounthelper.cpp:60
+msgid "%1 cannot be found."
+msgstr "%1 digäne tabılmadı."
+
+#: mounthelper/kio_media_mounthelper.cpp:67
+msgid "%1 is not a mountable media."
+msgstr "%1 digäne totaşulı media tügel."
+
+#: mounthelper/kio_media_mounthelper.cpp:130
+#: mounthelper/kio_media_mounthelper.cpp:155
+msgid ""
+"\n"
+"Please check that the disk is entered correctly."
+msgstr ""
+"\n"
+"Bu disk tieşleçä kertelgän dip bilgelä zinhar."
+
+#: mounthelper/kio_media_mounthelper.cpp:135
+#: mounthelper/kio_media_mounthelper.cpp:160
+msgid ""
+"\n"
+"Please check that the device is plugged correctly."
+msgstr ""
+"\n"
+"Bu cıhaz tieşleçä totaşqan buluın tikşerep alası."
+
+#: mounthelper/kio_media_mounthelper.cpp:185
+msgid "Unmount given URL"
+msgstr "Bu URL'nı ayıru"
+
+#: mounthelper/kio_media_mounthelper.cpp:186
+msgid "Mount given URL (default)"
+msgstr "Bu URL'nı totaştıru (ğädättä)"
+
+#: mounthelper/kio_media_mounthelper.cpp:187
+msgid "Eject given URL via kdeeject"
+msgstr "Bu URL'nı çığaru, kdeeject aşa"
+
+#: mounthelper/kio_media_mounthelper.cpp:188
+msgid "Unmount and Eject given URL (necessary for some USB devices)"
+msgstr "URL'nı Ayırıp Çığarası (USB-cıhazlarınıñ qayberenä kiräk)"
+
+#: mounthelper/kio_media_mounthelper.cpp:189
+msgid "media:/ URL to mount/unmount/eject/remove"
+msgstr "media:/ tağu/ayıru/çığaru/beterü öçen URL"
+
+#~ msgid "&Notifications"
+#~ msgstr "&Beldermälär"
+
+#~ msgid "Storage Media"
+#~ msgstr "Saqlawlı Media"
+
+#~ msgid "Storage Media Control Panel Module"
+#~ msgstr "Saqlawlı Media öçen İdärä Taqtası Modulı"
+
+#~ msgid "(c) 2005 Jean-Remy Falleri"
+#~ msgstr "(c) 2005 Jean-Remy Falleri"
+
+#~ msgid "Maintainer"
+#~ msgstr "Bulışuçı"
+
+#~ msgid "Help for the application design"
+#~ msgstr "Yazılım tözeşendä bulışa"
+
+#~ msgid "FIXME : Write me..."
+#~ msgstr "TÖZÄTÇE : Yaz miña..."
+
+#~ msgid "Edit Service"
+#~ msgstr "Xezmät Tözätü"
+
+#~ msgid "All Mime Types"
+#~ msgstr "Bar Mime Törläre"
+
+#~ msgid "Medium Detected"
+#~ msgstr "Cıhaz Tabıldı"
+
+#~ msgid "<b>Medium Type:</b>"
+#~ msgstr "<b>Cıhaz Töre:</b>"

@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase libkonq\n"
-"POT-Creation-Date: 2005-06-07 01:23+0200\n"
+"POT-Creation-Date: 2005-09-21 02:57+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -244,28 +244,28 @@ msgstr "Bu Biremgä &Bitbilge"
 msgid "&Open With"
 msgstr "&Monı belän Aç"
 
-#: konq_popupmenu.cc:860
+#: konq_popupmenu.cc:863
 #, c-format
 msgid "Open with %1"
 msgstr "Monı belän aç: %1"
 
-#: konq_popupmenu.cc:874
+#: konq_popupmenu.cc:877
 msgid "&Other..."
 msgstr "&Başqa..."
 
-#: konq_popupmenu.cc:878 konq_popupmenu.cc:885
+#: konq_popupmenu.cc:881 konq_popupmenu.cc:888
 msgid "&Open With..."
 msgstr "&Monı belän Açu..."
 
-#: konq_popupmenu.cc:905
+#: konq_popupmenu.cc:908
 msgid "Ac&tions"
 msgstr "Ğä&mällär"
 
-#: konq_popupmenu.cc:939
+#: konq_popupmenu.cc:942
 msgid "&Properties"
 msgstr "&Üzençälege"
 
-#: konq_popupmenu.cc:953
+#: konq_popupmenu.cc:956
 msgid "Share"
 msgstr "Büleşü"
 

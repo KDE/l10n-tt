@@ -13,8 +13,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: kcmsmserver.cpp:42
-msgid "<h1>Session Manager</h1> You can configure the session manager here. This includes options such as whether or not the session exit (logout) should be confirmed, whether the session should be restored again when logging in and whether the computer should be automatically shut down after session exit by default."
-msgstr "<h1>Sessi Citäkçese</h1> Sessi citäkçese eşläwen bonda köyläp bula. Anıñ köylämäläre arasında bolar bar: sessidän çıqqanda kileşü soraw, tuqtatası sessilärne saqlap, kiläse cibärelgändä torğızu, sessidän çıqqanda sanaqnı sünderü."
+msgid ""
+"<h1>Session Manager</h1> You can configure the session manager here. This "
+"includes options such as whether or not the session exit (logout) should be "
+"confirmed, whether the session should be restored again when logging in and "
+"whether the computer should be automatically shut down after session exit by "
+"default."
+msgstr ""
+"<h1>Sessi Citäkçese</h1> Sessi citäkçese eşläwen bonda köyläp bula. Anıñ "
+"köylämäläre arasında bolar bar: sessidän çıqqanda kileşü soraw, tuqtatası "
+"sessilärne saqlap, kiläse cibärelgändä torğızu, sessidän çıqqanda sanaqnı "
+"sünderü."
 
 #. i18n: file smserverconfigdlg.ui line 16
 #: rc.cpp:3
@@ -37,8 +46,12 @@ msgstr "Çığunı &raslaw"
 #. i18n: file smserverconfigdlg.ui line 54
 #: rc.cpp:12
 #, no-c-format
-msgid "Check this option if you want the session manager to display a logout confirmation dialog box."
-msgstr "Bu köylämä yanıq ikän, sessidän çıqqanda çığu belän kileşüne sorí torğan täräzä kürsäteläçäk."
+msgid ""
+"Check this option if you want the session manager to display a logout "
+"confirmation dialog box."
+msgstr ""
+"Bu köylämä yanıq ikän, sessidän çıqqanda çığu belän kileşüne sorí torğan täräzä "
+"kürsäteläçäk."
 
 #. i18n: file smserverconfigdlg.ui line 62
 #: rc.cpp:15
@@ -57,15 +70,23 @@ msgstr "Kergändä"
 #, no-c-format
 msgid ""
 "<ul>\n"
-"<li><b>Restore previous session:</b> Will save all applications running on exit and restore them when they next start up</li>\n"
-"<li><b>Restore manually saved session: </b> Allows the session to be saved at any time via \"Save Session\" in the K-Menu. This means the currently started applications will reappear when they next start up.</li>\n"
-"<li><b>Start with an empty session:</b> Do not save anything. Will come up with an empty desktop on next start.</li>\n"
+"<li><b>Restore previous session:</b> Will save all applications running on exit "
+"and restore them when they next start up</li>\n"
+"<li><b>Restore manually saved session: </b> Allows the session to be saved at "
+"any time via \"Save Session\" in the K-Menu. This means the currently started "
+"applications will reappear when they next start up.</li>\n"
+"<li><b>Start with an empty session:</b> Do not save anything. Will come up with "
+"an empty desktop on next start.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"<li><b>Uzğan sessine torğızu:</b> Sessidän çıqqançı eşlägän yazılımnar saqlanıp, yaña sessi açılğanda torğızılğan bulaçaq</li>\n"
-"<li><b>Qulsan saqlanğan sessi torğızu: </b> K-Saylaqnıñ \"Seesi Saqlaw\" digän kerem aşa saqlanğan sessine torğızırğa birä, yäğni biredä eşlägän yazılımnar saqlanıp, yaña sessi açılğanda torğızılğan bulaçaq.</li>\n"
-"<li><b>Buş sessi belän başlísı:</b> Berni dä saqlamasqa. Yaña sessi cibärelgändä ul buş bulaçaq.</li>\n"
+"<li><b>Uzğan sessine torğızu:</b> Sessidän çıqqançı eşlägän yazılımnar "
+"saqlanıp, yaña sessi açılğanda torğızılğan bulaçaq</li>\n"
+"<li><b>Qulsan saqlanğan sessi torğızu: </b> K-Saylaqnıñ \"Seesi Saqlaw\" digän "
+"kerem aşa saqlanğan sessine torğızırğa birä, yäğni biredä eşlägän yazılımnar "
+"saqlanıp, yaña sessi açılğanda torğızılğan bulaçaq.</li>\n"
+"<li><b>Buş sessi belän başlísı:</b> Berni dä saqlamasqa. Yaña sessi "
+"cibärelgändä ul buş bulaçaq.</li>\n"
 "</ul>"
 
 #. i18n: file smserverconfigdlg.ui line 90
@@ -95,8 +116,12 @@ msgstr "Sünderü Öçen Töp Cay"
 #. i18n: file smserverconfigdlg.ui line 119
 #: rc.cpp:40
 #, no-c-format
-msgid "Here you can choose what should happen by default when you log out. This only has meaning, if you logged in through KDM."
-msgstr "Sistemnän çıqqanda töpcay bulıp ni eşlänergä tişkegen bonda saylarğa bula. Kereş KDM aşa uzğan bulsa ğına bu köylämä eşläyäçäk."
+msgid ""
+"Here you can choose what should happen by default when you log out. This only "
+"has meaning, if you logged in through KDM."
+msgstr ""
+"Sistemnän çıqqanda töpcay bulıp ni eşlänergä tişkegen bonda saylarğa bula. "
+"Kereş KDM aşa uzğan bulsa ğına bu köylämä eşläyäçäk."
 
 #. i18n: file smserverconfigdlg.ui line 130
 #: rc.cpp:43
@@ -131,5 +156,11 @@ msgstr "Sessilärdän &töşeräse yazılımnar::"
 #. i18n: file smserverconfigdlg.ui line 178
 #: rc.cpp:58
 #, no-c-format
-msgid "Here you can enter a comma-separated list of applications that should not be saved in sessions, and therefore will not be started when restoring a session. For example 'xterm,xconsole'."
-msgstr "Sessi eçendä saqlamasqa digän yazılımnar tezmäsen öter belän aralaştırıp bonda kiterergä bula, sessilär torğızılğanda alar cibärelmäyäçäk. Ürnäk öçen 'xterm,xconsole'."
+msgid ""
+"Here you can enter a comma-separated list of applications that should not be "
+"saved in sessions, and therefore will not be started when restoring a session. "
+"For example 'xterm,xconsole'."
+msgstr ""
+"Sessi eçendä saqlamasqa digän yazılımnar tezmäsen öter belän aralaştırıp bonda "
+"kiterergä bula, sessilär torğızılğanda alar cibärelmäyäçäk. Ürnäk öçen "
+"'xterm,xconsole'."

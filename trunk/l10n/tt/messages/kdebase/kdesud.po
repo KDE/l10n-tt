@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdesud\n"
-"POT-Creation-Date: 2005-05-18 21:23+0200\n"
+"POT-Creation-Date: 2005-07-23 01:32+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,15 +12,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: kdesud.cpp:250
+#: kdesud.cpp:251
 msgid "KDE su daemon"
 msgstr "KDE su demonı"
 
-#: kdesud.cpp:251
+#: kdesud.cpp:252
 msgid "Daemon used by kdesu"
 msgstr "Demonnı kdesu qullana"
 
-#: kdesud.cpp:254
+#: kdesud.cpp:255
 msgid "Author"
 msgstr "Yazuçı"
 

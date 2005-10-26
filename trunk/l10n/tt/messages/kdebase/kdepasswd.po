@@ -54,7 +54,8 @@ msgstr "Yaraqsız sersüz. Tağın kertep qara."
 
 #: passwddlg.cpp:60
 msgid "Internal error: illegal return value from PasswdProcess::checkCurrent."
-msgstr "Eçke xata: PasswdProcess::checkCurrent yağınnan yaraqsız bäyä qaytarıldı."
+msgstr ""
+"Eçke xata: PasswdProcess::checkCurrent yağınnan yaraqsız bäyä qaytarıldı."
 
 #: passwddlg.cpp:89
 msgid "Please enter your new password:"
@@ -65,12 +66,22 @@ msgid "Please enter the new password for user <b>%1</b>:"
 msgstr "<b>%1</b> qullanuçı öçen yaña sersüzne kert zinhar:"
 
 #: passwddlg.cpp:108
-msgid "Your password is longer than 8 characters. On some systems, this can cause problems. You can truncate the password to 8 characters, or leave it as it is."
-msgstr "Sersüzeñ 8 bilgedän dä ozınraq. Qayber sistemnärdä ul qíınlıqlarğa kiterä ala. Sersüzne 8 bilge itterep qısqartıp bula, yä inde şul kileş genä dä qaldırırğa yarí."
+msgid ""
+"Your password is longer than 8 characters. On some systems, this can cause "
+"problems. You can truncate the password to 8 characters, or leave it as it is."
+msgstr ""
+"Sersüzeñ 8 bilgedän dä ozınraq. Qayber sistemnärdä ul qíınlıqlarğa kiterä ala. "
+"Sersüzne 8 bilge itterep qısqartıp bula, yä inde şul kileş genä dä qaldırırğa "
+"yarí."
 
 #: passwddlg.cpp:111
-msgid "The password is longer than 8 characters. On some systems, this can cause problems. You can truncate the password to 8 characters, or leave it as it is."
-msgstr "Bu sersüz 8 bilgedän dä ozınraq. Qayber sistemnärdä ul íiyınlıqlarğa kiterä ala. Sersüzne 8 bilge itterep qısqartıp bula, yä inde şul kileş genä dä qaldırırğa yarí."
+msgid ""
+"The password is longer than 8 characters. On some systems, this can cause "
+"problems. You can truncate the password to 8 characters, or leave it as it is."
+msgstr ""
+"Bu sersüz 8 bilgedän dä ozınraq. Qayber sistemnärdä ul íiyınlıqlarğa kiterä "
+"ala. Sersüzne 8 bilge itterep qısqartıp bula, yä inde şul kileş genä dä "
+"qaldırırğa yarí."
 
 #: passwddlg.cpp:115
 msgid "Password Too Long"

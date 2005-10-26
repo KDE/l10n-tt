@@ -29,15 +29,20 @@ msgstr ""
 "%2"
 
 #: command.cc:159
-msgid "Your SMTP server does not support TLS. Disable TLS, if you want to connect without encryption."
-msgstr "Bu SMTP-server TLS protokolın totmí. Serläwsez totaşası kilsä, TLS protokolın sünderep bula."
+msgid ""
+"Your SMTP server does not support TLS. Disable TLS, if you want to connect "
+"without encryption."
+msgstr ""
+"Bu SMTP-server TLS protokolın totmí. Serläwsez totaşası kilsä, TLS protokolın "
+"sünderep bula."
 
 #: command.cc:173
 msgid ""
 "Your SMTP server claims to support TLS, but negotiation was unsuccessful.\n"
 "You can disable TLS in KDE using the crypto settings module."
 msgstr ""
-"Bu SMTP-server TLS protokolın totqan kebek bulsa da, anıñ aşa aralasıp bulmadı.\n"
+"Bu SMTP-server TLS protokolın totqan kebek bulsa da, anıñ aşa aralasıp "
+"bulmadı.\n"
 "KDE'neñ serläw caylaw modulı aşa TLS qullanuın sünderep bula."
 
 #: command.cc:178
@@ -169,7 +174,8 @@ msgstr ""
 #: transactionstate.cc:97
 #, c-format
 msgid ""
-"Message sending failed since the following recipients were rejected by the server:\n"
+"Message sending failed since the following recipients were rejected by the "
+"server:\n"
 "%1"
 msgstr ""
 "Server kiläse aluçılarnı kire qaqqaç, xäbärne cibärep bulmadı:\n"

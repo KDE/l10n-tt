@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase libkicker\n"
-"POT-Creation-Date: 2005-06-10 01:24+0200\n"
+"POT-Creation-Date: 2005-10-26 02:42+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -20,19 +20,23 @@ msgstr "Sulğa çorna"
 msgid "Scroll right"
 msgstr "Uñğa çorna"
 
-#: panner.cpp:83
+#: panner.cpp:84
 msgid "Scroll up"
 msgstr "Öskä çorna"
 
-#: panner.cpp:84
+#: panner.cpp:85
 msgid "Scroll down"
 msgstr "Asqa çorna"
 
 #. i18n: file kickerSettings.kcfg line 14
 #: rc.cpp:3
 #, no-c-format
-msgid "When this option is enabled, the panels may not be moved and items cannot be removed or added"
-msgstr "Bu köylämä açıq bulsa, bu tiräne dä küçerep bulmas, anıñ keremnären dä östäp/töşerep bulmayaçaq"
+msgid ""
+"When this option is enabled, the panels may not be moved and items cannot be "
+"removed or added"
+msgstr ""
+"Bu köylämä açıq bulsa, bu tiräne dä küçerep bulmas, anıñ keremnären dä "
+"östäp/töşerep bulmayaçaq"
 
 #. i18n: file kickerSettings.kcfg line 19
 #: rc.cpp:6
@@ -61,8 +65,11 @@ msgstr "Saylaqtirä öçen utäkürenüne açası"
 #. i18n: file kickerSettings.kcfg line 31
 #: rc.cpp:18
 #, no-c-format
-msgid "When this option is enabled, the panel containing the menubar will become pseudo-transparent as well"
-msgstr "Bu köylämä açıq bulsa, saylaq yatqan tirä astlığı yasalma ütäkürenüçän itäläçäk"
+msgid ""
+"When this option is enabled, the panel containing the menubar will become "
+"pseudo-transparent as well"
+msgstr ""
+"Bu köylämä açıq bulsa, saylaq yatqan tirä astlığı yasalma ütäkürenüçän itäläçäk"
 
 #. i18n: file kickerSettings.kcfg line 36
 #: rc.cpp:21
@@ -73,7 +80,9 @@ msgstr "Asyaq süräten qullanası"
 #. i18n: file kickerSettings.kcfg line 37
 #: rc.cpp:24
 #, no-c-format
-msgid "When this option is enabled, the panel will display a tiled image as its background"
+msgid ""
+"When this option is enabled, the panel will display a tiled image as its "
+"background"
 msgstr "Bu köylämä açıq bulsa, bu tirä astlığında sürät tüşälgän bulaçaq"
 
 #. i18n: file kickerSettings.kcfg line 42
@@ -91,8 +100,13 @@ msgstr "Asyaqnı borıp quy"
 #. i18n: file kickerSettings.kcfg line 48
 #: rc.cpp:33
 #, no-c-format
-msgid "When this option is enabled, when the panel is placed on the side or top edges of the screen, the background image will be rotated to match the panel's orientation"
-msgstr "Bu köylämä açıq bulsa, bu tirä küräkneñ yannarında yä ki östendä bulğan çaqta, anıñ artyaq sürätetiräneñ yünälüenä qarap borılğan bulaçaq."
+msgid ""
+"When this option is enabled, when the panel is placed on the side or top edges "
+"of the screen, the background image will be rotated to match the panel's "
+"orientation"
+msgstr ""
+"Bu köylämä açıq bulsa, bu tirä küräkneñ yannarında yä ki östendä bulğan çaqta, "
+"anıñ artyaq sürätetiräneñ yünälüenä qarap borılğan bulaçaq."
 
 #. i18n: file kickerSettings.kcfg line 53
 #: rc.cpp:36
@@ -103,13 +117,20 @@ msgstr "Asyaq süräte"
 #. i18n: file kickerSettings.kcfg line 54
 #: rc.cpp:39
 #, no-c-format
-msgid "Here you can choose an image to be displayed on the panel. Press the 'browse' button to choose a theme using the file dialog. This option is only effective if 'Enable background image' is selected"
-msgstr "Bu tirädä kürsätäse sürätne bonda saylap bula. Berär tışlawnı birem açı täräzäse qullanıp saylaw öçen 'browse' töymäsenä çirtäse. 'Asyaq süräten qullanası' saylanğan bulsa ğına bu köylämä eşläyäçäk."
+msgid ""
+"Here you can choose an image to be displayed on the panel. Press the 'browse' "
+"button to choose a theme using the file dialog. This option is only effective "
+"if 'Enable background image' is selected"
+msgstr ""
+"Bu tirädä kürsätäse sürätne bonda saylap bula. Berär tışlawnı birem açı "
+"täräzäse qullanıp saylaw öçen 'browse' töymäsenä çirtäse. 'Asyaq süräten "
+"qullanası' saylanğan bulsa ğına bu köylämä eşläyäçäk."
 
 #. i18n: file kickerSettings.kcfg line 59
 #: rc.cpp:42
 #, no-c-format
-msgid "Controls the saturation level of the tint color used with transparent panels"
+msgid ""
+"Controls the saturation level of the tint color used with transparent panels"
 msgstr "Ütäkürenüle tirä qullanğan tözmerneñ quyılığın üzgärtä"
 
 #. i18n: file kickerSettings.kcfg line 66
@@ -139,8 +160,12 @@ msgstr "Applet totqıçların äkren yuq itü"
 #. i18n: file kickerSettings.kcfg line 79
 #: rc.cpp:57
 #, no-c-format
-msgid "Select this option to make applet handles only visible on mouse hover. Applet handles let you move, remove and configure applets."
-msgstr "Östennän küşe ütkändä genä bu applet totqıçların kürsätü öçen bu köylämäne yanıq itäse. Applet totqıçları anı küçerergä, beterergä, caylarğa birä."
+msgid ""
+"Select this option to make applet handles only visible on mouse hover. Applet "
+"handles let you move, remove and configure applets."
+msgstr ""
+"Östennän küşe ütkändä genä bu applet totqıçların kürsätü öçen bu köylämäne "
+"yanıq itäse. Applet totqıçları anı küçerergä, beterergä, caylarğa birä."
 
 #. i18n: file kickerSettings.kcfg line 83
 #: rc.cpp:60
@@ -151,8 +176,12 @@ msgstr "Applet totqıçların yäşert"
 #. i18n: file kickerSettings.kcfg line 85
 #: rc.cpp:63
 #, no-c-format
-msgid "Select this option to always hide the applet handles. Beware this could disable moving, removing or configuring some applets."
-msgstr "Bu applet totqıçların barçaqta yäşertü öçen bu köylämäne yanıq itäse. Alay bulsa applet küçerü, beterü, caylaw eşläre sünek bulaçaq."
+msgid ""
+"Select this option to always hide the applet handles. Beware this could disable "
+"moving, removing or configuring some applets."
+msgstr ""
+"Bu applet totqıçların barçaqta yäşertü öçen bu köylämäne yanıq itäse. Alay "
+"bulsa applet küçerü, beterü, caylaw eşläre sünek bulaçaq."
 
 #. i18n: file kickerSettings.kcfg line 89
 #: rc.cpp:66
@@ -163,14 +192,24 @@ msgstr "Yärdämçel qoralkiñäş kürsätü"
 #. i18n: file kickerSettings.kcfg line 94
 #: rc.cpp:69
 #, no-c-format
-msgid "A list of applets that have been loaded at runtime. In the case of a crash these applets will not be loaded at the next Kicker start, in case they caused the crash"
-msgstr "Çınçorta yöklise applet tezmäse. Alardan berärse cimerelügä kiterä ikän, Kicker'neñ kiläse cibärelüendä ul applet yöklänmäyäçäk inde."
+msgid ""
+"A list of applets that have been loaded at runtime. In the case of a crash "
+"these applets will not be loaded at the next Kicker start, in case they caused "
+"the crash"
+msgstr ""
+"Çınçorta yöklise applet tezmäse. Alardan berärse cimerelügä kiterä ikän, "
+"Kicker'neñ kiläse cibärelüendä ul applet yöklänmäyäçäk inde."
 
 #. i18n: file kickerSettings.kcfg line 98
 #: rc.cpp:72
 #, no-c-format
-msgid "A list of extensions that have been loaded at runtime. In the case of a crash these extensions will not be loaded at the next Kicker start, in case they caused the crash"
-msgstr "Çınçorta yöklise quşılma tezmäse. Alardan berärse cimerelügä kiterä ikän, Kicker'neñ kiläse cibärelüendä ul quşılma yöklänmäyäçäk inde."
+msgid ""
+"A list of extensions that have been loaded at runtime. In the case of a crash "
+"these extensions will not be loaded at the next Kicker start, in case they "
+"caused the crash"
+msgstr ""
+"Çınçorta yöklise quşılma tezmäse. Alardan berärse cimerelügä kiterä ikän, "
+"Kicker'neñ kiläse cibärelüendä ul quşılma yöklänmäyäçäk inde."
 
 #. i18n: file kickerSettings.kcfg line 108
 #: rc.cpp:75
@@ -260,7 +299,8 @@ msgstr "Kürengän keremnär sanı"
 #: rc.cpp:117
 #, no-c-format
 msgid "Show most recently used applications rather than most frequently used"
-msgstr "İñ qullanılğan yazılımnar urınına baya qullanılğan yazılımnar kürsätäse"
+msgstr ""
+"İñ qullanılğan yazılımnar urınına baya qullanılğan yazılımnar kürsätäse"
 
 #. i18n: file kickerSettings.kcfg line 179
 #: rc.cpp:120
@@ -361,7 +401,9 @@ msgstr "K-Saylaq yanında qullanası sürät biremeneñ adı"
 #. i18n: file kickerSettings.kcfg line 263
 #: rc.cpp:171
 #, no-c-format
-msgid "The name of the file used as a tile to fill the height of K Menu that SidePixmapName does not cover"
+msgid ""
+"The name of the file used as a tile to fill the height of K Menu that "
+"SidePixmapName does not cover"
 msgstr "K-Saylaq buyın tutıru öçen qullanası sürät biremeneñ adı"
 
 #. i18n: file kickerSettings.kcfg line 268
@@ -397,8 +439,11 @@ msgstr "Küse ütkändä yazma tä'sirlären kürsätäse"
 #. i18n: file kickerSettings.kcfg line 297
 #: rc.cpp:189
 #, no-c-format
-msgid "Controls how fast the tooltips fade in, measured in thousandths of a second"
-msgstr "Qoralkiñäş kilep çığuınıñ tizlegen üzgärtä, sekundnıñ meñle öleşlärendä ülçälänä"
+msgid ""
+"Controls how fast the tooltips fade in, measured in thousandths of a second"
+msgstr ""
+"Qoralkiñäş kilep çığuınıñ tizlegen üzgärtä, sekundnıñ meñle öleşlärendä "
+"ülçälänä"
 
 #. i18n: file kickerSettings.kcfg line 303
 #: rc.cpp:192
@@ -427,8 +472,13 @@ msgstr "Tirä tamğasınnan tirä çigenä tikle ara"
 #. i18n: file kickerSettings.kcfg line 323
 #: rc.cpp:204
 #, no-c-format
-msgid "Buttons that represent KServices (applications, primarily) watch for the removal of the service and delete themselves when this happens. This setting turns this off."
-msgstr "KService kürsätkän töymälär (yazılımnar yışraq) ul xezmätneñ beterelüen sizep, üzen beterep quyalar. Bu köylämäne sünderep bula."
+msgid ""
+"Buttons that represent KServices (applications, primarily) watch for the "
+"removal of the service and delete themselves when this happens. This setting "
+"turns this off."
+msgstr ""
+"KService kürsätkän töymälär (yazılımnar yışraq) ul xezmätneñ beterelüen sizep, "
+"üzen beterep quyalar. Bu köylämäne sünderep bula."
 
 #. i18n: file kickerSettings.kcfg line 328
 #: rc.cpp:207

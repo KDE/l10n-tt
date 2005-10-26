@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcontrol\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2005-08-29 02:40+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -24,97 +24,139 @@ msgid ""
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
 
-#: aboutwidget.cpp:42 main.cpp:103
+#: aboutwidget.cpp:43 main.cpp:103
 msgid "KDE Control Center"
 msgstr "KDE İdärä Üzäge"
 
-#: aboutwidget.cpp:44
+#: aboutwidget.cpp:45
 msgid "Configure your desktop environment."
 msgstr "Östälneñ tirä-yağın caylaw."
 
-#: aboutwidget.cpp:46
-msgid "Welcome to the \"KDE Control Center\", a central place to configure your desktop environment. Select an item from the index on the left to load a configuration module."
-msgstr "\"KDE'neñ Caylaw Üzäge\" eçendä kürergä şatbız, östäl caylawınıñ üzäk urını. Sul yaqtağı tezmädän berär caylaw bülegen saylap anı yöklärgä bula."
+#: aboutwidget.cpp:47
+msgid ""
+"Welcome to the \"KDE Control Center\", a central place to configure your "
+"desktop environment. Select an item from the index on the left to load a "
+"configuration module."
+msgstr ""
+"\"KDE'neñ Caylaw Üzäge\" eçendä kürergä şatbız, östäl caylawınıñ üzäk urını. "
+"Sul yaqtağı tezmädän berär caylaw bülegen saylap anı yöklärgä bula."
 
-#: aboutwidget.cpp:52 main.cpp:107
+#: aboutwidget.cpp:53 main.cpp:107
 msgid "KDE Info Center"
 msgstr "KDE Beleşmä Üzäge"
 
-#: aboutwidget.cpp:54
+#: aboutwidget.cpp:55
 msgid "Get system and desktop environment information"
 msgstr "Sistem belän östäl tirä-yağı turında belem"
 
-#: aboutwidget.cpp:56
-msgid "Welcome to the \"KDE Info Center\", a central place to find information about your computer system."
-msgstr "\"KDE'neñ Beleşmä Üzäge\", sanaq turında beleşmä tabu öçen üzäk urın bu."
+#: aboutwidget.cpp:57
+msgid ""
+"Welcome to the \"KDE Info Center\", a central place to find information about "
+"your computer system."
+msgstr ""
+"\"KDE'neñ Beleşmä Üzäge\", sanaq turında beleşmä tabu öçen üzäk urın bu."
 
-#: aboutwidget.cpp:60
-msgid "Click on the \"Help\" tab on the left to view help for the active control module. Use the \"Search\" tab if you are unsure where to look for a particular configuration option."
-msgstr "Bu idärä modulı turında beleşmä alu öçen \"Yärdäm\" digän tabaqqa çirtäse. Kiräk bulğan köylämäne qayda ezlisen belmägän çaqta \"Ezläw\" digän tabaq qullanası."
+#: aboutwidget.cpp:61
+#, fuzzy
+msgid ""
+"Use the \"Search\" field if you are unsure where to look for a particular "
+"configuration option."
+msgstr ""
+"Bu idärä modulı turında beleşmä alu öçen \"Yärdäm\" digän tabaqqa çirtäse. "
+"Kiräk bulğan köylämäne qayda ezlisen belmägän çaqta \"Ezläw\" digän tabaq "
+"qullanası."
 
-#: aboutwidget.cpp:66
+#: aboutwidget.cpp:64
 msgid "KDE version:"
 msgstr "KDE söreme:"
 
-#: aboutwidget.cpp:67
+#: aboutwidget.cpp:65
 msgid "User:"
 msgstr "Qullanuçı:"
 
-#: aboutwidget.cpp:68
+#: aboutwidget.cpp:66
 msgid "Hostname:"
 msgstr "Host adı:"
 
-#: aboutwidget.cpp:69
+#: aboutwidget.cpp:67
 msgid "System:"
 msgstr "Sistem:"
 
-#: aboutwidget.cpp:70
+#: aboutwidget.cpp:68
 msgid "Release:"
 msgstr "Çıqqan:"
 
-#: aboutwidget.cpp:71
+#: aboutwidget.cpp:69
 msgid "Machine:"
 msgstr "Maşína:"
 
-#: dockcontainer.cpp:141
+#: dockcontainer.cpp:133
 msgid "<big><b>Loading...</b></big>"
 msgstr "<big><b>Yökläw...</b></big>"
 
-#: dockcontainer.cpp:208 toplevel.cpp:343
+#: dockcontainer.cpp:201 toplevel.cpp:376
 msgid ""
 "There are unsaved changes in the active module.\n"
-"Do you want to apply the changes before running the new module or discard the changes?"
+"Do you want to apply the changes before running the new module or discard the "
+"changes?"
 msgstr ""
 "Bu modulda saqlanmağan üzgäreşlär bar.\n"
 "Yaña modul cibärgänçe ul üzgäreşlärne aşırası kiläme, yä yuğaltası ğıña mı?"
 
-#: dockcontainer.cpp:211 toplevel.cpp:346
+#: dockcontainer.cpp:204 toplevel.cpp:379
 msgid ""
 "There are unsaved changes in the active module.\n"
-"Do you want to apply the changes before exiting the Control Center or discard the changes?"
+"Do you want to apply the changes before exiting the Control Center or discard "
+"the changes?"
 msgstr ""
 "Bu modulda saqlanmağan üzgäreşlär bar.\n"
 "Caylaw Üzägennän çıqqançı ul üzgäreşlärne aşırası kiläme, yä yuğaltası ğıña mı?"
 
-#: dockcontainer.cpp:214 toplevel.cpp:349
+#: dockcontainer.cpp:207 toplevel.cpp:382
 msgid "Unsaved Changes"
 msgstr "Saqlanmağan Üzgärülär"
 
-#: helpwidget.cpp:57
-msgid "<p>Use the \"Whats This\" (Shift+F1) to get help on specific options.</p><p>To read the full manual click <a href=\"%1\">here</a>.</p>"
-msgstr "<p>Ayırım köylämä buyınça kiñäş alu öçen \"Ni Bu?\" (Shift+F1) qullanası.</p><p>Tulırağın <a href=\"%1\">qullanmada</a> uqıp bula.</p>"
+#: helpwidget.cpp:44
+msgid ""
+"<p>Use the \"Whats This\" (Shift+F1) to get help on specific options.</p>"
+"<p>To read the full manual click <a href=\"%1\">here</a>.</p>"
+msgstr ""
+"<p>Ayırım köylämä buyınça kiñäş alu öçen \"Ni Bu?\" (Shift+F1) qullanası.</p>"
+"<p>Tulırağın <a href=\"%1\">qullanmada</a> uqıp bula.</p>"
 
-#: helpwidget.cpp:64
-msgid "<h1>KDE Info Center</h1>There is no quick help available for the active info module.<br><br>Click <a href = \"kinfocenter/index.html\">here</a> to read the general Info Center manual."
-msgstr "<h1>KDE'neñ Beleşmä Üzäge</h1>Bu beleşmä modulı öçen yärdäm bite yuq.<br><br>Beleşmä Üzäge turında <a href = \"kinfocenter/index.html\">töp qullanma</a> uqıp bula."
+#: helpwidget.cpp:51
+msgid ""
+"<h1>KDE Info Center</h1>There is no quick help available for the active info "
+"module."
+"<br>"
+"<br>Click <a href = \"kinfocenter/index.html\">here</a> "
+"to read the general Info Center manual."
+msgstr ""
+"<h1>KDE'neñ Beleşmä Üzäge</h1>Bu beleşmä modulı öçen yärdäm bite yuq."
+"<br>"
+"<br>Beleşmä Üzäge turında <a href = \"kinfocenter/index.html\">töp qullanma</a> "
+"uqıp bula."
 
-#: helpwidget.cpp:69
-msgid "<h1>KDE Control Center</h1>There is no quick help available for the active control module.<br><br>Click <a href = \"kcontrol/index.html\">here</a> to read the general Control Center manual."
-msgstr "<h1>KDE Caylaw Üzäge</h1>Bu caylaw modulı öçen yärdäm bite yuq.<br><br>Caylaw Üzäge turında <a href = \"kcontrol/index.html\">töp qullanma</a> uqıp bula."
+#: helpwidget.cpp:56
+msgid ""
+"<h1>KDE Control Center</h1>There is no quick help available for the active "
+"control module."
+"<br>"
+"<br>Click <a href = \"kcontrol/index.html\">here</a> "
+"to read the general Control Center manual."
+msgstr ""
+"<h1>KDE Caylaw Üzäge</h1>Bu caylaw modulı öçen yärdäm bite yuq."
+"<br>"
+"<br>Caylaw Üzäge turında <a href = \"kcontrol/index.html\">töp qullanma</a> "
+"uqıp bula."
 
 #: kcrootonly.cpp:30
-msgid "<big>You need super user privileges to run this control module.</big><br>Click on the \"Administrator Mode\" button below."
-msgstr "<big>Bu caylaw bülegen cibärü öçen idäräçe bulu kiräk.</big><br>Astağı \"İdäräçe Isulı\" digän töymägä çirtäse."
+msgid ""
+"<big>You need super user privileges to run this control module.</big>"
+"<br>Click on the \"Administrator Mode\" button below."
+msgstr ""
+"<big>Bu caylaw bülegen cibärü öçen idäräçe bulu kiräk.</big>"
+"<br>Astağı \"İdäräçe Isulı\" digän töymägä çirtäse."
 
 #: main.cpp:104
 msgid "The KDE Control Center"
@@ -132,7 +174,7 @@ msgstr "KDE Beleşmä Üzäge"
 msgid "Current Maintainer"
 msgstr "Xäzerge Qatnaşuçı"
 
-#: modules.cpp:154
+#: modules.cpp:155
 msgid "<big>Loading...</big>"
 msgstr "<big>Yökläw...</big>"
 
@@ -141,20 +183,35 @@ msgid "The %1 configuration group. Click to open it."
 msgstr "%1 caylaw törkeme. Anı açu öçen çirtäse."
 
 #: moduletreeview.cpp:67
-msgid "This treeview displays all available control modules. Click on one of the modules to receive more detailed information."
-msgstr "Bar bulğan caylaw modulların bu ağaçta kürep bula. Berärsenä çirtep anıñ turında tulıraq belem alıp bula."
+msgid ""
+"This treeview displays all available control modules. Click on one of the "
+"modules to receive more detailed information."
+msgstr ""
+"Bar bulğan caylaw modulların bu ağaçta kürep bula. Berärsenä çirtep anıñ "
+"turında tulıraq belem alıp bula."
 
 #: proxywidget.cpp:54
 msgid "The currently loaded configuration module."
 msgstr "Biredä yöklängän caylawçı modul."
 
 #: proxywidget.cpp:88
-msgid "<b>Changes in this module require root access.</b><br>Click the \"Administrator Mode\" button to allow modifications in this module."
-msgstr "<b>Bu modulda üzgärtü öçen root xoquqları kiräk.</b><br>Bonı öçen \"İdäräçe Isulı\" digän töymägä çirtäse."
+msgid ""
+"<b>Changes in this module require root access.</b>"
+"<br>Click the \"Administrator Mode\" button to allow modifications in this "
+"module."
+msgstr ""
+"<b>Bu modulda üzgärtü öçen root xoquqları kiräk.</b>"
+"<br>Bonı öçen \"İdäräçe Isulı\" digän töymägä çirtäse."
 
 #: proxywidget.cpp:92
-msgid "This module requires special permissions, probably for system-wide modifications; therefore, it is required that you provide the root password to be able to change the module's properties.  If you do not provide the password, the module will be disabled."
-msgstr "Bu modul aşa böten-sistemle üzgäreşlär kertü öçen östämä xoquqlar kiräk, şuña idäräçe sersüzen kertäse bar, yä isä bu modul sünek toraçaq."
+msgid ""
+"This module requires special permissions, probably for system-wide "
+"modifications; therefore, it is required that you provide the root password to "
+"be able to change the module's properties.  If you do not provide the password, "
+"the module will be disabled."
+msgstr ""
+"Bu modul aşa böten-sistemle üzgäreşlär kertü öçen östämä xoquqlar kiräk, şuña "
+"idäräçe sersüzen kertäse bar, yä isä bu modul sünek toraçaq."
 
 #: proxywidget.cpp:211
 msgid "&Reset"
@@ -176,73 +233,74 @@ msgstr "&Isul"
 msgid "Icon &Size"
 msgstr "Tamğa Ülçä&me"
 
-#: searchwidget.cpp:79
-msgid "Se&arch:"
-msgstr "&Ezlä:"
-
-#: searchwidget.cpp:86
+#: searchwidget.cpp:78
 msgid "&Keywords:"
 msgstr "&Keywords:"
 
-#: searchwidget.cpp:93
+#: searchwidget.cpp:85
 msgid "&Results:"
 msgstr "&Näticä:"
 
-#: toplevel.cpp:86
-msgid "Choose between Index, Search and Quick Help"
-msgstr "Töptezmä, Ezläw, Tiz Yärdäm arasında saylísı"
-
-#: toplevel.cpp:92
-msgid "&Index"
-msgstr "&İsemlek"
-
-#: toplevel.cpp:103
-msgid "Sear&ch"
-msgstr "&Ezlä"
+#: toplevel.cpp:105
+msgid "Clear search"
+msgstr ""
 
 #: toplevel.cpp:107
-msgid "Hel&p"
-msgstr "&Yärdäm"
+#, fuzzy
+msgid "Search:"
+msgstr "&Ezlä:"
 
-#: toplevel.cpp:208
+#: toplevel.cpp:241
 msgid "&Icon View"
 msgstr "&İkonlı Küreneş"
 
-#: toplevel.cpp:213
+#: toplevel.cpp:246
 msgid "&Tree View"
 msgstr "&Ağaçlı Küreneş"
 
-#: toplevel.cpp:218
+#: toplevel.cpp:251
 msgid "&Small"
 msgstr "&Keçeräk"
 
-#: toplevel.cpp:223
+#: toplevel.cpp:256
 msgid "&Medium"
 msgstr "&Urtaça"
 
-#: toplevel.cpp:228
+#: toplevel.cpp:261
 msgid "&Large"
 msgstr "&Olıraq"
 
-#: toplevel.cpp:233
+#: toplevel.cpp:266
 msgid "&Huge"
 msgstr "O&lı"
 
-#: toplevel.cpp:237 toplevel.cpp:359 toplevel.cpp:413
+#: toplevel.cpp:270 toplevel.cpp:392 toplevel.cpp:447
 msgid "About Current Module"
 msgstr "Biredäge Modul Turında"
 
-#: toplevel.cpp:248 toplevel.cpp:324
+#: toplevel.cpp:281 toplevel.cpp:357
 msgid "&Report Bug..."
 msgstr "&Xata turında Belderü..."
 
-#: toplevel.cpp:326
+#: toplevel.cpp:359
 msgid "Report Bug on Module %1..."
 msgstr "%1 Modulına Böçäk Yomğağı..."
 
-#: toplevel.cpp:406
+#: toplevel.cpp:440
 #, c-format
 msgid ""
 "_: Help menu->about <modulename>\n"
 "About %1"
 msgstr "%1 Turında"
+
+#~ msgid "Choose between Index, Search and Quick Help"
+#~ msgstr "Töptezmä, Ezläw, Tiz Yärdäm arasında saylísı"
+
+#~ msgid "&Index"
+#~ msgstr "&İsemlek"
+
+#~ msgid "Sear&ch"
+#~ msgstr "&Ezlä"
+
+#~ msgid "Hel&p"
+#~ msgstr "&Yärdäm"

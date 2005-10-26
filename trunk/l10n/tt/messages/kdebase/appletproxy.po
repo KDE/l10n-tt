@@ -33,7 +33,8 @@ msgid "No desktop file specified"
 msgstr "Östäl bireme bilgelänmäde"
 
 #: appletproxy.cpp:132
-msgid "The applet proxy could not be started due to DCOP communication problems."
+msgid ""
+"The applet proxy could not be started due to DCOP communication problems."
 msgstr "DCOP totaşu qíınlıqlarına säbäple bu applet araçısın cibärep bulmí."
 
 #: appletproxy.cpp:133 appletproxy.cpp:141 appletproxy.cpp:174
@@ -42,7 +43,8 @@ msgid "Applet Loading Error"
 msgstr "Applet Yökläw Xatası"
 
 #: appletproxy.cpp:140
-msgid "The applet proxy could not be started due to DCOP registration problems."
+msgid ""
+"The applet proxy could not be started due to DCOP registration problems."
 msgstr "DCOP terkäw qíınlıqlarına säbäple bu applet araçısın cibärep bulmí."
 
 #: appletproxy.cpp:173
@@ -55,8 +57,11 @@ msgid "The applet %1 could not be loaded via the applet proxy."
 msgstr "%1 digän applet bu applet araçısı aşa cibärelä almí."
 
 #: appletproxy.cpp:296
-msgid "The applet proxy could not dock into the panel due to DCOP communication problems."
-msgstr "DCOP totaşu qíınlıqlarına säbäple bu applet araçısı bu tirä eçenä utıra almí."
+msgid ""
+"The applet proxy could not dock into the panel due to DCOP communication "
+"problems."
+msgstr ""
+"DCOP totaşu qíınlıqlarına säbäple bu applet araçısı bu tirä eçenä utıra almí."
 
 #: appletproxy.cpp:318
 msgid "The applet proxy could not dock into the panel."

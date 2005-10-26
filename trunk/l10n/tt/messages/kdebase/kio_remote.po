@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kio_remote\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2005-10-12 02:41+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,14 +12,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: kio_remote.cpp:34
+#: kio_remote.cpp:35
 msgid "Protocol name"
 msgstr "Protokol adı"
 
-#: kio_remote.cpp:35 kio_remote.cpp:36
+#: kio_remote.cpp:36 kio_remote.cpp:37
 msgid "Socket name"
 msgstr "Soket adı"
 
-#: remoteimpl.cpp:200
+#: remoteimpl.cpp:198
 msgid "Add a Network Folder"
 msgstr "Çeltärle Törgäk Östäw"

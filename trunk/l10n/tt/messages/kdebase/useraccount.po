@@ -98,12 +98,22 @@ msgid "Icons"
 msgstr "Tamğalar"
 
 #: main.cpp:100
-msgid "<qt>Here you can change your personal information, which will be used in mail programs and word processors, for example. You can change your login password by clicking <em>Change Password</em>.</qt>"
-msgstr "<qt>Yazma, xatlar eşkärtü yazılımnarında qullanıla torğan şäxsi belemne bonda üzgärtep bula. <em>Sersüz Üzägärtü</em> östenä çirtep kereş sersüzen almaştırıp bula.</qt>"
+msgid ""
+"<qt>Here you can change your personal information, which will be used in mail "
+"programs and word processors, for example. You can change your login password "
+"by clicking <em>Change Password</em>.</qt>"
+msgstr ""
+"<qt>Yazma, xatlar eşkärtü yazılımnarında qullanıla torğan şäxsi belemne bonda "
+"üzgärtep bula. <em>Sersüz Üzägärtü</em> östenä çirtep kereş sersüzen almaştırıp "
+"bula.</qt>"
 
 #: main.cpp:115
-msgid "A program error occurred: the internal program 'kdepasswd' could not be found. You will not be able to change your password."
-msgstr "Yazılımda xata kilep çıqtı: 'kdepasswd' atlı eçke yazılımnı tabıp bulmí. Sürsüzen üzgärtep bulmí."
+msgid ""
+"A program error occurred: the internal program 'kdepasswd' could not be found. "
+"You will not be able to change your password."
+msgstr ""
+"Yazılımda xata kilep çıqtı: 'kdepasswd' atlı eçke yazılımnı tabıp bulmí. "
+"Sürsüzen üzgärtep bulmí."
 
 #: main.cpp:212
 msgid "Please enter your password in order to save your settings:"
@@ -120,10 +130,12 @@ msgstr "Yaraqlı sersüz kertäse bar."
 #: main.cpp:231
 #, c-format
 msgid ""
-"An error occurred and your password has probably not been changed. The error message was:\n"
+"An error occurred and your password has probably not been changed. The error "
+"message was:\n"
 "%1"
 msgstr ""
-"Xata kilep çıqtı, şuña kurä bu sersüz üzgärtelmi qaldı kebek. Ul xata belderüe:\n"
+"Xata kilep çıqtı, şuña kurä bu sersüz üzgärtelmi qaldı kebek. Ul xata "
+"belderüe:\n"
 "%1"
 
 #: main.cpp:244

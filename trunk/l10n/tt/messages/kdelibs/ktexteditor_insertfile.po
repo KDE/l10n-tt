@@ -33,8 +33,10 @@ msgid "Insert File Error"
 msgstr "Birem Tıqqanda Xata"
 
 #: insertfileplugin.cpp:130
-msgid "<p>The file <strong>%1</strong> does not exist or is not readable, aborting."
-msgstr "<p><strong>%1</strong> bireme yä barlıqta yuq, yä uqıp bulmí. Özderelde."
+msgid ""
+"<p>The file <strong>%1</strong> does not exist or is not readable, aborting."
+msgstr ""
+"<p><strong>%1</strong> bireme yä barlıqta yuq, yä uqıp bulmí. Özderelde."
 
 #: insertfileplugin.cpp:134
 msgid "<p>Unable to open file <strong>%1</strong>, aborting."

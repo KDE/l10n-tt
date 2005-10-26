@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcminfo\n"
-"POT-Creation-Date: 2005-05-21 12:24+0200\n"
+"POT-Creation-Date: 2005-08-28 02:43+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -148,7 +148,7 @@ msgstr "%1 Bayt"
 
 #: info.cpp:263 info_aix.cpp:299 info_hpux.cpp:372 info_hpux.cpp:662
 #: info_linux.cpp:131 info_netbsd.cpp:73 info_openbsd.cpp:69
-#: info_solaris.cpp:686 opengl.cpp:625
+#: info_solaris.cpp:686 opengl.cpp:628
 msgid "Value"
 msgstr "Bäyä"
 
@@ -156,7 +156,7 @@ msgstr "Bäyä"
 msgid "Server Information"
 msgstr "Server Turında"
 
-#: info.cpp:272 opengl.cpp:627
+#: info.cpp:272 opengl.cpp:630
 msgid "Name of the Display"
 msgstr "Küräk Adı"
 
@@ -227,8 +227,15 @@ msgid "No information available about %1."
 msgstr "%1 turında belem barlıqta yuq."
 
 #: info.cpp:392
-msgid "<h1>System Information</h1> All the information modules return information about a certain aspect of your computer hardware or your operating system. Not all modules are available on all hardware architectures and/or operating systems."
-msgstr "<h1>Sistem Turında</h1> Biredäge sanaq cıhazları, eşlätü sisteme turında belem birüçe beleşmä modulları. Cıhazlar tözeleşlärenä qarap qayber modullarnı qullanıp bulmí."
+msgid ""
+"<h1>System Information</h1> All the information modules return information "
+"about a certain aspect of your computer hardware or your operating system. Not "
+"all modules are available on all hardware architectures and/or operating "
+"systems."
+msgstr ""
+"<h1>Sistem Turında</h1> Biredäge sanaq cıhazları, eşlätü sisteme turında belem "
+"birüçe beleşmä modulları. Cıhazlar tözeleşlärenä qarap qayber modullarnı "
+"qullanıp bulmí."
 
 #: info.cpp:406 memory.cpp:95
 msgid "kcminfo"
@@ -269,7 +276,7 @@ msgstr "MB"
 
 #: info_aix.cpp:450 info_fbsd.cpp:289 info_hpux.cpp:572 info_linux.cpp:483
 #: info_netbsd.cpp:181 info_netbsd.cpp:279 info_openbsd.cpp:197
-#: info_openbsd.cpp:280 info_solaris.cpp:183 opengl.cpp:472
+#: info_openbsd.cpp:280 info_solaris.cpp:183 opengl.cpp:475
 msgid "Device"
 msgstr "Cıhaz"
 
@@ -306,19 +313,26 @@ msgid "CPU %1: %2, unknown speed"
 msgstr "CPU %1: %2, bilgesez tizlektä"
 
 #: info_fbsd.cpp:169
-msgid "Your sound system could not be queried.  /dev/sndstat does not exist or is not readable."
-msgstr "Bu tawış sistemenä endäşep bulmí.  /dev/sndstat digäne yä yuq, yä uqırlıq tügel."
+msgid ""
+"Your sound system could not be queried.  /dev/sndstat does not exist or is not "
+"readable."
+msgstr ""
+"Bu tawış sistemenä endäşep bulmí.  /dev/sndstat digäne yä yuq, yä uqırlıq "
+"tügel."
 
 #: info_fbsd.cpp:194
-msgid "SCSI subsystem could not be queried: /sbin/camcontrol could not be found"
+msgid ""
+"SCSI subsystem could not be queried: /sbin/camcontrol could not be found"
 msgstr "SCSI eçsistemen sorap bulmadı: /sbin/camcontrol digänen tabıp bulmí"
 
 #: info_fbsd.cpp:197
-msgid "SCSI subsystem could not be queried: /sbin/camcontrol could not be executed"
+msgid ""
+"SCSI subsystem could not be queried: /sbin/camcontrol could not be executed"
 msgstr "SCSI eçsistemen sorap bulmadı: /sbin/camcontrol digänen eşlätep bulmí"
 
 #: info_fbsd.cpp:242
-msgid "Could not find any programs with which to query your system's PCI information"
+msgid ""
+"Could not find any programs with which to query your system's PCI information"
 msgstr "Bu sıstemneñ PCI turında beleşü öçen yazılımnarnı tabıp bulmí"
 
 #: info_fbsd.cpp:258
@@ -411,7 +425,8 @@ msgid "Size of One Page"
 msgstr "Ber Bit Ülçäme"
 
 #: info_hpux.cpp:625
-msgid "Audio-Support (Alib) was disabled during configuration and compile-time."
+msgid ""
+"Audio-Support (Alib) was disabled during configuration and compile-time."
 msgstr "Cíılğan çaqta Tawış-Totu (Alib) sünek buldı."
 
 #: info_hpux.cpp:657
@@ -422,7 +437,7 @@ msgstr "Tawış-Serverne açıp bulmadı (Alib)."
 msgid "Audio Name"
 msgstr "Tawış Adı"
 
-#: info_hpux.cpp:665 opengl.cpp:471 opengl.cpp:481
+#: info_hpux.cpp:665 opengl.cpp:474 opengl.cpp:484
 msgid "Vendor"
 msgstr "Citeşterüçe"
 
@@ -869,28 +884,54 @@ msgid "Total Memory"
 msgstr "Bar Xäter"
 
 #: memory.cpp:199
-msgid "This graph gives you an overview of the <b>total sum of physical and virtual memory</b> in your system."
-msgstr "Bu sızımda biredäge sanaqnıñ <b>çın belän almaş xätereneñ tulı küläme</b> totılğan buluı kürsätelä."
+msgid ""
+"This graph gives you an overview of the <b>total sum of physical and virtual "
+"memory</b> in your system."
+msgstr ""
+"Bu sızımda biredäge sanaqnıñ <b>çın belän almaş xätereneñ tulı küläme</b> "
+"totılğan buluı kürsätelä."
 
 #: memory.cpp:204
 msgid "Physical Memory"
 msgstr "Çın Xäter"
 
 #: memory.cpp:205
-msgid "This graph gives you an overview of the <b>usage of physical memory</b> in your system.<p>Most operating systems (including Linux) will use as much of the available physical memory as possible as disk cache, to speed up the system performance. <p>This means that if you have a small amount of <b>Free Physical Memory</b> and a large amount of <b>Disk Cache Memory</b>, your system is well configured."
-msgstr "Bu sızımda biredäge sanaqnıñ <b>çın xäteren qullanu</b> kürsätelä.<p>Eşlätü sistemnärneñ kübese, Linux ta alar arasında, üz citezlegen arttıru öçen, sanaqta bulğan xäteren disk alxätere itep kübräk qullanırğa tırışa.<p>Şulay itep, <b>Buş Çın Xäter</b> äz bulğanda, <b>Disk Alxätere</b> şaqtí ikän, biredäge sistem yaqşı caynağan dip sanarğa bula."
+msgid ""
+"This graph gives you an overview of the <b>usage of physical memory</b> "
+"in your system."
+"<p>Most operating systems (including Linux) will use as much of the available "
+"physical memory as possible as disk cache, to speed up the system performance. "
+"<p>This means that if you have a small amount of <b>Free Physical Memory</b> "
+"and a large amount of <b>Disk Cache Memory</b>, your system is well configured."
+msgstr ""
+"Bu sızımda biredäge sanaqnıñ <b>çın xäteren qullanu</b> kürsätelä."
+"<p>Eşlätü sistemnärneñ kübese, Linux ta alar arasında, üz citezlegen arttıru "
+"öçen, sanaqta bulğan xäteren disk alxätere itep kübräk qullanırğa tırışa."
+"<p>Şulay itep, <b>Buş Çın Xäter</b> äz bulğanda, <b>Disk Alxätere</b> "
+"şaqtí ikän, biredäge sistem yaqşı caynağan dip sanarğa bula."
 
 #: memory.cpp:217
 msgid "Swap Space"
 msgstr "Alannın Almaştır"
 
 #: memory.cpp:218
-msgid "The swap space is the <b>virtual memory</b> available to the system. <p>It will be used on demand and is provided through one or more swap partitions and/or swap files."
-msgstr "Bu almaş-alan digänen biredäge sistemneñ <b>xíalí xätere</b> itep añlísı. <p>Kiräge bulıp çıqqanda ul bülemnär yä ki biremnär kileş qullanğan bulaçaq."
+msgid ""
+"The swap space is the <b>virtual memory</b> available to the system. "
+"<p>It will be used on demand and is provided through one or more swap "
+"partitions and/or swap files."
+msgstr ""
+"Bu almaş-alan digänen biredäge sistemneñ <b>xíalí xätere</b> itep añlísı. "
+"<p>Kiräge bulıp çıqqanda ul bülemnär yä ki biremnär kileş qullanğan bulaçaq."
 
 #: memory.cpp:271
-msgid "<h1>Memory Information</h1> This display shows you the current memory usage of your system. The values are updated on a regular basis and give you an overview of the physical and virtual used memory."
-msgstr "<h1>Xäter Turında</h1> Bu sanaqta xäter qullanunıñ ağımdağı xäläten kürsätä. Beleşmä bäyäläre gel yañarılıp tora, alar çın xäteren dä, almaş xäteren dä sürätlilär."
+msgid ""
+"<h1>Memory Information</h1> This display shows you the current memory usage of "
+"your system. The values are updated on a regular basis and give you an overview "
+"of the physical and virtual used memory."
+msgstr ""
+"<h1>Xäter Turında</h1> Bu sanaqta xäter qullanunıñ ağımdağı xäläten kürsätä. "
+"Beleşmä bäyäläre gel yañarılıp tora, alar çın xäteren dä, almaş xäteren dä "
+"sürätlilär."
 
 #: memory.cpp:350
 msgid "%1 free"
@@ -932,202 +973,202 @@ msgstr "Totılğan Çın Xäter"
 msgid "Total Free Memory"
 msgstr "Bar Buş Xäter"
 
-#: opengl.cpp:263
+#: opengl.cpp:266
 msgid "Max. number of light sources"
 msgstr "Max. number of light sources"
 
-#: opengl.cpp:264
+#: opengl.cpp:267
 msgid "Max. number of clipping planes"
 msgstr "Max. number of clipping planes"
 
-#: opengl.cpp:265
+#: opengl.cpp:268
 msgid "Max. pixel map table size"
 msgstr "Max. pixel map table size"
 
-#: opengl.cpp:266
+#: opengl.cpp:269
 msgid "Max. display list nesting level"
 msgstr "Max. display list nesting level"
 
-#: opengl.cpp:267
+#: opengl.cpp:270
 msgid "Max. evaluator order"
 msgstr "Max. evaluator order"
 
-#: opengl.cpp:268
+#: opengl.cpp:271
 msgid "Max. recommended vertex count"
 msgstr "Max. recommended vertex count"
 
-#: opengl.cpp:269
+#: opengl.cpp:272
 msgid "Max. recommended index count"
 msgstr "Max. recommended index count"
 
-#: opengl.cpp:271
+#: opengl.cpp:274
 msgid "Occlusion query counter bits"
 msgstr "Occlusion query counter bits"
 
-#: opengl.cpp:274
+#: opengl.cpp:277
 msgid "Max. vertex blend matrices"
 msgstr "Max. vertex blend matrices"
 
-#: opengl.cpp:277
+#: opengl.cpp:280
 msgid "Max. vertex blend matrix palette size"
 msgstr "Max. vertex blend matrix palette size"
 
-#: opengl.cpp:283
+#: opengl.cpp:286
 msgid "Max. texture size"
 msgstr "Max. texture size"
 
-#: opengl.cpp:284
+#: opengl.cpp:287
 msgid "Num. of texture units"
 msgstr "Tüşäw berämlege sanı"
 
-#: opengl.cpp:285
+#: opengl.cpp:288
 msgid "Max. 3D texture size"
 msgstr "Max. 3D texture size"
 
-#: opengl.cpp:286
+#: opengl.cpp:289
 msgid "Max. cube map texture size"
 msgstr "Max. cube map texture size"
 
-#: opengl.cpp:288
+#: opengl.cpp:291
 msgid "Max. rectangular texture size"
 msgstr "Max. rectangular texture size"
 
-#: opengl.cpp:290
+#: opengl.cpp:293
 msgid "Max. texture LOD bias"
 msgstr "Max. texture LOD bias"
 
-#: opengl.cpp:291
+#: opengl.cpp:294
 msgid "Max. anisotropy filtering level"
 msgstr "Max. anisotropy filtering level"
 
-#: opengl.cpp:292
+#: opengl.cpp:295
 msgid "Num. of compressed texture formats"
 msgstr "Qısılğan tüşäw törläre sanı"
 
-#: opengl.cpp:390
+#: opengl.cpp:393
 msgid "Max. viewport dimensions"
 msgstr "Max. viewport dimensions"
 
-#: opengl.cpp:391
+#: opengl.cpp:394
 msgid "Subpixel bits"
 msgstr "Eçke-tap bite"
 
-#: opengl.cpp:392
+#: opengl.cpp:395
 msgid "Aux. buffers"
 msgstr "Yärdämçel eşxätere"
 
-#: opengl.cpp:398
+#: opengl.cpp:401
 msgid "Frame buffer properties"
 msgstr "Qısa buffer üzençälege"
 
-#: opengl.cpp:399
+#: opengl.cpp:402
 msgid "Texturing"
 msgstr "Tüşäw"
 
-#: opengl.cpp:400
+#: opengl.cpp:403
 msgid "Various limits"
 msgstr "Törle çikläwlär"
 
-#: opengl.cpp:401
+#: opengl.cpp:404
 msgid "Points and lines"
 msgstr "Yul sayün tap"
 
-#: opengl.cpp:402
+#: opengl.cpp:405
 msgid "Stack depth limits"
 msgstr "Tezem tiränlek çikläwe"
 
-#: opengl.cpp:465 opengl.cpp:466
+#: opengl.cpp:468 opengl.cpp:469
 msgid "Direct Rendering"
 msgstr "Turı Sızıp Çığu"
 
-#: opengl.cpp:465 opengl.cpp:466
+#: opengl.cpp:468 opengl.cpp:469
 msgid "Indirect Rendering"
 msgstr "Almaşınuda Sızıp Çığu"
 
-#: opengl.cpp:469 opengl.cpp:476
+#: opengl.cpp:472 opengl.cpp:479
 msgid "3D Accelerator"
 msgstr "3D Tizlätkeç"
 
-#: opengl.cpp:473
+#: opengl.cpp:476
 msgid "Subvendor"
 msgstr "Eçciteşterüçe"
 
-#: opengl.cpp:474
+#: opengl.cpp:477
 msgid "Revision"
 msgstr "Söreme"
 
-#: opengl.cpp:476 opengl.cpp:486
+#: opengl.cpp:479 opengl.cpp:489
 msgid "unknown"
 msgstr "bilgesez"
 
-#: opengl.cpp:477 opengl.cpp:478
+#: opengl.cpp:480 opengl.cpp:481
 msgid "Driver"
 msgstr "Driver"
 
-#: opengl.cpp:482
+#: opengl.cpp:485
 msgid "Renderer"
 msgstr "Sızıp çıq"
 
-#: opengl.cpp:483
+#: opengl.cpp:486
 msgid "OpenGL version"
 msgstr "OpenGL söreme"
 
-#: opengl.cpp:487
+#: opengl.cpp:490
 msgid "Kernel module"
 msgstr "Töş modulı"
 
-#: opengl.cpp:490
+#: opengl.cpp:493
 msgid "OpenGL extensions"
 msgstr "OpenGL quşılması"
 
-#: opengl.cpp:493
+#: opengl.cpp:496
 msgid "Implementation specific"
 msgstr "Aşırıluğa bäyle"
 
-#: opengl.cpp:503
+#: opengl.cpp:506
 msgid "GLX"
 msgstr "GLX"
 
-#: opengl.cpp:504
+#: opengl.cpp:507
 msgid "server GLX vendor"
 msgstr "serverle GLX citeşterüçe"
 
-#: opengl.cpp:505
+#: opengl.cpp:508
 msgid "server GLX version"
 msgstr "serverle GLX söreme"
 
-#: opengl.cpp:506
+#: opengl.cpp:509
 msgid "server GLX extensions"
 msgstr "serverle GLX quşılma"
 
-#: opengl.cpp:509
+#: opengl.cpp:512
 msgid "client GLX vendor"
 msgstr "klient GLX çığaruçı"
 
-#: opengl.cpp:510
+#: opengl.cpp:513
 msgid "client GLX version"
 msgstr "klient GLX söreme"
 
-#: opengl.cpp:511
+#: opengl.cpp:514
 msgid "client GLX extensions"
 msgstr "klient GLX quşılması"
 
-#: opengl.cpp:513
+#: opengl.cpp:516
 msgid "GLX extensions"
 msgstr "GLX quşılması"
 
-#: opengl.cpp:517
+#: opengl.cpp:520
 msgid "GLU"
 msgstr "GLU"
 
-#: opengl.cpp:518
+#: opengl.cpp:521
 msgid "GLU version"
 msgstr "GLU söreme"
 
-#: opengl.cpp:519
+#: opengl.cpp:522
 msgid "GLU extensions"
 msgstr "GLU quşılması"
 
-#: opengl.cpp:651
+#: opengl.cpp:654
 msgid "Could not initialize OpenGL"
 msgstr "OpenGL äzerläp bulmadı"

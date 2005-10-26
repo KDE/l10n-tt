@@ -24,7 +24,8 @@ msgstr ""
 #: tar.cc:460
 #, c-format
 msgid ""
-"The archive file could not be opened, perhaps because the format is unsupported.\n"
+"The archive file could not be opened, perhaps because the format is "
+"unsupported.\n"
 "%1"
 msgstr ""
 "Bu tuplama biremen açıp bulmí, ul totılmağan törendä axrı.\n"

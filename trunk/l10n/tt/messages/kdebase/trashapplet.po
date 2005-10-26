@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase trashapplet\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2005-09-27 02:32+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -24,15 +24,15 @@ msgid ""
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
 
-#: trashapplet.cpp:77
+#: trashapplet.cpp:79
 msgid "Trash Applet"
 msgstr "Çüplek Modulı"
 
-#: trashapplet.cpp:79
+#: trashapplet.cpp:81
 msgid "\"trash:/\" ioslave frontend applet"
 msgstr "\"trash:/\" ioslave frontend applet"
 
-#: trashapplet.cpp:84
+#: trashapplet.cpp:86
 msgid "Maintainer"
 msgstr "Bulışuçı"
 

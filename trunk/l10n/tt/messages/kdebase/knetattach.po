@@ -81,8 +81,11 @@ msgstr "&Microsoft® Windows® çeltärle cıhazı"
 #. i18n: file knetattach.ui line 146
 #: rc.cpp:25
 #, no-c-format
-msgid "Select the type of network folder you wish to connect to and press the Next button."
-msgstr "Totaştırası kilgän çeltärle törgäk tören saylap, Kiläse digän töymägä basası."
+msgid ""
+"Select the type of network folder you wish to connect to and press the Next "
+"button."
+msgstr ""
+"Totaştırası kilgän çeltärle törgäk tören saylap, Kiläse digän töymägä basası."
 
 #. i18n: file knetattach.ui line 176
 #: rc.cpp:28
@@ -93,8 +96,12 @@ msgstr "Çeltärle Törgäk Turında"
 #. i18n: file knetattach.ui line 187
 #: rc.cpp:31
 #, no-c-format
-msgid "Enter a name for this <i>%1</i> as well as the server address, port and folder path to use and press the Next button."
-msgstr "<i>%1</i> öçen atama, qullanası serverneñ adrese belän portı, eş törgägeneñ yulın kertep, Kiläse digän töymägä basası."
+msgid ""
+"Enter a name for this <i>%1</i> as well as the server address, port and folder "
+"path to use and press the Next button."
+msgstr ""
+"<i>%1</i> öçen atama, qullanası serverneñ adrese belän portı, eş törgägeneñ "
+"yulın kertep, Kiläse digän töymägä basası."
 
 #. i18n: file knetattach.ui line 215
 #: rc.cpp:34
@@ -143,24 +150,46 @@ msgid "Save && C&onnect"
 msgstr "Saqla da T&otaşıl"
 
 #: knetattach.ui.h:40
-msgid "Enter a name for this <i>WebFolder</i> as well as a server address, port and folder path to use and press the <b>Save & Connect</b> button."
-msgstr "<i>Web-törgäk</i> öçen atama, qullanası serverneñ adrese belän portı, eş törgägeneñ yulın kertep, <b>Saqla da Totaş</b> digän töymägä basası."
+msgid ""
+"Enter a name for this <i>WebFolder</i> as well as a server address, port and "
+"folder path to use and press the <b>Save & Connect</b> button."
+msgstr ""
+"<i>Web-törgäk</i> öçen atama, qullanası serverneñ adrese belän portı, eş "
+"törgägeneñ yulın kertep, <b>Saqla da Totaş</b> digän töymägä basası."
 
 #: knetattach.ui.h:42
-msgid "Enter a name for this <i>Secure shell connection</i> as well as a server address, port and folder path to use and press the <b>Save & Connect</b> button."
-msgstr "<i>Yaqlanğan qabıq totaşuı</i> öçen atama, qullanası serverneñ adrese belän portı, eş törgägeneñ yulın kertep, <b>Saqla da Totaş</b> digän töymägä basası."
+msgid ""
+"Enter a name for this <i>Secure shell connection</i> "
+"as well as a server address, port and folder path to use and press the <b>"
+"Save & Connect</b> button."
+msgstr ""
+"<i>Yaqlanğan qabıq totaşuı</i> öçen atama, qullanası serverneñ adrese belän "
+"portı, eş törgägeneñ yulın kertep, <b>Saqla da Totaş</b> digän töymägä basası."
 
 #: knetattach.ui.h:44
-msgid "Enter a name for this <i>File Transfer Protocol connection</i> as well as a server address and folder path to use and press the <b>Save & Connect</b> button."
-msgstr "<i>FTP totaşu</i> öçen atama, qullanası serverneñ adrese belän portı, eş törgägeneñ yulın kertep, <b>Saqla da Totaş</b> digän töymägä basası."
+msgid ""
+"Enter a name for this <i>File Transfer Protocol connection</i> "
+"as well as a server address and folder path to use and press the <b>"
+"Save & Connect</b> button."
+msgstr ""
+"<i>FTP totaşu</i> öçen atama, qullanası serverneñ adrese belän portı, eş "
+"törgägeneñ yulın kertep, <b>Saqla da Totaş</b> digän töymägä basası."
 
 #: knetattach.ui.h:46
-msgid "Enter a name for this <i>Microsoft Windows network drive</i> as well as a server address and folder path to use and press the <b>Save & Connect</b> button."
-msgstr "<i>Microsoft Windows'nıñ çeltärle cıhazı</i> öçen atama, qullanası serverneñ adrese belän portı, eş törgägeneñ yulın kertep, <b>Saqla da Totaş</b> digän töymägä basası."
+msgid ""
+"Enter a name for this <i>Microsoft Windows network drive</i> "
+"as well as a server address and folder path to use and press the <b>"
+"Save & Connect</b> button."
+msgstr ""
+"<i>Microsoft Windows'nıñ çeltärle cıhazı</i> öçen atama, qullanası serverneñ "
+"adrese belän portı, eş törgägeneñ yulın kertep, <b>Saqla da Totaş</b> "
+"digän töymägä basası."
 
 #: knetattach.ui.h:161
 msgid "Unable to connect to server.  Please check your settings and try again."
-msgstr "Server belän totaşılıp bulmí. Köylänüen tikşerep çığıp, qabat totaşılıp qararğa bula."
+msgstr ""
+"Server belän totaşılıp bulmí. Köylänüen tikşerep çığıp, qabat totaşılıp qararğa "
+"bula."
 
 #: knetattach.ui.h:284
 msgid "C&onnect"

@@ -26,8 +26,12 @@ msgid "Enter Command Line for Applet %1.%2"
 msgstr "%1 Applet Öçen Boyırıq Yulın Kertü.%2"
 
 #: dockcontainer.cpp:151
-msgid "This applet does not behave correctly and the dockbar was unable to find the command line necessary to launch it the next time KDE starts up"
-msgstr "Bu applet ällä niçek eşli. KDE'nıñ kiläse cibärelü çağında ul appletne nindi köylämälär belän cibäräsen dä tağutirä taba almadı."
+msgid ""
+"This applet does not behave correctly and the dockbar was unable to find the "
+"command line necessary to launch it the next time KDE starts up"
+msgstr ""
+"Bu applet ällä niçek eşli. KDE'nıñ kiläse cibärelü çağında ul appletne nindi "
+"köylämälär belän cibäräsen dä tağutirä taba almadı."
 
 #: dockcontainer.cpp:174
 msgid "Kill This Applet"

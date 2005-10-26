@@ -25,8 +25,12 @@ msgid ""
 msgstr "tatarish-l10n@gmail.com"
 
 #: kcmusb.cpp:34
-msgid "<h1>USB Devices</h1> This module allows you to see the devices attached to your USB bus(es)."
-msgstr "<h1>USB Cıhazlar</h1> USB tuğımıña totaştırılğan cıhazlarnı bu modul aşa kürep bula."
+msgid ""
+"<h1>USB Devices</h1> This module allows you to see the devices attached to your "
+"USB bus(es)."
+msgstr ""
+"<h1>USB Cıhazlar</h1> USB tuğımıña totaştırılğan cıhazlarnı bu modul aşa kürep "
+"bula."
 
 #: kcmusb.cpp:38
 msgid "USB Devices"
@@ -125,8 +129,12 @@ msgid "<tr><td><i>Isochr. requests</i></td><td>%1</td></tr>"
 msgstr "<tr><td><i>Isochr. sorawları</i></td><td>%1</td></tr>"
 
 #: usbdevices.cpp:341
-msgid "Could not open one or more USB controller. Make sure, you have read access to all USB controllers that should be listed here."
-msgstr "USB caylanmalarnıñ qaysılarındır açıp bulmí. Bonda kürsätelergä tieş USB caylanmaların uqırlıq xoquqlar citkän buluın tikşerep alası."
+msgid ""
+"Could not open one or more USB controller. Make sure, you have read access to "
+"all USB controllers that should be listed here."
+msgstr ""
+"USB caylanmalarnıñ qaysılarındır açıp bulmí. Bonda kürsätelergä tieş USB "
+"caylanmaların uqırlıq xoquqlar citkän buluın tikşerep alası."
 
 #: classes.i18n:1
 msgid "AT-commands"

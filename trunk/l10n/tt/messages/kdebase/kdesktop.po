@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdesktop\n"
-"POT-Creation-Date: 2005-07-09 01:31+0200\n"
+"POT-Creation-Date: 2005-10-15 02:42+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -17,8 +17,12 @@ msgid "<nobr><qt><b>Automatic Log Out</b></qt><nobr>"
 msgstr "<nobr><qt><b>Sessineñ Üzennän-üze Yabıluı</b></qt><nobr>"
 
 #: lock/autologout.cc:40
-msgid "<qt>To prevent being logged out, resume using this session by moving the mouse or pressing a key.</qt>"
-msgstr "<qt>Küse selketep yä berär töymägä basıp, bu sessidän çıqmíça eşne däwam itärgä bula.</qt>"
+msgid ""
+"<qt>To prevent being logged out, resume using this session by moving the mouse "
+"or pressing a key.</qt>"
+msgstr ""
+"<qt>Küse selketep yä berär töymägä basıp, bu sessidän çıqmíça eşne däwam itärgä "
+"bula.</qt>"
 
 #: lock/autologout.cc:80
 #, c-format
@@ -43,65 +47,84 @@ msgstr "Q&ullanuçı Almaştıru..."
 msgid "Unl&ock"
 msgstr "Bikläwne &Aç"
 
-#: lock/lockdlg.cc:194
+#: lock/lockdlg.cc:191
 msgid "<b>Unlocking failed</b>"
 msgstr "<b>Bikne töşerep bulmadı</b>"
 
-#: lock/lockdlg.cc:200
+#: lock/lockdlg.cc:197
 msgid "<b>Warning: Caps Lock on</b>"
 msgstr "<b>Beldermä: Caps Lock açıq</b>"
 
-#: lock/lockdlg.cc:426
+#: lock/lockdlg.cc:423
 msgid ""
 "Cannot unlock the session because the authentication system failed to work;\n"
 "you must kill kdesktop_lock (pid %1) manually."
 msgstr ""
-"Tanıp alu sisteme eşläp barğanda cimerelgänenä säbäple, bu sessine bigennän töşerep bulmí;\n"
+"Tanıp alu sisteme eşläp barğanda cimerelgänenä säbäple, bu sessine bigennän "
+"töşerep bulmí;\n"
 "şuña kürä, %1. pid belän kdesktop_lock prosesen quldan üteräse bar."
 
-#: lock/lockdlg.cc:529
-msgid "You have chosen to open another desktop session instead of resuming the current one.<br>The current session will be hidden and a new login screen will be displayed.<br>An F-key is assigned to each session; F%1 is usually assigned to the first session, F%2 to the second session and so on. You can switch between sessions by pressing Ctrl, Alt and the appropriate F-key at the same time. Additionally, the KDE Panel and Desktop menus have actions for switching between sessions."
-msgstr "Biredäge sessidä eş däwam itü urınına, ikençe ber sessine açarğa teläk belderdeñ.<br>Biredäge sessi yäşerelep, yaña kerü täräzäse kürsäteler.<br>Sessineñ barısına da berär F-töymä tağılğan; berençe sessigä F%1 tağılğan, ikençesenä F%2, başqalarğa da şulay uq. Bar sessilär arasında küçü öçen Ctrl+Alt töymäläre belän bergä şul F-töymälärne basası. Sessilär arasında küçü ısulların KDE Üzäge belän Östäl saylağında bilgelärgä bula."
+#: lock/lockdlg.cc:526
+msgid ""
+"You have chosen to open another desktop session instead of resuming the current "
+"one."
+"<br>The current session will be hidden and a new login screen will be "
+"displayed."
+"<br>An F-key is assigned to each session; F%1 is usually assigned to the first "
+"session, F%2 to the second session and so on. You can switch between sessions "
+"by pressing Ctrl, Alt and the appropriate F-key at the same time. Additionally, "
+"the KDE Panel and Desktop menus have actions for switching between sessions."
+msgstr ""
+"Biredäge sessidä eş däwam itü urınına, ikençe ber sessine açarğa teläk "
+"belderdeñ."
+"<br>Biredäge sessi yäşerelep, yaña kerü täräzäse kürsäteler."
+"<br>Sessineñ barısına da berär F-töymä tağılğan; berençe sessigä F%1 tağılğan, "
+"ikençesenä F%2, başqalarğa da şulay uq. Bar sessilär arasında küçü öçen "
+"Ctrl+Alt töymäläre belän bergä şul F-töymälärne basası. Sessilär arasında küçü "
+"ısulların KDE Üzäge belän Östäl saylağında bilgelärgä bula."
 
-#: krootwm.cc:848 lock/lockdlg.cc:542
+#: krootwm.cc:876 lock/lockdlg.cc:539
 msgid "&Start New Session"
 msgstr "Yaña Sessi &Aç"
 
-#: lock/lockdlg.cc:554
+#: lock/lockdlg.cc:551
 msgid "&Do not ask again"
 msgstr "&Sorama bütän"
 
-#: lock/lockdlg.cc:654
+#: lock/lockdlg.cc:651
 msgid "Session"
 msgstr "Sessi"
 
-#: lock/lockdlg.cc:655
+#: lock/lockdlg.cc:652
 msgid "Location"
 msgstr "Urnaşılu"
 
-#: lock/lockdlg.cc:681
+#: lock/lockdlg.cc:678
 msgid ""
 "_: session\n"
 "&Activate"
 msgstr "&Sälätlä"
 
-#: lock/lockdlg.cc:690
+#: lock/lockdlg.cc:687
 msgid "Start &New Session"
 msgstr "&Yaña Sessi Başla"
 
-#: lock/lockprocess.cc:692
-msgid "Will not lock the session, as unlocking would be impossible:\n"
-msgstr "Bu sessine bikläp bulmí, çönki annan soñ anı kire açıp bulmas:\n"
+#: lock/lockprocess.cc:697
+msgid ""
+"Will not lock the session, as unlocking would be impossible:\n"
+msgstr ""
+"Bu sessine bikläp bulmí, çönki annan soñ anı kire açıp bulmas:\n"
 
-#: lock/lockprocess.cc:696
+#: lock/lockprocess.cc:701
 msgid "Cannot start <i>kcheckpass</i>."
 msgstr "<i>kcheckpass</i> yazılımın cibärep bulmí."
 
-#: lock/lockprocess.cc:697
+#: lock/lockprocess.cc:702
 msgid "<i>kcheckpass</i> is unable to operate. Possibly it is not SetUID root."
-msgstr "<i>kcheckpass</i> tieşleçä eşli almí. SetUID root'nıñ köylämägän buluı bar."
+msgstr ""
+"<i>kcheckpass</i> tieşleçä eşli almí. SetUID root'nıñ köylämägän buluı bar."
 
-#: lock/lockprocess.cc:740
+#: lock/lockprocess.cc:745
 msgid "No appropriate greeter plugin configured."
 msgstr "Sälämläw modulı caylanunı uzmağan."
 
@@ -125,41 +148,49 @@ msgstr "KDesktop Yozaqlaw"
 msgid "Session Locker for KDesktop"
 msgstr "KDesktop Sessi Biklägeçe"
 
-#: desktop.cc:696
+#: desktop.cc:777
 msgid "Set as Primary Background Color"
 msgstr "Asyaqnıñ Töp Tösen Bilgeläw"
 
-#: desktop.cc:697
+#: desktop.cc:778
 msgid "Set as Secondary Background Color"
 msgstr "Asyaqnıñ İkençe Tösen Bilgeläw"
 
-#: desktop.cc:713
+#: desktop.cc:795
 msgid "&Save to Desktop..."
 msgstr "Östäldä &Saqlaw..."
 
-#: desktop.cc:715
+#: desktop.cc:797
 msgid "Set as &Wallpaper"
 msgstr "&Cäymä itep Quy"
 
-#: desktop.cc:723
+#: desktop.cc:805
 msgid "Enter a name for the image below:"
 msgstr "Astağı sürät öçen ber isem kertäse:"
 
-#: desktop.cc:732
+#: desktop.cc:814
 msgid "image.png"
 msgstr "image.png"
 
-#: desktop.cc:784
+#: desktop.cc:866
 msgid ""
 "Could not log out properly.\n"
-"The session manager cannot be contacted. You can try to force a shutdown by pressing Ctrl+Alt+Backspace; note, however, that your current session will not be saved with a forced shutdown."
+"The session manager cannot be contacted. You can try to force a shutdown by "
+"pressing Ctrl+Alt+Backspace; note, however, that your current session will not "
+"be saved with a forced shutdown."
 msgstr ""
 "Sessidän döres çığıp bulmí.\n"
-"Sessi idäräçese belän totaşılıp bulmí. Xäzer inde Ctrl+Alt+Backspace östenä basıp, köç belän çığıp qararğa qala; läkin bel, köçläp çıqqan çaqta biredäge sessi saqlanmí qalır."
+"Sessi idäräçese belän totaşılıp bulmí. Xäzer inde Ctrl+Alt+Backspace östenä "
+"basıp, köç belän çığıp qararğa qala; läkin bel, köçläp çıqqan çaqta biredäge "
+"sessi saqlanmí qalır."
 
 #: init.cc:68
-msgid "%1 is a file, but KDE needs it to be a directory; move it to %2.orig and create directory?"
-msgstr "%1 itep atalğan närsä birem bulıp çıqtı, KDE isä anıñ törgäk buluın teli; adın %2.orig itep üzgärtep, törgäkne yasísımı?"
+msgid ""
+"%1 is a file, but KDE needs it to be a directory; move it to %2.orig and create "
+"directory?"
+msgstr ""
+"%1 itep atalğan närsä birem bulıp çıqtı, KDE isä anıñ törgäk buluın teli; adın "
+"%2.orig itep üzgärtep, törgäkne yasísımı?"
 
 #: init.cc:68
 msgid "Move It"
@@ -170,144 +201,161 @@ msgid "Do Not Move"
 msgstr "Küçermäskä"
 
 #: init.cc:82
-msgid "Could not create directory %1; check for permissions or reconfigure the desktop to use another path."
-msgstr "%1 törgägen yasap bulmí; yä bulğan xoquqlarnı tikşeräse, yä bu östäl öçen başqa yul bilgelise."
+msgid ""
+"Could not create directory %1; check for permissions or reconfigure the desktop "
+"to use another path."
+msgstr ""
+"%1 törgägen yasap bulmí; yä bulğan xoquqlarnı tikşeräse, yä bu östäl öçen başqa "
+"yul bilgelise."
 
-#: kdiconview.cc:412
+#: kdiconview.cc:433
 msgid "&Rename"
 msgstr "&İsem quş"
 
-#: kdiconview.cc:413
+#: kdiconview.cc:434
 msgid "&Properties"
 msgstr "&Üzençälege"
 
-#: kdiconview.cc:414
+#: kdiconview.cc:435
 msgid "&Move to Trash"
 msgstr "Çüpkä &Küçer"
 
-#: krootwm.cc:133
+#: krootwm.cc:136
 msgid "Run Command..."
 msgstr "Boyırıq Eşlätü..."
 
-#: krootwm.cc:137
+#: krootwm.cc:140
 msgid "Configure Desktop..."
 msgstr "Östäl Caylaw..."
 
-#: krootwm.cc:139 krootwm.cc:363
+#: krootwm.cc:142 krootwm.cc:367
 msgid "Disable Desktop Menu"
 msgstr "Östäl Saylağın Sünder"
 
-#: krootwm.cc:143
+#: krootwm.cc:146
 msgid "Unclutter Windows"
 msgstr "Tiskäre Täräzälär"
 
-#: krootwm.cc:145
+#: krootwm.cc:148
 msgid "Cascade Windows"
 msgstr "Täräzälärne ber-ber artlı tezü"
 
-#: krootwm.cc:151
+#: krootwm.cc:154
 msgid "By Name (Case Sensitive)"
 msgstr "İsem Buyınça (Bieklek Sizep)"
 
-#: krootwm.cc:153
+#: krootwm.cc:156
 msgid "By Name (Case Insensitive)"
 msgstr "İsem Buyınça (Bieklek Sizmiçä)"
 
-#: krootwm.cc:155
+#: krootwm.cc:158
 msgid "By Size"
 msgstr "Küläm Buyınça"
 
-#: krootwm.cc:157
+#: krootwm.cc:160
 msgid "By Type"
 msgstr "Tör Buyınça"
 
-#: krootwm.cc:159
+#: krootwm.cc:162
 msgid "By Date"
 msgstr "Zaman Buyınça"
 
-#: krootwm.cc:162
+#: krootwm.cc:165
 msgid "Directories First"
 msgstr "Baştan Törgäklärne"
 
-#: krootwm.cc:165
+#: krootwm.cc:168
 msgid "Line Up Horizontally"
 msgstr "Yatma Buyınça Tez"
 
-#: krootwm.cc:168
+#: krootwm.cc:171
 msgid "Line Up Vertically"
 msgstr "Asma Buyınça Tez"
 
-#: krootwm.cc:171
+#: krootwm.cc:174
 msgid "Align to Grid"
 msgstr "Çeltär Buyınça Tez"
 
-#. i18n: file kdesktop.kcfg line 170
-#: krootwm.cc:175 rc.cpp:219
+#. i18n: file kdesktop.kcfg line 180
+#: krootwm.cc:178 rc.cpp:231
 #, no-c-format
 msgid "Lock in Place"
 msgstr "Urnaşıluın Biklä"
 
-#: krootwm.cc:181
+#: krootwm.cc:184
 msgid "Refresh Desktop"
 msgstr "Östälne Yañart"
 
-#: kdesktopbindings.cpp:31 krootwm.cc:187
+#: kdesktopbindings.cpp:31 krootwm.cc:190
 msgid "Lock Session"
 msgstr "Sessine Biklä"
 
-#: krootwm.cc:192
+#: krootwm.cc:195
 msgid "Log Out \"%1\"..."
 msgstr "Çığu \"%1\"..."
 
-#: krootwm.cc:198
+#: krootwm.cc:201
 msgid "Start New Session"
 msgstr "Yaña Sessi Başlí"
 
-#: krootwm.cc:202
+#: krootwm.cc:205
 msgid "Lock Current && Start New Session"
 msgstr "Bu Sessine Biklä dä Yañanı Başla"
 
-#: krootwm.cc:341 krootwm.cc:419
+#: krootwm.cc:345 krootwm.cc:423
 msgid "Sort Icons"
 msgstr "İkon Tezü"
 
-#: krootwm.cc:343
+#: krootwm.cc:347
 msgid "Line Up Icons"
 msgstr "İkonnı Turaytıp Tez"
 
-#: krootwm.cc:370
+#: krootwm.cc:374
 msgid "Enable Desktop Menu"
 msgstr "Östäl Saylağın Sälätlä"
 
-#: krootwm.cc:429
+#: krootwm.cc:433
 msgid "Icons"
 msgstr "Tamğalar"
 
-#: krootwm.cc:435 krootwm.cc:491
+#: krootwm.cc:439 krootwm.cc:495
 msgid "Windows"
 msgstr "Täräzälär"
 
-#: kdesktopbindings.cpp:26 krootwm.cc:451
+#: kdesktopbindings.cpp:26 krootwm.cc:455
 msgid "Switch User"
 msgstr "Qullanuçı Almaştıru"
 
-#: krootwm.cc:480
+#: krootwm.cc:484
 msgid "Sessions"
 msgstr "Sessi"
 
-#: krootwm.cc:484
+#: krootwm.cc:488
 msgid "New"
 msgstr "Yaña"
 
-#: kdesktopbindings.cpp:14 krootwm.cc:490 krootwm.cc:721
+#: kdesktopbindings.cpp:14 krootwm.cc:494
 msgid "Desktop"
 msgstr "Östäl"
 
-#: krootwm.cc:836
-msgid "<p>You have chosen to open another desktop session.<br>The current session will be hidden and a new login screen will be displayed.<br>An F-key is assigned to each session; F%1 is usually assigned to the first session, F%2 to the second session and so on. You can switch between sessions by pressing Ctrl, Alt and the appropriate F-key at the same time. Additionally, the KDE Panel and Desktop menus have actions for switching between sessions.</p>"
-msgstr "<p>Östälneñ başqa sessien açu saylandı.<br>Biredäge sessi yäşerelep, yaña kerü täräzäse kürsäteler.<br>Sessineñ barısına da berär F-töymä tağılğan; berençe sessigä F%1 tağılğan, ikençesenä F%2, başqalarğa da şulay uq. Bar sessilär arasında küçü öçen Ctrl+Alt töymäläre belän bergä şul F-töymälärne basası. Sessilär arasında küçü ısulların KDE Üzäge belän Östäl saylağında bilgelärgä bula.</p>"
+#: krootwm.cc:864
+msgid ""
+"<p>You have chosen to open another desktop session."
+"<br>The current session will be hidden and a new login screen will be "
+"displayed."
+"<br>An F-key is assigned to each session; F%1 is usually assigned to the first "
+"session, F%2 to the second session and so on. You can switch between sessions "
+"by pressing Ctrl, Alt and the appropriate F-key at the same time. Additionally, "
+"the KDE Panel and Desktop menus have actions for switching between sessions.</p>"
+msgstr ""
+"<p>Östälneñ başqa sessien açu saylandı."
+"<br>Biredäge sessi yäşerelep, yaña kerü täräzäse kürsäteler."
+"<br>Sessineñ barısına da berär F-töymä tağılğan; berençe sessigä F%1 tağılğan, "
+"ikençesenä F%2, başqalarğa da şulay uq. Bar sessilär arasında küçü öçen "
+"Ctrl+Alt töymäläre belän bergä şul F-töymälärne basası. Sessilär arasında küçü "
+"ısulların KDE Üzäge belän Östäl saylağında bilgelärgä bula.</p>"
 
-#: krootwm.cc:847
+#: krootwm.cc:875
 msgid "Warning - New Session"
 msgstr "Beldermä - Yaña Sessi"
 
@@ -371,7 +419,7 @@ msgstr "Raslawsız Tuqtat"
 msgid "Reboot without Confirmation"
 msgstr "Raslamíça Yañadan Yöklä"
 
-#: minicli.cpp:93 minicli.cpp:645
+#: minicli.cpp:93 minicli.cpp:637
 msgid "&Options >>"
 msgstr "&Caylaw >>"
 
@@ -379,19 +427,21 @@ msgstr "&Caylaw >>"
 msgid "&Run"
 msgstr "&Cibär"
 
-#: minicli.cpp:400
+#: minicli.cpp:392
 msgid "<qt>The user <b>%1</b> does not exist on this system.</qt>"
 msgstr "<qt>Bu sistemdä <b>%1</b> atlı qullanuçı yuq.</qt>"
 
-#: minicli.cpp:410
-msgid "You do not exist.\n"
-msgstr "Sin yuq monda.\n"
+#: minicli.cpp:402
+msgid ""
+"You do not exist.\n"
+msgstr ""
+"Sin yuq monda.\n"
 
-#: minicli.cpp:435
+#: minicli.cpp:427
 msgid "Incorrect password; please try again."
 msgstr "Sersüz kileşmäde; tağın kertep qara."
 
-#: minicli.cpp:544
+#: minicli.cpp:536
 msgid ""
 "<center><b>%1</b></center>\n"
 "You do not have permission to execute this command."
@@ -399,7 +449,7 @@ msgstr ""
 "<center><b>%1</b></center>\n"
 "Bu boyırıqnı eşlätterlek xoquqıñ citmi."
 
-#: minicli.cpp:572
+#: minicli.cpp:564
 msgid ""
 "<center><b>%1</b></center>\n"
 "Could not run the specified command."
@@ -407,7 +457,7 @@ msgstr ""
 "<center><b>%1</b></center>\n"
 "Birelgän boyırıqnı eşkärtep bulmadı."
 
-#: minicli.cpp:584
+#: minicli.cpp:576
 msgid ""
 "<center><b>%1</b></center>\n"
 "The specified command does not exist."
@@ -415,150 +465,193 @@ msgstr ""
 "<center><b>%1</b></center>\n"
 "Birelgän boyırıq biredä yuq."
 
-#: minicli.cpp:633
+#: minicli.cpp:625
 msgid "&Options <<"
 msgstr "&Caylaw <<"
 
-#: minicli.cpp:838
+#: minicli.cpp:830
 msgid ""
-"Running a realtime application can be very dangerous. If the application misbehaves, the system might hang unrecoverably.\n"
+"Running a realtime application can be very dangerous. If the application "
+"misbehaves, the system might hang unrecoverably.\n"
 "Are you sure you want to continue?"
 msgstr ""
-"Yazılımnarnı çınçaqta eşlätü bik xäter närsä bula ala. Bu yazılım yalğış eşläp kitä ikän, sistemneñ dä tözälä almíça tuqtawı bar.\n"
+"Yazılımnarnı çınçaqta eşlätü bik xäter närsä bula ala. Bu yazılım yalğış eşläp "
+"kitä ikän, sistemneñ dä tözälä almíça tuqtawı bar.\n"
 "Çınlap ta däwam itäseme?"
 
-#: minicli.cpp:841
+#: minicli.cpp:833
 msgid "Warning - Run Command"
 msgstr "Beldermä – Boyırıq Eşlätü"
 
-#: minicli.cpp:841
+#: minicli.cpp:833
 msgid "&Run Realtime"
 msgstr "Çınço&rda Eşlät"
 
-#. i18n: file minicli_ui.ui line 169
+#. i18n: file minicli_ui.ui line 172
 #: rc.cpp:6
 #, no-c-format
 msgid "Run with realtime &scheduling"
 msgstr "&Kiçertterep, çınçaqta eşlätü"
 
-#. i18n: file minicli_ui.ui line 177
+#. i18n: file minicli_ui.ui line 180
 #: rc.cpp:9
 #, no-c-format
 msgid ""
-"<qt>Select whether realtime scheduling should be enabled for the application. The scheduler governs which process will run and which will have to wait. Two schedulers are available:\n"
+"<qt>Select whether realtime scheduling should be enabled for the application. "
+"The scheduler governs which process will run and which will have to wait. Two "
+"schedulers are available:\n"
 "<ul>\n"
-"<li><em>Normal:</em> This is the standard, timesharing scheduler. It will divide fairly the available processing time between all processes.</li>\n"
-"<li><em>Realtime:</em>This scheduler will run your application uninterrupted until it gives up the processor. This can be dangerous. An application that does not give up the processor might hang the system. You need root's password to use the scheduler.</li>\n"
+"<li><em>Normal:</em> This is the standard, timesharing scheduler. It will "
+"divide fairly the available processing time between all processes.</li>\n"
+"<li><em>Realtime:</em>This scheduler will run your application uninterrupted "
+"until it gives up the processor. This can be dangerous. An application that "
+"does not give up the processor might hang the system. You need root's password "
+"to use the scheduler.</li>\n"
 "</ul>\n"
 "</qt>"
 msgstr ""
-"<qt>Yazılımnı kiçekterep cibärep, çınçaqta eşlätüen saylarğa bula. Kiçekterüçe digäne ul prosseslärneñ qaysısı eşli, qaysısı kötep torğanın itdärä itä torğan närsä. Kiçekterüçeneñ ike töre bar:\n"
+"<qt>Yazılımnı kiçekterep cibärep, çınçaqta eşlätüen saylarğa bula. Kiçekterüçe "
+"digäne ul prosseslärneñ qaysısı eşli, qaysısı kötep torğanın itdärä itä torğan "
+"närsä. Kiçekterüçeneñ ike töre bar:\n"
 "<ul>\n"
-"<li><em>Ğädäti:</em> Waqıt bülä torğan ğädäti kiçekterüçe bu. Ul bar bulğan eşkärtü waqıtın prosseslär arasında bülep ğına tora.</li>\n"
-"<li><em>Çınçorlı:</em>Bu kiçekterüçe yazılımıñnıñ eşen bülmiçä, prossesornı kire qaytarğanın kötep tora. Alay itep eşlätü xätär bula ala. Yazılımıñ prosessornı kire qaytartmí ikän, ul çaqta sistemneñ tuqtaluı da bar. Bu kiçekterüçen qullanu öçen, root sersüzen belü kiräk.</li>\n"
+"<li><em>Ğädäti:</em> Waqıt bülä torğan ğädäti kiçekterüçe bu. Ul bar bulğan "
+"eşkärtü waqıtın prosseslär arasında bülep ğına tora.</li>\n"
+"<li><em>Çınçorlı:</em>Bu kiçekterüçe yazılımıñnıñ eşen bülmiçä, prossesornı "
+"kire qaytarğanın kötep tora. Alay itep eşlätü xätär bula ala. Yazılımıñ "
+"prosessornı kire qaytartmí ikän, ul çaqta sistemneñ tuqtaluı da bar. Bu "
+"kiçekterüçen qullanu öçen, root sersüzen belü kiräk.</li>\n"
 "</ul>\n"
 "</qt>"
 
-#. i18n: file minicli_ui.ui line 196
+#. i18n: file minicli_ui.ui line 199
 #: rc.cpp:17
 #, no-c-format
 msgid "User&name:"
 msgstr "Qulla&nuçı:"
 
-#. i18n: file minicli_ui.ui line 202
+#. i18n: file minicli_ui.ui line 205
 #: rc.cpp:20 rc.cpp:50
 #, no-c-format
 msgid "Enter the user you want to run the application as here."
 msgstr "Yazılımnı nindi qullanuçı isemennän cibäräsen monda kertäse."
 
-#. i18n: file minicli_ui.ui line 221
+#. i18n: file minicli_ui.ui line 224
 #: rc.cpp:23 rc.cpp:29
 #, no-c-format
 msgid "Enter the password here for the user you specified above."
 msgstr "Östä bilgelängän qullanuçınıñ sersüzen monda kertäse."
 
-#. i18n: file minicli_ui.ui line 240
+#. i18n: file minicli_ui.ui line 243
 #: rc.cpp:26
 #, no-c-format
 msgid "Pass&word:"
 msgstr "&Sersüz:"
 
-#. i18n: file minicli_ui.ui line 254
+#. i18n: file minicli_ui.ui line 257
 #: rc.cpp:32
 #, no-c-format
 msgid "Run in &terminal window"
 msgstr "&Terminal täräzäsen cibär"
 
-#. i18n: file minicli_ui.ui line 257
+#. i18n: file minicli_ui.ui line 260
 #: rc.cpp:35
 #, no-c-format
-msgid "Check this option if the application you want to run is a text mode application. The application will then be run in a terminal emulator window."
-msgstr "Cibäräse kilgän yazılım mäten ısulında eşli ikän, bu köylämäne açıp quy.  Şulay itep, bu yazılım terminal täräzäsendä cibäreler."
+msgid ""
+"Check this option if the application you want to run is a text mode "
+"application. The application will then be run in a terminal emulator window."
+msgstr ""
+"Cibäräse kilgän yazılım mäten ısulında eşli ikän, bu köylämäne açıp quy.  Şulay "
+"itep, bu yazılım terminal täräzäsendä cibäreler."
 
-#. i18n: file minicli_ui.ui line 276
+#. i18n: file minicli_ui.ui line 279
 #: rc.cpp:38
 #, no-c-format
 msgid "&Priority:"
 msgstr "&Möhimlek:"
 
-#. i18n: file minicli_ui.ui line 282
+#. i18n: file minicli_ui.ui line 285
 #: rc.cpp:41 rc.cpp:56 rc.cpp:62 rc.cpp:65
 #, no-c-format
-msgid "The priority that the command will be run with can be set here. From left to right, it goes from low to high. The center position is the default value. For priorities higher than the default, you will need to provide the root password."
-msgstr "Bu boyırıq nindi möhimlek belän cibärelgän buluın monda äytep bula. Sundan uñğa taba möhimlek arta. Ğädättäge bäyä anıñ urtasında yata. Möhimlekne şunnan da arttıru öçen, root sersüzen belü kiräk."
+msgid ""
+"The priority that the command will be run with can be set here. From left to "
+"right, it goes from low to high. The center position is the default value. For "
+"priorities higher than the default, you will need to provide the root password."
+msgstr ""
+"Bu boyırıq nindi möhimlek belän cibärelgän buluın monda äytep bula. Sundan uñğa "
+"taba möhimlek arta. Ğädättäge bäyä anıñ urtasında yata. Möhimlekne şunnan da "
+"arttıru öçen, root sersüzen belü kiräk."
 
-#. i18n: file minicli_ui.ui line 309
+#. i18n: file minicli_ui.ui line 312
 #: rc.cpp:44
 #, no-c-format
 msgid "Run with a &different priority"
 msgstr "&Başqa möhimlek belän cibär"
 
-#. i18n: file minicli_ui.ui line 312
+#. i18n: file minicli_ui.ui line 315
 #: rc.cpp:47
 #, no-c-format
-msgid "Check this option if you want to run the application with a different priority. A higher priority tells the operating system to give more processing time to your application."
-msgstr "Bu köylämäne caylap, yazılımnı başqa möhimlek belän cibärep bula. Arttırılğan möhimlek ul yazılımıña eş waqıtın kübräk biräse turında äytä."
+msgid ""
+"Check this option if you want to run the application with a different priority. "
+"A higher priority tells the operating system to give more processing time to "
+"your application."
+msgstr ""
+"Bu köylämäne caylap, yazılımnı başqa möhimlek belän cibärep bula. Arttırılğan "
+"möhimlek ul yazılımıña eş waqıtın kübräk biräse turında äytä."
 
-#. i18n: file minicli_ui.ui line 353
+#. i18n: file minicli_ui.ui line 356
 #: rc.cpp:53
 #, no-c-format
 msgid "Low"
 msgstr "Tübän"
 
-#. i18n: file minicli_ui.ui line 367
+#. i18n: file minicli_ui.ui line 370
 #: rc.cpp:59
 #, no-c-format
 msgid "High"
 msgstr "Yuğarı"
 
-#. i18n: file minicli_ui.ui line 408
+#. i18n: file minicli_ui.ui line 411
 #: rc.cpp:68
 #, no-c-format
 msgid "Run as a different &user"
 msgstr "&Başqa qullanuçı adınnan cibär"
 
-#. i18n: file minicli_ui.ui line 411
+#. i18n: file minicli_ui.ui line 414
 #: rc.cpp:71
 #, no-c-format
-msgid "Check this option if you want to run the application with a different user id. Every process has a user id associated with it. This id code determines file access and other permissions. The password of the user is required to do this."
-msgstr "Bu köylämäne caylap, yazılımnı başqa qullanuçı isemennän cibärep bula. Prosseslärneñ barısı da berär nindi qullanuçı isemenä tağılıp eşli. Yazılımnıñ biremnärgä ireşkän çaqta, anıñ nindi xoquqlar buluı turında şul tağılğan qullanuçı isemennän tikşerelä. Ul qullanuçınıñ sersüzen belüe kiräk."
+msgid ""
+"Check this option if you want to run the application with a different user id. "
+"Every process has a user id associated with it. This id code determines file "
+"access and other permissions. The password of the user is required to do this."
+msgstr ""
+"Bu köylämäne caylap, yazılımnı başqa qullanuçı isemennän cibärep bula. "
+"Prosseslärneñ barısı da berär nindi qullanuçı isemenä tağılıp eşli. Yazılımnıñ "
+"biremnärgä ireşkän çaqta, anıñ nindi xoquqlar buluı turında şul tağılğan "
+"qullanuçı isemennän tikşerelä. Ul qullanuçınıñ sersüzen belüe kiräk."
 
-#. i18n: file minicli_ui.ui line 459
+#. i18n: file minicli_ui.ui line 470
 #: rc.cpp:74
 #, no-c-format
 msgid "Com&mand:"
 msgstr "&Boyırıq:"
 
-#. i18n: file minicli_ui.ui line 465
+#. i18n: file minicli_ui.ui line 476
 #: rc.cpp:77 rc.cpp:81
 #, no-c-format
-msgid "Enter the command you wish to execute or the address of the resource you want to open. This can be a remote URL like \"www.kde.org\" or a local one like \"~/.kderc\"."
-msgstr "Eşlätäse kilgän boyırıqnı, yä açası kilgän resurs urınlaşuın monda kertäse. Ul \"www.kde.org\" kebek çit URL da, yä \"~/.kderc\" kebek cirle urınlaşu da bula ala."
+msgid ""
+"Enter the command you wish to execute or the address of the resource you want "
+"to open. This can be a remote URL like \"www.kde.org\" or a local one like "
+"\"~/.kderc\"."
+msgstr ""
+"Eşlätäse kilgän boyırıqnı, yä açası kilgän resurs urınlaşuın monda kertäse. Ul "
+"\"www.kde.org\" kebek çit URL da, yä \"~/.kderc\" kebek cirle urınlaşu da bula "
+"ala."
 
-#. i18n: file minicli_ui.ui line 508
+#. i18n: file minicli_ui.ui line 533
 #: rc.cpp:84
 #, no-c-format
-msgid "Enter the name of the application you want to run or the URL you want to view"
+msgid ""
+"Enter the name of the application you want to run or the URL you want to view"
 msgstr "Cibäräse kilgän yazılımnıñ, yä qarísı kilgän URL isemen kert monda"
 
 #. i18n: file kdesktop.kcfg line 11
@@ -570,293 +663,420 @@ msgstr "Bar öställärgä dä töp caylawlar"
 #. i18n: file kdesktop.kcfg line 12
 #: rc.cpp:90
 #, no-c-format
-msgid "If you want the same background settings to be applied to all desktops enable this option."
-msgstr "Biredäge asyaq caylawın bar öställärgä dä quyası kilä ikän, bu köylämäne açası."
+msgid ""
+"If you want the same background settings to be applied to all desktops enable "
+"this option."
+msgstr ""
+"Biredäge asyaq caylawın bar öställärgä dä quyası kilä ikän, bu köylämäne açası."
 
 #. i18n: file kdesktop.kcfg line 16
 #: rc.cpp:93
-#, no-c-format
-msgid "Limit background cache"
-msgstr "Asyaq öçen alxäterne çikläw"
+#, fuzzy, no-c-format
+msgid "Common settings for all screens"
+msgstr "Bar öställärgä dä töp caylawlar"
 
 #. i18n: file kdesktop.kcfg line 17
 #: rc.cpp:96
-#, no-c-format
-msgid "Enable this option if you want to limit the cache size for the background."
-msgstr "Monı açıp, asyaq öçen bülenäçäk alxäter külämen çiklärgä bula."
+#, fuzzy, no-c-format
+msgid ""
+"If you want the same background settings to be applied to all screens enable "
+"this option."
+msgstr ""
+"Biredäge asyaq caylawın bar öställärgä dä quyası kilä ikän, bu köylämäne açası."
 
 #. i18n: file kdesktop.kcfg line 21
 #: rc.cpp:99
 #, no-c-format
-msgid "Background cache size"
-msgstr "Asyaq öçen alxäter küläme"
+msgid "Draw backgrounds per screen"
+msgstr ""
 
 #. i18n: file kdesktop.kcfg line 22
 #: rc.cpp:102
-#, no-c-format
-msgid "Here you can enter how much memory KDE should use for caching the background(s). If you have different backgrounds for the different desktops caching can make switching desktops smoother at the expense of higher memory use."
-msgstr "Asyaq süräten alxäterläw öçen qullanası xäter külämen monda kürsätep bula. Törle öställärdäge sürätlär törle bulğançaqta, alxärefläw şul öställär arasında küçüne yomışağraq itä ala, läkin qullanılğan xäter küläme dä artır."
+#, fuzzy, no-c-format
+msgid ""
+"If you want to draw to each screen seperately in xinerama mode enable this "
+"option."
+msgstr ""
+"Biredäge asyaq caylawın bar öställärgä dä quyası kilä ikän, bu köylämäne açası."
 
-#. i18n: file kdesktop.kcfg line 28
+#. i18n: file kdesktop.kcfg line 26
 #: rc.cpp:105
+#, no-c-format
+msgid "Limit background cache"
+msgstr "Asyaq öçen alxäterne çikläw"
+
+#. i18n: file kdesktop.kcfg line 27
+#: rc.cpp:108
+#, no-c-format
+msgid ""
+"Enable this option if you want to limit the cache size for the background."
+msgstr "Monı açıp, asyaq öçen bülenäçäk alxäter külämen çiklärgä bula."
+
+#. i18n: file kdesktop.kcfg line 31
+#: rc.cpp:111
+#, no-c-format
+msgid "Background cache size"
+msgstr "Asyaq öçen alxäter küläme"
+
+#. i18n: file kdesktop.kcfg line 32
+#: rc.cpp:114
+#, no-c-format
+msgid ""
+"Here you can enter how much memory KDE should use for caching the "
+"background(s). If you have different backgrounds for the different desktops "
+"caching can make switching desktops smoother at the expense of higher memory "
+"use."
+msgstr ""
+"Asyaq süräten alxäterläw öçen qullanası xäter külämen monda kürsätep bula. "
+"Törle öställärdäge sürätlär törle bulğançaqta, alxärefläw şul öställär arasında "
+"küçüne yomışağraq itä ala, läkin qullanılğan xäter küläme dä artır."
+
+#. i18n: file kdesktop.kcfg line 38
+#: rc.cpp:117
 #, no-c-format
 msgid "Show icons on desktop"
 msgstr "İkonnarnı östäldä kürsätäse"
 
-#. i18n: file kdesktop.kcfg line 29
-#: rc.cpp:108
+#. i18n: file kdesktop.kcfg line 39
+#: rc.cpp:120
 #, no-c-format
-msgid "Uncheck this option if you do not want to have icons on the desktop. Without icons the desktop will be somewhat faster but you will no longer be able to drag files to the desktop."
-msgstr "Östäl östendä ikonnar telämäsäñ, monı tamğalama. Östäl östendä ikonnar bulmağanda sistem tizräk eşlär, ämmä östäl östenä fayllarnı österäw artıq mömkin bulmas."
+msgid ""
+"Uncheck this option if you do not want to have icons on the desktop. Without "
+"icons the desktop will be somewhat faster but you will no longer be able to "
+"drag files to the desktop."
+msgstr ""
+"Östäl östendä ikonnar telämäsäñ, monı tamğalama. Östäl östendä ikonnar "
+"bulmağanda sistem tizräk eşlär, ämmä östäl östenä fayllarnı österäw artıq "
+"mömkin bulmas."
 
-#. i18n: file kdesktop.kcfg line 33
-#: rc.cpp:111
+#. i18n: file kdesktop.kcfg line 43
+#: rc.cpp:123
 #, no-c-format
 msgid "Allow programs in desktop window"
 msgstr "Östäldä yazılımnarnı çığarunı açası"
 
-#. i18n: file kdesktop.kcfg line 34
-#: rc.cpp:114
+#. i18n: file kdesktop.kcfg line 44
+#: rc.cpp:126
 #, no-c-format
-msgid "Check this option if you want to run X11 programs that draw into the desktop such as xsnow, xpenguin or xmountain. If you have problems with applications like netscape that check the root window for running instances, disable this option."
-msgstr "Xsnow, Xpenguin, Xmountain kebek östäl östenä yazğan X11 yazılımnarın eşläwen tä'min itär öçen monı sayla. Tamır täräzädäge cibärmälärne tikşergän Netscape kebek yazılımnar belän bäläläreñ bulsa, bu saylanmanı sälätsez it."
+msgid ""
+"Check this option if you want to run X11 programs that draw into the desktop "
+"such as xsnow, xpenguin or xmountain. If you have problems with applications "
+"like netscape that check the root window for running instances, disable this "
+"option."
+msgstr ""
+"Xsnow, Xpenguin, Xmountain kebek östäl östenä yazğan X11 yazılımnarın eşläwen "
+"tä'min itär öçen monı sayla. Tamır täräzädäge cibärmälärne tikşergän Netscape "
+"kebek yazılımnar belän bäläläreñ bulsa, bu saylanmanı sälätsez it."
 
-#. i18n: file kdesktop.kcfg line 45
-#: rc.cpp:119
+#. i18n: file kdesktop.kcfg line 55
+#: rc.cpp:131
 #, no-c-format
 msgid "Automatically line up icons"
 msgstr "İkonnarnı suzıqqa tezep torası"
 
-#. i18n: file kdesktop.kcfg line 46
-#: rc.cpp:122
+#. i18n: file kdesktop.kcfg line 56
+#: rc.cpp:134
 #, no-c-format
-msgid "Check this option if you want to see your icons automatically aligned to the grid when you move them."
+msgid ""
+"Check this option if you want to see your icons automatically aligned to the "
+"grid when you move them."
 msgstr "Österep taşlanğan ikon üzennän üze turı tezelsen öçen bonı tamğalísı."
 
-#. i18n: file kdesktop.kcfg line 50
-#: rc.cpp:125 rc.cpp:213
+#. i18n: file kdesktop.kcfg line 60
+#: rc.cpp:137 rc.cpp:225
 #, no-c-format
 msgid "Sort directories first"
 msgstr "Tezüne törgäktän başlísı"
 
-#. i18n: file kdesktop.kcfg line 61
-#: rc.cpp:129
+#. i18n: file kdesktop.kcfg line 71
+#: rc.cpp:141
 #, no-c-format
 msgid "Mouse wheel over desktop background switches desktop"
 msgstr "Östälneñ artyağında küse tägärmäçen äyländeregändä östäl almaşına"
 
-#. i18n: file kdesktop.kcfg line 62
-#: rc.cpp:132
+#. i18n: file kdesktop.kcfg line 72
+#: rc.cpp:144
 #, no-c-format
-msgid "You can switch between the virtual desktops by using the mouse wheel over the desktop background."
-msgstr "Östälne küse belän uzğan çaqta, anıñ tägärmäçen qullanıp, xıyalí öställär arasında yörep bula."
-
-#. i18n: file kdesktop.kcfg line 73
-#: rc.cpp:137
-#, no-c-format
-msgid "Terminal application"
-msgstr "Terminal yazılımı"
-
-#. i18n: file kdesktop.kcfg line 74
-#: rc.cpp:140
-#, no-c-format
-msgid "Defines which terminal application is used."
-msgstr "Terminal yazılımınıñ nidien qullanasın bilgeli."
-
-#. i18n: file kdesktop.kcfg line 78
-#: rc.cpp:143
-#, no-c-format
-msgid "Left Mouse Button Action"
-msgstr "Küseneñ Sul Töymä Ğämäle"
-
-#. i18n: file kdesktop.kcfg line 79
-#: rc.cpp:146
-#, no-c-format
-msgid "You can choose what happens when you click the left button of your pointing device on the desktop."
-msgstr "Çirtkeç cıhazıñnıñ sul töymäse belän östälgä çertkän çaqta närsä eşlärgä kiräklegen saylarğa da bula."
+msgid ""
+"You can switch between the virtual desktops by using the mouse wheel over the "
+"desktop background."
+msgstr ""
+"Östälne küse belän uzğan çaqta, anıñ tägärmäçen qullanıp, xıyalí öställär "
+"arasında yörep bula."
 
 #. i18n: file kdesktop.kcfg line 83
 #: rc.cpp:149
 #, no-c-format
-msgid "Middle Mouse Button Action"
-msgstr "Küseneñ Ürta Töymä Ğämäle"
+msgid "Terminal application"
+msgstr "Terminal yazılımı"
 
 #. i18n: file kdesktop.kcfg line 84
 #: rc.cpp:152
 #, no-c-format
-msgid "You can choose what happens when you click the middle button of your pointing device on the desktop."
-msgstr "Çirtkeç cıhazıñnıñ urta töymäse belän östälgä çertkän çaqta närsä eşlärgä kiräklegen saylarğa da bula."
+msgid "Defines which terminal application is used."
+msgstr "Terminal yazılımınıñ nidien qullanasın bilgeli."
 
 #. i18n: file kdesktop.kcfg line 88
 #: rc.cpp:155
 #, no-c-format
-msgid "Right Mouse Button Action"
-msgstr "Küseneñ Uñ Töymä Ğämäle"
+msgid "Left Mouse Button Action"
+msgstr "Küseneñ Sul Töymä Ğämäle"
 
 #. i18n: file kdesktop.kcfg line 89
 #: rc.cpp:158
 #, no-c-format
-msgid "You can choose what happens when you click the right button of your pointing device on the desktop."
-msgstr "Çirtkeç cıhazıñnıñ uñ töymäse belän östälgä çertkän çaqta närsä eşlärgä kiräklegen saylarğa da bula."
+msgid ""
+"You can choose what happens when you click the left button of your pointing "
+"device on the desktop."
+msgstr ""
+"Çirtkeç cıhazıñnıñ sul töymäse belän östälgä çertkän çaqta närsä eşlärgä "
+"kiräklegen saylarğa da bula."
 
-#. i18n: file kdesktop.kcfg line 95
+#. i18n: file kdesktop.kcfg line 93
 #: rc.cpp:161
+#, no-c-format
+msgid "Middle Mouse Button Action"
+msgstr "Küseneñ Ürta Töymä Ğämäle"
+
+#. i18n: file kdesktop.kcfg line 94
+#: rc.cpp:164
+#, no-c-format
+msgid ""
+"You can choose what happens when you click the middle button of your pointing "
+"device on the desktop."
+msgstr ""
+"Çirtkeç cıhazıñnıñ urta töymäse belän östälgä çertkän çaqta närsä eşlärgä "
+"kiräklegen saylarğa da bula."
+
+#. i18n: file kdesktop.kcfg line 98
+#: rc.cpp:167
+#, no-c-format
+msgid "Right Mouse Button Action"
+msgstr "Küseneñ Uñ Töymä Ğämäle"
+
+#. i18n: file kdesktop.kcfg line 99
+#: rc.cpp:170
+#, no-c-format
+msgid ""
+"You can choose what happens when you click the right button of your pointing "
+"device on the desktop."
+msgstr ""
+"Çirtkeç cıhazıñnıñ uñ töymäse belän östälgä çertkän çaqta närsä eşlärgä "
+"kiräklegen saylarğa da bula."
+
+#. i18n: file kdesktop.kcfg line 105
+#: rc.cpp:173
 #, no-c-format
 msgid "KDE major version number"
 msgstr "KDE sörem sanınıñ töp öleşe"
 
-#. i18n: file kdesktop.kcfg line 100
-#: rc.cpp:165
+#. i18n: file kdesktop.kcfg line 110
+#: rc.cpp:177
 #, no-c-format
 msgid "KDE minor version number"
 msgstr "KDE sörem sanınıñ östämä öleşe"
 
-#. i18n: file kdesktop.kcfg line 105
-#: rc.cpp:169
+#. i18n: file kdesktop.kcfg line 115
+#: rc.cpp:181
 #, no-c-format
 msgid "KDE release version number"
 msgstr "KDE cıyu söremeneñ sanı"
 
-#. i18n: file kdesktop.kcfg line 112
-#: rc.cpp:173
+#. i18n: file kdesktop.kcfg line 122
+#: rc.cpp:185
 #, no-c-format
 msgid "Normal text color used for icon labels"
 msgstr "İkon yazmalarına mätenneñ tösen qullanası"
 
-#. i18n: file kdesktop.kcfg line 116
-#: rc.cpp:177
+#. i18n: file kdesktop.kcfg line 126
+#: rc.cpp:189
 #, no-c-format
 msgid "Background color used for icon labels"
 msgstr "İkon yazmalarına asyaq tösen qullanası"
 
-#. i18n: file kdesktop.kcfg line 121
-#: rc.cpp:181
+#. i18n: file kdesktop.kcfg line 131
+#: rc.cpp:193
 #, no-c-format
 msgid "Enable text shadow"
 msgstr "Yazma tösmerläwen sälätli"
 
-#. i18n: file kdesktop.kcfg line 122
-#: rc.cpp:184
+#. i18n: file kdesktop.kcfg line 132
+#: rc.cpp:196
 #, no-c-format
-msgid "Check here to enable a shadow outline around the desktop font. This also improves the readability of the desktop text against backgrounds of a similar color."
-msgstr "Eş östäle xäreflären tiräli külägäläw mömkinlegen monda tamğalağız. Ul eş östäle tekstınıñ berdäy töstäge fonda uqılışın da yaxşırtır."
-
-#. i18n: file kdesktop.kcfg line 135
-#: rc.cpp:189
-#, no-c-format
-msgid "Show hidden files"
-msgstr "Yäşeren birem kürsätäse"
-
-#. i18n: file kdesktop.kcfg line 136
-#: rc.cpp:192
-#, no-c-format
-msgid "<p>If you check this option, any files in your desktop directory that begin with a period (.) will be shown. Usually, such files contain configuration information, and remain hidden from view.</p>\\n<p>For example, files which are named \\\".directory\\\" are plain text files which contain information for Konqueror, such as the icon to use in displaying a directory, the order in which files should be sorted, etc. You should not change or delete these files unless you know what you are doing.</p>"
-msgstr "<p>Bu köylämä açıq bulsa, noqta (.) belän başlanğan biremnär östäldä kürengän bulır. Ğädättä isä, andí biremnär caylawlarnı saqlaw öçen qullanılıp, kürenmäslek yäşerelgän bula.</p>\\n<p>ü.ö., \\\".directory\\\" itep atalağan biremnärdä Konqueror öçen belem saqlana, alar arasında: törgäklärne nindi ikon belän kürsätäse, biremnärne niçegräk tezäse, w.b. Ni eşlägäneñ belmägän çaqta, bu biremnärne üzgärtergä/beterergä kiräkmi.</p>"
-
-#. i18n: file kdesktop.kcfg line 140
-#: rc.cpp:195
-#, no-c-format
-msgid "Align direction"
-msgstr "Urnaşılu yünäleşe"
-
-#. i18n: file kdesktop.kcfg line 141
-#: rc.cpp:198
-#, no-c-format
-msgid "If this is enabled, icons are aligned vertically, otherwise horizontally."
-msgstr "Bu açılğan bulsa, ikonnar asama buyınça tezeler, yä isä inde yatma buyınça."
+msgid ""
+"Check here to enable a shadow outline around the desktop font. This also "
+"improves the readability of the desktop text against backgrounds of a similar "
+"color."
+msgstr ""
+"Eş östäle xäreflären tiräli külägäläw mömkinlegen monda tamğalağız. Ul eş "
+"östäle tekstınıñ berdäy töstäge fonda uqılışın da yaxşırtır."
 
 #. i18n: file kdesktop.kcfg line 145
 #: rc.cpp:201
 #, no-c-format
-msgid "Show Icon Previews For"
-msgstr "Boları öçen Kürep alu İkonın Kürsätäse"
+msgid "Show hidden files"
+msgstr "Yäşeren birem kürsätäse"
 
 #. i18n: file kdesktop.kcfg line 146
 #: rc.cpp:204
 #, no-c-format
+msgid ""
+"<p>If you check this option, any files in your desktop directory that begin "
+"with a period (.) will be shown. Usually, such files contain configuration "
+"information, and remain hidden from view.</p>\\n"
+"<p>For example, files which are named \\\".directory\\\" are plain text files "
+"which contain information for Konqueror, such as the icon to use in displaying "
+"a directory, the order in which files should be sorted, etc. You should not "
+"change or delete these files unless you know what you are doing.</p>"
+msgstr ""
+"<p>Bu köylämä açıq bulsa, noqta (.) belän başlanğan biremnär östäldä kürengän "
+"bulır. Ğädättä isä, andí biremnär caylawlarnı saqlaw öçen qullanılıp, "
+"kürenmäslek yäşerelgän bula.</p>\\n"
+"<p>ü.ö., \\\".directory\\\" itep atalağan biremnärdä Konqueror öçen belem "
+"saqlana, alar arasında: törgäklärne nindi ikon belän kürsätäse, biremnärne "
+"niçegräk tezäse, w.b. Ni eşlägäneñ belmägän çaqta, bu biremnärne "
+"üzgärtergä/beterergä kiräkmi.</p>"
+
+#. i18n: file kdesktop.kcfg line 150
+#: rc.cpp:207
+#, no-c-format
+msgid "Align direction"
+msgstr "Urnaşılu yünäleşe"
+
+#. i18n: file kdesktop.kcfg line 151
+#: rc.cpp:210
+#, no-c-format
+msgid ""
+"If this is enabled, icons are aligned vertically, otherwise horizontally."
+msgstr ""
+"Bu açılğan bulsa, ikonnar asama buyınça tezeler, yä isä inde yatma buyınça."
+
+#. i18n: file kdesktop.kcfg line 155
+#: rc.cpp:213
+#, no-c-format
+msgid "Show Icon Previews For"
+msgstr "Boları öçen Kürep alu İkonın Kürsätäse"
+
+#. i18n: file kdesktop.kcfg line 156
+#: rc.cpp:216
+#, no-c-format
 msgid "Select for which types of files you want to enable preview images."
 msgstr "Alküreneş kürergä telägän birem törlären sayla."
 
-#. i18n: file kdesktop.kcfg line 160
-#: rc.cpp:207
+#. i18n: file kdesktop.kcfg line 170
+#: rc.cpp:219
 #, no-c-format
 msgid "Sort criterion"
 msgstr "Tezü cayı"
 
-#. i18n: file kdesktop.kcfg line 161
-#: rc.cpp:210
-#, no-c-format
-msgid "Sets the sort criterion. Possible choices are NameCaseSensitive = 0, NameCaseInsensitive = 1, Size = 2, Type = 3, Date = 4."
-msgstr "Tezü tärtiben bilgeli. Quyıp bula torğannarı bu: NameCaseSensitive = 0, NameCaseInsensitive = 1, Size = 2, Type = 3, Date = 4."
-
-#. i18n: file kdesktop.kcfg line 166
-#: rc.cpp:216
-#, no-c-format
-msgid "Enable this to place directories in front of the sorted list, otherwise they are amongst the files."
-msgstr "Monı açqaç, törgäklär tärtiplängän tezmäneñ başında urnaşılırlar, yä isä biremnärdañ soñ."
-
 #. i18n: file kdesktop.kcfg line 171
 #: rc.cpp:222
 #, no-c-format
-msgid "Check this option if you want to keep your icons from moving."
-msgstr "Check this option if you want to keep your icons from moving.Bu köylämne açıp, ikonnarnı küçerüdän saqlap bula."
+msgid ""
+"Sets the sort criterion. Possible choices are NameCaseSensitive = 0, "
+"NameCaseInsensitive = 1, Size = 2, Type = 3, Date = 4."
+msgstr ""
+"Tezü tärtiben bilgeli. Quyıp bula torğannarı bu: NameCaseSensitive = 0, "
+"NameCaseInsensitive = 1, Size = 2, Type = 3, Date = 4."
 
-#. i18n: file kdesktop.kcfg line 192
-#: rc.cpp:229
+#. i18n: file kdesktop.kcfg line 176
+#: rc.cpp:228
+#, no-c-format
+msgid ""
+"Enable this to place directories in front of the sorted list, otherwise they "
+"are amongst the files."
+msgstr ""
+"Monı açqaç, törgäklär tärtiplängän tezmäneñ başında urnaşılırlar, yä isä "
+"biremnärdañ soñ."
+
+#. i18n: file kdesktop.kcfg line 181
+#: rc.cpp:234
+#, no-c-format
+msgid "Check this option if you want to keep your icons from moving."
+msgstr ""
+"Check this option if you want to keep your icons from moving.Bu köylämne açıp, "
+"ikonnarnı küçerüdän saqlap bula."
+
+#. i18n: file kdesktop.kcfg line 202
+#: rc.cpp:241
 #, no-c-format
 msgid "Device Types to exclude"
 msgstr "Kürsätelmi torğan Cıhaz Törläre"
 
-#. i18n: file kdesktop.kcfg line 193
-#: rc.cpp:232
+#. i18n: file kdesktop.kcfg line 203
+#: rc.cpp:244
 #, no-c-format
 msgid "The device types which you do not want to see on the desktop."
 msgstr "Östäldä küräse kilmägän cıhaz törläre."
 
-#. i18n: file kdesktop.kcfg line 201
-#: rc.cpp:235
+#. i18n: file kdesktop.kcfg line 211
+#: rc.cpp:247
 #, no-c-format
 msgid "Current application's menu bar (Mac OS-style)"
 msgstr "Biredäge yazılımnıñ saylağı (Mac OS'ta kebek)"
 
-#. i18n: file kdesktop.kcfg line 202
-#: rc.cpp:238
+#. i18n: file kdesktop.kcfg line 212
+#: rc.cpp:250
 #, no-c-format
-msgid "If this option is selected, applications will not have their menu bar attached to their own window anymore. Instead, there is one menu bar at the top of the screen which shows the menus of the currently active application. You might recognize this behavior from Mac OS."
-msgstr "Bu saylanğan bulsa, eştä bulğan yazılımnıñ saylaq tiräse üz täräzädä tügel, Mac OS'ta bkebek, küräk östendäge saylaq tiräsendä bulaçaq."
+msgid ""
+"If this option is selected, applications will not have their menu bar attached "
+"to their own window anymore. Instead, there is one menu bar at the top of the "
+"screen which shows the menus of the currently active application. You might "
+"recognize this behavior from Mac OS."
+msgstr ""
+"Bu saylanğan bulsa, eştä bulğan yazılımnıñ saylaq tiräse üz täräzädä tügel, Mac "
+"OS'ta bkebek, küräk östendäge saylaq tiräsendä bulaçaq."
 
-#. i18n: file kdesktop.kcfg line 208
-#: rc.cpp:241
+#. i18n: file kdesktop.kcfg line 218
+#: rc.cpp:253
 #, no-c-format
 msgid "Desktop menu bar"
 msgstr "Östäl saylaq tiräse"
 
-#. i18n: file kdesktop.kcfg line 209
-#: rc.cpp:244
+#. i18n: file kdesktop.kcfg line 219
+#: rc.cpp:256
 #, no-c-format
-msgid "If this option is selected, there is one menu bar at the top of the screen which shows the desktop menus."
-msgstr "Bu saylanğan bulsa, östäl saylaqların kürsätkän saylaqtirä küräk östendä bulaçaq."
+msgid ""
+"If this option is selected, there is one menu bar at the top of the screen "
+"which shows the desktop menus."
+msgstr ""
+"Bu saylanğan bulsa, östäl saylaqların kürsätkän saylaqtirä küräk östendä "
+"bulaçaq."
 
-#. i18n: file kdesktop.kcfg line 215
-#: rc.cpp:247
+#. i18n: file kdesktop.kcfg line 225
+#: rc.cpp:259
 #, no-c-format
 msgid "Enable screen saver"
 msgstr "Küräk saqlawçısın sälätlä"
 
-#. i18n: file kdesktop.kcfg line 216
-#: rc.cpp:250
+#. i18n: file kdesktop.kcfg line 226
+#: rc.cpp:262
 #, no-c-format
 msgid "Enables the screen saver."
 msgstr "Küräk saqlawçısın sälätli."
 
-#. i18n: file kdesktop.kcfg line 220
-#: rc.cpp:253
+#. i18n: file kdesktop.kcfg line 230
+#: rc.cpp:265
 #, no-c-format
 msgid "Screen saver timeout"
 msgstr "Küräk saqlawçınıñ kötü arası"
 
-#. i18n: file kdesktop.kcfg line 221
-#: rc.cpp:256
+#. i18n: file kdesktop.kcfg line 231
+#: rc.cpp:268
 #, no-c-format
 msgid "Sets the seconds after which the screen saver is started."
 msgstr "Küräk saqlağıçın niçä sekundtan soñ cibäräsen bilgeli."
+
+#. i18n: file kdesktop.kcfg line 235
+#: rc.cpp:271
+#, no-c-format
+msgid "Disable screen saver during presentation or TV"
+msgstr ""
+
+#. i18n: file kdesktop.kcfg line 236
+#: rc.cpp:274
+#, fuzzy, no-c-format
+msgid ""
+"Enable this option if you want to disable the screen saver while watching TV or "
+"movies."
+msgstr "Monı açıp, asyaq öçen bülenäçäk alxäter külämen çiklärgä bula."

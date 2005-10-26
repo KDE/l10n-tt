@@ -50,7 +50,8 @@ msgid "Select Filename"
 msgstr "Birem Adın Saylaw"
 
 #: debugger.cpp:119
-msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgid ""
+"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "%1 atlı birem bar inde. Anıñ östennän yazıp almaştırasımı?"
 
 #: debugger.cpp:121
@@ -73,11 +74,14 @@ msgstr "Yaraqlı kireez yasap bilmadı."
 #: debugger.cpp:143
 msgid ""
 "This backtrace appears to be of no use.\n"
-"This is probably because your packages are built in a way which prevents creation of proper backtraces, or the stack frame was seriously corrupted in the crash.\n"
+"This is probably because your packages are built in a way which prevents "
+"creation of proper backtraces, or the stack frame was seriously corrupted in "
+"the crash.\n"
 "\n"
 msgstr ""
 "Bu kireez biremen qullanıp bulmí axrısı.\n"
-"Biredäge tuplamalar kireez biremen yasalmaslıq cíılğan, yä ki işelgändä stak qısası qatı bozılğan buluı bar.\n"
+"Biredäge tuplamalar kireez biremen yasalmaslıq cíılğan, yä ki işelgändä stak "
+"qısası qatı bozılğan buluı bar.\n"
 "\n"
 
 #: debugger.cpp:152
@@ -95,12 +99,16 @@ msgstr ""
 #: debugger.cpp:177
 msgid ""
 "\n"
-"As the usage of these options is not recommended - because they can, in rare cases, be responsible for KDE problems - a backtrace will not be generated.\n"
-"You need to turn these options off and reproduce the problem again in order to get a backtrace.\n"
+"As the usage of these options is not recommended - because they can, in rare "
+"cases, be responsible for KDE problems - a backtrace will not be generated.\n"
+"You need to turn these options off and reproduce the problem again in order to "
+"get a backtrace.\n"
 msgstr ""
 "\n"
-"Bu köylämä qullanu kiñäş itelmi, çönki qayber siräk oçraqlarda ul KDE'dä qíınlıqlar çığuınıñ säbäbe bula ala, kireez dä yasalmayaçaq.\n"
-"Kireez yasísı bulsa, bu köylämäne sünderep, şul qíınlıqnı qabat çığarıp qarísı bula.\n"
+"Bu köylämä qullanu kiñäş itelmi, çönki qayber siräk oçraqlarda ul KDE'dä "
+"qíınlıqlar çığuınıñ säbäbe bula ala, kireez dä yasalmayaçaq.\n"
+"Kireez yasísı bulsa, bu köylämäne sünderep, şul qíınlıqnı qabat çığarıp qarísı "
+"bula.\n"
 
 #: debugger.cpp:182
 msgid "Backtrace will not be created."
@@ -111,8 +119,10 @@ msgid "Loading symbols..."
 msgstr "Bilgelär yökläw..."
 
 #: debugger.cpp:212
-msgid "System configuration startup check disabled.\n"
-msgstr "Cibärelgändä sistem caylawın tikşerü sünek.\n"
+msgid ""
+"System configuration startup check disabled.\n"
+msgstr ""
+"Cibärelgändä sistem caylawın tikşerü sünek.\n"
 
 #: drbugreport.cpp:54
 msgid "You have to edit the description before the report can be sent."
@@ -204,11 +214,19 @@ msgstr "<p><b>Yazılım işelde</b></p><p>%appname yazılımı ışelde.</p>"
 
 #: toplevel.cpp:135
 msgid ""
-"<p>Do you want to generate a backtrace? This will help the developers to figure out what went wrong.</p>\n"
-"<p>Unfortunately this will take some time on slow machines.</p><p><b>Note: A backtrace is not a substitute for a proper description of the bug and information on how to reproduce it. It is not possible to fix the bug without a proper description.</b></p>"
+"<p>Do you want to generate a backtrace? This will help the developers to figure "
+"out what went wrong.</p>\n"
+"<p>Unfortunately this will take some time on slow machines.</p>"
+"<p><b>Note: A backtrace is not a substitute for a proper description of the bug "
+"and information on how to reproduce it. It is not possible to fix the bug "
+"without a proper description.</b></p>"
 msgstr ""
-"<p>Kireez yasísı kiläme? Alay bulsa, citeşterüçelärenä ni kilep çıqqanın añlaw ciñelräk bulaçaq.</p>\n"
-"<p>Bu eş äkren sanaqlarda ozaq bara qızğanıçqa qarşı.</p><p><b>Belderü: Betneñ kireeze anı turında açıqlawçı yomğaq belän anı qabar buldıru ısulın añlatuın tulısınça almştıra almí. Tulı açıqlama birelmäsä, betne beterep bulmí.</b></p>"
+"<p>Kireez yasísı kiläme? Alay bulsa, citeşterüçelärenä ni kilep çıqqanın añlaw "
+"ciñelräk bulaçaq.</p>\n"
+"<p>Bu eş äkren sanaqlarda ozaq bara qızğanıçqa qarşı.</p>"
+"<p><b>Belderü: Betneñ kireeze anı turında açıqlawçı yomğaq belän anı qabar "
+"buldıru ısulın añlatuın tulısınça almştıra almí. Tulı açıqlama birelmäsä, betne "
+"beterep bulmí.</b></p>"
 
 #: toplevel.cpp:147
 msgid "Include Backtrace"
@@ -229,4 +247,3 @@ msgstr "Kireez ürçätep bulıp çıqmadı."
 #: toplevel.cpp:216
 msgid "Backtrace Not Possible"
 msgstr "Kiregä Ezläp Bulmí"
-

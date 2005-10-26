@@ -13,5 +13,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: menuapplet.cpp:342
-msgid "You do not appear to have enabled the standalone menubar; enable it in the Behavior control module for desktop."
-msgstr "Bäysez saylaqtirä kürsätü sünek kileş tora. Anı kürsätü östälneñ Çağılış digän caylaw modulında yandırıp bula."
+msgid ""
+"You do not appear to have enabled the standalone menubar; enable it in the "
+"Behavior control module for desktop."
+msgstr ""
+"Bäysez saylaqtirä kürsätü sünek kileş tora. Anı kürsätü östälneñ Çağılış digän "
+"caylaw modulında yandırıp bula."

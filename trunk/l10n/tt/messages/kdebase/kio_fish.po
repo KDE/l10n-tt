@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kio_fish\n"
-"POT-Creation-Date: 2005-06-18 01:28+0200\n"
+"POT-Creation-Date: 2005-09-21 02:57+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,22 +12,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: fish.cpp:306
+#: fish.cpp:315
 msgid "Connecting..."
 msgstr "Totaşu..."
 
-#: fish.cpp:554
+#: fish.cpp:563
 msgid "Initiating protocol..."
 msgstr "Protokolnı eşkä äzerläw..."
 
-#: fish.cpp:588
+#: fish.cpp:597
 msgid "Local Login"
 msgstr "Cirle Kerü"
 
-#: fish.cpp:590
+#: fish.cpp:599
 msgid "SSH Authorization"
 msgstr "SSH Tanu eşe"
 
-#: fish.cpp:688
+#: fish.cpp:701
 msgid "Disconnected."
 msgstr "Ayırılğan."

@@ -14,10 +14,12 @@ msgstr ""
 
 #: NaughtyApplet.cpp:112
 msgid ""
-"A program called '%1' is slowing down the others on your machine. It may have a bug that is causing this, or it may just be busy.\n"
+"A program called '%1' is slowing down the others on your machine. It may have a "
+"bug that is causing this, or it may just be busy.\n"
 "Would you like to try to stop the program?"
 msgstr ""
-"'%1' digän yazılım bu sistem eşen äkrenäytä. Anıñ böcäge buluınnan da alay bulıp çığuı bar, yä ki ul üzennän üze şulay eşli.\n"
+"'%1' digän yazılım bu sistem eşen äkrenäytä. Anıñ böcäge buluınnan da alay "
+"bulıp çığuı bar, yä ki ul üzennän üze şulay eşli.\n"
 "Ul yazılımnı tuqtatıp qarísı kilmime?"
 
 #: NaughtyApplet.cpp:117

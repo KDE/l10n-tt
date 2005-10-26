@@ -30,7 +30,8 @@ msgstr "Bar Basaqlar"
 
 #: kjobviewer.cpp:130
 msgid "There is no default printer. Start with --all to see all printers."
-msgstr "Töp itep bilgelängän basaq yuq. Bar basaqlar kürü öçen, --all belän cibäräse."
+msgstr ""
+"Töp itep bilgelängän basaq yuq. Bar basaqlar kürü öçen, --all belän cibäräse."
 
 #: kjobviewer.cpp:130
 msgid "Print Error"

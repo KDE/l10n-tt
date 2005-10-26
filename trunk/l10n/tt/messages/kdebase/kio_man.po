@@ -26,11 +26,21 @@ msgstr "tatarish-l10n@gmail.com"
 
 #: kio_man.cpp:453
 msgid ""
-"No man page matching to %1 found.<br><br>Check that you have not mistyped the name of the page that you want.\n"
-"Be careful that you must take care about upper case and lower case characters!<br>If everything looks correct, then perhaps you need to set a better search path for man pages, be it by the environment variable MANPATH or a matching file in the directory /etc ."
+"No man page matching to %1 found."
+"<br>"
+"<br>Check that you have not mistyped the name of the page that you want.\n"
+"Be careful that you must take care about upper case and lower case characters!"
+"<br>If everything looks correct, then perhaps you need to set a better search "
+"path for man pages, be it by the environment variable MANPATH or a matching "
+"file in the directory /etc ."
 msgstr ""
-"%1 belän kileşkän qullanmalar yuq<br><br>Telängän bit adın kertkändä xatalar kertelgän bulmağanın tikşerep alası.\n"
-"Olı/keçe xäreflär kertkändä saq bulası!<br>Barısı da tieşleçä kürengän çaqta, qullanma ezläw yulı da tieşleçä köylängän buluın tikşerep alası, MANPATH üzgärelmäsendä äytelgän yullar buyınça ul tabılırğa tieş."
+"%1 belän kileşkän qullanmalar yuq"
+"<br>"
+"<br>Telängän bit adın kertkändä xatalar kertelgän bulmağanın tikşerep alası.\n"
+"Olı/keçe xäreflär kertkändä saq bulası!"
+"<br>Barısı da tieşleçä kürengän çaqta, qullanma ezläw yulı da tieşleçä "
+"köylängän buluın tikşerep alası, MANPATH üzgärelmäsendä äytelgän yullar buyınça "
+"ul tabılırğa tieş."
 
 #: kio_man.cpp:484
 msgid "Open of %1 failed."
@@ -49,8 +59,13 @@ msgid "There is more than one matching man page."
 msgstr "Berdän artıq kileşkän man-bit tabıldı."
 
 #: kio_man.cpp:621
-msgid "Note: if you read a man page in your language, be aware it can contain some mistakes or be obsolete. In case of doubt, you should have a look at the English version."
-msgstr "Belderü: qullanma bite üz telendä uqılğanda, ul xatalar belän yä ki iskergän bula aluın istä totası. Alay toyıla ikän, İngliz söremen qarap alırğa bula."
+msgid ""
+"Note: if you read a man page in your language, be aware it can contain some "
+"mistakes or be obsolete. In case of doubt, you should have a look at the "
+"English version."
+msgstr ""
+"Belderü: qullanma bite üz telendä uqılğanda, ul xatalar belän yä ki iskergän "
+"bula aluın istä totası. Alay toyıla ikän, İngliz söremen qarap alırğa bula."
 
 #: kio_man.cpp:711
 msgid "User Commands"
@@ -117,8 +132,13 @@ msgid "Generating Index"
 msgstr "İsemlek Ürçetü"
 
 #: kio_man.cpp:1517
-msgid "Could not find the sgml2roff program on your system. Please install it, if necessary, and extend the search path by adjusting the environment variable PATH before starting KDE."
-msgstr "Bu sanaqta sgml2roff digän yazılımın tabıp bulmí. Anı quyası bardır, yä ki KDE cibärgänçe ul yazılımnı tabırlıq itep PATH üzgärelmäsen kiñäytep alası."
+msgid ""
+"Could not find the sgml2roff program on your system. Please install it, if "
+"necessary, and extend the search path by adjusting the environment variable "
+"PATH before starting KDE."
+msgstr ""
+"Bu sanaqta sgml2roff digän yazılımın tabıp bulmí. Anı quyası bardır, yä ki KDE "
+"cibärgänçe ul yazılımnı tabırlıq itep PATH üzgärelmäsen kiñäytep alası."
 
 #: kmanpart.cpp:65
 msgid "KMan"

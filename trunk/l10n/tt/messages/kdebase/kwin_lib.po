@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kwin_lib\n"
-"POT-Creation-Date: 2005-05-18 21:23+0200\n"
+"POT-Creation-Date: 2005-10-08 02:42+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -13,18 +13,21 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: kcommondecoration.cpp:265
-msgid "<center><b>%1 preview</b></center>"
+#, fuzzy
+msgid ""
+"_: %1 is the name of window decoration style\n"
+"<center><b>%1 preview</b></center>"
 msgstr "<center><b>%1 küzläp alu</b></center>"
 
 #: kcommondecoration.cpp:329
 msgid "Menu"
 msgstr "Saylaq"
 
-#: kcommondecoration.cpp:342 kcommondecoration.cpp:527
+#: kcommondecoration.cpp:342 kcommondecoration.cpp:529
 msgid "Not on all desktops"
 msgstr "Bar östäldä dä tügel"
 
-#: kcommondecoration.cpp:342 kcommondecoration.cpp:528
+#: kcommondecoration.cpp:342 kcommondecoration.cpp:530
 msgid "On all desktops"
 msgstr "Bar östäldä dä"
 
@@ -36,29 +39,29 @@ msgstr "Törep quy"
 msgid "Maximize"
 msgstr "Cäyep quy"
 
-#: kcommondecoration.cpp:399 kcommondecoration.cpp:570
+#: kcommondecoration.cpp:399 kcommondecoration.cpp:572
 msgid "Do not keep above others"
 msgstr "Başqalar öständä totamasqa"
 
-#: kcommondecoration.cpp:399 kcommondecoration.cpp:570
-#: kcommondecoration.cpp:594
+#: kcommondecoration.cpp:399 kcommondecoration.cpp:572
+#: kcommondecoration.cpp:596
 msgid "Keep above others"
 msgstr "Başqalar östendä qaldıra"
 
-#: kcommondecoration.cpp:412 kcommondecoration.cpp:587
+#: kcommondecoration.cpp:412 kcommondecoration.cpp:589
 msgid "Do not keep below others"
 msgstr "Başqalar astında totamasqa"
 
-#: kcommondecoration.cpp:412 kcommondecoration.cpp:577
-#: kcommondecoration.cpp:587
+#: kcommondecoration.cpp:412 kcommondecoration.cpp:579
+#: kcommondecoration.cpp:589
 msgid "Keep below others"
 msgstr "Başqalar astında qaldıra"
 
-#: kcommondecoration.cpp:425 kcommondecoration.cpp:539
+#: kcommondecoration.cpp:425 kcommondecoration.cpp:541
 msgid "Unshade"
 msgstr "Külägäsez"
 
-#: kcommondecoration.cpp:425 kcommondecoration.cpp:540
+#: kcommondecoration.cpp:425 kcommondecoration.cpp:542
 msgid "Shade"
 msgstr "Külägäle"
 

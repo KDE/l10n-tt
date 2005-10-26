@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kay\n"
-"POT-Creation-Date: 2005-07-11 01:31+0200\n"
+"POT-Creation-Date: 2005-08-18 04:25+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,40 +12,61 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: notificationdialog.cpp:34
+#: medianotifier.cpp:160
+msgid ""
+"An autorun file as been found on your '%1'. Do you want to execute it?\n"
+"Note that executing a file on a medium may compromise your system's security"
+msgstr ""
+
+#: medianotifier.cpp:164
+#, c-format
+msgid "Autorun - %1"
+msgstr ""
+
+#: medianotifier.cpp:234
+msgid ""
+"An autoopen file as been found on your '%1'. Do you want to open '%2'?\n"
+"Note that opening a file on a medium may compromise your system's security"
+msgstr ""
+
+#: medianotifier.cpp:238
+#, c-format
+msgid "Autoopen - %1"
+msgstr ""
+
+#: notificationdialog.cpp:35
 msgid "Medium Detected"
 msgstr "Cıhaz Tabıldı"
 
-#: notificationdialog.cpp:43
-msgid "<b>Medium Type:</b>"
+#: notificationdialog.cpp:44
+#, fuzzy
+msgid "<b>Medium type:</b>"
 msgstr "<b>Cıhaz Töre:</b>"
 
-#. i18n: file notificationdialogview.ui line 16
-#: rc.cpp:3
-#, no-c-format
-msgid "NotificationDialogView"
-msgstr "NotificationDialogView"
+#: notificationdialog.cpp:58
+msgid "Configure..."
+msgstr ""
 
-#. i18n: file notificationdialogview.ui line 72
-#: rc.cpp:6
+#. i18n: file notificationdialogview.ui line 69
+#: rc.cpp:3
 #, no-c-format
 msgid "A new medium has been detected.<br><b>What do you want to do?</b>"
 msgstr "Yaña cıhaz tabıldı.<br><b>Ni eşlise?</b>"
 
-#. i18n: file notificationdialogview.ui line 93
-#: rc.cpp:9
+#. i18n: file notificationdialogview.ui line 90
+#: rc.cpp:6
 #, no-c-format
 msgid "..."
 msgstr "..."
 
-#. i18n: file notificationdialogview.ui line 106
-#: rc.cpp:12
-#, no-c-format
-msgid "&Always do that for this type of media"
+#. i18n: file notificationdialogview.ui line 103
+#: rc.cpp:9
+#, fuzzy, no-c-format
+msgid "&Always do this for this type of media"
 msgstr "Cıhaznıñ bu töre öçen bonı &barçaqta da eşlise"
 
-#. i18n: file notificationdialogview.ui line 109
-#: rc.cpp:15
-#, no-c-format
-msgid "Alt+A"
-msgstr "Alt+A"
+#~ msgid "NotificationDialogView"
+#~ msgstr "NotificationDialogView"
+
+#~ msgid "Alt+A"
+#~ msgstr "Alt+A"

@@ -21,8 +21,24 @@ msgid "<qt><body><h2>Kasbar Version: %1</h2><b>KDE Version:</b> %2</body></qt>"
 msgstr "<qt><body><h2>Kasbar Söreme: %1</h2><b>KDE Söreme:</b> %2</body></qt>"
 
 #: kasaboutdlg.cpp:164
-msgid "<html><body><p>Kasbar TNG began as a port of the original Kasbar applet to the (then new) extension API, but ended up as a complete rewrite because of the range of features needed by different groups of users. In the process of the rewrite all the standard features provided by the default taskbar were added, along with some more original ones such as thumbnails.</p><p>You can find information about the latest developments in Kasbar at <a href=\"%3\">%4</a>, the Kasbar homepage.</p></body></html>"
-msgstr "<html><body><p>Kasbar TNG original' Kasbar applet portı suzılış API (Qullanma programı yözarası) bularaq başlandı, läkin törle qullanuçılar törkemnärenä kiräk bulğan mömkinleklär küplege arqasında tulısınça yañadan yazu belän bette. Yañadan yazu ğämäle barğanda bar bulğan mäs'älä taqtası tarafınnan östälgän bar standart häm dä qayber original' (mäs. eskizlar) mömkinleklär quşılğan ide.</p><p>Kasbarda iñ soñğı alğarışlar turında mäğlümätne <a href=\"%3\">%4</a>, Kasbar ana bitendä tabarğa bula.</p></body></html>"
+msgid ""
+"<html><body>"
+"<p>Kasbar TNG began as a port of the original Kasbar applet to the (then new) "
+"extension API, but ended up as a complete rewrite because of the range of "
+"features needed by different groups of users. In the process of the rewrite all "
+"the standard features provided by the default taskbar were added, along with "
+"some more original ones such as thumbnails.</p>"
+"<p>You can find information about the latest developments in Kasbar at <a "
+"href=\"%3\">%4</a>, the Kasbar homepage.</p></body></html>"
+msgstr ""
+"<html><body>"
+"<p>Kasbar TNG original' Kasbar applet portı suzılış API (Qullanma programı "
+"yözarası) bularaq başlandı, läkin törle qullanuçılar törkemnärenä kiräk bulğan "
+"mömkinleklär küplege arqasında tulısınça yañadan yazu belän bette. Yañadan yazu "
+"ğämäle barğanda bar bulğan mäs'älä taqtası tarafınnan östälgän bar standart häm "
+"dä qayber original' (mäs. eskizlar) mömkinleklär quşılğan ide.</p>"
+"<p>Kasbarda iñ soñğı alğarışlar turında mäğlümätne <a href=\"%3\">%4</a>"
+", Kasbar ana bitendä tabarğa bula.</p></body></html>"
 
 #: kasaboutdlg.cpp:184
 msgid "Authors"
@@ -33,16 +49,42 @@ msgid "Kasbar Authors"
 msgstr "Kasbar Yazuçıları"
 
 #: kasaboutdlg.cpp:190
-msgid "<html><b>Richard Moore</b> <a href=\"mailto:rich@kde.org\">rich@kde.org</a><br><b>Homepage:</b> <a href=\"http://xmelegance.org/\">http://xmelegance.org/</a><p>Developer and maintainer of the Kasbar TNG code.</p><hr/><b>Daniel M. Duley (Mosfet)</b> <a href=\"mailto:mosfet@kde.org\">mosfet@kde.org</a><br><b>Homepage:</b> <a href=\"http://www.mosfet.org/\">http://www.mosfet.org/</a><p>Mosfet wrote the original Kasbar applet on which this extension is based. There is little of the original code remaining, but the basic look in opaque mode is almost identical to this first implementation.</p></html>"
-msgstr "<html><b>Richard Moore</b> <a href=\"mailto:rich@kde.org\">rich@kde.org</a><br><b>Ana bit:</b> <a href=\"http://xmelegance.org/\">http://xmelegance.org/</a><p>KAsbar TNG kodın alğaruçı häm totuçı.</p><hr/><b>Daniel M. Duley (Mosfet)</b> <a href=\"mailto:mosfet@kde.org\">mosfet@kde.org</a><br><b>Ana bit:</b> <a href=\"http://www.mosfet.org/\">http://www.mosfet.org/</a><p>Mosfet qullanma tayanğan original' Kasbar appletın yazğan. Original' kodtan az närsä qaldı, läkin tonıq torımındağı nigezle küreneş berençe aşırudan ayırılmí diärlek.</p></html>"
+msgid ""
+"<html><b>Richard Moore</b> <a href=\"mailto:rich@kde.org\">rich@kde.org</a>"
+"<br><b>Homepage:</b> <a href=\"http://xmelegance.org/\">"
+"http://xmelegance.org/</a>"
+"<p>Developer and maintainer of the Kasbar TNG code.</p>"
+"<hr/><b>Daniel M. Duley (Mosfet)</b> <a href=\"mailto:mosfet@kde.org\">"
+"mosfet@kde.org</a>"
+"<br><b>Homepage:</b> <a href=\"http://www.mosfet.org/\">"
+"http://www.mosfet.org/</a>"
+"<p>Mosfet wrote the original Kasbar applet on which this extension is based. "
+"There is little of the original code remaining, but the basic look in opaque "
+"mode is almost identical to this first implementation.</p></html>"
+msgstr ""
+"<html><b>Richard Moore</b> <a href=\"mailto:rich@kde.org\">rich@kde.org</a>"
+"<br><b>Ana bit:</b> <a href=\"http://xmelegance.org/\">"
+"http://xmelegance.org/</a>"
+"<p>KAsbar TNG kodın alğaruçı häm totuçı.</p>"
+"<hr/><b>Daniel M. Duley (Mosfet)</b> <a href=\"mailto:mosfet@kde.org\">"
+"mosfet@kde.org</a>"
+"<br><b>Ana bit:</b> <a href=\"http://www.mosfet.org/\">"
+"http://www.mosfet.org/</a>"
+"<p>Mosfet qullanma tayanğan original' Kasbar appletın yazğan. Original' kodtan "
+"az närsä qaldı, läkin tonıq torımındağı nigezle küreneş berençe aşırudan "
+"ayırılmí diärlek.</p></html>"
 
 #: kasaboutdlg.cpp:214
 msgid "BSD License"
 msgstr "BSD Şartnämäse"
 
 #: kasaboutdlg.cpp:216 kasaboutdlg.cpp:242
-msgid "Kasbar may be used under the terms of either the BSD license, or the GNU Public License."
-msgstr "Kasbarnı BSD lisenziası yä ki GNU Cämäğätçel Lisenzia astında qullanırğa mömkin."
+msgid ""
+"Kasbar may be used under the terms of either the BSD license, or the GNU Public "
+"License."
+msgstr ""
+"Kasbarnı BSD lisenziası yä ki GNU Cämäğätçel Lisenzia astında qullanırğa "
+"mömkin."
 
 #: kasaboutdlg.cpp:240
 msgid "GPL License"
@@ -109,8 +151,13 @@ msgid " Pixels"
 msgstr " Noqta"
 
 #: kasprefsdlg.cpp:161
-msgid "Specifies the maximum number of items that should be placed in a line before starting a new row or column. If the value is 0 then all the available space will be used."
-msgstr "Yaña yul yä ki bağana başlar aldınnan yulğa iñ küp niçä maddä kerä alğanın bilgeli. San 0 bulsa, barlıq yaraqlı urın qullanılaçaq."
+msgid ""
+"Specifies the maximum number of items that should be placed in a line before "
+"starting a new row or column. If the value is 0 then all the available space "
+"will be used."
+msgstr ""
+"Yaña yul yä ki bağana başlar aldınnan yulğa iñ küp niçä maddä kerä alğanın "
+"bilgeli. San 0 bulsa, barlıq yaraqlı urın qullanılaçaq."
 
 #: kasprefsdlg.cpp:164
 msgid "Bo&xes per line: "
@@ -170,11 +217,14 @@ msgstr "Töy&mäsürät açası"
 
 #: kasprefsdlg.cpp:246
 msgid ""
-"Enables the display of a thumbnailed image of the window when you move your mouse pointer over an item. The thumbnails are approximate, and may not reflect the current window contents.\n"
+"Enables the display of a thumbnailed image of the window when you move your "
+"mouse pointer over an item. The thumbnails are approximate, and may not reflect "
+"the current window contents.\n"
 "\n"
 "Using this option on a slow machine may cause performance problems."
 msgstr ""
-"Küsene maddä östenä quyğanda eskiz kürsätelgänne sälätlänedrä. Eskizlar yaqınça ğına tögäl häm xäzerge täräzä eçtäleklären kürsätmi.\n"
+"Küsene maddä östenä quyğanda eskiz kürsätelgänne sälätlänedrä. Eskizlar yaqınça "
+"ğına tögäl häm xäzerge täräzä eçtäleklären kürsätmi.\n"
 "\n"
 "Bu mömkinlekne äkren sanaqlarda qullanu eşläw tizlegen kimetä ala."
 
@@ -183,8 +233,11 @@ msgid "&Embed thumbnails"
 msgstr "&Töymäsürätlär berketü"
 
 #: kasprefsdlg.cpp:259
-msgid "Controls the size of the window thumbnails. Using large sizes may cause performance problems."
-msgstr "Täräzä eskizları zurlığın bilgeli. Zur eskiz qullanu eş tizlegen kimetä ala."
+msgid ""
+"Controls the size of the window thumbnails. Using large sizes may cause "
+"performance problems."
+msgstr ""
+"Täräzä eskizları zurlığın bilgeli. Zur eskiz qullanu eş tizlegen kimetä ala."
 
 #: kasprefsdlg.cpp:261
 msgid "Thumbnail &size: "
@@ -192,11 +245,13 @@ msgstr "Töymäsürät &ülçäme: "
 
 #: kasprefsdlg.cpp:271
 msgid ""
-"Controls the frequency with which the thumbnail of the active window is updated. If the value is 0 then no updates will be performed.\n"
+"Controls the frequency with which the thumbnail of the active window is "
+"updated. If the value is 0 then no updates will be performed.\n"
 "\n"
 "Using small values may cause performance problems on slow machines."
 msgstr ""
-"Aktif täräzäneñ eskizı yañartılu yışlığın bilgeli. San 0 bulsa, yañartular başqarılmayaçaq.\n"
+"Aktif täräzäneñ eskizı yañartılu yışlığın bilgeli. San 0 bulsa, yañartular "
+"başqarılmayaçaq.\n"
 "\n"
 "Keçe san bilgeläw äkren sanaqlarda eşläw tizlegen kimetä ala."
 
@@ -225,24 +280,35 @@ msgid "Show all &windows"
 msgstr "Bar &täräzälär kürsätü"
 
 #: kasprefsdlg.cpp:300
-msgid "Enables the display of all windows, not just those on the current desktop."
-msgstr "Xäzerge östäl östendäge täräzälärne genä tügel, barlıq täräzälär kürsätüen sälätländerä."
+msgid ""
+"Enables the display of all windows, not just those on the current desktop."
+msgstr ""
+"Xäzerge östäl östendäge täräzälärne genä tügel, barlıq täräzälär kürsätüen "
+"sälätländerä."
 
 #: kasprefsdlg.cpp:304
 msgid "&Group windows on inactive desktops"
 msgstr "Täräzälär &törkemläw, eşsez öställärdä"
 
 #: kasprefsdlg.cpp:306
-msgid "Enables the grouping together of windows that are not on the current desktop."
-msgstr "Xäzerge östäl östendä bulmağan täräzälärneñ törkemläşterelüen sälätländerä."
+msgid ""
+"Enables the grouping together of windows that are not on the current desktop."
+msgstr ""
+"Xäzerge östäl östendä bulmağan täräzälärneñ törkemläşterelüen sälätländerä."
 
 #: kasprefsdlg.cpp:311
 msgid "Only show &minimized windows"
 msgstr "&Törelgän täräzälär genä kürsätäse"
 
 #: kasprefsdlg.cpp:313
-msgid "When this option is checked only minimized windows are shown in the bar. This gives Kasbar similar behavior to the icon handling in older environments like CDE or OpenLook."
-msgstr "Bu saylanma bilgelänsä, taqtada keçeräytelgän täräzälär genä kürener. Monıñ arqasında Kasbar'nıñ ikonnar belän eşläwe CDE yä ki Open Look kebek iskeräk urtamnardağıraq qılanışına oxşí."
+msgid ""
+"When this option is checked only minimized windows are shown in the bar. This "
+"gives Kasbar similar behavior to the icon handling in older environments like "
+"CDE or OpenLook."
+msgstr ""
+"Bu saylanma bilgelänsä, taqtada keçeräytelgän täräzälär genä kürener. Monıñ "
+"arqasında Kasbar'nıñ ikonnar belän eşläwe CDE yä ki Open Look kebek iskeräk "
+"urtamnardağıraq qılanışına oxşí."
 
 #: kasprefsdlg.cpp:325
 msgid "Colors"
@@ -293,23 +359,33 @@ msgid "Enable &startup notifier"
 msgstr "&Cibärelü beldergeç açası"
 
 #: kasprefsdlg.cpp:405
-msgid "Enables the display of tasks that are starting but have not yet created a window."
-msgstr "Başlana torğan, läkin äle täräzäsen qormağan mäs'älälärneñ kürrsätelgänenen sälätländerä."
+msgid ""
+"Enables the display of tasks that are starting but have not yet created a "
+"window."
+msgstr ""
+"Başlana torğan, läkin äle täräzäsen qormağan mäs'älälärneñ kürrsätelgänenen "
+"sälätländerä."
 
 #: kasprefsdlg.cpp:411
 msgid "Enable &modified indicator"
 msgstr "Ü&zgäreş indikatorın açası"
 
 #: kasprefsdlg.cpp:413
-msgid "Enables the display of a floppy disk state icon for windows containing a modified document."
-msgstr "Eçendä üzgärtelgän istälek bulğan täräzälärdä disket bilgeneñ kürsätelüen sälätländerä."
+msgid ""
+"Enables the display of a floppy disk state icon for windows containing a "
+"modified document."
+msgstr ""
+"Eçendä üzgärtelgän istälek bulğan täräzälärdä disket bilgeneñ kürsätelüen "
+"sälätländerä."
 
 #: kasprefsdlg.cpp:418
 msgid "Enable &progress indicator"
 msgstr "&Alğabarış kürsätüen açası"
 
 #: kasprefsdlg.cpp:420
-msgid "Enables the display of a progress bar in the label of windows show are progress indicators."
+msgid ""
+"Enables the display of a progress bar in the label of windows show are progress "
+"indicators."
 msgstr "Täräzä yazmalarında alğabarış tiräsen kürsätüen açu."
 
 #: kasprefsdlg.cpp:425
@@ -317,7 +393,8 @@ msgid "Enable &attention indicator"
 msgstr "Ü&zgäreş indikatorın açası"
 
 #: kasprefsdlg.cpp:427
-msgid "Enables the display of an icon that indicates a window that needs attention."
+msgid ""
+"Enables the display of an icon that indicates a window that needs attention."
 msgstr "Ähämiät täläp itkän täräzägä kürsätkän ikon kürsätelüen sälätländerä."
 
 #: kasprefsdlg.cpp:431
@@ -325,8 +402,12 @@ msgid "Enable frames for inactive items"
 msgstr "Sünek keremnärne qısa belän kürsätäse"
 
 #: kasprefsdlg.cpp:433
-msgid "Enables frames around inactive items, if you want the bar to disappear into the background you should probably uncheck this option."
-msgstr "Aktif bulmağan maddälär tiräli qısalarnı sälätländerä. Taqtanı arqa planğa yäşerergä teläsäñ, bu saylanmanı bilgelämäskä kiräkter."
+msgid ""
+"Enables frames around inactive items, if you want the bar to disappear into the "
+"background you should probably uncheck this option."
+msgstr ""
+"Aktif bulmağan maddälär tiräli qısalarnı sälätländerä. Taqtanı arqa planğa "
+"yäşerergä teläsäñ, bu saylanmanı bilgelämäskä kiräkter."
 
 #: kastasker.cpp:154
 msgid "Show &All Windows"
@@ -422,8 +503,44 @@ msgid "Value"
 msgstr "Bäyä"
 
 #: kastaskitem.cpp:463
-msgid "<html><body><b>Name</b>: $name<br><b>Visible name</b>: $visibleName<br><br><b>Iconified</b>: $iconified<br><b>Minimized</b>: $minimized<br><b>Maximized</b>: $maximized<br><b>Shaded</b>: $shaded<br><b>Always on top</b>: $alwaysOnTop<br><br><b>Desktop</b>: $desktop<br><b>All desktops</b>: $onAllDesktops<br><br><b>Iconic name</b>: $iconicName<br><b>Iconic visible name</b>: $visibleIconicName<br><br><b>Modified</b>: $modified<br><b>Demands attention</b>: $demandsAttention<br></body></html>"
-msgstr "<html><body><b>Adı</b>: $name<br><b>Kürsätü adı</b>: $visibleName<br><br><b>Tamğalanğan</b>: $iconified<br><b>Törep quyılğan</b>: $minimized<br><b>Cäyep quyılğan</b>: $maximized<br><b>Çornalğan</b>: $shaded<br><b>Barçaqta östä</b>: $alwaysOnTop<br><br><b>Östäl</b>: $desktop<br><b>Bar öställär</b>: $onAllDesktops<br><br><b>Tamğaday adı</b>: $iconicName<br><b>Tamğaday kürsätü adı</b>: $visibleIconicName<br><br><b>Üzgärtelde</b>: $modified<br><b>Tikşerüne soraw</b>: $demandsAttention<br></body></html>"
+msgid ""
+"<html><body><b>Name</b>: $name"
+"<br><b>Visible name</b>: $visibleName"
+"<br>"
+"<br><b>Iconified</b>: $iconified"
+"<br><b>Minimized</b>: $minimized"
+"<br><b>Maximized</b>: $maximized"
+"<br><b>Shaded</b>: $shaded"
+"<br><b>Always on top</b>: $alwaysOnTop"
+"<br>"
+"<br><b>Desktop</b>: $desktop"
+"<br><b>All desktops</b>: $onAllDesktops"
+"<br>"
+"<br><b>Iconic name</b>: $iconicName"
+"<br><b>Iconic visible name</b>: $visibleIconicName"
+"<br>"
+"<br><b>Modified</b>: $modified"
+"<br><b>Demands attention</b>: $demandsAttention"
+"<br></body></html>"
+msgstr ""
+"<html><body><b>Adı</b>: $name"
+"<br><b>Kürsätü adı</b>: $visibleName"
+"<br>"
+"<br><b>Tamğalanğan</b>: $iconified"
+"<br><b>Törep quyılğan</b>: $minimized"
+"<br><b>Cäyep quyılğan</b>: $maximized"
+"<br><b>Çornalğan</b>: $shaded"
+"<br><b>Barçaqta östä</b>: $alwaysOnTop"
+"<br>"
+"<br><b>Östäl</b>: $desktop"
+"<br><b>Bar öställär</b>: $onAllDesktops"
+"<br>"
+"<br><b>Tamğaday adı</b>: $iconicName"
+"<br><b>Tamğaday kürsätü adı</b>: $visibleIconicName"
+"<br>"
+"<br><b>Üzgärtelde</b>: $modified"
+"<br><b>Tikşerüne soraw</b>: $demandsAttention"
+"<br></body></html>"
 
 #: kastaskitem.cpp:499
 msgid "NET WM Specification Info"

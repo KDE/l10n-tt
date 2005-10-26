@@ -37,8 +37,11 @@ msgid "(c) 2002-2003 George Staikos"
 msgstr "(c) 2002-2003 George Staikos"
 
 #: kcmxinerama.cpp:56
-msgid "<h1>Multiple Monitors</h1> This module allows you to configure KDE support for multiple monitors."
-msgstr "<h1>Berniçä Küräk</h1> KDE'neñ berniçä küräk totuın bu modul aşa köyläp bula."
+msgid ""
+"<h1>Multiple Monitors</h1> This module allows you to configure KDE support for "
+"multiple monitors."
+msgstr ""
+"<h1>Berniçä Küräk</h1> KDE'neñ berniçä küräk totuın bu modul aşa köyläp bula."
 
 #: kcmxinerama.cpp:74
 #, c-format
@@ -50,8 +53,14 @@ msgid "Display Containing the Pointer"
 msgstr "Eçendä Uq Bulğan Küräk"
 
 #: kcmxinerama.cpp:103
-msgid "<qt><p>This module is only for configuring systems with a single desktop spread across multiple monitors. You do not appear to have this configuration.</p></qt>"
-msgstr "<qt><p>Berniçä küräk belän eşlägän sistem caylağanda ğına bu modul qullanıla. Biredäge sistem ber genä küräk belän eşli sıman.</p></qt>"
+msgid ""
+"<qt>"
+"<p>This module is only for configuring systems with a single desktop spread "
+"across multiple monitors. You do not appear to have this configuration.</p></qt>"
+msgstr ""
+"<qt>"
+"<p>Berniçä küräk belän eşlägän sistem caylağanda ğına bu modul qullanıla. "
+"Biredäge sistem ber genä küräk belän eşli sıman.</p></qt>"
 
 #: kcmxinerama.cpp:180
 msgid "Your settings will only affect newly started applications."

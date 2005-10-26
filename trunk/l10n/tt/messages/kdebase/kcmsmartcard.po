@@ -41,14 +41,20 @@ msgstr "Bulırlıq Säbäp"
 #, no-c-format
 msgid ""
 "\n"
-"1) The KDE daemon, 'kded' is not running. You can restart it by running the command 'kdeinit' and then try reloading the KDE Control Center to see if this message goes away.\n"
+"1) The KDE daemon, 'kded' is not running. You can restart it by running the "
+"command 'kdeinit' and then try reloading the KDE Control Center to see if this "
+"message goes away.\n"
 "\n"
-"2) You don't appear to have smartcard support in the KDE libraries. You will need to recompile the kdelibs package with libpcsclite installed."
+"2) You don't appear to have smartcard support in the KDE libraries. You will "
+"need to recompile the kdelibs package with libpcsclite installed."
 msgstr ""
 "\n"
-"1) 'kded' atlı KDE xezmäte cibärelgän tügel. Anı 'kdeinit' boyırığı belän yañadan cibärep bula, şunnan soñ KDE'neñ Caylaw Üzägen dä qabar cibärep, bu belderü betkänen tikşerep bula.\n"
+"1) 'kded' atlı KDE xezmäte cibärelgän tügel. Anı 'kdeinit' boyırığı belän "
+"yañadan cibärep bula, şunnan soñ KDE'neñ Caylaw Üzägen dä qabar cibärep, bu "
+"belderü betkänen tikşerep bula.\n"
 "\n"
-"2) KDE tuplamalar smartcard totmíça cíılğan buluı bar, ul çaqta libpcsclite quyıp, kdelibs tuplamasın yañadan cíıp qarísı bula."
+"2) KDE tuplamalar smartcard totmíça cíılğan buluı bar, ul çaqta libpcsclite "
+"quyıp, kdelibs tuplamasın yañadan cíıp qarísı bula."
 
 #. i18n: file smartcardbase.ui line 31
 #: rc.cpp:15
@@ -71,8 +77,12 @@ msgstr "Kart waqíğaların sizü öçen &soraştırunı açası"
 #. i18n: file smartcardbase.ui line 64
 #: rc.cpp:24
 #, no-c-format
-msgid "In most cases you should have this enabled. It allows KDE to automatically detect card insertion and reader hotplug events."
-msgstr "Küp oçraqlarda bonı yanıq totası. Ul çaqta kart tığılu/uqılu waqíğaların KDE üze sızep toraçaq."
+msgid ""
+"In most cases you should have this enabled. It allows KDE to automatically "
+"detect card insertion and reader hotplug events."
+msgstr ""
+"Küp oçraqlarda bonı yanıq totası. Ul çaqta kart tığılu/uqılu waqíğaların KDE "
+"üze sızep toraçaq."
 
 #. i18n: file smartcardbase.ui line 92
 #: rc.cpp:27
@@ -83,8 +93,12 @@ msgstr "Tığılğan kart endäşmäsä kart citäkçesen üzennän &cibäräse"
 #. i18n: file smartcardbase.ui line 95
 #: rc.cpp:30
 #, no-c-format
-msgid "When you insert a smartcard, KDE can automatically launch a management tool if no other application attempts to use the card."
-msgstr "SmartCard tığılğanda, anı qullanu öçen KDE berär citäkçesen yä başqa yazılımnı cibärä ala."
+msgid ""
+"When you insert a smartcard, KDE can automatically launch a management tool if "
+"no other application attempts to use the card."
+msgstr ""
+"SmartCard tığılğanda, anı qullanu öçen KDE berär citäkçesen yä başqa yazılımnı "
+"cibärä ala."
 
 #. i18n: file smartcardbase.ui line 106
 #: rc.cpp:33
@@ -131,8 +145,11 @@ msgstr "PCSCLite Caylawı"
 #. i18n: file smartcardbase.ui line 251
 #: rc.cpp:54
 #, no-c-format
-msgid "To add new readers you have to modify /etc/readers.conf file and re-start pcscd"
-msgstr "Yaña uqıtqıç östäw öçen /etc/readers.conf biremen üzgärtep, pcscd yañadan cibärergä kiräk"
+msgid ""
+"To add new readers you have to modify /etc/readers.conf file and re-start pcscd"
+msgstr ""
+"Yaña uqıtqıç östäw öçen /etc/readers.conf biremen üzgärtep, pcscd yañadan "
+"cibärergä kiräk"
 
 #: smartcard.cpp:59
 msgid "kcmsmartcard"
@@ -179,5 +196,11 @@ msgid "No module managing this card"
 msgstr "Bu kard citäkläwçe modul yuq"
 
 #: smartcard.cpp:381
-msgid "<h1>smartcard</h1> This module allows you to configure KDE support for smartcards. These can be used for various tasks such as storing SSL certificates and logging in to the system."
-msgstr "<h1>SmartCard</h1> KDE'neñ SmartCard totuın bu modul aşa köyläp bula. Alar törle eşlär öçen qullanıla ala, alar arasında SSL tanıqlıqlar saqlaw öçen da, sistemgä kerü."
+msgid ""
+"<h1>smartcard</h1> This module allows you to configure KDE support for "
+"smartcards. These can be used for various tasks such as storing SSL "
+"certificates and logging in to the system."
+msgstr ""
+"<h1>SmartCard</h1> KDE'neñ SmartCard totuın bu modul aşa köyläp bula. Alar "
+"törle eşlär öçen qullanıla ala, alar arasında SSL tanıqlıqlar saqlaw öçen da, "
+"sistemgä kerü."

@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmaccess\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2005-09-09 02:47+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,188 +12,270 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: kcmaccess.cpp:122
+#: kcmaccess.cpp:186
 msgid "AltGraph"
 msgstr "AltGraph"
 
-#: kcmaccess.cpp:124
+#: kcmaccess.cpp:188
 msgid "Hyper"
 msgstr "Hyper"
 
-#: kcmaccess.cpp:126
+#: kcmaccess.cpp:190
 msgid "Super"
 msgstr "Super"
 
-#: kcmaccess.cpp:140
+#: kcmaccess.cpp:204
 msgid "Press %1 while NumLock, CapsLock and ScrollLock are active"
 msgstr "NumLock, CapsLock belän ScrollLock açıq torğanda %1 Basu"
 
-#: kcmaccess.cpp:142
+#: kcmaccess.cpp:206
 msgid "Press %1 while CapsLock and ScrollLock are active"
 msgstr "CapsLock belän ScrollLock açıq torğanda %1 Basu"
 
-#: kcmaccess.cpp:144
+#: kcmaccess.cpp:208
 msgid "Press %1 while NumLock and ScrollLock are active"
 msgstr "NumLock belän ScrollLock açıq torğanda %1 Basu"
 
-#: kcmaccess.cpp:146
+#: kcmaccess.cpp:210
 msgid "Press %1 while ScrollLock is active"
 msgstr "ScrollLock açıq torğanda %1 Basu"
 
-#: kcmaccess.cpp:149
+#: kcmaccess.cpp:213
 msgid "Press %1 while NumLock and CapsLock are active"
 msgstr "NumLock belän CapsLock açıq torğanda %1 Basu"
 
-#: kcmaccess.cpp:151
+#: kcmaccess.cpp:215
 msgid "Press %1 while CapsLock is active"
 msgstr "CapsLock açıq torğanda %1 Basu"
 
-#: kcmaccess.cpp:153
+#: kcmaccess.cpp:217
 msgid "Press %1 while NumLock is active"
 msgstr "NumLock açıq torğanda %1 Basu"
 
-#: kcmaccess.cpp:155
+#: kcmaccess.cpp:219
 #, c-format
 msgid "Press %1"
 msgstr "%1 Basu"
 
-#: kcmaccess.cpp:165
+#: kcmaccess.cpp:229 kcmaccess.cpp:566
 msgid "kaccess"
 msgstr "kaccess"
 
-#: kcmaccess.cpp:165
+#: kcmaccess.cpp:229 kcmaccess.cpp:567
 msgid "KDE Accessibility Tool"
 msgstr "KDE'neñ Qulaylıq Qoralı"
 
-#: kcmaccess.cpp:167
+#: kcmaccess.cpp:231
 msgid "(c) 2000, Matthias Hoelzer-Kluepfel"
 msgstr "(c) 2000, Matthias Hoelzer-Kluepfel"
 
-#: kcmaccess.cpp:169
+#: kcmaccess.cpp:233
 msgid "Author"
 msgstr "Yazuçı"
 
-#: kcmaccess.cpp:183
+#: kcmaccess.cpp:247
 msgid "Audible Bell"
 msgstr "Tawışlı Zil"
 
-#: kcmaccess.cpp:190
+#: kcmaccess.cpp:254
 msgid "Use &system bell"
 msgstr "&Sistem zilen qullanası"
 
-#: kcmaccess.cpp:192
+#: kcmaccess.cpp:256
 msgid "Us&e customized bell"
 msgstr "Üzençä zil &qullanası"
 
-#: kcmaccess.cpp:194
-msgid "If this option is checked, the default system bell will be used. See the \"System Bell\" control module for how to customize the system bell. Normally, this is just a \"beep\"."
-msgstr "Bu saylanma bilgelängän bulsa, bar bulğan sistem qıñğırawı qullanılır. Sistem qıñğırawın köyläw ısulların beler öçen \"Sistem Qıñğırawı\" idärä bülegenä qara. Ğädättä ul ğädi \"biip\" tawışı ğına."
+#: kcmaccess.cpp:258
+msgid ""
+"If this option is checked, the default system bell will be used. See the "
+"\"System Bell\" control module for how to customize the system bell. Normally, "
+"this is just a \"beep\"."
+msgstr ""
+"Bu saylanma bilgelängän bulsa, bar bulğan sistem qıñğırawı qullanılır. Sistem "
+"qıñğırawın köyläw ısulların beler öçen \"Sistem Qıñğırawı\" idärä bülegenä "
+"qara. Ğädättä ul ğädi \"biip\" tawışı ğına."
 
-#: kcmaccess.cpp:197
-msgid "Check this option if you want to use a customized bell, playing a sound file. If you do this, you will probably want to turn off the system bell.<p> Please note that on slow machines this may cause a \"lag\" between the event causing the bell and the sound being played."
-msgstr "Tawış faylın uynawçı qıñğıraw qullanırğa teläsäñ, monı sayla. Monı eşlämäkçe isäñ, bälki sistem qıñğırawın sünderergä teliseñder.<p> Zínhar, iseñdä tot, äkren sanaqlarda qıñğıraw çaqırğan waqíğasınnan ber arağa soñ qala ala."
+#: kcmaccess.cpp:261
+msgid ""
+"Check this option if you want to use a customized bell, playing a sound file. "
+"If you do this, you will probably want to turn off the system bell."
+"<p> Please note that on slow machines this may cause a \"lag\" between the "
+"event causing the bell and the sound being played."
+msgstr ""
+"Tawış faylın uynawçı qıñğıraw qullanırğa teläsäñ, monı sayla. Monı eşlämäkçe "
+"isäñ, bälki sistem qıñğırawın sünderergä teliseñder."
+"<p> Zínhar, iseñdä tot, äkren sanaqlarda qıñğıraw çaqırğan waqíğasınnan ber "
+"arağa soñ qala ala."
 
-#: kcmaccess.cpp:204
+#: kcmaccess.cpp:268
 msgid "Sound &to play:"
 msgstr "Uynatası &tawış:"
 
-#: kcmaccess.cpp:209
-msgid "If the option \"Use customized bell\" is enabled, you can choose a sound file here. Click \"Browse...\" to choose a sound file using the file dialog."
-msgstr "\"Üzençä zil qullanası\" digän köylämä yanıq torsa, bonda tawış biremen saylap bula. \"Saylaw..\" digän töymägä çirtep, tawış biremen saylaw täräzäse açılaçaq."
+#: kcmaccess.cpp:273
+msgid ""
+"If the option \"Use customized bell\" is enabled, you can choose a sound file "
+"here. Click \"Browse...\" to choose a sound file using the file dialog."
+msgstr ""
+"\"Üzençä zil qullanası\" digän köylämä yanıq torsa, bonda tawış biremen saylap "
+"bula. \"Saylaw..\" digän töymägä çirtep, tawış biremen saylaw täräzäse "
+"açılaçaq."
 
-#: kcmaccess.cpp:226
+#: kcmaccess.cpp:290
 msgid "Visible Bell"
 msgstr "Kürenüçän Zil"
 
-#: kcmaccess.cpp:232
+#: kcmaccess.cpp:296
 msgid "&Use visible bell"
 msgstr "Küreneşle zil &qullanası"
 
-#: kcmaccess.cpp:234
-msgid "This option will turn on the \"visible bell\", i.e. a visible notification shown every time that normally just a bell would occur. This is especially useful for deaf people."
-msgstr "Bu köylämä yanıq torğanda \"kürenmäle zil\" açıla, yäğni naşar işetkän keşelär öçen tawışlı belderügä östämä belderü bulaçaq."
+#: kcmaccess.cpp:298
+msgid ""
+"This option will turn on the \"visible bell\", i.e. a visible notification "
+"shown every time that normally just a bell would occur. This is especially "
+"useful for deaf people."
+msgstr ""
+"Bu köylämä yanıq torğanda \"kürenmäle zil\" açıla, yäğni naşar işetkän keşelär "
+"öçen tawışlı belderügä östämä belderü bulaçaq."
 
-#: kcmaccess.cpp:240
+#: kcmaccess.cpp:304
 msgid "I&nvert screen"
 msgstr "Küräkne &kire it"
 
-#: kcmaccess.cpp:243
-msgid "All screen colors will be inverted for the amount of time specified below."
-msgstr "Asqaraq bilgelängän waqıt eçendä bar töslär kiregä äyländerelgän bulaçaq."
+#: kcmaccess.cpp:307
+msgid ""
+"All screen colors will be inverted for the amount of time specified below."
+msgstr ""
+"Asqaraq bilgelängän waqıt eçendä bar töslär kiregä äyländerelgän bulaçaq."
 
-#: kcmaccess.cpp:245
+#: kcmaccess.cpp:309
 msgid "F&lash screen"
 msgstr "Küräkne &cemeldä"
 
-#: kcmaccess.cpp:247
-msgid "The screen will turn to a custom color for the amount of time specified below."
+#: kcmaccess.cpp:311
+msgid ""
+"The screen will turn to a custom color for the amount of time specified below."
 msgstr "Bonda äytelgän ara eçendä küräk bu üzençä tös belän töslängän bulaçaq."
 
-#: kcmaccess.cpp:253
-msgid "Click here to choose the color used for the \"flash screen\" visible bell."
+#: kcmaccess.cpp:317
+msgid ""
+"Click here to choose the color used for the \"flash screen\" visible bell."
 msgstr "Küräkne cemeldüçe kürenmäle zil öçen qullanılğan tös saylaw."
 
-#: kcmaccess.cpp:260
+#: kcmaccess.cpp:324
 msgid "Duration:"
 msgstr "Eş arası:"
 
-#: kcmaccess.cpp:261 kcmaccess.cpp:314 kcmaccess.cpp:332
+#: kcmaccess.cpp:325 kcmaccess.cpp:426 kcmaccess.cpp:458
 msgid " msec"
 msgstr " msek"
 
-#: kcmaccess.cpp:263
-msgid "Here you can customize the duration of the \"visible bell\" effect being shown."
+#: kcmaccess.cpp:327
+msgid ""
+"Here you can customize the duration of the \"visible bell\" effect being shown."
 msgstr "\"Kürengän zil\" digän närsäneñ eşläw ozınlığın bonda köyläp bula."
 
-#: kcmaccess.cpp:280
+#: kcmaccess.cpp:344
 msgid "&Bell"
 msgstr "&Zil"
 
-#: kcmaccess.cpp:288
+#: kcmaccess.cpp:352
 msgid "S&ticky Keys"
 msgstr "&Yabışmalı Töymä"
 
-#: kcmaccess.cpp:294
+#: kcmaccess.cpp:358
 msgid "Use &sticky keys"
 msgstr "&Yabışqan töymä qullanası"
 
-#: kcmaccess.cpp:299
+#: kcmaccess.cpp:363
 msgid "&Lock sticky keys"
 msgstr "Yabışma töymälär &bikläw"
 
-#: kcmaccess.cpp:302
+#: kcmaccess.cpp:368
+msgid "Turn sticky keys off when two keys are pressed simultaneously"
+msgstr ""
+
+#: kcmaccess.cpp:373
+msgid "Use system bell whenever a modifier gets latched, locked or unlocked"
+msgstr ""
+
+#: kcmaccess.cpp:376
+#, fuzzy
+msgid "Locking Keys"
+msgstr "Yabışma töymälär &bikläw"
+
+#: kcmaccess.cpp:382
+msgid "Use system bell whenever a locking key gets activated or deactivated"
+msgstr ""
+
+#: kcmaccess.cpp:385
+msgid ""
+"Use KDE's system notification mechanism whenever a modifier or locking key "
+"changes its state"
+msgstr ""
+
+#: kcmaccess.cpp:390 kcmaccess.cpp:538
+msgid "Configure System Notification..."
+msgstr ""
+
+#: kcmaccess.cpp:407
+msgid "&Modifier Keys"
+msgstr ""
+
+#: kcmaccess.cpp:414
 msgid "Slo&w Keys"
 msgstr "Töymä Ä&krenäytü"
 
-#: kcmaccess.cpp:308
+#: kcmaccess.cpp:420
 msgid "&Use slow keys"
 msgstr "Äkren töymä &qullanası"
 
-#: kcmaccess.cpp:316
-msgid "Dela&y:"
-msgstr "&Ara:"
+#: kcmaccess.cpp:428
+msgid "Acceptance dela&y:"
+msgstr ""
 
-#: kcmaccess.cpp:320
+#: kcmaccess.cpp:433
+msgid "&Use system bell whenever a key is pressed"
+msgstr ""
+
+#: kcmaccess.cpp:438
+msgid "&Use system bell whenever a key is accepted"
+msgstr ""
+
+#: kcmaccess.cpp:443
+msgid "&Use system bell whenever a key is rejected"
+msgstr ""
+
+#: kcmaccess.cpp:446
 msgid "Bounce Keys"
 msgstr "Sirekü Töymäse"
 
-#: kcmaccess.cpp:326
+#: kcmaccess.cpp:452
 msgid "Use bou&nce keys"
 msgstr "Sikerüçe töymä &qullanası"
 
-#: kcmaccess.cpp:334
-msgid "D&elay:"
-msgstr "&Ara:"
+#: kcmaccess.cpp:460
+msgid "D&ebounce time:"
+msgstr ""
 
-#: kcmaccess.cpp:337
+#: kcmaccess.cpp:465
+msgid "Use the system bell whenever a key is rejected"
+msgstr ""
+
+#: kcmaccess.cpp:483
+#, fuzzy
+msgid "&Keyboard Filters"
+msgstr "&Töylek"
+
+#: kcmaccess.cpp:490 kcmaccess.cpp:554
 msgid "Activation Gestures"
 msgstr "Eşçän İtü Ğämäle"
 
-#: kcmaccess.cpp:343
-msgid "Use gestures for activating the above features"
+#: kcmaccess.cpp:496
+#, fuzzy
+msgid "Use gestures for activating sticky keys and slow keys"
 msgstr "Östäge eşçänleklär küse qılanışları aşa yandırıla"
 
-#: kcmaccess.cpp:347
+#: kcmaccess.cpp:500
 msgid ""
 "Here you can activate keyboard gestures that turn on the following features: \n"
 "Sticky keys: Press Shift key 5 consecutive times\n"
@@ -203,7 +285,7 @@ msgstr ""
 "Yabışqan töymä: Shift töymäsen berber artlı 5 tapqır basu\n"
 "Äkren töymä: Shift töymäsen 8 sekund basıq totu"
 
-#: kcmaccess.cpp:351
+#: kcmaccess.cpp:504
 msgid ""
 "Here you can activate keyboard gestures that turn on the following features: \n"
 "Mouse Keys: %1\n"
@@ -215,23 +297,54 @@ msgstr ""
 "Yabışqan töymä: Shift töymäsen berber artlı 5 tapqır basu\n"
 "Äkren töymä: Shift töymäsen 8 sekund basıq totu"
 
-#: kcmaccess.cpp:358
-msgid "Show a confirmation dialog whenever a gesture is used"
+#: kcmaccess.cpp:509
+msgid "Turn sticky keys and slow keys off after a certain time of inactivity"
+msgstr ""
+
+#: kcmaccess.cpp:515
+msgid " minutes"
+msgstr ""
+
+#: kcmaccess.cpp:517
+msgid "Timeout:"
+msgstr ""
+
+#: kcmaccess.cpp:520
+msgid "Notification"
+msgstr ""
+
+#: kcmaccess.cpp:526
+msgid ""
+"Use the system bell whenever a gesture is used to turn an accessibility feature "
+"on or off"
+msgstr ""
+
+#: kcmaccess.cpp:529
+#, fuzzy
+msgid ""
+"Show a confirmation dialog whenever a keyboard accessibility feature is turned "
+"on or off"
 msgstr "Qılanış qullanğanda kileşü sarağan täräzä kürsätü"
 
-#: kcmaccess.cpp:360
+#: kcmaccess.cpp:531
+#, fuzzy
 msgid ""
-"KDE will show a confirmation dialog whenever a gesture is used if this option is checked.\n"
-"Be carefull do know what yo do if you uncheck it as then the AccessX settings will always be applied without confirmation."
+"If this option is checked, KDE will show a confirmation dialog whenever a "
+"keyboard accessibility feature is turned on or off.\n"
+"Be carefull to know what you are doing if you uncheck it as then the keyboard "
+"accessibility settings will always be applied without confirmation."
 msgstr ""
 "Bu köylämä yanıq torsa, qılanış qılğanda KDE kileşü täräzäsen kürsätäçäk.\n"
-"Anı sünderep quyğanda saq bulası, çönki ul çaqta AccessX caylawları kileşü çığarmíça aşıralaçaq."
+"Anı sünderep quyğanda saq bulası, çönki ul çaqta AccessX caylawları kileşü "
+"çığarmíça aşıralaçaq."
 
-#: kcmaccess.cpp:380
-msgid "&Keyboard"
-msgstr "&Töylek"
+#: kcmaccess.cpp:533
+msgid ""
+"Use KDE's system notification mechanism whenever a keyboard accessibility "
+"feature is turned on or off"
+msgstr ""
 
-#: kcmaccess.cpp:404
+#: kcmaccess.cpp:586
 msgid "*.wav|WAV Files"
 msgstr "*.wav|WAV Bireme"
 
@@ -246,3 +359,9 @@ msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
+
+#~ msgid "Dela&y:"
+#~ msgstr "&Ara:"
+
+#~ msgid "D&elay:"
+#~ msgstr "&Ara:"

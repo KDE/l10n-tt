@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase khelpcenter\n"
-"POT-Creation-Date: 2005-07-09 01:31+0200\n"
+"POT-Creation-Date: 2005-08-10 10:14+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -135,8 +135,10 @@ msgid "Rebuilding cache... done."
 msgstr "Alxäterne tözü... buldı."
 
 #: glossary.cpp:272
-msgid "Unable to show selected glossary entry: unable to open file 'glossary.html.in'!"
-msgstr "Süznämäneñ saylanğan keremen kürsätep bulmí: 'glossary.html.in' bireme açılmí!"
+msgid ""
+"Unable to show selected glossary entry: unable to open file 'glossary.html.in'!"
+msgstr ""
+"Süznämäneñ saylanğan keremen kürsätep bulmí: 'glossary.html.in' bireme açılmí!"
 
 #: glossary.cpp:277
 msgid "See also: "
@@ -151,8 +153,12 @@ msgid "ht://dig"
 msgstr "ht://dig"
 
 #: htmlsearchconfig.cpp:51
-msgid "The fulltext search feature makes use of the ht://dig HTML search engine. You can get ht://dig at the"
-msgstr "Bar HTML-biremnär buyınça ezläwne açıp ht://dig digän ısul qullanıp bulaçaq. Anı bonda tabıp bula: "
+msgid ""
+"The fulltext search feature makes use of the ht://dig HTML search engine. You "
+"can get ht://dig at the"
+msgstr ""
+"Bar HTML-biremnär buyınça ezläwne açıp ht://dig digän ısul qullanıp bulaçaq. "
+"Anı bonda tabıp bula: "
 
 #: htmlsearchconfig.cpp:57
 msgid "Information about where to get the ht://dig package."
@@ -268,8 +274,10 @@ msgid "Missing"
 msgstr "Bulmağan"
 
 #: kcmhelpcenter.cpp:397
-msgid "Document '%1' (%2):\n"
-msgstr "'%1' İstälege (%2):\n"
+msgid ""
+"Document '%1' (%2):\n"
+msgstr ""
+"'%1' İstälege (%2):\n"
 
 #: kcmhelpcenter.cpp:402
 msgid "No document type."
@@ -349,7 +357,8 @@ msgid "Table of &Contents"
 msgstr "&Eçtälek"
 
 #: mainwindow.cpp:225
-msgid "Table of Contents"
+#, fuzzy
+msgid "Table of contents"
 msgstr "Eştälek"
 
 #: mainwindow.cpp:226
@@ -381,7 +390,8 @@ msgid "Decrease Font Sizes"
 msgstr "Yazu Ülçämen Keçeräyt"
 
 #: navigator.cpp:107
-msgid "Clear Search"
+#, fuzzy
+msgid "Clear search"
 msgstr "Ezläwne Buşat"
 
 #: navigator.cpp:115

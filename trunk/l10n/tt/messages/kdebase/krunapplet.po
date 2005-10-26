@@ -31,10 +31,13 @@ msgstr "Baştan, cibäräse boyırıq yä açası URL kertäse bar."
 #: runapplet.cpp:237
 msgid ""
 "Unable to log out properly.\n"
-"The session manager cannot be contacted. You can try to force a shutdown by pressing Ctrl+Alt+Backspace. Note, however, that your current session will not be saved with a forced shutdown."
+"The session manager cannot be contacted. You can try to force a shutdown by "
+"pressing Ctrl+Alt+Backspace. Note, however, that your current session will not "
+"be saved with a forced shutdown."
 msgstr ""
 "Tieşleçä çığıp bulmadı.\n"
-"Sessi idäräçe belän aralaşıp bulmí. Xäzer Ctrl+Alt+Backspace basıp, köçläp tuqtatıp qararğa bula. Köçläp tuqtatqanda biredäge sessi saqlanmí qalaçaq."
+"Sessi idäräçe belän aralaşıp bulmí. Xäzer Ctrl+Alt+Backspace basıp, köçläp "
+"tuqtatıp qararğa bula. Köçläp tuqtatqanda biredäge sessi saqlanmí qalaçaq."
 
 #: runapplet.cpp:268
 msgid ""

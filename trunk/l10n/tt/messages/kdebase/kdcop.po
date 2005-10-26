@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdcop\n"
-"POT-Creation-Date: 2005-05-18 21:23+0200\n"
+"POT-Creation-Date: 2005-08-10 10:14+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -18,26 +18,20 @@ msgstr ""
 msgid "&Extra"
 msgstr "&Olı"
 
-#. i18n: file kdcopview.ui line 17
+#. i18n: file kdcopview.ui line 69
 #: rc.cpp:9
-#, no-c-format
-msgid "kdcopview"
-msgstr "kdcopview"
-
-#. i18n: file kdcopview.ui line 72
-#: rc.cpp:12
 #, no-c-format
 msgid "none"
 msgstr "yuq"
 
-#. i18n: file kdcopview.ui line 97
-#: rc.cpp:15
+#. i18n: file kdcopview.ui line 94
+#: rc.cpp:12
 #, no-c-format
 msgid "Returned data type:"
 msgstr "Qaytarılğan birem töre:"
 
-#. i18n: file kdcopview.ui line 117
-#: rc.cpp:18
+#. i18n: file kdcopview.ui line 114
+#: rc.cpp:15
 #, no-c-format
 msgid "Se&arch:"
 msgstr "&Ezlä:"
@@ -142,8 +136,11 @@ msgid "<p>DCOP call failed.</p>%1"
 msgstr "<p>DCOP çaqırıp bulmadı.</p>%1"
 
 #: kdcopwindow.cpp:844
-msgid "<p>Application is still registered with DCOP; I do not know why this call failed.</p>"
-msgstr "<p>Bu yazılım DCOP belän terkälängän; Anı çaqıru uzmawın añlap bulmí.</p>"
+msgid ""
+"<p>Application is still registered with DCOP; I do not know why this call "
+"failed.</p>"
+msgstr ""
+"<p>Bu yazılım DCOP belän terkälängän; Anı çaqıru uzmawın añlap bulmí.</p>"
 
 #: kdcopwindow.cpp:856
 msgid "<p>The application appears to have unregistered with DCOP.</p>"
@@ -170,3 +167,6 @@ msgstr "Qaytarılğan bäyä yuq"
 #, c-format
 msgid "Do not know how to demarshal %1"
 msgstr "%1 digänen tezelmägän itü räweşe bilgesez"
+
+#~ msgid "kdcopview"
+#~ msgstr "kdcopview"
