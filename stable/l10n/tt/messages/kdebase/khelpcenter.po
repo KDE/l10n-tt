@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase khelpcenter\n"
-"POT-Creation-Date: 2005-07-09 01:31+0200\n"
+"POT-Creation-Date: 2005-07-06 07:27+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -135,8 +135,10 @@ msgid "Rebuilding cache... done."
 msgstr "Alxäterne tözü... buldı."
 
 #: glossary.cpp:272
-msgid "Unable to show selected glossary entry: unable to open file 'glossary.html.in'!"
-msgstr "Süznämäneñ saylanğan keremen kürsätep bulmí: 'glossary.html.in' bireme açılmí!"
+msgid ""
+"Unable to show selected glossary entry: unable to open file 'glossary.html.in'!"
+msgstr ""
+"Süznämäneñ saylanğan keremen kürsätep bulmí: 'glossary.html.in' bireme açılmí!"
 
 #: glossary.cpp:277
 msgid "See also: "
@@ -151,8 +153,12 @@ msgid "ht://dig"
 msgstr "ht://dig"
 
 #: htmlsearchconfig.cpp:51
-msgid "The fulltext search feature makes use of the ht://dig HTML search engine. You can get ht://dig at the"
-msgstr "Bar HTML-biremnär buyınça ezläwne açıp ht://dig digän ısul qullanıp bulaçaq. Anı bonda tabıp bula: "
+msgid ""
+"The fulltext search feature makes use of the ht://dig HTML search engine. You "
+"can get ht://dig at the"
+msgstr ""
+"Bar HTML-biremnär buyınça ezläwne açıp ht://dig digän ısul qullanıp bulaçaq. "
+"Anı bonda tabıp bula: "
 
 #: htmlsearchconfig.cpp:57
 msgid "Information about where to get the ht://dig package."
@@ -268,8 +274,10 @@ msgid "Missing"
 msgstr "Bulmağan"
 
 #: kcmhelpcenter.cpp:397
-msgid "Document '%1' (%2):\n"
-msgstr "'%1' İstälege (%2):\n"
+msgid ""
+"Document '%1' (%2):\n"
+msgstr ""
+"'%1' İstälege (%2):\n"
 
 #: kcmhelpcenter.cpp:402
 msgid "No document type."
@@ -389,8 +397,9 @@ msgid "&Search"
 msgstr "&Ezlä"
 
 #: navigator.cpp:187
-msgid "Search Options"
-msgstr "Ezläw Köylämäse"
+#, fuzzy
+msgid "Search"
+msgstr "&Ezlä"
 
 #: navigator.cpp:195
 msgid "G&lossary"
@@ -404,17 +413,9 @@ msgstr "Başbit"
 msgid "Unable to run search program."
 msgstr "Ezläw yazılımın cibärep bulmadı"
 
-#: navigator.cpp:594
+#: navigator.cpp:593
 msgid "A search index does not yet exist. Do you want to create the index now?"
 msgstr "Ezläw öçen töp tezmä barlıqta yuq. Anı xäzer yasísı kiläme?"
-
-#: navigator.cpp:598
-msgid "Create"
-msgstr "Yasa"
-
-#: navigator.cpp:599
-msgid "Do Not Create"
-msgstr "Yasamasqa"
 
 #. i18n: file khelpcenterui.rc line 25
 #: rc.cpp:12
@@ -603,3 +604,12 @@ msgstr "Konqueror atlı Birem Citäkçe dä Web Gizgeç"
 #: view.cpp:257
 msgid "Copy Link Address"
 msgstr "Bäy Urının İskä al"
+
+#~ msgid "Search Options"
+#~ msgstr "Ezläw Köylämäse"
+
+#~ msgid "Create"
+#~ msgstr "Yasa"
+
+#~ msgid "Do Not Create"
+#~ msgstr "Yasamasqa"

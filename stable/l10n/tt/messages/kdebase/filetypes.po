@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase filetypes\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2004-10-23 01:16+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -37,20 +37,38 @@ msgid "Show file in separate viewer"
 msgstr "Biremne ayırım kürsätkeçtä kürsätü"
 
 #: filegroupdetails.cpp:42
-msgid "Here you can configure what the Konqueror file manager will do when you click on a file belonging to this group. Konqueror can display the file in an embedded viewer or start up a separate application. You can change this setting for a specific file type in the 'Embedding' tab of the file type configuration."
-msgstr "Bu törkemgä kergän birem östenä çirtkän çaqta Konqueror atlı birem citäkçeseneñ çağılışın bonda köyläp bula. Konqueror şul biremne berketelgän kürsätkeçtä kürsätä ala, yä ki ayırım yazılımda aça ala. Birem töre caylawındağı 'Berketü' tabağında bu köylämäne ayırım birem törläre öçen üzgärtep bula."
+msgid ""
+"Here you can configure what the Konqueror file manager will do when you click "
+"on a file belonging to this group. Konqueror can display the file in an "
+"embedded viewer or start up a separate application. You can change this setting "
+"for a specific file type in the 'Embedding' tab of the file type configuration."
+msgstr ""
+"Bu törkemgä kergän birem östenä çirtkän çaqta Konqueror atlı birem citäkçeseneñ "
+"çağılışın bonda köyläp bula. Konqueror şul biremne berketelgän kürsätkeçtä "
+"kürsätä ala, yä ki ayırım yazılımda aça ala. Birem töre caylawındağı 'Berketü' "
+"tabağında bu köylämäne ayırım birem törläre öçen üzgärtep bula."
 
 #: filetypedetails.cpp:38
-msgid "This button displays the icon associated with the selected file type. Click on it to choose a different icon."
-msgstr "Saylanğan birem törenä kileştergän tamğanı bu töymädä kürep bula. Aña çirtep başqa tamğa saylap bula."
+msgid ""
+"This button displays the icon associated with the selected file type. Click on "
+"it to choose a different icon."
+msgstr ""
+"Saylanğan birem törenä kileştergän tamğanı bu töymädä kürep bula. Aña çirtep "
+"başqa tamğa saylap bula."
 
 #: filetypedetails.cpp:41
 msgid "Filename Patterns"
 msgstr "Birem Adı Sözgeçe"
 
 #: filetypedetails.cpp:55
-msgid "This box contains a list of patterns that can be used to identify files of the selected type. For example, the pattern *.txt is associated with the file type 'text/plain'; all files ending in '.txt' are recognized as plain text files."
-msgstr "Saylanğan törgä kileşterelgän ürnäklär bu tezmädä kürsätelä. Ürnäk itep *.txt alsaq, ul 'text/plain' digän birem törenä kileşterelgän, yäğni ul “taqır yazma bireme” kebek tanıla."
+msgid ""
+"This box contains a list of patterns that can be used to identify files of the "
+"selected type. For example, the pattern *.txt is associated with the file type "
+"'text/plain'; all files ending in '.txt' are recognized as plain text files."
+msgstr ""
+"Saylanğan törgä kileşterelgän ürnäklär bu tezmädä kürsätelä. Ürnäk itep *.txt "
+"alsaq, ul 'text/plain' digän birem törenä kileşterelgän, yäğni ul “taqır yazma "
+"bireme” kebek tanıla."
 
 #: filetypedetails.cpp:60 filetypesview.cpp:96 kservicelistwidget.cpp:123
 msgid "Add..."
@@ -69,8 +87,13 @@ msgid "Description"
 msgstr "Açıqlama"
 
 #: filetypedetails.cpp:84
-msgid "You can enter a short description for files of the selected file type (e.g. 'HTML Page'). This description will be used by applications like Konqueror to display directory content."
-msgstr "Saylanğan birem törenä berär qısqa açıqlama kertep bula (ü.ö. 'HTML Bit'). Konqueror eçendä törgäk eçtälägen kürsätkändä dä ul açıqlamalar kürsätelä."
+msgid ""
+"You can enter a short description for files of the selected file type (e.g. "
+"'HTML Page'). This description will be used by applications like Konqueror to "
+"display directory content."
+msgstr ""
+"Saylanğan birem törenä berär qısqa açıqlama kertep bula (ü.ö. 'HTML Bit'). "
+"Konqueror eçendä törgäk eçtälägen kürsätkändä dä ul açıqlamalar kürsätelä."
 
 #: filetypedetails.cpp:108 filetypedetails.cpp:276
 msgid "Use settings for '%1' group"
@@ -81,8 +104,18 @@ msgid "Ask whether to save to disk instead"
 msgstr "Anıñ urınına disk eçenä saqlawın sorísı"
 
 #: filetypedetails.cpp:114
-msgid "Here you can configure what the Konqueror file manager will do when you click on a file of this type. Konqueror can display the file in an embedded viewer or start up a separate application. If set to 'Use settings for G group', Konqueror will behave according to the settings of the group G this type belongs to, for instance 'image' if the current file type is image/png."
-msgstr "Bu törkemgä kergän birem östenä çirtkän çaqta Konqueror atlı birem citäkçeseneñ çağılışın bonda köyläp bula. Konqueror şul biremne berketelgän kürsätkeçtä kürsätä ala, yä ki ayırım yazılımda aça ala. 'Törkem caylawın qullanası' saylanğan çaqta Konqueror çağılışnı şul birem törkemeneñ calawınnan alaçaq, ü.ö. 'image/png' digän birem töreneñ törkeme 'image' bula."
+msgid ""
+"Here you can configure what the Konqueror file manager will do when you click "
+"on a file of this type. Konqueror can display the file in an embedded viewer or "
+"start up a separate application. If set to 'Use settings for G group', "
+"Konqueror will behave according to the settings of the group G this type "
+"belongs to, for instance 'image' if the current file type is image/png."
+msgstr ""
+"Bu törkemgä kergän birem östenä çirtkän çaqta Konqueror atlı birem citäkçeseneñ "
+"çağılışın bonda köyläp bula. Konqueror şul biremne berketelgän kürsätkeçtä "
+"kürsätä ala, yä ki ayırım yazılımda aça ala. 'Törkem caylawın qullanası' "
+"saylanğan çaqta Konqueror çağılışnı şul birem törkemeneñ calawınnan alaçaq, "
+"ü.ö. 'image/png' digän birem töreneñ törkeme 'image' bula."
 
 #: filetypedetails.cpp:127
 msgid "&General"
@@ -101,24 +134,70 @@ msgid "Extension:"
 msgstr "Quşılma:"
 
 #: filetypesview.cpp:32
-msgid "<h1>File Associations</h1> This module allows you to choose which applications are associated with a given type of file. File types are also referred to MIME types (MIME is an acronym which stands for \"Multipurpose Internet Mail Extensions\".)<p> A file association consists of the following: <ul><li>Rules for determining the MIME-type of a file, for example the filename pattern *.kwd, which means 'all files with names that end in .kwd', is associated with the MIME type \"x-kword\";</li> <li>A short description of the MIME-type, for example the description of the MIME type \"x-kword\" is simply 'KWord document';</li> <li>An icon to be used for displaying files of the given MIME-type, so that you can easily identify the type of file in, say, a Konqueror view (at least for the types you use often);</li> <li>A list of the applications which can be used to open files of the given MIME-type -- if more than one application can be used then the list is ordered by priority.</li></ul> You may be surprised to find that some MIME types have no associated filename patterns; in these cases, Konqueror is able to determine the MIME-type by directly examining the contents of the file."
-msgstr "<h1>Biremnär Kileşterü</h1> Birem törlärenä yazılımnarnı bu modul aşa kileşterep bula. Birem törläre mime-törlärgä dä bäylängän (MIME - \"Multipurpose Internet Mail Extensions\".)<p> Birem kileşterü nidän tora:<ul><li>Berär biremneñ mime-tören tanu tärtiben, ü.ö. *.kwd ürnäge, yäğni adı azağında .kwd bulğan biremnär \"x-kword\" digän mime-törgä kileşterelgän;</li> <li>Mime-törgä qısqa açıqlama, ü.ö. \"x-kword\" digän mime-törneñ açıqlaması itep 'KWord istälege' kertelgän;</li> <li>Şul mime-tördä bulğan birem kürsätkändä qullanası tamğa; ul çaqta Konqueror kebek yazılımnarda birem mime-törlär ayıru ciñelräk bulaçaq;</li> <li>Şul mime-tördä bulğan biremne eşkärtä alğan yazılımnar; alar berniçä bulğan çaqta, alarğa möhimlek birelä.</li></ul> Qayber mime-törlärdä birem adı öçen sözgeçlär bulmaw ğäçäpländerer dä bälki, läkin qayber birmeneñ mime-tören Konqueror anıñ eçtälegenä qarap ta sizä ala."
+msgid ""
+"<h1>File Associations</h1> This module allows you to choose which applications "
+"are associated with a given type of file. File types are also referred to MIME "
+"types (MIME is an acronym which stands for \"Multipurpose Internet Mail "
+"Extensions\".)"
+"<p> A file association consists of the following: "
+"<ul>"
+"<li>Rules for determining the MIME-type of a file, for example the filename "
+"pattern *.kwd, which means 'all files with names that end in .kwd', is "
+"associated with the MIME type \"x-kword\";</li> "
+"<li>A short description of the MIME-type, for example the description of the "
+"MIME type \"x-kword\" is simply 'KWord document';</li> "
+"<li>An icon to be used for displaying files of the given MIME-type, so that you "
+"can easily identify the type of file in, say, a Konqueror view (at least for "
+"the types you use often);</li> "
+"<li>A list of the applications which can be used to open files of the given "
+"MIME-type -- if more than one application can be used then the list is ordered "
+"by priority.</li></ul> You may be surprised to find that some MIME types have "
+"no associated filename patterns; in these cases, Konqueror is able to determine "
+"the MIME-type by directly examining the contents of the file."
+msgstr ""
+"<h1>Biremnär Kileşterü</h1> Birem törlärenä yazılımnarnı bu modul aşa "
+"kileşterep bula. Birem törläre mime-törlärgä dä bäylängän (MIME - "
+"\"Multipurpose Internet Mail Extensions\".)"
+"<p> Birem kileşterü nidän tora:"
+"<ul>"
+"<li>Berär biremneñ mime-tören tanu tärtiben, ü.ö. *.kwd ürnäge, yäğni adı "
+"azağında .kwd bulğan biremnär \"x-kword\" digän mime-törgä kileşterelgän;</li> "
+"<li>Mime-törgä qısqa açıqlama, ü.ö. \"x-kword\" digän mime-törneñ açıqlaması "
+"itep 'KWord istälege' kertelgän;</li> "
+"<li>Şul mime-tördä bulğan birem kürsätkändä qullanası tamğa; ul çaqta Konqueror "
+"kebek yazılımnarda birem mime-törlär ayıru ciñelräk bulaçaq;</li> "
+"<li>Şul mime-tördä bulğan biremne eşkärtä alğan yazılımnar; alar berniçä bulğan "
+"çaqta, alarğa möhimlek birelä.</li></ul> Qayber mime-törlärdä birem adı öçen "
+"sözgeçlär bulmaw ğäçäpländerer dä bälki, läkin qayber birmeneñ mime-tören "
+"Konqueror anıñ eçtälegenä qarap ta sizä ala."
 
 #: filetypesview.cpp:63
 msgid "F&ind filename pattern:"
 msgstr "&Tabası birem adı ürnäge:"
 
 #: filetypesview.cpp:73
-msgid "Enter a part of a filename pattern. Only file types with a matching file pattern will appear in the list."
-msgstr "Birem adı öleşennän ürnäk kertäse. Biredäge tezmä aña kileşkän biremnär genä kürsäteläçäk."
+msgid ""
+"Enter a part of a filename pattern. Only file types with a matching file "
+"pattern will appear in the list."
+msgstr ""
+"Birem adı öleşennän ürnäk kertäse. Biredäge tezmä aña kileşkän biremnär genä "
+"kürsäteläçäk."
 
 #: filetypesview.cpp:83
 msgid "Known Types"
 msgstr "Belgän Törlär"
 
 #: filetypesview.cpp:90
-msgid "Here you can see a hierarchical list of the file types which are known on your system. Click on the '+' sign to expand a category, or the '-' sign to collapse it. Select a file type (e.g. text/html for HTML files) to view/edit the information for that file type using the controls on the right."
-msgstr "Bu sanaqta bilgele bulğan birem törlären bu ağaçlı tezmädä kürep bula. Anıñ '+/-' bilgelärenä çirtep, büleklären cäyep/törep bula. Berär birem tören saylağaç (ü.ö. HTML biremnär öçen \"text/html\"), uñ töymälärne qullanıp ul törlek turında belemne kürep/üzgärtep bula."
+msgid ""
+"Here you can see a hierarchical list of the file types which are known on your "
+"system. Click on the '+' sign to expand a category, or the '-' sign to collapse "
+"it. Select a file type (e.g. text/html for HTML files) to view/edit the "
+"information for that file type using the controls on the right."
+msgstr ""
+"Bu sanaqta bilgele bulğan birem törlären bu ağaçlı tezmädä kürep bula. Anıñ "
+"'+/-' bilgelärenä çirtep, büleklären cäyep/törep bula. Berär birem tören "
+"saylağaç (ü.ö. HTML biremnär öçen \"text/html\"), uñ töymälärne qullanıp ul "
+"törlek turında belemne kürep/üzgärtep bula."
 
 #: filetypesview.cpp:100
 msgid "Click here to add a new file type."
@@ -145,8 +224,10 @@ msgid "KEditFileType"
 msgstr "KEditFileType"
 
 #: keditfiletype.cpp:101
-msgid "KDE file type editor - simplified version for editing a single file type"
-msgstr "Birem tören tözätü öçen KDE-yazılım - biremneñ ber tören genä tözätüçe sörem"
+msgid ""
+"KDE file type editor - simplified version for editing a single file type"
+msgstr ""
+"Birem tören tözätü öçen KDE-yazılım - biremneñ ber tören genä tözätüçe sörem"
 
 #: keditfiletype.cpp:103
 msgid "(c) 2000, KDE developers"
@@ -170,12 +251,32 @@ msgid "Services Preference Order"
 msgstr "Xezmät Östenlegeneñ Tärtibe"
 
 #: kservicelistwidget.cpp:83
-msgid "This is a list of applications associated with files of the selected file type. This list is shown in Konqueror's context menus when you select \"Open With...\". If more than one application is associated with this file type, then the list is ordered by priority with the uppermost item taking precedence over the others."
-msgstr "Saylanğan tördä bulğan biremnärgä kileşterelgän yazılımnar tezmäse bu. Konqueror'nıñ eştirä saylağındağı \"Bonı Aşa Aç...\" kereme saylanğan bulsa bu tezmä kürsäteläçäk. Bu tördä bulğan biremnärgä berniçä yazılım kileşterelgän bulsa, alar üz östenlege buyınça tezeläçäk, östenlege yuğarıraq bulğan yazılımnar bu tezmä eçenä yuğarıraq urın ala."
+msgid ""
+"This is a list of applications associated with files of the selected file type. "
+"This list is shown in Konqueror's context menus when you select \"Open "
+"With...\". If more than one application is associated with this file type, then "
+"the list is ordered by priority with the uppermost item taking precedence over "
+"the others."
+msgstr ""
+"Saylanğan tördä bulğan biremnärgä kileşterelgän yazılımnar tezmäse bu. "
+"Konqueror'nıñ eştirä saylağındağı \"Bonı Aşa Aç...\" kereme saylanğan bulsa bu "
+"tezmä kürsäteläçäk. Bu tördä bulğan biremnärgä berniçä yazılım kileşterelgän "
+"bulsa, alar üz östenlege buyınça tezeläçäk, östenlege yuğarıraq bulğan "
+"yazılımnar bu tezmä eçenä yuğarıraq urın ala."
 
 #: kservicelistwidget.cpp:88
-msgid "This is a list of services associated with files of the selected file type. This list is shown in Konqueror's context menus when you select a \"Preview with...\" option. If more than one application is associated with this file type, then the list is ordered by priority with the uppermost item taking precedence over the others."
-msgstr "Saylanğan tördä bulğan biremnärgä kileşterelgän xezmätlär tezmäse bu. Konqueror'nıñ eştirä saylağındağı \"Bonı Aşa Kürsät...\" kereme saylanğan bulsa bu tezmä kürsäteläçäk. Bu tördä bulğan biremnärgä berniçä yazılım kileşterelgän bulsa, alar üz östenlege buyınça tezeläçäk, östenlege yuğarıraq bulğan yazılımnar bu tezmä eçenä yuğarıraq urın ala."
+msgid ""
+"This is a list of services associated with files of the selected file type. "
+"This list is shown in Konqueror's context menus when you select a \"Preview "
+"with...\" option. If more than one application is associated with this file "
+"type, then the list is ordered by priority with the uppermost item taking "
+"precedence over the others."
+msgstr ""
+"Saylanğan tördä bulğan biremnärgä kileşterelgän xezmätlär tezmäse bu. "
+"Konqueror'nıñ eştirä saylağındağı \"Bonı Aşa Kürsät...\" kereme saylanğan bulsa "
+"bu tezmä kürsäteläçäk. Bu tördä bulğan biremnärgä berniçä yazılım kileşterelgän "
+"bulsa, alar üz östenlege buyınça tezeläçäk, östenlege yuğarıraq bulğan "
+"yazılımnar bu tezmä eçenä yuğarıraq urın ala."
 
 #: kservicelistwidget.cpp:97
 msgid "Move &Up"
@@ -245,23 +346,37 @@ msgstr "Saylanğan yazılımnı tezmädän taşlaw."
 msgid "None"
 msgstr "Yuq"
 
-#: kservicelistwidget.cpp:352
+#: kservicelistwidget.cpp:348
 msgid "The service <b>%1</b> can not be removed."
 msgstr "<b>%1</b> digän xezmätne beterep bulmí."
 
+#: kservicelistwidget.cpp:349
+msgid ""
+"The service is listed here because it has been associated with the <b>%1</b> "
+"(%2) file type and files of type <b>%3</b> (%4) are per definition also of type "
+"<b>%5</b>."
+msgstr ""
+"Bu xezmät <b>%1</b> (%2) digän birem törenä kileşterelgän buluına säbäple bu "
+"tezmägä kertelde. <b>%3</b> (%4) digän birem töre üz bilgelänüe buyınça <b>"
+"%5</b> kebek tä bula."
+
 #: kservicelistwidget.cpp:353
-msgid "The service is listed here because it has been associated with the <b>%1</b> (%2) file type and files of type <b>%3</b> (%4) are per definition also of type <b>%5</b>."
-msgstr "Bu xezmät <b>%1</b> (%2) digän birem törenä kileşterelgän buluına säbäple bu tezmägä kertelde. <b>%3</b> (%4) digän birem töre üz bilgelänüe buyınça <b>%5</b> kebek tä bula."
+msgid ""
+"Either select the <b>%1</b> file type to remove the service from there or move "
+"the service down to deprecate it."
+msgstr ""
+"Bu xezmätne beterü öçen <b>%1</b> digän birem tören saylísı, yä ki anı asqaraq "
+"töşerep qullanmí başlarğa."
 
-#: kservicelistwidget.cpp:357
-msgid "Either select the <b>%1</b> file type to remove the service from there or move the service down to deprecate it."
-msgstr "Bu xezmätne beterü öçen <b>%1</b> digän birem tören saylísı, yä ki anı asqaraq töşerep qullanmí başlarğa."
+#: kservicelistwidget.cpp:356
+msgid ""
+"Do you want to remove the service from the <b>%1</b> file type or from the <b>"
+"%2</b> file type?"
+msgstr ""
+"<b>%1</b> birem törennän, yä ki <b>%2</b> birem törennän bu xezmätne sünderäse "
+"kiläme?"
 
-#: kservicelistwidget.cpp:360
-msgid "Do you want to remove the service from the <b>%1</b> file type or from the <b>%2</b> file type?"
-msgstr "<b>%1</b> birem törennän, yä ki <b>%2</b> birem törennän bu xezmätne sünderäse kiläme?"
-
-#: kservicelistwidget.cpp:371
+#: kservicelistwidget.cpp:367
 msgid "You are not authorized to remove this service."
 msgstr "Bu xezmätne betererlek xoquqlar birelmägän."
 

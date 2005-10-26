@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kio_nfs\n"
-"POT-Creation-Date: 2005-06-10 01:24+0200\n"
+"POT-Creation-Date: 2004-10-12 01:16+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,22 +12,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: kio_nfs.cpp:1020
+#: kio_nfs.cpp:1008
 msgid "An RPC error occurred."
 msgstr "RPC xatası oçradı."
 
-#: kio_nfs.cpp:1064
+#: kio_nfs.cpp:1052
 msgid "No space left on device"
 msgstr "Cıhazda bütän alan qalmadı"
 
-#: kio_nfs.cpp:1067
+#: kio_nfs.cpp:1055
 msgid "Read only file system"
 msgstr "Birem sisteme uqulı ğına"
 
-#: kio_nfs.cpp:1070
+#: kio_nfs.cpp:1058
 msgid "Filename too long"
 msgstr "Birem adı artıq ozın"
 
-#: kio_nfs.cpp:1077
+#: kio_nfs.cpp:1065
 msgid "Disk quota exceeded"
 msgstr "Disk çikläwennän uzdıq"

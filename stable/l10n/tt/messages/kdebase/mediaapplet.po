@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase mediaapplet\n"
-"POT-Creation-Date: 2005-06-10 01:24+0200\n"
+"POT-Creation-Date: 2005-02-16 01:28+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -24,27 +24,27 @@ msgid ""
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
 
-#: mediaapplet.cpp:91
+#: mediaapplet.cpp:84
 msgid "Media Applet"
 msgstr "Media Applet"
 
-#: mediaapplet.cpp:93
+#: mediaapplet.cpp:86
 msgid "\"media:/\" ioslave frontend applet"
 msgstr "\"media:/\" öçen yözara"
 
-#: mediaapplet.cpp:98
+#: mediaapplet.cpp:91
 msgid "Maintainer"
 msgstr "Bulışuçı"
 
-#: mediaapplet.cpp:103
+#: mediaapplet.cpp:96
 msgid "Good mentor, patient and helpful. Thanks for all!"
 msgstr "Yaqşı tärbiäçe, sabır da, yärdämçel dä. Barısı öçen dä räxmät!"
 
-#: mediaapplet.cpp:428 preferencesdialog.cpp:74
+#: mediaapplet.cpp:332 preferencesdialog.cpp:74
 msgid "Media"
 msgstr "Media"
 
-#: mediaapplet.cpp:429
+#: mediaapplet.cpp:333
 msgid "&Configure..."
 msgstr "&Caylaw..."
 

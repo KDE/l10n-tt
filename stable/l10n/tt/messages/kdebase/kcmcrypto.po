@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmcrypto\n"
-"POT-Creation-Date: 2005-07-09 01:31+0200\n"
+"POT-Creation-Date: 2005-07-18 06:52+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -17,8 +17,13 @@ msgid "%1 (%2 of %3 bits)"
 msgstr "%1 (%2 bit. barı %3)"
 
 #: crypto.cpp:226
-msgid "<h1>Crypto</h1> This module allows you to configure SSL for use with most KDE applications, as well as manage your personal certificates and the known certificate authorities."
-msgstr "<h1>Serläw</h1> KDE yazılımnarı öçen SSL totuın caylaw, şäxsi tanıqlıqlar citäkläw eşen bu modul aşa qılıp bula."
+msgid ""
+"<h1>Crypto</h1> This module allows you to configure SSL for use with most KDE "
+"applications, as well as manage your personal certificates and the known "
+"certificate authorities."
+msgstr ""
+"<h1>Serläw</h1> KDE yazılımnarı öçen SSL totuın caylaw, şäxsi tanıqlıqlar "
+"citäkläw eşen bu modul aşa qılıp bula."
 
 #: crypto.cpp:239
 msgid "kcmcrypto"
@@ -37,76 +42,117 @@ msgid "Enable &TLS support if supported by the server"
 msgstr "Bu server totaqan çaqta &TLS aşa eşlise"
 
 #: crypto.cpp:270
-msgid "TLS is the newest revision of the SSL protocol. It integrates better with other protocols and has replaced SSL in protocols such as POP3 and SMTP."
-msgstr "TLS digäne ul SSL protokolınıñ yaña töre. Ul başqa protokollar belän dä yaqşıraq eşli, POP3/SMTP eşlägändä dä SSL protokolın üze belän almaştırğan."
+msgid ""
+"TLS is the newest revision of the SSL protocol. It integrates better with other "
+"protocols and has replaced SSL in protocols such as POP3 and SMTP."
+msgstr ""
+"TLS digäne ul SSL protokolınıñ yaña töre. Ul başqa protokollar belän dä "
+"yaqşıraq eşli, POP3/SMTP eşlägändä dä SSL protokolın üze belän almaştırğan."
 
 #: crypto.cpp:275
 msgid "Enable SSLv&2"
 msgstr "SSLv&2 belän"
 
 #: crypto.cpp:278
-msgid "SSL v2 is the second revision of the SSL protocol. It is most common to enable v2 and v3."
-msgstr "SSL v2 digäne ul SSL protokolıñın ikençe söreme. Töp oçraqlarda v2 dä, v3 tä qullanuğa açu yaqşıraq."
+msgid ""
+"SSL v2 is the second revision of the SSL protocol. It is most common to enable "
+"v2 and v3."
+msgstr ""
+"SSL v2 digäne ul SSL protokolıñın ikençe söreme. Töp oçraqlarda v2 dä, v3 tä "
+"qullanuğa açu yaqşıraq."
 
 #: crypto.cpp:282
 msgid "Enable SSLv&3"
 msgstr "SSLv&3 belän"
 
 #: crypto.cpp:285
-msgid "SSL v3 is the third revision of the SSL protocol. It is most common to enable v2 and v3."
-msgstr "SSL v3 digäne ul SSL protokolıñın öçençe söreme. Töp oçraqlarda v2 dä, v3 tä qullanuğa açu yaqşıraq."
+msgid ""
+"SSL v3 is the third revision of the SSL protocol. It is most common to enable "
+"v2 and v3."
+msgstr ""
+"SSL v3 digäne ul SSL protokolıñın öçençe söreme. Töp oçraqlarda v2 dä, v3 tä "
+"qullanuğa açu yaqşıraq."
 
 #: crypto.cpp:291
 msgid "SSLv2 Ciphers to Use"
 msgstr "SSLv2 Ciphers Qullanası"
 
 #: crypto.cpp:292
-msgid "Select the ciphers you wish to enable when using the SSL v2 protocol. The actual protocol used will be negotiated with the server at connection time."
-msgstr "SSL v2 protokolı eşlägändä qullanası kilgän serlämälär saylaw. Törle yaqlanğan serverlär belän totaşqan çaqta bu serlämälär qullanılaçaq."
+msgid ""
+"Select the ciphers you wish to enable when using the SSL v2 protocol. The "
+"actual protocol used will be negotiated with the server at connection time."
+msgstr ""
+"SSL v2 protokolı eşlägändä qullanası kilgän serlämälär saylaw. Törle yaqlanğan "
+"serverlär belän totaşqan çaqta bu serlämälär qullanılaçaq."
 
 #: crypto.cpp:302
-msgid "SSL ciphers cannot be configured because this module was not linked with OpenSSL."
-msgstr "Bu modul cíğanda OpenSSL öleşe östälenmägängä säbäple SSL-serlämälär caylap bulmí."
+msgid ""
+"SSL ciphers cannot be configured because this module was not linked with "
+"OpenSSL."
+msgstr ""
+"Bu modul cíğanda OpenSSL öleşe östälenmägängä säbäple SSL-serlämälär caylap "
+"bulmí."
 
 #: crypto.cpp:317
 msgid "SSLv3 Ciphers to Use"
 msgstr "SSLv3 Ciphers Qullanası"
 
 #: crypto.cpp:318
-msgid "Select the ciphers you wish to enable when using the SSL v3 protocol. The actual protocol used will be negotiated with the server at connection time."
-msgstr "SSL v3 protokolı eşlägändä qullanası kilgän serlämälär saylaw. Törle yaqlanğan serverlär belän totaşqan çaqta bu serlämälär qullanılaçaq. "
+msgid ""
+"Select the ciphers you wish to enable when using the SSL v3 protocol. The "
+"actual protocol used will be negotiated with the server at connection time."
+msgstr ""
+"SSL v3 protokolı eşlägändä qullanası kilgän serlämälär saylaw. Törle yaqlanğan "
+"serverlär belän totaşqan çaqta bu serlämälär qullanılaçaq. "
 
 #: crypto.cpp:332
 msgid "Cipher Wizard"
 msgstr "Serläw Ostası"
 
 #: crypto.cpp:335
-msgid "<qt>Use these preconfigurations to more easily configure the SSL encryption settings. You can choose among the following modes: <ul>"
-msgstr "<qt>SSL serläwen köyläw eşen ciñeläytü öçen bu caybiremnär qullanası. Bu ısullar arasında berärsen saylap bula: <ul>"
+msgid ""
+"<qt>Use these preconfigurations to more easily configure the SSL encryption "
+"settings. You can choose among the following modes: "
+"<ul>"
+msgstr ""
+"<qt>SSL serläwen köyläw eşen ciñeläytü öçen bu caybiremnär qullanası. Bu "
+"ısullar arasında berärsen saylap bula: "
+"<ul>"
 
 #: crypto.cpp:338
 msgid "Most Compatible"
 msgstr "İñ Kileşkän"
 
 #: crypto.cpp:339
-msgid "<li><b>Most Compatible:</b> Select the settings found to be most compatible.</li>"
-msgstr "<li><b>İñ Kileşkännär:</b> İñ keleşkän bulıp tabılğan köylämälär saylaw.</li>"
+msgid ""
+"<li><b>Most Compatible:</b> Select the settings found to be most "
+"compatible.</li>"
+msgstr ""
+"<li><b>İñ Kileşkännär:</b> İñ keleşkän bulıp tabılğan köylämälär saylaw.</li>"
 
 #: crypto.cpp:340
 msgid "US Ciphers Only"
 msgstr "AQŞ Serlämäse Genä"
 
 #: crypto.cpp:341
-msgid "<li><b>US Ciphers Only:</b> Select only the US strong (&gt;= 128 bit) encryption ciphers.</li>"
-msgstr "<li><b>AQŞ Serlämäse Genä:</b> AQŞ öçen genä bulğan köçle (&gt;= 128 bit) serläw ısulın saylaw.</li>"
+msgid ""
+"<li><b>US Ciphers Only:</b> Select only the US strong (&gt;= 128 bit) "
+"encryption ciphers.</li>"
+msgstr ""
+"<li><b>AQŞ Serlämäse Genä:</b> AQŞ öçen genä bulğan köçle (&gt;= 128 bit) "
+"serläw ısulın saylaw.</li>"
 
 #: crypto.cpp:342
 msgid "Export Ciphers Only"
 msgstr "Sercömlälär Genä Çığarası"
 
 #: crypto.cpp:343
-msgid "<li><b>Export Ciphers Only:</b> Select only the weak ciphers (&lt;= 56 bit).</li>"
-msgstr "<li><b>Serläw Genä Çığarası:</b> Kiräksez serläw genä saylísı (&lt;= 56 bit).</li>"
+msgid ""
+"<li><b>Export Ciphers Only:</b> Select only the weak ciphers (&lt;= 56 "
+"bit).</li>"
+msgstr ""
+"<li><b>Serläw Genä Çığarası:</b> Kiräksez serläw genä saylísı (&lt;= 56 "
+"bit).</li>"
 
 #: crypto.cpp:344
 msgid "Enable All"
@@ -114,7 +160,8 @@ msgstr "Barın Aç"
 
 #: crypto.cpp:345
 msgid "<li><b>Enable All:</b> Select all SSL ciphers and methods.</li></ul>"
-msgstr "<li><b>Barısın Açası:</b> SSL serläw ısullarnıñ barısın da açası.</li></ul>"
+msgstr ""
+"<li><b>Barısın Açası:</b> SSL serläw ısullarnıñ barısın da açası.</li></ul>"
 
 #: crypto.cpp:356
 msgid "Warn on &entering SSL mode"
@@ -137,16 +184,24 @@ msgid "Warn on sending &unencrypted data"
 msgstr "Serlänmägän birem &cibärgändä belderäse"
 
 #: crypto.cpp:373
-msgid "If selected, you will be notified before sending unencrypted data via a web browser."
-msgstr "Yanıq torsa, web gizgeç aşa serlänmägän belem künderelgän çaqta belderü çığaçaq."
+msgid ""
+"If selected, you will be notified before sending unencrypted data via a web "
+"browser."
+msgstr ""
+"Yanıq torsa, web gizgeç aşa serlänmägän belem künderelgän çaqta belderü "
+"çığaçaq."
 
 #: crypto.cpp:378
 msgid "Warn on &mixed SSL/non-SSL pages"
 msgstr "SSL/SSL-bulmağan &qatnaş bitlär turında belderäse"
 
 #: crypto.cpp:381
-msgid "If selected, you will be notified if you view a page that has both encrypted and non-encrypted parts."
-msgstr "Yanıq torsa, kürsätelgän bit eçendä serlängän dä serlänmägän dä öleşlär bulğan çaqta belderü çığaçaq."
+msgid ""
+"If selected, you will be notified if you view a page that has both encrypted "
+"and non-encrypted parts."
+msgstr ""
+"Yanıq torsa, kürsätelgän bit eçendä serlängän dä serlänmägän dä öleşlär bulğan "
+"çaqta belderü çığaçaq."
 
 #: crypto.cpp:394
 msgid "Path to OpenSSL Shared Libraries"
@@ -169,24 +224,39 @@ msgid "Path to EGD:"
 msgstr "EGD yulı:"
 
 #: crypto.cpp:424
-msgid "If selected, OpenSSL will be asked to use the entropy gathering daemon (EGD) for initializing the pseudo-random number generator."
-msgstr "Yanıq torsa, yasalma-oçraqlı san ürçätkeçen äzerläw öçen, OpenSSL tarafınnan entropy tuplaw xezmäte (EGD) qullanılaçaq."
+msgid ""
+"If selected, OpenSSL will be asked to use the entropy gathering daemon (EGD) "
+"for initializing the pseudo-random number generator."
+msgstr ""
+"Yanıq torsa, yasalma-oçraqlı san ürçätkeçen äzerläw öçen, OpenSSL tarafınnan "
+"entropy tuplaw xezmäte (EGD) qullanılaçaq."
 
 #: crypto.cpp:427
-msgid "If selected, OpenSSL will be asked to use the given file as entropy for initializing the pseudo-random number generator."
-msgstr "Yanıq torsa, yasalma-oçraqlı san ürçätkeçen äzerläw öçen, OpenSSL tarafınnan entropy urınına bu birem qullanılaçaq."
+msgid ""
+"If selected, OpenSSL will be asked to use the given file as entropy for "
+"initializing the pseudo-random number generator."
+msgstr ""
+"Yanıq torsa, yasalma-oçraqlı san ürçätkeçen äzerläw öçen, OpenSSL tarafınnan "
+"entropy urınına bu birem qullanılaçaq."
 
 #: crypto.cpp:430
-msgid "Enter the path to the socket created by the entropy gathering daemon (or the entropy file) here."
-msgstr "Entropy cíu xezmäte yasağan soket (yä ki entropy biremenä) taba yul kertäse."
+msgid ""
+"Enter the path to the socket created by the entropy gathering daemon (or the "
+"entropy file) here."
+msgstr ""
+"Entropy cíu xezmäte yasağan soket (yä ki entropy biremenä) taba yul kertäse."
 
 #: crypto.cpp:433
 msgid "Click here to browse for the EGD socket file."
 msgstr "Bonda çirtep, bu EGD yöyä biremen küzätep bula."
 
 #: crypto.cpp:451
-msgid "This list box shows which certificates of yours KDE knows about. You can easily manage them from here."
-msgstr "KDE belgän tanıqlıqlar bu tezmädä kürsätelä. Alarnı bonda uq ciñel citäkläp bula."
+msgid ""
+"This list box shows which certificates of yours KDE knows about. You can easily "
+"manage them from here."
+msgstr ""
+"KDE belgän tanıqlıqlar bu tezmädä kürsätelä. Alarnı bonda uq ciñel citäkläp "
+"bula."
 
 #: crypto.cpp:455 crypto.cpp:615 crypto.cpp:731
 msgid "Common Name"
@@ -269,8 +339,12 @@ msgid "&Do not use certificates"
 msgstr "&Tanıqlıqlar qullanmíça"
 
 #: crypto.cpp:522 crypto.cpp:592 crypto.cpp:708 crypto.cpp:772
-msgid "SSL certificates cannot be managed because this module was not linked with OpenSSL."
-msgstr "Bu modul cíğanda OpenSSL öleşe östälenmägängä säbäple SSL-tanıqlıqlar citäkläp bulmí."
+msgid ""
+"SSL certificates cannot be managed because this module was not linked with "
+"OpenSSL."
+msgstr ""
+"Bu modul cíğanda OpenSSL öleşe östälenmägängä säbäple SSL-tanıqlıqlar citäkläp "
+"bulmí."
 
 #: crypto.cpp:537
 msgid "Default Authentication Certificate"
@@ -341,19 +415,28 @@ msgid "Ne&w"
 msgstr "&Yaña"
 
 #: crypto.cpp:611
-msgid "This list box shows which site and person certificates KDE knows about. You can easily manage them from here."
-msgstr "KDE belgän tanıqlıq iäläre (säxifälär belän şäxeslär) bu tezmädä kürsätelä. Alarnı bonda uq ciñel citäkläp bula."
+msgid ""
+"This list box shows which site and person certificates KDE knows about. You can "
+"easily manage them from here."
+msgstr ""
+"KDE belgän tanıqlıq iäläre (säxifälär belän şäxeslär) bu tezmädä kürsätelä. "
+"Alarnı bonda uq ciñel citäkläp bula."
 
 #: crypto.cpp:614 crypto.cpp:729
 msgid "Organization"
 msgstr "Oyışma"
 
 #: crypto.cpp:621
-msgid "This button allows you to export the selected certificate to a file of various formats."
-msgstr "Bu töymä qullanıp, saylanğan tanıqlıqnı törle töseleş belän birem itep saqlarğa bula."
+msgid ""
+"This button allows you to export the selected certificate to a file of various "
+"formats."
+msgstr ""
+"Bu töymä qullanıp, saylanğan tanıqlıqnı törle töseleş belän birem itep saqlarğa "
+"bula."
 
 #: crypto.cpp:628
-msgid "This button removes the selected certificate from the certificate cache."
+msgid ""
+"This button removes the selected certificate from the certificate cache."
 msgstr "Saylanğan tanıqlıqnı bu töymä aşa tezmädän beterep bula."
 
 #: crypto.cpp:632
@@ -405,12 +488,20 @@ msgid "Select this to always reject this certificate."
 msgstr "Bu tanıqlıqnı barçaqta da kire qağası."
 
 #: crypto.cpp:699
-msgid "Select this if you wish to be prompted for action when receiving this certificate."
-msgstr "Bu tanıqlıqnı alğan sayın anı belän kileşü turında soralğan bulası kilsä bu köylämäne yanıq itäse."
+msgid ""
+"Select this if you wish to be prompted for action when receiving this "
+"certificate."
+msgstr ""
+"Bu tanıqlıqnı alğan sayın anı belän kileşü turında soralğan bulası kilsä bu "
+"köylämäne yanıq itäse."
 
 #: crypto.cpp:725
-msgid "This list box shows which certificate authorities KDE knows about. You can easily manage them from here."
-msgstr "KDE belgän tanıqlıq oyışmaları bu tezmädä kürsätelä. Alarnı bonda uq ciñel citäkläp bula."
+msgid ""
+"This list box shows which certificate authorities KDE knows about. You can "
+"easily manage them from here."
+msgstr ""
+"KDE belgän tanıqlıq oyışmaları bu tezmädä kürsätelä. Alarnı bonda uq ciñel "
+"citäkläp bula."
 
 #: crypto.cpp:730
 msgid "Organizational Unit"
@@ -445,7 +536,9 @@ msgid "Warn on re&voked certificates"
 msgstr "Tanıqlıq &qağılğanda belderäse"
 
 #: crypto.cpp:801
-msgid "This list box shows which sites you have decided to accept a certificate from even though the certificate might fail the validation procedure."
+msgid ""
+"This list box shows which sites you have decided to accept a certificate from "
+"even though the certificate might fail the validation procedure."
 msgstr "Tikşerüne ütmäsä dä, tanıqlıqlar alası säxifälär bu tezmädä kürsätelä."
 
 #: crypto.cpp:809
@@ -453,7 +546,9 @@ msgid "&Add"
 msgstr "&Östä"
 
 #: crypto.cpp:822
-msgid "These options are not configurable because this module was not linked with OpenSSL."
+msgid ""
+"These options are not configurable because this module was not linked with "
+"OpenSSL."
 msgstr "Bu modul OpenSSL belän cíılmağan säbäple bu köylämälärne caylap bulmí."
 
 #: certexport.cpp:93 certexport.cpp:108 certexport.cpp:116 crypto.cpp:832
@@ -489,8 +584,12 @@ msgid "Validation Options"
 msgstr "Tikşerü Köyläwe"
 
 #: crypto.cpp:1030
-msgid "If you do not select at least one SSL algorithm, either SSL will not work or the application may be forced to choose a suitable default."
-msgstr "SSL ısulınıñ berse dä saylanmağan çaqta SSL eşlämäyäçäk, yä ki bu yazılımda töpcay bulıp sanalğan ısul qullanılayaçaq."
+msgid ""
+"If you do not select at least one SSL algorithm, either SSL will not work or "
+"the application may be forced to choose a suitable default."
+msgstr ""
+"SSL ısulınıñ berse dä saylanmağan çaqta SSL eşlämäyäçäk, yä ki bu yazılımda "
+"töpcay bulıp sanalğan ısul qullanılayaçaq."
 
 #: crypto.cpp:1082
 msgid "If you do not select at least one cipher, SSLv2 will not work."
@@ -532,17 +631,12 @@ msgstr "Tanıqlıq sersüze"
 msgid "The certificate file could not be loaded. Try a different password?"
 msgstr "Bu tanıqlıq biremen yökläp bulmadı. Başqa sersüz belän qaramasqamı?"
 
-#: crypto.cpp:1606
-msgid "Try"
-msgstr "Sına"
-
-#: crypto.cpp:1606
-msgid "Do Not Try"
-msgstr "Sınamasqa"
-
 #: crypto.cpp:1624
-msgid "A certificate with that name already exists. Are you sure that you wish to replace it?"
-msgstr "Andí atama belän tanıqlıq bar inde. Anı başqası belän almaştırası kiläme?"
+msgid ""
+"A certificate with that name already exists. Are you sure that you wish to "
+"replace it?"
+msgstr ""
+"Andí atama belän tanıqlıq bar inde. Anı başqası belän almaştırası kiläme?"
 
 #: crypto.cpp:1657 crypto.cpp:1689 crypto.cpp:1737
 msgid "Enter the certificate password:"
@@ -580,17 +674,13 @@ msgstr "Bu tanıqlıq biremen yökläp bulmadı."
 msgid "Do you want to make this certificate available to KMail as well?"
 msgstr "Bu tanıqlıqnı KMail eçennän dä qullanırlıq itäse kiläme?"
 
-#: crypto.cpp:2040
-msgid "Make Available"
-msgstr "Qullanırlıq İt"
-
-#: crypto.cpp:2040
-msgid "Do Not Make Available"
-msgstr "Qullanırlıq İtmäskä"
-
 #: crypto.cpp:2046
-msgid "Could not execute Kleopatra. You might have to install or update the kdepim package."
-msgstr "Kleopatra yazılımın cibärep bulmí. kdepim tuplamasın quyıp, yä ki yañartıp bula."
+msgid ""
+"Could not execute Kleopatra. You might have to install or update the kdepim "
+"package."
+msgstr ""
+"Kleopatra yazılımın cibärep bulmí. kdepim tuplamasın quyıp, yä ki yañartıp "
+"bula."
 
 #: crypto.cpp:2064
 msgid ""
@@ -601,10 +691,6 @@ msgstr ""
 "Bolay itep bu tanıqlıqlar tezmäse KDE öçen töpcay tezmäsenä äwereläçäk.\n"
 "Bu eşne kire qağıp bulmas inde.\n"
 "Çınlap ta dawam itäse kiläme?"
-
-#: crypto.cpp:2064
-msgid "Revert"
-msgstr "Qaytart"
 
 #: crypto.cpp:2290 crypto.cpp:2298
 msgid "Failed to load OpenSSL."
@@ -751,3 +837,18 @@ msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
+
+#~ msgid "Try"
+#~ msgstr "Sına"
+
+#~ msgid "Do Not Try"
+#~ msgstr "Sınamasqa"
+
+#~ msgid "Make Available"
+#~ msgstr "Qullanırlıq İt"
+
+#~ msgid "Do Not Make Available"
+#~ msgstr "Qullanırlıq İtmäskä"
+
+#~ msgid "Revert"
+#~ msgstr "Qaytart"

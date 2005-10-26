@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kjobviewer\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2004-10-21 01:24+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -30,7 +30,8 @@ msgstr "Bar Basaqlar"
 
 #: kjobviewer.cpp:130
 msgid "There is no default printer. Start with --all to see all printers."
-msgstr "Töp itep bilgelängän basaq yuq. Bar basaqlar kürü öçen, --all belän cibäräse."
+msgstr ""
+"Töp itep bilgelängän basaq yuq. Bar basaqlar kürü öçen, --all belän cibäräse."
 
 #: kjobviewer.cpp:130
 msgid "Print Error"

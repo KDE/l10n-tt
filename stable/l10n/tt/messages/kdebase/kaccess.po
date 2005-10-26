@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kaccess\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2005-02-17 01:22+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -85,32 +85,48 @@ msgid "Do you really want to activate \"%1\" and to deactivate \"%2\"?"
 msgstr "\"%1\" sälätländerergä häm \"%2\" sälätsezländerergä çınnan teliseñme?"
 
 #: kaccess.cpp:492
-msgid "Do you really want to activate \"%1\" and to deactivate \"%2\" and \"%3\"?"
-msgstr "\"%1\" sälätländerergä, \"%2\" häm \"%3\" sälätsezländerergä çınnan teliseñme?"
+msgid ""
+"Do you really want to activate \"%1\" and to deactivate \"%2\" and \"%3\"?"
+msgstr ""
+"\"%1\" sälätländerergä, \"%2\" häm \"%3\" sälätsezländerergä çınnan teliseñme?"
 
 #: kaccess.cpp:496
-msgid "Do you really want to activate \"%1\" and to deactivate \"%2\", \"%3\" and \"%4\"?"
-msgstr "\"%1\" sälätländerergä, \"%2\", \"%3\" häm  \"%4\" sälätsezländerergä çınnan teliseñme?"
+msgid ""
+"Do you really want to activate \"%1\" and to deactivate \"%2\", \"%3\" and "
+"\"%4\"?"
+msgstr ""
+"\"%1\" sälätländerergä, \"%2\", \"%3\" häm  \"%4\" sälätsezländerergä çınnan "
+"teliseñme?"
 
 #: kaccess.cpp:503
 msgid "Do you really want to activate \"%1\" and \"%2\"?"
 msgstr "\"%1\" häm \"%2\" çınnan sälätländerergä teliseñme?"
 
 #: kaccess.cpp:506
-msgid "Do you really want to activate \"%1\" and \"%2\" and to deactivate \"%3\"?"
-msgstr "\"%1\" häm \"%2\" sälätländerergä, \"%3\" sälätsezländerergä çınnan teliseñme?"
+msgid ""
+"Do you really want to activate \"%1\" and \"%2\" and to deactivate \"%3\"?"
+msgstr ""
+"\"%1\" häm \"%2\" sälätländerergä, \"%3\" sälätsezländerergä çınnan teliseñme?"
 
 #: kaccess.cpp:510
-msgid "Do you really want to activate \"%1\", and \"%2\" and to deactivate \"%3\" and \"%4\"?"
-msgstr "\"%1\" häm \"%2\" sälätländerergä, \"%3\" häm \"%4\" sälätsezländerergä çınnan teliseñme?"
+msgid ""
+"Do you really want to activate \"%1\", and \"%2\" and to deactivate \"%3\" and "
+"\"%4\"?"
+msgstr ""
+"\"%1\" häm \"%2\" sälätländerergä, \"%3\" häm \"%4\" sälätsezländerergä çınnan "
+"teliseñme?"
 
 #: kaccess.cpp:517
 msgid "Do you really want to activate \"%1\", \"%2\" and \"%3\"?"
 msgstr "\"%1\", \"%2\" häm \"%3\" çınnan sälätländerergä teliseñme?"
 
 #: kaccess.cpp:521
-msgid "Do you really want to activate \"%1\", \"%2\" and \"%3\" and to deactivate \"%4\"?"
-msgstr "\"%1\", \"%2\" häm \"%3\" sälätländerergä, \"%4\" sälätsezländerergä çınnan teliseñme?"
+msgid ""
+"Do you really want to activate \"%1\", \"%2\" and \"%3\" and to deactivate "
+"\"%4\"?"
+msgstr ""
+"\"%1\", \"%2\" häm \"%3\" sälätländerergä, \"%4\" sälätsezländerergä çınnan "
+"teliseñme?"
 
 #: kaccess.cpp:527
 msgid "Do you really want to activate \"%1\", \"%2\", \"%3\" and \"%4\"?"
@@ -121,20 +137,32 @@ msgid "An application has requested to change this setting."
 msgstr "Qullanma bü köylämäne üzgärtergä soradı."
 
 #: kaccess.cpp:538
-msgid "You held down the Shift key for 8 seconds or an application has requested to change this setting."
-msgstr "Sin Shift töymäsenä 8 sekund basıp tordıñ häm qullanma bu köylämäne üzgärtergä soradı."
+msgid ""
+"You held down the Shift key for 8 seconds or an application has requested to "
+"change this setting."
+msgstr ""
+"Sin Shift töymäsenä 8 sekund basıp tordıñ häm qullanma bu köylämäne üzgärtergä "
+"soradı."
 
 #: kaccess.cpp:540
-msgid "You pressed the Shift key 5 consecutive times or an application has requested to change this setting."
-msgstr "Sin Shift töymäsen bertuqtamíça 5 märtäbä bastıñ häm qullanma bu köylämäne üzgärtergä soradı."
+msgid ""
+"You pressed the Shift key 5 consecutive times or an application has requested "
+"to change this setting."
+msgstr ""
+"Sin Shift töymäsen bertuqtamíça 5 märtäbä bastıñ häm qullanma bu köylämäne "
+"üzgärtergä soradı."
 
 #: kaccess.cpp:544
 msgid "You pressed %1 or an application has requested to change this setting."
 msgstr "Sin %1 bastıñ yä ki qullanma bu köylämäne üzgärtergä soradı."
 
 #: kaccess.cpp:550
-msgid "An application has requested to change these settings, or you used a combination of several keyboard gestures."
-msgstr "Qullanma bu köylämälärne üzgärtergä soradı, yä ki sin bilgele ber töymä tezmäsen bergä  bastıñ."
+msgid ""
+"An application has requested to change these settings, or you used a "
+"combination of several keyboard gestures."
+msgstr ""
+"Qullanma bu köylämälärne üzgärtergä soradı, yä ki sin bilgele ber töymä "
+"tezmäsen bergä  bastıñ."
 
 #: kaccess.cpp:552
 msgid "An application has requested to change these settings."
@@ -142,13 +170,19 @@ msgstr "Qullanma bu köylälärmäne üzgärtergä soradı."
 
 #: kaccess.cpp:557
 msgid ""
-"These AccessX settings are needed for some users with motion impairments and can be configured in the KDE Control Center. You can also turn them on and off with standardized keyboard gestures.\n"
+"These AccessX settings are needed for some users with motion impairments and "
+"can be configured in the KDE Control Center. You can also turn them on and off "
+"with standardized keyboard gestures.\n"
 "\n"
-"If you do not need them, you can select \"Deactivate all AccessX features and gestures\"."
+"If you do not need them, you can select \"Deactivate all AccessX features and "
+"gestures\"."
 msgstr ""
-"Bu AccessX köylämäläre qayber xäräkäte çiklängän ğäriplär öçen kiräkle häm KDE İdärä Üzägennän köylängän bula ala. Alarnı standartlarğan töymä tezmäläre bergä basıp ta açarğa yä ki yabarğa bula. \n"
+"Bu AccessX köylämäläre qayber xäräkäte çiklängän ğäriplär öçen kiräkle häm KDE "
+"İdärä Üzägennän köylängän bula ala. Alarnı standartlarğan töymä tezmäläre bergä "
+"basıp ta açarğa yä ki yabarğa bula. \n"
 "\n"
-"Bolar siña kiräk bulmasa, \"Barlıq AccessX mömkinleklären häm töymä tezmälären sälätsezländer\" saylí alasıñ"
+"Bolar siña kiräk bulmasa, \"Barlıq AccessX mömkinleklären häm töymä tezmälären "
+"sälätsezländer\" saylí alasıñ"
 
 #: main.cpp:8
 msgid "kaccess"

@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmkdnssd\n"
-"POT-Creation-Date: 2005-06-16 01:26+0200\n"
+"POT-Creation-Date: 2005-01-19 01:22+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,167 +12,117 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: kcmdnssd.cpp:53
+#: kcmdnssd.cpp:42
 msgid "kcm_kdnssd"
 msgstr "kcm_kdnssd"
 
-#: kcmdnssd.cpp:54
+#: kcmdnssd.cpp:43
 msgid "ZeroConf configuration"
 msgstr "ZeroConf caylaw"
 
-#: kcmdnssd.cpp:55
-msgid "(C) 2004,2005 Jakub Stachowski"
+#: kcmdnssd.cpp:44
+#, fuzzy
+msgid "(C) 2004, Jakub Stachowski"
 msgstr "(C) 2004,2005 Jakub Stachowski"
 
-#: kcmdnssd.cpp:56
+#: kcmdnssd.cpp:45
 msgid "Setup services browsing with ZeroConf"
 msgstr "Xezmätlärne ZeroConf aşa tabunı caylaw"
 
 #. i18n: file configdialog.ui line 30
-#: rc.cpp:3 rc.cpp:74
+#: rc.cpp:3 rc.cpp:44
 #, no-c-format
 msgid "MyDialog1"
 msgstr "MinemDialog1"
 
-#. i18n: file configdialog.ui line 45
-#: rc.cpp:6 rc.cpp:77
-#, no-c-format
-msgid "&General"
-msgstr "&Töptän"
-
-#. i18n: file configdialog.ui line 56
-#: rc.cpp:9 rc.cpp:80
-#, no-c-format
-msgid "Browse local networ&k"
+#. i18n: file configdialog.ui line 41
+#: rc.cpp:6 rc.cpp:47
+#, fuzzy, no-c-format
+msgid "Browse local network"
 msgstr "Cirle çeltär &küzätü"
 
-#. i18n: file configdialog.ui line 59
-#: rc.cpp:12 rc.cpp:83
-#, no-c-format
-msgid "Alt+K"
-msgstr "Alt"
-
-#. i18n: file configdialog.ui line 62
-#: rc.cpp:15 rc.cpp:86
+#. i18n: file configdialog.ui line 44
+#: rc.cpp:9 rc.cpp:50
 #, no-c-format
 msgid "Browse local network (domain .local) using multicast DNS."
 msgstr "Cirle çeltär küzätü, (domain.local) DNS qullanıp."
 
-#. i18n: file configdialog.ui line 78
-#: rc.cpp:18 rc.cpp:89
+#. i18n: file configdialog.ui line 60
+#: rc.cpp:12 rc.cpp:53
 #, no-c-format
 msgid "Additional Domains"
 msgstr "Östämä Domain"
 
-#. i18n: file configdialog.ui line 82
-#: rc.cpp:21 rc.cpp:92
+#. i18n: file configdialog.ui line 64
+#: rc.cpp:15 rc.cpp:56
 #, no-c-format
 msgid ""
-"List of Internet domains  that will be browsed for services. Do not put .local here - it\n"
+"List of Internet domains  that will be browsed for services. Do not put .local "
+"here - it\n"
 "is configured with 'Browse local network' option above."
 msgstr ""
-"Xezmätlär küzätep qarísı domain tezmäse. Alarğa .local quşımtasın quşası tügel, \n"
+"Xezmätlär küzätep qarísı domain tezmäse. Alarğa .local quşımtasın quşası tügel, "
+"\n"
 "ul östäge 'Cirle çeltär küzätü' digän köylämä aşa köylänä."
 
-#. i18n: file configdialog.ui line 98
-#: rc.cpp:25 rc.cpp:96
-#, no-c-format
-msgid "Publishing Mode"
-msgstr "Urınlaştıru Isulı"
-
-#. i18n: file configdialog.ui line 113
-#: rc.cpp:28 rc.cpp:99
-#, no-c-format
-msgid "Loc&al network"
-msgstr "&Cirle çeltär"
-
-#. i18n: file configdialog.ui line 116
-#: rc.cpp:31 rc.cpp:102
-#, no-c-format
-msgid "Alt+A"
-msgstr "Alt+A"
-
-#. i18n: file configdialog.ui line 122
-#: rc.cpp:34 rc.cpp:105
-#, no-c-format
-msgid "Advertise services on local network (in domain .local) using multicast DNS."
-msgstr "Cirle çeltärneñ xezmätläre turında küpoçraqlı DNS qullanıp belderäse."
-
-#. i18n: file configdialog.ui line 141
-#: rc.cpp:37 rc.cpp:108
-#, no-c-format
-msgid "&Wide area network"
-msgstr "&Kiñ çeltär"
-
-#. i18n: file configdialog.ui line 144
-#: rc.cpp:40 rc.cpp:111
-#, no-c-format
-msgid "Alt+W"
-msgstr "Alt"
-
-#. i18n: file configdialog.ui line 147
-#: rc.cpp:43 rc.cpp:114
-#, no-c-format
-msgid "Advertise services on Internet domain using public IP. To have this option working you need to configure wide area operation in using administrator mode"
-msgstr "İnternet domain xezmätläre turında açıq IP qullanıp belderäse. Bu närsä eşläsen öçen, idäräçe ısulın qullanıp kiñ alanlı eşlärne caylarğa kiräk"
-
-#. i18n: file configdialog.ui line 164
-#: rc.cpp:46 rc.cpp:117
-#, no-c-format
-msgid "D&iscover more domains"
+#. i18n: file configdialog.ui line 80
+#: rc.cpp:19 rc.cpp:60
+#, fuzzy, no-c-format
+msgid "Discover more domains"
 msgstr "&Başqa domainnar öyränü"
 
-#. i18n: file configdialog.ui line 167
-#: rc.cpp:49 rc.cpp:120
-#, no-c-format
-msgid "Alt+I"
-msgstr "Alt"
-
-#. i18n: file configdialog.ui line 171
-#: rc.cpp:52 rc.cpp:123
+#. i18n: file configdialog.ui line 84
+#: rc.cpp:22 rc.cpp:63
 #, no-c-format
 msgid ""
-"If selected every configured domain will be queried for list of domain to browse. This \n"
+"If selected every configured domain will be queried for list of domain to "
+"browse. This \n"
 "process will be recursive."
 msgstr ""
 "Yanıq torsa, köylängän domainnıñ barısı da soraştıru tezmäsenä elägäçäk. Bu eş\n"
 "rekursile dä bula ala."
 
-#. i18n: file configdialog.ui line 181
-#: rc.cpp:56 rc.cpp:127
+#. i18n: file configdialog.ui line 100
+#: rc.cpp:26 rc.cpp:67
 #, no-c-format
-msgid "W&ide area"
-msgstr "K&iñ alan"
+msgid "Publishing Mode"
+msgstr "Urınlaştıru Isulı"
 
-#. i18n: file configdialog.ui line 200
-#: rc.cpp:59 rc.cpp:130
-#, no-c-format
-msgid "Shared secret:"
-msgstr "Büleşengän ser:"
+#. i18n: file configdialog.ui line 111
+#: rc.cpp:29 rc.cpp:70
+#, fuzzy, no-c-format
+msgid "Local network"
+msgstr "&Cirle çeltär"
 
-#. i18n: file configdialog.ui line 225
-#: rc.cpp:62 rc.cpp:133
+#. i18n: file configdialog.ui line 117
+#: rc.cpp:32 rc.cpp:73
 #, no-c-format
-msgid "Name of this machine. Must be in fully qualified form (host.domain)"
-msgstr "Bu sanaqnıñ adı. Anıñ tözeleşe tulı bulırğa tieş (host.domain)"
+msgid ""
+"Advertise services on local network (in domain .local) using multicast DNS."
+msgstr "Cirle çeltärneñ xezmätläre turında küpoçraqlı DNS qullanıp belderäse."
 
-#. i18n: file configdialog.ui line 233
-#: rc.cpp:65 rc.cpp:136
-#, no-c-format
-msgid "Optional shared secret used for authorization of DNS dynamic updates."
-msgstr "DNS yañartıp torunıñ tanıtu öçen östämä büleşkän ser."
+#. i18n: file configdialog.ui line 125
+#: rc.cpp:35 rc.cpp:76
+#, fuzzy, no-c-format
+msgid "Wide area network"
+msgstr "&Kiñ çeltär"
 
-#. i18n: file configdialog.ui line 244
-#: rc.cpp:68 rc.cpp:139
-#, no-c-format
-msgid "Domain:"
+#. i18n: file configdialog.ui line 128
+#: rc.cpp:38 rc.cpp:79
+#, fuzzy, no-c-format
+msgid ""
+"Advertise services on Internet domain using public IP. To have this option "
+"working you need to configure hostname, zone and secret for this domain in "
+"/etc/mdnsd.conf"
+msgstr ""
+"İnternet domain xezmätläre turında açıq IP qullanıp belderäse. Bu närsä eşläsen "
+"öçen, idäräçe ısulın qullanıp kiñ alanlı eşlärne caylarğa kiräk"
+
+#. i18n: file configdialog.ui line 147
+#: rc.cpp:41 rc.cpp:82
+#, fuzzy, no-c-format
+msgid "Default domain:"
 msgstr "Domain:"
-
-#. i18n: file configdialog.ui line 252
-#: rc.cpp:71 rc.cpp:142
-#, no-c-format
-msgid "Hostname:"
-msgstr "Host adı:"
 
 #: _translatorinfo.cpp:1
 msgid ""
@@ -185,3 +135,33 @@ msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
+
+#~ msgid "&General"
+#~ msgstr "&Töptän"
+
+#~ msgid "Alt+K"
+#~ msgstr "Alt"
+
+#~ msgid "Alt+A"
+#~ msgstr "Alt+A"
+
+#~ msgid "Alt+W"
+#~ msgstr "Alt"
+
+#~ msgid "Alt+I"
+#~ msgstr "Alt"
+
+#~ msgid "W&ide area"
+#~ msgstr "K&iñ alan"
+
+#~ msgid "Shared secret:"
+#~ msgstr "Büleşengän ser:"
+
+#~ msgid "Name of this machine. Must be in fully qualified form (host.domain)"
+#~ msgstr "Bu sanaqnıñ adı. Anıñ tözeleşe tulı bulırğa tieş (host.domain)"
+
+#~ msgid "Optional shared secret used for authorization of DNS dynamic updates."
+#~ msgstr "DNS yañartıp torunıñ tanıtu öçen östämä büleşkän ser."
+
+#~ msgid "Hostname:"
+#~ msgstr "Host adı:"

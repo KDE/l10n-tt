@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio_help\n"
-"POT-Creation-Date: 2005-05-18 21:23+0200\n"
+"POT-Creation-Date: 2005-02-15 01:39+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -24,37 +24,38 @@ msgid ""
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
 
-#: kio_help.cpp:123
-#, c-format
-msgid "There is no documentation available for %1."
-msgstr "Biredä %1 öçen qullanmalar yuq."
+#: kio_help.cpp:142
+msgid ""
+"The requested help file could not be found. Check that you have installed the "
+"documentation."
+msgstr ""
 
-#: kio_help.cpp:166
+#: kio_help.cpp:171
 msgid "Looking up correct file"
 msgstr "Döres birem ezläw"
 
-#: kio_help.cpp:217
+#: kio_help.cpp:222
 msgid "Preparing document"
 msgstr "İstälek äzerläw"
 
-#: kio_help.cpp:226 kio_help.cpp:259
+#: kio_help.cpp:231 kio_help.cpp:264
 #, c-format
 msgid "The requested help file could not be parsed:<br>%1"
 msgstr "Soralğan yärdäm biremeneñ eçtälegen uqı bulmadı:<br>%1"
 
-#: kio_help.cpp:248
+#: kio_help.cpp:253
 msgid "Saving to cache"
 msgstr "Alxätergä saqlaw"
 
-#: kio_help.cpp:254
+#: kio_help.cpp:259
 msgid "Using cached version"
 msgstr "Alxäterle sörem qullanu"
 
-#: kio_help.cpp:316
+#: kio_help.cpp:321
 msgid "Looking up section"
 msgstr "Bülek ezläw"
 
-#: kio_help.cpp:327
+#: kio_help.cpp:332
 msgid "Could not find filename %1 in %2."
 msgstr "%2 eçendä %1 biremen tabıp bulmadı."
 
@@ -86,23 +87,19 @@ msgstr "Bu istälek öçen alxäter yasa"
 msgid "Set the srcdir, for kdelibs"
 msgstr "Kdelibs öçen srcdir köylä"
 
-#: meinproc.cpp:82
-msgid "Parameters to pass to the stylesheet"
-msgstr "Bu tışlawğa tapşırası köylämälär"
-
-#: meinproc.cpp:83
+#: meinproc.cpp:85
 msgid "The file to transform"
 msgstr "Eşkärtü öçen birem"
 
-#: meinproc.cpp:94
+#: meinproc.cpp:96
 msgid "XML-Translator"
 msgstr "XML-Tärcemäçe"
 
-#: meinproc.cpp:96
+#: meinproc.cpp:98
 msgid "KDE Translator for XML"
 msgstr "KDE Tärcemäçe, XML öçen"
 
-#: meinproc.cpp:261
+#: meinproc.cpp:263
 #, c-format
 msgid "Could not write to cache file %1."
 msgstr "%1 alxäter biremenä yazıp bulmadı."
@@ -122,3 +119,9 @@ msgstr "Tışlawnı aşıru"
 #: xslt.cpp:86
 msgid "Writing document"
 msgstr "İstälek yazu"
+
+#~ msgid "There is no documentation available for %1."
+#~ msgstr "Biredä %1 öçen qullanmalar yuq."
+
+#~ msgid "Parameters to pass to the stylesheet"
+#~ msgstr "Bu tışlawğa tapşırası köylämälär"

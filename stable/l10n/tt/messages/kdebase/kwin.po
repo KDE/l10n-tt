@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kwin\n"
-"POT-Creation-Date: 2005-07-09 01:31+0200\n"
+"POT-Creation-Date: 2005-05-08 17:52+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -23,10 +23,6 @@ msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
-
-#: activation.cpp:695
-msgid "Window '%1' demands attention."
-msgstr "'%1' täräzäse íğtíbar sorí."
 
 #: kwinbindings.cpp:18
 msgid "System"
@@ -405,16 +401,23 @@ msgid "Desktop Screenshot"
 msgstr "Östäl Süräten Alu"
 
 #: main.cpp:62
-msgid "kwin: it looks like there's already a window manager running. kwin not started.\n"
-msgstr "kwin: täräzä idäräçeneñ başqa töre eşli inde axrısı. kwin cibbärelmäde.\n"
+msgid ""
+"kwin: it looks like there's already a window manager running. kwin not "
+"started.\n"
+msgstr ""
+"kwin: täräzä idäräçeneñ başqa töre eşli inde axrısı. kwin cibbärelmäde.\n"
 
 #: main.cpp:77
 msgid "kwin: failure during initialization; aborting"
 msgstr "kwin: eşlärgä äzerlängän çaqta işelde; yabılu başladı"
 
 #: main.cpp:98
-msgid "kwin: unable to claim manager selection, another wm running? (try using --replace)\n"
-msgstr "kwin: täräzä idäräçen saylawın uzdıra almím, itdäräçeneñ başqa töre eşlime inde? (--replace belän cibärep qara)\n"
+msgid ""
+"kwin: unable to claim manager selection, another wm running? (try using "
+"--replace)\n"
+msgstr ""
+"kwin: täräzä idäräçen saylawın uzdıra almím, itdäräçeneñ başqa töre eşlime "
+"inde? (--replace belän cibärep qara)\n"
 
 #: main.cpp:168
 msgid "KDE window manager"
@@ -456,130 +459,181 @@ msgstr ""
 msgid "*** No Windows ***"
 msgstr "*** Täräzälär Yuq ***"
 
-#: useractions.cpp:62
+#: useractions.cpp:63
 msgid "Keep &Above Others"
 msgstr "Başqalar &Östendä Bul"
 
-#: useractions.cpp:64
+#: useractions.cpp:65
 msgid "Keep &Below Others"
 msgstr "Başqalar &Astında Bul"
 
-#: useractions.cpp:66
+#: useractions.cpp:67
 msgid "&Fullscreen"
 msgstr "&Tulı ekranğa"
 
-#: useractions.cpp:67
+#: useractions.cpp:68
 msgid "&No Border"
 msgstr "&Qısasız"
 
-#: useractions.cpp:69
+#: useractions.cpp:70
 msgid "Window &Shortcut..."
 msgstr "Täräzä Çaptırma&sı..."
 
-#: useractions.cpp:70
+#: useractions.cpp:71
 msgid "&Special Window Settings..."
 msgstr "&Maxsus Täräzä Caylawı..."
 
-#: useractions.cpp:72
+#: useractions.cpp:73
 msgid "Ad&vanced"
 msgstr "Kiñäy&tep"
 
-#: useractions.cpp:79
+#: useractions.cpp:80
 msgid "Reset opacity to default value"
 msgstr "Tonıqlıq bäyäsen ğädätigä awdaru"
 
-#: useractions.cpp:81
+#: useractions.cpp:82
 msgid "Slide this to set the window's opacity"
 msgstr "Monı österäp täräzä tonıqlığın cayla"
 
-#: useractions.cpp:88
+#: useractions.cpp:89
 msgid "&Opacity"
 msgstr "T&onıqlıq"
 
-#: useractions.cpp:91
+#: useractions.cpp:92
 msgid "&Move"
 msgstr "&Küçer"
 
-#: useractions.cpp:92
+#: useractions.cpp:93
 msgid "Re&size"
 msgstr "Ülçä&me"
 
-#: useractions.cpp:93
+#: useractions.cpp:94
 msgid "Mi&nimize"
 msgstr "&Törep quy"
 
-#: useractions.cpp:94
+#: useractions.cpp:95
 msgid "Ma&ximize"
 msgstr "&Cäyep quy"
 
-#: useractions.cpp:95
+#: useractions.cpp:96
 msgid "Sh&ade"
 msgstr "&Külägäle"
 
-#: useractions.cpp:102
+#: useractions.cpp:103
 msgid "Configur&e Window Behavior..."
 msgstr "Täräzä &Isulların Caylaw..."
 
-#: useractions.cpp:197
+#: useractions.cpp:198
 msgid "To &Desktop"
 msgstr "Ös&tälgä"
 
-#: useractions.cpp:210
+#: useractions.cpp:211
 msgid "&All Desktops"
 msgstr "&Bar Öställär"
 
-#: workspace.cpp:914 workspace.cpp:934
+#: workspace.cpp:895 workspace.cpp:915
 #, c-format
 msgid "Desktop %1"
 msgstr "%1 Östäl"
 
-#: workspace.cpp:2304
+#: workspace.cpp:2279
 msgid ""
 "You have selected to show a window without its border.\n"
-"Without the border, you will not be able to enable the border again using the mouse: use the window operations menu instead, activated using the %1 keyboard shortcut."
+"Without the border, you will not be able to enable the border again using the "
+"mouse: use the window operations menu instead, activated using the %1 keyboard "
+"shortcut."
 msgstr ""
 "Täräzäne çiksez kürsätelü saylandı.\n"
-"Küse belän genä bu çikne kire qaytartırğa bulmas inde: töylekneñ %1 çaptırğıçı aşa täräzä üzgärtü saylağın açıp qına anı qaytarıp bula."
+"Küse belän genä bu çikne kire qaytartırğa bulmas inde: töylekneñ %1 çaptırğıçı "
+"aşa täräzä üzgärtü saylağın açıp qına anı qaytarıp bula."
 
-#: workspace.cpp:2316
+#: workspace.cpp:2291
 msgid ""
 "You have selected to show a window in fullscreen mode.\n"
-"If the application itself does not have an option to turn the fullscreen mode off you will not be able to disable it again using the mouse: use the window operations menu instead, activated using the %1 keyboard shortcut."
+"If the application itself does not have an option to turn the fullscreen mode "
+"off you will not be able to disable it again using the mouse: use the window "
+"operations menu instead, activated using the %1 keyboard shortcut."
 msgstr ""
 "Täräzäne tulı küräkkä cäyep kürsätelü saylandı.\n"
-"Bu yazılımda täräzä kürsätü ısulın saylaw mömkinlege yuq ikän, küse belän genä tulı küräkkä cäyelüen sünderep bulmas inde: töylekneñ %1 çaptırğıçı aşa täräzä üzgärtü saylağın açıp qına anı qaytarıp bula."
+"Bu yazılımda täräzä kürsätü ısulın saylaw mömkinlege yuq ikän, küse belän genä "
+"tulı küräkkä cäyelüen sünderep bulmas inde: töylekneñ %1 çaptırğıçı aşa täräzä "
+"üzgärtü saylağın açıp qına anı qaytarıp bula."
 
-#: workspace.cpp:2353 workspace.cpp:2423
-msgid "The Composite Manager could not be started.\\nMake sure you have \"kompmgr\" in a $PATH directory."
-msgstr "Composite Manager yazılımın cibärep bulmadı.\\nŞuña kürä \"kompmgr\" yazılımnıñ $PATH törgägendä buluın tikşerep al."
+#: workspace.cpp:2328 workspace.cpp:2398
+msgid ""
+"The Composite Manager could not be started.\\nMake sure you have \"kompmgr\" in "
+"a $PATH directory."
+msgstr ""
+"Composite Manager yazılımın cibärep bulmadı.\\nŞuña kürä \"kompmgr\" yazılımnıñ "
+"$PATH törgägendä buluın tikşerep al."
 
-#: workspace.cpp:2403
-msgid "The Composite Manager crashed twice within a minute and is therefore disabled for this session."
-msgstr "Ber minut eçendä Composite Manager yazılımı ike tapqır işelde inde, şuña kürä anı bu sessidä cibärü mömkinlege sünderelde."
+#: workspace.cpp:2378
+msgid ""
+"The Composite Manager crashed twice within a minute and is therefore disabled "
+"for this session."
+msgstr ""
+"Ber minut eçendä Composite Manager yazılımı ike tapqır işelde inde, şuña kürä "
+"anı bu sessidä cibärü mömkinlege sünderelde."
 
-#: workspace.cpp:2404 workspace.cpp:2424 workspace.cpp:2462
+#: workspace.cpp:2379 workspace.cpp:2399 workspace.cpp:2437
 msgid "Composite Manager Failure"
 msgstr "Composite Manager yazılımı işelde"
 
-#: workspace.cpp:2441
-msgid "<qt><b>kompmgr failed to open the display</b><br>There is probably an invalid display entry in your ~/.xcompmgrrc.</qt>"
-msgstr "<qt><b>kompmgr bu küräkne aça almí</b><br>Bu ~/.xcompmgrrc bireme eçendä yalğış küräk turında yazmanıñ buluı bar.</qt>"
+#: workspace.cpp:2416
+msgid ""
+"<qt><b>kompmgr failed to open the display</b>"
+"<br>There is probably an invalid display entry in your ~/.xcompmgrrc.</qt>"
+msgstr ""
+"<qt><b>kompmgr bu küräkne aça almí</b>"
+"<br>Bu ~/.xcompmgrrc bireme eçendä yalğış küräk turında yazmanıñ buluı bar.</qt>"
 
-#: workspace.cpp:2443
-msgid "<qt><b>kompmgr cannot find the Xrender extension</b><br>You are using either an outdated or a crippled version of XOrg.<br>Get XOrg &ge; 6.8 from www.freedesktop.org.<br></qt>"
-msgstr "<qt><b>kompmgr yazılımı Xrender östämäsen taba almí</b><br>XOrg'nıñ ya bik iske, yä imgäk söremen qullanasıñ.<br>www.freedesktop.org säxifäsendä 6.8 söremennän dä yañaraq bulğan XOrg alası.<br></qt>"
+#: workspace.cpp:2418
+msgid ""
+"<qt><b>kompmgr cannot find the Xrender extension</b>"
+"<br>You are using either an outdated or a crippled version of XOrg."
+"<br>Get XOrg &ge; 6.8 from www.freedesktop.org."
+"<br></qt>"
+msgstr ""
+"<qt><b>kompmgr yazılımı Xrender östämäsen taba almí</b>"
+"<br>XOrg'nıñ ya bik iske, yä imgäk söremen qullanasıñ."
+"<br>www.freedesktop.org säxifäsendä 6.8 söremennän dä yañaraq bulğan XOrg "
+"alası."
+"<br></qt>"
 
-#: workspace.cpp:2445
-msgid "<qt><b>Composite extension not found</b><br>You <i>must</i> use XOrg &ge; 6.8 for translucency and shadows to work.<br>Additionally, you need to add a new section to your X config file:<br><i>Section \"Extensions\"<br>Option \"Composite\" \"Enable\"<br>EndSection</i></qt>"
-msgstr "<qt><b>Composite östämäse tabılmadı</b><br>Ütäkürenü belän külägä bulsın öçen, XOrg söreme 6.8'dän dä kim bulmasqa <i>tieş</i>.<br>Monnan tış, X'nıñ caylaw biremenä yaña bülek östise bar:<br><i>Section \"Extensions\"<br>Option \"Composite\" \"Enable\"<br>EndSection</i></qt>"
+#: workspace.cpp:2420
+msgid ""
+"<qt><b>Composite extension not found</b>"
+"<br>You <i>must</i> use XOrg &ge; 6.8 for translucency and shadows to work."
+"<br>Additionally, you need to add a new section to your X config file:"
+"<br><i>Section \"Extensions\""
+"<br>Option \"Composite\" \"Enable\""
+"<br>EndSection</i></qt>"
+msgstr ""
+"<qt><b>Composite östämäse tabılmadı</b>"
+"<br>Ütäkürenü belän külägä bulsın öçen, XOrg söreme 6.8'dän dä kim bulmasqa <i>"
+"tieş</i>."
+"<br>Monnan tış, X'nıñ caylaw biremenä yaña bülek östise bar:"
+"<br><i>Section \"Extensions\""
+"<br>Option \"Composite\" \"Enable\""
+"<br>EndSection</i></qt>"
 
-#: workspace.cpp:2450
-msgid "<qt><b>Damage extension not found</b><br>You <i>must</i> use XOrg &ge; 6.8 for translucency and shadows to work.</qt>"
-msgstr "<qt><b>Damage östämäse tabılmadı</b><br>Ütäkürenü belän külägä bulsın öçen, XOrg söreme 6.8'dän dä kim bulmasqa <i>tieş</i>.</qt>"
+#: workspace.cpp:2425
+msgid ""
+"<qt><b>Damage extension not found</b>"
+"<br>You <i>must</i> use XOrg &ge; 6.8 for translucency and shadows to work.</qt>"
+msgstr ""
+"<qt><b>Damage östämäse tabılmadı</b>"
+"<br>Ütäkürenü belän külägä bulsın öçen, XOrg söreme 6.8'dän dä kim bulmasqa <i>"
+"tieş</i>.</qt>"
 
-#: workspace.cpp:2452
-msgid "<qt><b>XFixes extension not found</b><br>You <i>must</i> use XOrg &ge; 6.8 for translucency and shadows to work.</qt>"
-msgstr "<qt><b>XFixes digän östämä tabılmadı</b><br>Ütäkürenü belän külägä eşläsen öçen, XOrg söreme 6.8'dän dä kim bulmasqa <i>tieş</i>.</qt>"
+#: workspace.cpp:2427
+msgid ""
+"<qt><b>XFixes extension not found</b>"
+"<br>You <i>must</i> use XOrg &ge; 6.8 for translucency and shadows to work.</qt>"
+msgstr ""
+"<qt><b>XFixes digän östämä tabılmadı</b>"
+"<br>Ütäkürenü belän külägä eşläsen öçen, XOrg söreme 6.8'dän dä kim bulmasqa <i>"
+"tieş</i>.</qt>"
 
 #: killer/killer.cpp:50
 msgid "KWin helper utility"
@@ -590,66 +644,16 @@ msgid "This helper utility is not supposed to be called directly."
 msgstr "Bu yärdämçel qoral turıdan cibärü öçen qullanıla almí."
 
 #: killer/killer.cpp:71
-msgid "<qt>Window with title \"<b>%2</b>\" is not responding. This window belongs to application <b>%1</b> (PID=%3, hostname=%4).<p>Do you wish to terminate this application? (All unsaved data in this application will be lost.)</qt>"
-msgstr "<qt>\"<b>%2</b>\" dip atalğan täräzä endäşmi. Bu täräzä <b>%1</b> yazılımnıqı bula (PID=%3, host adı=%4).<p>Bu yazılımnı özep alasımı? (Bu çaqta ul yazılımda saqlanmí qalğan belem yuğalır.)</qt>"
-
-#: killer/killer.cpp:76
-msgid "Terminate"
-msgstr "Özder"
-
-#: killer/killer.cpp:76
-msgid "Keep Running"
-msgstr "CIbärelgän Kileş Qaldır"
-
-#: lib/kcommondecoration.cpp:265
-msgid "<center><b>%1 preview</b></center>"
-msgstr "<center><b>%1 küzläp alu</b></center>"
-
-#: lib/kcommondecoration.cpp:329
-msgid "Menu"
-msgstr "Saylaq"
-
-#: lib/kcommondecoration.cpp:342 lib/kcommondecoration.cpp:527
-msgid "Not on all desktops"
-msgstr "Bar östäldä dä tügel"
-
-#: lib/kcommondecoration.cpp:342 lib/kcommondecoration.cpp:528
-msgid "On all desktops"
-msgstr "Bar östäldä dä"
-
-#: lib/kcommondecoration.cpp:364
-msgid "Minimize"
-msgstr "Törep quy"
-
-#: lib/kcommondecoration.cpp:376 lib/kcommondecoration.cpp:516
-msgid "Maximize"
-msgstr "Cäyep quy"
-
-#: lib/kcommondecoration.cpp:399 lib/kcommondecoration.cpp:570
-msgid "Do not keep above others"
-msgstr "Başqalar öständä totamasqa"
-
-#: lib/kcommondecoration.cpp:399 lib/kcommondecoration.cpp:570
-#: lib/kcommondecoration.cpp:594
-msgid "Keep above others"
-msgstr "Başqalar östendä qaldıra"
-
-#: lib/kcommondecoration.cpp:412 lib/kcommondecoration.cpp:587
-msgid "Do not keep below others"
-msgstr "Başqalar astında totamasqa"
-
-#: lib/kcommondecoration.cpp:412 lib/kcommondecoration.cpp:577
-#: lib/kcommondecoration.cpp:587
-msgid "Keep below others"
-msgstr "Başqalar astında qaldıra"
-
-#: lib/kcommondecoration.cpp:425 lib/kcommondecoration.cpp:539
-msgid "Unshade"
-msgstr "Külägäsez"
-
-#: lib/kcommondecoration.cpp:425 lib/kcommondecoration.cpp:540
-msgid "Shade"
-msgstr "Külägäle"
+msgid ""
+"<qt>Window with title \"<b>%2</b>\" is not responding. This window belongs to "
+"application <b>%1</b> (PID=%3, hostname=%4)."
+"<p>Do you wish to terminate this application? (All unsaved data in this "
+"application will be lost.)</qt>"
+msgstr ""
+"<qt>\"<b>%2</b>\" dip atalğan täräzä endäşmi. Bu täräzä <b>%1</b> "
+"yazılımnıqı bula (PID=%3, host adı=%4)."
+"<p>Bu yazılımnı özep alasımı? (Bu çaqta ul yazılımda saqlanmí qalğan belem "
+"yuğalır.)</qt>"
 
 #: lib/kdecoration_plugins_p.cpp:120
 msgid "No window decoration plugin library was found."
@@ -662,3 +666,48 @@ msgstr "Täräzä tışlaw öçen ğädäti östämä watıq bulğaç, anı cib�
 #: lib/kdecoration_plugins_p.cpp:159
 msgid "The library %1 is not a KWin plugin."
 msgstr "Bu %1 tuplaması KWin quşımtası tügel."
+
+#~ msgid "Window '%1' demands attention."
+#~ msgstr "'%1' täräzäse íğtíbar sorí."
+
+#~ msgid "Terminate"
+#~ msgstr "Özder"
+
+#~ msgid "Keep Running"
+#~ msgstr "CIbärelgän Kileş Qaldır"
+
+#~ msgid "<center><b>%1 preview</b></center>"
+#~ msgstr "<center><b>%1 küzläp alu</b></center>"
+
+#~ msgid "Menu"
+#~ msgstr "Saylaq"
+
+#~ msgid "Not on all desktops"
+#~ msgstr "Bar östäldä dä tügel"
+
+#~ msgid "On all desktops"
+#~ msgstr "Bar östäldä dä"
+
+#~ msgid "Minimize"
+#~ msgstr "Törep quy"
+
+#~ msgid "Maximize"
+#~ msgstr "Cäyep quy"
+
+#~ msgid "Do not keep above others"
+#~ msgstr "Başqalar öständä totamasqa"
+
+#~ msgid "Keep above others"
+#~ msgstr "Başqalar östendä qaldıra"
+
+#~ msgid "Do not keep below others"
+#~ msgstr "Başqalar astında totamasqa"
+
+#~ msgid "Keep below others"
+#~ msgstr "Başqalar astında qaldıra"
+
+#~ msgid "Unshade"
+#~ msgstr "Külägäsez"
+
+#~ msgid "Shade"
+#~ msgstr "Külägäle"

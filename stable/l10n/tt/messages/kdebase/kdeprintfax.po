@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdeprintfax\n"
-"POT-Creation-Date: 2005-06-16 01:26+0200\n"
+"POT-Creation-Date: 2004-10-12 01:16+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -244,11 +244,11 @@ msgstr "Sözgeçlär"
 msgid "Filters Configuration"
 msgstr "Sözgeç Caylawı"
 
-#: faxab.cpp:41 kdeprintfax.cpp:87
+#: faxab.cpp:41 kdeprintfax.cpp:88
 msgid "Name"
 msgstr "İsem"
 
-#: faxab.cpp:42 kdeprintfax.cpp:86 kdeprintfax.cpp:538
+#: faxab.cpp:42 kdeprintfax.cpp:87 kdeprintfax.cpp:542
 msgid "Fax Number"
 msgstr "Faks Numırı"
 
@@ -264,139 +264,139 @@ msgstr "Adresdäftär Ü&zgärtü"
 msgid "No fax number found in your address book."
 msgstr "Adres däftärendä faks sannarı tabılmadı."
 
-#: kdeprintfax.cpp:73
+#: kdeprintfax.cpp:74
 msgid "Move up"
 msgstr "Öskä küçer"
 
-#: kdeprintfax.cpp:78
+#: kdeprintfax.cpp:79
 msgid "Move down"
 msgstr "Asqa küçer"
 
-#: kdeprintfax.cpp:81
+#: kdeprintfax.cpp:82
 msgid "F&iles:"
 msgstr "B&irem:"
 
-#: kdeprintfax.cpp:88
+#: kdeprintfax.cpp:89
 msgid "Enterprise"
 msgstr "Şerkät"
 
-#: kdeprintfax.cpp:95
+#: kdeprintfax.cpp:96
 msgid "Add fax number"
 msgstr "Faks sanın östä"
 
-#: kdeprintfax.cpp:99
+#: kdeprintfax.cpp:100
 msgid "Add fax number from addressbook"
 msgstr "Faksnıñ sanın adres däftärennän östä"
 
-#: kdeprintfax.cpp:103
+#: kdeprintfax.cpp:104
 msgid "Remove fax number"
 msgstr "Faksnıñ sanın beter"
 
-#: kdeprintfax.cpp:106
+#: kdeprintfax.cpp:107
 msgid "&Comment:"
 msgstr "&Añlatma:"
 
-#: kdeprintfax.cpp:114
+#: kdeprintfax.cpp:115
 msgid "Sched&ule:"
 msgstr "&Tezemgä quyu:"
 
-#: kdeprintfax.cpp:116
+#: kdeprintfax.cpp:117
 msgid "Now"
 msgstr "Xäzer"
 
-#: kdeprintfax.cpp:117
+#: kdeprintfax.cpp:118
 msgid "At Specified Time"
 msgstr "Bilgelängän Çaqta"
 
-#: kdeprintfax.cpp:125
+#: kdeprintfax.cpp:126
 msgid "Su&bject:"
 msgstr "Ni t&urında::"
 
-#: kdeprintfax.cpp:165 kdeprintfax.cpp:245
+#: kdeprintfax.cpp:166 kdeprintfax.cpp:249
 msgid "Processing..."
 msgstr "Eşkärtelä..."
 
-#: kdeprintfax.cpp:166 kdeprintfax.cpp:390
+#: kdeprintfax.cpp:167 kdeprintfax.cpp:394
 msgid "Idle"
 msgstr "Eşsez"
 
-#: kdeprintfax.cpp:170
+#: kdeprintfax.cpp:171
 msgid "Send to Fax"
 msgstr "Faks aşa Cibär"
 
-#: kdeprintfax.cpp:184
+#: kdeprintfax.cpp:186
 msgid "&Add File..."
 msgstr "Birem &Östäw..."
 
-#: kdeprintfax.cpp:185
+#: kdeprintfax.cpp:187
 msgid "&Remove File"
 msgstr "Biremne &Beter"
 
-#: kdeprintfax.cpp:186
+#: kdeprintfax.cpp:188
 msgid "&Send Fax"
 msgstr "Faks &Cibär"
 
-#: kdeprintfax.cpp:187
+#: kdeprintfax.cpp:189
 msgid "A&bort"
 msgstr "Ö&zäse"
 
-#: kdeprintfax.cpp:188
+#: kdeprintfax.cpp:190
 msgid "A&ddress Book"
 msgstr "Adres &Däftäre"
 
-#: kdeprintfax.cpp:189
+#: kdeprintfax.cpp:191
 msgid "V&iew Log"
 msgstr "Köndälek &Qaraw"
 
-#: kdeprintfax.cpp:190
+#: kdeprintfax.cpp:192
 msgid "Vi&ew File"
 msgstr "Birem &Qaraw"
 
-#: kdeprintfax.cpp:191
+#: kdeprintfax.cpp:193
 msgid "&New Fax Recipient..."
 msgstr "&Yaña Faks-Aluçı..."
 
-#: kdeprintfax.cpp:238
+#: kdeprintfax.cpp:242
 msgid "No file to fax."
 msgstr "Faks cibärü öçen birem yuq."
 
-#: kdeprintfax.cpp:240
+#: kdeprintfax.cpp:244
 msgid "No fax number specified."
 msgstr "Faksnıñ sanı äytelmäde."
 
-#: kdeprintfax.cpp:248
+#: kdeprintfax.cpp:252
 msgid "Unable to start Fax process."
 msgstr "Faks eşen cibärep bulmadı."
 
-#: kdeprintfax.cpp:254
+#: kdeprintfax.cpp:258
 msgid "Unable to stop Fax process."
 msgstr "Faks eşlänüen tuqtap bulmadı."
 
-#: kdeprintfax.cpp:277
+#: kdeprintfax.cpp:281
 #, c-format
 msgid "Unable to retrieve %1."
 msgstr "%1 digänen alıp bulmadı."
 
-#: kdeprintfax.cpp:397
+#: kdeprintfax.cpp:401
 msgid "Fax error: see log message for more information."
 msgstr "Faks xatası: kübrägen belü öçen köndälekkä qarísı."
 
-#: kdeprintfax.cpp:540
+#: kdeprintfax.cpp:544
 msgid "Enter recipient fax properties."
 msgstr "Aluçı faks üzençäleklären kertäse."
 
-#: kdeprintfax.cpp:541
+#: kdeprintfax.cpp:545
 msgid "&Number:"
 msgstr "&San:"
 
-#: kdeprintfax.cpp:542
+#: kdeprintfax.cpp:546
 msgid "N&ame:"
 msgstr "&İsem:"
 
-#: kdeprintfax.cpp:543
+#: kdeprintfax.cpp:547
 msgid "&Enterprise:"
 msgstr "&Şerkät:"
 
-#: kdeprintfax.cpp:569
+#: kdeprintfax.cpp:573
 msgid "Invalid fax number."
 msgstr "Faksnıñ sanı yaraqsız."

@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs ktexteditor_isearch\n"
-"POT-Creation-Date: 2005-06-14 01:24+0200\n"
+"POT-Creation-Date: 2004-10-27 01:20+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -86,7 +86,8 @@ msgstr "Törelep Kiregä İ-Ezläw Uñışsız:"
 
 #: ISearchPlugin.cpp:269
 msgid ""
-"_: Incremental Search has passed both the end of the document and the original starting position\n"
+"_: Incremental Search has passed both the end of the document and the original "
+"starting position\n"
 "Overwrapped I-Search:"
 msgstr "Törelep A-Ezläw:"
 

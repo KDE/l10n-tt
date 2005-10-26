@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdesu\n"
-"POT-Creation-Date: 2005-05-18 21:23+0200\n"
+"POT-Creation-Date: 2005-01-16 01:22+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -86,8 +86,10 @@ msgid "No command specified."
 msgstr "Boyırıq birelmäde."
 
 #: kdesu.cpp:339
-msgid "Su returned with an error.\n"
-msgstr "Su ber xatanı belän qaytarttı.\n"
+msgid ""
+"Su returned with an error.\n"
+msgstr ""
+"Su ber xatanı belän qaytarttı.\n"
 
 #: kdesu.cpp:360
 msgid "Command:"
@@ -107,12 +109,20 @@ msgid "Run as %1"
 msgstr "%1 adınnan Cibär"
 
 #: sudlg.cpp:23
-msgid "The action you requested needs root privileges. Please enter root's password below or click Ignore to continue with your current privileges."
-msgstr "Bu eş qılu öçen root xoquqları kiräk. Xäzer root sersüzen kertäse qala, yä ki Qarama östenä çirtep biredäge xoquqlar belän däwam itäse."
+msgid ""
+"The action you requested needs root privileges. Please enter root's password "
+"below or click Ignore to continue with your current privileges."
+msgstr ""
+"Bu eş qılu öçen root xoquqları kiräk. Xäzer root sersüzen kertäse qala, yä ki "
+"Qarama östenä çirtep biredäge xoquqlar belän däwam itäse."
 
 #: sudlg.cpp:27
-msgid "The action you requested needs additional privileges. Please enter the password for \"%1\" below or click Ignore to continue with your current privileges."
-msgstr "Bu soralğan eş qılu öçen östämä xoquqlar kiräk. Xäzer \"%1\" öçen sersüz kertäse qala, yä ki Qarama östenä çirtep biredäge xoquqlar belän däwam itäse."
+msgid ""
+"The action you requested needs additional privileges. Please enter the password "
+"for \"%1\" below or click Ignore to continue with your current privileges."
+msgstr ""
+"Bu soralğan eş qılu öçen östämä xoquqlar kiräk. Xäzer \"%1\" öçen sersüz "
+"kertäse qala, yä ki Qarama östenä çirtep biredäge xoquqlar belän däwam itäse."
 
 #: sudlg.cpp:32
 msgid "&Ignore"
@@ -133,10 +143,12 @@ msgstr ""
 #: sudlg.cpp:64
 msgid ""
 "You are not allowed to use 'su';\n"
-"on some systems, you need to be in a special group (often: wheel) to use this program."
+"on some systems, you need to be in a special group (often: wheel) to use this "
+"program."
 msgstr ""
 "'su' qullanu tíılğan;\n"
-"bu yazılımnı qullanu öçen, qayber sistemnärdä nindider törkemgä kergän buluı kiräk (yış: wheel)."
+"bu yazılımnı qullanu öçen, qayber sistemnärdä nindider törkemgä kergän buluı "
+"kiräk (yış: wheel)."
 
 #: sudlg.cpp:71
 msgid "Incorrect password; please try again."

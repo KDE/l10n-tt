@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kappfinder\n"
-"POT-Creation-Date: 2005-05-18 21:23+0200\n"
+"POT-Creation-Date: 2004-10-12 01:16+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -25,8 +25,14 @@ msgid "KAppfinder"
 msgstr "KAppfinder"
 
 #: toplevel.cpp:53
-msgid "The application finder looks for non-KDE applications on your system and adds them to the KDE menu system. Click 'Scan' to begin, select the desired applications and then click 'Apply'."
-msgstr "Qullanma ezläwçese sistemıñdağa KDEğa qaramağan qullanmalar ezläp alarnı KDE sistemına östi. Başlar öçen \"Tara\" bas, telägän qullanmalarnı saylap \"Aşır\" bas."
+msgid ""
+"The application finder looks for non-KDE applications on your system and adds "
+"them to the KDE menu system. Click 'Scan' to begin, select the desired "
+"applications and then click 'Apply'."
+msgstr ""
+"Qullanma ezläwçese sistemıñdağa KDEğa qaramağan qullanmalar ezläp alarnı KDE "
+"sistemına östi. Başlar öçen \"Tara\" bas, telägän qullanmalarnı saylap \"Aşır\" "
+"bas."
 
 #: toplevel.cpp:63
 msgid "Application"

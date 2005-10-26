@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase libdmctl\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2005-08-18 11:42+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,34 +12,34 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: dmctl.cpp:281
+#: dmctl.cpp:290
 msgid ""
 "_: user: ...\n"
 "%1: TTY login"
 msgstr "%1: TTY login"
 
-#: dmctl.cpp:287
+#: dmctl.cpp:296
 msgid "Unused"
 msgstr "Qulanılmí"
 
-#: dmctl.cpp:289
+#: dmctl.cpp:298
 msgid "X login on remote host"
 msgstr "Çit hostındağı X login"
 
-#: dmctl.cpp:290
+#: dmctl.cpp:299
 #, c-format
 msgid ""
 "_: ... host\n"
 "X login on %1"
 msgstr "X %1 hostına kerä"
 
-#: dmctl.cpp:291
+#: dmctl.cpp:300
 msgid ""
 "_: user: session type\n"
 "%1: %2"
 msgstr "%1: %2"
 
-#: dmctl.cpp:306
+#: dmctl.cpp:315
 msgid ""
 "_: session (location)\n"
 "%1 (%2)"

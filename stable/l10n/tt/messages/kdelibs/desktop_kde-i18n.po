@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2005-05-04 16:02+0000\n"
+"POT-Creation-Date: 2005-00-28 00:33+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -10,314 +10,313 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../kde-i18n/af/messages/entry.desktop:2
+#: kde-i18n/af/messages/entry.desktop:2
 msgid "Name=Afrikaans"
 msgstr "Name=Afrikança"
 
-#: ../kde-i18n/ar/messages/entry.desktop:2
+#: kde-i18n/ar/messages/entry.desktop:2
 msgid "Name=Arabic"
 msgstr "Name=Ğäräpçä"
 
-#: ../kde-i18n/az/messages/entry.desktop:2
+#: kde-i18n/az/messages/entry.desktop:2
 msgid "Name=Azerbaijani"
 msgstr "Name=Äzerçä"
 
-#: ../kde-i18n/be/messages/entry.desktop:2
+#: kde-i18n/be/messages/entry.desktop:2
 msgid "Name=Belarusian"
 msgstr "Name=Belarusça"
 
-#: ../kde-i18n/bg/messages/entry.desktop:2
+#: kde-i18n/bg/messages/entry.desktop:2
 msgid "Name=Bulgarian"
 msgstr "Name=Bulgarça"
 
-#: ../kde-i18n/bn/messages/entry.desktop:2
+#: kde-i18n/bn/messages/entry.desktop:2
 msgid "Name=Bengali"
 msgstr "Name=Bengalça"
 
-#: ../kde-i18n/br/messages/entry.desktop:2
+#: kde-i18n/br/messages/entry.desktop:2
 msgid "Name=Breton"
 msgstr "Name=Bretonça"
 
-#: ../kde-i18n/bs/messages/entry.desktop:2
+#: kde-i18n/bs/messages/entry.desktop:2
 msgid "Name=Bosnian"
 msgstr "Name=Bosniçä"
 
-#: ../kde-i18n/ca/messages/entry.desktop:2
+#: kde-i18n/ca/messages/entry.desktop:2
 msgid "Name=Catalan"
 msgstr "Name=Katalança"
 
-#: ../kde-i18n/cs/messages/entry.desktop:2
+#: kde-i18n/cs/messages/entry.desktop:2
 msgid "Name=Czech"
 msgstr "Name=Çexçä"
 
-#: ../kde-i18n/cy/messages/entry.desktop:2
+#: kde-i18n/cy/messages/entry.desktop:2
 msgid "Name=Welsh"
 msgstr "Name=Welşçä"
 
-#: ../kde-i18n/da/messages/entry.desktop:2
+#: kde-i18n/da/messages/entry.desktop:2
 msgid "Name=Danish"
 msgstr "Name=Dança"
 
-#: ../kde-i18n/de/messages/entry.desktop:2
+#: kde-i18n/de/messages/entry.desktop:2
 msgid "Name=German"
 msgstr "Name=Almança"
 
-#: ../kde-i18n/el/messages/entry.desktop:2
+#: kde-i18n/el/messages/entry.desktop:2
 msgid "Name=Greek"
 msgstr "Name=Yunança"
 
-#: ../kde-i18n/en_GB/messages/entry.desktop:2
+#: kde-i18n/en_GB/messages/entry.desktop:2
 msgid "Name=British English"
 msgstr "Name=İnglizçä (Britania)"
 
-#: ../kde-i18n/eo/messages/entry.desktop:2
+#: kde-i18n/eo/messages/entry.desktop:2
 msgid "Name=Esperanto"
 msgstr "Name=Esperantoça"
 
-#: ../kde-i18n/es/messages/entry.desktop:2
+#: kde-i18n/es/messages/entry.desktop:2
 msgid "Name=Spanish"
 msgstr "Name=İspança"
 
-#: ../kde-i18n/et/messages/entry.desktop:2
+#: kde-i18n/et/messages/entry.desktop:2
 msgid "Name=Estonian"
 msgstr "Name=Estonça"
 
-#: ../kde-i18n/eu/messages/entry.desktop:2
+#: kde-i18n/eu/messages/entry.desktop:2
 msgid "Name=Basque"
 msgstr "Name=Basqça"
 
-#: ../kde-i18n/fa/messages/entry.desktop:2
+#: kde-i18n/fa/messages/entry.desktop:2
 msgid "Name=Farsi"
 msgstr "Name=Farsıça"
 
-#: ../kde-i18n/fi/messages/entry.desktop:2
+#: kde-i18n/fi/messages/entry.desktop:2
 msgid "Name=Finnish"
 msgstr "Name=Finçä"
 
-#: ../kde-i18n/fr/messages/entry.desktop:2
+#: kde-i18n/fr/messages/entry.desktop:2
 msgid "Name=French"
 msgstr "Name=Fransça"
 
-#: ../kde-i18n/fy/messages/entry.desktop:2
+#: kde-i18n/fy/messages/entry.desktop:2
 msgid "Name=Frisian"
 msgstr "Frisçä"
 
-#: ../kde-i18n/ga/messages/entry.desktop:2
+#: kde-i18n/ga/messages/entry.desktop:2
 msgid "Name=Irish"
 msgstr "Name=İrişçä"
 
-#: ../kde-i18n/gl/messages/entry.desktop:2
+#: kde-i18n/gl/messages/entry.desktop:2
 msgid "Name=Galician"
 msgstr "Name=Galisçä"
 
-#: ../kde-i18n/he/messages/entry.desktop:2
+#: kde-i18n/he/messages/entry.desktop:2
 msgid "Name=Hebrew"
 msgstr "Name=Yähüdçä"
 
-#: ../kde-i18n/hi/messages/entry.desktop:2
+#: kde-i18n/hi/messages/entry.desktop:2
 msgid "Name=Hindi"
 msgstr "Name=Hindçä"
 
-#: ../kde-i18n/hr/messages/entry.desktop:2
+#: kde-i18n/hr/messages/entry.desktop:2
 msgid "Name=Croatian"
 msgstr "Name=Kroatça"
 
-#: ../kde-i18n/hsb/messages/entry.desktop:2
+#: kde-i18n/hsb/messages/entry.desktop:2
 msgid "Name=Upper Sorbian"
 msgstr "Name=Sorbça, Öske"
 
-#: ../kde-i18n/hu/messages/entry.desktop:2
+#: kde-i18n/hu/messages/entry.desktop:2
 msgid "Name=Hungarian"
 msgstr "Name=Macarça"
 
-#: ../kde-i18n/id/messages/entry.desktop:2
+#: kde-i18n/id/messages/entry.desktop:2
 msgid "Name=Indonesian"
 msgstr "Name=İndonesçä"
 
-#: ../kde-i18n/is/messages/entry.desktop:2
+#: kde-i18n/is/messages/entry.desktop:2
 msgid "Name=Icelandic"
 msgstr "Name=İslandça"
 
-#: ../kde-i18n/it/messages/entry.desktop:2
+#: kde-i18n/it/messages/entry.desktop:2
 msgid "Name=Italian"
 msgstr "Name=İtalça"
 
-#: ../kde-i18n/ja/messages/entry.desktop:2
+#: kde-i18n/ja/messages/entry.desktop:2
 msgid "Name=Japanese"
 msgstr "Name=Japança"
 
-#: ../kde-i18n/ko/messages/entry.desktop:2
+#: kde-i18n/ko/messages/entry.desktop:2
 msgid "Name=Korean"
 msgstr "Name=Koreyçä"
 
-#: ../kde-i18n/ku/messages/entry.desktop:2
+#: kde-i18n/ku/messages/entry.desktop:2
 msgid "Name=Kurdish"
 msgstr "Name=Kördçä"
 
-#: ../kde-i18n/ky/messages/entry.desktop:2
-msgid "Name=Kirghiz"
-msgstr "Name=Qırğızça"
-
-#: ../kde-i18n/lo/messages/entry.desktop:2
+#: kde-i18n/lo/messages/entry.desktop:2
 msgid "Name=Lao"
 msgstr "Name=Laoça"
 
-#: ../kde-i18n/lt/messages/entry.desktop:2
+#: kde-i18n/lt/messages/entry.desktop:2
 msgid "Name=Lithuanian"
 msgstr "Name=Litçä"
 
-#: ../kde-i18n/lv/messages/entry.desktop:2
+#: kde-i18n/lv/messages/entry.desktop:2
 msgid "Name=Latvian"
 msgstr "Name=Latça"
 
-#: ../kde-i18n/mi/messages/entry.desktop:2
+#: kde-i18n/mi/messages/entry.desktop:2
 msgid "Name=Maori"
 msgstr "Name=Maoriça"
 
-#: ../kde-i18n/mk/messages/entry.desktop:2
+#: kde-i18n/mk/messages/entry.desktop:2
 msgid "Name=Macedonian"
 msgstr "Name=Makedonça"
 
-#: ../kde-i18n/mn/messages/entry.desktop:2
+#: kde-i18n/mn/messages/entry.desktop:2
 msgid "Name=Mongolian"
 msgstr "Name=Moğolça"
 
-#: ../kde-i18n/ms/messages/entry.desktop:2
+#: kde-i18n/ms/messages/entry.desktop:2
 msgid "Name=Malay"
 msgstr "Name=Malayça"
 
-#: ../kde-i18n/mt/messages/entry.desktop:2
+#: kde-i18n/mt/messages/entry.desktop:2
 msgid "Name=Maltese"
 msgstr "Name=Maltesçä"
 
-#: ../kde-i18n/nb/messages/entry.desktop:2
+#: kde-i18n/nb/messages/entry.desktop:2
 msgid "Name=Norwegian Bokmål"
 msgstr "Name=Norvegçä (ädäbi)"
 
-#: ../kde-i18n/nds/messages/entry.desktop:2
+#: kde-i18n/nds/messages/entry.desktop:2
 msgid "Name=Low Saxon"
 msgstr "Name=Saksonça, Asqı"
 
-#: ../kde-i18n/nl/messages/entry.desktop:2
+#: kde-i18n/nl/messages/entry.desktop:2
 msgid "Name=Dutch"
 msgstr "Name=Dutça"
 
-#: ../kde-i18n/nn/messages/entry.desktop:2
+#: kde-i18n/nn/messages/entry.desktop:2
 msgid "Name=Norwegian Nynorsk"
 msgstr "Name=Norwejçä (Ninorsk)"
 
-#: ../kde-i18n/nso/messages/entry.desktop:2
+#: kde-i18n/nso/messages/entry.desktop:2
 msgid "Name=Northern Sotho"
 msgstr "Name=Tönyaq Sotho"
 
-#: ../kde-i18n/oc/messages/entry.desktop:2
+#: kde-i18n/oc/messages/entry.desktop:2
 msgid "Name=Occitan"
 msgstr "Name=Okkitança"
 
-#: ../kde-i18n/pa/messages/entry.desktop:2
+#: kde-i18n/pa/messages/entry.desktop:2
 msgid "Name=Punjabi"
 msgstr "Name=Punjabça"
 
-#: ../kde-i18n/pl/messages/entry.desktop:2
+#: kde-i18n/pl/messages/entry.desktop:2
 msgid "Name=Polish"
 msgstr "Name=Polça"
 
-#: ../kde-i18n/pt/messages/entry.desktop:2
+#: kde-i18n/pt/messages/entry.desktop:2
 msgid "Name=Portuguese"
 msgstr "Name=Portugalça"
 
-#: ../kde-i18n/pt_BR/messages/entry.desktop:2
+#: kde-i18n/pt_BR/messages/entry.desktop:2
 msgid "Name=Brazil portuguese"
 msgstr "Name=Portugalça (Brazil)"
 
-#: ../kde-i18n/ro/messages/entry.desktop:2
+#: kde-i18n/ro/messages/entry.desktop:2
 msgid "Name=Romanian"
 msgstr "Name=Romança"
 
-#: ../kde-i18n/ru/messages/entry.desktop:2
+#: kde-i18n/ru/messages/entry.desktop:2
 msgid "Name=Russian"
 msgstr "Name=Urısça"
 
-#: ../kde-i18n/se/messages/entry.desktop:2
+#: kde-i18n/se/messages/entry.desktop:2
 msgid "Name=Northern Sami"
 msgstr "Name=Tönyaq Sami"
 
-#: ../kde-i18n/sk/messages/entry.desktop:2
+#: kde-i18n/sk/messages/entry.desktop:2
 msgid "Name=Slovak"
 msgstr "Name=Slovakça"
 
-#: ../kde-i18n/sl/messages/entry.desktop:2
+#: kde-i18n/sl/messages/entry.desktop:2
 msgid "Name=Slovenian"
 msgstr "Name=Slovençä"
 
-#: ../kde-i18n/sq/messages/entry.desktop:2
+#: kde-i18n/sq/messages/entry.desktop:2
 msgid "Name=Albanian"
 msgstr "Name=Albança"
 
-#: ../kde-i18n/sr/messages/entry.desktop:2
+#: kde-i18n/sr/messages/entry.desktop:2
 msgid "Name=Serbian"
 msgstr "Name=Serbçä"
 
-#: ../kde-i18n/sr@Latn/messages/entry.desktop:2
+#: kde-i18n/sr@Latn/messages/entry.desktop:2
 msgid "Name=Serbian Latin"
 msgstr "Name=Serbçä, Latinälif"
 
-#: ../kde-i18n/ss/messages/entry.desktop:2
+#: kde-i18n/ss/messages/entry.desktop:2
 msgid "Name=Swati"
 msgstr "Name=Swatça"
 
-#: ../kde-i18n/sv/messages/entry.desktop:2
+#: kde-i18n/sv/messages/entry.desktop:2
 msgid "Name=Swedish"
 msgstr "Name=İswäcçä"
 
-#: ../kde-i18n/ta/messages/entry.desktop:2
+#: kde-i18n/ta/messages/entry.desktop:2
 msgid "Name=Tamil"
 msgstr "Name=Tamilça"
 
-#: ../kde-i18n/tg/messages/entry.desktop:2
+#: kde-i18n/tg/messages/entry.desktop:2
 msgid "Name=Tajik"
 msgstr "Name=Tajıqça"
 
-#: ../kde-i18n/th/messages/entry.desktop:2
+#: kde-i18n/th/messages/entry.desktop:2
 msgid "Name=Thai"
 msgstr "Name=Tayça"
 
-#: ../kde-i18n/tr/messages/entry.desktop:2
+#: kde-i18n/tr/messages/entry.desktop:2
 msgid "Name=Turkish"
 msgstr "Name=Törekçä"
 
-#: ../kde-i18n/uk/messages/entry.desktop:2
+#: kde-i18n/uk/messages/entry.desktop:2
 msgid "Name=Ukrainian"
 msgstr "Name=Ukrainça"
 
-#: ../kde-i18n/uz/messages/entry.desktop:2
+#: kde-i18n/uz/messages/entry.desktop:2
 msgid "Name=Uzbek"
 msgstr "Name=Üzbäkçä"
 
-#: ../kde-i18n/ven/messages/entry.desktop:2
+#: kde-i18n/ven/messages/entry.desktop:2
 msgid "Name=Venda"
 msgstr "Name=Vendaça"
 
-#: ../kde-i18n/vi/messages/entry.desktop:2
+#: kde-i18n/vi/messages/entry.desktop:2
 msgid "Name=Vietnamese"
 msgstr "Name=Vietnamça"
 
-#: ../kde-i18n/wa/messages/entry.desktop:2
+#: kde-i18n/wa/messages/entry.desktop:2
 msgid "Name=Walloon"
 msgstr "Name=Walonça"
 
-#: ../kde-i18n/xh/messages/entry.desktop:2
+#: kde-i18n/xh/messages/entry.desktop:2
 msgid "Name=Xhosa"
 msgstr "Name=Xhosa"
 
-#: ../kde-i18n/zh_CN/messages/entry.desktop:2
+#: kde-i18n/zh_CN/messages/entry.desktop:2
 msgid "Name=Simplified Chinese"
 msgstr "Name=Çinçä (Ciñel)"
 
-#: ../kde-i18n/zh_TW/messages/entry.desktop:2
+#: kde-i18n/zh_TW/messages/entry.desktop:2
 msgid "Name=Chinese"
 msgstr "Name=Çinçä"
 
-#: ../kde-i18n/zu/messages/entry.desktop:2
+#: kde-i18n/zu/messages/entry.desktop:2
 msgid "Name=Zulu"
 msgstr "Name=Zuluça"
+
+#~ msgid "Name=Kirghiz"
+#~ msgstr "Name=Qırğızça"

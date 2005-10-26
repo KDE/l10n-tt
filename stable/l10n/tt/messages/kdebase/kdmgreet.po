@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdmgreet\n"
-"POT-Creation-Date: 2005-07-08 01:31+0200\n"
+"POT-Creation-Date: 2005-10-09 08:46+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,27 +12,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: kdmconfig.cpp:136
+#: kdmconfig.cpp:139
 msgid "[fix kdmrc!]"
 msgstr "[fix kdmrc!]"
 
-#: kdmconfig.cpp:151
+#: kdmconfig.cpp:154
 msgid ""
 "_n: %1: TTY login\n"
 "%1: %n TTY logins"
 msgstr "%1: %n TTY totaşuı"
 
-#: kdmconfig.cpp:162
+#: kdmconfig.cpp:165
 msgid "Unused"
 msgstr "Qulanılmí"
 
-#: kdmconfig.cpp:164
+#: kdmconfig.cpp:167
 msgid ""
 "_: user: session type\n"
 "%1: %2"
 msgstr "%1: %2"
 
-#: kdmconfig.cpp:166
+#: kdmconfig.cpp:169
 #, c-format
 msgid ""
 "_: ... host\n"
@@ -83,7 +83,7 @@ msgstr "&Qabul"
 msgid "&Refresh"
 msgstr "&Yañart"
 
-#: kchooser.cpp:95 kgreeter.cpp:646
+#: kchooser.cpp:95 kgreeter.cpp:649
 msgid "&Menu"
 msgstr "&Saylaq"
 
@@ -104,11 +104,11 @@ msgstr "Köyläwle"
 msgid "Failsafe"
 msgstr "Çıdamlı"
 
-#: kgreeter.cpp:429
+#: kgreeter.cpp:432
 msgid " (previous)"
 msgstr " (uzğanı)"
 
-#: kgreeter.cpp:488
+#: kgreeter.cpp:491
 msgid ""
 "Your saved session type '%1' is not valid any more.\n"
 "Please select a new one, otherwise 'default' will be used."
@@ -116,11 +116,11 @@ msgstr ""
 "Elek '%1' digän sessi töre bütän kileşmi inde.\n"
 "Başqasın saylap bula, yä isä 'default' qullanılğan bulır."
 
-#: kgreeter.cpp:588
+#: kgreeter.cpp:591
 msgid "Warning: this is an unsecured session"
 msgstr "Belderü: yaqlanmağan sessi"
 
-#: kgreeter.cpp:590
+#: kgreeter.cpp:593
 msgid ""
 "This display requires no X authorization.\n"
 "This means that anybody can connect to it,\n"
@@ -130,23 +130,23 @@ msgstr ""
 "Barkem dä aña totaşılıp, täräzälär açıp,\n"
 "kerteşne tota ala itep añlarğa kiräk bonı."
 
-#: kgreeter.cpp:643
+#: kgreeter.cpp:646
 msgid "L&ogin"
 msgstr "&Kereş"
 
-#: kgreeter.cpp:675 kgreeter.cpp:810
+#: kgreeter.cpp:678 kgreeter.cpp:813
 msgid "Session &Type"
 msgstr "Sessi &Töre"
 
-#: kgreeter.cpp:681 kgreeter.cpp:817
+#: kgreeter.cpp:684 kgreeter.cpp:820
 msgid "&Authentication Method"
 msgstr "&Tanılu Isulı"
 
-#: kgreeter.cpp:686 kgreeter.cpp:822
+#: kgreeter.cpp:689 kgreeter.cpp:825
 msgid "&Remote Login"
 msgstr "&Çittän Kerü"
 
-#: kgreeter.cpp:756
+#: kgreeter.cpp:759
 msgid "Login Failed."
 msgstr "Kerep bulmadı."
 
@@ -273,8 +273,10 @@ msgid "Authentication failed"
 msgstr "Tanılu uzmadı"
 
 #: kgverify.cpp:580
-msgid "Authenticated user (%1) does not match requested user (%2).\n"
-msgstr "Tanılunı uzğan qullanuçı (%1) soralğan qullanuçığa turı kilmi (%2).\n"
+msgid ""
+"Authenticated user (%1) does not match requested user (%2).\n"
+msgstr ""
+"Tanılunı uzğan qullanuçı (%1) soralğan qullanuçığa turı kilmi (%2).\n"
 
 #: kgverify.cpp:860
 msgid "Warning: Caps Lock on"
@@ -386,23 +388,23 @@ msgstr "Sessi"
 msgid "Location"
 msgstr "Urnaşılu"
 
-#: kdmshutdown.cpp:672
+#: kdmshutdown.cpp:666
 msgid "Abort pending shutdown:"
 msgstr "Kötterelgän tuqtanunı özü:"
 
-#: kdmshutdown.cpp:673
+#: kdmshutdown.cpp:667
 msgid "No permission to abort pending shutdown:"
 msgstr "Başlanğan tuqtatunı özerlek xoquqlar yuq:"
 
-#: kdmshutdown.cpp:679
+#: kdmshutdown.cpp:673
 msgid "now"
 msgstr "xäzer"
 
-#: kdmshutdown.cpp:685
+#: kdmshutdown.cpp:679
 msgid "infinite"
 msgstr "çiksez"
 
-#: kdmshutdown.cpp:691
+#: kdmshutdown.cpp:685
 msgid ""
 "Owner: %1\n"
 "Type: %2%5\n"
@@ -414,23 +416,23 @@ msgstr ""
 "Başlaw: %3\n"
 "Kiçertterü: %4"
 
-#: kdmshutdown.cpp:696
+#: kdmshutdown.cpp:690
 msgid "console user"
 msgstr "konsol qullanuçı"
 
-#: kdmshutdown.cpp:698
+#: kdmshutdown.cpp:692
 msgid "control socket"
 msgstr "idärä öyäse"
 
-#: kdmshutdown.cpp:701
+#: kdmshutdown.cpp:695
 msgid "turn off computer"
 msgstr "sanaq sünderü"
 
-#: kdmshutdown.cpp:702
+#: kdmshutdown.cpp:696
 msgid "restart computer"
 msgstr "sanaqnı yänä yökläw"
 
-#: kdmshutdown.cpp:705
+#: kdmshutdown.cpp:699
 #, c-format
 msgid ""
 "\n"
@@ -439,7 +441,7 @@ msgstr ""
 "\n"
 "Kiläse yökläw: %1"
 
-#: kdmshutdown.cpp:708
+#: kdmshutdown.cpp:702
 #, c-format
 msgid ""
 "\n"
@@ -448,15 +450,15 @@ msgstr ""
 "\n"
 "Kötkännän soñ: %1"
 
-#: kdmshutdown.cpp:710
+#: kdmshutdown.cpp:704
 msgid "abort all sessions"
 msgstr "bar sessine dä özder"
 
-#: kdmshutdown.cpp:712
+#: kdmshutdown.cpp:706
 msgid "abort own sessions"
 msgstr "üz sessilärne özü"
 
-#: kdmshutdown.cpp:713
+#: kdmshutdown.cpp:707
 msgid "cancel shutdown"
 msgstr "sünderüne tuqtat"
 
@@ -493,7 +495,8 @@ msgid "XDMCP Chooser"
 msgstr "XDMCP Saylağıç"
 
 #: themer/kdmlabel.cpp:179
-msgid "You have got caps lock on."
+#, fuzzy
+msgid "You've got capslock on!"
 msgstr "Caps Lock töymäse yandırıldı."
 
 #: themer/kdmlabel.cpp:180

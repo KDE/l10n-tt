@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kfmclient\n"
-"POT-Creation-Date: 2005-06-16 01:26+0200\n"
+"POT-Creation-Date: 2005-06-16 06:57+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -20,23 +20,19 @@ msgstr "kfmclient"
 msgid "KDE tool for opening URLs from the command line"
 msgstr "Boyıru yulınnan URL açu öçen KDE-qoral"
 
-#: kfmclient.cc:64
-msgid "Non interactive use: no message boxes"
-msgstr "Aralaşsız qullanu: belderü täräzäläre yuq"
-
-#: kfmclient.cc:65
+#: kfmclient.cc:63
 msgid "Show available commands"
 msgstr "Barlıq boyırıqlar kürsätü"
 
-#: kfmclient.cc:66
+#: kfmclient.cc:64
 msgid "Command (see --commands)"
 msgstr "Boyırıq (--commands uqísı)"
 
-#: kfmclient.cc:67
+#: kfmclient.cc:65
 msgid "Arguments for command"
 msgstr "Boyırıq öçen köylämälär"
 
-#: kfmclient.cc:83
+#: kfmclient.cc:81
 msgid ""
 "\n"
 "Syntax:\n"
@@ -44,7 +40,7 @@ msgstr ""
 "\n"
 "Nöhü:\n"
 
-#: kfmclient.cc:84
+#: kfmclient.cc:82
 msgid ""
 "  kfmclient openURL 'url' ['mimetype']\n"
 "            # Opens a window showing 'url'.\n"
@@ -60,7 +56,7 @@ msgstr ""
 "            #   'url' töşerelgän bulsa, $HOME qullanılaçaq.\n"
 "\n"
 
-#: kfmclient.cc:89
+#: kfmclient.cc:87
 msgid ""
 "            # If 'mimetype' is specified, it will be used to determine the\n"
 "            #   component that Konqueror should use. For instance, set it to\n"
@@ -72,10 +68,11 @@ msgstr ""
 "            #   text/html digän tören saylasaq, anı açu tızräk bulaçaq\n"
 "\n"
 
-#: kfmclient.cc:93
+#: kfmclient.cc:91
 msgid ""
 "  kfmclient newTab 'url' ['mimetype']\n"
-"            # Same as above but opens a new tab with 'url' in an existing Konqueror\n"
+"            # Same as above but opens a new tab with 'url' in an existing "
+"Konqueror\n"
 "            #   window on the current active desktop if possible.\n"
 "\n"
 msgstr ""
@@ -84,11 +81,12 @@ msgstr ""
 "            #   täräzäseneñ yaña tabağında 'url' aça, eşläp bulsa inde\n"
 "\n"
 
-#: kfmclient.cc:97
+#: kfmclient.cc:95
 msgid ""
 "  kfmclient openProfile 'profile' ['url']\n"
 "            # Opens a window using the given profile.\n"
-"            #   'profile' is a file under ~/.kde/share/apps/konqueror/profiles.\n"
+"            #   'profile' is a file under "
+"~/.kde/share/apps/konqueror/profiles.\n"
 "            #   'url' is an optional URL to open.\n"
 "\n"
 msgstr ""
@@ -98,7 +96,7 @@ msgstr ""
 "            #   'url' – açası URL.\n"
 "\n"
 
-#: kfmclient.cc:102
+#: kfmclient.cc:100
 msgid ""
 "  kfmclient openProperties 'url'\n"
 "            # Opens a properties menu\n"
@@ -108,7 +106,7 @@ msgstr ""
 "            # Üzençäleklär saylağın aça\n"
 "\n"
 
-#: kfmclient.cc:104
+#: kfmclient.cc:102
 msgid ""
 "  kfmclient exec ['url' ['binding']]\n"
 "            # Tries to execute 'url'. 'url' may be a usual\n"
@@ -120,7 +118,7 @@ msgstr ""
 "            #   bu URL açılğan bulaçaq. 'binding'\n"
 "            #   köylämäsen töşerep bula.\n"
 
-#: kfmclient.cc:108
+#: kfmclient.cc:106
 msgid ""
 "            #   is tried. Of course URL may be the URL of a\n"
 "            #   document, or it may be a *.desktop file.\n"
@@ -128,7 +126,7 @@ msgstr ""
 "            #   sınaldı. Bu URL bularaq berär istälek URLı,\n"
 "            #   yä ki *.desktop bireme bula ala.\n"
 
-#: kfmclient.cc:110
+#: kfmclient.cc:108
 msgid ""
 "            #   This way you could for example mount a device\n"
 "            #   by passing 'Mount default' as binding to \n"
@@ -140,7 +138,7 @@ msgstr ""
 "            #   şul cıhaznı tağıp bula\n"
 "\n"
 
-#: kfmclient.cc:113
+#: kfmclient.cc:111
 msgid ""
 "  kfmclient move 'src' 'dest'\n"
 "            # Moves the URL 'src' to 'dest'.\n"
@@ -150,7 +148,7 @@ msgstr ""
 "            # URL'nı 'bonnan' 'boña' küçerä.\n"
 "            #   'bonnan' digäne berär URL tezmäse dä bula ala.\n"
 
-#: kfmclient.cc:118
+#: kfmclient.cc:116
 msgid ""
 "  kfmclient download ['src']\n"
 "            # Copies the URL 'src' to a user specified location'.\n"
@@ -160,11 +158,12 @@ msgid ""
 msgstr ""
 "  kfmclient download ['qaydan']\n"
 "            # 'qaydan' digän URL'nı äytelgän urınlaşuğa alıp quya.\n"
-"            #   'qaydan' digäne berär URL tezmäse dä bula ala, ägär ul yuq ikän, \n"
+"            #   'qaydan' digäne berär URL tezmäse dä bula ala, ägär ul yuq "
+"ikän, \n"
 "            #   şul çaqta URL soralğan bulaçaq.\n"
 "\n"
 
-#: kfmclient.cc:122
+#: kfmclient.cc:120
 msgid ""
 "  kfmclient copy 'src' 'dest'\n"
 "            # Copies the URL 'src' to 'dest'.\n"
@@ -176,7 +175,7 @@ msgstr ""
 "            #   'bonnan' digäne berär URL tezmäse dä bula ala.\n"
 "\n"
 
-#: kfmclient.cc:125
+#: kfmclient.cc:123
 msgid ""
 "  kfmclient sortDesktop\n"
 "            # Rearranges all icons on the desktop.\n"
@@ -186,7 +185,7 @@ msgstr ""
 "            # Östäldäge tamğalarnı tezep quya.\n"
 "\n"
 
-#: kfmclient.cc:127
+#: kfmclient.cc:125
 msgid ""
 "  kfmclient configure\n"
 "            # Re-read Konqueror's configuration.\n"
@@ -196,7 +195,7 @@ msgstr ""
 "            # Konqueror caylawın yañadan yöklise.\n"
 "\n"
 
-#: kfmclient.cc:129
+#: kfmclient.cc:127
 msgid ""
 "  kfmclient configureDesktop\n"
 "            # Re-read kdesktop's configuration.\n"
@@ -206,7 +205,7 @@ msgstr ""
 "            # Kdesktop caylawın yañadan yöklise.\n"
 "\n"
 
-#: kfmclient.cc:132
+#: kfmclient.cc:130
 msgid ""
 "*** Examples:\n"
 "  kfmclient exec file:/root/Desktop/cdrom.desktop \"Mount default\"\n"
@@ -218,7 +217,7 @@ msgstr ""
 "             // CD-ROM totaştıra\n"
 "\n"
 
-#: kfmclient.cc:135
+#: kfmclient.cc:133
 msgid ""
 "  kfmclient exec file:/home/weis/data/test.html\n"
 "             // Opens the file with default binding\n"
@@ -228,7 +227,7 @@ msgstr ""
 "             // Bu biremne töp bäyläw belän aça\n"
 "\n"
 
-#: kfmclient.cc:137
+#: kfmclient.cc:135
 msgid ""
 "  kfmclient exec file:/home/weis/data/test.html Netscape\n"
 "             // Opens the file with netscape\n"
@@ -238,7 +237,7 @@ msgstr ""
 "             // Bu biremne netscape belän aça\n"
 "\n"
 
-#: kfmclient.cc:139
+#: kfmclient.cc:137
 msgid ""
 "  kfmclient exec ftp://localhost/\n"
 "             // Opens new window with URL\n"
@@ -248,7 +247,7 @@ msgstr ""
 "             // Yaña täräzäne URL belän aça\n"
 "\n"
 
-#: kfmclient.cc:141
+#: kfmclient.cc:139
 msgid ""
 "  kfmclient exec file:/root/Desktop/emacs.desktop\n"
 "             // Starts emacs\n"
@@ -258,7 +257,7 @@ msgstr ""
 "             // emacs cibärä\n"
 "\n"
 
-#: kfmclient.cc:143
+#: kfmclient.cc:141
 msgid ""
 "  kfmclient exec file:/root/Desktop/cdrom.desktop\n"
 "             // Opens the CD-ROM's mount directory\n"
@@ -268,7 +267,7 @@ msgstr ""
 "             // Bu CD-ROM tağılğan törgäkne aça\n"
 "\n"
 
-#: kfmclient.cc:145
+#: kfmclient.cc:143
 msgid ""
 "  kfmclient exec .\n"
 "             // Opens the current directory. Very convenient.\n"
@@ -278,22 +277,33 @@ msgstr ""
 "             // Biredäge törgäkne aça. Bik kileşä.\n"
 "\n"
 
-#: kfmclient.cc:398
-msgid "Profile %1 not found\n"
-msgstr "%1 atlı caybirem tabılmadı\n"
+#: kfmclient.cc:396
+msgid ""
+"Profile %1 not found\n"
+msgstr ""
+"%1 atlı caybirem tabılmadı\n"
 
-#: kfmclient.cc:435
-msgid "Syntax Error: Not enough arguments\n"
-msgstr "Cömlä Xatası: Köylämälär citmi\n"
+#: kfmclient.cc:433
+msgid ""
+"Syntax Error: Not enough arguments\n"
+msgstr ""
+"Cömlä Xatası: Köylämälär citmi\n"
 
-#: kfmclient.cc:440
-msgid "Syntax Error: Too many arguments\n"
-msgstr "Cömlä Xatası: Artıq köylämälär\n"
+#: kfmclient.cc:438
+msgid ""
+"Syntax Error: Too many arguments\n"
+msgstr ""
+"Cömlä Xatası: Artıq köylämälär\n"
 
-#: kfmclient.cc:559
+#: kfmclient.cc:552
 msgid "Unable to download from an invalid URL."
 msgstr "Yaraqsız URL'dan iñderep bulmadı."
 
-#: kfmclient.cc:623
-msgid "Syntax Error: Unknown command '%1'\n"
-msgstr "Cömlä Xatası: '%1' digän boyırıq bilgesez\n"
+#: kfmclient.cc:612
+msgid ""
+"Syntax Error: Unknown command '%1'\n"
+msgstr ""
+"Cömlä Xatası: '%1' digän boyırıq bilgesez\n"
+
+#~ msgid "Non interactive use: no message boxes"
+#~ msgstr "Aralaşsız qullanu: belderü täräzäläre yuq"

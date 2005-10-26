@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase ksysguard\n"
-"POT-Creation-Date: 2005-07-09 01:31+0200\n"
+"POT-Creation-Date: 2005-03-07 11:45+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -22,8 +22,11 @@ msgid "The file %1 does not contain valid XML."
 msgstr "Yaraqlı XML %1 biremeneñ eçendä yuq."
 
 #: WorkSheet.cc:108
-msgid "The file %1 does not contain a valid worksheet definition, which must have a document type 'KSysGuardWorkSheet'."
-msgstr "'KSysGuardWorkSheet' törendä bulğan yaraqlı eşbit %1 bireme eçendä tabılmadı."
+msgid ""
+"The file %1 does not contain a valid worksheet definition, which must have a "
+"document type 'KSysGuardWorkSheet'."
+msgstr ""
+"'KSysGuardWorkSheet' törendä bulğan yaraqlı eşbit %1 bireme eçendä tabılmadı."
 
 #: WorkSheet.cc:124
 msgid "The file %1 has an invalid worksheet size."
@@ -138,23 +141,33 @@ msgid "Daemon"
 msgstr "Xezmät"
 
 #: ksgrd/HostConnector.cc:77
-msgid "Select this if you want to connect to a ksysguard daemon that is running on the machine you want to connect to, and is listening for client requests."
-msgstr "Klient sorawların kötüçe ksysguard xezmäte eşlägän çittäge host belän totaşılu öçen, bonı saylísı."
+msgid ""
+"Select this if you want to connect to a ksysguard daemon that is running on the "
+"machine you want to connect to, and is listening for client requests."
+msgstr ""
+"Klient sorawların kötüçe ksysguard xezmäte eşlägän çittäge host belän totaşılu "
+"öçen, bonı saylísı."
 
 #: ksgrd/HostConnector.cc:80
 msgid "Custom command"
 msgstr "Başqa boyırıq"
 
 #: ksgrd/HostConnector.cc:81
-msgid "Select this to use the command you entered below to start ksysguardd on the remote host."
-msgstr "Çittäge hostta ksysguardd xezmäten üz boyırığıñ belän cibärü öçen, bonı saylísı."
+msgid ""
+"Select this to use the command you entered below to start ksysguardd on the "
+"remote host."
+msgstr ""
+"Çittäge hostta ksysguardd xezmäten üz boyırığıñ belän cibärü öçen, bonı "
+"saylísı."
 
 #: ksgrd/HostConnector.cc:84
 msgid "Port:"
 msgstr "Port:"
 
 #: ksgrd/HostConnector.cc:90
-msgid "Enter the port number on which the ksysguard daemon is listening for connections."
+msgid ""
+"Enter the port number on which the ksysguard daemon is listening for "
+"connections."
 msgstr "Monda ksysguard xezmäte totaşularnı nindi port aşa kötkänen kertäse."
 
 #: ksgrd/HostConnector.cc:93
@@ -276,7 +289,7 @@ msgstr "Buş Xäter"
 msgid "Process Count"
 msgstr "Yök Sanı"
 
-#: ksgrd/SensorManager.cc:64 ksgrd/SensorManager.cc:148
+#: ksgrd/SensorManager.cc:64 ksgrd/SensorManager.cc:144
 msgid "Process Controller"
 msgstr "Yök Küzätüçe"
 
@@ -386,7 +399,7 @@ msgstr "Soket"
 msgid "Total Number"
 msgstr "Tulayın San"
 
-#: ksgrd/SensorManager.cc:91 ksgrd/SensorManager.cc:149
+#: ksgrd/SensorManager.cc:91 ksgrd/SensorManager.cc:145
 msgid "Table"
 msgstr "Cäymä"
 
@@ -399,137 +412,121 @@ msgid "ACPI"
 msgstr "ACPI"
 
 #: ksgrd/SensorManager.cc:94
-msgid "Thermal Zone"
-msgstr "Cılınğan Öleş"
-
-#: ksgrd/SensorManager.cc:95
-msgid "Temperature"
-msgstr "Esselek"
-
-#: ksgrd/SensorManager.cc:96
-msgid "Fan"
-msgstr "Cillätkeç"
-
-#: ksgrd/SensorManager.cc:97
-msgid "State"
-msgstr "Xälät"
-
-#: ksgrd/SensorManager.cc:98
 msgid "Battery"
 msgstr "Batarey"
 
-#: ksgrd/SensorManager.cc:99
+#: ksgrd/SensorManager.cc:95
 msgid "Battery Charge"
 msgstr "Batarey Qaldı"
 
-#: ksgrd/SensorManager.cc:100
+#: ksgrd/SensorManager.cc:96
 msgid "Battery Usage"
 msgstr "Batarey Totıldı"
 
-#: ksgrd/SensorManager.cc:101
+#: ksgrd/SensorManager.cc:97
 msgid "Remaining Time"
 msgstr "Qalğan Waqıt"
 
-#: ksgrd/SensorManager.cc:102
+#: ksgrd/SensorManager.cc:98
 msgid "Interrupts"
 msgstr "Özderülär"
 
-#: ksgrd/SensorManager.cc:103
+#: ksgrd/SensorManager.cc:99
 msgid "Load Average (1 min)"
 msgstr "Urtaça Yöklänü (1 min)"
 
-#: ksgrd/SensorManager.cc:104
+#: ksgrd/SensorManager.cc:100
 msgid "Load Average (5 min)"
 msgstr "Urtaça Yöklänü (5 min)"
 
-#: ksgrd/SensorManager.cc:105
+#: ksgrd/SensorManager.cc:101
 msgid "Load Average (15 min)"
 msgstr "Urtaça Yöklänü (15 min)"
 
-#: ksgrd/SensorManager.cc:106
+#: ksgrd/SensorManager.cc:102
 msgid "Clock Frequency"
 msgstr "Säğät Yışlığı"
 
-#: ksgrd/SensorManager.cc:107
+#: ksgrd/SensorManager.cc:103
 msgid "Hardware Sensors"
 msgstr "Cıhaz Sizgeçläre"
 
-#: ksgrd/SensorManager.cc:108
+#: ksgrd/SensorManager.cc:104
 msgid "Partition Usage"
 msgstr "Bülem Qullanışı"
 
-#: ksgrd/SensorManager.cc:109
+#: ksgrd/SensorManager.cc:105
 msgid "Used Space"
 msgstr "Qulanuda Alan"
 
-#: ksgrd/SensorManager.cc:110
+#: ksgrd/SensorManager.cc:106
 msgid "Free Space"
 msgstr "Buş Alan"
 
-#: ksgrd/SensorManager.cc:111
+#: ksgrd/SensorManager.cc:107
 msgid "Fill Level"
 msgstr "Tutıru Däräcäse"
 
-#: ksgrd/SensorManager.cc:115
+#: ksgrd/SensorManager.cc:111
 #, c-format
 msgid "CPU%1"
 msgstr "CPU%1"
 
-#: ksgrd/SensorManager.cc:117
+#: ksgrd/SensorManager.cc:113
 #, c-format
 msgid "Disk%1"
 msgstr "%1. Disk"
 
-#: ksgrd/SensorManager.cc:122
+#: ksgrd/SensorManager.cc:118
 #, c-format
 msgid "Fan%1"
 msgstr "%1. Cillätkeç"
 
-#: ksgrd/SensorManager.cc:124
+#: ksgrd/SensorManager.cc:120
 #, c-format
 msgid "Temperature%1"
 msgstr "%1. Esselek"
 
-#: ksgrd/SensorManager.cc:127
+#: ksgrd/SensorManager.cc:123
 msgid "Total"
 msgstr "Barısı"
 
-#: ksgrd/SensorManager.cc:133
+#: ksgrd/SensorManager.cc:129
 #, c-format
 msgid "Int%1"
 msgstr "Int%1"
 
-#: ksgrd/SensorManager.cc:140
+#: ksgrd/SensorManager.cc:136
 msgid ""
 "_: the unit 1 per second\n"
 "1/s"
 msgstr "1/s"
 
-#: ksgrd/SensorManager.cc:141
+#: ksgrd/SensorManager.cc:137
 msgid "kBytes"
 msgstr "KBayt"
 
-#: ksgrd/SensorManager.cc:142
+#: ksgrd/SensorManager.cc:138
 msgid ""
 "_: the unit minutes\n"
 "min"
 msgstr "min"
 
-#: ksgrd/SensorManager.cc:143
+#: ksgrd/SensorManager.cc:139
 msgid ""
 "_: the frequency unit\n"
 "MHz"
 msgstr "MHz"
 
-#: ksgrd/SensorManager.cc:146
+#: ksgrd/SensorManager.cc:142
 msgid "Integer Value"
 msgstr "Tulı San"
 
-#: ksgrd/SensorManager.cc:147
+#: ksgrd/SensorManager.cc:143
 msgid "Floating Point Value"
 msgstr "Yözmä Taplı San"
 
-#: ksgrd/SensorManager.cc:284
+#: ksgrd/SensorManager.cc:280
 msgid "Connection to %1 has been lost."
 msgstr "%1 belän totaşılu yuğaldı."
 
@@ -559,8 +556,12 @@ msgid ""
 msgstr "tatarish-l10n@gmail.com"
 
 #: Workspace.cc:52
-msgid "This is your work space. It holds your worksheets. You need to create a new worksheet (Menu File->New) before you can drag sensors here."
-msgstr "Eş alanıñ bu. Ul törle eşbitlärdän tora. Yaña sizgeç östäw aldınnan, yaña eşbit yasarğa kiräk (Saylaq-> Birem-> Yaña)."
+msgid ""
+"This is your work space. It holds your worksheets. You need to create a new "
+"worksheet (Menu File->New) before you can drag sensors here."
+msgstr ""
+"Eş alanıñ bu. Ul törle eşbitlärdän tora. Yaña sizgeç östäw aldınnan, yaña eşbit "
+"yasarğa kiräk (Saylaq-> Birem-> Yaña)."
 
 #: Workspace.cc:104 ksysguard.cc:162
 msgid "Process Table"
@@ -793,10 +794,6 @@ msgid ""
 "Do you really want to send signal %1 to the %n selected processes?"
 msgstr "Saylanğan %n yökneñ barısına da %1 ımlawın cibäräseme?"
 
-#: SensorDisplayLib/ProcessList.cc:870
-msgid "Send"
-msgstr "Cibär"
-
 #: SensorDisplayLib/DancingBarsSettings.cc:43
 msgid "Edit BarGraph Preferences"
 msgstr "Sızım Caylawın Üzgärtü"
@@ -830,8 +827,12 @@ msgstr "Asqı bäyä:"
 
 #: SensorDisplayLib/DancingBarsSettings.cc:67
 #: SensorDisplayLib/FancyPlotterSettings.cc:94
-msgid "Enter the minimum value for the display here. If both values are 0 automatic range detection is enabled."
-msgstr "Kürsäteläse bäyäneñ asqı çigen kertäse mona. Bäylärneñ ikese dä 0 bulsa, kürsätü arası üzennän isäpläner."
+msgid ""
+"Enter the minimum value for the display here. If both values are 0 automatic "
+"range detection is enabled."
+msgstr ""
+"Kürsäteläse bäyäneñ asqı çigen kertäse mona. Bäylärneñ ikese dä 0 bulsa, "
+"kürsätü arası üzennän isäpläner."
 
 #: SensorDisplayLib/DancingBarsSettings.cc:71
 #: SensorDisplayLib/FancyPlotterSettings.cc:98
@@ -840,8 +841,12 @@ msgstr "Asqı bäyä:"
 
 #: SensorDisplayLib/DancingBarsSettings.cc:75
 #: SensorDisplayLib/FancyPlotterSettings.cc:104
-msgid "Enter the maximum value for the display here. If both values are 0 automatic range detection is enabled."
-msgstr "Kürsäteläse bäyäneñ öske çigen kertäse monda. Bäylärneñ ikese dä 0 bulsa, kürsätü arası üzennän isäpläner."
+msgid ""
+"Enter the maximum value for the display here. If both values are 0 automatic "
+"range detection is enabled."
+msgstr ""
+"Kürsäteläse bäyäneñ öske çigen kertäse monda. Bäylärneñ ikese dä 0 bulsa, "
+"kürsätü arası üzennän isäpläner."
 
 #. i18n: file ./SensorDisplayLib/MultiMeterSettingsWidget.ui line 61
 #: SensorDisplayLib/DancingBarsSettings.cc:84 rc.cpp:60
@@ -903,8 +908,14 @@ msgid "Out-of-range color:"
 msgstr "Çiktän-uzu töse:"
 
 #: SensorDisplayLib/DancingBarsSettings.cc:154
-msgid "This determines the size of the font used to print a label underneath the bars. Bars are automatically suppressed if text becomes too large, so it is advisable to use a small font size here."
-msgstr "Bağana astında çığarıla torğan yazmalar öçen yazu tören bilgeläp bula monda. Yazmalar sıymí başlasa, bağanalar keçeräk itep kürsäteler, şuña kürä yazu bieklegen artıq olı quymasqa ide."
+msgid ""
+"This determines the size of the font used to print a label underneath the bars. "
+"Bars are automatically suppressed if text becomes too large, so it is advisable "
+"to use a small font size here."
+msgstr ""
+"Bağana astında çığarıla torğan yazmalar öçen yazu tören bilgeläp bula monda. "
+"Yazmalar sıymí başlasa, bağanalar keçeräk itep kürsäteler, şuña kürä yazu "
+"bieklegen artıq olı quymasqa ide."
 
 #: SensorDisplayLib/DancingBarsSettings.cc:161
 #: SensorDisplayLib/FancyPlotterSettings.cc:223
@@ -994,8 +1005,13 @@ msgid "Automatic range detection"
 msgstr "Ara üzennän üze sanala"
 
 #: SensorDisplayLib/FancyPlotterSettings.cc:85
-msgid "Check this box if you want the display range to adapt dynamically to the currently displayed values; if you do not check this, you have to specify the range you want in the fields below."
-msgstr "Bu tamğaqır açıq quyılsa, kürsätü çikläre gel sanalıp torırlar; äğär ul sünek ikän, kürsätü çiklären quldan bilgeläp quyarğa kiräk bulaçaq."
+msgid ""
+"Check this box if you want the display range to adapt dynamically to the "
+"currently displayed values; if you do not check this, you have to specify the "
+"range you want in the fields below."
+msgstr ""
+"Bu tamğaqır açıq quyılsa, kürsätü çikläre gel sanalıp torırlar; äğär ul sünek "
+"ikän, kürsätü çiklären quldan bilgeläp quyarğa kiräk bulaçaq."
 
 #: SensorDisplayLib/FancyPlotterSettings.cc:110
 msgid "Horizontal Scale"
@@ -1019,7 +1035,8 @@ msgstr "Buy sızığı"
 
 #: SensorDisplayLib/FancyPlotterSettings.cc:133
 msgid "Check this to activate the vertical lines if display is large enough."
-msgstr "Bu tamğaqır açıq ikän, sızım şaqtí olı bulğan çaqta asma sızıqlar kürsäteläçäk."
+msgstr ""
+"Bu tamğaqır açıq ikän, sızım şaqtí olı bulğan çaqta asma sızıqlar kürsäteläçäk."
 
 #: SensorDisplayLib/FancyPlotterSettings.cc:136
 msgid "Distance:"
@@ -1039,7 +1056,9 @@ msgstr "Yul sızığı"
 
 #: SensorDisplayLib/FancyPlotterSettings.cc:150
 msgid "Check this to enable horizontal lines if display is large enough."
-msgstr "Bu tamğaqır açıq ikän, sızım şaqtí olı bulğan çaqta yatma sızıqlar kürsäteläçäk."
+msgstr ""
+"Bu tamğaqır açıq ikän, sızım şaqtí olı bulğan çaqta yatma sızıqlar "
+"kürsäteläçäk."
 
 #: SensorDisplayLib/FancyPlotterSettings.cc:153
 msgid "Count:"
@@ -1060,16 +1079,24 @@ msgid "Labels"
 msgstr "Yazma"
 
 #: SensorDisplayLib/FancyPlotterSettings.cc:172
-msgid "Check this box if horizontal lines should be decorated with the values they mark."
-msgstr "Bu tamğaqır açıq quyılsa, yatma sızıqlar yanında alarnıñ bäyälären kürsätkän yazmalar bulaçaq."
+msgid ""
+"Check this box if horizontal lines should be decorated with the values they "
+"mark."
+msgstr ""
+"Bu tamğaqır açıq quyılsa, yatma sızıqlar yanında alarnıñ bäyälären kürsätkän "
+"yazmalar bulaçaq."
 
 #: SensorDisplayLib/FancyPlotterSettings.cc:184
 msgid "Top bar"
 msgstr "Başlıq yulı"
 
 #: SensorDisplayLib/FancyPlotterSettings.cc:185
-msgid "Check this to active the display title bar. This is probably only useful for applet displays. The bar is only visible if the display is large enough."
-msgstr "Sızım başlığın kürsätäsen bilgeli. Berniçä sızım beryulı kürsätelgän çaqta uñaylı bula ala bu. Urın citkän çaqta ğına bu yul kürsäteläçäk."
+msgid ""
+"Check this to active the display title bar. This is probably only useful for "
+"applet displays. The bar is only visible if the display is large enough."
+msgstr ""
+"Sızım başlığın kürsätäsen bilgeli. Berniçä sızım beryulı kürsätelgän çaqta "
+"uñaylı bula ala bu. Urın citkän çaqta ğına bu yul kürsäteläçäk."
 
 #. i18n: file ./SensorDisplayLib/MultiMeterSettingsWidget.ui line 206
 #: SensorDisplayLib/FancyPlotterSettings.cc:192 rc.cpp:87 rc.cpp:105
@@ -1135,8 +1162,18 @@ msgid "P&ause Update"
 msgstr "Y&añarunı Tuqtatıp Torası"
 
 #: SensorDisplayLib/SensorDisplay.cc:225
-msgid "<qt><p>This is a sensor display. To customize a sensor display click and hold the right mouse button on either the frame or the display box and select the <i>Properties</i> entry from the popup menu. Select <i>Remove</i> to delete the display from the worksheet.</p>%1</qt>"
-msgstr "<qt><p>Sizgeç sızımı bu. Sizgeç küreneşen üzgärtü öçen, anıñ östenä küseneñ urta töymäse belän çirtep, şunda çıqqan atılma saylaqta <i>Üzençälege</i> atlı kerem saylísı.Andağı <i>Beter</i> keremen saylap, sızımnı eşbittän beterep bula.</p>%1</qt>"
+msgid ""
+"<qt>"
+"<p>This is a sensor display. To customize a sensor display click and hold the "
+"right mouse button on either the frame or the display box and select the <i>"
+"Properties</i> entry from the popup menu. Select <i>Remove</i> "
+"to delete the display from the worksheet.</p>%1</qt>"
+msgstr ""
+"<qt>"
+"<p>Sizgeç sızımı bu. Sizgeç küreneşen üzgärtü öçen, anıñ östenä küseneñ urta "
+"töymäse belän çirtep, şunda çıqqan atılma saylaqta <i>Üzençälege</i> "
+"atlı kerem saylísı.Andağı <i>Beter</i> keremen saylap, sızımnı eşbittän beterep "
+"bula.</p>%1</qt>"
 
 #: SensorDisplayLib/SensorLogger.cc:137
 msgid "Logging"
@@ -1218,8 +1255,14 @@ msgid "Drop Sensor Here"
 msgstr "Sizgeçne Monda Taşla"
 
 #: SensorDisplayLib/DummyDisplay.cc:38
-msgid "This is an empty space in a worksheet. Drag a sensor from the Sensor Browser and drop it here. A sensor display will appear that allows you to monitor the values of the sensor over time."
-msgstr "Eşbit eçendä buş urın bar. Sizgeç Küzätkeçennän berär sizgeçne eşbit öçtenä österep taşlarğa bula. Şunda östälengän sizgeç sızımı anıñ ülçäweneñ üzgärelüen küzätergä mömkinlek birä."
+msgid ""
+"This is an empty space in a worksheet. Drag a sensor from the Sensor Browser "
+"and drop it here. A sensor display will appear that allows you to monitor the "
+"values of the sensor over time."
+msgstr ""
+"Eşbit eçendä buş urın bar. Sizgeç Küzätkeçennän berär sizgeçne eşbit öçtenä "
+"österep taşlarğa bula. Şunda östälengän sizgeç sızımı anıñ ülçäweneñ üzgärelüen "
+"küzätergä mömkinlek birä."
 
 #: SensorDisplayLib/ProcessController.cc:52
 msgid "Name"
@@ -1455,12 +1498,20 @@ msgid "&Dancing Bars"
 msgstr "&Asma Yullar"
 
 #: KSysGuardApplet.cc:233 KSysGuardApplet.cc:386
-msgid "The KSysGuard applet does not support displaying of this type of sensor. Please choose another sensor."
-msgstr "KSysGuard applete mondí törle sizgeç öçen sızım yasa almí. Başqa sizgeçne sayla zinhar."
+msgid ""
+"The KSysGuard applet does not support displaying of this type of sensor. Please "
+"choose another sensor."
+msgstr ""
+"KSysGuard applete mondí törle sizgeç öçen sızım yasa almí. Başqa sizgeçne sayla "
+"zinhar."
 
 #: KSysGuardApplet.cc:329
-msgid "The file %1 does not contain a valid applet definition, which must have a document type 'KSysGuardApplet'."
-msgstr "KSysGuardApplet törendä istälek kebek bulası, applet öçen yaraqlı bilgelänü %1 biremendä yuq."
+msgid ""
+"The file %1 does not contain a valid applet definition, which must have a "
+"document type 'KSysGuardApplet'."
+msgstr ""
+"KSysGuardApplet törendä istälek kebek bulası, applet öçen yaraqlı bilgelänü %1 "
+"biremendä yuq."
 
 #: KSysGuardApplet.cc:477
 msgid "Drag sensors from the KDE System Guard into this cell."
@@ -1479,8 +1530,18 @@ msgid "Drag sensors to empty cells of a worksheet or the panel applet."
 msgstr "Eşbitneñ buş urınına yä taqta appletenä berär sizgeçne österep sal."
 
 #: SensorBrowser.cc:90
-msgid "The sensor browser lists the connected hosts and the sensors that they provide. Click and drag sensors into drop zones of a worksheet or the panel applet. A display will appear that visualizes the values provided by the sensor. Some sensor displays can display values of multiple sensors. Simply drag other sensors on to the display to add more sensors."
-msgstr "Sizgeç küzätüçesendä serverlär belän bergä alarnıñ sizgeçläre kürsätelä. Berär nindi sizgeçlärne saylap, eşbitneñ buş urınına yä ki taqta appletenä österep sal. Barlıqqa kilgän sızımda şul sizgeçneñ kürsätkänen kürep bulaçaq. Qayber sızımnarda berniçä sizgeç bäyläre çığarıla. Andí sızımğa tağın berär sizgeç östäw öçen, östise sizgeçne anıñ östenä österep taşlarğa bula."
+msgid ""
+"The sensor browser lists the connected hosts and the sensors that they provide. "
+"Click and drag sensors into drop zones of a worksheet or the panel applet. A "
+"display will appear that visualizes the values provided by the sensor. Some "
+"sensor displays can display values of multiple sensors. Simply drag other "
+"sensors on to the display to add more sensors."
+msgstr ""
+"Sizgeç küzätüçesendä serverlär belän bergä alarnıñ sizgeçläre kürsätelä. Berär "
+"nindi sizgeçlärne saylap, eşbitneñ buş urınına yä ki taqta appletenä österep "
+"sal. Barlıqqa kilgän sızımda şul sizgeçneñ kürsätkänen kürep bulaçaq. Qayber "
+"sızımnarda berniçä sizgeç bäyläre çığarıla. Andí sızımğa tağın berär sizgeç "
+"östäw öçen, östise sizgeçne anıñ östenä österep taşlarğa bula."
 
 #: SensorBrowser.cc:151
 msgid "Drag sensors to empty fields in a worksheet."
@@ -1490,7 +1551,7 @@ msgstr "Eşbitneñ buş urınına sizgeç österü."
 msgid "KDE system guard"
 msgstr "KDE'nıñ sistem saqçısı"
 
-#: ksysguard.cc:71 ksysguard.cc:535
+#: ksysguard.cc:71 ksysguard.cc:534
 msgid "KDE System Guard"
 msgstr "KDE'nıñ Sistem Saqçısı"
 
@@ -1534,42 +1595,38 @@ msgstr "Aldan bilgelängän bitlärne çınlap ta torşızası kiläme?"
 msgid "Reset All Worksheets"
 msgstr "Bar Eşbitlärne dä Awdar"
 
-#: ksysguard.cc:145
-msgid "Reset"
-msgstr "Awdar"
-
-#: ksysguard.cc:415
+#: ksysguard.cc:414
 #, c-format
 msgid ""
 "_n: 1 Process\n"
 "%n Processes"
 msgstr "%n Yök"
 
-#: ksysguard.cc:425
+#: ksysguard.cc:424
 msgid "Memory: %1 %2 used, %3 %4 free"
 msgstr "Xäter: %1 %2 totıldı, %3 %4 buş"
 
-#: ksysguard.cc:483
+#: ksysguard.cc:482
 msgid "No swap space available"
 msgstr "Birem-xätergä ireşep bulmí"
 
-#: ksysguard.cc:485
+#: ksysguard.cc:484
 msgid "Swap: %1 %2 used, %3 %4 free"
 msgstr "Biremle xäter: %1 %2 totıldı, %3 %4 buş"
 
-#: ksysguard.cc:494
+#: ksysguard.cc:493
 msgid "Show only process list of local host"
 msgstr "Cirle hostta ğına yöklär kürsätäse"
 
-#: ksysguard.cc:495
+#: ksysguard.cc:494
 msgid "Optional worksheet files to load"
 msgstr "Östämä eşbit biremnären yökläw"
 
-#: ksysguard.cc:537
+#: ksysguard.cc:536
 msgid "(c) 1996-2002 The KSysGuard Developers"
 msgstr "(c) 1996-2002, KSysGuard tözüçeläre"
 
-#: ksysguard.cc:545
+#: ksysguard.cc:544
 msgid ""
 "Solaris Support\n"
 "Parts derived (by permission) from the sunos5\n"
@@ -1578,3 +1635,21 @@ msgstr ""
 "Solaris Teräge\n"
 "Anıñ oleşläre William LeFebvre'nıñ \"top\"\n"
 "faydalığındağı sunos5 atlı öleşennän tuğannar."
+
+#~ msgid "Thermal Zone"
+#~ msgstr "Cılınğan Öleş"
+
+#~ msgid "Temperature"
+#~ msgstr "Esselek"
+
+#~ msgid "Fan"
+#~ msgstr "Cillätkeç"
+
+#~ msgid "State"
+#~ msgstr "Xälät"
+
+#~ msgid "Send"
+#~ msgstr "Cibär"
+
+#~ msgid "Reset"
+#~ msgstr "Awdar"

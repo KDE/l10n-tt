@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase khotkeys\n"
-"POT-Creation-Date: 2005-07-09 01:31+0200\n"
+"POT-Creation-Date: 2005-02-01 01:23+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -167,11 +167,17 @@ msgstr "Info_tab_ui"
 #: rc.cpp:111
 #, no-c-format
 msgid ""
-"<p>This module allows configuring input actions, like mouse gestures, keyboard shortcuts for performing commands, launching applications or DCOP calls, and similar.</p>\n"
-"<p><b>NOTE: </b>If you are not an experienced user, you should be careful with modifying the actions, and should limit your changes mainly to enabling/disabling actions, and changing triggers.</p>"
+"<p>This module allows configuring input actions, like mouse gestures, keyboard "
+"shortcuts for performing commands, launching applications or DCOP calls, and "
+"similar.</p>\n"
+"<p><b>NOTE: </b>If you are not an experienced user, you should be careful with "
+"modifying the actions, and should limit your changes mainly to "
+"enabling/disabling actions, and changing triggers.</p>"
 msgstr ""
-"<p>Boyırıq eşlätü, yazılımnar cibärü kebek eşlär öçen küse qılanışların, çaptırmalarnı bu modul aşa köyläp bula.</p>\n"
-"<p><b>BELDERÜ: </b>Osta bulmağan qullanuçılarğa bu köylämälärne saq bulıp üzgärtäse, berençe waqıt alarnı sünderep/yandırıp quyu da citärder.</p>"
+"<p>Boyırıq eşlätü, yazılımnar cibärü kebek eşlär öçen küse qılanışların, "
+"çaptırmalarnı bu modul aşa köyläp bula.</p>\n"
+"<p><b>BELDERÜ: </b>Osta bulmağan qullanuçılarğa bu köylämälärne saq bulıp "
+"üzgärtäse, berençe waqıt alarnı sünderep/yandırıp quyu da citärder.</p>"
 
 #. i18n: file kcontrol/ui/keyboard_input_widget_ui.ui line 16
 #: rc.cpp:115
@@ -201,14 +207,20 @@ msgstr "Kereşne Boña Yulla"
 #: rc.cpp:127
 #, no-c-format
 msgid ""
-"Specify the window where the keyboard input should be sent to:<ul>\n"
-"<li><em>Action window:</em> The window where the triggering action happened; this is usually the currently active window, except for mouse gesture triggers - where it is the window under mouse - and window triggers -where it is the window triggering the action.</li>\n"
+"Specify the window where the keyboard input should be sent to:"
+"<ul>\n"
+"<li><em>Action window:</em> The window where the triggering action happened; "
+"this is usually the currently active window, except for mouse gesture triggers "
+"- where it is the window under mouse - and window triggers -where it is the "
+"window triggering the action.</li>\n"
 "<li><em>Active window:</em> The currently active window.</li>\n"
 "<li><em>Specific window:</em> Any window matching the given criteria.</li>\n"
 "</ul>"
 msgstr ""
-"Töylek keremen qaysı täräzägä yünältäsen saylaw:<ul>\n"
-"<li><em>Eş täräzäse:</em> Ul eş qılınğan täräzä. Aldınğı täräzä bula ul yış, küse qılanışı qılu täräzäse belän açqıç täräzäsennän tış.</li>\n"
+"Töylek keremen qaysı täräzägä yünältäsen saylaw:"
+"<ul>\n"
+"<li><em>Eş täräzäse:</em> Ul eş qılınğan täräzä. Aldınğı täräzä bula ul yış, "
+"küse qılanışı qılu täräzäse belän açqıç täräzäsennän tış.</li>\n"
 "<li><em>Aldınğı täräzä:</em> Biredä aldınğı bulğan täräzä.</li>\n"
 "<li><em>Bilgelängän täräzä:</em> Äytelgän şartqa turı kilgän täräzä.</li>\n"
 "</ul>"
@@ -427,39 +439,48 @@ msgstr "Töylektän kertü : "
 msgid "Activate window : "
 msgstr "Täräzäne eşçän itü : "
 
-#: shared/conditions.cpp:287
+#: shared/conditions.cpp:285
 msgid "Active window: "
 msgstr "Eşçän täräzä: "
 
-#: shared/conditions.cpp:356
+#: shared/conditions.cpp:354
 msgid "Existing window: "
 msgstr "Barlıqtağı täräzä: "
 
-#: kcontrol/condition_list_widget.cpp:49 shared/conditions.cpp:404
+#: kcontrol/condition_list_widget.cpp:49 shared/conditions.cpp:402
 msgid ""
 "_: Not_condition\n"
 "Not"
 msgstr "Tügel"
 
-#: kcontrol/condition_list_widget.cpp:50 shared/conditions.cpp:448
+#: kcontrol/condition_list_widget.cpp:50 shared/conditions.cpp:446
 msgid ""
 "_: And_condition\n"
 "And"
 msgstr "Wä"
 
-#: kcontrol/condition_list_widget.cpp:51 shared/conditions.cpp:489
+#: kcontrol/condition_list_widget.cpp:51 shared/conditions.cpp:487
 msgid ""
 "_: Or_condition\n"
 "Or"
 msgstr "Yä"
 
 #: shared/settings.cpp:70
-msgid "This \"actions\" file has already been imported before. Are you sure you want to import it again?"
-msgstr "\"actions\" atlı birem boñarçı yöklängän inde. Anı çınlap ta qabat yöklise kiläme?"
+msgid ""
+"This \"actions\" file has already been imported before. Are you sure you want "
+"to import it again?"
+msgstr ""
+"\"actions\" atlı birem boñarçı yöklängän inde. Anı çınlap ta qabat yöklise "
+"kiläme?"
 
 #: shared/settings.cpp:81
-msgid "This \"actions\" file has no ImportId field and therefore it cannot be determined whether or not it has been imported already. Are you sure you want to import it?"
-msgstr "\"actions\" atlı biremendä ImportID digän kerem yuq, şuña kürä anıñ boñarçı yöklängän ide buluın tikşerep bulmí. Anı çınlap ta yöklise kiläme?"
+msgid ""
+"This \"actions\" file has no ImportId field and therefore it cannot be "
+"determined whether or not it has been imported already. Are you sure you want "
+"to import it?"
+msgstr ""
+"\"actions\" atlı biremendä ImportID digän kerem yuq, şuña kürä anıñ boñarçı "
+"yöklängän ide buluın tikşerep bulmí. Anı çınlap ta yöklise kiläme?"
 
 #: kcontrol/menuedit.cpp:95 shared/settings.cpp:244
 msgid "These entries were created using Menu Editor."
@@ -525,14 +546,6 @@ msgstr ""
 "Ber törkem saylansı.\n"
 "Ul saylanğan törkem öçen yaña şartnı östiseme?"
 
-#: kcontrol/condition_list_widget.cpp:159
-msgid "Add in Group"
-msgstr "Törkemgä Östä"
-
-#: kcontrol/condition_list_widget.cpp:159
-msgid "Ignore Group"
-msgstr "Törkemgä Qaramasqa"
-
 #: kcontrol/condition_list_widget.cpp:339
 #: kcontrol/condition_list_widget.cpp:362
 #: kcontrol/windowdef_list_widget.cpp:216
@@ -545,7 +558,7 @@ msgid ""
 "&Try"
 msgstr "&Sına"
 
-#: kcontrol/dcop_widget.cpp:83
+#: kcontrol/dcop_widget.cpp:82
 msgid "Failed to run KDCOP"
 msgstr "KDCOP cibärü uzmadı"
 
@@ -579,19 +592,25 @@ msgstr "Töylek Çaptırması -> Täräzä Eşçän itü (ciñel)"
 
 #: kcontrol/gesturerecordpage.cpp:35
 msgid ""
-"Draw the gesture you would like to record below. Press and hold the left mouse button while drawing, and release when you have finished.\n"
+"Draw the gesture you would like to record below. Press and hold the left mouse "
+"button while drawing, and release when you have finished.\n"
 "\n"
-"You will be required to draw the gesture 3 times. After each drawing, if they match, the indicators below will change to represent which step you are on.\n"
+"You will be required to draw the gesture 3 times. After each drawing, if they "
+"match, the indicators below will change to represent which step you are on.\n"
 "\n"
-"If at any point they do not match, you will be required to restart. If you want to force a restart, use the reset button below.\n"
+"If at any point they do not match, you will be required to restart. If you want "
+"to force a restart, use the reset button below.\n"
 "\n"
 "Draw here:"
 msgstr ""
-"Saqlísı kilgän qılanışnı asqaraq sürätlise. Qılanışnı sürätlägändä küseneñ sul töymäse basılğan bulırğa tieş, annan soñ cibärelä inde.\n"
+"Saqlísı kilgän qılanışnı asqaraq sürätlise. Qılanışnı sürätlägändä küseneñ sul "
+"töymäse basılğan bulırğa tieş, annan soñ cibärelä inde.\n"
 "\n"
-"Qılanışnı 3 tapqır kertäse. Sürätläw turı kilgän çaqta, qaysı adımda bulğanı turında astaraq belderü çığaçaq.\n"
+"Qılanışnı 3 tapqır kertäse. Sürätläw turı kilgän çaqta, qaysı adımda bulğanı "
+"turında astaraq belderü çığaçaq.\n"
 "\n"
-"Berär adımı kileşmi ikän, ul çaqta sürätläwne baştan başlísı bulaçaq. Köçläp awdarası kilsä, şundağı awdaru töymäsen qullanası.\n"
+"Berär adımı kileşmi ikän, ul çaqta sürätläwne baştan başlísı bulaçaq. Köçläp "
+"awdarası kilsä, şundağı awdaru töymäsen qullanası.\n"
 "\n"
 "Bonda sürätlise:"
 
@@ -604,8 +623,12 @@ msgid "Your gestures did not match."
 msgstr "Qılanışlar kileşmäde."
 
 #: kcontrol/gesturerecordpage.cpp:128
-msgid "You have already completed the three required drawings. Either press 'Ok' to save or 'Reset' to try again."
-msgstr "Kiräkle öç qılanış tulısınça kertelde inde. Saqlaw öçen 'OK', qabat kertü öçen 'Awdar' östenä çirtäse."
+msgid ""
+"You have already completed the three required drawings. Either press 'Ok' to "
+"save or 'Reset' to try again."
+msgstr ""
+"Kiräkle öç qılanış tulısınça kertelde inde. Saqlaw öçen 'OK', qabat kertü öçen "
+"'Awdar' östenä çirtäse."
 
 #: kcontrol/gestures_settings_tab.cpp:33
 msgid "Button 2 (middle)"
@@ -660,8 +683,11 @@ msgid "Select File with Actions to Be Imported"
 msgstr "Yöklise Birem belän Eş saylaw"
 
 #: kcontrol/kcmkhotkeys.cpp:303
-msgid "Import of the specified file failed. Most probably the file is not a valid file with actions."
-msgstr "Bilgelängän birem yökläw uzmadı. Bu birem yä eşlär bireme tügel, yä yaraqsız."
+msgid ""
+"Import of the specified file failed. Most probably the file is not a valid file "
+"with actions."
+msgstr ""
+"Bilgelängän birem yökläw uzmadı. Bu birem yä eşlär bireme tügel, yä yaraqsız."
 
 #: kcontrol/menuedit.cpp:236 kcontrol/menuedit.cpp:237
 #: kcontrol/menuedit.cpp:276
@@ -747,3 +773,9 @@ msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
+
+#~ msgid "Add in Group"
+#~ msgstr "Törkemgä Östä"
+
+#~ msgid "Ignore Group"
+#~ msgstr "Törkemgä Qaramasqa"

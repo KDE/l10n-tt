@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmfonts\n"
-"POT-Creation-Date: 2005-06-13 01:27+0200\n"
+"POT-Creation-Date: 2005-06-12 06:23+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -33,19 +33,39 @@ msgid "&Use sub-pixel hinting:"
 msgstr "Tap-ara şomartu &belän:"
 
 #: fonts.cpp:247
-msgid "If you have a TFT or LCD screen you can further improve the quality of displayed fonts by selecting this option.<br>Sub-pixel hinting is also known as ClearType(tm).<br><br><b>This will not work with CRT monitors.</b>"
-msgstr "Biredäge küräk TFT yä LCD ikän, bu köylämäne yandırıp, kürsätelgän yazu yämlegen arttırıp bula.<br>Eçketap şomartu şulay uq ClearType(tm) kebek tä tanılğan.<br><br><b>CRT-küräklärdä bonıñ uñaylığı yuq.</b>"
+msgid ""
+"If you have a TFT or LCD screen you can further improve the quality of "
+"displayed fonts by selecting this option."
+"<br>Sub-pixel hinting is also known as ClearType(tm)."
+"<br>"
+"<br><b>This will not work with CRT monitors.</b>"
+msgstr ""
+"Biredäge küräk TFT yä LCD ikän, bu köylämäne yandırıp, kürsätelgän yazu "
+"yämlegen arttırıp bula."
+"<br>Eçketap şomartu şulay uq ClearType(tm) kebek tä tanılğan."
+"<br>"
+"<br><b>CRT-küräklärdä bonıñ uñaylığı yuq.</b>"
 
 #: fonts.cpp:255
-msgid "In order for sub-pixel hinting to work correctly you need to know how the sub-pixels of your display are aligned.<br> On TFT or LCD displays a single pixel is actually composed of three sub-pixels, red, green and blue. Most displays have a linear ordering of RGB sub-pixel, some have BGR."
-msgstr "Eçketap şomartu tieşleçä eşläsen öçen, biredäge küräk taplarınıñ ürınlaşuın belü kiräk.<br> TFT belän LCD küräklärdä taplar öç eçketaptan tora: qızıl, yäşel, kük. Küräklärneñ kübesendä eçketaplar RGB buyınça tezelä, qayberlärdä BGR."
+msgid ""
+"In order for sub-pixel hinting to work correctly you need to know how the "
+"sub-pixels of your display are aligned."
+"<br> On TFT or LCD displays a single pixel is actually composed of three "
+"sub-pixels, red, green and blue. Most displays have a linear ordering of RGB "
+"sub-pixel, some have BGR."
+msgstr ""
+"Eçketap şomartu tieşleçä eşläsen öçen, biredäge küräk taplarınıñ ürınlaşuın "
+"belü kiräk."
+"<br> TFT belän LCD küräklärdä taplar öç eçketaptan tora: qızıl, yäşel, kük. "
+"Küräklärneñ kübesendä eçketaplar RGB buyınça tezelä, qayberlärdä BGR."
 
 #: fonts.cpp:266
 msgid "Hinting style: "
 msgstr "Kiñäşläw ısulı: "
 
 #: fonts.cpp:273
-msgid "Hinting is a process used to enhance the quality of fonts at small sizes."
+msgid ""
+"Hinting is a process used to enhance the quality of fonts at small sizes."
 msgstr "Keçe yazularnı yaqşılığın arttıruçı närsä."
 
 #: fonts.cpp:517
@@ -117,7 +137,8 @@ msgid "Use a&nti-aliasing for fonts"
 msgstr "Yazular şomartuın &qullanası"
 
 #: fonts.cpp:623
-msgid "If this option is selected, KDE will smooth the edges of curves in fonts."
+msgid ""
+"If this option is selected, KDE will smooth the edges of curves in fonts."
 msgstr "Bu köylämä yanıq torsa, KDE yazular çiklären şomartıp toraçaq."
 
 #: fonts.cpp:626
@@ -125,8 +146,12 @@ msgid "Configure..."
 msgstr "Caylaw..."
 
 #: fonts.cpp:714
-msgid "<p>You have changed anti-aliasing related settings. This change will only affect newly started applications.</p>"
-msgstr "<p>Şomartu köyläwläre üzgärtelgän bulğan. Yaña cibärelgän yazılımnarda ğına alarnıñ çağılışı bulaçaq.</p>"
+msgid ""
+"<p>You have changed anti-aliasing related settings. This change will only "
+"affect newly started applications.</p>"
+msgstr ""
+"<p>Şomartu köyläwläre üzgärtelgän bulğan. Yaña cibärelgän yazılımnarda ğına "
+"alarnıñ çağılışı bulaçaq.</p>"
 
 #: fonts.cpp:715
 msgid "Anti-Aliasing Settings Changed"

@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kioexec\n"
-"POT-Creation-Date: 2005-07-09 01:29+0200\n"
+"POT-Creation-Date: 2005-03-07 11:44+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -29,8 +29,10 @@ msgid "URL(s) or local file(s) used for 'command'"
 msgstr "'command' belän qullanası cirle birem(när)/URL(lar)"
 
 #: main.cpp:72
-msgid "'command' expected.\n"
-msgstr "'command' kötelde.\n"
+msgid ""
+"'command' expected.\n"
+msgstr ""
+"'command' kötelde.\n"
 
 #: main.cpp:97
 msgid ""
@@ -63,10 +65,6 @@ msgstr ""
 msgid "File Changed"
 msgstr "Birem Üzgärtelde"
 
-#: main.cpp:227
-msgid "Do Not Delete"
-msgstr "Betermäskä"
-
 #: main.cpp:233
 msgid ""
 "The file\n"
@@ -77,14 +75,6 @@ msgstr ""
 "Bu %1\n"
 "bireme üzgärtelgän bulğan axrısı.\n"
 "Üzgärelgänen yökliseme?"
-
-#: main.cpp:234
-msgid "Upload"
-msgstr "Yökläw"
-
-#: main.cpp:234
-msgid "Do Not Upload"
-msgstr "Yöklämäskä"
 
 #: main.cpp:261
 msgid "KIOExec"
@@ -101,3 +91,12 @@ msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
+
+#~ msgid "Do Not Delete"
+#~ msgstr "Betermäskä"
+
+#~ msgid "Upload"
+#~ msgstr "Yökläw"
+
+#~ msgid "Do Not Upload"
+#~ msgstr "Yöklämäskä"

@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kprinter\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2004-11-27 01:20+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -85,12 +85,18 @@ msgid "Print error"
 msgstr "Bastıru xatası"
 
 #: printwrapper.cpp:190
-msgid "A file has been specified on the command line. Printing from STDIN will be disabled."
+msgid ""
+"A file has been specified on the command line. Printing from STDIN will be "
+"disabled."
 msgstr "Boyıryulda birem äytelgän buldı. Töp kerem ağımınnan uqu sünderelgän."
 
 #: printwrapper.cpp:196
-msgid "When using '--nodialog', you must at least specify one file to print or use the '--stdin' flag."
-msgstr "Ägär '--nodialog' köylämäse qullanıla ikän, berär bulsa da birem bilgelängän bulırğa tieş, yä isä  '--stdin' bayırağı."
+msgid ""
+"When using '--nodialog', you must at least specify one file to print or use the "
+"'--stdin' flag."
+msgstr ""
+"Ägär '--nodialog' köylämäse qullanıla ikän, berär bulsa da birem bilgelängän "
+"bulırğa tieş, yä isä  '--stdin' bayırağı."
 
 #: printwrapper.cpp:245
 msgid "The specified printer or the default printer could not be found."

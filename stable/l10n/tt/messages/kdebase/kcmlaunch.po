@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmlaunch\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2004-10-23 01:16+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -13,8 +13,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: kcmlaunch.cpp:45
-msgid "<h1>Launch Feedback</h1> You can configure the application-launch feedback here."
-msgstr "<h1>Cibärelü Çağılışı</h1> Yazılımnar cibärelgändä çağılışnı bonda köyläp bula."
+msgid ""
+"<h1>Launch Feedback</h1> You can configure the application-launch feedback "
+"here."
+msgstr ""
+"<h1>Cibärelü Çağılışı</h1> Yazılımnar cibärelgändä çağılışnı bonda köyläp bula."
 
 #: kcmlaunch.cpp:49
 msgid "Bus&y Cursor"
@@ -32,9 +35,11 @@ msgid ""
 msgstr ""
 "<h1>Yökle Kürsär</h1>\n"
 "Yazılım yöklänüen belderü öçen, KDE yökle kürsär kürsätergä birä.\n"
-"Ul yökle kürsär qullanunı açu öçen, bu saylaw qırında anın berär tören saylísı.\n"
+"Ul yökle kürsär qullanunı açu öçen, bu saylaw qırında anın berär tören "
+"saylísı.\n"
 "Qayber yazılımnar üz yöklänü waqıtın beldermi toruınıñ da buluı bar.\n"
-"Andí çaqlarda kürsär cemeldäwe 'Yöklänü kürsätü arası' digän qırında waqıt uzuınnan soñ sünäçäk."
+"Andí çaqlarda kürsär cemeldäwe 'Yöklänü kürsätü arası' digän qırında waqıt "
+"uzuınnan soñ sünäçäk."
 
 #: kcmlaunch.cpp:69
 msgid "No Busy Cursor"

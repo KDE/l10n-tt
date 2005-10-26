@@ -14,5 +14,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: kwintheme.cpp:157
-msgid "<h1>Window manager theme</h1>This module allows you to choose the style of window borders."
-msgstr "<h1>Täräzä idäräçe tışlawı</h1>Bu modul siña täräzä çiklären bizäklärgä birä."
+msgid ""
+"<h1>Window manager theme</h1>This module allows you to choose the style of "
+"window borders."
+msgstr ""
+"<h1>Täräzä idäräçe tışlawı</h1>Bu modul siña täräzä çiklären bizäklärgä birä."

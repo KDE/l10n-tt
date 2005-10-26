@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs ktexteditor_docwordcompletion\n"
-"POT-Creation-Date: 2005-06-14 01:24+0200\n"
+"POT-Creation-Date: 2005-01-31 01:30+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -33,35 +33,42 @@ msgid "Pop Up Completion List"
 msgstr "Tutırular Tezmäse"
 
 #: docwordcompletion.cpp:153
-msgid "Shell Completion"
-msgstr "Qabıqtağı Tutıruçı"
-
-#: docwordcompletion.cpp:155
 msgid "Automatic Completion Popup"
 msgstr "Automatic Completion PopupÜzennän Tutırunıñ Atılma-Saylağı"
 
-#: docwordcompletion.cpp:473
+#: docwordcompletion.cpp:418
 msgid "Automatically &show completion list"
 msgstr "Üzennän tutıru tezmäsen kür&sätäse"
 
-#: docwordcompletion.cpp:486
+#: docwordcompletion.cpp:431
 msgid ""
-"_: Translators: This is the first part of two strings wich will comprise the sentence 'Show completions when a word is at least N characters'. The first part is on the right side of the N, which is represented by a spinbox widget, followed by the second part: 'characters long'. Characters is a ingeger number between and including 1 and 30. Feel free to leave the second part of the sentence blank if it suits your language better. \n"
+"_: Translators: This is the first part of two strings wich will comprise the "
+"sentence 'Show completions when a word is at least N characters'. The first "
+"part is on the right side of the N, which is represented by a spinbox widget, "
+"followed by the second part: 'characters long'. Characters is a ingeger number "
+"between and including 1 and 30. Feel free to leave the second part of the "
+"sentence blank if it suits your language better. \n"
 "Show completions &when a word is at least"
 msgstr "Süz &ozınlığı"
 
-#: docwordcompletion.cpp:492
+#: docwordcompletion.cpp:437
 msgid ""
-"_: This is the second part of two strings that will comprise teh sentence 'Show completions when a word is at least N characters'\n"
+"_: This is the second part of two strings that will comprise teh sentence 'Show "
+"completions when a word is at least N characters'\n"
 "characters long."
 msgstr "bilgedän dä kim bulmasa ğına, anıñ azaqların kürsätäse."
 
-#: docwordcompletion.cpp:495
-msgid "Enable the automatic completion list popup as default. The popup can be disabled on a view basis from the 'Tools' menu."
-msgstr "Üsennän tutıru belän atılma-tezmäse aldan uq sälätläp quyıla. Ul atılmanı \"Qoral\" saylağında sünderep bula."
+#: docwordcompletion.cpp:440
+msgid ""
+"Enable the automatic completion list popup as default. The popup can be "
+"disabled on a view basis from the 'Tools' menu."
+msgstr ""
+"Üsennän tutıru belän atılma-tezmäse aldan uq sälätläp quyıla. Ul atılmanı "
+"\"Qoral\" saylağında sünderep bula."
 
-#: docwordcompletion.cpp:498
-msgid "Define the length a word should have before the completion list is displayed."
+#: docwordcompletion.cpp:443
+msgid ""
+"Define the length a word should have before the completion list is displayed."
 msgstr "Tutıru tezmäse çıqqançı, süz ni ozınlıqqa citärgä tieşlegen bilgeli."
 
 #. i18n: file docwordcompletionui.rc line 6
@@ -69,3 +76,6 @@ msgstr "Tutıru tezmäse çıqqançı, süz ni ozınlıqqa citärgä tieşlegen 
 #, no-c-format
 msgid "Word Completion"
 msgstr "Süz Tulılatu"
+
+#~ msgid "Shell Completion"
+#~ msgstr "Qabıqtağı Tutıruçı"

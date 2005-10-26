@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kio_pop3\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2004-12-29 14:52+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -33,8 +33,10 @@ msgstr ""
 "\"%1\""
 
 #: pop3.cc:306
-msgid "Could not send to server.\n"
-msgstr "Servergä cibärep bulmadı.\n"
+msgid ""
+"Could not send to server.\n"
+msgstr ""
+"Servergä cibärep bulmadı.\n"
 
 #: pop3.cc:361 pop3.cc:420 pop3.cc:617
 msgid "No authentication details supplied."
@@ -42,21 +44,25 @@ msgstr "Tanıtu beleme birelmäde."
 
 #: pop3.cc:398
 msgid ""
-"Login via APOP failed. The server %1 may not support APOP, although it claims to support it, or the password may be wrong.\n"
+"Login via APOP failed. The server %1 may not support APOP, although it claims "
+"to support it, or the password may be wrong.\n"
 "\n"
 "%2"
 msgstr ""
-"APOP aşa kerü uzmadı. %1 digän serverdä APOP totuınıñ bulmawı bar, totam dip äytkän bulsa da, yä ki sersüz kileşmäde.\n"
+"APOP aşa kerü uzmadı. %1 digän serverdä APOP totuınıñ bulmawı bar, totam dip "
+"äytkän bulsa da, yä ki sersüz kileşmäde.\n"
 "\n"
 "%2"
 
 #: pop3.cc:586
 msgid ""
-"Login via SASL (%1) failed. The server may not support %2, or the password may be wrong.\n"
+"Login via SASL (%1) failed. The server may not support %2, or the password may "
+"be wrong.\n"
 "\n"
 "%3"
 msgstr ""
-"SASL (%1) aşa kerü uzmadı. Bu serverdä %2 totıluınıñ bulmawı bar, yä ki sersüz kileşmäde.\n"
+"SASL (%1) aşa kerü uzmadı. Bu serverdä %2 totıluınıñ bulmawı bar, yä ki sersüz "
+"kileşmäde.\n"
 "\n"
 "%3"
 
@@ -111,14 +117,21 @@ msgstr ""
 "Tanılu ısulınıñ başqasın saylap bula."
 
 #: pop3.cc:736
-msgid "Your POP3 server claims to support TLS but negotiation was unsuccessful. You can disable TLS in KDE using the crypto settings module."
+msgid ""
+"Your POP3 server claims to support TLS but negotiation was unsuccessful. You "
+"can disable TLS in KDE using the crypto settings module."
 msgstr ""
-"Bu POP3-server TLS protokolın totqan kebek bulsa da, anıñ aşa aralasıp bulmadı.\n"
+"Bu POP3-server TLS protokolın totqan kebek bulsa da, anıñ aşa aralasıp "
+"bulmadı.\n"
 "KDE'neñ serläw caylaw modulı aşa TLS qullanuın sünderep bula."
 
 #: pop3.cc:747
-msgid "Your POP3 server does not support TLS. Disable TLS, if you want to connect without encryption."
-msgstr "Bu POP3-server TLS protokolın totmí. Serläwsez totaşası kilsä, TLS protokolın sünderep bula."
+msgid ""
+"Your POP3 server does not support TLS. Disable TLS, if you want to connect "
+"without encryption."
+msgstr ""
+"Bu POP3-server TLS protokolın totmí. Serläwsez totaşası kilsä, TLS protokolın "
+"sünderep bula."
 
 #: pop3.cc:756
 msgid "Username and password for your POP3 account:"

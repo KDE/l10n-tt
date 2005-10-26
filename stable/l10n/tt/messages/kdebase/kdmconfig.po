@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdmconfig\n"
-"POT-Creation-Date: 2005-07-10 01:31+0200\n"
+"POT-Creation-Date: 2005-08-27 09:15+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -17,120 +17,165 @@ msgid "E&nable background"
 msgstr "&Artyaq açası"
 
 #: background.cpp:49
-msgid "If this is checked, KDM will use the settings below for the background. If it is disabled, you have to look after the background yourself. This is done by running some program (possibly xsetroot) in the script specified in the Setup= option in kdmrc (usually Xsetup)."
-msgstr "Bu närsä yanıq bulsa, asyaq kürsätü öçen kiläse köylämälär qullanılaçaq. Bonı eşlätü öçen, kdmrc digän biremneñ 'Setup=' digän köylämädä äytelgän ämerlek qullanıla."
-
-#: kdm-appear.cpp:71
-msgid "&Greeting:"
-msgstr "&Sälämläw:"
-
-#: kdm-appear.cpp:76
-msgid "This is the \"headline\" for KDM's login window. You may want to put some nice greeting or information about the operating system here.<p>KDM will substitute the following character pairs with the respective contents:<br><ul><li>%d -> current display</li><li>%h -> host name, possibly with domain name</li><li>%n -> node name, most probably the host name without domain name</li><li>%s -> the operating system</li><li>%r -> the operating system's version</li><li>%m -> the machine (hardware) type</li><li>%% -> a single %</li></ul>"
-msgstr "KDE'neñ kereş täräzäseneñ \"başlıq\" yulı bu. Anıñ eçenä berär sälämläw yä ki sistem turında beleşmä kertep bula.<p>Kiläse almaştırmalar alarnıñ eçtälegenä almaştıralaçaq:<br><ul><li>%d -> biredäge küräk</li><li>%h -> host adı, domain adı belän buluı bar</li><li>%n -> töyen adı, bik yış ul domain adı bulmağan host adı ğına</li><li>%s -> eşlätü sisteme</li><li>%r -> eşlätü sistemeneñ söreme</li><li>%m -> sanaq cıhazınıñ töre</li><li>%% -> yalğız %</li></ul>"
-
-#: kdm-appear.cpp:95
-msgid "Logo area:"
-msgstr "Logo urını:"
-
-#: kdm-appear.cpp:99
 msgid ""
-"_: logo area\n"
-"&None"
-msgstr "Yu&q"
+"If this is checked, KDM will use the settings below for the background. If it "
+"is disabled, you have to look after the background yourself. This is done by "
+"running some program (possibly xsetroot) in the script specified in the Setup= "
+"option in kdmrc (usually Xsetup)."
+msgstr ""
+"Bu närsä yanıq bulsa, asyaq kürsätü öçen kiläse köylämälär qullanılaçaq. Bonı "
+"eşlätü öçen, kdmrc digän biremneñ 'Setup=' digän köylämädä äytelgän ämerlek "
+"qullanıla."
 
-#: kdm-appear.cpp:100
-msgid "Show cloc&k"
-msgstr "&Säğät kürsätü"
-
-#: kdm-appear.cpp:101
-msgid "Sho&w logo"
-msgstr "Logo &kürsätäse"
-
-#: kdm-appear.cpp:113
-msgid "You can choose to display a custom logo (see below), a clock or no logo at all."
-msgstr "Bonda üz logo süräten saylap saylap bula."
-
-#: kdm-appear.cpp:119
-msgid "&Logo:"
-msgstr "&Logo:"
-
-#: kdm-appear.cpp:129
-msgid "Click here to choose an image that KDM will display. You can also drag and drop an image onto this button (e.g. from Konqueror)."
-msgstr "Bonda çirtep, KDM kürsätä torğan sürätne saylap bula. Berär sürätne bu töymägä österep taşlarğa da bula (ü.ö. Konqueror eçennän)."
-
-#: kdm-appear.cpp:141
-msgid "Position:"
-msgstr "Urnaşılu:"
-
-#: kdm-appear.cpp:144
-msgid "&X:"
-msgstr "&X:"
-
-#: kdm-appear.cpp:151
-msgid "&Y:"
-msgstr "&Y:"
-
-#: kdm-appear.cpp:158
-msgid "Here you specify the relative coordinates (in percent) of the login dialog's <em>center</em>."
-msgstr "Kerü täräzäseneñ <em>üzäk</em> urınlaşuın bonda %lap bilgeläp bula."
-
-#: kdm-appear.cpp:173 kdm-appear.cpp:185 kdm-users.cpp:83
+#: kdm-appear.cpp:71 kdm-appear.cpp:73 kdm-users.cpp:84
 msgid "<default>"
 msgstr "<ğädäti>"
 
-#: kdm-appear.cpp:175
+#: kdm-appear.cpp:112
+msgid "&Greeting:"
+msgstr "&Sälämläw:"
+
+#: kdm-appear.cpp:117
+msgid ""
+"This is the \"headline\" for KDM's login window. You may want to put some nice "
+"greeting or information about the operating system here."
+"<p>KDM will substitute the following character pairs with the respective "
+"contents:"
+"<br>"
+"<ul>"
+"<li>%d -> current display</li>"
+"<li>%h -> host name, possibly with domain name</li>"
+"<li>%n -> node name, most probably the host name without domain name</li>"
+"<li>%s -> the operating system</li>"
+"<li>%r -> the operating system's version</li>"
+"<li>%m -> the machine (hardware) type</li>"
+"<li>%% -> a single %</li></ul>"
+msgstr ""
+"KDE'neñ kereş täräzäseneñ \"başlıq\" yulı bu. Anıñ eçenä berär sälämläw yä ki "
+"sistem turında beleşmä kertep bula."
+"<p>Kiläse almaştırmalar alarnıñ eçtälegenä almaştıralaçaq:"
+"<br>"
+"<ul>"
+"<li>%d -> biredäge küräk</li>"
+"<li>%h -> host adı, domain adı belän buluı bar</li>"
+"<li>%n -> töyen adı, bik yış ul domain adı bulmağan host adı ğına</li>"
+"<li>%s -> eşlätü sisteme</li>"
+"<li>%r -> eşlätü sistemeneñ söreme</li>"
+"<li>%m -> sanaq cıhazınıñ töre</li>"
+"<li>%% -> yalğız %</li></ul>"
+
+#: kdm-appear.cpp:136
+msgid "Logo area:"
+msgstr "Logo urını:"
+
+#: kdm-appear.cpp:140 kdm-conv.cpp:77
+#, fuzzy
+msgid "&None"
+msgstr "&Yazu adı:"
+
+#: kdm-appear.cpp:141
+msgid "Show cloc&k"
+msgstr "&Säğät kürsätü"
+
+#: kdm-appear.cpp:142
+msgid "Sho&w logo"
+msgstr "Logo &kürsätäse"
+
+#: kdm-appear.cpp:154
+msgid ""
+"You can choose to display a custom logo (see below), a clock or no logo at all."
+msgstr "Bonda üz logo süräten saylap saylap bula."
+
+#: kdm-appear.cpp:160
+msgid "&Logo:"
+msgstr "&Logo:"
+
+#: kdm-appear.cpp:170
+msgid ""
+"Click here to choose an image that KDM will display. You can also drag and drop "
+"an image onto this button (e.g. from Konqueror)."
+msgstr ""
+"Bonda çirtep, KDM kürsätä torğan sürätne saylap bula. Berär sürätne bu töymägä "
+"österep taşlarğa da bula (ü.ö. Konqueror eçennän)."
+
+#: kdm-appear.cpp:182
+msgid "Position:"
+msgstr "Urnaşılu:"
+
+#: kdm-appear.cpp:185
+msgid "&X:"
+msgstr "&X:"
+
+#: kdm-appear.cpp:192
+msgid "&Y:"
+msgstr "&Y:"
+
+#: kdm-appear.cpp:199
+msgid ""
+"Here you specify the relative coordinates (in percent) of the login dialog's "
+"<em>center</em>."
+msgstr "Kerü täräzäseneñ <em>üzäk</em> urınlaşuın bonda %lap bilgeläp bula."
+
+#: kdm-appear.cpp:215
 msgid "GUI s&tyle:"
 msgstr "GUI &tışlawı:"
 
-#: kdm-appear.cpp:179
+#: kdm-appear.cpp:219
 msgid "You can choose a basic GUI style here that will be used by KDM only."
 msgstr "Sistemgä kerü citäkçesendä qullanası bizäleşne bonda saylap bula."
 
-#: kdm-appear.cpp:187
+#: kdm-appear.cpp:226
 msgid "&Color scheme:"
 msgstr "&Tös köyläwe:"
 
-#: kdm-appear.cpp:191
+#: kdm-appear.cpp:230
 msgid "You can choose a basic Color Scheme here that will be used by KDM only."
-msgstr "Sistemgä kerü citäkçesendä qullanası töslär tözeleşen bonda saylap bula."
+msgstr ""
+"Sistemgä kerü citäkçesendä qullanası töslär tözeleşen bonda saylap bula."
 
-#: kdm-appear.cpp:197
-msgid "No Echo"
-msgstr "Kürsätmäskä"
-
-#: kdm-appear.cpp:198
-msgid "One Star"
-msgstr "Ber Yöldız"
-
-#: kdm-appear.cpp:199
-msgid "Three Stars"
-msgstr "Öç Yoldız"
-
-#: kdm-appear.cpp:200
+#: kdm-appear.cpp:235
 msgid "Echo &mode:"
 msgstr "&Qaytawaz ısulı:"
 
-#: kdm-appear.cpp:204
-msgid "You can choose whether and how KDM shows your password when you type it."
-msgstr "Kertelgän sersüz kürsätü ısulın sistemgä kerü citäkçesenä bonda bilgeläp bula."
+#: kdm-appear.cpp:238
+msgid "No Echo"
+msgstr "Kürsätmäskä"
 
-#: kdm-appear.cpp:210
+#: kdm-appear.cpp:239
+msgid "One Star"
+msgstr "Ber Yöldız"
+
+#: kdm-appear.cpp:240
+msgid "Three Stars"
+msgstr "Öç Yoldız"
+
+#: kdm-appear.cpp:244
+msgid ""
+"You can choose whether and how KDM shows your password when you type it."
+msgstr ""
+"Kertelgän sersüz kürsätü ısulın sistemgä kerü citäkçesenä bonda bilgeläp bula."
+
+#: kdm-appear.cpp:250
 msgid "Locale"
 msgstr "İlläşterü"
 
-#: kdm-appear.cpp:216
+#: kdm-appear.cpp:256
 msgid "Languag&e:"
 msgstr "T&el:"
 
-#: kdm-appear.cpp:221
-msgid "Here you can choose the language used by KDM. This setting does not affect a user's personal settings; that will take effect after login."
-msgstr "Sistemgä kerü citäkçesendä qullanası tel saylaw. Bu köylämä kereş çağında ğına qullanıla, qullanuçılar caylawların üzgärtmi."
+#: kdm-appear.cpp:261
+msgid ""
+"Here you can choose the language used by KDM. This setting does not affect a "
+"user's personal settings; that will take effect after login."
+msgstr ""
+"Sistemgä kerü citäkçesendä qullanası tel saylaw. Bu köylämä kereş çağında ğına "
+"qullanıla, qullanuçılar caylawların üzgärtmi."
 
-#: kdm-appear.cpp:262
+#: kdm-appear.cpp:302
 msgid "without name"
 msgstr "isemsez"
 
-#: kdm-appear.cpp:403
+#: kdm-appear.cpp:445
 msgid ""
 "There was an error loading the image:\n"
 "%1\n"
@@ -140,30 +185,45 @@ msgstr ""
 "%1\n"
 "Ul saqlanmí qalaçaq."
 
-#: kdm-appear.cpp:443 kdm-appear.cpp:486
+#: kdm-appear.cpp:487 kdm-appear.cpp:536
 #, c-format
 msgid "Welcome to %s at %n"
 msgstr "%s Räxim di, %n "
 
-#: kdm-appear.cpp:502
-msgid "<h1>KDM - Appearance</h1> Here you can configure the basic appearance of the KDM login manager, i.e. a greeting string, an icon etc.<p> For further refinement of KDM's appearance, see the \"Font\" and \"Background\"  tabs."
-msgstr "<h1>KDM Küreneşe</h1> Sistemgä kerü öçen KDM atlı citäkçese küreneşeneñ sürätläre/yazmaları kebek  äyberlären bonda köyläp bula.<p> Anıñ küreneşneñ başqa köylämälären \"Yazu\" belän \"Asyaq\" digän tabaqlarda tabıp bula."
+#: kdm-appear.cpp:552
+msgid ""
+"<h1>KDM - Appearance</h1> Here you can configure the basic appearance of the "
+"KDM login manager, i.e. a greeting string, an icon etc."
+"<p> For further refinement of KDM's appearance, see the \"Font\" and "
+"\"Background\"  tabs."
+msgstr ""
+"<h1>KDM Küreneşe</h1> Sistemgä kerü öçen KDM atlı citäkçese küreneşeneñ "
+"sürätläre/yazmaları kebek  äyberlären bonda köyläp bula."
+"<p> Anıñ küreneşneñ başqa köylämälären \"Yazu\" belän \"Asyaq\" digän "
+"tabaqlarda tabıp bula."
 
 #: kdm-font.cpp:46
 msgid "&General:"
 msgstr "&Töptän:"
 
 #: kdm-font.cpp:49
-msgid "This changes the font which is used for all the text in the login manager except for the greeting and failure messages."
-msgstr "Sistemgä kerü citäkçeseneñ sälämläw belän xatalardan başqa bar bulğan yazmalarında qullanılğan yazunı bonda köyläp bula."
+msgid ""
+"This changes the font which is used for all the text in the login manager "
+"except for the greeting and failure messages."
+msgstr ""
+"Sistemgä kerü citäkçeseneñ sälämläw belän xatalardan başqa bar bulğan "
+"yazmalarında qullanılğan yazunı bonda köyläp bula."
 
 #: kdm-font.cpp:54
 msgid "&Failures:"
 msgstr "&Xatalar:"
 
 #: kdm-font.cpp:57
-msgid "This changes the font which is used for failure messages in the login manager."
-msgstr "Sistemgä kerü citäkçeseneñ xata belderülärendä qullanılğan yazunı bonda köyläp bula."
+msgid ""
+"This changes the font which is used for failure messages in the login manager."
+msgstr ""
+"Sistemgä kerü citäkçeseneñ xata belderülärendä qullanılğan yazunı bonda köyläp "
+"bula."
 
 #: kdm-font.cpp:62
 msgid "Gree&ting:"
@@ -171,84 +231,96 @@ msgstr "Sälämlä&w:"
 
 #: kdm-font.cpp:65
 msgid "This changes the font which is used for the login manager's greeting."
-msgstr "Sistemgä kerü citäkçeseneñ sälämläwendä qullanılğan yazunı bonda köyläp bula."
+msgstr ""
+"Sistemgä kerü citäkçeseneñ sälämläwendä qullanılğan yazunı bonda köyläp bula."
 
 #: kdm-font.cpp:70
 msgid "Use anti-aliasing for fonts"
 msgstr "Yazular öçen şomartu qullanu"
 
 #: kdm-font.cpp:71
-msgid "If you check this box and your X-Server has the Xft extension, fonts will be antialiased (smoothed) in the login dialog."
-msgstr "X-Server öçen Xft digän quşılma quyılğan çaqta, bu köylämäne yandırıp, kereş täräzäsendäge yazularnı şomartıp bula."
+msgid ""
+"If you check this box and your X-Server has the Xft extension, fonts will be "
+"antialiased (smoothed) in the login dialog."
+msgstr ""
+"X-Server öçen Xft digän quşılma quyılğan çaqta, bu köylämäne yandırıp, kereş "
+"täräzäsendäge yazularnı şomartıp bula."
 
-#: kdm-shut.cpp:49
+#: kdm-sess.cpp:48
 msgid "Allow Shutdown"
 msgstr "Tünderüne Açası"
 
-#: kdm-shut.cpp:52
+#: kdm-sess.cpp:51
 msgid "&Local:"
 msgstr "&Cirle:"
 
-#: kdm-shut.cpp:53 kdm-shut.cpp:59
+#: kdm-sess.cpp:52 kdm-sess.cpp:58
 msgid "Everybody"
 msgstr "Barkem"
 
-#: kdm-shut.cpp:54 kdm-shut.cpp:60
+#: kdm-sess.cpp:53 kdm-sess.cpp:59
 msgid "Only Root"
 msgstr "Root Ğına"
 
-#: kdm-shut.cpp:55 kdm-shut.cpp:61
+#: kdm-sess.cpp:54 kdm-sess.cpp:60
 msgid "Nobody"
 msgstr "Berkem dä yuq"
 
-#: kdm-shut.cpp:58
+#: kdm-sess.cpp:57
 msgid "&Remote:"
 msgstr "&Çittäge:"
 
-#: kdm-shut.cpp:63
-msgid "Here you can select who is allowed to shutdown the computer using KDM. You can specify different values for local (console) and remote displays. Possible values are:<ul> <li><em>Everybody:</em> everybody can shutdown the computer using KDM</li> <li><em>Only root:</em> KDM will only allow shutdown after the user has entered the root password</li> <li><em>Nobody:</em> nobody can shutdown the computer using KDM</li></ul>"
-msgstr "Sistemgä kerü citäkçesennän sanaqnı sünderü eşen eşlärgä birelgän keşelärne bonda saylap bula. Cirle belän çittän kerülär öçen ayırım köylänä. Saylarlıq bäyälär bu:<ul> <li><em>Barkem:</em> KDM qullanıp sistemne barkem dä tuqtata ala</li> <li><em>İdäräçe genä:</em> KDM qullanıp sistemne root sersüzen kertkän keşe genä tuqtata ala</li> <li><em>Berkem:</em> KDM qullanıp sistemne berkem dä tuqtata almí</li></ul>"
+#: kdm-sess.cpp:62
+msgid ""
+"Here you can select who is allowed to shutdown the computer using KDM. You can "
+"specify different values for local (console) and remote displays. Possible "
+"values are:"
+"<ul> "
+"<li><em>Everybody:</em> everybody can shutdown the computer using KDM</li> "
+"<li><em>Only root:</em> KDM will only allow shutdown after the user has entered "
+"the root password</li> "
+"<li><em>Nobody:</em> nobody can shutdown the computer using KDM</li></ul>"
+msgstr ""
+"Sistemgä kerü citäkçesennän sanaqnı sünderü eşen eşlärgä birelgän keşelärne "
+"bonda saylap bula. Cirle belän çittän kerülär öçen ayırım köylänä. Saylarlıq "
+"bäyälär bu:"
+"<ul> "
+"<li><em>Barkem:</em> KDM qullanıp sistemne barkem dä tuqtata ala</li> "
+"<li><em>İdäräçe genä:</em> KDM qullanıp sistemne root sersüzen kertkän keşe "
+"genä tuqtata ala</li> "
+"<li><em>Berkem:</em> KDM qullanıp sistemne berkem dä tuqtata almí</li></ul>"
 
-#: kdm-shut.cpp:71
+#: kdm-sess.cpp:70
 msgid "Commands"
 msgstr "Boyırıqlar"
 
-#: kdm-shut.cpp:74
+#: kdm-sess.cpp:73
 msgid "H&alt:"
 msgstr "Tuqt&at:"
 
-#: kdm-shut.cpp:77
+#: kdm-sess.cpp:76
 msgid "Command to initiate the system halt. Typical value: /sbin/halt"
 msgstr "Sistem tuqtatuın başlawçı boyırıq. Töp bäyä: /sbin/halt"
 
-#: kdm-shut.cpp:82
+#: kdm-sess.cpp:81
 msgid "Reb&oot:"
 msgstr "Ya&na yöklän:"
 
-#: kdm-shut.cpp:85
+#: kdm-sess.cpp:84
 msgid "Command to initiate the system reboot. Typical value: /sbin/reboot"
 msgstr "Sistemne yañadan cibärüen başlawçı boyırıq. Töp bäyä: /sbin/reboot"
 
-#: kdm-shut.cpp:93
-msgid ""
-"_: boot manager\n"
-"None"
-msgstr "Yuq"
+#: kdm-sess.cpp:90
+msgid "LILO"
+msgstr ""
 
-#: kdm-shut.cpp:94
-msgid "Grub"
-msgstr "Grub"
+#: kdm-sess.cpp:92
+msgid "Sho&w boot options"
+msgstr ""
 
-#: kdm-shut.cpp:96
-msgid "Lilo"
-msgstr "BKBÇ"
-
-#: kdm-shut.cpp:98
-msgid "Boot Manager:"
-msgstr "Yöklänü Mödire:"
-
-#: kdm-shut.cpp:100
-msgid "Enable boot options in the \"Shutdown...\" dialog."
+#: kdm-sess.cpp:95
+#, fuzzy
+msgid "Enable LILO boot options in the \"Shutdown...\" dialog."
 msgstr "\"Tuqtatu...\" täräzäsendä yökläw köylämälären buldıru."
 
 #: kdm-users.cpp:81
@@ -256,135 +328,184 @@ msgstr "\"Tuqtatu...\" täräzäsendä yökläw köylämälären buldıru."
 msgid "Unable to create folder %1"
 msgstr "%1 digän törgäkne yasap bulmadı"
 
-#: kdm-users.cpp:87
+#: kdm-users.cpp:88
 msgid "System U&IDs"
 msgstr "Sistemle U&ID"
 
-#: kdm-users.cpp:88
-msgid "Users with a UID (numerical user identification) outside this range will not be listed by KDM and this setup dialog. Note that users with the UID 0 (typically root) are not affected by this and must be explicitly hidden in \"Not hidden\" mode."
-msgstr "UID'ı (qullanuçınıñ tanıtma sanı) bu arağa kermägän qullanuçılar sistemgä kerü täräzäsendäge tezmägä kermäyäçäk. UID'ı 0 bulğan qullanuçı (yışraq root bula) bu köylämä çağılışına eläkmi."
+#: kdm-users.cpp:89
+msgid ""
+"Users with a UID (numerical user identification) outside this range will not be "
+"listed by KDM and this setup dialog. Note that users with the UID 0 (typically "
+"root) are not affected by this and must be explicitly hidden in \"Not hidden\" "
+"mode."
+msgstr ""
+"UID'ı (qullanuçınıñ tanıtma sanı) bu arağa kermägän qullanuçılar sistemgä kerü "
+"täräzäsendäge tezmägä kermäyäçäk. UID'ı 0 bulğan qullanuçı (yışraq root bula) "
+"bu köylämä çağılışına eläkmi."
 
-#: kdm-users.cpp:93
+#: kdm-users.cpp:94
 msgid "Below:"
 msgstr "Astağı:"
 
-#: kdm-users.cpp:100
+#: kdm-users.cpp:101
 msgid "Above:"
 msgstr "Östäge:"
 
-#: kdm-users.cpp:108
+#: kdm-users.cpp:109
 msgid "Users"
 msgstr "Qullanuçı"
 
-#: kdm-users.cpp:111
+#: kdm-users.cpp:112
 msgid "Show list"
 msgstr "Tezmä kürsätü"
 
-#: kdm-users.cpp:112
-msgid "If this option is checked, KDM will show a list of users, so users can click on their name or image rather than typing in their login."
-msgstr "Bu köylämä yanıq torsa, kereş täräzäsendä qullanuçılar tezmäse kürsäteläçäk, şulay itep qullanuçılar üz adın kertü urınına anı saylí da alaçaq."
+#: kdm-users.cpp:113
+msgid ""
+"If this option is checked, KDM will show a list of users, so users can click on "
+"their name or image rather than typing in their login."
+msgstr ""
+"Bu köylämä yanıq torsa, kereş täräzäsendä qullanuçılar tezmäse kürsäteläçäk, "
+"şulay itep qullanuçılar üz adın kertü urınına anı saylí da alaçaq."
 
-#: kdm-users.cpp:114
+#: kdm-users.cpp:115
 msgid "Autocompletion"
 msgstr "Üze tutıru"
 
-#: kdm-users.cpp:115
-msgid "If this option is checked, KDM will automatically complete user names while they are typed in the line edit."
-msgstr "Bu köylämä yanıq torsa, kereş täräzäsendä qullanuçı adın kertkändä anı üzenän üze tutırılu açılaçaq."
+#: kdm-users.cpp:116
+msgid ""
+"If this option is checked, KDM will automatically complete user names while "
+"they are typed in the line edit."
+msgstr ""
+"Bu köylämä yanıq torsa, kereş täräzäsendä qullanuçı adın kertkändä anı üzenän "
+"üze tutırılu açılaçaq."
 
-#: kdm-users.cpp:117
+#: kdm-users.cpp:118
 msgid "Inverse selection"
 msgstr "Saylanunı kire it"
 
-#: kdm-users.cpp:118
-msgid "This option specifies how the users for \"Show list\" and \"Autocompletion\" are selected in the \"Select users and groups\" list: If not checked, select only the checked users. If checked, select all non-system users, except the checked ones."
-msgstr "\"Qullanuçı belän törkemnär saylaw\" tezmäsendäge \"Tezmäne kürsät\" belän \"Üzennän tutırılu\" digänen eş tärtiben bu köylämä bilgeli: Sünek torğanda bilgelängännär genä saylana, yä isä bilgelänmägännär genä."
+#: kdm-users.cpp:119
+msgid ""
+"This option specifies how the users for \"Show list\" and \"Autocompletion\" "
+"are selected in the \"Select users and groups\" list: If not checked, select "
+"only the checked users. If checked, select all non-system users, except the "
+"checked ones."
+msgstr ""
+"\"Qullanuçı belän törkemnär saylaw\" tezmäsendäge \"Tezmäne kürsät\" belän "
+"\"Üzennän tutırılu\" digänen eş tärtiben bu köylämä bilgeli: Sünek torğanda "
+"bilgelängännär genä saylana, yä isä bilgelänmägännär genä."
 
-#: kdm-users.cpp:122
+#: kdm-users.cpp:123
 msgid "Sor&t users"
 msgstr "Qullanuçı tezäse"
 
-#: kdm-users.cpp:124
-msgid "If this is checked, KDM will alphabetically sort the user list. Otherwise users are listed in the order they appear in the password file."
-msgstr "Sünek torasa, kereş täräzäsendäge qullanuçılar tezmäse tezelgän bulır, yä isä alar sersüz biremendäge tärtip buyınça kürsäteläçäk."
+#: kdm-users.cpp:125
+msgid ""
+"If this is checked, KDM will alphabetically sort the user list. Otherwise users "
+"are listed in the order they appear in the password file."
+msgstr ""
+"Sünek torasa, kereş täräzäsendäge qullanuçılar tezmäse tezelgän bulır, yä isä "
+"alar sersüz biremendäge tärtip buyınça kürsäteläçäk."
 
-#: kdm-users.cpp:128
+#: kdm-users.cpp:129
 msgid "S&elect users and groups:"
 msgstr "Qullanuçı belän törkemnärne &saylaw:"
 
-#: kdm-users.cpp:130
+#: kdm-users.cpp:131
 msgid "Selected Users"
 msgstr "Saylanğan Qullanuçı"
 
-#: kdm-users.cpp:132
-msgid "KDM will show all checked users. Entries denoted with '@' are user groups. Checking a group is like checking all users in that group."
-msgstr "Kereş täräzäsendä bilgelänmägän qullanuçılar ğına kürsäteläçäk. Törkemnär adında '@' bilgese tora. Berär törkem saylaw aşa anıñ bar äğzäläre saylana."
+#: kdm-users.cpp:133
+msgid ""
+"KDM will show all checked users. Entries denoted with '@' are user groups. "
+"Checking a group is like checking all users in that group."
+msgstr ""
+"Kereş täräzäsendä bilgelänmägän qullanuçılar ğına kürsäteläçäk. Törkemnär "
+"adında '@' bilgese tora. Berär törkem saylaw aşa anıñ bar äğzäläre saylana."
 
-#: kdm-users.cpp:139
+#: kdm-users.cpp:140
 msgid "Hidden Users"
 msgstr "Yäşeren Qullanuçı"
 
-#: kdm-users.cpp:141
-msgid "KDM will show all non-checked non-system users. Entries denoted with '@' are user groups. Checking a group is like checking all users in that group."
-msgstr "Kereş täräzäsendä bilgelängän qullanuçılar ğına kürsäteläçäk. Törkemnär adında '@' bilgese tora. Berär törkem saylaw aşa anıñ bar äğzäläre saylana."
+#: kdm-users.cpp:142
+msgid ""
+"KDM will show all non-checked non-system users. Entries denoted with '@' are "
+"user groups. Checking a group is like checking all users in that group."
+msgstr ""
+"Kereş täräzäsendä bilgelängän qullanuçılar ğına kürsäteläçäk. Törkemnär adında "
+"'@' bilgese tora. Berär törkem saylaw aşa anıñ bar äğzäläre saylana."
 
-#: kdm-users.cpp:148
+#: kdm-users.cpp:149
 msgid "User Image Source"
 msgstr "Qullanuçı Süräteneñ Cığanağı"
 
-#: kdm-users.cpp:149
-msgid "Here you can specify where KDM will obtain the images that represent users. \"Admin\" represents the global folder; these are the pictures you can set below. \"User\" means that KDM should read the user's $HOME/.face.icon file. The two selections in the middle define the order of preference if both sources are available."
-msgstr "Kereş täräzäsendä kürsätäse qullanuçı sürätläreneñ törgägen bilgeläw. \"İdäräçe\" digäne urtaq törgäkne bilgeli; \"Qullanuçı\" itep $HOME/.face.icon bireme saylana. "
+#: kdm-users.cpp:150
+msgid ""
+"Here you can specify where KDM will obtain the images that represent users. "
+"\"Admin\" represents the global folder; these are the pictures you can set "
+"below. \"User\" means that KDM should read the user's $HOME/.face.icon file. "
+"The two selections in the middle define the order of preference if both sources "
+"are available."
+msgstr ""
+"Kereş täräzäsendä kürsätäse qullanuçı sürätläreneñ törgägen bilgeläw. "
+"\"İdäräçe\" digäne urtaq törgäkne bilgeli; \"Qullanuçı\" itep $HOME/.face.icon "
+"bireme saylana. "
 
-#: kdm-users.cpp:155
+#: kdm-users.cpp:156
 msgid "Admin"
 msgstr "İdäräçe"
 
-#: kdm-users.cpp:156
+#: kdm-users.cpp:157
 msgid "Admin, user"
 msgstr "İdäräçe, qullanuçı"
 
-#: kdm-users.cpp:157
+#: kdm-users.cpp:158
 msgid "User, admin"
 msgstr "Qullanuçı, idäräçe"
 
-#: kdm-users.cpp:158
+#: kdm-users.cpp:159
 msgid "User"
 msgstr "Qullanuçı"
 
-#: kdm-users.cpp:160
+#: kdm-users.cpp:161
 msgid "User Images"
 msgstr "Qullanuçı Süräte"
 
-#: kdm-users.cpp:163
+#: kdm-users.cpp:164
 msgid "The user the image below belongs to."
 msgstr "Qullanuçınıñ süräte bu."
 
-#: kdm-users.cpp:166
+#: kdm-users.cpp:167
 msgid "User:"
 msgstr "Qullanuçı:"
 
-#: kdm-users.cpp:174
+#: kdm-users.cpp:175
 msgid "Click or drop an image here"
 msgstr "Berär sürätne çirtäse yä bonda taşlísı"
 
-#: kdm-users.cpp:175
-msgid "Here you can see the image assigned to the user selected in the combo box above. Click on the image button to select from a list of images or drag and drop your own image on to the button (e.g. from Konqueror)."
-msgstr "Saylanğan qullanuçığa kileşterelgän sürätne bonda kürep bula. Aña çirtep, başqa sürätne saylap bula, yä ki berär sürätne bu töymägä österep taşlarğa bula (ü.ö. Konqueror eçennän)."
+#: kdm-users.cpp:176
+msgid ""
+"Here you can see the image assigned to the user selected in the combo box "
+"above. Click on the image button to select from a list of images or drag and "
+"drop your own image on to the button (e.g. from Konqueror)."
+msgstr ""
+"Saylanğan qullanuçığa kileşterelgän sürätne bonda kürep bula. Aña çirtep, başqa "
+"sürätne saylap bula, yä ki berär sürätne bu töymägä österep taşlarğa bula (ü.ö. "
+"Konqueror eçennän)."
 
-#: kdm-users.cpp:177
+#: kdm-users.cpp:178
 msgid "Unset"
 msgstr "Töşer"
 
-#: kdm-users.cpp:178
-msgid "Click this button to make KDM use the default image for the selected user."
+#: kdm-users.cpp:179
+msgid ""
+"Click this button to make KDM use the default image for the selected user."
 msgstr "Saylanğan qullanuçığa töpcay süräten quyu öçen bu töymägä çirtäse."
 
-#: kdm-users.cpp:275
+#: kdm-users.cpp:276
 msgid "Save image as default image?"
 msgstr "Bu sürätne töp sürät itep saqlísımı?"
 
-#: kdm-users.cpp:283
+#: kdm-users.cpp:284
 #, c-format
 msgid ""
 "There was an error loading the image\n"
@@ -393,7 +514,7 @@ msgstr ""
 "Bu sürätne yöklägändä xata kilep çıqtı\n"
 "%1"
 
-#: kdm-users.cpp:292
+#: kdm-users.cpp:293
 #, c-format
 msgid ""
 "There was an error saving the image:\n"
@@ -402,21 +523,31 @@ msgstr ""
 "Bu sürätne saqlağanda xata kilep çıqtı\n"
 "%1"
 
-#: kdm-users.cpp:305
+#: kdm-users.cpp:308
 msgid "Choose Image"
 msgstr "Sürät Saylaw"
 
 #: kdm-conv.cpp:47
-msgid "<qt><center><font color=red><big><b>Attention!<br>Read help!</b></big></font></center></qt>"
-msgstr "<qt><center><font color=red><big><b>İğtibar!<br>Yärdam uqı!</b></big></font></center></qt>"
+msgid ""
+"<qt>"
+"<center><font color=red><big><b>Attention!"
+"<br>Read help!</b></big></font></center></qt>"
+msgstr ""
+"<qt>"
+"<center><font color=red><big><b>İğtibar!"
+"<br>Yärdam uqı!</b></big></font></center></qt>"
 
 #: kdm-conv.cpp:51
 msgid "Enable Au&to-Login"
 msgstr "Ü&zennän-Kerü Açası"
 
 #: kdm-conv.cpp:56
-msgid "Turn on the auto-login feature. This applies only to KDM's graphical login. Think twice before enabling this!"
-msgstr "Üzennän kerü eşli alun açu. Bu köylämä sızımlı kereş täräzäsendä genä eşli. Anı açu aldınnan qabat uylap qarísı!"
+msgid ""
+"Turn on the auto-login feature. This applies only to KDM's graphical login. "
+"Think twice before enabling this!"
+msgstr ""
+"Üzennän kerü eşli alun açu. Bu köylämä sızımlı kereş täräzäsendä genä eşli. Anı "
+"açu aldınnan qabat uylap qarísı!"
 
 #: kdm-conv.cpp:61
 msgid "Use&r:"
@@ -430,67 +561,97 @@ msgstr "Üzennän üze kerü öçen qullanuçı saylaw."
 msgid "Preselect User"
 msgstr "Saylanğan Qullanuçı"
 
-#: kdm-conv.cpp:77
-msgid ""
-"_: preselected user\n"
-"&None"
-msgstr "Yu&q"
-
 #: kdm-conv.cpp:78
 msgid "Prev&ious"
 msgstr "&Uzğanı"
 
 #: kdm-conv.cpp:79
-msgid "Preselect the user that logged in previously. Use this if this computer is usually used several consecutive times by one user."
-msgstr "Soñğı tapqır kergän qullanuçı saylanaçaq. Sanaqqa yış ber ük qullanuçı kergändä bu köylämädän uñaylıq kürep bula."
+msgid ""
+"Preselect the user that logged in previously. Use this if this computer is "
+"usually used several consecutive times by one user."
+msgstr ""
+"Soñğı tapqır kergän qullanuçı saylanaçaq. Sanaqqa yış ber ük qullanuçı kergändä "
+"bu köylämädän uñaylıq kürep bula."
 
 #: kdm-conv.cpp:81
 msgid "Specif&y"
 msgstr "&Bilgeläw"
 
 #: kdm-conv.cpp:82
-msgid "Preselect the user specified in the combo box below. Use this if this computer is predominantly used by a certain user."
-msgstr "Kiläse atılma tezmädäge qullanuçın saylísı. Sanaqnı ber ük qullanuçı qullanğan çaqta bu köylämädän uñaylıq kürep bula."
+msgid ""
+"Preselect the user specified in the combo box below. Use this if this computer "
+"is predominantly used by a certain user."
+msgstr ""
+"Kiläse atılma tezmädäge qullanuçın saylísı. Sanaqnı ber ük qullanuçı qullanğan "
+"çaqta bu köylämädän uñaylıq kürep bula."
 
 #: kdm-conv.cpp:86
 msgid "Us&er:"
 msgstr "Qulla&nuçı:"
 
 #: kdm-conv.cpp:88
-msgid "Select the user to be preselected for login. This box is editable, so you can specify an arbitrary non-existent user to mislead possible attackers."
-msgstr "Kereştä aladan kertelgän qullanuçı adın saylaw. Bu qır üzgärtü aşa, bulmağan qullanuçı adın kertep, kilep çıqqan höcümçene aldap ta bula."
+msgid ""
+"Select the user to be preselected for login. This box is editable, so you can "
+"specify an arbitrary non-existent user to mislead possible attackers."
+msgstr ""
+"Kereştä aladan kertelgän qullanuçı adın saylaw. Bu qır üzgärtü aşa, bulmağan "
+"qullanuçı adın kertep, kilep çıqqan höcümçene aldap ta bula."
 
 #: kdm-conv.cpp:97
 msgid "Focus pass&word"
 msgstr "&Sersüz kertü üzäge"
 
 #: kdm-conv.cpp:98
-msgid "When this option is on, KDM will place the cursor in the password field instead of the user field after preselecting a user. Use this to save one key press per login, if the preselection usually does not need to be changed."
-msgstr "Bu köylämä açıq bulsa, qullanuçı aldan saylanğan çaqta, KDM kürsärne qullanuçı qırına tügel, sersüz qırına küçeräçäk. Qullanuçını bik yış üzgärtäse bulmağan çaqta bu närsä ber töymä basunı kiräkmi itä."
+msgid ""
+"When this option is on, KDM will place the cursor in the password field instead "
+"of the user field after preselecting a user. Use this to save one key press per "
+"login, if the preselection usually does not need to be changed."
+msgstr ""
+"Bu köylämä açıq bulsa, qullanuçı aldan saylanğan çaqta, KDM kürsärne qullanuçı "
+"qırına tügel, sersüz qırına küçeräçäk. Qullanuçını bik yış üzgärtäse bulmağan "
+"çaqta bu närsä ber töymä basunı kiräkmi itä."
 
 #: kdm-conv.cpp:104
 msgid "Enable Password-&Less Logins"
 msgstr "Sersüz&sez Kereş Buldıru"
 
 #: kdm-conv.cpp:107
-msgid "When this option is checked, the checked users from the list below will be allowed to log in without entering their password. This applies only to KDM's graphical login. Think twice before enabling this!"
-msgstr "Bu köylämä açıq bulsa, astağı tezmädä bilgelängän qullanuçılarğa sersüzsez kerep bula. Bu närsä KDM'neñ sızımlı kereştä genä aşırıla. Bonı qullanu aldınnan qabat uylap alası!"
+msgid ""
+"When this option is checked, the checked users from the list below will be "
+"allowed to log in without entering their password. This applies only to KDM's "
+"graphical login. Think twice before enabling this!"
+msgstr ""
+"Bu köylämä açıq bulsa, astağı tezmädä bilgelängän qullanuçılarğa sersüzsez "
+"kerep bula. Bu närsä KDM'neñ sızımlı kereştä genä aşırıla. Bonı qullanu "
+"aldınnan qabat uylap alası!"
 
 #: kdm-conv.cpp:114
 msgid "No password re&quired for:"
 msgstr "Bolarğa sersüz &kiräkmi:"
 
 #: kdm-conv.cpp:120
-msgid "Check all users you want to allow a password-less login for. Entries denoted with '@' are user groups. Checking a group is like checking all users in that group."
-msgstr "Sersüzsez kerä alğan qullanuçılarnı saylaw. Törkemnär adında '@' bilgese tora. Berär törkem saylaw aşa anıñ bar äğzäläre saylana."
+msgid ""
+"Check all users you want to allow a password-less login for. Entries denoted "
+"with '@' are user groups. Checking a group is like checking all users in that "
+"group."
+msgstr ""
+"Sersüzsez kerä alğan qullanuçılarnı saylaw. Törkemnär adında '@' bilgese tora. "
+"Berär törkem saylaw aşa anıñ bar äğzäläre saylana."
 
 #: kdm-conv.cpp:127
 msgid "Automatically log in again after &X server crash"
 msgstr "&X server cimerelüdän soñ üzennän üze keräse"
 
 #: kdm-conv.cpp:128
-msgid "When this option is on, a user will be logged in again automatically when their session is interrupted by an X server crash; note that this can open a security hole: if you use a screen locker than KDE's integrated one, this will make circumventing a password-secured screen lock possible."
-msgstr "Bu köylämä açıq bulsa, qullanuçı sessise X server cimerelüennän özderelgän bulğan çaqta ul qullanuçı üzennän üze kerelgän bulaçaq; bu närsä iminlek tişegen açqanın da istä totası."
+msgid ""
+"When this option is on, a user will be logged in again automatically when their "
+"session is interrupted by an X server crash; note that this can open a security "
+"hole: if you use a screen locker than KDE's integrated one, this will make "
+"circumventing a password-secured screen lock possible."
+msgstr ""
+"Bu köylämä açıq bulsa, qullanuçı sessise X server cimerelüennän özderelgän "
+"bulğan çaqta ul qullanuçı üzennän üze kerelgän bulaçaq; bu närsä iminlek "
+"tişegen açqanın da istä totası."
 
 #: main.cpp:67
 msgid ""
@@ -511,7 +672,8 @@ msgid "KDE Login Manager Config Module"
 msgstr "KDE'neñ Kereş Citäkçesen Caylaw Modulı"
 
 #: main.cpp:90
-msgid "(c) 1996 - 2005 The KDM Authors"
+#, fuzzy
+msgid "(c) 1996 - 2002 The KDM Authors"
 msgstr "(c) 1996 - 2005 KDM tözüçeläre"
 
 #: main.cpp:92
@@ -523,30 +685,72 @@ msgid "Current maintainer"
 msgstr "Xäzerge qatnaşuçı"
 
 #: main.cpp:96
-msgid "<h1>Login Manager</h1> In this module you can configure the various aspects of the KDE Login Manager. This includes the look and feel as well as the users that can be selected for login. Note that you can only make changes if you run the module with superuser rights. If you have not started the KDE Control Center with superuser rights (which is absolutely the right thing to do, by the way), click on the <em>Modify</em> button to acquire superuser rights. You will be asked for the superuser password.<h2>Appearance</h2> On this tab page, you can configure how the Login Manager should look, which language it should use, and which GUI style it should use. The language settings made here have no influence on the user's language settings.<h2>Font</h2>Here you can choose the fonts that the Login Manager should use for various purposes like greetings and user names. <h2>Background</h2>If you want to set a special background for the login screen, this is where to do it.<h2>Shutdown</h2> Here you can specify who is allowed to shutdown/reboot the machine and whether a boot manager should be used.<h2>Users</h2>On this tab page, you can select which users the Login Manager will offer you for logging in.<h2>Convenience</h2> Here you can specify a user to be logged in automatically, users not needing to provide a password to log in, and other convenience features.<br>Note, that these settings are security holes by their nature, so use them very carefully."
-msgstr "<h1>Kereş Citäkçese</h1> KDE'neñ Kereş Citäkçese eşen bu modul aşa köyläp bula. Ul köylämälär arasına sürätlär dä, qullanuçı saylaw da kerä. Beläse: idäräçe xoquqlarında iä bulğan qulanuçı ğına bu köylämälärne üzgärtä ala. Andí xoquqlar bulmağan qullanuçı bulıp kergän çaqta, <em>Üzgärtü</em> digän töymägä çirtep, idäräçe sersüzen kertäse bula.<h2>Küreneş</h2> Ul tabaqta Kereş Citäkçese küreneşen köyläp bula, alar arasında tışlaw belän kereş tele dä bar. Ul tel köyläwe qullanuçınıñ eş telenä çağılmí.<h2>Yazu</h2>Kereş Citäkçese yazmaları öçen qullanası yazu törlären köyläw. <h2>Asyaq</h2>Kereş çağına qullanası berär törle asyaq süräten bonda köyläp bula.<h2>Tuqtatu</h2> Sanaqnı tuqtatu yä ki yañadan cibärü eşe kemgä eşlärgä biräsen bu tabaqta köyläp bula.<h2>Qullanuçılar</h2> Kereş Täräzäsendäge tezmägä kertäse qullanuçılarnı bu tabaqta köyläp bula.<h2>Uñaylıq</h2> Qaysı qullanuçı adı belän üzennän üze kerü eşen uzdırasın bu tabaqta köyläp bula.<br>Beläse: bu köylämä aşa saqlıq tişege açıla."
+msgid ""
+"<h1>Login Manager</h1> In this module you can configure the various aspects of "
+"the KDE Login Manager. This includes the look and feel as well as the users "
+"that can be selected for login. Note that you can only make changes if you run "
+"the module with superuser rights. If you have not started the KDE Control "
+"Center with superuser rights (which is absolutely the right thing to do, by the "
+"way), click on the <em>Modify</em> button to acquire superuser rights. You will "
+"be asked for the superuser password."
+"<h2>Appearance</h2> On this tab page, you can configure how the Login Manager "
+"should look, which language it should use, and which GUI style it should use. "
+"The language settings made here have no influence on the user's language "
+"settings."
+"<h2>Font</h2>Here you can choose the fonts that the Login Manager should use "
+"for various purposes like greetings and user names. "
+"<h2>Background</h2>If you want to set a special background for the login "
+"screen, this is where to do it."
+"<h2>Shutdown</h2> Here you can specify who is allowed to shutdown/reboot the "
+"machine and whether a boot manager should be used."
+"<h2>Users</h2>On this tab page, you can select which users the Login Manager "
+"will offer you for logging in."
+"<h2>Convenience</h2> Here you can specify a user to be logged in automatically, "
+"users not needing to provide a password to log in, and other convenience "
+"features."
+"<br>Note, that these settings are security holes by their nature, so use them "
+"very carefully."
+msgstr ""
+"<h1>Kereş Citäkçese</h1> KDE'neñ Kereş Citäkçese eşen bu modul aşa köyläp bula. "
+"Ul köylämälär arasına sürätlär dä, qullanuçı saylaw da kerä. Beläse: idäräçe "
+"xoquqlarında iä bulğan qulanuçı ğına bu köylämälärne üzgärtä ala. Andí xoquqlar "
+"bulmağan qullanuçı bulıp kergän çaqta, <em>Üzgärtü</em> "
+"digän töymägä çirtep, idäräçe sersüzen kertäse bula."
+"<h2>Küreneş</h2> Ul tabaqta Kereş Citäkçese küreneşen köyläp bula, alar "
+"arasında tışlaw belän kereş tele dä bar. Ul tel köyläwe qullanuçınıñ eş telenä "
+"çağılmí."
+"<h2>Yazu</h2>Kereş Citäkçese yazmaları öçen qullanası yazu törlären köyläw. "
+"<h2>Asyaq</h2>Kereş çağına qullanası berär törle asyaq süräten bonda köyläp "
+"bula."
+"<h2>Tuqtatu</h2> Sanaqnı tuqtatu yä ki yañadan cibärü eşe kemgä eşlärgä biräsen "
+"bu tabaqta köyläp bula."
+"<h2>Qullanuçılar</h2> Kereş Täräzäsendäge tezmägä kertäse qullanuçılarnı bu "
+"tabaqta köyläp bula."
+"<h2>Uñaylıq</h2> Qaysı qullanuçı adı belän üzennän üze kerü eşen uzdırasın bu "
+"tabaqta köyläp bula."
+"<br>Beläse: bu köylämä aşa saqlıq tişege açıla."
 
-#: main.cpp:186
+#: main.cpp:182
 msgid "A&ppearance"
 msgstr "&Küreneş"
 
-#: main.cpp:190
+#: main.cpp:186
 msgid "&Font"
 msgstr "&Yazu adı:"
 
-#: main.cpp:194
+#: main.cpp:190
 msgid "&Background"
 msgstr "&Asyaq"
 
-#: main.cpp:198
+#: main.cpp:194
 msgid "&Shutdown"
 msgstr "&Sünder"
 
-#: main.cpp:202
+#: main.cpp:198
 msgid "&Users"
 msgstr "&Qullanuçı"
 
-#: main.cpp:210
+#: main.cpp:206
 msgid "Con&venience"
 msgstr "&Yaraqlılıq"
 
@@ -561,3 +765,27 @@ msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
+
+#~ msgid ""
+#~ "_: logo area\n"
+#~ "&None"
+#~ msgstr "Yu&q"
+
+#~ msgid ""
+#~ "_: boot manager\n"
+#~ "None"
+#~ msgstr "Yuq"
+
+#~ msgid "Grub"
+#~ msgstr "Grub"
+
+#~ msgid "Lilo"
+#~ msgstr "BKBÇ"
+
+#~ msgid "Boot Manager:"
+#~ msgstr "Yöklänü Mödire:"
+
+#~ msgid ""
+#~ "_: preselected user\n"
+#~ "&None"
+#~ msgstr "Yu&q"

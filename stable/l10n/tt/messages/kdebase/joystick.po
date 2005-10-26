@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase joystick\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2005-03-15 06:44+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -28,47 +28,73 @@ msgstr "tatarish-l10n@gmail.com"
 msgid "Calibration"
 msgstr "Bilgeläşterü"
 
-#: caldialog.cpp:39
-msgid "Next"
-msgstr "Kiläse"
-
 #: caldialog.cpp:53
 msgid "Please wait a moment to calculate the precision"
 msgstr "Tögällek sanalğançı beraz kötep torası bar"
 
-#: caldialog.cpp:81
-msgid "(usually X)"
-msgstr "(ğädättä X)"
+#: caldialog.cpp:76
+#, fuzzy
+msgid ""
+"<qt>Calibration is about to check the value range your device delivers."
+"<br>"
+"<br>Please move <b>axis %1</b> on your device to the <b>minimum</b> position."
+"<br>"
+"<br>Press any button on the device to continue with the next step.</qt>"
+msgstr ""
+"<qt>Kürenü arasın köyläw başlaw."
+"<br>"
+"<br>Cıhaz totqıçın <b>%1 %2 yünälmä</b> buyınça <b>asqı çik</b> "
+"urınına kiteräse."
+"<br>"
+"<br>Kiläse adımğa küçü öçen ul cıhaznıñ berär töymägä, yä ki bu täräzäneñ "
+"'Kiläse' digän töymägä çirtäse.</qt>"
 
-#: caldialog.cpp:83
-msgid "(usually Y)"
-msgstr "(ğädättä Y)"
-
-#: caldialog.cpp:88
-msgid "<qt>Calibration is about to check the value range your device delivers.<br><br>Please move <b>axis %1 %2</b> on your device to the <b>minimum</b> position.<br><br>Press any button on the device or click on the 'Next' button to continue with the next step.</qt>"
-msgstr "<qt>Kürenü arasın köyläw başlaw.<br><br>Cıhaz totqıçın <b>%1 %2 yünälmä</b> buyınça <b>asqı çik</b> urınına kiteräse.<br><br>Kiläse adımğa küçü öçen ul cıhaznıñ berär töymägä, yä ki bu täräzäneñ 'Kiläse' digän töymägä çirtäse.</qt>"
+#: caldialog.cpp:89
+#, fuzzy
+msgid ""
+"<qt>Calibration is about to check the value range your device delivers."
+"<br>"
+"<br>Please move <b>axis %1</b> on your device to the <b>center</b> position."
+"<br>"
+"<br>Press any button on the device to continue with the next step.</qt>"
+msgstr ""
+"<qt>Kürenü arasın köyläw başlaw."
+"<br>"
+"<br>Cıhaz totqıçın <b>%1 %2 yünälmä</b> buyınça <b>üzäk</b> urınğa kiteräse."
+"<br>"
+"<br>Kiläse adımğa küçü öçen ul cıhaznıñ berär töymägä, yä ki bu täräzäneñ "
+"'Kiläse' digän töymägä çirtäse.</qt>"
 
 #: caldialog.cpp:102
-msgid "<qt>Calibration is about to check the value range your device delivers.<br><br>Please move <b>axis %1 %2</b> on your device to the <b>center</b> position.<br><br>Press any button on the device or click on the 'Next' button to continue with the next step.</qt>"
-msgstr "<qt>Kürenü arasın köyläw başlaw.<br><br>Cıhaz totqıçın <b>%1 %2 yünälmä</b> buyınça <b>üzäk</b> urınğa kiteräse.<br><br>Kiläse adımğa küçü öçen ul cıhaznıñ berär töymägä, yä ki bu täräzäneñ 'Kiläse' digän töymägä çirtäse.</qt>"
+#, fuzzy
+msgid ""
+"<qt>Calibration is about to check the value range your device delivers."
+"<br>"
+"<br>Please move <b>axis %1</b> on your device to the <b>maximum</b> position."
+"<br>"
+"<br>Press any button on the device to continue with the next step.</qt>"
+msgstr ""
+"<qt>Kürenü arasın köyläw başlaw."
+"<br>"
+"<br>Cıhaz totqıçın <b>%1 %2 yünälmä</b> buyınça <b>öske çik</b> "
+"urınına kiteräse."
+"<br>"
+"<br>Kiläse adımğa küçü öçen ul cıhaznıñ berär töymägä, yä ki bu täräzäneñ "
+"'Kiläse' digän töymägä çirtäse.</qt>"
 
-#: caldialog.cpp:116
-msgid "<qt>Calibration is about to check the value range your device delivers.<br><br>Please move <b>axis %1 %2</b> on your device to the <b>maximum</b> position.<br><br>Press any button on the device or click on the 'Next' button to continue with the next step.</qt>"
-msgstr "<qt>Kürenü arasın köyläw başlaw.<br><br>Cıhaz totqıçın <b>%1 %2 yünälmä</b> buyınça <b>öske çik</b> urınına kiteräse.<br><br>Kiläse adımğa küçü öçen ul cıhaznıñ berär töymägä, yä ki bu täräzäneñ 'Kiläse' digän töymägä çirtäse.</qt>"
-
-#: caldialog.cpp:136 joywidget.cpp:324 joywidget.cpp:359
+#: caldialog.cpp:121 joywidget.cpp:324 joywidget.cpp:359
 msgid "Communication Error"
 msgstr "Elemtä Xatası"
 
-#: caldialog.cpp:140
+#: caldialog.cpp:125
 msgid "You have successfully calibrated your device"
 msgstr "Bu cıhazne bilgeläp çığu uñışlı uzdı"
 
-#: caldialog.cpp:140 joywidget.cpp:365
+#: caldialog.cpp:125 joywidget.cpp:365
 msgid "Calibration Success"
 msgstr "Bilgeläşterü Buldı"
 
-#: caldialog.cpp:164
+#: caldialog.cpp:148
 msgid "Value Axis %1: %2"
 msgstr "%1 Yünälmä Bäyäse: %2"
 
@@ -82,11 +108,17 @@ msgstr "%1 digän cıhaz joystik tügel ikän."
 
 #: joydevice.cpp:66
 msgid "Could not get kernel driver version for joystick device %1: %2"
-msgstr "Could not get kernel driver version for joystick device %1: %2%1 digän joystik cıhazınıñ töş söremeñ belep bulmí: %2"
+msgstr ""
+"Could not get kernel driver version for joystick device %1: %2%1 digän joystik "
+"cıhazınıñ töş söremeñ belep bulmí: %2"
 
 #: joydevice.cpp:80
-msgid "The current running kernel driver version (%1.%2.%3) is not the one this module was compiled for (%4.%5.%6)."
-msgstr "Biredä eşläwçe töş söreme (%1.%2.%3) bu modul cíğanda qullanılğan belän kileşmi (%4.%5.%6)."
+msgid ""
+"The current running kernel driver version (%1.%2.%3) is not the one this module "
+"was compiled for (%4.%5.%6)."
+msgstr ""
+"Biredä eşläwçe töş söreme (%1.%2.%3) bu modul cíğanda qullanılğan belän kileşmi "
+"(%4.%5.%6)."
 
 #: joydevice.cpp:87
 msgid "Could not get number of buttons for joystick device %1: %2"
@@ -125,8 +157,40 @@ msgid "KDE Control Center Module to test Joysticks"
 msgstr "Joystik sınaw öçen KDE'neñ İdärä Üzäk Modulı"
 
 #: joystick.cpp:77
-msgid "<h1>Joystick</h1>This module helps to check if your joystick is working correctly.<br>If it delivers wrong values for the axes, you can try to solve this with the calibration.<br>This module tries to find all available joystick devices by checking /dev/js[0-4] and /dev/input/js[0-4]<br>If you have another device file, enter it in the combobox.<br>The Buttons list shows the state of the buttons on your joystick, the Axes list shows the current value for all axes.<br>NOTE: the current Linux device driver (Kernel 2.4, 2.6) can only autodetect<ul><li>2-axis, 4-button joystick</li><li>3-axis, 4-button joystick</li><li>4-axis, 4-button joystick</li><li>Saitek Cyborg 'digital' joysticks</li></ul>(For details you can check your Linux source/Documentation/input/joystick.txt)"
-msgstr "<h1>Joystik</h1>Joystik eşläwen bu modul aşa tieşleçä köyläp bula.<br>Yünälmä bäyäläre yalğış kilgän çaqta alarnı tözätü öçen bu köyläwne qullanıp bula.<br>Bu modul /dev/js[0-4] belän /dev/input/js[0-4] digän cıhaz biremnären tikşerü aşa biredä bulğan joystik cıhazların ezläp qarí.<br>Başqa cıhaz bireme bulğan çaqta, anı bu saylaw tezmäsenä kertep bula.<br>Töymälär digän tezmädä joystik töymäläreneñ xäläte kürsätelä, Yünälmä tezmäsendä idä yünälmälärneñ bäyäläre.<br>BELÄSE: Linux'nıñ biredäge driver (Kernel 2.4, 2.6) bu joystik cıhazların ğına döres taní ala<ul><li>2-yünälmä, 4-töymäle joystik</li><li>3-yünälmä, 4-töymäle joystik</li><li>4-yünälmä, 4-töymäle joystik</li><li>Saitek Cyborg citeştergän joystik</li></ul>(Bonı turında kübrägen Linux qullanmasındağı Documentation/input/joystick.txt biremendä uqıp bula)"
+msgid ""
+"<h1>Joystick</h1>This module helps to check if your joystick is working "
+"correctly."
+"<br>If it delivers wrong values for the axes, you can try to solve this with "
+"the calibration."
+"<br>This module tries to find all available joystick devices by checking "
+"/dev/js[0-4] and /dev/input/js[0-4]"
+"<br>If you have another device file, enter it in the combobox."
+"<br>The Buttons list shows the state of the buttons on your joystick, the Axes "
+"list shows the current value for all axes."
+"<br>NOTE: the current Linux device driver (Kernel 2.4, 2.6) can only autodetect"
+"<ul>"
+"<li>2-axis, 4-button joystick</li>"
+"<li>3-axis, 4-button joystick</li>"
+"<li>4-axis, 4-button joystick</li>"
+"<li>Saitek Cyborg 'digital' joysticks</li></ul>(For details you can check your "
+"Linux source/Documentation/input/joystick.txt)"
+msgstr ""
+"<h1>Joystik</h1>Joystik eşläwen bu modul aşa tieşleçä köyläp bula."
+"<br>Yünälmä bäyäläre yalğış kilgän çaqta alarnı tözätü öçen bu köyläwne "
+"qullanıp bula."
+"<br>Bu modul /dev/js[0-4] belän /dev/input/js[0-4] digän cıhaz biremnären "
+"tikşerü aşa biredä bulğan joystik cıhazların ezläp qarí."
+"<br>Başqa cıhaz bireme bulğan çaqta, anı bu saylaw tezmäsenä kertep bula."
+"<br>Töymälär digän tezmädä joystik töymäläreneñ xäläte kürsätelä, Yünälmä "
+"tezmäsendä idä yünälmälärneñ bäyäläre."
+"<br>BELÄSE: Linux'nıñ biredäge driver (Kernel 2.4, 2.6) bu joystik cıhazların "
+"ğına döres taní ala"
+"<ul>"
+"<li>2-yünälmä, 4-töymäle joystik</li>"
+"<li>3-yünälmä, 4-töymäle joystik</li>"
+"<li>4-yünälmä, 4-töymäle joystik</li>"
+"<li>Saitek Cyborg citeştergän joystik</li></ul>(Bonı turında kübrägen Linux "
+"qullanmasındağı Documentation/input/joystick.txt biremendä uqıp bula)"
 
 #: joywidget.cpp:43
 msgid "PRESSED"
@@ -193,10 +257,30 @@ msgid "Device Error"
 msgstr "Cıhaz Xatası"
 
 #: joywidget.cpp:329
-msgid "<qt>Calibration is about to check the precision.<br><br><b>Please move all axes to their center position and then do not touch the joystick anymore.</b><br><br>Click OK to start the calibration.</qt>"
-msgstr "<qt>Sizüçänlek köyläw başlana.<br><br><b>Joystik totqıçın üzäkkä kiterep, bütän aña timäskä.</b><br><br>Köyläwne başlaw öçen OK çirtäse.</qt>"
+msgid ""
+"<qt>Calibration is about to check the precision."
+"<br>"
+"<br><b>Please move all axes to their center position and then do not touch the "
+"joystick anymore.</b>"
+"<br>"
+"<br>Click OK to start the calibration.</qt>"
+msgstr ""
+"<qt>Sizüçänlek köyläw başlana."
+"<br>"
+"<br><b>Joystik totqıçın üzäkkä kiterep, bütän aña timäskä.</b>"
+"<br>"
+"<br>Köyläwne başlaw öçen OK çirtäse.</qt>"
 
 #: joywidget.cpp:364
 #, c-format
 msgid "Restored all calibration values for joystick device %1."
 msgstr "%1 digän joystik cıhazınıñ bar köylämälär bäyäläre torğızıldı."
+
+#~ msgid "Next"
+#~ msgstr "Kiläse"
+
+#~ msgid "(usually X)"
+#~ msgstr "(ğädättä X)"
+
+#~ msgid "(usually Y)"
+#~ msgstr "(ğädättä Y)"

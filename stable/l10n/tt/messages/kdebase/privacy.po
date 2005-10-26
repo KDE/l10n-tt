@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase privacy\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2004-10-23 01:16+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -25,8 +25,12 @@ msgid ""
 msgstr "tatarish-l10n@gmail.com"
 
 #: privacy.cpp:43
-msgid "The privacy module allows a user to erase traces which KDE leaves on the system, such as command histories or browser caches."
-msgstr "Qullanuçı eşlägän çaqta KDE bu sistemdä qaldırğan ezlärne bu xosusílıq modulı aşa buşatıp bula, alar arasında uzğannar belän alxäter dä bar."
+msgid ""
+"The privacy module allows a user to erase traces which KDE leaves on the "
+"system, such as command histories or browser caches."
+msgstr ""
+"Qullanuçı eşlägän çaqta KDE bu sistemdä qaldırğan ezlärne bu xosusílıq modulı "
+"aşa buşatıp bula, alar arasında uzğannar belän alxäter dä bar."
 
 #: privacy.cpp:49
 msgid "kcm_privacy"
@@ -99,8 +103,12 @@ msgid "Favorite Icons"
 msgstr "Saylanma Tamğası"
 
 #: privacy.cpp:112
-msgid "Check all cleanup actions you would like to perform. These will be executed by pressing the button below"
-msgstr "Qılası kilgän buşatu eşlären saylap quyası. Astağı töymägä çirtü aşa bonı eşläp bula"
+msgid ""
+"Check all cleanup actions you would like to perform. These will be executed by "
+"pressing the button below"
+msgstr ""
+"Qılası kilgän buşatu eşlären saylap quyası. Astağı töymägä çirtü aşa bonı eşläp "
+"bula"
 
 #: privacy.cpp:113
 msgid "Immediately performs the cleanup actions selected above"
@@ -111,7 +119,8 @@ msgid "Clears all cached thumbnails"
 msgstr "Alxäterdäge töymäsürätlär buşatu"
 
 #: privacy.cpp:116
-msgid "Clears the history of commands run through the Run Command tool on the desktop"
+msgid ""
+"Clears the history of commands run through the Run Command tool on the desktop"
 msgstr "Östälneñ Boyırıq Cibärü aşa eşlätelgän boyırıqlar tezmäsen buşatu"
 
 #: privacy.cpp:117
@@ -135,7 +144,8 @@ msgid "Clears values which were entered into forms on websites"
 msgstr "Törle säxifälärneñ formlarında kertelgän bäyälärdän buşatu"
 
 #: privacy.cpp:122
-msgid "Clears the list of recently used documents from the KDE applications menu"
+msgid ""
+"Clears the list of recently used documents from the KDE applications menu"
 msgstr "KDE-yazılımnarda baya açılğan istäleklär tezmäsen buşatu"
 
 #: privacy.cpp:123
@@ -147,7 +157,8 @@ msgid "Clears the FavIcons cached from visited websites"
 msgstr "Kerelgän säxifälärdän tamğalar alxäteren buşatu"
 
 #: privacy.cpp:247
-msgid "You are deleting data that is potentially valuable to you. Are you sure?"
+msgid ""
+"You are deleting data that is potentially valuable to you. Are you sure?"
 msgstr "Kiräk bula ala torğan belem beterelä. Çınlap ta beteräseme?"
 
 #: privacy.cpp:250
@@ -223,8 +234,10 @@ msgstr "Íqtísadí Belem"
 #. i18n: file kprivacysettings.ui line 101
 #: rc.cpp:37
 #, no-c-format
-msgid "Warn me when I visit a site that uses my financial or purchase information:"
-msgstr "Minem aqça turında belemne qullanğan säxifägä kergän çaqta mine belderäse:"
+msgid ""
+"Warn me when I visit a site that uses my financial or purchase information:"
+msgstr ""
+"Minem aqça turında belemne qullanğan säxifägä kergän çaqta mine belderäse:"
 
 #. i18n: file kprivacysettings.ui line 109
 #: rc.cpp:40 rc.cpp:52
@@ -247,8 +260,11 @@ msgstr "İsän-Sawlıq Turında"
 #. i18n: file kprivacysettings.ui line 138
 #: rc.cpp:49
 #, no-c-format
-msgid "Warn me when I visit a site that uses my health or medical information: "
-msgstr "Minem isän-sawlıq turında belemne qullanğan säxifägä kergän çaqta mine belderäse: "
+msgid ""
+"Warn me when I visit a site that uses my health or medical information: "
+msgstr ""
+"Minem isän-sawlıq turında belemne qullanğan säxifägä kergän çaqta mine "
+"belderäse: "
 
 #. i18n: file kprivacysettings.ui line 164
 #: rc.cpp:58
@@ -259,8 +275,11 @@ msgstr "Sünawsızım"
 #. i18n: file kprivacysettings.ui line 175
 #: rc.cpp:61
 #, no-c-format
-msgid "Warn me when I visit a site that uses my non-personally identifiable information:"
-msgstr "Minem turında bulmağan belemne qullanğan säxifägä kergän çaqta mine belderäse:"
+msgid ""
+"Warn me when I visit a site that uses my non-personally identifiable "
+"information:"
+msgstr ""
+"Minem turında bulmağan belemne qullanğan säxifägä kergän çaqta mine belderäse:"
 
 #. i18n: file kprivacysettings.ui line 183
 #: rc.cpp:64
@@ -271,14 +290,21 @@ msgstr "Üz qızıqsınu-şöğellänülär belderü öçen"
 #. i18n: file kprivacysettings.ui line 201
 #: rc.cpp:70
 #, no-c-format
-msgid "Warn me when I visit a site that shares my personal information with other companies"
-msgstr "Minem turında belemne başqa şerkätlär belän büleşkän säxifägä kergän çaqta mine belderäse"
+msgid ""
+"Warn me when I visit a site that shares my personal information with other "
+"companies"
+msgstr ""
+"Minem turında belemne başqa şerkätlär belän büleşkän säxifägä kergän çaqta mine "
+"belderäse"
 
 #. i18n: file kprivacysettings.ui line 209
 #: rc.cpp:73
 #, no-c-format
-msgid "Warn me when I visit a site that does not let me know what information they have about me"
-msgstr "Minem turında ni belgänen äytmägän säxifägä kergän çaqta mine belderäse"
+msgid ""
+"Warn me when I visit a site that does not let me know what information they "
+"have about me"
+msgstr ""
+"Minem turında ni belgänen äytmägän säxifägä kergän çaqta mine belderäse"
 
 #. i18n: file kprivacysettings.ui line 217
 #: rc.cpp:76
@@ -289,14 +315,19 @@ msgstr "Şäxes Turında"
 #. i18n: file kprivacysettings.ui line 228
 #: rc.cpp:79
 #, no-c-format
-msgid "Warn me when I visit a site that may contact me about other products or services:"
-msgstr "Başqa eşlänmä yä ki xezmätlär turında äytä belgän säxifägä kergän çaqta mine belderäse:"
+msgid ""
+"Warn me when I visit a site that may contact me about other products or "
+"services:"
+msgstr ""
+"Başqa eşlänmä yä ki xezmätlär turında äytä belgän säxifägä kergän çaqta mine "
+"belderäse:"
 
 #. i18n: file kprivacysettings.ui line 236
 #: rc.cpp:82
 #, no-c-format
 msgid "Warn me when I visit a site that may use my personal information to:"
-msgstr "Minem turında belemne qullana alğan säxifägä kergän çaqta mine belderäse:"
+msgstr ""
+"Minem turında belemne qullana alğan säxifägä kergän çaqta mine belderäse:"
 
 #. i18n: file kprivacysettings.ui line 244
 #: rc.cpp:85

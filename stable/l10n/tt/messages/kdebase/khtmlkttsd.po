@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase khtmlkttsd\n"
-"POT-Creation-Date: 2005-06-14 01:26+0200\n"
+"POT-Creation-Date: 2005-02-20 01:22+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: khtmlkttsd.cpp:60
+#: khtmlkttsd.cpp:58
 msgid "Cannot Read source"
 msgstr "Çığanaqnı uqıp bulmadı"
 
-#: khtmlkttsd.cpp:61
+#: khtmlkttsd.cpp:59
 msgid ""
 "You cannot read anything except web pages with\n"
 "this plugin, sorry."
@@ -24,22 +24,21 @@ msgstr ""
 "Bu quşılma belän, web bitlärdän tış bütän ber ni dä\n"
 "uqıp bulmí, ğafu it."
 
-#: khtmlkttsd.cpp:71
+#: khtmlkttsd.cpp:79
 msgid "Starting KTTSD Failed"
 msgstr "KTTSD Cibärep Bulmadı"
 
-#: khtmlkttsd.cpp:86 khtmlkttsd.cpp:125 khtmlkttsd.cpp:131
+#: khtmlkttsd.cpp:89 khtmlkttsd.cpp:95
 msgid "DCOP Call Failed"
 msgstr "DCOP Çaqırıp Bulmadı"
 
-#: khtmlkttsd.cpp:87
-msgid "The DCOP call supportsMarkup failed."
-msgstr "DCOP aşa supportsMarkup endäşü uzmadı."
-
-#: khtmlkttsd.cpp:126
+#: khtmlkttsd.cpp:90
 msgid "The DCOP call setText failed."
 msgstr "DCOP aşa setText endäşü uzmadı."
 
-#: khtmlkttsd.cpp:132
+#: khtmlkttsd.cpp:96
 msgid "The DCOP call startText failed."
 msgstr "DCOP aşa startText endäşü uzmadı."
+
+#~ msgid "The DCOP call supportsMarkup failed."
+#~ msgstr "DCOP aşa supportsMarkup endäşü uzmadı."

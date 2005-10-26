@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmkclock\n"
-"POT-Creation-Date: 2005-07-08 01:31+0200\n"
+"POT-Creation-Date: 2004-11-03 01:20+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -21,42 +21,63 @@ msgid "Here you can change the system date's day of the month, month and year."
 msgstr "Sistemneñ eş zamanınıñ kön, ay, yılın bonda üzgärtep bula."
 
 #: dtime.cpp:147
-msgid "Here you can change the system time. Click into the hours, minutes or seconds field to change the relevant value, either using the up and down buttons to the right or by entering a new value."
-msgstr "Sistemneñ eş waqıtın bonda üzgärtep bula. Säğät, minut, sekund sanın üzgärtü öçen alarnın qırlarına çirtkäç, quldan kertäse, yä ki uq töymälären qullanası."
+msgid ""
+"Here you can change the system time. Click into the hours, minutes or seconds "
+"field to change the relevant value, either using the up and down buttons to the "
+"right or by entering a new value."
+msgstr ""
+"Sistemneñ eş waqıtın bonda üzgärtep bula. Säğät, minut, sekund sanın üzgärtü "
+"öçen alarnın qırlarına çirtkäç, quldan kertäse, yä ki uq töymälären qullanası."
 
 #: dtime.cpp:246
-msgid "Public Time Server (pool.ntp.org),asia.pool.ntp.org,europe.pool.ntp.org,north-america.pool.ntp.org,oceania.pool.ntp.org"
-msgstr "Açıq Waqıt Servere (pool.ntp.org),asia.pool.ntp.org,europe.pool.ntp.org,north-america.pool.ntp.org,oceania.pool.ntp.org"
+msgid ""
+"Public Time Server "
+"(pool.ntp.org),asia.pool.ntp.org,europe.pool.ntp.org,north-america.pool.ntp.org,"
+"oceania.pool.ntp.org"
+msgstr ""
+"Açıq Waqıt Servere "
+"(pool.ntp.org),asia.pool.ntp.org,europe.pool.ntp.org,north-america.pool.ntp.org,"
+"oceania.pool.ntp.org"
 
 #: dtime.cpp:331
 msgid "Can not set date."
 msgstr "Çaqnı üzgärtep bulmadı."
 
 #: dtime.cpp:361 main.cpp:54
-msgid "<h1>Date & Time</h1> This control module can be used to set the system date and time. As these settings do not only affect you as a user, but rather the whole system, you can only change these settings when you start the Control Center as root. If you do not have the root password, but feel the system time should be corrected, please contact your system administrator."
-msgstr "<h1>Waqıt & Zaman</h1> Sistemdä waqıt belän zamannı bilgeläw öçen bu modul qullanıp bula. Alarnı caylaw ber qullanuçığa ğına tügel, böten sistemgä dä çağıla, şuña kürä anı üzgärtü öçen Caylaw Üzägenä idäräçe bulıp keräse. İdäräçeneñ sersüze bilgele bulmağanda sistem waqıtın tözätäse bar dip kürenä ikän, idäräçen belderep quyası."
+msgid ""
+"<h1>Date & Time</h1> This control module can be used to set the system date and "
+"time. As these settings do not only affect you as a user, but rather the whole "
+"system, you can only change these settings when you start the Control Center as "
+"root. If you do not have the root password, but feel the system time should be "
+"corrected, please contact your system administrator."
+msgstr ""
+"<h1>Waqıt & Zaman</h1> Sistemdä waqıt belän zamannı bilgeläw öçen bu modul "
+"qullanıp bula. Alarnı caylaw ber qullanuçığa ğına tügel, böten sistemgä dä "
+"çağıla, şuña kürä anı üzgärtü öçen Caylaw Üzägenä idäräçe bulıp keräse. "
+"İdäräçeneñ sersüze bilgele bulmağanda sistem waqıtın tözätäse bar dip kürenä "
+"ikän, idäräçen belderep quyası."
 
-#: tzone.cpp:59
+#: tzone.cpp:62
 msgid "Current time zone: "
 msgstr "Biredäge waqıt quşağı: "
 
-#: tzone.cpp:66
+#: tzone.cpp:69
 msgid "To change the time zone, select your area from the list below:"
 msgstr "Waqıt quşağın üzgärtü öçen, anı bu tezmädän saylísı:"
 
-#: tzone.cpp:84 tzone.cpp:137
+#: tzone.cpp:87 tzone.cpp:195
 msgid "[No selection]"
 msgstr "[Saylanmadı]"
 
-#: tzone.cpp:111
+#: tzone.cpp:146
 msgid "Unknown"
 msgstr "Bilgesez"
 
-#: tzone.cpp:228
+#: tzone.cpp:286
 msgid "Error setting new Time Zone."
 msgstr "Waqıt Quşağın üzgärtkändä xata kilep çıqtı."
 
-#: tzone.cpp:229
+#: tzone.cpp:287
 msgid "Timezone Error"
 msgstr "Waqıt Quşağı Qatası"
 

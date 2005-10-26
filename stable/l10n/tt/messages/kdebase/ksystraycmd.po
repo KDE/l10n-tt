@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase ksystraycmd\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2004-10-12 01:16+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -13,8 +13,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ksystraycmd.cpp:55
-msgid "No window matching pattern '%1' and no command specified.\n"
-msgstr "'%1' ürnägenä kileşkän täräzälär yuq, boyırıq ta bilgelänmäde.\n"
+msgid ""
+"No window matching pattern '%1' and no command specified.\n"
+msgstr ""
+"'%1' ürnägenä kileşkän täräzälär yuq, boyırıq ta bilgelänmäde.\n"
 
 #: ksystraycmd.cpp:62
 msgid "KSysTrayCmd: KShellProcess cannot find a shell."

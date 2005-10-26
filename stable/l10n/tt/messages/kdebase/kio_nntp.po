@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kio_nntp\n"
-"POT-Creation-Date: 2005-06-20 01:29+0200\n"
+"POT-Creation-Date: 2004-10-12 01:16+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,12 +12,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: nntp.cpp:196
+#: nntp.cpp:156
 #, c-format
 msgid "Invalid special command %1"
 msgstr "Maxsus %1 boyırığı yaraqsız"
 
-#: nntp.cpp:449
+#: nntp.cpp:373
 #, c-format
 msgid ""
 "Could not extract first message number from server response:\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Server cawabı eçendä berençe xäbär sanın tabıp bulmadı:\n"
 "%1"
 
-#: nntp.cpp:489
+#: nntp.cpp:398
 #, c-format
 msgid ""
 "Could not extract first message id from server response:\n"
@@ -35,7 +35,7 @@ msgstr ""
 "Server cawabı eçendä berençe xäbär tamğasın tabıp bulmadı:\n"
 "%1"
 
-#: nntp.cpp:518
+#: nntp.cpp:425
 #, c-format
 msgid ""
 "Could not extract message id from server response:\n"
@@ -44,18 +44,16 @@ msgstr ""
 "Server cawabı eçendä xäbär tamğasın tabıp bulmadı:\n"
 "%1"
 
-#: nntp.cpp:728
-msgid "This server does not support TLS"
-msgstr "Bu server TLS totmí"
-
-#: nntp.cpp:733
-msgid "TLS negotiation failed"
-msgstr "TLS aralaşu uzmadı"
-
-#: nntp.cpp:817
+#: nntp.cpp:624
 msgid ""
 "Unexpected server response to %1 command:\n"
 "%2"
 msgstr ""
 "Server yağınnan %1 boyırıqqa kötelmägän cawap kilde:\n"
 "%2"
+
+#~ msgid "This server does not support TLS"
+#~ msgstr "Bu server TLS totmí"
+
+#~ msgid "TLS negotiation failed"
+#~ msgstr "TLS aralaşu uzmadı"

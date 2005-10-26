@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kio_trash\n"
-"POT-Creation-Date: 2005-06-30 01:30+0200\n"
+"POT-Creation-Date: 2004-12-29 14:52+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -29,12 +29,8 @@ msgid "ktrash"
 msgstr "ktrash"
 
 #: ktrash.cpp:43
-msgid ""
-"Helper program to handle the KDE trash can\n"
-"Note: to move files to the trash, do not use ktrash, but \"kfmclient move 'url' trash:/\""
+msgid "Helper program to handle the KDE trash can"
 msgstr ""
-"KDE çüplege belän eşläw öçen yärdämçe yazılım\n"
-"Belderü: biremne çüplekkä küçerü öçen ktrash qullanası tügel, bolay itäse: \"kfmclient move 'url' trash:/\""
 
 #: kio_trash.cpp:46
 msgid "Protocol name"
@@ -44,28 +40,41 @@ msgstr "Protokol adı"
 msgid "Socket name"
 msgstr "Soket adı"
 
-#: kio_trash.cpp:97 kio_trash.cpp:160 kio_trash.cpp:317 kio_trash.cpp:349
-#: kio_trash.cpp:505 kio_trash.cpp:517
+#: kio_trash.cpp:97 kio_trash.cpp:160 kio_trash.cpp:315 kio_trash.cpp:347
+#: kio_trash.cpp:503 kio_trash.cpp:515
 #, c-format
 msgid "Malformed URL %1"
 msgstr "Bozıqtözeşle URL %1"
 
 #: kio_trash.cpp:116
-msgid "The directory %1 does not exist anymore, so it is not possible to restore this item to its original location. You can either recreate that directory and use the restore operation again, or drag the item anywhere else to restore it."
-msgstr "%1 digän törgäk bütän barlıqta yuq, şuña kürä bu keremne üz urınlaşuında torğızıp bulmí. Şul törgäkne qabat yasağaç, ul keremen tağın torğızıp qararğa bula, yä ki başqa törgäkkä österep küçerergä."
+msgid ""
+"The directory %1 does not exist anymore, so it is not possible to restore this "
+"item to its original location. You can either recreate that directory and use "
+"the restore operation again, or drag the item anywhere else to restore it."
+msgstr ""
+"%1 digän törgäk bütän barlıqta yuq, şuña kürä bu keremne üz urınlaşuında "
+"torğızıp bulmí. Şul törgäkne qabat yasağaç, ul keremen tağın torğızıp qararğa "
+"bula, yä ki başqa törgäkkä österep küçerergä."
 
 #: kio_trash.cpp:145
 msgid "This file is already in the trash bin."
 msgstr "Bu birem çüplektä yata inde."
 
-#: kfile-plugin/kfile_trash.cpp:52
+#: kfile-plugin/kfile_trash.cpp:43
 msgid "General"
 msgstr "Töptän"
 
-#: kfile-plugin/kfile_trash.cpp:55
+#: kfile-plugin/kfile_trash.cpp:46
 msgid "Original Path"
 msgstr "Çığanaq Yul"
 
-#: kfile-plugin/kfile_trash.cpp:56
+#: kfile-plugin/kfile_trash.cpp:47
 msgid "Date of Deletion"
 msgstr "Beterü Zamanı"
+
+#~ msgid ""
+#~ "Helper program to handle the KDE trash can\n"
+#~ "Note: to move files to the trash, do not use ktrash, but \"kfmclient move 'url' trash:/\""
+#~ msgstr ""
+#~ "KDE çüplege belän eşläw öçen yärdämçe yazılım\n"
+#~ "Belderü: biremne çüplekkä küçerü öçen ktrash qullanası tügel, bolay itäse: \"kfmclient move 'url' trash:/\""

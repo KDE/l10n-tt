@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmkonqhtml\n"
-"POT-Creation-Date: 2005-07-06 01:31+0200\n"
+"POT-Creation-Date: 2005-02-23 01:22+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -29,8 +29,12 @@ msgid "Advanced Options"
 msgstr "Östämä Caylawlar"
 
 #: appearance.cpp:33
-msgid "<h1>Konqueror Fonts</h1>On this page, you can configure which fonts Konqueror should use to display the web pages you view."
-msgstr "<h1>Konqueror şriftları</h1>Bu bittä Konquerorweb säxifälären qaysı şrift belän kürsätäçägen bilgelärgä bula."
+msgid ""
+"<h1>Konqueror Fonts</h1>On this page, you can configure which fonts Konqueror "
+"should use to display the web pages you view."
+msgstr ""
+"<h1>Konqueror şriftları</h1>Bu bittä Konquerorweb säxifälären qaysı şrift belän "
+"kürsätäçägen bilgelärgä bula."
 
 #: appearance.cpp:43
 msgid "Font Si&ze"
@@ -45,8 +49,12 @@ msgid "M&inimum font size:"
 msgstr "M&inimal' şrift zurlığı:"
 
 #: appearance.cpp:53
-msgid "Konqueror will never display text smaller than this size,<br>overriding any other settings"
-msgstr "Başqa köylämälärgä qaramíça<br>, Konqueror berqayçan da bu zurlıqtan keçeräk tekstnı kürsätmäs"
+msgid ""
+"Konqueror will never display text smaller than this size,"
+"<br>overriding any other settings"
+msgstr ""
+"Başqa köylämälärgä qaramíça"
+"<br>, Konqueror berqayçan da bu zurlıqtan keçeräk tekstnı kürsätmäs"
 
 #: appearance.cpp:57
 msgid "&Medium font size:"
@@ -65,8 +73,10 @@ msgid "&Fixed font:"
 msgstr "Üzgärmäs şri&ft:"
 
 #: appearance.cpp:96
-msgid "This is the font used to display fixed-width (i.e. non-proportional) text."
-msgstr "Bu kiñlege üzgärmägän (mäs. nisbätle bulmağan) şrift kürsätü öçen qullanıla."
+msgid ""
+"This is the font used to display fixed-width (i.e. non-proportional) text."
+msgstr ""
+"Bu kiñlege üzgärmägän (mäs. nisbätle bulmağan) şrift kürsätü öçen qullanıla."
 
 #: appearance.cpp:109
 msgid "S&erif font:"
@@ -97,7 +107,8 @@ msgid "Fantas&y font:"
 msgstr "Fantas&y şriftı:"
 
 #: appearance.cpp:182
-msgid "This is the font used to display text that is marked up as a fantasy font."
+msgid ""
+"This is the font used to display text that is marked up as a fantasy font."
 msgstr "Bu fantasy itep tamğalanğan tekst kürsätü öçen qullanıla."
 
 #: appearance.cpp:196
@@ -113,8 +124,12 @@ msgid "Use Language Encoding"
 msgstr "Tel Kodlamasın faydalan"
 
 #: appearance.cpp:220
-msgid "Select the default encoding to be used; normally, you will be fine with 'Use language encoding' and should not have to change this."
-msgstr "Qullanılaçaq bar bulğan kodlamanı sayla; ğädättä 'Tel Kodlamasın faydalan' belän härnärsä äybät eşli häm monı üzgärtüdä íxtíac yuq."
+msgid ""
+"Select the default encoding to be used; normally, you will be fine with 'Use "
+"language encoding' and should not have to change this."
+msgstr ""
+"Qullanılaçaq bar bulğan kodlamanı sayla; ğädättä 'Tel Kodlamasın faydalan' "
+"belän härnärsä äybät eşli häm monı üzgärtüdä íxtíac yuq."
 
 #: domainlistview.cpp:47
 msgid "Host/Domain"
@@ -149,12 +164,20 @@ msgid "Click on this button to manually add a host or domain specific policy."
 msgstr "Xucağä yä domenğa xosusí säyäsät östär öçen bu töymägä bas."
 
 #: domainlistview.cpp:84
-msgid "Click on this button to change the policy for the host or domain selected in the list box."
-msgstr "Tartmadağı tezemnän saylanğan xuca yä ki domenğa qarata säyäsätne üzgärter öçen bu töymägä bas."
+msgid ""
+"Click on this button to change the policy for the host or domain selected in "
+"the list box."
+msgstr ""
+"Tartmadağı tezemnän saylanğan xuca yä ki domenğa qarata säyäsätne üzgärter öçen "
+"bu töymägä bas."
 
 #: domainlistview.cpp:86
-msgid "Click on this button to delete the policy for the host or domain selected in the list box."
-msgstr "Tartmadağı tezemnän saylanğan xuca yä ki domenğa qarata säyäsätne taşlar öçen bu töymägä bas."
+msgid ""
+"Click on this button to delete the policy for the host or domain selected in "
+"the list box."
+msgstr ""
+"Tartmadağı tezemnän saylanğan xuca yä ki domenğa qarata säyäsätne taşlar öçen "
+"bu töymägä bas."
 
 #: domainlistview.cpp:133
 msgid "You must first select a policy to be changed."
@@ -176,57 +199,18 @@ msgstr "Qabul"
 msgid "Reject"
 msgstr "Çığart"
 
-#: filteropts.cpp:52
-msgid "Enable filters"
-msgstr "Sözgeçlärne sälätländer"
-
-#: filteropts.cpp:55
-msgid "Hide filtered images"
-msgstr "Sözelgän räsemnärne yäşer"
-
-#: filteropts.cpp:58
-msgid "URL Expressions to Filter"
-msgstr "Sözeläçäk URL tezmäläre"
-
-#: filteropts.cpp:63
-msgid "Expression (e.g. http://www.site.com/ad/*):"
-msgstr "Tezmä (mäs. http://www.saxifa.com/reklam/*):"
-
-#: filteropts.cpp:72
-msgid "Update"
-msgstr "Yañart"
-
-#: filteropts.cpp:77
-msgid "Import.."
-msgstr "İmportla..."
-
-#: filteropts.cpp:79
-msgid "Export.."
-msgstr "Çığaru..."
-
-#: filteropts.cpp:89
-msgid "Enable or disable AdBlocK filters. When enabled a set of expressions to be blocked should be defined in the filter list for blocking to take effect."
-msgstr "AdBlocK sözgeçlärne sälätle/sälätsez it."
-
-#: filteropts.cpp:92
-msgid "When enabled blocked images will be removed from the page completely otherwise a placeholder 'blocked' image will be used."
-msgstr "Sälätländerelgändä, tuqtatqan räsemnär bittän tulısınça atılğan bulır, yuğisä, 'tuqıtatılğan' almaştıruçı räsem qullanılır."
-
-#: filteropts.cpp:94
-msgid "This is the list of URL filters that will be applied to all linked images and frames. The filters are processed in order so place more generic filters towards the top of the list."
-msgstr "Bu - barlıq sıltalğan räsem häm qısalar öçen qullanılaçaq URL sözgeçläre tezmäse. Sözgeçlär ber-ber artlı eşlilär, şuña kürä ğömümiräk sözgeçlärne tezemneñ östenä quyası."
-
-#: filteropts.cpp:97
-msgid "Enter an expression to filter. Expressions can be defined as either a filename style wildcard e.g. http://www.site.com/ads* or as a full regular expression by surrounding the string with '/' e.g.  //(ad|banner)\\./"
-msgstr "Sözgeçkä äytemne/tezmäne kert. Tezmälärdä alıştıruçı simvollar, mäs. http://www.saxifa.com/reklam* qullanıla ala, '/' belän ayırılğan tulı regular tezmä, mäs.:  //(ad|banner)\\ kertü dä mömkin./"
-
-#: filteropts.cpp:316
-msgid "<h1>Konqueror AdBlocK</h1> Konqueror AdBlocK allows you to create a list of filters that are checked against linked images and frames. URL's that match are either discarded or replaced with a placeholder image. "
-msgstr "<h1>Konqueror AdBlocK</h1> Konqueror AdBlocK sıltamalı räsem häm qısalarğa qarşı eşlägän sözgeçlär tezmäsen yasarğa mömkinlek birä. Sözgeçkä eläkkän URL'lar yä kürsätelmi, äy almaştıruçı räsem belän almaşına. "
-
 #: htmlopts.cpp:41
-msgid "<h1>Konqueror Browser</h1> Here you can configure Konqueror's browser functionality. Please note that the file manager functionality has to be configured using the \"File Manager\" configuration module. You can make some settings how Konqueror should handle the HTML code in the web pages it loads. It is usually not necessary to change anything here."
-msgstr "<h1>Konqueror Gizgeçe</h1> Konqueror'nıñ gizgeç bularaq eşläwen bonda köyläp bula. Bonı beläse: birem citäkçese bularaq eşläwe \"Birem Citäkçese\" digän caylaw modulı aşa köylänä. HTML eçtälegen eşkärtü buyınça köyläwlärne üzgärtep bulsa da, küp oçraqlarda anıñ kiräge çıqmí."
+msgid ""
+"<h1>Konqueror Browser</h1> Here you can configure Konqueror's browser "
+"functionality. Please note that the file manager functionality has to be "
+"configured using the \"File Manager\" configuration module. You can make some "
+"settings how Konqueror should handle the HTML code in the web pages it loads. "
+"It is usually not necessary to change anything here."
+msgstr ""
+"<h1>Konqueror Gizgeçe</h1> Konqueror'nıñ gizgeç bularaq eşläwen bonda köyläp "
+"bula. Bonı beläse: birem citäkçese bularaq eşläwe \"Birem Citäkçese\" digän "
+"caylaw modulı aşa köylänä. HTML eçtälegen eşkärtü buyınça köyläwlärne üzgärtep "
+"bulsa da, küp oçraqlarda anıñ kiräge çıqmí."
 
 #: htmlopts.cpp:49
 msgid "Boo&kmarks"
@@ -237,16 +221,24 @@ msgid "Ask for name and folder when adding bookmarks"
 msgstr "Bitbilge salğanda, isem häm törgäkne sora"
 
 #: htmlopts.cpp:51
-msgid "If this box is checked, Konqueror will allow you to change the title of the bookmark and choose a folder in which to store it when you add a new bookmark."
-msgstr "Bu saylansa, yaña bitbilge salğanda, Konqueror siña anıñ başlığın üzgärtergä häm ul saqlanaçaq törgäkne saylarğa röxsät itär."
+msgid ""
+"If this box is checked, Konqueror will allow you to change the title of the "
+"bookmark and choose a folder in which to store it when you add a new bookmark."
+msgstr ""
+"Bu saylansa, yaña bitbilge salğanda, Konqueror siña anıñ başlığın üzgärtergä "
+"häm ul saqlanaçaq törgäkne saylarğa röxsät itär."
 
 #: htmlopts.cpp:55
 msgid "Show only marked bookmarks in bookmark toolbar"
 msgstr "Bitbilgelär qolğasında tamğalanğan bitbilgelärne genä kürsät"
 
 #: htmlopts.cpp:56
-msgid "If this box is checked, Konqueror will show only those bookmarks in the bookmark toolbar which you have marked to do so in the bookmark editor."
-msgstr "Bu saylansa, Konqueror bitbilgelär qolğasında sin bitbilge tözätkeçendä kürsätkän bitbilgelärne genä kürsäter."
+msgid ""
+"If this box is checked, Konqueror will show only those bookmarks in the "
+"bookmark toolbar which you have marked to do so in the bookmark editor."
+msgstr ""
+"Bu saylansa, Konqueror bitbilgelär qolğasında sin bitbilge tözätkeçendä "
+"kürsätkän bitbilgelärne genä kürsäter."
 
 #: htmlopts.cpp:65
 msgid "Form Com&pletion"
@@ -257,16 +249,23 @@ msgid "Enable completion of &forms"
 msgstr "&Formalar tuldıruın sälätländer"
 
 #: htmlopts.cpp:67
-msgid "If this box is checked, Konqueror will remember the data you enter in web forms and suggest it in similar fields for all forms."
-msgstr "Bu saylansa, Konqueror, sin web formalarğa kertkän mäğlümätne xäterdä qaldırıp, başqa formalarnıñ oxşaş qırlarında täqdim itäçäk."
+msgid ""
+"If this box is checked, Konqueror will remember the data you enter in web forms "
+"and suggest it in similar fields for all forms."
+msgstr ""
+"Bu saylansa, Konqueror, sin web formalarğa kertkän mäğlümätne xäterdä qaldırıp, "
+"başqa formalarnıñ oxşaş qırlarında täqdim itäçäk."
 
 #: htmlopts.cpp:72
 msgid "&Maximum completions:"
 msgstr "&Maksimum tuldıru sanı:"
 
 #: htmlopts.cpp:75
-msgid "Here you can select how many values Konqueror will remember for a form field."
-msgstr "Monda Konqueror'nıñ ber forma qırı öçen iñ küp niçä zurlıqnı xäterdä qaldıraçağın saylarğa bula."
+msgid ""
+"Here you can select how many values Konqueror will remember for a form field."
+msgstr ""
+"Monda Konqueror'nıñ ber forma qırı öçen iñ küp niçä zurlıqnı xäterdä "
+"qaldıraçağın saylarğa bula."
 
 #: htmlopts.cpp:83
 msgid "Tabbed Browsing"
@@ -277,16 +276,24 @@ msgid "Open &links in new tab instead of in new window"
 msgstr "Sı&ltamalarnı yaña täräzädä tügel, yaña tabaqta aç"
 
 #: htmlopts.cpp:87
-msgid "This will open a new tab instead of a new window in various situations, such as choosing a link or a folder with the middle mouse button."
-msgstr "Qayber oçraqlarda, mäsälän sıltama yä ki törgäkkä küseneñ urta ayağı belän basqanda, bu yaña täräzä urnına yaña tabaq açar."
+msgid ""
+"This will open a new tab instead of a new window in various situations, such as "
+"choosing a link or a folder with the middle mouse button."
+msgstr ""
+"Qayber oçraqlarda, mäsälän sıltama yä ki törgäkkä küseneñ urta ayağı belän "
+"basqanda, bu yaña täräzä urnına yaña tabaq açar."
 
 #: htmlopts.cpp:92
 msgid "Hide the tab bar when only one tab is open"
 msgstr "Ber genä tabaq açıq bulğanda tabaqlar qolğasın yäşer"
 
 #: htmlopts.cpp:93
-msgid "This will display the tab bar only if there are two or more tabs. Otherwise it will always be displayed."
-msgstr "Tabaqlar qolğası ike yä ki kübräk tabaq bulğanda ğına kürener, yuğisä yäşerener."
+msgid ""
+"This will display the tab bar only if there are two or more tabs. Otherwise it "
+"will always be displayed."
+msgstr ""
+"Tabaqlar qolğası ike yä ki kübräk tabaq bulğanda ğına kürener, yuğisä "
+"yäşerener."
 
 #: htmlopts.cpp:108
 msgid "Mouse Beha&vior"
@@ -297,48 +304,84 @@ msgid "Chan&ge cursor over links"
 msgstr "Sıltamalar östendä kürsätkeçne &alıştır"
 
 #: htmlopts.cpp:111
-msgid "If this option is set, the shape of the cursor will change (usually to a hand) if it is moved over a hyperlink."
-msgstr "Bu saylansa, küse sıltama östenä taşılğanda kürsätkeç şäkele üzgärer (ğädättä barmaq belän kürsätüçe qul)."
+msgid ""
+"If this option is set, the shape of the cursor will change (usually to a hand) "
+"if it is moved over a hyperlink."
+msgstr ""
+"Bu saylansa, küse sıltama östenä taşılğanda kürsätkeç şäkele üzgärer (ğädättä "
+"barmaq belän kürsätüçe qul)."
 
 #: htmlopts.cpp:115
 msgid "M&iddle click opens URL in selection"
 msgstr "Küseneñ &urta ayağına basu saylanğan URLnı aça"
 
 #: htmlopts.cpp:117
-msgid "If this box is checked, you can open the URL in the selection by middle clicking on a Konqueror view."
-msgstr "Bu saylansa, saylanuda bulğan URLnı Konqueror küreneşendä küseneñ urta ayağına basıp açarğa mömkin bulır."
+msgid ""
+"If this box is checked, you can open the URL in the selection by middle "
+"clicking on a Konqueror view."
+msgstr ""
+"Bu saylansa, saylanuda bulğan URLnı Konqueror küreneşendä küseneñ urta ayağına "
+"basıp açarğa mömkin bulır."
 
 #: htmlopts.cpp:121
 msgid "Right click goes &back in history"
 msgstr "Uñ ayaqqa basıp uzğanğa qaytırğa &bula"
 
 #: htmlopts.cpp:123
-msgid "If this box is checked, you can go back in history by right clicking on a Konqueror view. To access the context menu, press the right mouse button and move."
-msgstr "Bu saylansa, Konqueror küreneşendä uñ ayaqqa basıp, uzğanğa kire qaytırğa bula. Kontekst saylağı öçen uñ ayaqqa basıp xäräkät it."
+msgid ""
+"If this box is checked, you can go back in history by right clicking on a "
+"Konqueror view. To access the context menu, press the right mouse button and "
+"move."
+msgstr ""
+"Bu saylansa, Konqueror küreneşendä uñ ayaqqa basıp, uzğanğa kire qaytırğa bula. "
+"Kontekst saylağı öçen uñ ayaqqa basıp xäräkät it."
 
 #: htmlopts.cpp:132
 msgid "A&utomatically load images"
 msgstr "Räsemnär üzennän üzläre &yöklänsen."
 
 #: htmlopts.cpp:133
-msgid "If this box is checked, Konqueror will automatically load any images that are embedded in a web page. Otherwise, it will display placeholders for the images, and you can then manually load the images by clicking on the image button.<br>Unless you have a very slow network connection, you will probably want to check this box to enhance your browsing experience."
-msgstr "Bu saylansa, Konqueror bittäge räsemnärne automatik räweştä yöklär. Yüğisä räsemnär urnına almaştırğıç räsemnär (urın totuçılar) kürsäteler. Sin räsemnär töymäsenä basıp räsemnärne yökli alasız.<br>Bik äkren çeltär totaşuıñ bulmasa ğına, bu tartmanı tamğalap päräwezdä gizüeñne räxäträk yasí alasıñ."
+msgid ""
+"If this box is checked, Konqueror will automatically load any images that are "
+"embedded in a web page. Otherwise, it will display placeholders for the images, "
+"and you can then manually load the images by clicking on the image button."
+"<br>Unless you have a very slow network connection, you will probably want to "
+"check this box to enhance your browsing experience."
+msgstr ""
+"Bu saylansa, Konqueror bittäge räsemnärne automatik räweştä yöklär. Yüğisä "
+"räsemnär urnına almaştırğıç räsemnär (urın totuçılar) kürsäteler. Sin räsemnär "
+"töymäsenä basıp räsemnärne yökli alasız."
+"<br>Bik äkren çeltär totaşuıñ bulmasa ğına, bu tartmanı tamğalap päräwezdä "
+"gizüeñne räxäträk yasí alasıñ."
 
 #: htmlopts.cpp:138
 msgid "Dra&w frame around not completely loaded images"
 msgstr "Tulısınça yöklänmägän räsemnär tiräli qısa &sız"
 
 #: htmlopts.cpp:139
-msgid "If this box is checked, Konqueror will draw a frame as placeholder around not yet fully loaded images that are embedded in a web page.<br>Especially if you have a slow network connection, you will probably want to check this box to enhance your browsing experience."
-msgstr "Bu saylansa, Konqueror bittä bulğan tulısınça yöklänmägän räsemnär tiräli urın totuçı bularaq qısanı sızar.<br>Ayıruça bik äkren çeltär totaşuıñ bulsa, bu tartmanı tamğalap päräwezdä gizüeñne räxäträk yasí alasıñ."
+msgid ""
+"If this box is checked, Konqueror will draw a frame as placeholder around not "
+"yet fully loaded images that are embedded in a web page."
+"<br>Especially if you have a slow network connection, you will probably want to "
+"check this box to enhance your browsing experience."
+msgstr ""
+"Bu saylansa, Konqueror bittä bulğan tulısınça yöklänmägän räsemnär tiräli urın "
+"totuçı bularaq qısanı sızar."
+"<br>Ayıruça bik äkren çeltär totaşuıñ bulsa, bu tartmanı tamğalap päräwezdä "
+"gizüeñne räxäträk yasí alasıñ."
 
 #: htmlopts.cpp:144
 msgid "Allow automatic delayed &reloading/redirecting"
 msgstr "Automatik kiçekte&relgän yañadan yökläw häm yünältüne röxsät it."
 
 #: htmlopts.cpp:146
-msgid "Some web pages request an automatic reload or redirection after a certain period of time. By unchecking this box Konqueror will ignore these requests."
-msgstr "Qayber bitlär bilgele ber aradan soñ üzennän üzläreneñ yañadan yöklänmäsen täläp itälär. Bu tartma tamğalanmasa, Konqueror bu tör täläplärgä ähämiät birmäs."
+msgid ""
+"Some web pages request an automatic reload or redirection after a certain "
+"period of time. By unchecking this box Konqueror will ignore these requests."
+msgstr ""
+"Qayber bitlär bilgele ber aradan soñ üzennän üzläreneñ yañadan yöklänmäsen "
+"täläp itälär. Bu tartma tamğalanmasa, Konqueror bu tör täläplärgä ähämiät "
+"birmäs."
 
 #: htmlopts.cpp:158
 msgid "Und&erline links:"
@@ -361,8 +404,24 @@ msgid "Only on Hover"
 msgstr "Östenä kilgändä genä"
 
 #: htmlopts.cpp:167
-msgid "Controls how Konqueror handles underlining hyperlinks:<br><ul><li><b>Enabled</b>: Always underline links</li><li><b>Disabled</b>: Never underline links</li><li><b>Only on Hover</b>: Underline when the mouse is moved over the link</li></ul><br><i>Note: The site's CSS definitions can override this value</i>"
-msgstr "Konqueror'nıñ assızılğan sıltamalar belän niçek qılanaçağın bilgeli: <br><ul><li><b>Açıq</b>:Härwaqıt sıltamalarnı assız</li><li><b>Sünek</b>:Berqayçanda sıltamalarnı assızma</li><li><b>Östen qaplağanda ğına</b>:Küse sıltamanıñ östenä kilgändä genä astın sız.</li></ul><br><i>İskärmä: Säxifäneñ CSS üzençälekläre moña qaramí ala</i>"
+msgid ""
+"Controls how Konqueror handles underlining hyperlinks:"
+"<br>"
+"<ul>"
+"<li><b>Enabled</b>: Always underline links</li>"
+"<li><b>Disabled</b>: Never underline links</li>"
+"<li><b>Only on Hover</b>: Underline when the mouse is moved over the link</li>"
+"</ul>"
+"<br><i>Note: The site's CSS definitions can override this value</i>"
+msgstr ""
+"Konqueror'nıñ assızılğan sıltamalar belän niçek qılanaçağın bilgeli: "
+"<br>"
+"<ul>"
+"<li><b>Açıq</b>:Härwaqıt sıltamalarnı assız</li>"
+"<li><b>Sünek</b>:Berqayçanda sıltamalarnı assızma</li>"
+"<li><b>Östen qaplağanda ğına</b>:Küse sıltamanıñ östenä kilgändä genä astın "
+"sız.</li></ul>"
+"<br><i>İskärmä: Säxifäneñ CSS üzençälekläre moña qaramí ala</i>"
 
 #: htmlopts.cpp:178
 msgid "A&nimations:"
@@ -385,8 +444,23 @@ msgid "Show Only Once"
 msgstr "Ber Tapqır Ğına Kürsät"
 
 #: htmlopts.cpp:187
-msgid "Controls how Konqueror shows animated images:<br><ul><li><b>Enabled</b>: Show all animations completely.</li><li><b>Disabled</b>: Never show animations, show the start image only.</li><li><b>Show only once</b>: Show all animations completely but do not repeat them.</li>"
-msgstr "Konqueror'nıñ canlandırmalı räsemnärne niçek kürsätäçägen bilgeli:<br><ul><li><b>Açıq</b>: Böten canlandırmalarnı tulısınça kürsät.</li><li><b>Sünek</b>: Canlandırmalarnı berqayçan da kürsätmä, başlanğıç räsemne genä kürsät.</li><li><b>Ber märtäbä genä kürsät</b>: Böten canlandırmalarnı tulısınça kürsät, läkin qabatlama.</li>"
+msgid ""
+"Controls how Konqueror shows animated images:"
+"<br>"
+"<ul>"
+"<li><b>Enabled</b>: Show all animations completely.</li>"
+"<li><b>Disabled</b>: Never show animations, show the start image only.</li>"
+"<li><b>Show only once</b>: Show all animations completely but do not repeat "
+"them.</li>"
+msgstr ""
+"Konqueror'nıñ canlandırmalı räsemnärne niçek kürsätäçägen bilgeli:"
+"<br>"
+"<ul>"
+"<li><b>Açıq</b>: Böten canlandırmalarnı tulısınça kürsät.</li>"
+"<li><b>Sünek</b>: Canlandırmalarnı berqayçan da kürsätmä, başlanğıç räsemne "
+"genä kürsät.</li>"
+"<li><b>Ber märtäbä genä kürsät</b>: Böten canlandırmalarnı tulısınça kürsät, "
+"läkin qabatlama.</li>"
 
 #: javaopts.cpp:62 jsopts.cpp:48 pluginopts.cpp:58
 msgid "Global Settings"
@@ -400,91 +474,170 @@ msgstr "Java'nı qullan"
 msgid "Java Runtime Settings"
 msgstr "Java Eşlätü Köylämäläre"
 
-#: javaopts.cpp:85
+#: javaopts.cpp:84
+msgid "Sho&w Java console"
+msgstr ""
+
+#: javaopts.cpp:88
 msgid "&Use security manager"
 msgstr "Saqlıq citäkçesen q&ullan"
 
-#: javaopts.cpp:89
+#: javaopts.cpp:92
 msgid "Use &KIO"
 msgstr "&KIO Qullanu"
 
-#: javaopts.cpp:93
+#: javaopts.cpp:96
 msgid "Shu&tdown applet server when inactive"
 msgstr "Aktif bulmağanda apple&t serverın sünder"
 
-#: javaopts.cpp:101
+#: javaopts.cpp:104
 msgid "App&let server timeout:"
 msgstr "Applet serverı kiçekmä aralığı:"
 
-#: javaopts.cpp:102
+#: javaopts.cpp:105
 msgid " sec"
 msgstr " sek"
 
-#: javaopts.cpp:107
+#: javaopts.cpp:110
 msgid "&Path to Java executable, or 'java':"
 msgstr "Java başqarğanğa ('java'ğa) &yul:"
 
-#: javaopts.cpp:115
+#: javaopts.cpp:118
 msgid "Additional Java a&rguments:"
 msgstr "Östämä Java üzgärmä zurlıqları:"
 
-#: javaopts.cpp:123
-msgid "Enables the execution of scripts written in Java that can be contained in HTML pages. Note that, as with any browser, enabling active contents can be a security problem."
-msgstr "HTML bitlärendä oçrí torğan Java'da yazılğan scriptlar başqarılmasın tä'min itä."
-
 #: javaopts.cpp:126
-msgid "This box contains the domains and hosts you have set a specific Java policy for. This policy will be used instead of the default policy for enabling or disabling Java applets on pages sent by these domains or hosts. <p>Select a policy and use the controls on the right to modify it."
-msgstr "Bu tartmada xosusí Java säyäsätenä duçar itkän domen häm xucalar tora. Bu säyäsät, östäge domen häm xucalardan kilgän appletlarnı sälätle/sälätsez itü öçen bar bulğan säyäsät urnına qullanılır. <p> Ber säyäsätne sayla da uñdağı idärälär qullanıp üzgärtülär yasa."
+msgid ""
+"Enables the execution of scripts written in Java that can be contained in HTML "
+"pages. Note that, as with any browser, enabling active contents can be a "
+"security problem."
+msgstr ""
+"HTML bitlärendä oçrí torğan Java'da yazılğan scriptlar başqarılmasın tä'min "
+"itä."
 
-#: javaopts.cpp:133
-msgid "Click this button to choose the file that contains the Java policies. These policies will be merged with the existing ones. Duplicate entries are ignored."
-msgstr "Java säyäsätläre bulğan biremne saylar öçen bu töymägä bas. Bu säyäsätlär bar bulğan säyäsätlär belän berläştereler. Qabatlanğan kertemnär qaralmíça üteler."
+#: javaopts.cpp:129
+msgid ""
+"This box contains the domains and hosts you have set a specific Java policy "
+"for. This policy will be used instead of the default policy for enabling or "
+"disabling Java applets on pages sent by these domains or hosts. "
+"<p>Select a policy and use the controls on the right to modify it."
+msgstr ""
+"Bu tartmada xosusí Java säyäsätenä duçar itkän domen häm xucalar tora. Bu "
+"säyäsät, östäge domen häm xucalardan kilgän appletlarnı sälätle/sälätsez itü "
+"öçen bar bulğan säyäsät urnına qullanılır. "
+"<p> Ber säyäsätne sayla da uñdağı idärälär qullanıp üzgärtülär yasa."
 
 #: javaopts.cpp:136
-msgid "Click this button to save the Java policy to a zipped file. The file, named <b>java_policy.tgz</b>, will be saved to a location of your choice."
-msgstr "Java säyäsäten ziplanğan birem eçenä saqlar öçen bu töymägä bas. <b>java_policy.tgz</b> isemle birem sin saylağan törgäktä saqlanaçaq."
+msgid ""
+"Click this button to choose the file that contains the Java policies. These "
+"policies will be merged with the existing ones. Duplicate entries are ignored."
+msgstr ""
+"Java säyäsätläre bulğan biremne saylar öçen bu töymägä bas. Bu säyäsätlär bar "
+"bulğan säyäsätlär belän berläştereler. Qabatlanğan kertemnär qaralmíça üteler."
 
-#: javaopts.cpp:140
-msgid "Here you can set specific Java policies for any particular host or domain. To add a new policy, simply click the <i>New...</i> button and supply the necessary information requested by the dialog box. To change an existing policy, click on the <i>Change...</i> button and choose the new policy from the policy dialog box. Clicking on the <i>Delete</i> button will remove the selected policy, causing the default policy setting to be used for that domain."
-msgstr "Monda bilgele xucalar häm domennar öçen xosusí Java säyäsätlären köylärgä bula. Yaña säyäsät östär öçen, <i>Yaña...</i> töymäsenä basıp, kiräkle mäğlümätne dialog tartmasına kert. Bulğan säyäsätne üzgärter öçen, <i>Üzgärt...</i> töymäsenä basıp dialog tartmasınnan yaña säyäsät sayla. <i>Taşla</i> töymäsenä basu saylanğan säyäsätneñ taşlanaçağına häm tege domen öçen bar bulğan säyäsät qullanuına kiterer."
+#: javaopts.cpp:139
+msgid ""
+"Click this button to save the Java policy to a zipped file. The file, named <b>"
+"java_policy.tgz</b>, will be saved to a location of your choice."
+msgstr ""
+"Java säyäsäten ziplanğan birem eçenä saqlar öçen bu töymägä bas. <b>"
+"java_policy.tgz</b> isemle birem sin saylağan törgäktä saqlanaçaq."
 
-#: javaopts.cpp:153
-msgid "Enabling the security manager will cause the jvm to run with a Security Manager in place. This will keep applets from being able to read and write to your file system, creating arbitrary sockets, and other actions which could be used to compromise your system. Disable this option at your own risk. You can modify your $HOME/.java.policy file with the Java policytool utility to give code downloaded from certain sites more permissions."
-msgstr "Saqlıq Citäkçesen sälätländerü jvmnı Saqlıq Citäkçese belän bergä eşläter. Ul aplletlarnı fayllarıñnı uqu häm fayllarğa yazudan häm sistemıñnı boza alğan başqa ğämällärdän totqarlar. Bu saylanmanı ber tapqır sälätsez qaldırır aldınnan başta cide tapqır uyla. Ayırım räweştä $HOME/.java.policy faylın Java policytool qoralın qullanıp üzgärtä häm qayber säxifälärgä küräk röxsät bireläçäkne tä'min itä alasıñ."
+#: javaopts.cpp:143
+msgid ""
+"Here you can set specific Java policies for any particular host or domain. To "
+"add a new policy, simply click the <i>New...</i> button and supply the "
+"necessary information requested by the dialog box. To change an existing "
+"policy, click on the <i>Change...</i> button and choose the new policy from the "
+"policy dialog box. Clicking on the <i>Delete</i> button will remove the "
+"selected policy, causing the default policy setting to be used for that domain."
+msgstr ""
+"Monda bilgele xucalar häm domennar öçen xosusí Java säyäsätlären köylärgä bula. "
+"Yaña säyäsät östär öçen, <i>Yaña...</i> töymäsenä basıp, kiräkle mäğlümätne "
+"dialog tartmasına kert. Bulğan säyäsätne üzgärter öçen, <i>Üzgärt...</i> "
+"töymäsenä basıp dialog tartmasınnan yaña säyäsät sayla. <i>Taşla</i> "
+"töymäsenä basu saylanğan säyäsätneñ taşlanaçağına häm tege domen öçen bar "
+"bulğan säyäsät qullanuına kiterer."
 
-#: javaopts.cpp:161
-msgid "Enabling this will cause the jvm to use KIO for network transport "
-msgstr "Monı sälätländerü jvmnıñ çeltär taşımasında KIO'nıñ qullanaçağına kiterer. "
+#: javaopts.cpp:156
+msgid ""
+"If this box is checked, Konqueror will open a console window that Java programs "
+"can use for character-based input/output. Well-written Java applets do not need "
+"this, but the console can help to find problems with Java applets."
+msgstr ""
 
-#: javaopts.cpp:163
-msgid "Enter the path to the java executable. If you want to use the jre in your path, simply leave it as 'java'. If you need to use a different jre, enter the path to the java executable (e.g. /usr/lib/jdk/bin/java), or the path to the directory that contains 'bin/java' (e.g. /opt/IBMJava2-13)."
-msgstr "Java başqaruçısınıñ yulın kert. Yulda klassik JRE qullanırğa teläsäñ, monda 'java' ğına yaz. Başqa JRE qullanırğa teläsäñ, java başqaruçısına turı yulnı  (mäs: /usr/lib/jdk/bin/java), yä ki bin/java yatqan törgäkneñ tulı yulın kert (mäs: /opt/IBMJava2-13)."
+#: javaopts.cpp:160
+msgid ""
+"Enabling the security manager will cause the jvm to run with a Security Manager "
+"in place. This will keep applets from being able to read and write to your file "
+"system, creating arbitrary sockets, and other actions which could be used to "
+"compromise your system. Disable this option at your own risk. You can modify "
+"your $HOME/.java.policy file with the Java policytool utility to give code "
+"downloaded from certain sites more permissions."
+msgstr ""
+"Saqlıq Citäkçesen sälätländerü jvmnı Saqlıq Citäkçese belän bergä eşläter. Ul "
+"aplletlarnı fayllarıñnı uqu häm fayllarğa yazudan häm sistemıñnı boza alğan "
+"başqa ğämällärdän totqarlar. Bu saylanmanı ber tapqır sälätsez qaldırır "
+"aldınnan başta cide tapqır uyla. Ayırım räweştä $HOME/.java.policy faylın Java "
+"policytool qoralın qullanıp üzgärtä häm qayber säxifälärgä küräk röxsät "
+"bireläçäkne tä'min itä alasıñ."
 
 #: javaopts.cpp:168
-msgid "If you want special arguments to be passed to the virtual machine, enter them here."
-msgstr "Xíalí sanaqqa cibärergä telägän xosusí köylämä zurlıqlarıñ bulsa, alarnı monda kert."
+msgid "Enabling this will cause the jvm to use KIO for network transport "
+msgstr ""
+"Monı sälätländerü jvmnıñ çeltär taşımasında KIO'nıñ qullanaçağına kiterer. "
 
 #: javaopts.cpp:170
-msgid "When all the applets have been destroyed, the applet server should shut down. However, starting the jvm takes a lot of time. If you would like to keep the java process running while you are browsing, you can set the timeout value to whatever you like. To keep the java process running for the whole time that the konqueror process is, leave the Shutdown Applet Server checkbox unchecked."
-msgstr "Barlıq appletlar yuq bulğanda applet serverı sünärgä tieş. Tik jvm'nı başlatu küp waqıt ala. Ägär, internetta gizgändä, java prosesslarınıñ däwamlı eşlägänen teläsäñ, kiçegü arasın telägänçä üzgärtä alasıñ. Konqueror prosessınıñ böten waqıtı buyına java prosessın däwam eşlätergä teläsäñ, Applet Serverın Sünder tartmasın tamğalamíça qaldır."
+msgid ""
+"Enter the path to the java executable. If you want to use the jre in your path, "
+"simply leave it as 'java'. If you need to use a different jre, enter the path "
+"to the java executable (e.g. /usr/lib/jdk/bin/java), or the path to the "
+"directory that contains 'bin/java' (e.g. /opt/IBMJava2-13)."
+msgstr ""
+"Java başqaruçısınıñ yulın kert. Yulda klassik JRE qullanırğa teläsäñ, monda "
+"'java' ğına yaz. Başqa JRE qullanırğa teläsäñ, java başqaruçısına turı yulnı  "
+"(mäs: /usr/lib/jdk/bin/java), yä ki bin/java yatqan törgäkneñ tulı yulın kert "
+"(mäs: /opt/IBMJava2-13)."
 
-#: javaopts.cpp:285 pluginopts.cpp:642
+#: javaopts.cpp:175
+msgid ""
+"If you want special arguments to be passed to the virtual machine, enter them "
+"here."
+msgstr ""
+"Xíalí sanaqqa cibärergä telägän xosusí köylämä zurlıqlarıñ bulsa, alarnı monda "
+"kert."
+
+#: javaopts.cpp:177
+msgid ""
+"When all the applets have been destroyed, the applet server should shut down. "
+"However, starting the jvm takes a lot of time. If you would like to keep the "
+"java process running while you are browsing, you can set the timeout value to "
+"whatever you like. To keep the java process running for the whole time that the "
+"konqueror process is, leave the Shutdown Applet Server checkbox unchecked."
+msgstr ""
+"Barlıq appletlar yuq bulğanda applet serverı sünärgä tieş. Tik jvm'nı başlatu "
+"küp waqıt ala. Ägär, internetta gizgändä, java prosesslarınıñ däwamlı eşlägänen "
+"teläsäñ, kiçegü arasın telägänçä üzgärtä alasıñ. Konqueror prosessınıñ böten "
+"waqıtı buyına java prosessın däwam eşlätergä teläsäñ, Applet Serverın Sünder "
+"tartmasın tamğalamíça qaldır."
+
+#: javaopts.cpp:297 pluginopts.cpp:636
 msgid "Doma&in-Specific"
 msgstr "Dömen öçen &Xosusí"
 
-#: javaopts.cpp:318
+#: javaopts.cpp:330
 msgid "New Java Policy"
 msgstr "Yaña Java säyäsäte"
 
-#: javaopts.cpp:321
+#: javaopts.cpp:333
 msgid "Change Java Policy"
 msgstr "Java Säyäsäten üzgärt"
 
-#: javaopts.cpp:325
+#: javaopts.cpp:337
 msgid "&Java policy:"
 msgstr "&Java säyäsäte:"
 
-#: javaopts.cpp:326
+#: javaopts.cpp:338
 msgid "Select a Java policy for the above host or domain."
 msgstr "Östäge xuca yä ki domen öçen java säyäsäten sayla."
 
@@ -493,15 +646,22 @@ msgid "Ena&ble JavaScript globally"
 msgstr "Öämümi räweştä JavaSkriptlarnı sälätländer"
 
 #: jsopts.cpp:52
-msgid "Enables the execution of scripts written in ECMA-Script (also known as JavaScript) that can be contained in HTML pages. Note that, as with any browser, enabling scripting languages can be a security problem."
-msgstr "HTML bitlärdä oçrağan ECMA-skriptlar (Java skriptlar)nıñ başqarılmasın sälätländerä. İskärmä: här gizgeçtä skriptle tellärne sälätle itü saqlıq bälälären kiterä ala."
+msgid ""
+"Enables the execution of scripts written in ECMA-Script (also known as "
+"JavaScript) that can be contained in HTML pages. Note that, as with any "
+"browser, enabling scripting languages can be a security problem."
+msgstr ""
+"HTML bitlärdä oçrağan ECMA-skriptlar (Java skriptlar)nıñ başqarılmasın "
+"sälätländerä. İskärmä: här gizgeçtä skriptle tellärne sälätle itü saqlıq "
+"bälälären kiterä ala."
 
 #: jsopts.cpp:58
 msgid "Report &errors"
 msgstr "&Xatalar turında xäbär it."
 
 #: jsopts.cpp:59
-msgid "Enables the reporting of errors that occur when JavaScript code is executed."
+msgid ""
+"Enables the reporting of errors that occur when JavaScript code is executed."
 msgstr "JavaScript kodı başqarılğanda urın alğan xatalar turında xäbär birä."
 
 #: jsopts.cpp:63
@@ -513,20 +673,54 @@ msgid "Enables builtin JavaScript debugger."
 msgstr "Eçke JavaScript xata tözätkeçen sälätländerä."
 
 #: jsopts.cpp:72
-msgid "Here you can set specific JavaScript policies for any particular host or domain. To add a new policy, simply click the <i>New...</i> button and supply the necessary information requested by the dialog box. To change an existing policy, click on the <i>Change...</i> button and choose the new policy from the policy dialog box. Clicking on the <i>Delete</i> button will remove the selected policy causing the default policy setting to be used for that domain. The <i>Import</i> and <i>Export</i> button allows you to easily share your policies with other people by allowing you to save and retrieve them from a zipped file."
-msgstr "Monda här ayırım xuca yä ki domen öçen xosusí JavaScript säyäsätlären bilgelärgä bula. Yaña säyäsät östär öçen, <i>Yaña...</i> töymäsenä basıp, kiräkle mäğlümätne dialog tartmasına kert. Bulğan säyäsätne üzgärter öçen <i>Üzgärt...</i> töymäsenä basıp säyäsätlär dialog tartmasınnan yaña säyäsät sayla. <i>Taşla...</i> töymäsenä basu saylanğan säyäsätneñ taşlanaçağına häm tege domen öçen bar bulğan säyäsät qullanıluına kiterer. <i>Al</i> häm <i>Bir</i> töymäläre säyäsätlärne zip fayllarında saqlap başqa keşelär belän büleşergä mömkinlek birä."
+msgid ""
+"Here you can set specific JavaScript policies for any particular host or "
+"domain. To add a new policy, simply click the <i>New...</i> "
+"button and supply the necessary information requested by the dialog box. To "
+"change an existing policy, click on the <i>Change...</i> "
+"button and choose the new policy from the policy dialog box. Clicking on the <i>"
+"Delete</i> button will remove the selected policy causing the default policy "
+"setting to be used for that domain. The <i>Import</i> and <i>Export</i> "
+"button allows you to easily share your policies with other people by allowing "
+"you to save and retrieve them from a zipped file."
+msgstr ""
+"Monda här ayırım xuca yä ki domen öçen xosusí JavaScript säyäsätlären "
+"bilgelärgä bula. Yaña säyäsät östär öçen, <i>Yaña...</i> "
+"töymäsenä basıp, kiräkle mäğlümätne dialog tartmasına kert. Bulğan säyäsätne "
+"üzgärter öçen <i>Üzgärt...</i> töymäsenä basıp säyäsätlär dialog tartmasınnan "
+"yaña säyäsät sayla. <i>Taşla...</i> töymäsenä basu saylanğan säyäsätneñ "
+"taşlanaçağına häm tege domen öçen bar bulğan säyäsät qullanıluına kiterer. <i>"
+"Al</i> häm <i>Bir</i> töymäläre säyäsätlärne zip fayllarında saqlap başqa "
+"keşelär belän büleşergä mömkinlek birä."
 
 #: jsopts.cpp:82
-msgid "This box contains the domains and hosts you have set a specific JavaScript policy for. This policy will be used instead of the default policy for enabling or disabling JavaScript on pages sent by these domains or hosts. <p>Select a policy and use the controls on the right to modify it."
-msgstr "Bu tartmada xosusí Java säyäsätenä duçar itkän domen häm xucalar tora. Bu säyäsät, östäge domen häm xucalardan kilgän appletlarnı sälätle/sälätsez itü öçen bar bulğan säyäsät urnına qullanılır. <p> Ber säyäsätne sayla da uñdağı idärälär qullanıp üzgärtülär yasa."
+msgid ""
+"This box contains the domains and hosts you have set a specific JavaScript "
+"policy for. This policy will be used instead of the default policy for enabling "
+"or disabling JavaScript on pages sent by these domains or hosts. "
+"<p>Select a policy and use the controls on the right to modify it."
+msgstr ""
+"Bu tartmada xosusí Java säyäsätenä duçar itkän domen häm xucalar tora. Bu "
+"säyäsät, östäge domen häm xucalardan kilgän appletlarnı sälätle/sälätsez itü "
+"öçen bar bulğan säyäsät urnına qullanılır. "
+"<p> Ber säyäsätne sayla da uñdağı idärälär qullanıp üzgärtülär yasa."
 
 #: jsopts.cpp:89
-msgid "Click this button to choose the file that contains the JavaScript policies. These policies will be merged with the existing ones. Duplicate entries are ignored."
-msgstr "Java säyäsätläre bulğan biremne saylar öçen bu töymägä bas. Bu säyäsätlär bar bulğan säyäsätlär belän berläştereler. Qabatlanğan kertemnär qaralmíça üteler."
+msgid ""
+"Click this button to choose the file that contains the JavaScript policies. "
+"These policies will be merged with the existing ones. Duplicate entries are "
+"ignored."
+msgstr ""
+"Java säyäsätläre bulğan biremne saylar öçen bu töymägä bas. Bu säyäsätlär bar "
+"bulğan säyäsätlär belän berläştereler. Qabatlanğan kertemnär qaralmíça üteler."
 
 #: jsopts.cpp:92
-msgid "Click this button to save the JavaScript policy to a zipped file. The file, named <b>javascript_policy.tgz</b>, will be saved to a location of your choice."
-msgstr "Java säyäsäten ziplanğan birem eçenä saqlar öçen bu töymägä bas. <b>java_policy.tgz</b> isemle birem sin saylağan törgäktä saqlanaçaq"
+msgid ""
+"Click this button to save the JavaScript policy to a zipped file. The file, "
+"named <b>javascript_policy.tgz</b>, will be saved to a location of your choice."
+msgstr ""
+"Java säyäsäten ziplanğan birem eçenä saqlar öçen bu töymägä bas. <b>"
+"java_policy.tgz</b> isemle birem sin saylağan törgäktä saqlanaçaq"
 
 #: jsopts.cpp:98
 msgid "Global JavaScript Policies"
@@ -600,12 +794,29 @@ msgid "Smart"
 msgstr "Aqıllı"
 
 #: jspolicies.cpp:183
-msgid "Accept popup window requests only when links are activated through an explicit mouse click or keyboard operation."
-msgstr "Küse yä ki töylekkä basudan açılğan qalquçı täräzälärneñ açıluın ğına röxsät it."
+msgid ""
+"Accept popup window requests only when links are activated through an explicit "
+"mouse click or keyboard operation."
+msgstr ""
+"Küse yä ki töylekkä basudan açılğan qalquçı täräzälärneñ açıluın ğına röxsät "
+"it."
 
 #: jspolicies.cpp:190
-msgid "If you disable this, Konqueror will stop interpreting the <i>window.open()</i> JavaScript command. This is useful if you regularly visit sites that make extensive use of this command to pop up ad banners.<br><br><b>Note:</b> Disabling this option might also break certain sites that require <i>window.open()</i> for proper operation. Use this feature carefully."
-msgstr "Monı sälätsez itsäñ, Konqueror <i>window.open()</i> JavaScript ämeren ütäwdän tuqtayaçaq. Bu qayber säxifälärgä kergän waqıtta qarşığa qalıqqan reklam täräzälären kürsätmäwdä faydalı bula ala. <br><br><b> İskärmä:</b> Bu saylanmanı sälätsez qaldıru qaywaqıt normal maqsat belän  <i>window.open()</i> ämeren qullanğan säxifälär kürsätelüen boza ala. Şuña kürä bu mömkinlekne uylap qına qullanası."
+msgid ""
+"If you disable this, Konqueror will stop interpreting the <i>window.open()</i> "
+"JavaScript command. This is useful if you regularly visit sites that make "
+"extensive use of this command to pop up ad banners."
+"<br>"
+"<br><b>Note:</b> Disabling this option might also break certain sites that "
+"require <i>window.open()</i> for proper operation. Use this feature carefully."
+msgstr ""
+"Monı sälätsez itsäñ, Konqueror <i>window.open()</i> JavaScript ämeren ütäwdän "
+"tuqtayaçaq. Bu qayber säxifälärgä kergän waqıtta qarşığa qalıqqan reklam "
+"täräzälären kürsätmäwdä faydalı bula ala. "
+"<br>"
+"<br><b> İskärmä:</b> Bu saylanmanı sälätsez qaldıru qaywaqıt normal maqsat "
+"belän  <i>window.open()</i> ämeren qullanğan säxifälär kürsätelüen boza ala. "
+"Şuña kürä bu mömkinlekne uylap qına qullanası."
 
 #: jspolicies.cpp:204
 msgid "Resize window:"
@@ -620,12 +831,23 @@ msgid "Ignore"
 msgstr "Uzası"
 
 #: jspolicies.cpp:226
-msgid "Ignore attempts of scripts to change the window size. The web page will <i>think</i> it changed the size but the actual window is not affected."
-msgstr "Skriptlarnıñ täräzä zurlığın üzgärtü totınuların ähämiätsez qaldır. Säxifä täräzäneñ zurlığın <i>üzgärtkän</i> dip uylayaçaq, läkin täräzäneñ çın zurlığı üzgärmäs."
+msgid ""
+"Ignore attempts of scripts to change the window size. The web page will <i>"
+"think</i> it changed the size but the actual window is not affected."
+msgstr ""
+"Skriptlarnıñ täräzä zurlığın üzgärtü totınuların ähämiätsez qaldır. Säxifä "
+"täräzäneñ zurlığın <i>üzgärtkän</i> dip uylayaçaq, läkin täräzäneñ çın zurlığı "
+"üzgärmäs."
 
 #: jspolicies.cpp:233
-msgid "Some websites change the window size on their own by using <i>window.resizeBy()</i> or <i>window.resizeTo()</i>. This option specifies the treatment of such attempts."
-msgstr "Qayber säxifälär <i>window.resizeBy()</i> yä ki <i>window.resizeTo()</i> qullanıp üzläre genä täräzä zurlığın üzgärtälär. Bu mömkinlek andí totınularğa qarata qılanışnı bilgeli."
+msgid ""
+"Some websites change the window size on their own by using <i>"
+"window.resizeBy()</i> or <i>window.resizeTo()</i>. This option specifies the "
+"treatment of such attempts."
+msgstr ""
+"Qayber säxifälär <i>window.resizeBy()</i> yä ki <i>window.resizeTo()</i> "
+"qullanıp üzläre genä täräzä zurlığın üzgärtälär. Bu mömkinlek andí totınularğa "
+"qarata qılanışnı bilgeli."
 
 #: jspolicies.cpp:242
 msgid "Move window:"
@@ -636,12 +858,22 @@ msgid "Allow scripts to change the window position."
 msgstr "Täräzä urının üzgärtkän skriptlarnı röxsät it."
 
 #: jspolicies.cpp:264
-msgid "Ignore attempts of scripts to change the window position. The web page will <i>think</i> it moved the window but the actual position is not affected."
-msgstr "Skriptlarnıñ täräzä urının üzgärtergä totınuların ähämiätsez qaldır. Säxifä täräzäne taşığan dip <i>uylar</i>, läkin çın urını üzgärmäs."
+msgid ""
+"Ignore attempts of scripts to change the window position. The web page will <i>"
+"think</i> it moved the window but the actual position is not affected."
+msgstr ""
+"Skriptlarnıñ täräzä urının üzgärtergä totınuların ähämiätsez qaldır. Säxifä "
+"täräzäne taşığan dip <i>uylar</i>, läkin çın urını üzgärmäs."
 
 #: jspolicies.cpp:271
-msgid "Some websites change the window position on their own by using <i>window.moveBy()</i> or <i>window.moveTo()</i>. This option specifies the treatment of such attempts."
-msgstr "Qayber säxifälär <i>window.moveBy()</i> yä ki <i>window.moveTo()</i> qullanıp üzläre genä täräzäne urınınnan taşílar. Bu mömkinlek andí totınularğa qarata qılanışnı bilgeli."
+msgid ""
+"Some websites change the window position on their own by using <i>"
+"window.moveBy()</i> or <i>window.moveTo()</i>. This option specifies the "
+"treatment of such attempts."
+msgstr ""
+"Qayber säxifälär <i>window.moveBy()</i> yä ki <i>window.moveTo()</i> "
+"qullanıp üzläre genä täräzäne urınınnan taşílar. Bu mömkinlek andí totınularğa "
+"qarata qılanışnı bilgeli."
 
 #: jspolicies.cpp:280
 msgid "Focus window:"
@@ -652,12 +884,23 @@ msgid "Allow scripts to focus the window."
 msgstr "Täräzäne üzäkläwçe skriptlarnı röxsät it."
 
 #: jspolicies.cpp:302
-msgid "Ignore attempts of scripts to focus the window. The web page will <i>think</i> it brought the focus to the window but the actual focus will remain unchanged."
-msgstr "Skriptlarnıñ täräzäne üzklärgä totınuların ähämiätsez qaldır. Säxifä täräzäne üzäkkä salğan dip <i>uylar</i>, läkin çın üzäkläw üzgärmäs."
+msgid ""
+"Ignore attempts of scripts to focus the window. The web page will <i>think</i> "
+"it brought the focus to the window but the actual focus will remain unchanged."
+msgstr ""
+"Skriptlarnıñ täräzäne üzklärgä totınuların ähämiätsez qaldır. Säxifä täräzäne "
+"üzäkkä salğan dip <i>uylar</i>, läkin çın üzäkläw üzgärmäs."
 
 #: jspolicies.cpp:310
-msgid "Some websites set the focus to their browser window on their own by using <i>window.focus()</i>. This usually leads to the window being moved to the front interrupting whatever action the user was dedicated to at that time. This option specifies the treatment of such attempts."
-msgstr "Qayber säxifälär <i>window.focus()</i> qullanıp arqada qaldırılğan üz täräzälären yañadan alğa kiterälär häm şulay itep qullanuçınıñ şul anda eşlägän eşenä qomaçawlí. Bu mömkinlek andí totınularğa qarata qılanışnı bilgeli."
+msgid ""
+"Some websites set the focus to their browser window on their own by using <i>"
+"window.focus()</i>. This usually leads to the window being moved to the front "
+"interrupting whatever action the user was dedicated to at that time. This "
+"option specifies the treatment of such attempts."
+msgstr ""
+"Qayber säxifälär <i>window.focus()</i> qullanıp arqada qaldırılğan üz "
+"täräzälären yañadan alğa kiterälär häm şulay itep qullanuçınıñ şul anda eşlägän "
+"eşenä qomaçawlí. Bu mömkinlek andí totınularğa qarata qılanışnı bilgeli."
 
 #: jspolicies.cpp:321
 msgid "Modify status bar text:"
@@ -668,12 +911,23 @@ msgid "Allow scripts to change the text of the status bar."
 msgstr "Torım qolğasındağı tekstnı üzgärtkän skriptlarnı röxsät itä."
 
 #: jspolicies.cpp:343
-msgid "Ignore attempts of scripts to change the status bar text. The web page will <i>think</i> it changed the text but the actual text will remain unchanged."
-msgstr "Skriptlarnıñ torım qolğası tekstın üzgärtergä totınularına ähämiät birmä. Säxifä bu tekstnı üzgärtkän dip <i>uylar</i>, läkin çınlıqta tekst üzgärmäs."
+msgid ""
+"Ignore attempts of scripts to change the status bar text. The web page will <i>"
+"think</i> it changed the text but the actual text will remain unchanged."
+msgstr ""
+"Skriptlarnıñ torım qolğası tekstın üzgärtergä totınularına ähämiät birmä. "
+"Säxifä bu tekstnı üzgärtkän dip <i>uylar</i>, läkin çınlıqta tekst üzgärmäs."
 
 #: jspolicies.cpp:351
-msgid "Some websites change the status bar text by setting <i>window.status</i> or <i>window.defaultStatus</i>, thus sometimes preventing displaying the real URLs of hyperlinks. This option specifies the treatment of such attempts."
-msgstr "Qayber säxifälär <i>window.status</i> yä ki <i>window.defaultStatus</i> qullanıp torım qolğası tekstın üzgärtälär dä şulay itep sıltamalarnı çın URL'larınıñ kürsätelüenä qomaçawlí. Bu mömkinlek andí totınularğa qarata qılanışnı bilgeli."
+msgid ""
+"Some websites change the status bar text by setting <i>window.status</i> or <i>"
+"window.defaultStatus</i>, thus sometimes preventing displaying the real URLs of "
+"hyperlinks. This option specifies the treatment of such attempts."
+msgstr ""
+"Qayber säxifälär <i>window.status</i> yä ki <i>window.defaultStatus</i> "
+"qullanıp torım qolğası tekstın üzgärtälär dä şulay itep sıltamalarnı çın "
+"URL'larınıñ kürsätelüenä qomaçawlí. Bu mömkinlek andí totınularğa qarata "
+"qılanışnı bilgeli."
 
 #: khttpoptdlg.cpp:16
 msgid "Accept languages:"
@@ -683,19 +937,19 @@ msgstr "Yaraqlı tellär:"
 msgid "Accept character sets:"
 msgstr "Yaraqlı bilgelämä:"
 
-#: main.cpp:82
+#: main.cpp:77
 msgid "kcmkonqhtml"
 msgstr "kcmkonqhtml"
 
-#: main.cpp:82
+#: main.cpp:77
 msgid "Konqueror Browsing Control Module"
 msgstr "Konquerornıñ Gizü İdärä Bülege"
 
-#: main.cpp:84
+#: main.cpp:79
 msgid "(c) 1999 - 2001 The Konqueror Developers"
 msgstr "(c) 1999 - 2001 Konqueror Tözüçeläre"
 
-#: main.cpp:94
+#: main.cpp:89
 msgid ""
 "JavaScript access controls\n"
 "Per-domain policies extensions"
@@ -703,17 +957,42 @@ msgstr ""
 "JavaScript ireşu sınawları\n"
 "Domen başına säyäsät suzılışları"
 
-#: main.cpp:106
+#: main.cpp:101
 msgid "&Java"
 msgstr "&Java"
 
-#: main.cpp:110
+#: main.cpp:105
 msgid "Java&Script"
 msgstr "Java&Script"
 
-#: main.cpp:159
-msgid "<h2>JavaScript</h2>On this page, you can configure whether JavaScript programs embedded in web pages should be allowed to be executed by Konqueror.<h2>Java</h2>On this page, you can configure whether Java applets embedded in web pages should be allowed to be executed by Konqueror.<br><br><b>Note:</b> Active content is always a security risk, which is why Konqueror allows you to specify very fine-grained from which hosts you want to execute Java and/or JavaScript programs."
-msgstr "<h2>JavaScript</h2>Bu bittä säxifälärdä oçrağan JavaScript programçıqlarınıñ Konqueror tarafınnan başqarılmasına röxsät birelü yä ki birelmäwne bilgelärgä bula.<h2>Java</h2>Bu bittä säxifälärdä oçrağan Java appletlarınıñ Konqueror tarafınnan başqarılmasına röxsät birelü yä ki birelmäwne bilgelärgä bula.<br><br><b>İskärmä:</b>Aktif eçtälek härwaqıt saqlıq öçen risk bulıp qala. Şunıñ öçen Konqueror xucalarnıñ qaysılarına Java häm/yä ki JavaScript programçıqların başqarırğa röxsät bireläçägen beräm-beräm saylarğa mömkinlek birä.On this page, you can configure whether JavaScript programs embedded in web pages should be allowed to be executed by Konqueror.<h2>Java</h2>On this page, you can configure whether Java applets embedded in web pages should be allowed to be executed by Konqueror.<br><br><b>Note:</b> Active content is always a security risk, which is why Konqueror allows you to specify very fine-grained from which hosts you want to execute Java and/or JavaScript programs."
+#: main.cpp:154
+msgid ""
+"<h2>JavaScript</h2>On this page, you can configure whether JavaScript programs "
+"embedded in web pages should be allowed to be executed by Konqueror."
+"<h2>Java</h2>On this page, you can configure whether Java applets embedded in "
+"web pages should be allowed to be executed by Konqueror."
+"<br>"
+"<br><b>Note:</b> Active content is always a security risk, which is why "
+"Konqueror allows you to specify very fine-grained from which hosts you want to "
+"execute Java and/or JavaScript programs."
+msgstr ""
+"<h2>JavaScript</h2>Bu bittä säxifälärdä oçrağan JavaScript programçıqlarınıñ "
+"Konqueror tarafınnan başqarılmasına röxsät birelü yä ki birelmäwne bilgelärgä "
+"bula."
+"<h2>Java</h2>Bu bittä säxifälärdä oçrağan Java appletlarınıñ Konqueror "
+"tarafınnan başqarılmasına röxsät birelü yä ki birelmäwne bilgelärgä bula."
+"<br>"
+"<br><b>İskärmä:</b>Aktif eçtälek härwaqıt saqlıq öçen risk bulıp qala. Şunıñ "
+"öçen Konqueror xucalarnıñ qaysılarına Java häm/yä ki JavaScript programçıqların "
+"başqarırğa röxsät bireläçägen beräm-beräm saylarğa mömkinlek birä.On this page, "
+"you can configure whether JavaScript programs embedded in web pages should be "
+"allowed to be executed by Konqueror."
+"<h2>Java</h2>On this page, you can configure whether Java applets embedded in "
+"web pages should be allowed to be executed by Konqueror."
+"<br>"
+"<br><b>Note:</b> Active content is always a security risk, which is why "
+"Konqueror allows you to specify very fine-grained from which hosts you want to "
+"execute Java and/or JavaScript programs."
 
 #: pluginopts.cpp:60
 msgid "&Enable plugins globally"
@@ -723,126 +1002,171 @@ msgstr "Pluginnarnı ğömümi räw&eştä sälätländer"
 msgid "Only allow &HTTP and HTTPS URLs for plugins"
 msgstr "Pluginnar öçen &HTTP häm &HTTPS URL'ların qabul it"
 
-#: pluginopts.cpp:62
-msgid "&Load plugins on demand only"
-msgstr "Pluginnarnı soralğannan soñ ğına yök&lä"
-
-#: pluginopts.cpp:63 pluginopts.cpp:169
+#: pluginopts.cpp:62 pluginopts.cpp:167
 #, c-format
 msgid "CPU priority for plugins: %1"
 msgstr "Pluginnar öçen CPU östenlekläre: %1"
 
-#: pluginopts.cpp:79
+#: pluginopts.cpp:77
 msgid "Domain-Specific Settin&gs"
 msgstr "Domenğa bäyle &köylämälär"
 
-#: pluginopts.cpp:85 pluginopts.cpp:609
+#: pluginopts.cpp:83 pluginopts.cpp:603
 msgid "Domain-Specific Policies"
 msgstr "Domenğa bäyle Säyäsätlär"
 
-#: pluginopts.cpp:97
-msgid "Enables the execution of plugins that can be contained in HTML pages, e.g. Macromedia Flash. Note that, as with any browser, enabling active contents can be a security problem."
-msgstr "HTML bitlärendä oçrağan pluginnar (mäs. Macromedia Flash) başqarıluın sälätländerä. Härxäldä teläsä qaysı gizgeçtä aktif eçtälekneñ başqarıluına röxsät biru saqlıq bälälären kiterä alğanın istä tot."
+#: pluginopts.cpp:95
+msgid ""
+"Enables the execution of plugins that can be contained in HTML pages, e.g. "
+"Macromedia Flash. Note that, as with any browser, enabling active contents can "
+"be a security problem."
+msgstr ""
+"HTML bitlärendä oçrağan pluginnar (mäs. Macromedia Flash) başqarıluın "
+"sälätländerä. Härxäldä teläsä qaysı gizgeçtä aktif eçtälekneñ başqarıluına "
+"röxsät biru saqlıq bälälären kiterä alğanın istä tot."
 
-#: pluginopts.cpp:101
-msgid "This box contains the domains and hosts you have set a specific plugin policy for. This policy will be used instead of the default policy for enabling or disabling plugins on pages sent by these domains or hosts. <p>Select a policy and use the controls on the right to modify it."
-msgstr "Bu tartmada xosusí Java säyäsätenä duçar itkän domen häm xucalar tora. Bu säyäsät, östäge domen häm xucalardan kilgän appletlarnı sälätle/sälätsez itü öçen bar bulğan säyäsät urnına qullanılır. <p> Ber säyäsätne sayla da uñdağı idärälär qullanıp üzgärtülär yasa."
+#: pluginopts.cpp:99
+msgid ""
+"This box contains the domains and hosts you have set a specific plugin policy "
+"for. This policy will be used instead of the default policy for enabling or "
+"disabling plugins on pages sent by these domains or hosts. "
+"<p>Select a policy and use the controls on the right to modify it."
+msgstr ""
+"Bu tartmada xosusí Java säyäsätenä duçar itkän domen häm xucalar tora. Bu "
+"säyäsät, östäge domen häm xucalardan kilgän appletlarnı sälätle/sälätsez itü "
+"öçen bar bulğan säyäsät urnına qullanılır. "
+"<p> Ber säyäsätne sayla da uñdağı idärälär qullanıp üzgärtülär yasa."
 
-#: pluginopts.cpp:107
-msgid "Click this button to choose the file that contains the plugin policies. These policies will be merged with the existing ones. Duplicate entries are ignored."
-msgstr "Java säyäsätläre bulğan biremne saylar öçen bu töymägä bas. Bu säyäsätlär bar bulğan säyäsätlär belän berläştereler. Qabatlanğan kertemnär qaralmíça üteler."
+#: pluginopts.cpp:105
+msgid ""
+"Click this button to choose the file that contains the plugin policies. These "
+"policies will be merged with the existing ones. Duplicate entries are ignored."
+msgstr ""
+"Java säyäsätläre bulğan biremne saylar öçen bu töymägä bas. Bu säyäsätlär bar "
+"bulğan säyäsätlär belän berläştereler. Qabatlanğan kertemnär qaralmíça üteler."
 
-#: pluginopts.cpp:110
-msgid "Click this button to save the plugin policy to a zipped file. The file, named <b>plugin_policy.tgz</b>, will be saved to a location of your choice."
-msgstr "Java säyäsäten ziplanğan birem eçenä saqlar öçen bu töymägä bas. <b>java_policy.tgz</b> isemle birem sin saylağan törgäktä saqlanaçaq"
+#: pluginopts.cpp:108
+msgid ""
+"Click this button to save the plugin policy to a zipped file. The file, named "
+"<b>plugin_policy.tgz</b>, will be saved to a location of your choice."
+msgstr ""
+"Java säyäsäten ziplanğan birem eçenä saqlar öçen bu töymägä bas. <b>"
+"java_policy.tgz</b> isemle birem sin saylağan törgäktä saqlanaçaq"
 
-#: pluginopts.cpp:113
-msgid "Here you can set specific plugin policies for any particular host or domain. To add a new policy, simply click the <i>New...</i> button and supply the necessary information requested by the dialog box. To change an existing policy, click on the <i>Change...</i> button and choose the new policy from the policy dialog box. Clicking on the <i>Delete</i> button will remove the selected policy causing the default policy setting to be used for that domain."
-msgstr "Monda bilgele xucalar häm domennar öçen xosusí Java säyäsätlären köylärgä bula. Yaña säyäsät östär öçen, <i>Yaña...</i> töymäsenä basıp, kiräkle mäğlümätne dialog tartmasına kert. Bulğan säyäsätne üzgärter öçen, <i>Üzgärt...</i> töymäsenä basıp dialog tartmasınnan yaña säyäsät sayla. <i>Taşla</i> töymäsenä basu saylanğan säyäsätneñ taşlanaçağına häm tege domen öçen bar bulğan säyäsät qullanuına kiterer."
+#: pluginopts.cpp:111
+msgid ""
+"Here you can set specific plugin policies for any particular host or domain. To "
+"add a new policy, simply click the <i>New...</i> button and supply the "
+"necessary information requested by the dialog box. To change an existing "
+"policy, click on the <i>Change...</i> button and choose the new policy from the "
+"policy dialog box. Clicking on the <i>Delete</i> button will remove the "
+"selected policy causing the default policy setting to be used for that domain."
+msgstr ""
+"Monda bilgele xucalar häm domennar öçen xosusí Java säyäsätlären köylärgä bula. "
+"Yaña säyäsät östär öçen, <i>Yaña...</i> töymäsenä basıp, kiräkle mäğlümätne "
+"dialog tartmasına kert. Bulğan säyäsätne üzgärter öçen, <i>Üzgärt...</i> "
+"töymäsenä basıp dialog tartmasınnan yaña säyäsät sayla. <i>Taşla</i> "
+"töymäsenä basu saylanğan säyäsätneñ taşlanaçağına häm tege domen öçen bar "
+"bulğan säyäsät qullanuına kiterer."
 
-#: pluginopts.cpp:128 pluginopts.cpp:539
+#: pluginopts.cpp:126 pluginopts.cpp:533
 msgid "Netscape Plugins"
 msgstr "Netscape pluginnarı"
 
-#: pluginopts.cpp:158
+#: pluginopts.cpp:156
 msgid ""
 "_: lowest priority\n"
 "lowest"
 msgstr "iñ tübän"
 
-#: pluginopts.cpp:160
+#: pluginopts.cpp:158
 msgid ""
 "_: low priority\n"
 "low"
 msgstr "tübän"
 
-#: pluginopts.cpp:162
+#: pluginopts.cpp:160
 msgid ""
 "_: medium priority\n"
 "medium"
 msgstr "urta"
 
-#: pluginopts.cpp:164
+#: pluginopts.cpp:162
 msgid ""
 "_: high priority\n"
 "high"
 msgstr "yuğarı"
 
-#: pluginopts.cpp:166
+#: pluginopts.cpp:164
 msgid ""
 "_: highest priority\n"
 "highest"
 msgstr "iñ yuğarı"
 
-#: pluginopts.cpp:269
-msgid "<h1>Konqueror Plugins</h1> The Konqueror web browser can use Netscape plugins to show special content, just like the Navigator does. Please note that the way you have to install Netscape plugins may depend on your distribution. A typical place to install them is, for example, '/opt/netscape/plugins'."
-msgstr "<h1>Konqueror Qusılmaları</h1> Konqueror'nıñ web-gizgeçe qayber eştälek kürsätü öçen Netscape quşılmaların qullana ala, Netscape üze kebek. Beläse: quşılma quyu tärtibe taratma tözeleşenä bäyle bula ala. Alarnıñ quyılu urını yışraq '/opt/netscape/plugins' törgägendä bula."
+#: pluginopts.cpp:264
+msgid ""
+"<h1>Konqueror Plugins</h1> The Konqueror web browser can use Netscape plugins "
+"to show special content, just like the Navigator does. Please note that the way "
+"you have to install Netscape plugins may depend on your distribution. A typical "
+"place to install them is, for example, '/opt/netscape/plugins'."
+msgstr ""
+"<h1>Konqueror Qusılmaları</h1> Konqueror'nıñ web-gizgeçe qayber eştälek kürsätü "
+"öçen Netscape quşılmaların qullana ala, Netscape üze kebek. Beläse: quşılma "
+"quyu tärtibe taratma tözeleşenä bäyle bula ala. Alarnıñ quyılu urını yışraq "
+"'/opt/netscape/plugins' törgägendä bula."
 
-#: pluginopts.cpp:295
-msgid "Do you want to apply your changes before the scan? Otherwise the changes will be lost."
-msgstr "Tarawğa qädär üzgärtülärne aşırırğa teliseñme? Yuğisä üzgäreşlär saqlanmíça yuğalaçaqlar."
+#: pluginopts.cpp:290
+msgid ""
+"Do you want to apply your changes before the scan? Otherwise the changes will "
+"be lost."
+msgstr ""
+"Tarawğa qädär üzgärtülärne aşırırğa teliseñme? Yuğisä üzgäreşlär saqlanmíça "
+"yuğalaçaqlar."
 
-#: pluginopts.cpp:313
-msgid "The nspluginscan executable cannot be found. Netscape plugins will not be scanned."
-msgstr "Nspluginscan başqarılması tabıla almadı. Netscape pluginnarı taralmayaçaq."
+#: pluginopts.cpp:308
+msgid ""
+"The nspluginscan executable cannot be found. Netscape plugins will not be "
+"scanned."
+msgstr ""
+"Nspluginscan başqarılması tabıla almadı. Netscape pluginnarı taralmayaçaq."
 
-#: pluginopts.cpp:320
+#: pluginopts.cpp:315
 msgid "Scanning for plugins"
 msgstr "Pluginnar öçen taraw"
 
-#: pluginopts.cpp:365
+#: pluginopts.cpp:360
 msgid "Select Plugin Scan Folder"
 msgstr "Plugin Taraw Törgägen Sayla"
 
-#: pluginopts.cpp:562
+#: pluginopts.cpp:556
 msgid "Plugin"
 msgstr "Quşılma"
 
-#: pluginopts.cpp:579
+#: pluginopts.cpp:573
 msgid "MIME type"
 msgstr "MIME Töre"
 
-#: pluginopts.cpp:584
+#: pluginopts.cpp:578
 msgid "Description"
 msgstr "Açıqlama"
 
-#: pluginopts.cpp:589
+#: pluginopts.cpp:583
 msgid "Suffixes"
 msgstr "Quşımta"
 
-#: pluginopts.cpp:654
+#: pluginopts.cpp:648
 msgid "New Plugin Policy"
 msgstr "Yaña Plugin Säyäsäte"
 
-#: pluginopts.cpp:657
+#: pluginopts.cpp:651
 msgid "Change Plugin Policy"
 msgstr "Plugin Säyäsäten Üzgärt"
 
-#: pluginopts.cpp:661
+#: pluginopts.cpp:655
 msgid "&Plugin policy:"
 msgstr "&Plugin Säyäsäte:"
 
-#: pluginopts.cpp:662
+#: pluginopts.cpp:656
 msgid "Select a plugin policy for the above host or domain."
 msgstr "Östäge xuca yä ki domen öçen plugin säyäsäten sayla."
 
@@ -851,8 +1175,12 @@ msgid "&Host or domain name:"
 msgstr "&Xuca yä ki domen iseme:"
 
 #: policydlg.cpp:40
-msgid "Enter the name of a host (like www.kde.org) or a domain, starting with a dot (like .kde.org or .org)"
-msgstr "Xuca (mäs: www.kde.org) yä ki domen isemen noqtadan başlap (.kde.org yä ki .org) kert."
+msgid ""
+"Enter the name of a host (like www.kde.org) or a domain, starting with a dot "
+"(like .kde.org or .org)"
+msgstr ""
+"Xuca (mäs: www.kde.org) yä ki domen isemen noqtadan başlap (.kde.org yä ki "
+".org) kert."
 
 #: policydlg.cpp:112
 msgid "You must first enter a domain name."
@@ -873,7 +1201,8 @@ msgstr "Arqa alanda yaña tabaqlar &aç"
 #. i18n: file advancedTabOptions.ui line 60
 #: rc.cpp:9
 #, no-c-format
-msgid "This will open a new tab in the background, instead of in the foreground."
+msgid ""
+"This will open a new tab in the background, instead of in the foreground."
 msgstr "Bu yaña tabaqnı al alanda tügel, arqa alanda açar."
 
 #. i18n: file advancedTabOptions.ui line 68
@@ -885,8 +1214,11 @@ msgstr "Yaña tabaqnı xäzerge tabaqta&n soñ aç"
 #. i18n: file advancedTabOptions.ui line 71
 #: rc.cpp:15
 #, no-c-format
-msgid "This will open a new tab opened from a page after the current tab, instead of after the last tab."
-msgstr "Bu yaña tabaqnı soñğı tabaqtan soñ tügel, läkin xäzerge tabaqtan soñ açar."
+msgid ""
+"This will open a new tab opened from a page after the current tab, instead of "
+"after the last tab."
+msgstr ""
+"Bu yaña tabaqnı soñğı tabaqtan soñ tügel, läkin xäzerge tabaqtan soñ açar."
 
 #. i18n: file advancedTabOptions.ui line 79
 #: rc.cpp:18
@@ -897,8 +1229,12 @@ msgstr "Berniçä tabaqlı täräzä yabuın rasla"
 #. i18n: file advancedTabOptions.ui line 82
 #: rc.cpp:21
 #, no-c-format
-msgid "This will ask you whether you are sure you want to close a window when it has multiple tabs opened in it."
-msgstr "Bu, berniçä tabaq açılğan täräzäne yapqanda, şul qararıñda imin buluıñnı soñğı tapqır sorar."
+msgid ""
+"This will ask you whether you are sure you want to close a window when it has "
+"multiple tabs opened in it."
+msgstr ""
+"Bu, berniçä tabaq açılğan täräzäne yapqanda, şul qararıñda imin buluıñnı soñğı "
+"tapqır sorar."
 
 #. i18n: file advancedTabOptions.ui line 90
 #: rc.cpp:24
@@ -909,7 +1245,8 @@ msgstr "Säxifä ikonı urınına yabu töymäsen kür&sätü"
 #. i18n: file advancedTabOptions.ui line 93
 #: rc.cpp:27
 #, no-c-format
-msgid "This will display close buttons inside each tab instead of websites' icons."
+msgid ""
+"This will display close buttons inside each tab instead of websites' icons."
 msgstr "Bu här tabaqta säxifä ikonnarı urnına yabu töymäsen kürsäter."
 
 #. i18n: file advancedTabOptions.ui line 101
@@ -921,8 +1258,12 @@ msgstr "Qalquçı täräzälärne yaña täräzä urnına yaña tabaqta kürsät
 #. i18n: file advancedTabOptions.ui line 104
 #: rc.cpp:33
 #, no-c-format
-msgid "Whether or not JavaScript popups if allowed shall open in a new tab or in a new window."
-msgstr "Röxsätle bulsalar, JavaSkriptlı qalquçı täräzälär yaña täräzädä yä ki yaña tabaqta açılaçaqların bulgeli."
+msgid ""
+"Whether or not JavaScript popups if allowed shall open in a new tab or in a new "
+"window."
+msgstr ""
+"Röxsätle bulsalar, JavaSkriptlı qalquçı täräzälär yaña täräzädä yä ki yaña "
+"tabaqta açılaçaqların bulgeli."
 
 #. i18n: file advancedTabOptions.ui line 112
 #: rc.cpp:36
@@ -933,8 +1274,12 @@ msgstr "Xäzerge tabaqnı yapqannan soñ ütkän qullanğan tabaqnı aktif it"
 #. i18n: file advancedTabOptions.ui line 115
 #: rc.cpp:39
 #, no-c-format
-msgid "When checking this the previous used or opened tab will be activated when you close the current active tab instead of the one right to the current tab."
-msgstr "Bu tamğalansa, xäzerge aktif tabaq yapqannan soñ xäzerge tabaqnıñ uñdağı tabaq urnına soñğı qullanğan tabaq açılır."
+msgid ""
+"When checking this the previous used or opened tab will be activated when you "
+"close the current active tab instead of the one right to the current tab."
+msgstr ""
+"Bu tamğalansa, xäzerge aktif tabaq yapqannan soñ xäzerge tabaqnıñ uñdağı tabaq "
+"urnına soñğı qullanğan tabaq açılır."
 
 #. i18n: file advancedTabOptions.ui line 123
 #: rc.cpp:42
@@ -945,8 +1290,16 @@ msgstr "Tışqı URL çaqırılğan waqıtta anı bulğan Konqueror eçendäge t
 #. i18n: file advancedTabOptions.ui line 126
 #: rc.cpp:45
 #, no-c-format
-msgid "When you click a URL in another KDE program or call kfmclient to open a URL, the current desktop will be searched for a non-minimized Konqueror and, if found, the URL opened as a new tab within it. Otherwise a new Konqueror window will be opened with the required URL."
-msgstr "Başqa KDE programında URL'ğa basqanda yä ki URL açar öçen kfmclient çaqırğanda, xäzerge östäl östendä keçeräytelmägän Konqueror ezläner häm, ul tabılsa, URL anıñ yaña yafrağında açılaçar. Yuğisä soralğan URL yaña Konqueror täräzäsendä açılaçaq."
+msgid ""
+"When you click a URL in another KDE program or call kfmclient to open a URL, "
+"the current desktop will be searched for a non-minimized Konqueror and, if "
+"found, the URL opened as a new tab within it. Otherwise a new Konqueror window "
+"will be opened with the required URL."
+msgstr ""
+"Başqa KDE programında URL'ğa basqanda yä ki URL açar öçen kfmclient çaqırğanda, "
+"xäzerge östäl östendä keçeräytelmägän Konqueror ezläner häm, ul tabılsa, URL "
+"anıñ yaña yafrağında açılaçar. Yuğisä soralğan URL yaña Konqueror täräzäsendä "
+"açılaçaq."
 
 #. i18n: file nsconfigwidget.ui line 17
 #: rc.cpp:48
@@ -981,8 +1334,16 @@ msgstr "&KDE başlanğıçında yaña pluginnarnı tara"
 #. i18n: file nsconfigwidget.ui line 92
 #: rc.cpp:63
 #, no-c-format
-msgid "If this option is enabled, KDE will look for new Netscape plugins every time it starts up. This makes it easier for you if you often install new plugins, but it may also slow down KDE startup. You might want to disable this option, especially if you seldom install plugins."
-msgstr "Bu sälätländerelsä, KDE başlanğan sayın yaña Netscape pluginnarın ezlär. Sin yaña pluginnarnı yış qına quya torğan bulsañ bu faydalı bula ala, läkin KDE başlanuın äkrenlätä dä ala. Ayıruça yaña pluginnarnı siräk qya torğan bulsañ, monı sälätsez qaldırırğa kiñäş."
+msgid ""
+"If this option is enabled, KDE will look for new Netscape plugins every time it "
+"starts up. This makes it easier for you if you often install new plugins, but "
+"it may also slow down KDE startup. You might want to disable this option, "
+"especially if you seldom install plugins."
+msgstr ""
+"Bu sälätländerelsä, KDE başlanğan sayın yaña Netscape pluginnarın ezlär. Sin "
+"yaña pluginnarnı yış qına quya torğan bulsañ bu faydalı bula ala, läkin KDE "
+"başlanuın äkrenlätä dä ala. Ayıruça yaña pluginnarnı siräk qya torğan bulsañ, "
+"monı sälätsez qaldırırğa kiñäş."
 
 #. i18n: file nsconfigwidget.ui line 106
 #: rc.cpp:66
@@ -1031,3 +1392,42 @@ msgstr "Monda KDE tapqan Netscape pluginnarı tezmäsen kürä alasıñ."
 #, no-c-format
 msgid "Use a&rtsdsp to pipe plugin sound through aRts"
 msgstr "&aRts tawış eşkärtüçesen qullan"
+
+#~ msgid "Enable filters"
+#~ msgstr "Sözgeçlärne sälätländer"
+
+#~ msgid "Hide filtered images"
+#~ msgstr "Sözelgän räsemnärne yäşer"
+
+#~ msgid "URL Expressions to Filter"
+#~ msgstr "Sözeläçäk URL tezmäläre"
+
+#~ msgid "Expression (e.g. http://www.site.com/ad/*):"
+#~ msgstr "Tezmä (mäs. http://www.saxifa.com/reklam/*):"
+
+#~ msgid "Update"
+#~ msgstr "Yañart"
+
+#~ msgid "Import.."
+#~ msgstr "İmportla..."
+
+#~ msgid "Export.."
+#~ msgstr "Çığaru..."
+
+#~ msgid "Enable or disable AdBlocK filters. When enabled a set of expressions to be blocked should be defined in the filter list for blocking to take effect."
+#~ msgstr "AdBlocK sözgeçlärne sälätle/sälätsez it."
+
+#~ msgid "When enabled blocked images will be removed from the page completely otherwise a placeholder 'blocked' image will be used."
+#~ msgstr "Sälätländerelgändä, tuqtatqan räsemnär bittän tulısınça atılğan bulır, yuğisä, 'tuqıtatılğan' almaştıruçı räsem qullanılır."
+
+#~ msgid "This is the list of URL filters that will be applied to all linked images and frames. The filters are processed in order so place more generic filters towards the top of the list."
+#~ msgstr "Bu - barlıq sıltalğan räsem häm qısalar öçen qullanılaçaq URL sözgeçläre tezmäse. Sözgeçlär ber-ber artlı eşlilär, şuña kürä ğömümiräk sözgeçlärne tezemneñ östenä quyası."
+
+#~ msgid "Enter an expression to filter. Expressions can be defined as either a filename style wildcard e.g. http://www.site.com/ads* or as a full regular expression by surrounding the string with '/' e.g.  //(ad|banner)\\./"
+#~ msgstr "Sözgeçkä äytemne/tezmäne kert. Tezmälärdä alıştıruçı simvollar, mäs. http://www.saxifa.com/reklam* qullanıla ala, '/' belän ayırılğan tulı regular tezmä, mäs.:  //(ad|banner)\\ kertü dä mömkin./"
+
+#~ msgid "<h1>Konqueror AdBlocK</h1> Konqueror AdBlocK allows you to create a list of filters that are checked against linked images and frames. URL's that match are either discarded or replaced with a placeholder image. "
+#~ msgstr "<h1>Konqueror AdBlocK</h1> Konqueror AdBlocK sıltamalı räsem häm qısalarğa qarşı eşlägän sözgeçlär tezmäsen yasarğa mömkinlek birä. Sözgeçkä eläkkän URL'lar yä kürsätelmi, äy almaştıruçı räsem belän almaşına. "
+
+#~ msgid "&Load plugins on demand only"
+#~ msgstr "Pluginnarnı soralğannan soñ ğına yök&lä"

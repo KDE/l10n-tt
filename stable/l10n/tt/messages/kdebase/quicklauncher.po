@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase quicklauncher\n"
-"POT-Creation-Date: 2005-07-05 01:33+0200\n"
+"POT-Creation-Date: 2004-10-12 01:16+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -24,220 +24,136 @@ msgid ""
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
 
-#: configdlg.cpp:44 configdlg.cpp:66 configdlg.cpp:82
-msgid "Automatic"
-msgstr "Üzennän"
-
-#: quickbutton.cpp:155 quicklauncher.cpp:165 quicklauncher.cpp:169
+#: quickbutton.cpp:146 quicklauncher.cpp:137 quicklauncher.cpp:152
 msgid "Add Application"
 msgstr "Yazılım Östäw"
 
-#: quickbutton.cpp:161
-msgid "Never remove automatically"
-msgstr "Üzennän berçaqta da betermäskä"
+#: quicklauncher.cpp:141
+#, fuzzy
+msgid "Auto"
+msgstr "Üzennän"
 
-#: quicklauncher.cpp:110
-msgid "Configure Quicklaucher..."
-msgstr "Tizcibärgeç Caylawı..."
+#: quicklauncher.cpp:145
+#, c-format
+msgid "%1"
+msgstr ""
 
-#: quicklauncher.cpp:175
+#: quicklauncher.cpp:156
 msgid "Remove Application"
 msgstr "Yazılım Beterü"
 
-#: quicklauncher.cpp:198
-msgid "Unknown"
-msgstr "Bilgesez"
+#: quicklauncher.cpp:161
+#, fuzzy
+msgid "Set Icon Size"
+msgstr "Tamğa Ülçäme"
 
-#: quicklauncher.cpp:495
-msgid "Quick Launcher"
-msgstr "Tiz Cibärgeç"
-
-#: quicklauncher.cpp:496
-msgid "A simple application launcher"
-msgstr "Ciñel yazılım-cibärgeç"
-
-#. i18n: file configdlgbase.ui line 16
-#: rc.cpp:3
-#, no-c-format
-msgid "Form1"
-msgstr "Form1"
-
-#. i18n: file configdlgbase.ui line 30
-#: rc.cpp:6
-#, no-c-format
-msgid "Allow Drag and Drop"
-msgstr "Österü-Taşlaw Açıq"
-
-#. i18n: file configdlgbase.ui line 38
-#: rc.cpp:9
-#, no-c-format
-msgid "Layout"
-msgstr "Urnaşılu"
-
-#. i18n: file configdlgbase.ui line 49
-#: rc.cpp:12 rc.cpp:39
-#, no-c-format
+#: quicklauncher.cpp:162
 msgid "Conserve Space"
 msgstr "Saqlanğan Alan"
 
-#. i18n: file configdlgbase.ui line 52
-#: rc.cpp:15
-#, no-c-format
-msgid "Do not expand icons to the size of the panel"
-msgstr "Tamğa ülçämen tirä ülçämenä kitermäskä"
+#: quicklauncher.cpp:163
+#, fuzzy
+msgid "Lock Drag/Drop"
+msgstr "Österü-Taşlaw Açıq"
 
-#. i18n: file configdlgbase.ui line 60
-#: rc.cpp:18
-#, no-c-format
-msgid "Icon size:"
-msgstr "Tamğa ülçäme:"
+#: quicklauncher.cpp:182
+msgid "Unknown"
+msgstr "Bilgesez"
 
-#. i18n: file configdlgbase.ui line 95
-#: rc.cpp:21
-#, no-c-format
-msgid "Most Popular Applications"
-msgstr "İñ Qullanılğan Yazılımnar"
+#: quicklauncher.cpp:333
+msgid "Quick Launcher"
+msgstr "Tiz Cibärgeç"
 
-#. i18n: file configdlgbase.ui line 148
-#: rc.cpp:24
-#, no-c-format
-msgid "Short Term"
-msgstr "Qısqa Töşençä"
+#: quicklauncher.cpp:334
+msgid "A simple application launcher"
+msgstr "Ciñel yazılım-cibärgeç"
 
-#. i18n: file configdlgbase.ui line 159
-#: rc.cpp:27
-#, no-c-format
-msgid "Long Term"
-msgstr "Ozın Atama"
+#~ msgid "Never remove automatically"
+#~ msgstr "Üzennän berçaqta da betermäskä"
 
-#. i18n: file configdlgbase.ui line 172
-#: rc.cpp:30
-#, no-c-format
-msgid "Maximum Number of Applications:"
-msgstr "Yazılım Sanın Çikläw:"
+#~ msgid "Configure Quicklaucher..."
+#~ msgstr "Tizcibärgeç Caylawı..."
 
-#. i18n: file configdlgbase.ui line 207
-#: rc.cpp:33
-#, no-c-format
-msgid "Minimum Number of Applications:"
-msgstr "Yazılım Sanınıñ Asqı Çige"
+#~ msgid "Form1"
+#~ msgstr "Form1"
 
-#. i18n: file configdlgbase.ui line 215
-#: rc.cpp:36
-#, no-c-format
-msgid "Add/Remove applications based on their popularity"
-msgstr "Soralğanlığına qarap yazılımnarnı östäw/beterü."
+#~ msgid "Layout"
+#~ msgstr "Urnaşılu"
 
-#. i18n: file launcherapplet.kcfg line 13
-#: rc.cpp:42
-#, no-c-format
-msgid "Drag Enabled"
-msgstr "Österü Açıq"
+#~ msgid "Do not expand icons to the size of the panel"
+#~ msgstr "Tamğa ülçämen tirä ülçämenä kitermäskä"
 
-#. i18n: file launcherapplet.kcfg line 17
-#: rc.cpp:45
-#, no-c-format
-msgid "Icon Size"
-msgstr "Tamğa Ülçäme"
+#~ msgid "Icon size:"
+#~ msgstr "Tamğa ülçäme:"
 
-#. i18n: file launcherapplet.kcfg line 21
-#: rc.cpp:48
-#, no-c-format
-msgid "Offered Icon Sizes"
-msgstr "Tamğa Öçen Kiñäş İtelgän Ülçämnär"
+#~ msgid "Most Popular Applications"
+#~ msgstr "İñ Qullanılğan Yazılımnar"
 
-#. i18n: file launcherapplet.kcfg line 25
-#: rc.cpp:51
-#, no-c-format
-msgid "Buttons"
-msgstr "Töymä"
+#~ msgid "Short Term"
+#~ msgstr "Qısqa Töşençä"
 
-#. i18n: file launcherapplet.kcfg line 29
-#: rc.cpp:54
-#, no-c-format
-msgid "Volatile Buttons"
-msgstr "Üzgärüçän Töymä"
+#~ msgid "Long Term"
+#~ msgstr "Ozın Atama"
 
-#. i18n: file launcherapplet.kcfg line 30
-#: rc.cpp:57
-#, no-c-format
-msgid "Buttons that can be removed dynamically if they become unpopular"
-msgstr "Ozaq qullanılmí torsalar bu töymälärneñ taşlanuı bar"
+#~ msgid "Maximum Number of Applications:"
+#~ msgstr "Yazılım Sanın Çikläw:"
 
-#. i18n: file launcherapplet.kcfg line 34
-#: rc.cpp:60
-#, no-c-format
-msgid "Show frame for volatile buttons"
-msgstr "Üzgärüçän töymä qısasın kürsätü"
+#~ msgid "Minimum Number of Applications:"
+#~ msgstr "Yazılım Sanınıñ Asqı Çige"
 
-#. i18n: file launcherapplet.kcfg line 38
-#: rc.cpp:63
-#, no-c-format
-msgid "Auto Adjust Enabled"
-msgstr "Üzennän Kölänü Açıq"
+#~ msgid "Add/Remove applications based on their popularity"
+#~ msgstr "Soralğanlığına qarap yazılımnarnı östäw/beterü."
 
-#. i18n: file launcherapplet.kcfg line 42
-#: rc.cpp:66
-#, no-c-format
-msgid "Minimum Number of Items"
-msgstr "Kerem Sanınıñ Asqı Çige"
+#~ msgid "Drag Enabled"
+#~ msgstr "Österü Açıq"
 
-#. i18n: file launcherapplet.kcfg line 47
-#: rc.cpp:69
-#, no-c-format
-msgid "Maximum Number of Items"
-msgstr "Kerem Sanın Çikläw:"
+#~ msgid "Offered Icon Sizes"
+#~ msgstr "Tamğa Öçen Kiñäş İtelgän Ülçämnär"
 
-#. i18n: file launcherapplet.kcfg line 52
-#: rc.cpp:72
-#, no-c-format
-msgid "History Weight"
-msgstr "Uzğannar Awırlığı"
+#~ msgid "Buttons"
+#~ msgstr "Töymä"
 
-#. i18n: file launcherapplet.kcfg line 60
-#: rc.cpp:75
-#, no-c-format
-msgid "Service Cache Size"
-msgstr "Xezmät öçen Alxäter Küläme"
+#~ msgid "Volatile Buttons"
+#~ msgstr "Üzgärüçän Töymä"
 
-#. i18n: file launcherapplet.kcfg line 61
-#: rc.cpp:78
-#, no-c-format
-msgid "Number of services to remember"
-msgstr "Yatqa alası xezmät sanı"
+#~ msgid "Buttons that can be removed dynamically if they become unpopular"
+#~ msgstr "Ozaq qullanılmí torsalar bu töymälärneñ taşlanuı bar"
 
-#. i18n: file launcherapplet.kcfg line 65
-#: rc.cpp:81
-#, no-c-format
-msgid "Service Names"
-msgstr "Xezmät Adı"
+#~ msgid "Show frame for volatile buttons"
+#~ msgstr "Üzgärüçän töymä qısasın kürsätü"
 
-#. i18n: file launcherapplet.kcfg line 66
-#: rc.cpp:84
-#, no-c-format
-msgid "Name of known services"
-msgstr "Belgän xezmätlärneñ adı"
+#~ msgid "Auto Adjust Enabled"
+#~ msgstr "Üzennän Kölänü Açıq"
 
-#. i18n: file launcherapplet.kcfg line 69
-#: rc.cpp:87
-#, no-c-format
-msgid "Service Insertion Positions"
-msgstr "Xezmät Kertü Urınnarı"
+#~ msgid "Minimum Number of Items"
+#~ msgstr "Kerem Sanınıñ Asqı Çige"
 
-#. i18n: file launcherapplet.kcfg line 70
-#: rc.cpp:90
-#, no-c-format
-msgid "Position where serives are inserted when they regain popularity"
-msgstr "Position where serives are inserted when they regain popularity"
+#~ msgid "Maximum Number of Items"
+#~ msgstr "Kerem Sanın Çikläw:"
 
-#. i18n: file launcherapplet.kcfg line 73
-#: rc.cpp:93
-#, no-c-format
-msgid "Service History Data"
-msgstr "Xezmät Uzğanı Bireme"
+#~ msgid "History Weight"
+#~ msgstr "Uzğannar Awırlığı"
 
-#. i18n: file launcherapplet.kcfg line 74
-#: rc.cpp:96
-#, no-c-format
-msgid "History Data used to determine the popularity of a service"
-msgstr "Xezmät totılınuın ülçäw öçen Uzğannar Bireme qullanıla"
+#~ msgid "Service Cache Size"
+#~ msgstr "Xezmät öçen Alxäter Küläme"
+
+#~ msgid "Number of services to remember"
+#~ msgstr "Yatqa alası xezmät sanı"
+
+#~ msgid "Service Names"
+#~ msgstr "Xezmät Adı"
+
+#~ msgid "Name of known services"
+#~ msgstr "Belgän xezmätlärneñ adı"
+
+#~ msgid "Service Insertion Positions"
+#~ msgstr "Xezmät Kertü Urınnarı"
+
+#~ msgid "Position where serives are inserted when they regain popularity"
+#~ msgstr "Position where serives are inserted when they regain popularity"
+
+#~ msgid "Service History Data"
+#~ msgstr "Xezmät Uzğanı Bireme"
+
+#~ msgid "History Data used to determine the popularity of a service"
+#~ msgstr "Xezmät totılınuın ülçäw öçen Uzğannar Bireme qullanıla"

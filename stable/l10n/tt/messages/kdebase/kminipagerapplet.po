@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kminipagerapplet\n"
-"POT-Creation-Date: 2005-07-10 01:31+0200\n"
+"POT-Creation-Date: 2005-03-07 11:45+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,169 +12,137 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: pagerapplet.cpp:619
+#: pagerapplet.cpp:676
 msgid "&Launch Pager"
 msgstr "&KPager Cibärü"
 
-#: pagerapplet.cpp:622
+#: pagerapplet.cpp:679
 msgid "&Rename Desktop \"%1\""
 msgstr "\"%1\" Östäleneñ &Adı"
 
-#: pagerapplet.cpp:628
-msgid "Pager Layout"
-msgstr "Bitçe Urınlaşuı"
-
-#: pagerapplet.cpp:632
+#: pagerapplet.cpp:687
 msgid "&Automatic"
 msgstr "&Üzennän"
 
-#: pagerapplet.cpp:633
+#: pagerapplet.cpp:688
 msgid ""
 "_: one row or column\n"
 "&1"
 msgstr "&1"
 
-#: pagerapplet.cpp:634
+#: pagerapplet.cpp:689
 msgid ""
 "_: two rows or columns\n"
 "&2"
 msgstr "&2"
 
-#: pagerapplet.cpp:635
+#: pagerapplet.cpp:690
 msgid ""
 "_: three rows or columns\n"
 "&3"
 msgstr "&3"
 
-#: pagerapplet.cpp:637
+#: pagerapplet.cpp:692
 msgid "&Rows"
 msgstr "&Yul sanı"
 
-#: pagerapplet.cpp:638
+#: pagerapplet.cpp:692
 msgid "&Columns"
 msgstr "&Buy sanı"
 
-#: pagerapplet.cpp:641
-msgid "&Window Thumbnails"
-msgstr "&Täräzä Töymäsüräte"
+#: pagerapplet.cpp:694
+#, fuzzy
+msgid "N&umber"
+msgstr "San"
 
-#: pagerapplet.cpp:642
-msgid "&Window Icons"
-msgstr "&Täräzä Tamğası"
+#: pagerapplet.cpp:695
+#, fuzzy
+msgid "N&ame"
+msgstr "İsem"
 
-#: pagerapplet.cpp:644
-msgid "Text Label"
-msgstr "Yazma Bilgese"
+#: pagerapplet.cpp:696
+#, fuzzy
+msgid "N&one"
+msgstr "Yuq"
 
-#: pagerapplet.cpp:645
-msgid "Desktop N&umber"
-msgstr "Östäl &Sanı"
+#: pagerapplet.cpp:698
+msgid "&Preview"
+msgstr ""
 
-#: pagerapplet.cpp:646
-msgid "Desktop N&ame"
-msgstr "Östäl &Adı"
-
-#: pagerapplet.cpp:647
-msgid "N&o Label"
-msgstr "Yazma&sız"
-
-#: pagerapplet.cpp:649
-msgid "Background"
-msgstr "Asyaq"
-
-#: pagerapplet.cpp:650
-msgid "&Elegant"
-msgstr "&Elegant"
-
-#: pagerapplet.cpp:651
+#: pagerapplet.cpp:700
 msgid "&Transparent"
 msgstr "Ü&täkürenü"
 
-#: pagerapplet.cpp:652
-msgid "&Desktop Wallpaper"
-msgstr "&Östäl Cäymäse"
+#: pagerapplet.cpp:702
+#, fuzzy
+msgid "&Show"
+msgstr "&Yul sanı"
 
-#: pagerapplet.cpp:654
-msgid "&Pager Options"
-msgstr "&Bitçe Caylawı"
-
-#: pagerapplet.cpp:657
+#: pagerapplet.cpp:704
 msgid "&Configure Desktops..."
 msgstr "Öställär &Caylaw..."
 
-#: pagerbutton.cpp:650
-msgid "and %1 others"
-msgstr ", başqa %1 dä"
+#~ msgid "Pager Layout"
+#~ msgstr "Bitçe Urınlaşuı"
 
-#: pagerbutton.cpp:659
-#, c-format
-msgid ""
-"_n: One window:\n"
-"%n Windows:"
-msgstr "%n Täräzä:"
+#~ msgid "&Window Thumbnails"
+#~ msgstr "&Täräzä Töymäsüräte"
 
-#. i18n: file pagersettings.kcfg line 12
-#: rc.cpp:3
-#, no-c-format
-msgid "None"
-msgstr "Yuq"
+#~ msgid "&Window Icons"
+#~ msgstr "&Täräzä Tamğası"
 
-#. i18n: file pagersettings.kcfg line 15
-#: rc.cpp:6
-#, no-c-format
-msgid "Name"
-msgstr "İsem"
+#~ msgid "Text Label"
+#~ msgstr "Yazma Bilgese"
 
-#. i18n: file pagersettings.kcfg line 18
-#: rc.cpp:9
-#, no-c-format
-msgid "Number"
-msgstr "San"
+#~ msgid "Desktop N&umber"
+#~ msgstr "Östäl &Sanı"
 
-#. i18n: file pagersettings.kcfg line 22
-#: rc.cpp:12
-#, no-c-format
-msgid "Virtual desktop label type"
-msgstr "Xıyalıy östäl yazmasınıñ töre"
+#~ msgid "Desktop N&ame"
+#~ msgstr "Östäl &Adı"
 
-#. i18n: file pagersettings.kcfg line 28
-#: rc.cpp:15
-#, no-c-format
-msgid "Plain"
-msgstr "Taqır"
+#~ msgid "N&o Label"
+#~ msgstr "Yazma&sız"
 
-#. i18n: file pagersettings.kcfg line 31
-#: rc.cpp:18
-#, no-c-format
-msgid "Transparent"
-msgstr "Ütäkürenü"
+#~ msgid "Background"
+#~ msgstr "Asyaq"
 
-#. i18n: file pagersettings.kcfg line 34
-#: rc.cpp:21
-#, no-c-format
-msgid "Live"
-msgstr "Tere"
+#~ msgid "&Elegant"
+#~ msgstr "&Elegant"
 
-#. i18n: file pagersettings.kcfg line 38
-#: rc.cpp:24
-#, no-c-format
-msgid "Virtual desktop background type"
-msgstr "Xıyalıy östäl asyağınıñ töre"
+#~ msgid "&Desktop Wallpaper"
+#~ msgstr "&Östäl Cäymäse"
 
-#. i18n: file pagersettings.kcfg line 42
-#: rc.cpp:27
-#, no-c-format
-msgid "Number of rows to arrange the desktop previews into"
-msgstr "Östäl küzätülären urınlaştıru yullar sanı"
+#~ msgid "&Pager Options"
+#~ msgstr "&Bitçe Caylawı"
 
-#. i18n: file pagersettings.kcfg line 49
-#: rc.cpp:30
-#, no-c-format
-msgid "Show desktop preview?"
-msgstr "Östäl küreneşen kürsätäseme?"
+#~ msgid "and %1 others"
+#~ msgstr ", başqa %1 dä"
 
-#. i18n: file pagersettings.kcfg line 54
-#: rc.cpp:33
-#, no-c-format
-msgid "Show window icons in previews?"
-msgstr "Küsätkändä täräzä tamğasın kürsätäseme?"
+#~ msgid ""
+#~ "_n: One window:\n"
+#~ "%n Windows:"
+#~ msgstr "%n Täräzä:"
+
+#~ msgid "Virtual desktop label type"
+#~ msgstr "Xıyalıy östäl yazmasınıñ töre"
+
+#~ msgid "Plain"
+#~ msgstr "Taqır"
+
+#~ msgid "Transparent"
+#~ msgstr "Ütäkürenü"
+
+#~ msgid "Live"
+#~ msgstr "Tere"
+
+#~ msgid "Virtual desktop background type"
+#~ msgstr "Xıyalıy östäl asyağınıñ töre"
+
+#~ msgid "Number of rows to arrange the desktop previews into"
+#~ msgstr "Östäl küzätülären urınlaştıru yullar sanı"
+
+#~ msgid "Show desktop preview?"
+#~ msgstr "Östäl küreneşen kürsätäseme?"
+
+#~ msgid "Show window icons in previews?"
+#~ msgstr "Küsätkändä täräzä tamğasın kürsätäseme?"

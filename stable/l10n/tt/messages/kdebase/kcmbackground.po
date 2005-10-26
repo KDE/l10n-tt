@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmbackground\n"
-"POT-Creation-Date: 2005-07-09 01:31+0200\n"
+"POT-Creation-Date: 2005-05-08 10:22+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -41,8 +41,12 @@ msgid "%1 min."
 msgstr "%1 min."
 
 #: bgadvanced.cpp:298
-msgid "Unable to remove the program: the program is global and can only be removed by the system administrator."
-msgstr "Yazılımnı alıp taşlap bulmí: bu yazılım töplärdän sanala, anı sistem idäräçe genä alıp taşlí ala."
+msgid ""
+"Unable to remove the program: the program is global and can only be removed by "
+"the system administrator."
+msgstr ""
+"Yazılımnı alıp taşlap bulmí: bu yazılım töplärdän sanala, anı sistem idäräçe "
+"genä alıp taşlí ala."
 
 #: bgadvanced.cpp:300
 msgid "Cannot Remove Program"
@@ -112,10 +116,6 @@ msgstr ""
 "'%1' atlı yazılım bar inde.\n"
 "Östenä yazdırasımı?"
 
-#: bgadvanced.cpp:476
-msgid "Overwrite"
-msgstr "Östän Yaz"
-
 #: bgadvanced.cpp:482
 msgid ""
 "You did not fill in the `Executable' field.\n"
@@ -137,12 +137,36 @@ msgid "Open file dialog"
 msgstr "Birem açu täräzäse"
 
 #: bgdialog.cpp:291
-msgid "<h1>Background</h1> This module allows you to control the appearance of the virtual desktops. KDE offers a variety of options for customization, including the ability to specify different settings for each virtual desktop, or a common background for all of them.<p> The appearance of the desktop results from the combination of its background colors and patterns, and optionally, wallpaper, which is based on the image from a graphic file.<p> The background can be made up of a single color, or a pair of colors which can be blended in a variety of patterns. Wallpaper is also customizable, with options for tiling and stretching images. The wallpaper can be overlaid opaquely, or blended in different ways with the background colors and patterns.<p> KDE allows you to have the wallpaper change automatically at specified intervals of time. You can also replace the background with a program that updates the desktop dynamically. For example, the \"kdeworld\" program shows a day/night map of the world which is updated periodically."
+msgid ""
+"<h1>Background</h1> This module allows you to control the appearance of the "
+"virtual desktops. KDE offers a variety of options for customization, including "
+"the ability to specify different settings for each virtual desktop, or a common "
+"background for all of them."
+"<p> The appearance of the desktop results from the combination of its "
+"background colors and patterns, and optionally, wallpaper, which is based on "
+"the image from a graphic file."
+"<p> The background can be made up of a single color, or a pair of colors which "
+"can be blended in a variety of patterns. Wallpaper is also customizable, with "
+"options for tiling and stretching images. The wallpaper can be overlaid "
+"opaquely, or blended in different ways with the background colors and patterns."
+"<p> KDE allows you to have the wallpaper change automatically at specified "
+"intervals of time. You can also replace the background with a program that "
+"updates the desktop dynamically. For example, the \"kdeworld\" program shows a "
+"day/night map of the world which is updated periodically."
 msgstr ""
-"<h1>Tüşäw</h1> Eş öställäreneñ küreneşen bu modulda üzgärtep bul. KDE quldan köyläwneñ berniçä variantın, şul isäptän eş östäleneñ barısına da ayırım köyläwlär yä ki barısına da töp tüşäw bilgeläw mömkinlegen birä.\n"
-"<p>Eş östäleneñ küreneşe anıñ artyaq tös-bizäkläreneñ köyläwennän, yä isä sızım biremennän alınğan tüşäw räweşennän barlıqqa kilä.\n"
-"<p>Eş östäle ber genä töstän yasalırğa da, törleçä quşılğan ike töstän yasalırğa da mömkin. Asyaq süräten tüşäw räweşendä yä ki cäyep salu yulı belän üzgärtep bula. Tüşäw totaş qaplap torırğa da, asyaq tösläre belän bizäklär belän törleçä quşıp ta bula.\n"
-"<p>KDE şul tüşäwne äytelgän waqıt arası uzğannan soñ almaştıru mömkinlegen birä. Östäl tüşäwen şulay uq dinamik räweştä yañarta torğan yazılım belän dä almaştırıp bula. Mäsälän, \"kdeword\" yazılımı cir tubınıñ äledän-äle almaşına torğan kön/tön küreneşen çığara."
+"<h1>Tüşäw</h1> Eş öställäreneñ küreneşen bu modulda üzgärtep bul. KDE quldan "
+"köyläwneñ berniçä variantın, şul isäptän eş östäleneñ barısına da ayırım "
+"köyläwlär yä ki barısına da töp tüşäw bilgeläw mömkinlegen birä.\n"
+"<p>Eş östäleneñ küreneşe anıñ artyaq tös-bizäkläreneñ köyläwennän, yä isä sızım "
+"biremennän alınğan tüşäw räweşennän barlıqqa kilä.\n"
+"<p>Eş östäle ber genä töstän yasalırğa da, törleçä quşılğan ike töstän "
+"yasalırğa da mömkin. Asyaq süräten tüşäw räweşendä yä ki cäyep salu yulı belän "
+"üzgärtep bula. Tüşäw totaş qaplap torırğa da, asyaq tösläre belän bizäklär "
+"belän törleçä quşıp ta bula.\n"
+"<p>KDE şul tüşäwne äytelgän waqıt arası uzğannan soñ almaştıru mömkinlegen "
+"birä. Östäl tüşäwen şulay uq dinamik räweştä yañarta torğan yazılım belän dä "
+"almaştırıp bula. Mäsälän, \"kdeword\" yazılımı cir tubınıñ äledän-äle almaşına "
+"torğan kön/tön küreneşen çığara."
 
 #: bgdialog.cpp:316
 msgid "Single Color"
@@ -236,21 +260,21 @@ msgstr "Kiskenlek"
 msgid "Hue Shift"
 msgstr "Tösmer Küçerü"
 
-#: bgdialog.cpp:509
+#: bgdialog.cpp:506 bgwallpaper.cpp:150
+msgid ""
+"\n"
+"*.svg *.SVG *.svgz *.SVGZ|Scalable Vector Graphics"
+msgstr ""
+
+#: bgdialog.cpp:510
 msgid "Select Wallpaper"
 msgstr "Tüşäw Saylaw"
-
-#. i18n: file bgdialog_ui.ui line 221
-#: bgdialog.cpp:998 rc.cpp:147 rc.cpp:403
-#, no-c-format
-msgid "Get New Wallpapers"
-msgstr "Yaña Tüşäw Alu"
 
 #: bgwallpaper.cpp:99
 msgid "Setup Slide Show"
 msgstr "Slayd Kürsätkeç Quyu"
 
-#: bgwallpaper.cpp:156
+#: bgwallpaper.cpp:157
 msgid "Select Image"
 msgstr "Sürät Saylaw"
 
@@ -283,20 +307,36 @@ msgstr "&Östäw..."
 #, no-c-format
 msgid ""
 "<qt>\n"
-"<p>Click here if you want to add a program to the listbox. This button opens a dialog where you are asked to give details about the program you want to run. To successfully add a program, you must know if it is compatible, the name of the executable file and, if necessary, its options.</p>\n"
-"<p>You usually can get the available options to a suitable program by typing in a terminal emulator the name of the executable file plus --help (foobar --help).</p>\n"
+"<p>Click here if you want to add a program to the listbox. This button opens a "
+"dialog where you are asked to give details about the program you want to run. "
+"To successfully add a program, you must know if it is compatible, the name of "
+"the executable file and, if necessary, its options.</p>\n"
+"<p>You usually can get the available options to a suitable program by typing in "
+"a terminal emulator the name of the executable file plus --help (foobar "
+"--help).</p>\n"
 "</qt>"
 msgstr ""
 "<qt>\n"
-"<p>Yazılımnı tezmägä östäw öçen monda çirtäse. Eşlätäse kilgän yazılım turında belem kürsätüçe täräzäne bu töymä aşa açıp bula. Yazılımnı uñışlı östäw öçen, anıñ monda eşli aluın, eşçañ biremeneñ adın, kiräk bulsa, anıñ köylämälären belü kiräk.</p>\n"
-"<p>Ğädättägeçä yaraqlı yazılımnıñ mömkin bulğan köylämälären, terminal täräzäsendä eşçän birem adına --help östäp belep bula (ü.ö. foobar --help).</p>\n"
+"<p>Yazılımnı tezmägä östäw öçen monda çirtäse. Eşlätäse kilgän yazılım turında "
+"belem kürsätüçe täräzäne bu töymä aşa açıp bula. Yazılımnı uñışlı östäw öçen, "
+"anıñ monda eşli aluın, eşçañ biremeneñ adın, kiräk bulsa, anıñ köylämälären "
+"belü kiräk.</p>\n"
+"<p>Ğädättägeçä yaraqlı yazılımnıñ mömkin bulğan köylämälären, terminal "
+"täräzäsendä eşçän birem adına --help östäp belep bula (ü.ö. foobar --help).</p>"
+"\n"
 "</qt>"
 
 #. i18n: file bgadvanced_ui.ui line 64
 #: rc.cpp:18 rc.cpp:274
 #, no-c-format
-msgid "Click here to remove programs from this list. Please note that it does not remove the program from your system, it only removes it from the available options in the background drawing programs list."
-msgstr "Yazılımnı tezmädän alıp taşlaw öçen monda çirtäse. Monıñ yazılımnı sistemağızdan alıp taşlamawın isäpkä alığız, ul anı asyaq süräten yasaw yazılımnarınıñ mömkin bulğan saylanmaları isemlegennän genä alıp taşlí."
+msgid ""
+"Click here to remove programs from this list. Please note that it does not "
+"remove the program from your system, it only removes it from the available "
+"options in the background drawing programs list."
+msgstr ""
+"Yazılımnı tezmädän alıp taşlaw öçen monda çirtäse. Monıñ yazılımnı "
+"sistemağızdan alıp taşlamawın isäpkä alığız, ul anı asyaq süräten yasaw "
+"yazılımnarınıñ mömkin bulğan saylanmaları isemlegennän genä alıp taşlí."
 
 #. i18n: file bgadvanced_ui.ui line 75
 #: rc.cpp:21 rc.cpp:277
@@ -309,13 +349,26 @@ msgstr "&Üzgärtü..."
 #, no-c-format
 msgid ""
 "<qt>\n"
-"<p>Click here to modify the programs options. You usually can get the available options to a suitable program by typing in a terminal emulator the name of the executable file plus --help. (example: kwebdesktop --help).</p>\n"
-"<p>One useful example is the program kwebdesktop. It draws a web page on the background of your desktop.  You can use this program by selecting it on the listbox on the right, but it will draw a predefined web page. To change the web page it renders, select the kwebdesktop program on the listbox, then click here. A dialog will appear, allowing you to change the web page by replacing the old address (URL) with a new one.</p>\n"
+"<p>Click here to modify the programs options. You usually can get the available "
+"options to a suitable program by typing in a terminal emulator the name of the "
+"executable file plus --help. (example: kwebdesktop --help).</p>\n"
+"<p>One useful example is the program kwebdesktop. It draws a web page on the "
+"background of your desktop.  You can use this program by selecting it on the "
+"listbox on the right, but it will draw a predefined web page. To change the web "
+"page it renders, select the kwebdesktop program on the listbox, then click "
+"here. A dialog will appear, allowing you to change the web page by replacing "
+"the old address (URL) with a new one.</p>\n"
 "</qt>"
 msgstr ""
 "<qt>\n"
-"<p>Yazılım köylämälären üzgärtü öçen monda çirtäse. Ğädättägeçä yaraqlı yazılımnıñ mömkin bulğan köylämälären, terminal täräzäsendä eşçän birem adına --help östäp belep bula (ü.ö. kwebdesktop -help)</p>\n"
-"<p>kwebdesktop yazılımı öçen ber faydalı ürnäk. Ul östäl asyağına web bit sala. Bu yazılımnı sez uñdağı isemlektän saylap qullana alasız, läkin ul aldan birelgän web biten salaçaq. Anıñ web biten alıştırır öçen başta isemlektän kwebdesktop yazılımın saylağız da, monda çirtegez. İske adresnı (URL) yañağa üzgärtep web biten alıştırırğa mömkinlek birä torğan dialog açılır,</p>\n"
+"<p>Yazılım köylämälären üzgärtü öçen monda çirtäse. Ğädättägeçä yaraqlı "
+"yazılımnıñ mömkin bulğan köylämälären, terminal täräzäsendä eşçän birem adına "
+"--help östäp belep bula (ü.ö. kwebdesktop -help)</p>\n"
+"<p>kwebdesktop yazılımı öçen ber faydalı ürnäk. Ul östäl asyağına web bit sala. "
+"Bu yazılımnı sez uñdağı isemlektän saylap qullana alasız, läkin ul aldan "
+"birelgän web biten salaçaq. Anıñ web biten alıştırır öçen başta isemlektän "
+"kwebdesktop yazılımın saylağız da, monda çirtegez. İske adresnı (URL) yañağa "
+"üzgärtep web biten alıştırırğa mömkinlek birä torğan dialog açılır,</p>\n"
 "</qt>"
 
 #. i18n: file bgadvanced_ui.ui line 104
@@ -341,23 +394,45 @@ msgstr "Yañart"
 #, no-c-format
 msgid ""
 "<qt>\n"
-"<p>Select from this listbox the program you want to use to draw your desktop background.</p>\n"
-"<p>The <b>Program</b> column shows the name of the program.<br>\n"
-"The <b>Comment</b> column brings a short description.<br>\n"
-"The <b>Refresh</b> column indicates the time interval between redraws of the desktop.</p>\n"
-"<p>The <b>K Web Desktop</b> program (kwebdesktop) is worth noting: it draws a specified page of the web in your desktop. You can modify it, and the webpage it draws by selecting it here, then clicking on the <b>Modify</b> button.<br>\n"
-"You can also add new compliant programs. To do that, click on the <b>Add</b> button.<br>\n"
-"You can also remove programs from this list clicking on the <b>Remove</b> button. Please note that it does not remove the program from your system, it only removes it from the available options in this listbox.</p>\n"
+"<p>Select from this listbox the program you want to use to draw your desktop "
+"background.</p>\n"
+"<p>The <b>Program</b> column shows the name of the program."
+"<br>\n"
+"The <b>Comment</b> column brings a short description."
+"<br>\n"
+"The <b>Refresh</b> column indicates the time interval between redraws of the "
+"desktop.</p>\n"
+"<p>The <b>K Web Desktop</b> program (kwebdesktop) is worth noting: it draws a "
+"specified page of the web in your desktop. You can modify it, and the webpage "
+"it draws by selecting it here, then clicking on the <b>Modify</b> button."
+"<br>\n"
+"You can also add new compliant programs. To do that, click on the <b>Add</b> "
+"button."
+"<br>\n"
+"You can also remove programs from this list clicking on the <b>Remove</b> "
+"button. Please note that it does not remove the program from your system, it "
+"only removes it from the available options in this listbox.</p>\n"
 "</qt>"
 msgstr ""
 "<qt>\n"
-"<p>Eş östäleneñ artyağın salu öçen faydalanırğa telägän yazılımnı isemlektän saylağız.</p>\n"
-"<p>Yazılımnıñ adı <b>Yazılım</b> buyında.<br>\n"
-"<b>Açıqlama</b> buyında qısqaça añlatma.<br>\n"
-"<b>Yañartu</b> buyı eş östälen yañadan salğan arada uzğan waqıt arasın kürsätä.</p>\n"
-"<p> <b>K Web Östäle</b> atlı yazılımı (kwebdesktop) berni tormıy: ul kürsätelgän web yazılımın eş östälegezgä sala. Anı häm ul sala torğan web biten monnan saylap, annarı <b>Üzgärtü</b> töymäsenä çirtep üzgärtä alasız.<br>\n"
-"Tıñlawçanraq yaña yazılımnar da östi alasız. Monıñ öçen <b>Östäw</b> töymäsenä basığız.<br>\n"
-"Yazılımlarnı <b>Alıp taşlaw</b> töymäsenä basıp alıp taşlıy da alasız.. Monıñ yazılımnı sistemığızdan alıp taşlamawın istä totığız, ul anı bu isemlekneñ mömkin bulğan saylanmalarınnan ğına alıp taşlıy.</p>\n"
+"<p>Eş östäleneñ artyağın salu öçen faydalanırğa telägän yazılımnı isemlektän "
+"saylağız.</p>\n"
+"<p>Yazılımnıñ adı <b>Yazılım</b> buyında."
+"<br>\n"
+"<b>Açıqlama</b> buyında qısqaça añlatma."
+"<br>\n"
+"<b>Yañartu</b> buyı eş östälen yañadan salğan arada uzğan waqıt arasın "
+"kürsätä.</p>\n"
+"<p> <b>K Web Östäle</b> atlı yazılımı (kwebdesktop) berni tormıy: ul "
+"kürsätelgän web yazılımın eş östälegezgä sala. Anı häm ul sala torğan web biten "
+"monnan saylap, annarı <b>Üzgärtü</b> töymäsenä çirtep üzgärtä alasız."
+"<br>\n"
+"Tıñlawçanraq yaña yazılımnar da östi alasız. Monıñ öçen <b>Östäw</b> "
+"töymäsenä basığız."
+"<br>\n"
+"Yazılımlarnı <b>Alıp taşlaw</b> töymäsenä basıp alıp taşlıy da alasız.. Monıñ "
+"yazılımnı sistemığızdan alıp taşlamawın istä totığız, ul anı bu isemlekneñ "
+"mömkin bulğan saylanmalarınnan ğına alıp taşlıy.</p>\n"
 "</qt>"
 
 #. i18n: file bgadvanced_ui.ui line 164
@@ -369,8 +444,16 @@ msgstr "Asyaq süräten yasaw öçen bu yazılımnı qullanası:"
 #. i18n: file bgadvanced_ui.ui line 167
 #: rc.cpp:53 rc.cpp:309
 #, no-c-format
-msgid "Check here if you want to allow a program to draw your desktop background. Below you can find the list of programs currently available for drawing the background. You may use one of the available programs, add new ones or modify the existing ones to fit your needs."
-msgstr "Yazılım eş östälegezneñ fonın alıştırsınmı-yuqmı ikänen monda tamğalağız. Asta artyaq salu öçen xäzer yaraqlı yazılımnarnıñ isemlegen taba alasız. Yaraqlı berär yazılımnı qullanırğa, yañaların salırğa yä ki bulğan berärsen üz kirägegezgä qarap üzgärtergä mömkinsez."
+msgid ""
+"Check here if you want to allow a program to draw your desktop background. "
+"Below you can find the list of programs currently available for drawing the "
+"background. You may use one of the available programs, add new ones or modify "
+"the existing ones to fit your needs."
+msgstr ""
+"Yazılım eş östälegezneñ fonın alıştırsınmı-yuqmı ikänen monda tamğalağız. Asta "
+"artyaq salu öçen xäzer yaraqlı yazılımnarnıñ isemlegen taba alasız. Yaraqlı "
+"berär yazılımnı qullanırğa, yañaların salırğa yä ki bulğan berärsen üz "
+"kirägegezgä qarap üzgärtergä mömkinsez."
 
 #. i18n: file bgadvanced_ui.ui line 177
 #: rc.cpp:56 rc.cpp:312
@@ -393,8 +476,12 @@ msgstr "Yazma &töse:"
 #. i18n: file bgadvanced_ui.ui line 244
 #: rc.cpp:70 rc.cpp:326
 #, no-c-format
-msgid "Click here to select the solid background color. Choose a different color from the background text color to assure readability."
-msgstr "Östälgä quyı artyaq töse saylaw öçen monda çirtegez. Uqışlı bulsın öçen artyaq yazması tösennän ayırmalı tös saylağız."
+msgid ""
+"Click here to select the solid background color. Choose a different color from "
+"the background text color to assure readability."
+msgstr ""
+"Östälgä quyı artyaq töse saylaw öçen monda çirtegez. Uqışlı bulsın öçen artyaq "
+"yazması tösennän ayırmalı tös saylağız."
 
 #. i18n: file bgadvanced_ui.ui line 252
 #: rc.cpp:73 rc.cpp:329
@@ -405,8 +492,16 @@ msgstr "&Yazma artında qullanası tös:"
 #. i18n: file bgadvanced_ui.ui line 255
 #: rc.cpp:76 rc.cpp:332
 #, no-c-format
-msgid "Check here if you want to use a solid background color. This is useful to ensure that the desktop text will be identifiable against all background colors and wallpapers, or in other words, that a background or wallpaper will not make a desktop text of a similar color difficult to read."
-msgstr "Quyı artyaq töse qullanırğa kiräkme-yuqmı ikänen monda tamğalağız. Eş östäle yazması artyaq tösläre belän tüşäwlär eçennän tanılmalı bulsın, başqaça äytkändä, artyaq yä ki tüşäw eş östäle belän berdäy töstä bulıp, uqılışnı awıraytmasın."
+msgid ""
+"Check here if you want to use a solid background color. This is useful to "
+"ensure that the desktop text will be identifiable against all background colors "
+"and wallpapers, or in other words, that a background or wallpaper will not make "
+"a desktop text of a similar color difficult to read."
+msgstr ""
+"Quyı artyaq töse qullanırğa kiräkme-yuqmı ikänen monda tamğalağız. Eş östäle "
+"yazması artyaq tösläre belän tüşäwlär eçennän tanılmalı bulsın, başqaça "
+"äytkändä, artyaq yä ki tüşäw eş östäle belän berdäy töstä bulıp, uqılışnı "
+"awıraytmasın."
 
 #. i18n: file bgadvanced_ui.ui line 263
 #: rc.cpp:79 rc.cpp:335
@@ -417,8 +512,13 @@ msgstr "&Külägäläw mömkin"
 #. i18n: file bgadvanced_ui.ui line 266
 #: rc.cpp:82 rc.cpp:338
 #, no-c-format
-msgid "Check here to enable a shadow outline around the desktop font. This also improves the readability of the desktop text against backgrounds of a similar color."
-msgstr "Eş östäle xäreflären tiräli külägäläw mömkinlegen monda tamğalağız. Ul eş östäle tekstınıñ berdäy töstäge fonda uqılışın da yaxşırtır."
+msgid ""
+"Check here to enable a shadow outline around the desktop font. This also "
+"improves the readability of the desktop text against backgrounds of a similar "
+"color."
+msgstr ""
+"Eş östäle xäreflären tiräli külägäläw mömkinlegen monda tamğalağız. Ul eş "
+"östäle tekstınıñ berdäy töstäge fonda uqılışın da yaxşırtır."
 
 #. i18n: file bgadvanced_ui.ui line 274
 #: rc.cpp:85 rc.cpp:341
@@ -429,8 +529,12 @@ msgstr "&Sürät yazması öçen yullar:"
 #. i18n: file bgadvanced_ui.ui line 280
 #: rc.cpp:88 rc.cpp:92 rc.cpp:344 rc.cpp:348
 #, no-c-format
-msgid "Choose here the maximum number of text lines below an icon on the desktop. Longer text will be truncated at the end of the last line."
-msgstr "Eş östälendäge sürät astındağı yazmalarnıñ ozınlıq çikläwen monda bilgelägez. Ozınraq bulğan yazma soñğı yul azağında kiseler."
+msgid ""
+"Choose here the maximum number of text lines below an icon on the desktop. "
+"Longer text will be truncated at the end of the last line."
+msgstr ""
+"Eş östälendäge sürät astındağı yazmalarnıñ ozınlıq çikläwen monda bilgelägez. "
+"Ozınraq bulğan yazma soñğı yul azağında kiseler."
 
 #. i18n: file bgadvanced_ui.ui line 305
 #: rc.cpp:96 rc.cpp:352
@@ -441,8 +545,13 @@ msgstr "Auto"
 #. i18n: file bgadvanced_ui.ui line 314
 #: rc.cpp:99 rc.cpp:105 rc.cpp:355 rc.cpp:361
 #, no-c-format
-msgid "Choose here the maximum width of text lines (in pixel) below an icon on the desktop. If set to 'Auto' a default width based on the current font is used."
-msgstr "Eş östälendäge sürät astındağı yazmalarnıñ ozınlıq çikläwen monda bilgelägez (piksellärdä). 'Üzennän' quyılsa ğämäldäge xärefkä nigezlängän ğädäti ozınlıq qullanılır."
+msgid ""
+"Choose here the maximum width of text lines (in pixel) below an icon on the "
+"desktop. If set to 'Auto' a default width based on the current font is used."
+msgstr ""
+"Eş östälendäge sürät astındağı yazmalarnıñ ozınlıq çikläwen monda bilgelägez "
+"(piksellärdä). 'Üzennän' quyılsa ğämäldäge xärefkä nigezlängän ğädäti ozınlıq "
+"qullanılır."
 
 #. i18n: file bgadvanced_ui.ui line 322
 #: rc.cpp:102 rc.cpp:358
@@ -465,8 +574,15 @@ msgstr "Asyaq öçen alxäter küläme"
 #. i18n: file bgadvanced_ui.ui line 355
 #: rc.cpp:114 rc.cpp:120 rc.cpp:370 rc.cpp:376
 #, no-c-format
-msgid "In this box you can enter how much memory KDE should use for caching the background(s). If you have different backgrounds for the different desktops caching can make switching desktops smoother at the expense of higher memory use."
-msgstr "Bu qırda, tüşäw öçen alxäter qullanasın külämen monda bilgeläp bula. Törle öställär öçen törle tüşäwlär qullanasız ikän, alxäter çığımı bik küp bulğanda öställär yomşağraq almaştırırğa yärdäm itär."
+msgid ""
+"In this box you can enter how much memory KDE should use for caching the "
+"background(s). If you have different backgrounds for the different desktops "
+"caching can make switching desktops smoother at the expense of higher memory "
+"use."
+msgstr ""
+"Bu qırda, tüşäw öçen alxäter qullanasın külämen monda bilgeläp bula. Törle "
+"öställär öçen törle tüşäwlär qullanasız ikän, alxäter çığımı bik küp bulğanda "
+"öställär yomşağraq almaştırırğa yärdäm itär."
 
 #. i18n: file bgadvanced_ui.ui line 363
 #: rc.cpp:117 rc.cpp:373
@@ -483,8 +599,13 @@ msgstr "&Östäl köyläwläre:"
 #. i18n: file bgdialog_ui.ui line 41
 #: rc.cpp:126 rc.cpp:132 rc.cpp:382 rc.cpp:388
 #, no-c-format
-msgid "Choose the desktop you wish to configure the background for from this list. If you want the same background settings to be applied to all desktops select the \"All Desktops\" option."
-msgstr "İsemlektän fonın köylärgä telägän eş östälen saylağız. Böten eş öställäre ber ük töstä bulsın öçen \"Bar Öställär\" saylağız."
+msgid ""
+"Choose the desktop you wish to configure the background for from this list. If "
+"you want the same background settings to be applied to all desktops select the "
+"\"All Desktops\" option."
+msgstr ""
+"İsemlektän fonın köylärgä telägän eş östälen saylağız. Böten eş öställäre ber "
+"ük töstä bulsın öçen \"Bar Öställär\" saylağız."
 
 #. i18n: file bgdialog_ui.ui line 47
 #: rc.cpp:129 rc.cpp:385
@@ -501,8 +622,11 @@ msgstr "Monitor"
 #. i18n: file bgdialog_ui.ui line 118
 #: rc.cpp:138 rc.cpp:394
 #, no-c-format
-msgid "This picture of a monitor contains a preview of what the current settings will look like on your desktop."
-msgstr "Bu monitor räseme eş östälen ağımdağı köyläwlärneñ ni räweşle kürenüen sürätli"
+msgid ""
+"This picture of a monitor contains a preview of what the current settings will "
+"look like on your desktop."
+msgstr ""
+"Bu monitor räseme eş östälen ağımdağı köyläwlärneñ ni räweşle kürenüen sürätli"
 
 #. i18n: file bgdialog_ui.ui line 163
 #: rc.cpp:141 rc.cpp:397
@@ -513,14 +637,27 @@ msgstr "Östämä Caylawlar"
 #. i18n: file bgdialog_ui.ui line 166
 #: rc.cpp:144 rc.cpp:400
 #, no-c-format
-msgid "Click this button to set the icon text colors and shadow, set up a program to run for the background picture or control the size of the background cache."
-msgstr "Sürät yazması töslären, artyaq süräten bilgeläw yä ki tüşäw öçen alxäter külämen bilgeläw öçen eşlätelä torğan yazılımnı salu öçen bu töymägä çirtegez."
+msgid ""
+"Click this button to set the icon text colors and shadow, set up a program to "
+"run for the background picture or control the size of the background cache."
+msgstr ""
+"Sürät yazması töslären, artyaq süräten bilgeläw yä ki tüşäw öçen alxäter "
+"külämen bilgeläw öçen eşlätelä torğan yazılımnı salu öçen bu töymägä çirtegez."
+
+#. i18n: file bgdialog_ui.ui line 221
+#: rc.cpp:147 rc.cpp:403
+#, no-c-format
+msgid "Get New Wallpapers"
+msgstr "Yaña Tüşäw Alu"
 
 #. i18n: file bgdialog_ui.ui line 224
 #: rc.cpp:150 rc.cpp:406
 #, no-c-format
-msgid "Click this button to give you a list of new wallpapers to download from the Internet."
-msgstr "İnternettan yaña tüşäwlär alıp salırğa isemlek alu öçen bu töymägä çirtegez."
+msgid ""
+"Click this button to give you a list of new wallpapers to download from the "
+"Internet."
+msgstr ""
+"İnternettan yaña tüşäwlär alıp salırğa isemlek alu öçen bu töymägä çirtegez."
 
 #. i18n: file bgdialog_ui.ui line 282
 #: rc.cpp:156 rc.cpp:412
@@ -535,30 +672,54 @@ msgid ""
 "<qt>You can choose here how a background picture is shown on the desktop:\n"
 "<ul>\n"
 "<li><em>Centered:</em> Center the picture on the desktop.</li>\n"
-" <li><em>Tiled:</em> Tile the picture beginning at the top left of the desktop, so the desktop is totally covered up.</li>\n"
-"<li><em>Center Tiled:</em> Center the picture on the desktop and then tile around it so that the background is totally covered up.</li>\n"
-"<li><em>Centered Maxpect:</em> Magnify the picture without distorting it until it fills either the width or height of the desktop, and then center it on the desktop.</li>\n"
-"<li><em>Scaled:</em> Magnify the picture, until the entire desktop is covered. This may result in some distortion of the picture.</li>\n"
-"<li><em>Centered Auto Fit:</em> If the picture fits the desktop this mode works like the Centered option. If the picture is larger than the desktop it is scaled down to fit while keeping the aspect ratio.</li>\n"
-"<li><em>Scale and Crop:</em> Magnify the picture without distorting it until it fills both the width and height of the desktop (cropping the picture if necessary), and then center it on the desktop.</li>\n"
+" "
+"<li><em>Tiled:</em> Tile the picture beginning at the top left of the desktop, "
+"so the desktop is totally covered up.</li>\n"
+"<li><em>Center Tiled:</em> Center the picture on the desktop and then tile "
+"around it so that the background is totally covered up.</li>\n"
+"<li><em>Centered Maxpect:</em> Magnify the picture without distorting it until "
+"it fills either the width or height of the desktop, and then center it on the "
+"desktop.</li>\n"
+"<li><em>Scaled:</em> Magnify the picture, until the entire desktop is covered. "
+"This may result in some distortion of the picture.</li>\n"
+"<li><em>Centered Auto Fit:</em> If the picture fits the desktop this mode works "
+"like the Centered option. If the picture is larger than the desktop it is "
+"scaled down to fit while keeping the aspect ratio.</li>\n"
+"<li><em>Scale and Crop:</em> Magnify the picture without distorting it until it "
+"fills both the width and height of the desktop (cropping the picture if "
+"necessary), and then center it on the desktop.</li>\n"
 "</ul></qt>"
 msgstr ""
 "<qt>Artyaq süräteneñ östäldä niçek kürenüen monda bilgeli alasız:\n"
 "<ul>\n"
 "<li><em>Üzäklängän:</em> Sürätne eş östälendä üzäklägez.</li>\n"
-" <li><em>Tüşälgän:</em> Sürät şaqmağın eş östäleneñ öske sul yağınnan başlap, böten eş östälen qaplarlıq itep salu.</li>\n"
-"<li><em>Urtadan şaqmaqlaw:</em> Sürätne eş östälendä üzäkläw häm annarı anı artyaq totaş qaplanırlıq itep şaqmaqlap çığu.</li>\n"
-"<li><em>Üzäklängän Maxpect:</em> Sürätne eş östäleneñ buyın yä ki iñen tutırırlıq itep bozmıyça zuraytu, annarı anı eş östälendä üzäkläw.</li>\n"
-"<li><em>Ereräytep:</em> Sürätne böten eş östäle tulğançı zuraytu. Bu oçraqta räsem beraz bozılırğa mömkin.</li>\n"
-"<li><em>Üzäkläp Üzennän Tutıru:</em> Sürät östälgä täñgäl kilsä, bu räweş Üzäklängän saylanması kebek eşli. Sürät eş östälennän zurraq bulsa, ul eş östälenä sıyu öçen täñgäl nisbättä keçeräytelä.</li>\n"
-"<li><em>Ereräyt tä Kis:</em> Sürätne eş östäleneñ buyın da iñen dä tutıru öçen bozmıyça zuraytu (kiräksä sürät kiselä), annarı anı eş östälendä üzäkläw.</li>\n"
+" "
+"<li><em>Tüşälgän:</em> Sürät şaqmağın eş östäleneñ öske sul yağınnan başlap, "
+"böten eş östälen qaplarlıq itep salu.</li>\n"
+"<li><em>Urtadan şaqmaqlaw:</em> Sürätne eş östälendä üzäkläw häm annarı anı "
+"artyaq totaş qaplanırlıq itep şaqmaqlap çığu.</li>\n"
+"<li><em>Üzäklängän Maxpect:</em> Sürätne eş östäleneñ buyın yä ki iñen "
+"tutırırlıq itep bozmıyça zuraytu, annarı anı eş östälendä üzäkläw.</li>\n"
+"<li><em>Ereräytep:</em> Sürätne böten eş östäle tulğançı zuraytu. Bu oçraqta "
+"räsem beraz bozılırğa mömkin.</li>\n"
+"<li><em>Üzäkläp Üzennän Tutıru:</em> Sürät östälgä täñgäl kilsä, bu räweş "
+"Üzäklängän saylanması kebek eşli. Sürät eş östälennän zurraq bulsa, ul eş "
+"östälenä sıyu öçen täñgäl nisbättä keçeräytelä.</li>\n"
+"<li><em>Ereräyt tä Kis:</em> Sürätne eş östäleneñ buyın da iñen dä tutıru öçen "
+"bozmıyça zuraytu (kiräksä sürät kiselä), annarı anı eş östälendä üzäkläw.</li>\n"
 "</ul></qt>"
 
 #. i18n: file bgdialog_ui.ui line 305
 #: rc.cpp:171 rc.cpp:427
 #, no-c-format
-msgid "If you have selected to use a background picture you can choose various methods of blending the background colors with the picture. The default option of \"No Blending\" means that the picture simply obscures the background colors below."
-msgstr "Qullanu öçen artyaq räseme saylağan bulsağız, artyaq töslären räsem belän qatnaştırunıñ berniçä alımın bilgeli alasız. Ğädäti saylanma (\"Qatnaştırmaw\") eş östäleneñ asqı töslären qaplıy ğına digän süz."
+msgid ""
+"If you have selected to use a background picture you can choose various methods "
+"of blending the background colors with the picture. The default option of \"No "
+"Blending\" means that the picture simply obscures the background colors below."
+msgstr ""
+"Qullanu öçen artyaq räseme saylağan bulsağız, artyaq töslären räsem belän "
+"qatnaştırunıñ berniçä alımın bilgeli alasız. Ğädäti saylanma (\"Qatnaştırmaw\") "
+"eş östäleneñ asqı töslären qaplıy ğına digän süz."
 
 #. i18n: file bgdialog_ui.ui line 324
 #: rc.cpp:175 rc.cpp:431
@@ -569,8 +730,12 @@ msgstr "Eş östäleneñ baştağı tösen bilgeläw öçen çirtegez."
 #. i18n: file bgdialog_ui.ui line 335
 #: rc.cpp:179 rc.cpp:435
 #, no-c-format
-msgid "Click to choose the secondary background color. If no secondary color is required by the pattern selected this button will be disabled."
-msgstr "Eş östäleneñ ikençe tösen bilgeläw öçen çirtegez. İkençe tös ürnäk saylaw arqılı quyılmağan bulsa, bu töymä kürenmäs."
+msgid ""
+"Click to choose the secondary background color. If no secondary color is "
+"required by the pattern selected this button will be disabled."
+msgstr ""
+"Eş östäleneñ ikençe tösen bilgeläw öçen çirtegez. İkençe tös ürnäk saylaw "
+"arqılı quyılmağan bulsa, bu töymä kürenmäs."
 
 #. i18n: file bgdialog_ui.ui line 345
 #: rc.cpp:182 rc.cpp:438
@@ -593,8 +758,12 @@ msgstr "Balans:"
 #. i18n: file bgdialog_ui.ui line 381
 #: rc.cpp:191 rc.cpp:194 rc.cpp:447 rc.cpp:450
 #, no-c-format
-msgid "You can use this slider to control the degree of blending. You can experiment by moving the slider and looking at the effects in the preview image."
-msgstr "Bu şudırmanı qatnaştıru däräcäsen köyläw öçen qullana alasız. Şudırmanı küçergäläp häm sürätneñ räweşen küzätep sınarğa mömkin."
+msgid ""
+"You can use this slider to control the degree of blending. You can experiment "
+"by moving the slider and looking at the effects in the preview image."
+msgstr ""
+"Bu şudırmanı qatnaştıru däräcäsen köyläw öçen qullana alasız. Şudırmanı "
+"küçergäläp häm sürätneñ räweşen küzätep sınarğa mömkin."
 
 #. i18n: file bgdialog_ui.ui line 417
 #: rc.cpp:197 rc.cpp:453
@@ -605,8 +774,12 @@ msgstr "Rollärne tiskäre itü"
 #. i18n: file bgdialog_ui.ui line 420
 #: rc.cpp:200 rc.cpp:456
 #, no-c-format
-msgid "For some types of blending, you can reverse the role of the background and the picture by checking this option."
-msgstr "Qatnaştırunıñ qayber törläre öçen artyaq belän sürät eşläwen bu saylanmanı bilgeläp tiskäreli alasız."
+msgid ""
+"For some types of blending, you can reverse the role of the background and the "
+"picture by checking this option."
+msgstr ""
+"Qatnaştırunıñ qayber törläre öçen artyaq belän sürät eşläwen bu saylanmanı "
+"bilgeläp tiskäreli alasız."
 
 #. i18n: file bgdialog_ui.ui line 497
 #: rc.cpp:216 rc.cpp:472
@@ -647,8 +820,16 @@ msgstr "&Caylaw..."
 #. i18n: file bgdialog_ui.ui line 558
 #: rc.cpp:234 rc.cpp:490
 #, no-c-format
-msgid "Click this button to select a set of images to be used as background pictures. One picture at a time will be shown for a specified amount of time, after which another image from the set will be shown. Images can be shown at random or in the order you specify them."
-msgstr "Artyaq süräte itep qullanu öçen sürätlär cıyılması saylaw öçen bu töymägä çirtegez. Bilgelängän waqıt arasında ber sürät, annarı cıyılmadağı ikençe sürät kürsäteler. Sürätlär oçraqlı tärtiptä yä ki üzegez bilgelägän tärtiptä kürsätelä ala."
+msgid ""
+"Click this button to select a set of images to be used as background pictures. "
+"One picture at a time will be shown for a specified amount of time, after which "
+"another image from the set will be shown. Images can be shown at random or in "
+"the order you specify them."
+msgstr ""
+"Artyaq süräte itep qullanu öçen sürätlär cıyılması saylaw öçen bu töymägä "
+"çirtegez. Bilgelängän waqıt arasında ber sürät, annarı cıyılmadağı ikençe sürät "
+"kürsäteler. Sürätlär oçraqlı tärtiptä yä ki üzegez bilgelägän tärtiptä "
+"kürsätelä ala."
 
 #. i18n: file bgwallpaper_ui.ui line 27
 #: rc.cpp:238 rc.cpp:494
@@ -679,3 +860,6 @@ msgstr "As&qaraq"
 #, no-c-format
 msgid "Move &Up"
 msgstr "Ös&käräk"
+
+#~ msgid "Overwrite"
+#~ msgstr "Östän Yaz"

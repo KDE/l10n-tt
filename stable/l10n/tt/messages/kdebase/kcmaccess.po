@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmaccess\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2005-03-22 15:39+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -86,20 +86,39 @@ msgid "Us&e customized bell"
 msgstr "Üzençä zil &qullanası"
 
 #: kcmaccess.cpp:194
-msgid "If this option is checked, the default system bell will be used. See the \"System Bell\" control module for how to customize the system bell. Normally, this is just a \"beep\"."
-msgstr "Bu saylanma bilgelängän bulsa, bar bulğan sistem qıñğırawı qullanılır. Sistem qıñğırawın köyläw ısulların beler öçen \"Sistem Qıñğırawı\" idärä bülegenä qara. Ğädättä ul ğädi \"biip\" tawışı ğına."
+msgid ""
+"If this option is checked, the default system bell will be used. See the "
+"\"System Bell\" control module for how to customize the system bell. Normally, "
+"this is just a \"beep\"."
+msgstr ""
+"Bu saylanma bilgelängän bulsa, bar bulğan sistem qıñğırawı qullanılır. Sistem "
+"qıñğırawın köyläw ısulların beler öçen \"Sistem Qıñğırawı\" idärä bülegenä "
+"qara. Ğädättä ul ğädi \"biip\" tawışı ğına."
 
 #: kcmaccess.cpp:197
-msgid "Check this option if you want to use a customized bell, playing a sound file. If you do this, you will probably want to turn off the system bell.<p> Please note that on slow machines this may cause a \"lag\" between the event causing the bell and the sound being played."
-msgstr "Tawış faylın uynawçı qıñğıraw qullanırğa teläsäñ, monı sayla. Monı eşlämäkçe isäñ, bälki sistem qıñğırawın sünderergä teliseñder.<p> Zínhar, iseñdä tot, äkren sanaqlarda qıñğıraw çaqırğan waqíğasınnan ber arağa soñ qala ala."
+msgid ""
+"Check this option if you want to use a customized bell, playing a sound file. "
+"If you do this, you will probably want to turn off the system bell."
+"<p> Please note that on slow machines this may cause a \"lag\" between the "
+"event causing the bell and the sound being played."
+msgstr ""
+"Tawış faylın uynawçı qıñğıraw qullanırğa teläsäñ, monı sayla. Monı eşlämäkçe "
+"isäñ, bälki sistem qıñğırawın sünderergä teliseñder."
+"<p> Zínhar, iseñdä tot, äkren sanaqlarda qıñğıraw çaqırğan waqíğasınnan ber "
+"arağa soñ qala ala."
 
 #: kcmaccess.cpp:204
 msgid "Sound &to play:"
 msgstr "Uynatası &tawış:"
 
 #: kcmaccess.cpp:209
-msgid "If the option \"Use customized bell\" is enabled, you can choose a sound file here. Click \"Browse...\" to choose a sound file using the file dialog."
-msgstr "\"Üzençä zil qullanası\" digän köylämä yanıq torsa, bonda tawış biremen saylap bula. \"Saylaw..\" digän töymägä çirtep, tawış biremen saylaw täräzäse açılaçaq."
+msgid ""
+"If the option \"Use customized bell\" is enabled, you can choose a sound file "
+"here. Click \"Browse...\" to choose a sound file using the file dialog."
+msgstr ""
+"\"Üzençä zil qullanası\" digän köylämä yanıq torsa, bonda tawış biremen saylap "
+"bula. \"Saylaw..\" digän töymägä çirtep, tawış biremen saylaw täräzäse "
+"açılaçaq."
 
 #: kcmaccess.cpp:226
 msgid "Visible Bell"
@@ -110,27 +129,36 @@ msgid "&Use visible bell"
 msgstr "Küreneşle zil &qullanası"
 
 #: kcmaccess.cpp:234
-msgid "This option will turn on the \"visible bell\", i.e. a visible notification shown every time that normally just a bell would occur. This is especially useful for deaf people."
-msgstr "Bu köylämä yanıq torğanda \"kürenmäle zil\" açıla, yäğni naşar işetkän keşelär öçen tawışlı belderügä östämä belderü bulaçaq."
+msgid ""
+"This option will turn on the \"visible bell\", i.e. a visible notification "
+"shown every time that normally just a bell would occur. This is especially "
+"useful for deaf people."
+msgstr ""
+"Bu köylämä yanıq torğanda \"kürenmäle zil\" açıla, yäğni naşar işetkän keşelär "
+"öçen tawışlı belderügä östämä belderü bulaçaq."
 
 #: kcmaccess.cpp:240
 msgid "I&nvert screen"
 msgstr "Küräkne &kire it"
 
 #: kcmaccess.cpp:243
-msgid "All screen colors will be inverted for the amount of time specified below."
-msgstr "Asqaraq bilgelängän waqıt eçendä bar töslär kiregä äyländerelgän bulaçaq."
+msgid ""
+"All screen colors will be inverted for the amount of time specified below."
+msgstr ""
+"Asqaraq bilgelängän waqıt eçendä bar töslär kiregä äyländerelgän bulaçaq."
 
 #: kcmaccess.cpp:245
 msgid "F&lash screen"
 msgstr "Küräkne &cemeldä"
 
 #: kcmaccess.cpp:247
-msgid "The screen will turn to a custom color for the amount of time specified below."
+msgid ""
+"The screen will turn to a custom color for the amount of time specified below."
 msgstr "Bonda äytelgän ara eçendä küräk bu üzençä tös belän töslängän bulaçaq."
 
 #: kcmaccess.cpp:253
-msgid "Click here to choose the color used for the \"flash screen\" visible bell."
+msgid ""
+"Click here to choose the color used for the \"flash screen\" visible bell."
 msgstr "Küräkne cemeldüçe kürenmäle zil öçen qullanılğan tös saylaw."
 
 #: kcmaccess.cpp:260
@@ -142,7 +170,8 @@ msgid " msec"
 msgstr " msek"
 
 #: kcmaccess.cpp:263
-msgid "Here you can customize the duration of the \"visible bell\" effect being shown."
+msgid ""
+"Here you can customize the duration of the \"visible bell\" effect being shown."
 msgstr "\"Kürengän zil\" digän närsäneñ eşläw ozınlığın bonda köyläp bula."
 
 #: kcmaccess.cpp:280
@@ -221,11 +250,14 @@ msgstr "Qılanış qullanğanda kileşü sarağan täräzä kürsätü"
 
 #: kcmaccess.cpp:360
 msgid ""
-"KDE will show a confirmation dialog whenever a gesture is used if this option is checked.\n"
-"Be carefull do know what yo do if you uncheck it as then the AccessX settings will always be applied without confirmation."
+"KDE will show a confirmation dialog whenever a gesture is used if this option "
+"is checked.\n"
+"Be carefull do know what yo do if you uncheck it as then the AccessX settings "
+"will always be applied without confirmation."
 msgstr ""
 "Bu köylämä yanıq torsa, qılanış qılğanda KDE kileşü täräzäsen kürsätäçäk.\n"
-"Anı sünderep quyğanda saq bulası, çönki ul çaqta AccessX caylawları kileşü çığarmíça aşıralaçaq."
+"Anı sünderep quyğanda saq bulası, çönki ul çaqta AccessX caylawları kileşü "
+"çığarmíça aşıralaçaq."
 
 #: kcmaccess.cpp:380
 msgid "&Keyboard"

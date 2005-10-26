@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase libtaskmanager\n"
-"POT-Creation-Date: 2005-06-18 01:29+0200\n"
+"POT-Creation-Date: 2005-05-08 10:22+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,78 +12,76 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: taskmanager.cpp:805
+#: taskmanager.cpp:532
 msgid "modified"
 msgstr "üzgärelde"
 
-#: taskrmbmenu.cpp:69
-msgid "Ad&vanced"
-msgstr "Kiñäy&tep"
+#: taskrmbmenu.cpp:61
+msgid "&Always on Top"
+msgstr ""
 
-#: taskrmbmenu.cpp:74
+#: taskrmbmenu.cpp:66
 msgid "To &Desktop"
 msgstr "Ös&tälgä"
 
-#: taskrmbmenu.cpp:78
+#: taskrmbmenu.cpp:70
 msgid "&To Current Desktop"
 msgstr "&Biredäge Östälgä"
 
-#: taskrmbmenu.cpp:89
-msgid "&Move"
-msgstr "&Küçer"
-
-#: taskrmbmenu.cpp:92
-msgid "Re&size"
-msgstr "Ülçä&me"
-
-#: taskrmbmenu.cpp:95
+#: taskrmbmenu.cpp:75
 msgid "Mi&nimize"
 msgstr "&Törep quy"
 
-#: taskrmbmenu.cpp:99
+#: taskrmbmenu.cpp:77
 msgid "Ma&ximize"
 msgstr "&Cäyep quy"
 
-#: taskrmbmenu.cpp:103
+#: taskrmbmenu.cpp:79
 msgid "&Shade"
 msgstr "&Külägäle"
 
-#: taskrmbmenu.cpp:136
+#: taskrmbmenu.cpp:108
 msgid "All to &Desktop"
 msgstr "Barın &da Östälgä"
 
-#: taskrmbmenu.cpp:138
+#: taskrmbmenu.cpp:110
 msgid "All &to Current Desktop"
 msgstr "Barın da Biredäge Ös&tälgä"
 
-#: taskrmbmenu.cpp:153
+#: taskrmbmenu.cpp:124
 msgid "Mi&nimize All"
 msgstr "Barın &Törep quy"
 
-#: taskrmbmenu.cpp:166
+#: taskrmbmenu.cpp:135
 msgid "Ma&ximize All"
 msgstr "Barın &Cäyep quy"
 
-#: taskrmbmenu.cpp:179
+#: taskrmbmenu.cpp:146
 msgid "&Restore All"
 msgstr "Barın da To&rğız"
 
-#: taskrmbmenu.cpp:194
+#: taskrmbmenu.cpp:170
 msgid "&Close All"
 msgstr "Barın da &Yab"
 
-#: taskrmbmenu.cpp:205
-msgid "Keep &Above Others"
-msgstr "Başqalar &Östendä Bul"
-
-#: taskrmbmenu.cpp:210
-msgid "Keep &Below Others"
-msgstr "Başqalar &Astında Bul"
-
-#: taskrmbmenu.cpp:215
-msgid "&Fullscreen"
-msgstr "&Tulı ekranğa"
-
-#: taskrmbmenu.cpp:232 taskrmbmenu.cpp:253
+#: taskrmbmenu.cpp:178 taskrmbmenu.cpp:199
 msgid "&All Desktops"
 msgstr "&Bar Öställär"
+
+#~ msgid "Ad&vanced"
+#~ msgstr "Kiñäy&tep"
+
+#~ msgid "&Move"
+#~ msgstr "&Küçer"
+
+#~ msgid "Re&size"
+#~ msgstr "Ülçä&me"
+
+#~ msgid "Keep &Above Others"
+#~ msgstr "Başqalar &Östendä Bul"
+
+#~ msgid "Keep &Below Others"
+#~ msgstr "Başqalar &Astında Bul"
+
+#~ msgid "&Fullscreen"
+#~ msgstr "&Tulı ekranğa"

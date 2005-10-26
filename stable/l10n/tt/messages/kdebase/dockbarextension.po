@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase dockbarextension\n"
-"POT-Creation-Date: 2005-05-25 08:13+0200\n"
+"POT-Creation-Date: 2005-03-13 06:28+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,12 +12,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: dockbarextension.cpp:320
+#: dockbarextension.cpp:283
 #, c-format
 msgid "The following dockbar applets could not be started: %1"
 msgstr "Tağutirä aplletlär arasında boların cibärep bulmadı: %1"
 
-#: dockbarextension.cpp:320
+#: dockbarextension.cpp:283
 msgid "kicker: information"
 msgstr "kicker: information"
 
@@ -26,8 +26,12 @@ msgid "Enter Command Line for Applet %1.%2"
 msgstr "%1 Applet Öçen Boyırıq Yulın Kertü.%2"
 
 #: dockcontainer.cpp:151
-msgid "This applet does not behave correctly and the dockbar was unable to find the command line necessary to launch it the next time KDE starts up"
-msgstr "Bu applet ällä niçek eşli. KDE'nıñ kiläse cibärelü çağında ul appletne nindi köylämälär belän cibäräsen dä tağutirä taba almadı."
+msgid ""
+"This applet does not behave correctly and the dockbar was unable to find the "
+"command line necessary to launch it the next time KDE starts up"
+msgstr ""
+"Bu applet ällä niçek eşli. KDE'nıñ kiläse cibärelü çağında ul appletne nindi "
+"köylämälär belän cibäräsen dä tağutirä taba almadı."
 
 #: dockcontainer.cpp:174
 msgid "Kill This Applet"

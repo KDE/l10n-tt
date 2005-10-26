@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kabc_file\n"
-"POT-Creation-Date: 2005-07-11 01:29+0200\n"
+"POT-Creation-Date: 2005-01-20 01:21+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,19 +12,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: resourcefile.cpp:214 resourcefile.cpp:277 resourcefile.cpp:362
+#: resourcefile.cpp:212 resourcefile.cpp:275 resourcefile.cpp:360
 msgid "Unable to open file '%1'."
 msgstr "'%1' biremen açıp bulmadı."
 
-#: resourcefile.cpp:266
+#: resourcefile.cpp:264
 msgid "Unable to save file '%1'."
 msgstr "'%1' biremen saqlap bulmadı."
 
-#: resourcefile.cpp:358
+#: resourcefile.cpp:356
 msgid "Download failed in some way!"
 msgstr "İñderep bulmadı äytrep bula!"
 
-#: resourcefile.cpp:367
+#: resourcefile.cpp:365
 msgid "Problems during parsing file '%1'."
 msgstr "'%1' biremen uqıp çıqqanda qıyınlıqlar buldı."
 
