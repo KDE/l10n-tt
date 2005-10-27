@@ -6882,4 +6882,3 @@ msgstr "&Sorıtösmer"
 #: kpqtpage.cpp:151
 msgid "Ot&her"
 msgstr "&Başqa"
-

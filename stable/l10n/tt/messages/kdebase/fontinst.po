@@ -744,4 +744,3 @@ msgstr "Törgäk:"
 #: rc.cpp:37
 msgid "Printer file:"
 msgstr "Basaq bireme:"
-
