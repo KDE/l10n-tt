@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kate\n"
-"POT-Creation-Date: 2005-10-11 02:39+0200\n"
+"POT-Creation-Date: 2005-10-27 02:43+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -1049,87 +1049,87 @@ msgstr "Atalmağan Sessi"
 msgid "Session (%1)"
 msgstr "Sessi (%1)"
 
-#: app/katesession.cpp:359
+#: app/katesession.cpp:361
 msgid "Save Session?"
 msgstr "Sessine Saqlísımı?"
 
-#: app/katesession.cpp:366
+#: app/katesession.cpp:368
 msgid "Save current session?"
 msgstr "Biredäge sessine saqlísımı?"
 
-#: app/katesession.cpp:367
+#: app/katesession.cpp:369
 msgid "Do not ask again"
 msgstr "Sorama bütän"
 
-#: app/katesession.cpp:457
+#: app/katesession.cpp:459
 msgid "No session selected to open."
 msgstr "Açası sessi saylanmadı."
 
-#: app/katesession.cpp:457
+#: app/katesession.cpp:459
 msgid "No Session Selected"
 msgstr "Sessi Saylanmí Qaldı"
 
-#: app/katesession.cpp:529
+#: app/katesession.cpp:531
 msgid "Specify Name for Current Session"
 msgstr "Biredäge Sessi öçen Atama Birü"
 
-#: app/katesession.cpp:529 app/katesession.cpp:547 app/katesession.cpp:822
+#: app/katesession.cpp:531 app/katesession.cpp:549 app/katesession.cpp:824
 msgid "Session name:"
 msgstr "Sessi adı:"
 
-#: app/katesession.cpp:536
+#: app/katesession.cpp:538
 msgid "To save a new session, you must specify a name."
 msgstr "Yaña sessine saqlaw öçen, anı atísı bar äle."
 
-#: app/katesession.cpp:536 app/katesession.cpp:554 app/katesession.cpp:829
+#: app/katesession.cpp:538 app/katesession.cpp:556 app/katesession.cpp:831
 msgid "Missing Session Name"
 msgstr "Sessi Adı Yuq"
 
-#: app/katesession.cpp:547
+#: app/katesession.cpp:549
 msgid "Specify New Name for Current Session"
 msgstr "Biredäge Sessi öçen Yaña Atama Birü"
 
-#: app/katesession.cpp:554 app/katesession.cpp:829
+#: app/katesession.cpp:556 app/katesession.cpp:831
 msgid "To save a session, you must specify a name."
 msgstr "Sessine saqlaw öçen, anı atísı bar äle."
 
-#: app/katesession.cpp:593
+#: app/katesession.cpp:595
 msgid "Session Chooser"
 msgstr "Sessi Saylağıç"
 
-#: app/katesession.cpp:598 app/katesession.cpp:689
+#: app/katesession.cpp:600 app/katesession.cpp:691
 msgid "Open Session"
 msgstr "Sessi Açu"
 
-#: app/katesession.cpp:599
+#: app/katesession.cpp:601
 msgid "New Session"
 msgstr "Yaña Sessi"
 
-#: app/katesession.cpp:617 app/katesession.cpp:706 app/katesession.cpp:768
+#: app/katesession.cpp:619 app/katesession.cpp:708 app/katesession.cpp:770
 msgid "Session Name"
 msgstr "Sessi Adı"
 
-#: app/katesession.cpp:618 app/katesession.cpp:707 app/katesession.cpp:769
+#: app/katesession.cpp:620 app/katesession.cpp:709 app/katesession.cpp:771
 msgid "Open Documents"
 msgstr "İstälek Açu"
 
-#: app/katesession.cpp:634
+#: app/katesession.cpp:636
 msgid "&Always use this choice"
 msgstr "&Barçaqta da bu saylawnı qullanası"
 
-#: app/katesession.cpp:694
+#: app/katesession.cpp:696
 msgid "&Open"
 msgstr "&Aç"
 
-#: app/katesession.cpp:753
+#: app/katesession.cpp:755
 msgid "Manage Sessions"
 msgstr "Sessilär İdäräse"
 
-#: app/katesession.cpp:782
+#: app/katesession.cpp:784
 msgid "&Rename..."
 msgstr "&İsem quşu..."
 
-#: app/katesession.cpp:822
+#: app/katesession.cpp:824
 msgid "Specify New Name for Session"
 msgstr "Sessigä Yaña Atama Birü"
 
