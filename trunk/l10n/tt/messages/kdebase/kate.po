@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kate\n"
-"POT-Creation-Date: 2005-10-27 02:43+0200\n"
+"POT-Creation-Date: 2005-11-01 02:39+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -20,23 +20,23 @@ msgstr "'%1' boyırığın eşlätep bulmadı."
 msgid "Kate External Tools"
 msgstr "Kate öçen Tışqı Qoral"
 
-#: app/kateexternaltools.cpp:428
+#: app/kateexternaltools.cpp:432
 msgid "Edit External Tool"
 msgstr "Tışqı Qoral Üzgärtü"
 
-#: app/kateexternaltools.cpp:442
+#: app/kateexternaltools.cpp:446
 msgid "&Label:"
 msgstr "&Yazma:"
 
-#: app/kateexternaltools.cpp:447
+#: app/kateexternaltools.cpp:451
 msgid "The name will be displayed in the 'Tools->External' menu"
 msgstr "İsem 'Qorallar->Tışqı' saylağında kürsäteläçäk."
 
-#: app/kateexternaltools.cpp:457
+#: app/kateexternaltools.cpp:461
 msgid "S&cript:"
 msgstr "Ämerle&k:"
 
-#: app/kateexternaltools.cpp:462
+#: app/kateexternaltools.cpp:466
 msgid ""
 "<p>The script to execute to invoke the tool. The script is passed to /bin/sh "
 "for execution. The following macros will be expanded:</p>"
@@ -64,11 +64,11 @@ msgstr ""
 "<li><code>%selection</code> - xäzerge küreneştä saylanğan tekst."
 "<li><code>%text</code> - xäzerge dokumentnıñ tekstı.</ul>"
 
-#: app/kateexternaltools.cpp:480
+#: app/kateexternaltools.cpp:484
 msgid "&Executable:"
 msgstr "&Eşçän:"
 
-#: app/kateexternaltools.cpp:485
+#: app/kateexternaltools.cpp:489
 msgid ""
 "The executable used by the command. This is used to check if a tool should be "
 "displayed; if not set, the first word of <em>command</em> will be used."
@@ -76,11 +76,11 @@ msgstr ""
 "Bu boyırıq qullanğan eşçän. Qoralnıñ kürsäteläçägen tikşerer öçen qullanıla. "
 "Quyılğan bulmasa, <em>boyırıq</em>'nıñ berençe süze qullanılaçaq"
 
-#: app/kateexternaltools.cpp:491
+#: app/kateexternaltools.cpp:495
 msgid "&Mime types:"
 msgstr "&MIME töre:"
 
-#: app/kateexternaltools.cpp:496
+#: app/kateexternaltools.cpp:500
 msgid ""
 "A semicolon-separated list of mime types for which this tool should be "
 "available; if this is left empty, the tool is always available. To choose from "
@@ -90,27 +90,27 @@ msgstr ""
 "qalsa, qoral härwaqıt qullanırlıq bulır. Bilgele mime törlärdan saylar öçen, "
 "uñdağı töymägä bas."
 
-#: app/kateexternaltools.cpp:505
+#: app/kateexternaltools.cpp:509
 msgid "Click for a dialog that can help you creating a list of mimetypes."
 msgstr "Mime törlär tezmäsen yasarğa bulışa alğan dialog açar öçen monda bas."
 
-#: app/kateexternaltools.cpp:509
+#: app/kateexternaltools.cpp:513
 msgid "&Save:"
 msgstr "&Saqla:"
 
-#: app/kateexternaltools.cpp:513
+#: app/kateexternaltools.cpp:517
 msgid "None"
 msgstr "Yuq"
 
-#: app/kateexternaltools.cpp:513
+#: app/kateexternaltools.cpp:517
 msgid "Current Document"
 msgstr "Biredäge İstälek"
 
-#: app/kateexternaltools.cpp:513
+#: app/kateexternaltools.cpp:517
 msgid "All Documents"
 msgstr "Bar İstäleklär"
 
-#: app/kateexternaltools.cpp:517
+#: app/kateexternaltools.cpp:521
 msgid ""
 "You can elect to save the current or all [modified] documents prior to running "
 "the command. This is helpful if you want to pass URLs to an application like, "
@@ -120,11 +120,11 @@ msgstr ""
 "dokumentlar saqlawnı saylí alasıñ. Bu, sin URL'larnı FTP klient kebek "
 "eşçännärgä cibärergä telägän çaqta faydalı bula ala."
 
-#: app/kateexternaltools.cpp:524
+#: app/kateexternaltools.cpp:528
 msgid "&Command line name:"
 msgstr "&Boyırıq yul adı:"
 
-#: app/kateexternaltools.cpp:529
+#: app/kateexternaltools.cpp:533
 msgid ""
 "If you specify a name here, you can invoke the command from the view command "
 "lines with exttool-the_name_you_specified_here. Please do not use spaces or "
@@ -134,31 +134,31 @@ msgstr ""
 "exttool-bonda-kertelgän-ataması kertü aşa çaqırıp bula. Beläse: buşlıq belän "
 "sikerü bilgelären qullanmasqa."
 
-#: app/kateexternaltools.cpp:540
+#: app/kateexternaltools.cpp:544
 msgid "You must specify at least a name and a command"
 msgstr "Kimendä isem häm boyırıq saylarğa kiräk"
 
-#: app/kateexternaltools.cpp:549
+#: app/kateexternaltools.cpp:553
 msgid "Select the MimeTypes for which to enable this tool."
 msgstr "Bu qoral qaysı mime tiplar öçen sälätländeräçäk buluın sayla."
 
-#: app/kateexternaltools.cpp:551
+#: app/kateexternaltools.cpp:555
 msgid "Select Mime Types"
 msgstr "MIME-Törlär Saylaw"
 
-#: app/kateexternaltools.cpp:569
+#: app/kateexternaltools.cpp:573
 msgid "&New..."
 msgstr "&Yaña..."
 
-#: app/kateexternaltools.cpp:577
+#: app/kateexternaltools.cpp:581
 msgid "&Edit..."
 msgstr "&Üzgärtü..."
 
-#: app/kateexternaltools.cpp:581
+#: app/kateexternaltools.cpp:585
 msgid "Insert &Separator"
 msgstr "Ayı&rğıçnı Tıq"
 
-#: app/kateexternaltools.cpp:603
+#: app/kateexternaltools.cpp:607
 msgid ""
 "This list shows all the configured tools, represented by their menu text."
 msgstr "Bar bulğan qorallar tezmäse bu."
@@ -211,7 +211,7 @@ msgstr "İstäleklär"
 msgid "Filesystem Browser"
 msgstr "Birem Sistemen Küzätkeç"
 
-#: app/kategrepdialog.cpp:73 app/katemainwindow.cpp:223
+#: app/kategrepdialog.cpp:71 app/katemainwindow.cpp:223
 msgid "Find in Files"
 msgstr "Biremnärdä Ezläw"
 
@@ -712,39 +712,39 @@ msgstr "Quşılma Citäkçese"
 msgid "Editor"
 msgstr "Tözätkeç"
 
-#: app/kategrepdialog.cpp:104
+#: app/kategrepdialog.cpp:102
 msgid "Pattern:"
 msgstr "Ürnäk:"
 
-#: app/kategrepdialog.cpp:120
+#: app/kategrepdialog.cpp:118
 msgid "Case sensitive"
 msgstr "Bieklegen ayırıp"
 
-#: app/kategrepdialog.cpp:125
+#: app/kategrepdialog.cpp:123
 msgid "Regular expression"
 msgstr "Tärtip çağılışı"
 
-#: app/kategrepdialog.cpp:131
+#: app/kategrepdialog.cpp:129
 msgid "Template:"
 msgstr "Ürçetmä:"
 
-#: app/kategrepdialog.cpp:150
+#: app/kategrepdialog.cpp:148
 msgid "Files:"
 msgstr "Birem:"
 
-#: app/kategrepdialog.cpp:162
+#: app/kategrepdialog.cpp:160
 msgid "Folder:"
 msgstr "Törgäk:"
 
-#: app/kategrepdialog.cpp:180
+#: app/kategrepdialog.cpp:178
 msgid "Recursive"
 msgstr "Kire yaqqa"
 
-#: app/kategrepdialog.cpp:188 app/kategrepdialog.cpp:478
+#: app/kategrepdialog.cpp:186 app/kategrepdialog.cpp:476
 msgid "Find"
 msgstr "Tap"
 
-#: app/kategrepdialog.cpp:203
+#: app/kategrepdialog.cpp:201
 msgid ""
 "<p>Enter the expression you want to search for here."
 "<p>If 'regular expression' is unchecked, any non-space letters in your "
@@ -790,7 +790,7 @@ msgstr ""
 "bilgelär aşa ireşergä bula <code>\\#</code>."
 "<p>Tulı dokumentasíanı grep(1) dokumentasíada qara."
 
-#: app/kategrepdialog.cpp:226
+#: app/kategrepdialog.cpp:224
 msgid ""
 "Enter the file name pattern of the files to search here.\n"
 "You may give several patterns separated by commas."
@@ -798,7 +798,7 @@ msgstr ""
 "Monda ezlänäçäk fayllarnıñ isem ürnägen cí.\n"
 "Öter aşa berniçä ürnäk cíarğa bula."
 
-#: app/kategrepdialog.cpp:229
+#: app/kategrepdialog.cpp:227
 #, c-format
 msgid ""
 "You can choose a template for the pattern from the combo box\n"
@@ -810,22 +810,22 @@ msgstr ""
 "Qalıptağı %s string ürnäk cíu qırı belän almaşınıp,\n"
 " näticädä ezlänäçäk regular äytem birä."
 
-#: app/kategrepdialog.cpp:234
+#: app/kategrepdialog.cpp:232
 msgid "Enter the folder which contains the files in which you want to search."
 msgstr "Ezlärgä telägän fayllarnı totqan törgäkne kürsät."
 
-#: app/kategrepdialog.cpp:236
+#: app/kategrepdialog.cpp:234
 msgid "Check this box to search in all subfolders."
 msgstr "Böten astörgäklärdä dä ezlär öçen bu tartmanı bayraqla."
 
-#: app/kategrepdialog.cpp:238
+#: app/kategrepdialog.cpp:236
 msgid ""
 "If this option is enabled (the default), the search will be case sensitive."
 msgstr ""
 "Bu saylanma açıq bulsa (barbulğan), ezläw xäreflärneñ zur/keçelegenä sizüçän "
 "bulır."
 
-#: app/kategrepdialog.cpp:240
+#: app/kategrepdialog.cpp:238
 msgid ""
 "<p>If this is enabled, your pattern will be passed unmodified to <em>"
 "grep(1)</em>. Otherwise, all characters that are not letters will be escaped "
@@ -836,7 +836,7 @@ msgstr ""
 "'ğa elägäçäk. Yuğisä, xäref bulmağan barlıq bilgelär, grep alarnı ekspressia "
 "öleşe bulıp tanımas öçen, awış sızıq aşa ayırılır."
 
-#: app/kategrepdialog.cpp:245
+#: app/kategrepdialog.cpp:243
 msgid ""
 "The results of the grep run are listed here. Select a\n"
 "filename/line number combination and press Enter or doubleclick\n"
@@ -846,19 +846,19 @@ msgstr ""
 "saylap, Enter bas, yä ki, möxärrirdä turı kilgän yulnı\n"
 " kürsätterer öçen, maddägä qabat bas."
 
-#: app/kategrepdialog.cpp:330
+#: app/kategrepdialog.cpp:328
 msgid "You must enter an existing local folder in the 'Folder' entry."
 msgstr "'Törgäk' keremendä barlıqta bulğan cirle törgäk kürsätergä kiräk."
 
-#: app/kategrepdialog.cpp:331
+#: app/kategrepdialog.cpp:329
 msgid "Invalid Folder"
 msgstr "Yaraqsız Törgäk"
 
-#: app/kategrepdialog.cpp:482
+#: app/kategrepdialog.cpp:480
 msgid "<strong>Error:</strong><p>"
 msgstr "<strong>Xata:</strong><p>"
 
-#: app/kategrepdialog.cpp:482
+#: app/kategrepdialog.cpp:480
 msgid "Grep Tool Error"
 msgstr "Grep Qoral Xatası"
 

@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs katepart\n"
-"POT-Creation-Date: 2005-10-24 02:42+0200\n"
+"POT-Creation-Date: 2005-11-01 02:38+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -376,108 +376,108 @@ msgid ""
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
 
-#: part/katesearch.cpp:70
+#: part/katesearch.cpp:72
 msgid "Look up the first occurrence of a piece of text or regular expression."
 msgstr "Ezlängän yazma yä ki tärtip çağılıçınıñ berençe tabıluın qaraw."
 
-#: part/katesearch.cpp:72
+#: part/katesearch.cpp:74
 msgid "Look up the next occurrence of the search phrase."
 msgstr "Ezlängän närsäneñ kiläse tabıluın qaraw."
 
-#: part/katesearch.cpp:74
+#: part/katesearch.cpp:76
 msgid "Look up the previous occurrence of the search phrase."
 msgstr "Ezlängän närsäneñ ütkän tabıluın qaraw."
 
-#: part/katesearch.cpp:76
+#: part/katesearch.cpp:78
 msgid ""
 "Look up a piece of text or regular expression and replace the result with some "
 "given text."
 msgstr "Ezlängän yazma yä ki tärtip çağılıçın äytelgän yazma belän almaştıru."
 
-#: part/katesearch.cpp:327
+#: part/katesearch.cpp:329
 msgid "Search string '%1' not found!"
 msgstr "'%1' yazması tabılmadı!"
 
-#: part/katesearch.cpp:329 part/katesearch.cpp:494
+#: part/katesearch.cpp:331 part/katesearch.cpp:496
 msgid "Find"
 msgstr "Tap"
 
-#: part/katesearch.cpp:349 part/katesearch.cpp:367 part/katesearch.cpp:471
+#: part/katesearch.cpp:351 part/katesearch.cpp:369 part/katesearch.cpp:473
 #, c-format
 msgid ""
 "_n: %n replacement made.\n"
 "%n replacements made."
 msgstr "%n almaştıru yasaldı."
 
-#: part/katesearch.cpp:475
+#: part/katesearch.cpp:477
 msgid "End of document reached."
 msgstr "İstälek azağına çıqtıq."
 
-#: part/katesearch.cpp:476
+#: part/katesearch.cpp:478
 msgid "Beginning of document reached."
 msgstr "İstälek başına citkän."
 
-#: part/katesearch.cpp:481
+#: part/katesearch.cpp:483
 msgid "End of selection reached."
 msgstr "Saylanunıñ azağına citkän."
 
-#: part/katesearch.cpp:482
+#: part/katesearch.cpp:484
 msgid "Beginning of selection reached."
 msgstr "Saylanu başı kiñäytelgän."
 
-#: part/katesearch.cpp:486
+#: part/katesearch.cpp:488
 msgid "Continue from the beginning?"
 msgstr "Başınnan dawam itäseme?"
 
-#: part/katesearch.cpp:487
+#: part/katesearch.cpp:489
 msgid "Continue from the end?"
 msgstr "Azağınnan dawam itäseme?"
 
-#: part/katesearch.cpp:495
+#: part/katesearch.cpp:497
 msgid "&Stop"
 msgstr "&Tuqta"
 
-#: part/katesearch.cpp:695
+#: part/katesearch.cpp:721
 msgid "Replace Confirmation"
 msgstr "Almaştıru belän Kileşü"
 
-#: part/katesearch.cpp:697
+#: part/katesearch.cpp:723
 msgid "Replace &All"
 msgstr "&Barın Almaştır"
 
-#: part/katesearch.cpp:697
+#: part/katesearch.cpp:723
 msgid "Re&place && Close"
 msgstr "Almaştır da Ya&p"
 
-#: part/katesearch.cpp:697
+#: part/katesearch.cpp:723
 msgid "&Replace"
 msgstr "&Almaştır"
 
-#: part/katesearch.cpp:699
+#: part/katesearch.cpp:725
 msgid "&Find Next"
 msgstr "&Kiläsen Tap"
 
-#: part/katesearch.cpp:704
+#: part/katesearch.cpp:730
 msgid "Found an occurrence of your search term. What do you want to do?"
 msgstr "Ezlängäne tabıldı. Ni eşlise?"
 
-#: part/katesearch.cpp:751
+#: part/katesearch.cpp:782
 msgid "Usage: find[:[bcersw]] PATTERN"
 msgstr "Qullanu: find[:[bcersw]] ÜRNÄK"
 
-#: part/katesearch.cpp:763
+#: part/katesearch.cpp:794
 msgid "Usage: ifind[:[bcrs]] PATTERN"
 msgstr "Qullanu: ifind[:[bcrs]] ÜRNÄK"
 
-#: part/katesearch.cpp:817
+#: part/katesearch.cpp:848
 msgid "Usage: replace[:[bceprsw]] PATTERN [REPLACEMENT]"
 msgstr "Qullanu: replace[:[bceprsw]] ÜRNÄK [ALMAŞTIRMA]"
 
-#: part/katesearch.cpp:851
+#: part/katesearch.cpp:882
 msgid "<p>Usage: <code>find[:bcersw] PATTERN</code></p>"
 msgstr "<p>Qullanu: <code>find[:bcersw] ÜRNÄK</code></p>"
 
-#: part/katesearch.cpp:854
+#: part/katesearch.cpp:885
 msgid ""
 "<p>Usage: <code>ifind:[:bcrs] PATTERN</code>"
 "<br>ifind does incremental or 'as-you-type' search</p>"
@@ -485,11 +485,11 @@ msgstr ""
 "<p>Qullanu: <code>ifind:[:bcrs] ÜRNÄK</code>"
 "<br>ifind digäne artıp yä 'kertelgänçä' ezläw yasí</p>"
 
-#: part/katesearch.cpp:858
+#: part/katesearch.cpp:889
 msgid "<p>Usage: <code>replace[:bceprsw] PATTERN REPLACEMENT</code></p>"
 msgstr "<p>Qullanu: <code>replace[:bceprsw] ÜRNÄK ALMAŞTIRMA</code></p>"
 
-#: part/katesearch.cpp:861
+#: part/katesearch.cpp:892
 msgid ""
 "<h4><caption>Options</h4>"
 "<p><b>b</b> - Search backward"
@@ -503,7 +503,7 @@ msgstr ""
 "<br><b>r</b> - Ürnäkne tärtip çağılışı itep sanísı"
 "<br><b>s</b> - Olı/keçe ayırıp ezläw"
 
-#: part/katesearch.cpp:870
+#: part/katesearch.cpp:901
 msgid ""
 "<br><b>e</b> - Search in selected text only"
 "<br><b>w</b> - Search whole words only"
@@ -511,7 +511,7 @@ msgstr ""
 "<br><b>e</b> - Yazmanıñ saylanğan oleşendä genä ezlise"
 "<br><b>w</b> - Tulı süzlär genä ezlise"
 
-#: part/katesearch.cpp:876
+#: part/katesearch.cpp:907
 msgid ""
 "<br><b>p</b> - Prompt for replace</p>"
 "<p>If REPLACEMENT is not present, an empty string is used.</p>"
@@ -765,7 +765,7 @@ msgstr ""
 msgid "Close Nevertheless"
 msgstr "Aña Qaramíça Yap"
 
-#: part/katedocument.cpp:4240 part/katedocument.cpp:4903 part/kateview.cpp:867
+#: part/katedocument.cpp:4240 part/katedocument.cpp:4900 part/kateview.cpp:867
 msgid "Save File"
 msgstr "Biremne Saqla"
 
@@ -773,7 +773,7 @@ msgstr "Biremne Saqla"
 msgid "Save failed"
 msgstr "Saqlap bulmadı"
 
-#: part/katedialogs.cpp:1603 part/katedocument.cpp:4311
+#: part/katedialogs.cpp:1606 part/katedocument.cpp:4311
 msgid "What do you want to do?"
 msgstr "Ni eşlise kilä?"
 
@@ -781,7 +781,7 @@ msgstr "Ni eşlise kilä?"
 msgid "File Was Changed on Disk"
 msgstr "Disk Eçendäge Birem Üzgärtelgän"
 
-#: part/katedialogs.cpp:1581 part/katedocument.cpp:4312
+#: part/katedialogs.cpp:1584 part/katedocument.cpp:4312
 msgid "&Reload File"
 msgstr "&Yañadan Yöklä"
 
@@ -789,28 +789,28 @@ msgstr "&Yañadan Yöklä"
 msgid "&Ignore Changes"
 msgstr "&Üzgäreşkä Qaramasqa"
 
-#: part/katedocument.cpp:4820
+#: part/katedocument.cpp:4817
 msgid "The file '%1' was modified by another program."
 msgstr "'%1' atlı birem başqa yazılımnan üzgärtelgän bulğan."
 
-#: part/katedocument.cpp:4823
+#: part/katedocument.cpp:4820
 msgid "The file '%1' was created by another program."
 msgstr "'%1' atlı birem başqa yazılımnan yasalğan bulğan."
 
-#: part/katedocument.cpp:4826
+#: part/katedocument.cpp:4823
 msgid "The file '%1' was deleted by another program."
 msgstr "'%1' atlı birem başqa yazılımnan beterelgän bulğan."
 
-#: part/katedocument.cpp:4931 part/kateview.cpp:894
+#: part/katedocument.cpp:4928 part/kateview.cpp:894
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "%1 atlı birem bar inde. Anıñ östennän yazıp almaştırasımı?"
 
-#: part/katedocument.cpp:4933 part/kateview.cpp:895
+#: part/katedocument.cpp:4930 part/kateview.cpp:895
 msgid "Overwrite File?"
 msgstr "Biremne Östennän Yazasımı?"
 
-#: part/katedocument.cpp:4934 part/kateview.cpp:896
+#: part/katedocument.cpp:4931 part/kateview.cpp:896
 msgid "&Overwrite"
 msgstr "&Östän Yaz"
 
@@ -834,16 +834,16 @@ msgstr "&Bülek:"
 msgid "&Variables:"
 msgstr "&Üzgärelmä:"
 
-#: part/katedialogs.cpp:1288 part/katefiletype.cpp:304
+#: part/katedialogs.cpp:1291 part/katefiletype.cpp:304
 msgid "File e&xtensions:"
 msgstr "Bire&m quşımtası:"
 
-#: part/katedialogs.cpp:1293 part/katefiletype.cpp:308
+#: part/katedialogs.cpp:1296 part/katefiletype.cpp:308
 #: plugins/autobookmarker/autobookmarker.cpp:324
 msgid "MIME &types:"
 msgstr "MIME &töre:"
 
-#: part/katedialogs.cpp:1298 part/katefiletype.cpp:317
+#: part/katedialogs.cpp:1301 part/katefiletype.cpp:317
 msgid "Prio&rity:"
 msgstr "Mö&himlek:"
 
@@ -925,7 +925,7 @@ msgstr ""
 "Bu birem öçen mime-törlär saylísı.\n"
 "Birem quşımtasına kileşterelgän caylawlarğa üzgäreşlär kerteläçäk."
 
-#: part/katedialogs.cpp:1414 part/katefiletype.cpp:506
+#: part/katedialogs.cpp:1417 part/katefiletype.cpp:506
 #: plugins/autobookmarker/autobookmarker.cpp:367
 msgid "Select Mime Types"
 msgstr "MIME-Törlär Saylaw"
@@ -1136,7 +1136,7 @@ msgstr ""
 "saylísı."
 "<p>Şul uq atılma saylaq qullanıp asyaq töslären töp cayına awdarıp bula."
 
-#: part/katedialogs.cpp:1255 part/kateschema.cpp:689
+#: part/katedialogs.cpp:1258 part/kateschema.cpp:689
 msgid "H&ighlight:"
 msgstr "Yaq&tırt:"
 
@@ -1298,7 +1298,7 @@ msgstr "Üzennän Çigenü"
 msgid "&Indentation mode:"
 msgstr "&Çigenü ısulı:"
 
-#: part/katedialogs.cpp:160 part/katedialogs.cpp:1121
+#: part/katedialogs.cpp:160 part/katedialogs.cpp:1124
 msgid "Configure..."
 msgstr "Caylaw..."
 
@@ -1483,79 +1483,79 @@ msgstr ""
 "PageUp/PageDown töymälärenä basqanda kürsärneñ asma urınlaşuı küreneşneñ "
 "östennän sanísı bulsa, bonı saylísı."
 
-#: part/katedialogs.cpp:462
+#: part/katedialogs.cpp:465
 msgid "Tabulators"
 msgstr "Çigertkeç"
 
-#: part/katedialogs.cpp:464
+#: part/katedialogs.cpp:467
 msgid "&Insert spaces instead of tabulators"
 msgstr "Tab urınına buşlıq &kertäse"
 
-#: part/katedialogs.cpp:468
+#: part/katedialogs.cpp:471
 msgid "&Show tabulators"
 msgstr "&Çigertkeç kürsätäse"
 
-#: part/katedialogs.cpp:474
+#: part/katedialogs.cpp:477
 msgid "Tab width:"
 msgstr "Tab kiñlege:"
 
-#: part/katedialogs.cpp:479
+#: part/katedialogs.cpp:482
 msgid "Static Word Wrap"
 msgstr "Totırıqlı Törü"
 
-#: part/katedialogs.cpp:481
+#: part/katedialogs.cpp:484
 msgid "Enable static &word wrap"
 msgstr "Terketelgän &süz törü açası"
 
-#: part/katedialogs.cpp:485
+#: part/katedialogs.cpp:488
 msgid "&Show static word wrap marker (if applicable)"
 msgstr "Totırıqlı törü tamğasın &kürsätäse (aşırırlıq bulsa)"
 
-#: part/katedialogs.cpp:491
+#: part/katedialogs.cpp:494
 msgid "Wrap words at:"
 msgstr "Süz töräse urın:"
 
-#: part/katedialogs.cpp:496
+#: part/katedialogs.cpp:499
 msgid "Remove &trailing spaces"
 msgstr "Azaqtağı &buşlıqlar beteräse"
 
-#: part/katedialogs.cpp:501
+#: part/katedialogs.cpp:504
 msgid "Auto &brackets"
 msgstr "Üze cíığan &cäyä"
 
-#: part/katedialogs.cpp:508
+#: part/katedialogs.cpp:511
 msgid "Unlimited"
 msgstr "Çikläwsez"
 
-#: part/katedialogs.cpp:509
+#: part/katedialogs.cpp:512
 msgid "Maximum undo steps:"
 msgstr "Kire alu sanın çikläw:"
 
-#: part/katedialogs.cpp:514
+#: part/katedialogs.cpp:517
 msgid "Smart search t&ext from:"
 msgstr "Bonnan başlap aqıllı &ezläw:"
 
-#: part/katedialogs.cpp:517
+#: part/katedialogs.cpp:520
 msgid "Nowhere"
 msgstr "Berqayda da tügel"
 
-#: part/katedialogs.cpp:518
+#: part/katedialogs.cpp:521
 msgid "Selection Only"
 msgstr "Saylanğannı Ğına"
 
-#: part/katedialogs.cpp:519
+#: part/katedialogs.cpp:522
 msgid "Selection, then Current Word"
 msgstr "Saylanğannı, annarı Bu Süzne"
 
-#: part/katedialogs.cpp:520
+#: part/katedialogs.cpp:523
 msgid "Current Word Only"
 msgstr "Bu Süzne Genä"
 
-#: part/katedialogs.cpp:521
+#: part/katedialogs.cpp:524
 msgid "Current Word, then Selection"
 msgstr "Bu Süzne, annarı Saylanğannı"
 
-#: part/katedialogs.cpp:531
+#: part/katedialogs.cpp:534
 msgid ""
 "Automatically start a new line of text when the current line exceeds the length "
 "specified by the <b>Wrap words at:</b> option."
@@ -1573,7 +1573,7 @@ msgstr ""
 "toräse kilsä inde, ul çaqta <b>Küreneş Töpcayı</b> digän caylaw bitendä <b>"
 "Küçmäle Süz Törü</b> digän köylämäne açası."
 
-#: part/katedialogs.cpp:539
+#: part/katedialogs.cpp:542
 msgid ""
 "If the Word Wrap option is selected this entry determines the length (in "
 "characters) at which the editor will automatically start a new line."
@@ -1581,7 +1581,7 @@ msgstr ""
 "Bu Süz Törü digän köylämädä äytelgän ozınlıqqa citkän yul üzennän üze yañasına "
 "küçereläçäk."
 
-#: part/katedialogs.cpp:542
+#: part/katedialogs.cpp:545
 msgid ""
 "When the user types a left bracket ([,(, or {) KateView automatically enters "
 "the right bracket (}, ), or ]) to the right of the cursor."
@@ -1589,18 +1589,18 @@ msgstr ""
 "Sul cäyä bilgeseneñ berär töre ([,(, yä {) kertelgännän soñ kürsärneñ uñ "
 "yağında anı yabuçı uñ cäyäse (}, ), yä ]) üzennän üze östälänäçäk."
 
-#: part/katedialogs.cpp:545
+#: part/katedialogs.cpp:548
 msgid ""
 "The editor will display a symbol to indicate the presence of a tab in the text."
 msgstr "Yazma eçendä tab bilgese buluın kürsätü."
 
-#: part/katedialogs.cpp:549
+#: part/katedialogs.cpp:552
 msgid ""
 "Sets the number of undo/redo steps to record. More steps uses more memory."
 msgstr ""
 "Yatqa alası kire alu belän kire quyu adımnarı. Kübräk adım kübräk xäter ala."
 
-#: part/katedialogs.cpp:552
+#: part/katedialogs.cpp:555
 msgid ""
 "This determines where KateView will get the search text from (this will be "
 "automatically entered into the Find Text dialog): "
@@ -1630,7 +1630,7 @@ msgstr ""
 "isä saylanğannı.</li></ul>Beläse, kiterelgän ısullar buyınça ezlise süz sizep "
 "bulmağan çaqta soñğı ezläw süzläre qullanaçaq."
 
-#: part/katedialogs.cpp:577
+#: part/katedialogs.cpp:580
 msgid ""
 "If this is enabled, the editor will calculate the number of spaces up to the "
 "next tab position as defined by the tab width, and insert that number of spaces "
@@ -1639,7 +1639,7 @@ msgstr ""
 "Bu köylämä yanıq bulsa, tab bilgeläre urınına, ozınlıq buyınça alarğa tiñ "
 "bulğan buşlıq bilgeläre quyalaçaq."
 
-#: part/katedialogs.cpp:581
+#: part/katedialogs.cpp:584
 msgid ""
 "If this is enabled, the editor will remove any trailing whitespace on lines "
 "when they are left by the insertion cursor."
@@ -1647,7 +1647,7 @@ msgstr ""
 "Bu köylämä yanıq bulsa, yul azağında bulğan buşlıq bilgelärä töşerelgän "
 "bulaçaq."
 
-#: part/katedialogs.cpp:584
+#: part/katedialogs.cpp:587
 msgid ""
 "<p>If this option is checked, a vertical line will be drawn at the word wrap "
 "column as defined in the <strong>Editing</strong> properties."
@@ -1657,94 +1657,94 @@ msgstr ""
 "süz törüdän soñ asma tayaq bilgese kürsäteläçäk."
 "<p>Beläse: totrıq yazu qullanılğan çaqta ğına süz törü bilgese kürsäteläçäk."
 
-#: part/katedialogs.cpp:640
+#: part/katedialogs.cpp:643
 msgid "Word Wrap"
 msgstr "Süz Törü"
 
-#: part/katedialogs.cpp:642
+#: part/katedialogs.cpp:645
 msgid "&Dynamic word wrap"
 msgstr "&Küçmäle törü"
 
-#: part/katedialogs.cpp:645
+#: part/katedialogs.cpp:648
 msgid "Dynamic word wrap indicators (if applicable):"
 msgstr "Tere süztörü tamğası (aşırlıq bulsa):"
 
-#: part/katedialogs.cpp:648
+#: part/katedialogs.cpp:651
 msgid "Follow Line Numbers"
 msgstr "Yul Sannarı Belän"
 
-#: part/katedialogs.cpp:649
+#: part/katedialogs.cpp:652
 msgid "Always On"
 msgstr "Barçaq Açıq"
 
-#: part/katedialogs.cpp:653
+#: part/katedialogs.cpp:656
 msgid "Vertically align dynamically wrapped lines to indentation depth:"
 msgstr "Üzennän törelgän yullar çigeneşe:"
 
-#: part/katedialogs.cpp:656
+#: part/katedialogs.cpp:659
 #, no-c-format
 msgid "% of View Width"
 msgstr "%, Küreneş Kiñlegennän"
 
-#: part/katedialogs.cpp:657
+#: part/katedialogs.cpp:660
 msgid "Disabled"
 msgstr "Sünek"
 
-#: part/katedialogs.cpp:661
+#: part/katedialogs.cpp:664
 msgid "Code Folding"
 msgstr "Kod Törü"
 
-#: part/katedialogs.cpp:663
+#: part/katedialogs.cpp:666
 msgid "Show &folding markers (if available)"
 msgstr "Törü &totqıçların kürsätü (bar bulsa)"
 
-#: part/katedialogs.cpp:664
+#: part/katedialogs.cpp:667
 msgid "Collapse toplevel folding nodes"
 msgstr "Töpadım eçendäge töyennärne törep quyu"
 
-#: part/katedialogs.cpp:669
+#: part/katedialogs.cpp:672
 msgid "Borders"
 msgstr "Çiksızım"
 
-#: part/katedialogs.cpp:671
+#: part/katedialogs.cpp:674
 msgid "Show &icon border"
 msgstr "&Tamğa çiklären kürsätü"
 
-#: part/katedialogs.cpp:672
+#: part/katedialogs.cpp:675
 msgid "Show &line numbers"
 msgstr "Yul sannarın kürsätü"
 
-#: part/katedialogs.cpp:673
+#: part/katedialogs.cpp:676
 msgid "Show &scrollbar marks"
 msgstr "Çornawtirä &tamğaların kürsätäse"
 
-#: part/katedialogs.cpp:677
+#: part/katedialogs.cpp:680
 msgid "Sort Bookmarks Menu"
 msgstr "Bitbilge Saylağın Tezü"
 
-#: part/katedialogs.cpp:679
+#: part/katedialogs.cpp:682
 msgid "By &position"
 msgstr "Urını buyınça"
 
-#: part/katedialogs.cpp:680
+#: part/katedialogs.cpp:683
 msgid "By c&reation"
 msgstr "&Yasalu buyınça"
 
-#: part/katedialogs.cpp:684
+#: part/katedialogs.cpp:687
 msgid "Show indentation lines"
 msgstr "Çigenderü yulların kürsätü"
 
-#: part/katedialogs.cpp:691 part/kateview.cpp:357
+#: part/katedialogs.cpp:694 part/kateview.cpp:357
 msgid ""
 "If this option is checked, the text lines will be wrapped at the view border on "
 "the screen."
 msgstr "Bu köylämä yanıq bulsa, küreneş kiñlegenä símağan yullar töreläçäk."
 
-#: part/katedialogs.cpp:693 part/kateview.cpp:360
+#: part/katedialogs.cpp:696 part/kateview.cpp:360
 msgid "Choose when the Dynamic Word Wrap Indicators should be displayed"
 msgstr "Tere Süztörü Tamğası kürsätäse bulsa bonı saylísı"
 
-#: part/katedialogs.cpp:698
+#: part/katedialogs.cpp:701
 msgid ""
 "<p>Enables the start of dynamically wrapped lines to be aligned vertically to "
 "the indentation level of the first line.  This can help to make code and markup "
@@ -1760,14 +1760,14 @@ msgstr ""
 "<p>Östämä itep, çigeneşe bonda äytelgän ozınlıqtan uzğan yullarğa asma buyınça "
 "turaytu yasalmas.</p>"
 
-#: part/katedialogs.cpp:707
+#: part/katedialogs.cpp:710
 msgid ""
 "If this option is checked, every new view will display line numbers on the left "
 "hand side."
 msgstr ""
 "Bu köylmä yanıq bulsa, yaña küreneşlärneñ sul yağında yul sannarı kürsäteläçäk."
 
-#: part/katedialogs.cpp:710
+#: part/katedialogs.cpp:713
 msgid ""
 "If this option is checked, every new view will display an icon border on the "
 "left hand side."
@@ -1779,7 +1779,7 @@ msgstr ""
 "<br>"
 "<br>Bitbilge tamğaları da ul buyda kürsätelä."
 
-#: part/katedialogs.cpp:714
+#: part/katedialogs.cpp:717
 msgid ""
 "If this option is checked, every new view will show marks on the vertical "
 "scrollbar."
@@ -1791,7 +1791,7 @@ msgstr ""
 "<br>"
 "<br>Bitbilge tamğaların ul buyda kürsätep bula."
 
-#: part/katedialogs.cpp:718
+#: part/katedialogs.cpp:721
 msgid ""
 "If this option is checked, every new view will display marks for code folding, "
 "if code folding is available."
@@ -1799,105 +1799,105 @@ msgstr ""
 "Bu köylmä yanıq bulsa, yaña küreneşlärdä kod törü tamğaları kürsäteläçäk, ägär "
 "kod törü qılıp bulsa."
 
-#: part/katedialogs.cpp:721
+#: part/katedialogs.cpp:724
 msgid ""
 "Choose how the bookmarks should be ordered in the <b>Bookmarks</b> menu."
 msgstr "<b>Bitbilgelär</b> digän saylağında bitbilgelär tezü tärtiben saylaw."
 
-#: part/katedialogs.cpp:723
+#: part/katedialogs.cpp:726
 msgid "The bookmarks will be ordered by the line numbers they are placed at."
 msgstr "Bitbilgelärne, alar kürsätkän yul sannarına qarap tezäse."
 
-#: part/katedialogs.cpp:725
+#: part/katedialogs.cpp:728
 msgid ""
 "Each new bookmark will be added to the bottom, independently from where it is "
 "placed in the document."
 msgstr "Yaña bitbilge kürätkän cirenä qaramíça anı tezmä azağına östise."
 
-#: part/katedialogs.cpp:728
+#: part/katedialogs.cpp:731
 msgid ""
 "If this is enabled, the editor will display vertical line to help identifying "
 "indent lines."
 msgstr ""
 "Bu yanıq bulsa, çigenderelgän yullarnı ayıru öçen asma sızıq kürsäteläçäk. "
 
-#: part/katedialogs.cpp:844
+#: part/katedialogs.cpp:847
 msgid "File Format"
 msgstr "Birem Töre"
 
-#: part/katedialogs.cpp:848
+#: part/katedialogs.cpp:851
 msgid "&Encoding:"
 msgstr "&Bilgelämä:"
 
-#: part/katedialogs.cpp:853
+#: part/katedialogs.cpp:856
 msgid "End &of line:"
 msgstr "Y&ul azağı:"
 
-#: part/katedialogs.cpp:857
+#: part/katedialogs.cpp:860
 msgid "&Automatic end of line detection"
 msgstr "Yul azağı ü&zennän sizelsen"
 
-#: part/katedialogs.cpp:859
+#: part/katedialogs.cpp:862
 msgid "UNIX"
 msgstr "UNIX"
 
-#: part/katedialogs.cpp:860
+#: part/katedialogs.cpp:863
 msgid "DOS/Windows"
 msgstr "DOS/Windows"
 
-#: part/katedialogs.cpp:861
+#: part/katedialogs.cpp:864
 msgid "Macintosh"
 msgstr "Macintosh"
 
-#: part/katedialogs.cpp:863
+#: part/katedialogs.cpp:866
 msgid "Memory Usage"
 msgstr "Xäter Qullanıla"
 
-#: part/katedialogs.cpp:868
+#: part/katedialogs.cpp:871
 msgid "Maximum loaded &blocks per file:"
 msgstr "Birem sayın yöklise &blok çikläw:"
 
-#: part/katedialogs.cpp:874
+#: part/katedialogs.cpp:877
 msgid "Automatic Cleanups on Load/Save"
 msgstr "Yökläw/Saqlaw Çağında Üzennän Buşatılu"
 
-#: part/katedialogs.cpp:877
+#: part/katedialogs.cpp:880
 msgid "Re&move trailing spaces"
 msgstr "&Azaq buşlıqların beteräse"
 
-#: part/katedialogs.cpp:880
+#: part/katedialogs.cpp:883
 msgid "Folder Config File"
 msgstr "Törgäk Caylaw Bireme"
 
-#: part/katedialogs.cpp:885
+#: part/katedialogs.cpp:888
 msgid "Do not use config file"
 msgstr "Caybirem qullanmasqa"
 
-#: part/katedialogs.cpp:886
+#: part/katedialogs.cpp:889
 msgid "Se&arch depth for config file:"
 msgstr "&Caylaw biremendä ezläw tiränlege:"
 
-#: part/katedialogs.cpp:888
+#: part/katedialogs.cpp:891
 msgid "Backup on Save"
 msgstr "Çigüsörem yasap Saqlísı"
 
-#: part/katedialogs.cpp:890
+#: part/katedialogs.cpp:893
 msgid "&Local files"
 msgstr "&Cirle biremnär"
 
-#: part/katedialogs.cpp:891
+#: part/katedialogs.cpp:894
 msgid "&Remote files"
 msgstr "&Çittäge biremnär"
 
-#: part/katedialogs.cpp:894
+#: part/katedialogs.cpp:897
 msgid "&Prefix:"
 msgstr "&Alquşımta:"
 
-#: part/katedialogs.cpp:899
+#: part/katedialogs.cpp:902
 msgid "&Suffix:"
 msgstr "&Quşımta:"
 
-#: part/katedialogs.cpp:906
+#: part/katedialogs.cpp:909
 msgid ""
 "The editor will automatically eliminate extra spaces at the ends of lines of "
 "text while loading/saving the file."
@@ -1905,7 +1905,7 @@ msgstr ""
 "Yul azağındağı östämä buşlıqlarnı biremne yökläw/saqlaw çağında tözätkeç üze "
 "kisep torır."
 
-#: part/katedialogs.cpp:909
+#: part/katedialogs.cpp:912
 msgid ""
 "<p>Backing up on save will cause Kate to copy the disk file to "
 "'&lt;prefix&gt;&lt;filename&gt;&lt;suffix&gt;' before saving changes."
@@ -1917,7 +1917,7 @@ msgstr ""
 "<p>Quşımtanıñ töpcayı bularaq <strong>~</strong> qullanıla, alquşımtanıñ "
 "töpcayı buş bula."
 
-#: part/katedialogs.cpp:913
+#: part/katedialogs.cpp:916
 msgid ""
 "Check this if you want the editor to autodetect the end of line type.The first "
 "found end of line type will be used for the whole file."
@@ -1925,24 +1925,24 @@ msgstr ""
 "Yul küçerü ısulın tözätkeçne üzen saylatası kilsä bonı yandırası. Berençe bulıp "
 "tabılğan yul küçerü böten birem öçen qullanılaçaq."
 
-#: part/katedialogs.cpp:916
+#: part/katedialogs.cpp:919
 msgid "Check this if you want backups of local files when saving"
 msgstr "Cirle birem saqlağan çaqta çigenmä birem yasísı kilsä, bonı yandırası"
 
-#: part/katedialogs.cpp:918
+#: part/katedialogs.cpp:921
 msgid "Check this if you want backups of remote files when saving"
 msgstr ""
 "Çittäge birem saqlağan çaqta çigenmä birem yasísı kilsä, bonı yandırası"
 
-#: part/katedialogs.cpp:920
+#: part/katedialogs.cpp:923
 msgid "Enter the prefix to prepend to the backup file names"
 msgstr "Çigenmä birem adı yasağanda qullanası alquşımtanı kertü"
 
-#: part/katedialogs.cpp:922
+#: part/katedialogs.cpp:925
 msgid "Enter the suffix to add to the backup file names"
 msgstr "Çigenmä birem adı yasağanda qullanası quşımtanı kertü"
 
-#: part/katedialogs.cpp:924
+#: part/katedialogs.cpp:927
 msgid ""
 "The editor will search the given number of folder levels upwards for "
 ".kateconfig file and load the settings line from it."
@@ -1950,7 +1950,7 @@ msgstr ""
 "Bu tözätkeç, törü ezlägän çaqta .kateconfig biremendä yätelgän tiränlek "
 "qullanılaçaq."
 
-#: part/katedialogs.cpp:927
+#: part/katedialogs.cpp:930
 msgid ""
 "The editor will load given number of blocks (of around 2048 lines) of text into "
 "memory; if the filesize is bigger than this the other blocks are swapped  to "
@@ -1968,46 +1968,46 @@ msgstr ""
 "<br>Gädättä isä, kisäk sanın kübräk saylap bula, xäter citmi başlağaç inde ul "
 "sanın törepep tä bula."
 
-#: part/katedialogs.cpp:966
+#: part/katedialogs.cpp:969
 msgid ""
 "You did not provide a backup suffix or prefix. Using default suffix: '~'"
 msgstr ""
 "Çigenmä öçen quşımta da, alquşımta da kertelmi qalğan. Töpcay qullanılaçaq: '~'"
 
-#: part/katedialogs.cpp:967
+#: part/katedialogs.cpp:970
 msgid "No Backup Suffix or Prefix"
 msgstr "Çigenmä Quşımtası/Alquşımtası"
 
-#: part/katedialogs.cpp:1003
+#: part/katedialogs.cpp:1006
 msgid "KDE Default"
 msgstr "KDE'neñ Töpcayı"
 
-#: part/katedialogs.cpp:1105 part/katedialogs.cpp:1435
+#: part/katedialogs.cpp:1108 part/katedialogs.cpp:1438
 msgid "Name"
 msgstr "İsem"
 
-#: part/katedialogs.cpp:1106 part/katehighlight.cpp:3150
+#: part/katedialogs.cpp:1109 part/katehighlight.cpp:3150
 msgid "Comment"
 msgstr "Açıqlama"
 
-#: part/katedialogs.cpp:1202
+#: part/katedialogs.cpp:1205
 #, c-format
 msgid "Configure %1"
 msgstr "Caylaw %1"
 
-#: part/katedialogs.cpp:1274
+#: part/katedialogs.cpp:1277
 msgid "Author:"
 msgstr "Yazuçı:"
 
-#: part/katedialogs.cpp:1280
+#: part/katedialogs.cpp:1283
 msgid "License:"
 msgstr "Şartnämä:"
 
-#: part/katedialogs.cpp:1313
+#: part/katedialogs.cpp:1316
 msgid "Do&wnload..."
 msgstr "İñ&derü..."
 
-#: part/katedialogs.cpp:1320
+#: part/katedialogs.cpp:1323
 msgid ""
 "Choose a <em>Syntax Highlight mode</em> from this list to view its properties "
 "below."
@@ -2015,14 +2015,14 @@ msgstr ""
 "Tezmädä <em>Yazma Yaqtırtu ısulı</em> saylanğaç, anıñ üzençäleklären kürep "
 "bula."
 
-#: part/katedialogs.cpp:1323
+#: part/katedialogs.cpp:1326
 msgid ""
 "The list of file extensions used to determine which files to highlight using "
 "the current syntax highlight mode."
 msgstr ""
 "Biredäge yaqtırtu ısulı belän eşkärtep bulğan birem quşımtalarınnan tezmäse bu."
 
-#: part/katedialogs.cpp:1326
+#: part/katedialogs.cpp:1329
 msgid ""
 "The list of Mime Types used to determine which files to highlight using the "
 "current highlight mode."
@@ -2033,7 +2033,7 @@ msgstr ""
 "<p>Kerem qırınnan sulda bulğan töymägä basıp, mime-törlär saylawçı osta çaqırıp "
 "bula."
 
-#: part/katedialogs.cpp:1330
+#: part/katedialogs.cpp:1333
 msgid ""
 "Display a dialog with a list of all available mime types to choose from."
 "<p>The <strong>File Extensions</strong> entry will automatically be edited as "
@@ -2042,7 +2042,7 @@ msgstr ""
 "Saylaw öçen, barlıq mime-törlär tezmäse belän täräzä küsrätelä."
 "<p><strong>Birem Quşımtaları</strong>  digän kerem dä şunda uq üze tözäteläçäk."
 
-#: part/katedialogs.cpp:1334
+#: part/katedialogs.cpp:1337
 msgid ""
 "Click this button to download new or updated syntax highlight descriptions from "
 "the Kate website."
@@ -2050,7 +2050,7 @@ msgstr ""
 "Bu töymägä çirtep, cömlä tözeleşen yaqtırtu caylawların Kate säxifäsennän "
 "östäp/yañartıp bula."
 
-#: part/katedialogs.cpp:1412
+#: part/katedialogs.cpp:1415
 msgid ""
 "Select the MimeTypes you want highlighted using the '%1' syntax highlight "
 "rules.\n"
@@ -2060,69 +2060,69 @@ msgstr ""
 "'%1' digän yaqtırtu tärtibe belän eşkärtäse kilgän mime-törlär saylaw.\n"
 "Ul çaqta birem kileşterüläre dä yañartılaçaq buluın istä totası."
 
-#: part/katedialogs.cpp:1427
+#: part/katedialogs.cpp:1430
 msgid "Highlight Download"
 msgstr "Yaqtırtunı İñderü"
 
-#: part/katedialogs.cpp:1427
+#: part/katedialogs.cpp:1430
 msgid "&Install"
 msgstr "&Quyası"
 
-#: part/katedialogs.cpp:1432
+#: part/katedialogs.cpp:1435
 msgid "Select the syntax highlighting files you want to update:"
 msgstr "Yañartası kilgän yaqtırtu biremnären saylaw:"
 
-#: part/katedialogs.cpp:1436
+#: part/katedialogs.cpp:1439
 msgid "Installed"
 msgstr "Quyıldı"
 
-#: part/katedialogs.cpp:1437
+#: part/katedialogs.cpp:1440
 msgid "Latest"
 msgstr "Soñğısı"
 
-#: part/katedialogs.cpp:1441
+#: part/katedialogs.cpp:1444
 msgid "<b>Note:</b> New versions are selected automatically."
 msgstr "<b>Beläse:</b> Yaña söremnäre üzennän üze saylana."
 
-#: part/katedialogs.cpp:1540
+#: part/katedialogs.cpp:1543
 msgid "Go to Line"
 msgstr "Yulğa Küçü"
 
-#: part/katedialogs.cpp:1550
+#: part/katedialogs.cpp:1553
 msgid "&Go to line:"
 msgstr "&Yulğa küç:"
 
-#: part/katedialogs.cpp:1576
+#: part/katedialogs.cpp:1579
 msgid "File Was Deleted on Disk"
 msgstr "Disk Bireme Beterelde"
 
-#: part/katedialogs.cpp:1577
+#: part/katedialogs.cpp:1580
 msgid "&Save File As..."
 msgstr "B&aşqaça Saqlaw..."
 
-#: part/katedialogs.cpp:1578
+#: part/katedialogs.cpp:1581
 msgid "Lets you select a location and save the file again."
 msgstr "Berär urınlaşunı saylap, bu biremne qabat saqlarğa birä."
 
-#: part/katedialogs.cpp:1580
+#: part/katedialogs.cpp:1583
 msgid "File Changed on Disk"
 msgstr "Disktäge Birem Üzgärgän"
 
-#: part/katedialogs.cpp:1582
+#: part/katedialogs.cpp:1585
 msgid ""
 "Reload the file from disk. If you have unsaved changes, they will be lost."
 msgstr ""
 "Disk biremennän yañadan yökläw. Bar bulğan saqlanmağan üzgäreşlär yuğalaçaq."
 
-#: part/katedialogs.cpp:1587
+#: part/katedialogs.cpp:1590
 msgid "&Ignore"
 msgstr "&Uzası"
 
-#: part/katedialogs.cpp:1590
+#: part/katedialogs.cpp:1593
 msgid "Ignore the changes. You will not be prompted again."
 msgstr "Üzgäreşkä qaramasqa. Bütän soralmas."
 
-#: part/katedialogs.cpp:1591
+#: part/katedialogs.cpp:1594
 msgid ""
 "Do nothing. Next time you focus the file, or try to save it or close it, you "
 "will be prompted again."
@@ -2130,11 +2130,11 @@ msgstr ""
 "Ber ni eşlämä. Bu biremne tağın saylağan, saqlağan yä yapqan çaqta bu täräzä "
 "qabat kürsäteläçäk."
 
-#: part/katedialogs.cpp:1609
+#: part/katedialogs.cpp:1612
 msgid "&View Difference"
 msgstr "&Ayırmasın Kürü"
 
-#: part/katedialogs.cpp:1614
+#: part/katedialogs.cpp:1617
 msgid ""
 "Calculates the difference between the editor contents and the disk file using "
 "diff(1) and opens the diff file with the default application for that."
@@ -2142,15 +2142,15 @@ msgstr ""
 "Bu saylanğan istälek öçen anıñ disk eçendäge söreme belän arasında bulğan "
 "ayırma ezläp, ul ayırma biremen töp yazılımda açu."
 
-#: part/katedialogs.cpp:1618
+#: part/katedialogs.cpp:1621
 msgid "Overwrite"
 msgstr "Östän Yaz"
 
-#: part/katedialogs.cpp:1619
+#: part/katedialogs.cpp:1622
 msgid "Overwrite the disk file with the editor content."
 msgstr "Biremneñ disk eçendäge söremen tözätkeçtäge belän almaştıru."
 
-#: part/katedialogs.cpp:1670
+#: part/katedialogs.cpp:1673
 msgid ""
 "The diff command failed. Please make sure that diff(1) is installed and in your "
 "PATH."
@@ -2158,11 +2158,11 @@ msgstr ""
 "\"diff\" digän boyırıq uzmadı. Bu sanaqnıñ PATH yulı aşa anı tabıp buluın "
 "tikşerep alası bar."
 
-#: part/katedialogs.cpp:1672
+#: part/katedialogs.cpp:1675
 msgid "Error Creating Diff"
 msgstr "Ayırma Yasaw Xatası"
 
-#: part/katedialogs.cpp:1685
+#: part/katedialogs.cpp:1688
 msgid ""
 "Ignoring means that you will not be warned again (unless the disk file changes "
 "once more): if you save the document, you will overwrite the file on disk; if "
@@ -2172,7 +2172,7 @@ msgstr ""
 "üzgärtelmäsä ikän). Bu birem üzgärtelgän bulsa, başqa yazılımnan yasalğan "
 "üzgäreşlär yuğalaçaq."
 
-#: part/katedialogs.cpp:1689
+#: part/katedialogs.cpp:1692
 msgid "You Are on Your Own"
 msgstr "Üz Üzäreşlär"
 
@@ -2839,7 +2839,7 @@ msgstr " TÖP "
 msgid "Overwrite the file"
 msgstr "Birem östennän yazası"
 
-#: part/kateview.cpp:1792
+#: part/kateview.cpp:1800
 msgid "Export File as HTML"
 msgstr "Biremne HTML itep Çığar"
 
@@ -3380,7 +3380,7 @@ msgid ""
 "Scientific"
 msgstr "Fännilär"
 
-#. i18n: file data/gettext.xml line 26
+#. i18n: file data/gettext.xml line 24
 #: rc.cpp:212
 msgid ""
 "_: Language\n"

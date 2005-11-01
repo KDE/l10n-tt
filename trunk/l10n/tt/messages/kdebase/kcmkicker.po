@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmkicker\n"
-"POT-Creation-Date: 2005-08-21 02:35+0200\n"
+"POT-Creation-Date: 2005-11-01 02:39+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -97,7 +97,7 @@ msgstr ""
 "Saylanğan appletnı 'ışanıçsız' tezmäsennän  'ışanıçlı' tezmäsenä häm kiresençä  "
 "küçerer öçen sulğa yä ki uñğä töymäsen bas."
 
-#: extensionInfo.cpp:44
+#: extensionInfo.cpp:45
 msgid "Main Panel"
 msgstr "Ana taqta"
 
