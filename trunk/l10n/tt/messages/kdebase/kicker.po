@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kicker\n"
-"POT-Creation-Date: 2005-11-01 02:39+0100\n"
+"POT-Creation-Date: 2005-11-02 02:48+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -73,11 +73,11 @@ msgstr "%1 atlı applet yökläp bulmí. Quyılunı tikşerep alası."
 msgid "Applet Loading Error"
 msgstr "Applet Yökläw Xatası"
 
-#: core/container_extension.cpp:1606 core/container_extension.cpp:1619
+#: core/container_extension.cpp:1604 core/container_extension.cpp:1617
 msgid "Show panel"
 msgstr "Tirä kürsätü"
 
-#: core/container_extension.cpp:1610 core/container_extension.cpp:1623
+#: core/container_extension.cpp:1608 core/container_extension.cpp:1621
 msgid "Hide panel"
 msgstr "Tiräne yäşer"
 

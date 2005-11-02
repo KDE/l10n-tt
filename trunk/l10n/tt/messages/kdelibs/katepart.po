@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs katepart\n"
-"POT-Creation-Date: 2005-11-01 02:38+0100\n"
+"POT-Creation-Date: 2005-11-02 02:47+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -765,52 +765,52 @@ msgstr ""
 msgid "Close Nevertheless"
 msgstr "Aña Qaramíça Yap"
 
-#: part/katedocument.cpp:4240 part/katedocument.cpp:4900 part/kateview.cpp:867
+#: part/katedocument.cpp:4249 part/katedocument.cpp:4909 part/kateview.cpp:867
 msgid "Save File"
 msgstr "Biremne Saqla"
 
-#: part/katedocument.cpp:4249
+#: part/katedocument.cpp:4258
 msgid "Save failed"
 msgstr "Saqlap bulmadı"
 
-#: part/katedialogs.cpp:1606 part/katedocument.cpp:4311
+#: part/katedialogs.cpp:1606 part/katedocument.cpp:4320
 msgid "What do you want to do?"
 msgstr "Ni eşlise kilä?"
 
-#: part/katedocument.cpp:4312
+#: part/katedocument.cpp:4321
 msgid "File Was Changed on Disk"
 msgstr "Disk Eçendäge Birem Üzgärtelgän"
 
-#: part/katedialogs.cpp:1584 part/katedocument.cpp:4312
+#: part/katedialogs.cpp:1584 part/katedocument.cpp:4321
 msgid "&Reload File"
 msgstr "&Yañadan Yöklä"
 
-#: part/katedocument.cpp:4312
+#: part/katedocument.cpp:4321
 msgid "&Ignore Changes"
 msgstr "&Üzgäreşkä Qaramasqa"
 
-#: part/katedocument.cpp:4817
+#: part/katedocument.cpp:4826
 msgid "The file '%1' was modified by another program."
 msgstr "'%1' atlı birem başqa yazılımnan üzgärtelgän bulğan."
 
-#: part/katedocument.cpp:4820
+#: part/katedocument.cpp:4829
 msgid "The file '%1' was created by another program."
 msgstr "'%1' atlı birem başqa yazılımnan yasalğan bulğan."
 
-#: part/katedocument.cpp:4823
+#: part/katedocument.cpp:4832
 msgid "The file '%1' was deleted by another program."
 msgstr "'%1' atlı birem başqa yazılımnan beterelgän bulğan."
 
-#: part/katedocument.cpp:4928 part/kateview.cpp:894
+#: part/katedocument.cpp:4937 part/kateview.cpp:894
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "%1 atlı birem bar inde. Anıñ östennän yazıp almaştırasımı?"
 
-#: part/katedocument.cpp:4930 part/kateview.cpp:895
+#: part/katedocument.cpp:4939 part/kateview.cpp:895
 msgid "Overwrite File?"
 msgstr "Biremne Östennän Yazasımı?"
 
-#: part/katedocument.cpp:4931 part/kateview.cpp:896
+#: part/katedocument.cpp:4940 part/kateview.cpp:896
 msgid "&Overwrite"
 msgstr "&Östän Yaz"
 
@@ -2839,7 +2839,7 @@ msgstr " TÖP "
 msgid "Overwrite the file"
 msgstr "Birem östennän yazası"
 
-#: part/kateview.cpp:1800
+#: part/kateview.cpp:1781
 msgid "Export File as HTML"
 msgstr "Biremne HTML itep Çığar"
 
