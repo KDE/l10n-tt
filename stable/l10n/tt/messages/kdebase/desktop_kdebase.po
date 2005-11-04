@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2005-10-31 01:18+0000\n"
+"POT-Creation-Date: 2005-11-04 08:49+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -4977,7 +4977,7 @@ msgstr "Comment=Ayırım torğan saylaq-tirälär berläşterüçe applet"
 msgid "Name=Desktop Previewer & Pager"
 msgstr "Name=Öställär Küçerüçe Saylaq"
 
-#: kicker/applets/minipager/minipagerapplet.desktop:46
+#: kicker/applets/minipager/minipagerapplet.desktop:47
 msgid "Comment=A basic desktop switching panel applet"
 msgstr "Comment=Öställär almaştıruçı applet"
 
