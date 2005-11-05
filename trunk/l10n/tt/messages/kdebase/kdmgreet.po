@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdmgreet\n"
-"POT-Creation-Date: 2005-10-09 02:43+0200\n"
+"POT-Creation-Date: 2005-11-05 02:43+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -134,19 +134,19 @@ msgstr ""
 msgid "L&ogin"
 msgstr "&Kereş"
 
-#: kgreeter.cpp:683 kgreeter.cpp:817
+#: kgreeter.cpp:683 kgreeter.cpp:821
 msgid "Session &Type"
 msgstr "Sessi &Töre"
 
-#: kgreeter.cpp:689 kgreeter.cpp:824
+#: kgreeter.cpp:689 kgreeter.cpp:828
 msgid "&Authentication Method"
 msgstr "&Tanılu Isulı"
 
-#: kgreeter.cpp:694 kgreeter.cpp:829
+#: kgreeter.cpp:694 kgreeter.cpp:833
 msgid "&Remote Login"
 msgstr "&Çittän Kerü"
 
-#: kgreeter.cpp:765
+#: kgreeter.cpp:769
 msgid "Login Failed."
 msgstr "Kerep bulmadı."
 

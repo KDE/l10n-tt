@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2005-11-03 02:39+0100\n"
+"POT-Creation-Date: 2005-11-05 02:42+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -5725,8 +5725,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "Qoraltirä"
 
-#: kdeui/kedittoolbar.cpp:447 khtml/khtmlview.cpp:2478
-#: khtml/khtmlview.cpp:2511 khtml/rendering/render_form.cpp:312
+#: kdeui/kedittoolbar.cpp:447 khtml/khtmlview.cpp:2485
+#: khtml/khtmlview.cpp:2518 khtml/rendering/render_form.cpp:312
 msgid "Reset"
 msgstr "Awdar"
 
@@ -7192,7 +7192,7 @@ msgstr ""
 "taba cibäräläçäk.<BR>Form eçtälegen cibärü dawam itäseme?"
 
 #: khtml/html/html_formimpl.cpp:1484 khtml/khtml_part.cpp:4788
-#: khtml/khtmlview.cpp:2464 khtml/khtmlview.cpp:2506
+#: khtml/khtmlview.cpp:2471 khtml/khtmlview.cpp:2513
 #: khtml/rendering/render_form.cpp:296
 msgid "Submit"
 msgstr "Cibär"
@@ -7299,11 +7299,11 @@ msgstr "Yazma tabıldı: \"%1\"."
 msgid "Text not found: \"%1\"."
 msgstr "Yazma tabılmadı: \"%1\"."
 
-#: khtml/khtmlview.cpp:1679
+#: khtml/khtmlview.cpp:1681
 msgid "Access Keys activated"
 msgstr "İreşü Töymäse açıldı"
 
-#: khtml/khtmlview.cpp:2693
+#: khtml/khtmlview.cpp:2700
 #, c-format
 msgid "Print %1"
 msgstr "%1 Bastıru"
