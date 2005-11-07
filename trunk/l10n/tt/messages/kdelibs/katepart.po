@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs katepart\n"
-"POT-Creation-Date: 2005-11-03 02:39+0100\n"
+"POT-Creation-Date: 2005-11-07 02:44+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -663,7 +663,7 @@ msgstr "Çaptırmalar Caylaw"
 msgid "Plugin Manager"
 msgstr "Quşılma Citäkçese"
 
-#: part/katedocument.cpp:2396
+#: part/katedocument.cpp:2402
 msgid ""
 "The file %1 could not be loaded completely, as there is not enough temporary "
 "disk storage for it."
@@ -671,7 +671,7 @@ msgstr ""
 "%1 atlı biremen yökläw tulayım bulmadı, anıñ öçen disk eçendä bulğan çaqlı alan "
 "küläme citärlek tügel."
 
-#: part/katedocument.cpp:2398
+#: part/katedocument.cpp:2404
 msgid ""
 "The file %1 could not be loaded, as it was not possible to read from it.\n"
 "\n"
@@ -681,15 +681,15 @@ msgstr ""
 "\n"
 "Anı uqırlıq xoquqlar buluın tikşerep qarísı."
 
-#: part/katedocument.cpp:2408 part/katedocument.cpp:2472
+#: part/katedocument.cpp:2414 part/katedocument.cpp:2478
 msgid "The file %1 is a binary, saving it will result in a corrupt file."
 msgstr "%1 atlı birem binar ikän, anı saqlaw biremne bozaçaq qına."
 
-#: part/katedocument.cpp:2409
+#: part/katedocument.cpp:2415
 msgid "Binary File Opened"
 msgstr "Binar Birem Açıldı"
 
-#: part/katedocument.cpp:2465
+#: part/katedocument.cpp:2471
 msgid ""
 "This file could not be loaded correctly due to lack of temporary disk space. "
 "Saving it could cause data loss.\n"
@@ -701,22 +701,22 @@ msgstr ""
 "\n"
 "Anı çınlap ta saqlísı kiläme?"
 
-#: part/katedocument.cpp:2465 part/katedocument.cpp:2492
-#: part/katedocument.cpp:2503 part/katedocument.cpp:2668
+#: part/katedocument.cpp:2471 part/katedocument.cpp:2498
+#: part/katedocument.cpp:2509 part/katedocument.cpp:2674
 msgid "Possible Data Loss"
 msgstr "Birem Yuğaluı Bar"
 
-#: part/katedocument.cpp:2465 part/katedocument.cpp:2474
-#: part/katedocument.cpp:2486 part/katedocument.cpp:2492
-#: part/katedocument.cpp:2503
+#: part/katedocument.cpp:2471 part/katedocument.cpp:2480
+#: part/katedocument.cpp:2492 part/katedocument.cpp:2498
+#: part/katedocument.cpp:2509
 msgid "Save Nevertheless"
 msgstr "Barıber Saqlísı"
 
-#: part/katedocument.cpp:2473
+#: part/katedocument.cpp:2479
 msgid "Trying to Save Binary File"
 msgstr "Binar Birem Saqlap Qaraw"
 
-#: part/katedocument.cpp:2486
+#: part/katedocument.cpp:2492
 msgid ""
 "Do you really want to save this unmodified file? You could overwrite changed "
 "data in the file on disk."
@@ -724,11 +724,11 @@ msgstr ""
 "Bu üzgärtelmägän biremne çınlap ta saqlísı kiläme? Disk eçendäge birem eçtälege "
 "almaştırıluı bar."
 
-#: part/katedocument.cpp:2486
+#: part/katedocument.cpp:2492
 msgid "Trying to Save Unmodified File"
 msgstr "Üzgäreşsez Birem Saqlap Qaraw"
 
-#: part/katedocument.cpp:2492
+#: part/katedocument.cpp:2498
 msgid ""
 "Do you really want to save this file? Both your open file and the file on disk "
 "were changed. There could be some data lost."
@@ -736,7 +736,7 @@ msgstr ""
 "Bu biremne çınlap ta saqlísı kiläme? Bu açılğan birem anıñ disk eçendäge söreme "
 "belän ayırıla, şuña kürä belemneñ öleşçä yuğaluı bar."
 
-#: part/katedocument.cpp:2503
+#: part/katedocument.cpp:2509
 msgid ""
 "The selected encoding cannot encode every unicode character in this document. "
 "Do you really want to save it? There could be some data lost."
@@ -744,7 +744,7 @@ msgstr ""
 "Bu istälektä qullanılğan bilgelärneñ qayberlären äytelgän bilgelämä belän "
 "saqlap bulmí. Anı barıber saqlísı kiläme? Belemneñ öleşçä yuğaluı bar."
 
-#: part/katedocument.cpp:2554
+#: part/katedocument.cpp:2560
 msgid ""
 "The document could not be saved, as it was not possible to write to %1.\n"
 "\n"
@@ -756,61 +756,61 @@ msgstr ""
 "Ul biremgä yazarlıq xoquqlar belän disk alanı citärtlek buluların tikşerep "
 "çığası bar."
 
-#: part/katedocument.cpp:2667
+#: part/katedocument.cpp:2673
 msgid "Do you really want to continue to close this file? Data loss may occur."
 msgstr ""
 "Bu biremne yabu eşen çınlap ta dawam itäse kiläme? Ul çaqta belem yuğaluı bar."
 
-#: part/katedocument.cpp:2668
+#: part/katedocument.cpp:2674
 msgid "Close Nevertheless"
 msgstr "Aña Qaramíça Yap"
 
-#: part/katedocument.cpp:4254 part/katedocument.cpp:4914 part/kateview.cpp:867
+#: part/katedocument.cpp:4260 part/katedocument.cpp:4920 part/kateview.cpp:867
 msgid "Save File"
 msgstr "Biremne Saqla"
 
-#: part/katedocument.cpp:4263
+#: part/katedocument.cpp:4269
 msgid "Save failed"
 msgstr "Saqlap bulmadı"
 
-#: part/katedialogs.cpp:1606 part/katedocument.cpp:4325
+#: part/katedialogs.cpp:1606 part/katedocument.cpp:4331
 msgid "What do you want to do?"
 msgstr "Ni eşlise kilä?"
 
-#: part/katedocument.cpp:4326
+#: part/katedocument.cpp:4332
 msgid "File Was Changed on Disk"
 msgstr "Disk Eçendäge Birem Üzgärtelgän"
 
-#: part/katedialogs.cpp:1584 part/katedocument.cpp:4326
+#: part/katedialogs.cpp:1584 part/katedocument.cpp:4332
 msgid "&Reload File"
 msgstr "&Yañadan Yöklä"
 
-#: part/katedocument.cpp:4326
+#: part/katedocument.cpp:4332
 msgid "&Ignore Changes"
 msgstr "&Üzgäreşkä Qaramasqa"
 
-#: part/katedocument.cpp:4831
+#: part/katedocument.cpp:4837
 msgid "The file '%1' was modified by another program."
 msgstr "'%1' atlı birem başqa yazılımnan üzgärtelgän bulğan."
 
-#: part/katedocument.cpp:4834
+#: part/katedocument.cpp:4840
 msgid "The file '%1' was created by another program."
 msgstr "'%1' atlı birem başqa yazılımnan yasalğan bulğan."
 
-#: part/katedocument.cpp:4837
+#: part/katedocument.cpp:4843
 msgid "The file '%1' was deleted by another program."
 msgstr "'%1' atlı birem başqa yazılımnan beterelgän bulğan."
 
-#: part/katedocument.cpp:4942 part/kateview.cpp:894
+#: part/katedocument.cpp:4948 part/kateview.cpp:894
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "%1 atlı birem bar inde. Anıñ östennän yazıp almaştırasımı?"
 
-#: part/katedocument.cpp:4944 part/kateview.cpp:895
+#: part/katedocument.cpp:4950 part/kateview.cpp:895
 msgid "Overwrite File?"
 msgstr "Biremne Östennän Yazasımı?"
 
-#: part/katedocument.cpp:4945 part/kateview.cpp:896
+#: part/katedocument.cpp:4951 part/kateview.cpp:896
 msgid "&Overwrite"
 msgstr "&Östän Yaz"
 
@@ -2995,7 +2995,7 @@ msgstr "Yaraqsız köylämä: '%1'. Qullanu: %2 on|off|1|0|true|false"
 msgid "Unknown command '%1'"
 msgstr "Billgesez boyırıq: %1"
 
-#: part/katecmds.cpp:529
+#: part/katecmds.cpp:537
 #, c-format
 msgid ""
 "_n: 1 replacement done\n"
@@ -3816,7 +3816,7 @@ msgid ""
 "SQL (PostgreSQL)"
 msgstr "SQL (PostgreSQL)"
 
-#. i18n: file data/sql.xml line 4
+#. i18n: file data/sql.xml line 6
 #: rc.cpp:460
 msgid ""
 "_: Language\n"
