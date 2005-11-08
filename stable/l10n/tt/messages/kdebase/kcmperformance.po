@@ -1,0 +1,215 @@
+# Tatarish localization
+# Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase kcmperformance\n"
+"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"PO-Revision-Date: 2005-08-11 00:00+04\n"
+"Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kcmperformance.cpp:48
+msgid ""
+"<h1>KDE Performance</h1> You can configure settings that improve KDE "
+"performance here."
+msgstr ""
+"<h1>KDE Citezlege</h1> KDE citezlegen arttıruçı köylämälärne bonda caylap bula."
+
+#: kcmperformance.cpp:56
+msgid "Konqueror"
+msgstr "Konqueror"
+
+#: kcmperformance.cpp:60
+msgid "System"
+msgstr "Sistem"
+
+#: kcmperformance.cpp:86
+msgid ""
+"<h1>Konqueror Performance</h1> You can configure several settings that improve "
+"Konqueror performance here. These include options for reusing already running "
+"instances and for keeping instances preloaded."
+msgstr ""
+"<h1>Konqueror Citezlege</h1> Konqueror KDE citezlegen arttıruçı köylämälärne "
+"bonda caylap bula. Alar arasına: aldan uq yöklänep toru, berniçä aşırmanı "
+"xäterdä yöklängän kileş totu."
+
+#: konqueror.cpp:37
+msgid ""
+"Disables the minimization of memory usage and allows you to make each browsing "
+"activity independent from the others"
+msgstr "Xäter qullanu kimetüen sünderep, berniçä bäysez gizgeç cibärergä birü."
+
+#: konqueror.cpp:40
+msgid ""
+"With this option activated, only one instance of Konqueror used for file "
+"browsing will exist in the memory of your computer at any moment, no matter how "
+"many file browsing windows you open, thus reducing resource requirements."
+"<p>Be aware that this also means that, if something goes wrong, all your file "
+"browsing windows will be closed simultaneously"
+msgstr ""
+"Bu köylämä yanıq torsa, niçä täräzäse açılğan bulmasın, sanaq xäterendä "
+"Konqueror'nıñ ber genä aşırması bulaçaq, şulay itep resurslar totıluın kimetep "
+"bula."
+"<p>Läkin ul çaqta saq bulası, çınki berär xata kilep çıqqanda bar täräzäläre dä "
+"yabılğan bulaçaq."
+
+#: konqueror.cpp:48
+msgid ""
+"With this option activated, only one instance of Konqueror will exist in the "
+"memory of your computer at any moment, no matter how many browsing windows you "
+"open, thus reducing resource requirements."
+"<p>Be aware that this also means that, if something goes wrong, all your "
+"browsing windows will be closed simultaneously."
+msgstr ""
+"Bu köylämä yanıq torsa, niçä täräzäse açılğan bulmasın, sanaq xäterendä "
+"Konqueror'nıñ ber genä aşırması bulaçaq, şulay itep resurslar totıluın kimetep "
+"bula."
+"<p>Läkin ul çaqta saq bulası, çınki berär xata kilep çıqqanda bar täräzäläre dä "
+"yabılğan bulaçaq."
+
+#: konqueror.cpp:60
+msgid ""
+"If non-zero, this option allows keeping Konqueror instances in memory after all "
+"their windows have been closed, up to the number specified in this option."
+"<p>When a new Konqueror instance is needed, one of these preloaded instances "
+"will be reused instead, improving responsiveness at the expense of the memory "
+"required by the preloaded instances."
+msgstr ""
+"Konqueror täräzäläre yabılğanda berniçä aşırma ybıp betermiçä xäterdä qala ala, "
+"ul aşırmalar sanı bu köylämädä aşa köylänä."
+"<p>Konqueror'nıñ yaña aşırma kiräk bulğanda, xäterdä yöklängän kileş torğan "
+"aşırmalar qullanılaçaq. Şulay itep, xäter qullanuın arttırıp yökläwne tizlätep "
+"bula."
+
+#: konqueror.cpp:69
+msgid ""
+"If enabled, an instance of Konqueror will be preloaded after the ordinary KDE "
+"startup sequence."
+"<p>This will make the first Konqueror window open faster, but at the expense of "
+"longer KDE startup times (but you will be able to work while it is loading, so "
+"you may not even notice that it is taking longer)."
+msgstr ""
+"Yanıq torsa, KDE ğädättägeçä cibärelgän çaqta Konqueror gizgeçeneñ ber aşırması "
+"aldan yöklänäçäk."
+"<p>Alay itep Konqueror täräzäsen açunı tizlätep bula, läkin KDE cibärelüen "
+"ozınayta (bu ozınayuın sizmäskä dä bula, çönki ul yöklägändä eşläp tä bula)."
+
+#: konqueror.cpp:75
+msgid ""
+"If enabled, KDE will always try to have one preloaded Konqueror instance ready; "
+"preloading a new instance in the background whenever there is not one "
+"available, so that windows will always open quickly."
+"<p><b>Warning:</b> In some cases, it is actually possible that this will reduce "
+"perceived performance."
+msgstr ""
+"Yanıq torsa, Konqueror gizgeçeneñ ber aşırmasın KDE xäterdä äzer kileş totarğa "
+"tırışır. Bar aşırmalar da yöktä bulğan çaqta östämä aşırma açılaçaq."
+"<p><b>Belderü:</b> Çınlıqta bu närsä qayçaqta citezlekne arttıru tügel, kimetä "
+"dä ala."
+
+#. i18n: file konqueror_ui.ui line 27
+#: rc.cpp:3
+#, no-c-format
+msgid "Minimize Memory Usage"
+msgstr "Xäter Qullanuın Keçeräyt"
+
+#. i18n: file konqueror_ui.ui line 38
+#: rc.cpp:6
+#, no-c-format
+msgid "&Never"
+msgstr "&Berqayçan"
+
+#. i18n: file konqueror_ui.ui line 46
+#: rc.cpp:9
+#, no-c-format
+msgid "For &file browsing only (recommended)"
+msgstr "&Birem saylaw öçen genä (kiñäş itelä)"
+
+#. i18n: file konqueror_ui.ui line 54
+#: rc.cpp:12
+#, no-c-format
+msgid "Alwa&ys (use with care)"
+msgstr "&Barçaq (saq belän qullanası)"
+
+#. i18n: file konqueror_ui.ui line 64
+#: rc.cpp:15
+#, no-c-format
+msgid "Preloading"
+msgstr "Aldan yöklänü"
+
+#. i18n: file konqueror_ui.ui line 83
+#: rc.cpp:18
+#, no-c-format
+msgid "Maximum number of instances kept &preloaded:"
+msgstr "&Aldan yöklängän kileş totası aşırma sanın çikläw:"
+
+#. i18n: file konqueror_ui.ui line 118
+#: rc.cpp:21
+#, no-c-format
+msgid "Preload an instance after KDE startup"
+msgstr "KDE cibärelgäç aldan uq aşırma yöklise"
+
+#. i18n: file konqueror_ui.ui line 126
+#: rc.cpp:24
+#, no-c-format
+msgid "Always try to have at least one preloaded instance"
+msgstr "İñ kimendä berär aşırmanı yöklägän kileş totası"
+
+#. i18n: file system_ui.ui line 24
+#: rc.cpp:27
+#, no-c-format
+msgid "System Configuration"
+msgstr "Sistem Caylaw"
+
+#. i18n: file system_ui.ui line 35
+#: rc.cpp:30
+#, no-c-format
+msgid "Disable &system configuration startup check"
+msgstr "Cibärelü çaqta &sistem caylaw tikşerüen sünderü"
+
+#. i18n: file system_ui.ui line 43
+#: rc.cpp:33
+#, no-c-format
+msgid ""
+"<b>WARNING:</b> This option may in rare cases lead to various problems. Consult "
+"the What's This (Shift+F1) help for details."
+msgstr ""
+"<b>BELDERÜ:</b> Bu köylämä siräk oçraqlarda törle qíınlıqlarğa kiterä ala. "
+"Tögälrägen \"Ni Bu?\" digän yärdämendä uqıp bula (Shift+F1)."
+
+#: system.cpp:34
+msgid ""
+"<p>During startup KDE needs to perform a check of its system configuration "
+"(mimetypes, installed applications, etc.), and in case the configuration has "
+"changed since the last time, the system configuration cache (KSyCoCa) needs to "
+"be updated.</p>"
+"<p>This option delays the check, which avoid scanning all directories "
+"containing files describing the system during KDE startup, thus making KDE "
+"startup faster. However, in the rare case the system configuration has changed "
+"since the last time, and the change is needed before this delayed check takes "
+"place, this option may lead to various problems (missing applications in the K "
+"Menu, reports from applications about missing required mimetypes, etc.).</p>"
+"<p>Changes of system configuration mostly happen by (un)installing "
+"applications. It is therefore recommended to turn this option temporarily off "
+"while (un)installing applications.</p>"
+"<p>For this reason, usage of this option is not recommended. The KDE crash "
+"handler will refuse to provide backtrace for the bugreport with this option "
+"turned on (you will need to reproduce it again with this option turned off, or "
+"turn on the developer mode for the crash handler).</p>"
+msgstr ""
+"<p>KDE üz ciberelü çağında sistem caylawın tikşerä (mimetörlär, quyılğan "
+"yazılımnar, b.b.), ul çaqta caylaw üzgärelgän buluı tabılsa, sistem caylawınıñ "
+"alxätere (KSyCoCa) yañartası bula.</p>"
+"<p>Bu köylämä şul tikşerüne kiçekterep, caylaw biremnäre belän törgäklärne "
+"qarap çığuın yasamíça, KDE cibärelüen tizlätä. Soñğı cibärelüdän soñ sistem "
+"caylawı üzgärelgän bulğaç, sistem caylawı belän alxäter yañartılmí qalsa, "
+"qayber qíınlıqlarnıñ kilep çığuı bar, ü.ö. K Saylaqta keremnär citmäw, "
+"mimetörlär citmi digän belderülär, b.b.)</p>"
+"<p>Sistem caylawında üzgäreşlär kübräk törle yazılımnar quyu/beterü çaqlarda "
+"bula, andí arada bu köylämäne sünderep quyarğa kiñäş itelä.</p>"
+"<p>Şuña säbäple bu köylämä qullanu kiñäş itelmi. Ul yanıq torğan çaqta kilep "
+"çıqqan bet turında yomğaqlar da tikşerelmäs.</p>"

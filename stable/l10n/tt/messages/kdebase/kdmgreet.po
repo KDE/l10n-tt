@@ -1,0 +1,545 @@
+# Tatarish localization
+# Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase kdmgreet\n"
+"POT-Creation-Date: 2005-11-05 02:43+0100\n"
+"PO-Revision-Date: 2005-08-11 00:00+04\n"
+"Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kdmconfig.cpp:139
+msgid "[fix kdmrc!]"
+msgstr "[fix kdmrc!]"
+
+#: kdmconfig.cpp:154
+msgid ""
+"_n: %1: TTY login\n"
+"%1: %n TTY logins"
+msgstr "%1: %n TTY totaşuı"
+
+#: kdmconfig.cpp:165
+msgid "Unused"
+msgstr "Qulanılmí"
+
+#: kdmconfig.cpp:167
+msgid ""
+"_: user: session type\n"
+"%1: %2"
+msgstr "%1: %2"
+
+#: kdmconfig.cpp:169
+#, c-format
+msgid ""
+"_: ... host\n"
+"X login on %1"
+msgstr "X %1 hostına kerä"
+
+#: krootimage.cpp:37
+msgid "Fancy desktop background for kdm"
+msgstr "kdm öçen şäp östäl süräte"
+
+#: krootimage.cpp:42
+msgid "Name of the configuration file"
+msgstr "Bu caylaw biremeneñ adı"
+
+#: krootimage.cpp:99
+msgid "KRootImage"
+msgstr "KRootImage"
+
+#: kchooser.cpp:57
+msgid "&Local Login"
+msgstr "&Cirle Kerü"
+
+#: kchooser.cpp:61
+msgid "XDMCP Host Menu"
+msgstr "XDMCP Host Saylağı"
+
+#: kchooser.cpp:66
+msgid "Hostname"
+msgstr "Host adı"
+
+#: kchooser.cpp:68
+msgid "Status"
+msgstr "Xälät"
+
+#: kchooser.cpp:76
+msgid "Hos&t:"
+msgstr "Hos&t:"
+
+#: kchooser.cpp:77
+msgid "A&dd"
+msgstr "&Östä"
+
+#: kchooser.cpp:85
+msgid "&Accept"
+msgstr "&Qabul"
+
+#: kchooser.cpp:87
+msgid "&Refresh"
+msgstr "&Yañart"
+
+#: kchooser.cpp:95 kgreeter.cpp:654
+msgid "&Menu"
+msgstr "&Saylaq"
+
+#: kchooser.cpp:177
+msgid "<unknown>"
+msgstr "<bilgesez>"
+
+#: kchooser.cpp:215
+#, c-format
+msgid "Unknown host %1"
+msgstr "Bilgesez host: %1"
+
+#: kgreeter.cpp:355
+msgid "Custom"
+msgstr "Köyläwle"
+
+#: kgreeter.cpp:356
+msgid "Failsafe"
+msgstr "Çıdamlı"
+
+#: kgreeter.cpp:430
+msgid " (previous)"
+msgstr " (uzğanı)"
+
+#: kgreeter.cpp:489
+msgid ""
+"Your saved session type '%1' is not valid any more.\n"
+"Please select a new one, otherwise 'default' will be used."
+msgstr ""
+"Elek '%1' digän sessi töre bütän kileşmi inde.\n"
+"Başqasın saylap bula, yä isä 'default' qullanılğan bulır."
+
+#: kgreeter.cpp:596
+msgid "Warning: this is an unsecured session"
+msgstr "Belderü: yaqlanmağan sessi"
+
+#: kgreeter.cpp:598
+msgid ""
+"This display requires no X authorization.\n"
+"This means that anybody can connect to it,\n"
+"open windows on it or intercept your input."
+msgstr ""
+"X -tanılu bu küräk öçen kiräk tügel.\n"
+"Barkem dä aña totaşılıp, täräzälär açıp,\n"
+"kerteşne tota ala itep añlarğa kiräk bonı."
+
+#: kgreeter.cpp:651
+msgid "L&ogin"
+msgstr "&Kereş"
+
+#: kgreeter.cpp:683 kgreeter.cpp:821
+msgid "Session &Type"
+msgstr "Sessi &Töre"
+
+#: kgreeter.cpp:689 kgreeter.cpp:828
+msgid "&Authentication Method"
+msgstr "&Tanılu Isulı"
+
+#: kgreeter.cpp:694 kgreeter.cpp:833
+msgid "&Remote Login"
+msgstr "&Çittän Kerü"
+
+#: kgreeter.cpp:769
+msgid "Login Failed."
+msgstr "Kerep bulmadı."
+
+#: kconsole.cpp:75
+msgid "Cannot open console"
+msgstr "Terminal açıp bulmadı"
+
+#: kconsole.cpp:159
+msgid ""
+"\n"
+"*** Cannot open console log source ***"
+msgstr ""
+"\n"
+"*** Terminal köndälegen açıp bulmadı ***"
+
+#: kgdialog.cpp:61
+msgid "Sw&itch User"
+msgstr "Q&ullanuçın Almaştıru"
+
+#: kgdialog.cpp:73
+msgid "R&estart X Server"
+msgstr "X-Serverne Yañadan Cibär"
+
+#: kgdialog.cpp:73
+msgid "Clos&e Connection"
+msgstr "Totaşunı Ya&p"
+
+#: kgdialog.cpp:84
+msgid "Co&nsole Login"
+msgstr "Ko&nsol Kereşe"
+
+#: kgdialog.cpp:87
+msgid "&Shutdown..."
+msgstr "&Tiqtatu..."
+
+#: kgdialog.cpp:227
+msgid ""
+"_: session (location)\n"
+"%1 (%2)"
+msgstr "%1 (%2)"
+
+#: kgverify.cpp:177
+msgid "No greeter widget plugin loaded. Check the configuration."
+msgstr "Sälämläw öçen yöklängän quşılma yuq. Caylanunı tikşerep alası."
+
+#: kgverify.cpp:435
+msgid ""
+"Authenticating %1 ...\n"
+"\n"
+msgstr ""
+"%1 tanılu...\n"
+"\n"
+
+#: kgverify.cpp:439
+msgid "You are required to change your password immediately (password aged)."
+msgstr "Üz sersüzen xäzer ük almaştırırğa kiräk (sersüz iskerde)."
+
+#: kgverify.cpp:440
+msgid "You are required to change your password immediately (root enforced)."
+msgstr "Üz sersüzen xäzer ük almaştırırğa kiräk (root quşqan)."
+
+#: kgverify.cpp:441
+msgid "You are not allowed to login at the moment."
+msgstr "Bu çaqta siña kerep bulmí dip quyılğan."
+
+#: kgverify.cpp:442
+msgid "Home folder not available."
+msgstr "Töp törgäk tabılmadı."
+
+#: kgverify.cpp:443
+msgid ""
+"Logins are not allowed at the moment.\n"
+"Try again later."
+msgstr ""
+"Bu arada kerü tíılğan buldı.\n"
+"Soñraq tağın qarísı."
+
+#: kgverify.cpp:444
+msgid "Your login shell is not listed in /etc/shells."
+msgstr "Kerü qabığı /etc/shells digän tezmädä yuq."
+
+#: kgverify.cpp:445
+msgid "Root logins are not allowed."
+msgstr "Root belän kerep bulmí."
+
+#: kgverify.cpp:446
+msgid "Your account has expired; please contact your system administrator."
+msgstr "Bu xisap iskergän inde; sistem idäräçesenä endäşergä kiräk."
+
+#: kgverify.cpp:456
+msgid ""
+"A critical error occurred.\n"
+"Please look at KDM's logfile(s) for more information\n"
+"or contact your system administrator."
+msgstr ""
+"Ütmäslek xata kilep çıqtı.\n"
+"Kübrägen KDM'neñ köndälegendä kürep alası,\n"
+"yä ki system idäräçesenä belderäse."
+
+#: kgverify.cpp:482
+#, c-format
+msgid ""
+"_n: Your account expires tomorrow.\n"
+"Your account expires in %n days."
+msgstr "Xísabıñ %n könnän soñ iskergän bulaçaq."
+
+#: kgverify.cpp:483
+msgid "Your account expires today."
+msgstr "Xísabıñ bugön iskergän bulaçaq."
+
+#: kgverify.cpp:490
+#, c-format
+msgid ""
+"_n: Your password expires tomorrow.\n"
+"Your password expires in %n days."
+msgstr "Sersüzeñ %n könnän soñ iskeräyäçäk."
+
+#: kgverify.cpp:491
+msgid "Your password expires today."
+msgstr "Sersüzeñ bügen iskeräyäçäk."
+
+#: kgverify.cpp:558 kgverify.cpp:1003
+msgid "Authentication failed"
+msgstr "Tanılu uzmadı"
+
+#: kgverify.cpp:695
+msgid ""
+"Authenticated user (%1) does not match requested user (%2).\n"
+msgstr ""
+"Tanılunı uzğan qullanuçı (%1) soralğan qullanuçığa turı kilmi (%2).\n"
+
+#: kgverify.cpp:986
+#, c-format
+msgid ""
+"_n: Automatic login in 1 second ...\n"
+"Automatic login in %n seconds ..."
+msgstr ""
+
+#: kgverify.cpp:995
+msgid "Warning: Caps Lock on"
+msgstr "Beldermä: Caps Lock açıq"
+
+#: kgverify.cpp:1000
+msgid "Change failed"
+msgstr "Üzgärtep bulmadı"
+
+#: kgverify.cpp:1002
+msgid "Login failed"
+msgstr "Kerep bulmadı"
+
+#: kgverify.cpp:1036
+msgid "Theme not usable with authentication method '%1'."
+msgstr "Bu tışlawnı '%1' digän tanıtu ısulı belän qullanıp bulmí."
+
+#: kgverify.cpp:1091
+msgid "Changing authentication token"
+msgstr "Tanılu açqıçın üzgärtü"
+
+#: kdmshutdown.cpp:92
+msgid "Root authorization required."
+msgstr "Root belän kerü kiräk."
+
+#: kdmshutdown.cpp:123 kdmshutdown.cpp:516
+msgid "&Schedule..."
+msgstr "&Tezemgä quyu..."
+
+#: kdmshutdown.cpp:246
+msgid "Shutdown Type"
+msgstr "Tuqtatu Isulı"
+
+#: kdmshutdown.cpp:250
+msgid "&Turn off computer"
+msgstr "Sanaqnı &sünder "
+
+#: kdmshutdown.cpp:254
+msgid "&Restart computer"
+msgstr "&Sanaqnı yänä yöklä"
+
+#: kdmshutdown.cpp:282
+msgid "Scheduling"
+msgstr "Kiçekterü"
+
+#: kdmshutdown.cpp:286
+msgid "&Start:"
+msgstr "&Başlaw:"
+
+#: kdmshutdown.cpp:289
+msgid "T&imeout:"
+msgstr "&Kiçertterü:"
+
+#: kdmshutdown.cpp:291
+msgid "&Force after timeout"
+msgstr "Ara üzkäç &köçläp"
+
+#: kdmshutdown.cpp:340
+msgid "Entered start date is invalid."
+msgstr "Başlaw waqıt kertü yaraqsız."
+
+#: kdmshutdown.cpp:349
+msgid "Entered timeout date is invalid."
+msgstr "Kiçertterü arası kertü yaraqsız."
+
+#: kdmshutdown.cpp:482
+msgid "&Turn Off Computer"
+msgstr "&Sünder Sanaqnı"
+
+#: kdmshutdown.cpp:489
+msgid "&Restart Computer"
+msgstr "&Sanaqnı Yañadan Yöklä"
+
+#: kdmshutdown.cpp:504
+msgid ""
+"_: current option in boot loader\n"
+"%1 (current)"
+msgstr "%1 (xäzerge)"
+
+#: kdmshutdown.cpp:608
+msgid "Turn Off Computer"
+msgstr "Sünder Sanaqnı"
+
+#: kdmshutdown.cpp:611
+msgid "Switch to Console"
+msgstr "Konsolğa Küç"
+
+#: kdmshutdown.cpp:613
+msgid "Restart Computer"
+msgstr "Sanaqnı Yänä Yöklä"
+
+#: kdmshutdown.cpp:615
+msgid "<br>(Next boot: %1)"
+msgstr "<br>(Kiläse yökläw: %1)"
+
+#: kdmshutdown.cpp:627
+msgid "Abort active sessions:"
+msgstr "Eşçän sessilär özü:"
+
+#: kdmshutdown.cpp:628
+msgid "No permission to abort active sessions:"
+msgstr "Eşläwçe sessilär özerlek xoquqlar yuq:"
+
+#: kdmshutdown.cpp:635
+msgid "Session"
+msgstr "Sessi"
+
+#: kdmshutdown.cpp:636
+msgid "Location"
+msgstr "Urnaşılu"
+
+#: kdmshutdown.cpp:667
+msgid "Abort pending shutdown:"
+msgstr "Kötterelgän tuqtanunı özü:"
+
+#: kdmshutdown.cpp:668
+msgid "No permission to abort pending shutdown:"
+msgstr "Başlanğan tuqtatunı özerlek xoquqlar yuq:"
+
+#: kdmshutdown.cpp:674
+msgid "now"
+msgstr "xäzer"
+
+#: kdmshutdown.cpp:680
+msgid "infinite"
+msgstr "çiksez"
+
+#: kdmshutdown.cpp:686
+msgid ""
+"Owner: %1\n"
+"Type: %2%5\n"
+"Start: %3\n"
+"Timeout: %4"
+msgstr ""
+"İäse: %1\n"
+"Töre: %2%5\n"
+"Başlaw: %3\n"
+"Kiçertterü: %4"
+
+#: kdmshutdown.cpp:691
+msgid "console user"
+msgstr "konsol qullanuçı"
+
+#: kdmshutdown.cpp:693
+msgid "control socket"
+msgstr "idärä öyäse"
+
+#: kdmshutdown.cpp:696
+msgid "turn off computer"
+msgstr "sanaq sünderü"
+
+#: kdmshutdown.cpp:697
+msgid "restart computer"
+msgstr "sanaqnı yänä yökläw"
+
+#: kdmshutdown.cpp:700
+#, c-format
+msgid ""
+"\n"
+"Next boot: %1"
+msgstr ""
+"\n"
+"Kiläse yökläw: %1"
+
+#: kdmshutdown.cpp:703
+#, c-format
+msgid ""
+"\n"
+"After timeout: %1"
+msgstr ""
+"\n"
+"Kötkännän soñ: %1"
+
+#: kdmshutdown.cpp:705
+msgid "abort all sessions"
+msgstr "bar sessine dä özder"
+
+#: kdmshutdown.cpp:707
+msgid "abort own sessions"
+msgstr "üz sessilärne özü"
+
+#: kdmshutdown.cpp:708
+msgid "cancel shutdown"
+msgstr "sünderüne tuqtat"
+
+#: themer/kdmlabel.cpp:170
+msgid "Language"
+msgstr "Tel"
+
+#: themer/kdmlabel.cpp:171
+msgid "Session Type"
+msgstr "Sessi Töre"
+
+#: themer/kdmlabel.cpp:172
+msgid "Menu"
+msgstr "Saylaq"
+
+#: themer/kdmlabel.cpp:173
+msgid "Disconnect"
+msgstr "Ayırıl"
+
+#: themer/kdmlabel.cpp:175
+msgid "Power off"
+msgstr "Sünder"
+
+#: themer/kdmlabel.cpp:176
+msgid "Suspend"
+msgstr "Tuqtatu"
+
+#: themer/kdmlabel.cpp:177
+msgid "Reboot"
+msgstr "Yaña yöklän"
+
+#: themer/kdmlabel.cpp:178
+msgid "XDMCP Chooser"
+msgstr "XDMCP Saylağıç"
+
+#: themer/kdmlabel.cpp:180
+msgid "You have got caps lock on."
+msgstr "Caps Lock töymäse yandırıldı."
+
+#: themer/kdmlabel.cpp:181
+#, c-format
+msgid "User %s will login in %d seconds"
+msgstr "%s atlı qullanuçı kerer, %d sekund eçendä"
+
+#: themer/kdmlabel.cpp:182
+#, c-format
+msgid "Welcome to %h"
+msgstr "%h Säläm di!"
+
+#: themer/kdmlabel.cpp:183
+msgid "Username:"
+msgstr "Qullanuçı:"
+
+#: themer/kdmlabel.cpp:184
+msgid "Password:"
+msgstr "Sersüz:"
+
+#: themer/kdmlabel.cpp:185
+msgid "Login"
+msgstr "Kereş"
+
+#: themer/kdmlabel.cpp:225
+#, no-c-format
+msgid ""
+"_: date format\n"
+"%a %d %B"
+msgstr "%a %d %B"
+
+#: themer/kdmthemer.cpp:67
+#, c-format
+msgid "Cannot open theme file %1"
+msgstr "%1 digän tışlaw biremen açıp bulmadı"
+
+#: themer/kdmthemer.cpp:71
+#, c-format
+msgid "Cannot parse theme file %1"
+msgstr "%1 digän tışlaw biremen uqıp çığıp bulmadı"

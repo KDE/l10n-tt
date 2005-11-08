@@ -1,0 +1,96 @@
+# Tatarish localization
+# Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase kcmlaunch\n"
+"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"PO-Revision-Date: 2005-08-11 00:00+04\n"
+"Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kcmlaunch.cpp:45
+msgid ""
+"<h1>Launch Feedback</h1> You can configure the application-launch feedback "
+"here."
+msgstr ""
+"<h1>Cibärelü Çağılışı</h1> Yazılımnar cibärelgändä çağılışnı bonda köyläp bula."
+
+#: kcmlaunch.cpp:49
+msgid "Bus&y Cursor"
+msgstr "&Yökle Kürsär"
+
+#: kcmlaunch.cpp:51
+msgid ""
+"<h1>Busy Cursor</h1>\n"
+"KDE offers a busy cursor for application startup notification.\n"
+"To enable the busy cursor, select one kind of visual feedback\n"
+"from the combobox.\n"
+"It may occur, that some applications are not aware of this startup\n"
+"notification. In this case, the cursor stops blinking after the time\n"
+"given in the section 'Startup indication timeout'"
+msgstr ""
+"<h1>Yökle Kürsär</h1>\n"
+"Yazılım yöklänüen belderü öçen, KDE yökle kürsär kürsätergä birä.\n"
+"Ul yökle kürsär qullanunı açu öçen, bu saylaw qırında anın berär tören "
+"saylísı.\n"
+"Qayber yazılımnar üz yöklänü waqıtın beldermi toruınıñ da buluı bar.\n"
+"Andí çaqlarda kürsär cemeldäwe 'Yöklänü kürsätü arası' digän qırında waqıt "
+"uzuınnan soñ sünäçäk."
+
+#: kcmlaunch.cpp:69
+msgid "No Busy Cursor"
+msgstr "Yöktä Uqlar Yuq"
+
+#: kcmlaunch.cpp:70
+msgid "Passive Busy Cursor"
+msgstr "Passif Yökle Uq"
+
+#: kcmlaunch.cpp:71
+msgid "Blinking Cursor"
+msgstr "Cimeldüçe Kürsär"
+
+#: kcmlaunch.cpp:72
+msgid "Bouncing Cursor"
+msgstr "Kürsär Sikertü"
+
+#: kcmlaunch.cpp:79
+msgid "&Startup indication timeout:"
+msgstr "&Yöklänü kürsätü arası:"
+
+#: kcmlaunch.cpp:83 kcmlaunch.cpp:120
+msgid " sec"
+msgstr " sek"
+
+#: kcmlaunch.cpp:90
+msgid "Taskbar &Notification"
+msgstr "Yöktirädän &Belderü"
+
+#: kcmlaunch.cpp:91
+msgid ""
+"<H1>Taskbar Notification</H1>\n"
+"You can enable a second method of startup notification which is\n"
+"used by the taskbar where a button with a rotating hourglass appears,\n"
+"symbolizing that your started application is loading.\n"
+"It may occur, that some applications are not aware of this startup\n"
+"notification. In this case, the button disappears after the time\n"
+"given in the section 'Startup indication timeout'"
+msgstr ""
+"<H1>Yöktirädän Belderü</H1>\n"
+"Yöklänü turında yöktirädän belderüne saylap bula, ul çaqta yazılım\n"
+"yöklänü turında belderü öcen yöktirä töymäsendä äylängän disk kürsäteläçäk.\n"
+"Qayber yazılımnar üz yöklänü turından berniçek tä beldermilär,\n"
+"ul çaqta bondí belderü ısulınnan uñaylıq kürep bula.\n"
+"'Yöklänüne Kürsätü Arası' digän köylämädä äytelgän ara ütkäç\n"
+"disk äylänü betäçäk."
+
+#: kcmlaunch.cpp:109
+msgid "Enable &taskbar notification"
+msgstr "Yök&tirä belderüen açası"
+
+#: kcmlaunch.cpp:116
+msgid "Start&up indication timeout:"
+msgstr "Yöklänü kürsätü &arası:"

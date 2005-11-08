@@ -1,0 +1,132 @@
+# Tatarish localization
+# Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase kcmbell\n"
+"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"PO-Revision-Date: 2005-08-11 00:00+04\n"
+"Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: bell.cpp:73
+msgid "Bell Settings"
+msgstr "Zil Caylaw"
+
+#: bell.cpp:82
+msgid "&Use system bell instead of system notification"
+msgstr "Sistem belderüläre urınına sistem zilen &qullanası"
+
+#: bell.cpp:83
+msgid ""
+"You can use the standard system bell (PC speaker) or a more sophisticated "
+"system notification, see the \"System Notifications\" control module for the "
+"\"Something Special Happened in the Program\" event."
+msgstr ""
+"Sistemneñ töp zile (PC söylätkeçe) urınına köyläwle belderülär dä qullanıp "
+"bula, bonı öçen \"Sistem Belderüläre\" digän caylaw bülegenä kerep, "
+"yazılımnarda eşläw çağılışın köyläp bula."
+
+#: bell.cpp:91
+msgid ""
+"<h1>System Bell</h1> Here you can customize the sound of the standard system "
+"bell, i.e. the \"beep\" you always hear when there is something wrong. Note "
+"that you can further customize this sound using the \"Accessibility\" control "
+"module; for example, you can choose a sound file to be played instead of the "
+"standard bell."
+msgstr ""
+"<h1>Sistem Zile</h1> Sistemneñ töp zil tawışın bonda köyläp bula, berär närsä "
+"yalğış eşlägändä yañğırawçı tawış ul. Anıñ östämä caylawın \"Qulaylıq\" digän "
+"idärä modulında tabıp bula, ü.ö. şul töp zil urınına berär tawış biremen "
+"uynattırırğa bula."
+
+#: bell.cpp:97
+msgid "&Volume:"
+msgstr "&Köç:"
+
+#: bell.cpp:102
+msgid ""
+"Here you can customize the volume of the system bell. For further customization "
+"of the bell, see the \"Accessibility\" control module."
+msgstr ""
+"Sistem zileneñ köçen bonda köyläp bula. Östämä köyläwlär \"Qulaylıq\" digän "
+"modul eçendä tabıp bula."
+
+#: bell.cpp:106
+msgid "&Pitch:"
+msgstr "&Adım:"
+
+#: bell.cpp:108
+msgid " Hz"
+msgstr " Hz"
+
+#: bell.cpp:111
+msgid ""
+"Here you can customize the pitch of the system bell. For further customization "
+"of the bell, see the \"Accessibility\" control module."
+msgstr ""
+"Sistem zileneñ qalınlığı bonda köyläp bula. Östämä köyläwlär \"Qulaylıq\" digän "
+"modul eçendä tabıp bula."
+
+#: bell.cpp:115
+msgid "&Duration:"
+msgstr "&Eş arası:"
+
+#: bell.cpp:117
+msgid " msec"
+msgstr " msek"
+
+#: bell.cpp:120
+msgid ""
+"Here you can customize the duration of the system bell. For further "
+"customization of the bell, see the \"Accessibility\" control module."
+msgstr ""
+"Sistem zile yañğırağan ozınlığın bonda köyläp bula. Östämä köyläwlär "
+"\"Qulaylıq\" digän modul eçendä tabıp bula."
+
+#: bell.cpp:124
+msgid "&Test"
+msgstr "&Sınaw"
+
+#: bell.cpp:128
+msgid ""
+"Click \"Test\" to hear how the system bell will sound using your changed "
+"settings."
+msgstr ""
+"\"Sınaw\" östenä çirtep, tawış caylawına kertkän üzgäreşlär çağılışın tıñlap "
+"bula."
+
+#: bell.cpp:136
+msgid "kcmbell"
+msgstr "kcmbell"
+
+#: bell.cpp:136
+msgid "KDE Bell Control Module"
+msgstr "KDE'neñ Zil İdärä Modulı"
+
+#: bell.cpp:138
+msgid "(c) 1997 - 2001 Christian Czezatke, Matthias Elter"
+msgstr "(c) 1997 - 2001 Christian Czezatke, Matthias Elter"
+
+#: bell.cpp:140
+msgid "Original author"
+msgstr "Baş yazuçı"
+
+#: bell.cpp:142
+msgid "Current maintainer"
+msgstr "Xäzerge qatnaşuçı"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Tatarish Localizators"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "tatarish-l10n@gmail.com"

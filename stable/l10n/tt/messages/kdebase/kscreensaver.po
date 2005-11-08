@@ -1,0 +1,67 @@
+# Tatarish localization
+# Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase kscreensaver\n"
+"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"PO-Revision-Date: 2005-08-11 00:00+04\n"
+"Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: blankscrn.cpp:27
+msgid "KBlankScreen"
+msgstr "KBlankScreen"
+
+#: blankscrn.cpp:45
+msgid "Setup Blank Screen Saver"
+msgstr "Buş Küräk Saqlağıçnı Caylaw"
+
+#: blankscrn.cpp:53
+msgid "Color:"
+msgstr "Tös:"
+
+#: random.cpp:41
+msgid ""
+"Usage: %1 [-setup] [args]\n"
+"Starts a random screen saver.\n"
+"Any arguments (except -setup) are passed on to the screen saver."
+msgstr ""
+"Qullanu: %1 [-setup] [köylämä]\n"
+"Kuräk saqçıları arasınnan berärsen cibärä.\n"
+"Şul kuräk-saqçığa tapşırası köylämälär (-setup bulmağan)."
+
+#: random.cpp:48
+msgid "Start a random KDE screen saver"
+msgstr "KDE'nıñ küräk-saqçılarınnan berärsen cibär"
+
+#: random.cpp:54
+msgid "Setup screen saver"
+msgstr "Küräksaqçını caylaw"
+
+#: random.cpp:55
+msgid "Run in the specified XWindow"
+msgstr "Äytelgän XWindow eçendä cibär"
+
+#: random.cpp:56
+msgid "Run in the root XWindow"
+msgstr "Root XWindow eçendä cibär"
+
+#: random.cpp:66
+msgid "Random screen saver"
+msgstr "Berär küräk-saqçı"
+
+#: random.cpp:212
+msgid "Setup Random Screen Saver"
+msgstr "Oçraqlı Küräk-Saqçı Caylawı"
+
+#: random.cpp:219
+msgid "Use OpenGL screen savers"
+msgstr "OpenGL küräk-saqçılar qullanası"
+
+#: random.cpp:222
+msgid "Use screen savers that manipulate the screen"
+msgstr "Kuräkne üzgärtüçe küräk-saqçılarnı da qullanası"

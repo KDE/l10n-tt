@@ -1,0 +1,559 @@
+# Tatarish localization
+# Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase kfontinst\n"
+"POT-Creation-Date: 2005-10-10 02:40+0200\n"
+"PO-Revision-Date: 2005-08-11 00:00+04\n"
+"Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kcmfontinst/KCmFontInst.cpp:87
+msgid "KDE Font Installer"
+msgstr "KDE Şäkel Quydırğıçı"
+
+#: kcmfontinst/KCmFontInst.cpp:90
+msgid ""
+"GUI front end to the fonts:/ ioslave.\n"
+"(c) Craig Drummond, 2000 - 2004"
+msgstr ""
+"fonts:/ cıhazı öçen sızımlı yözara\n"
+"(c) Craig Drummond, 2000-2004"
+
+#: kcmfontinst/KCmFontInst.cpp:92
+msgid "Developer and maintainer"
+msgstr "Üsterüçe häm qarawçı"
+
+#: kcmfontinst/KCmFontInst.cpp:157 kcmfontinst/KCmFontInst.cpp:220
+msgid "Add Fonts..."
+msgstr "Yazu Östäw..."
+
+#: kcmfontinst/KCmFontInst.cpp:172
+msgid ""
+"<b>The fonts shown are your personal fonts.</b>"
+"<br>To see (and install) system-wide fonts, click on the \"Administrator Mode\" "
+"button below."
+msgstr ""
+"<b>Kürsätelgän şriftlar sineñ xosusí şriftlarıñ bula.</b>"
+"Sistem şriftların kürer (häm quyar) öçen astağı \"İdäräçe Torımı\" töymäsenä "
+"bas."
+
+#: kcmfontinst/KCmFontInst.cpp:213
+msgid "Show Bitmap Fonts"
+msgstr "Bitmap Şriftlar Kürsätäse"
+
+#: kcmfontinst/KCmFontInst.cpp:234
+msgid "Configure..."
+msgstr "Caylaw..."
+
+#: kcmfontinst/KCmFontInst.cpp:238
+msgid "Print..."
+msgstr "Bastıru..."
+
+#: kcmfontinst/KCmFontInst.cpp:317
+msgid ""
+"<h1>Font Installer</h1>"
+"<p> This module allows you to install TrueType, Type1, and Bitmap fonts.</p>"
+"<p>You may also install fonts using Konqueror: type fonts:/ into Konqueror's "
+"location bar and this will display your installed fonts. To install a font, "
+"simply copy one into the folder.</p>"
+msgstr ""
+"<h1>Yazu Quydırğıç</h1>"
+"<p>Bu bülektä TrueType, Type1 häm Bitmap şriftların quyarğa bula.</p>"
+"<p>Şriftlarnı Konqueror belän dä quyarğa bula: şriftlarnı Konqueror'nıñ urın "
+"tiräsenä cí da Konqueror quyılğan şriftlarnı kürsäter. Şrift quyar öçen anı "
+"törgäkkä kübäytep salası.</p>"
+
+#: kcmfontinst/KCmFontInst.cpp:324
+msgid ""
+"<h1>Font Installer</h1>"
+"<p> This module allows you to install TrueType, Type1, and Bitmap fonts.</p>"
+"<p>You may also install fonts using Konqueror: type fonts:/ into Konqueror's "
+"location bar and this will display your installed fonts. To install a font, "
+"simply copy it into the appropriate folder -  \"Personal\" for fonts available "
+"to just yourself, or  \"System\" for system-wide fonts (available to all).</p>"
+"<p><b>NOTE:</b> As you are not logged in as \"root\", any fonts installed will "
+"only be available to you. To install fonts system-wide, use the \"Administrator "
+"Mode\" button to run this module as \"root\".</p>"
+msgstr ""
+"<h1>Yazu Quydırğıç</h1>"
+"<p>Bu bülektä TrueType, Type1 häm Bitmap şriftların quyarğa bula.</p>"
+"<p>Şriftlarnı Konqueror belän dä quyarğa bula: şriftlarnı Konqueror'nıñ urın "
+"tiräsenä cí da Konqueror quyılğan şriftlarnı kürsäter. Şrift quyar öçen anı "
+"kiläse törgäklärneñ bersenä sal: \"Xosusí\" - sin genä qullana alğan şriftlar "
+"öçen; \"Sistem\" -  böten sistem (härkemgä yaraqlı) şriftlar öçen.</p>"
+"<p><b>BELÄSE:</b>\"root\" bulıp kermägän bulsañ, barlıq quyılğan şriftlar siña "
+"ğına yaraqlı bulır. Böten sistem öçen şriftlarnı quyar öçen, \"İdäräçe "
+"Torımın\" töymäsenä basıp, bu bülekkä ker.</p>"
+
+#: kcmfontinst/KCmFontInst.cpp:421
+msgid "Add Fonts"
+msgstr "Yazu Östäw"
+
+#: kcmfontinst/KCmFontInst.cpp:430
+msgid "You did not select anything to delete."
+msgstr "Taşlanaçaq berni dä saylamadıñ."
+
+#: kcmfontinst/KCmFontInst.cpp:430
+msgid "Nothing to Delete"
+msgstr "Bernine dä Taşlama"
+
+#: kcmfontinst/KCmFontInst.cpp:454
+msgid ""
+"<qt>Do you really want to delete\n"
+" <b>'%1'</b>?</qt>"
+msgstr "<qt><b>'%1'</b> yazuın çınlap ta taşlísımı?</qt>"
+
+#: kcmfontinst/KCmFontInst.cpp:455
+msgid "Delete Font"
+msgstr "Şriftne Taşla"
+
+#: kcmfontinst/KCmFontInst.cpp:459
+#, c-format
+msgid ""
+"_n: Do you really want to delete this font?\n"
+"Do you really want to delete these %n fonts?"
+msgstr "Bu %n yazunı çınlap ta taşlísımı?"
+
+#: kcmfontinst/KCmFontInst.cpp:461
+msgid "Delete Fonts"
+msgstr "Yazunı Taşla"
+
+#: kcmfontinst/KCmFontInst.cpp:535
+msgid ""
+"There are no printable fonts.\n"
+"You can only print non-bitmap fonts."
+msgstr ""
+"Bastıru şriftläre yuq.\n"
+"Bitmap bulmağan şriftlarnı ğına bastırıp bula."
+
+#: kcmfontinst/KCmFontInst.cpp:536
+msgid "Cannot Print"
+msgstr "Bastırıp Bulmadı"
+
+#: kcmfontinst/KCmFontInst.cpp:561
+#, c-format
+msgid ""
+"_n: One Font\n"
+"%n Fonts"
+msgstr "%n Yazu"
+
+#: kcmfontinst/KCmFontInst.cpp:581
+msgid "(%1 Total)"
+msgstr "(Barısı %1)"
+
+#: kcmfontinst/KCmFontInst.cpp:584
+#, c-format
+msgid ""
+"_n: One Family\n"
+"%n Families"
+msgstr "%n Ğäilä"
+
+#: kcmfontinst/KCmFontInst.cpp:611
+msgid ""
+"<p>Please note that any open applications will need to be restarted in order "
+"for any changes to be noticed."
+"<p>"
+"<p>(You will also have to restart this application in order to use its print "
+"function on any newly installed fonts.)</p>"
+msgstr ""
+"<p>Üzgärülär tormışqa aşsınnar öçen, açıq yazılımnarnıñ barısın da yabası "
+"bar.</p>"
+"<p>(Yaña quyılğan şriftlär belän bastırır öçen bu yazılımnı da yabıp yañadan "
+"yöklise bar.)</p>"
+
+#: kcmfontinst/KCmFontInst.cpp:615
+msgid ""
+"Please note that any open applications will need to be restarted in order for "
+"any changes to be noticed."
+msgstr ""
+"Üzgärülärneñ tormışqa aşqanı öçen barlıq açıq yazılımnarnı yabası bula."
+
+#: kcmfontinst/KCmFontInst.cpp:618 viewpart/FontViewPart.cpp:244
+msgid "Success"
+msgstr "Uñışlı"
+
+#: kcmfontinst/KFileFontView.cpp:73
+msgid "Detailed View"
+msgstr "Centekle Küreneş"
+
+#: kcmfontinst/KFileFontView.cpp:75
+msgid "Name"
+msgstr "İsem"
+
+#: kcmfontinst/KFileFontView.cpp:76
+msgid "Size"
+msgstr "Olılıq"
+
+#: kcmfontinst/KFileFontView.cpp:77
+msgid "Type"
+msgstr "Tör"
+
+#: kcmfontinst/PrintDialog.cpp:39
+msgid "Print Font Samples"
+msgstr "Basma Şrift Ürnäge"
+
+#: kcmfontinst/PrintDialog.cpp:44
+msgid "Output:"
+msgstr "Çığım:"
+
+#: kcmfontinst/PrintDialog.cpp:46
+#, fuzzy
+msgid "All Fonts"
+msgstr "Bar şriftlar"
+
+#: kcmfontinst/PrintDialog.cpp:47
+#, fuzzy
+msgid "Selected Fonts"
+msgstr "Saylanğan şriftlär"
+
+#: kcmfontinst/PrintDialog.cpp:49
+msgid "Font size:"
+msgstr "Şrift ülçäme:"
+
+#: kcmfontinst/PrintDialog.cpp:51
+msgid "Waterfall"
+msgstr "Şarlama"
+
+#: kcmfontinst/PrintDialog.cpp:52
+msgid "12pt"
+msgstr "12pt"
+
+#: kcmfontinst/PrintDialog.cpp:53
+msgid "18pt"
+msgstr "18pt"
+
+#: kcmfontinst/PrintDialog.cpp:54
+msgid "24pt"
+msgstr "24pt"
+
+#: kcmfontinst/PrintDialog.cpp:55
+msgid "36pt"
+msgstr "36pt"
+
+#: kcmfontinst/PrintDialog.cpp:56
+msgid "48pt"
+msgstr "48pt"
+
+#: kcmfontinst/SettingsDialog.cpp:46
+msgid "Settings"
+msgstr "Köyläw"
+
+#: kcmfontinst/SettingsDialog.cpp:51
+msgid "Configure fonts for legacy X applications"
+msgstr "Çın X yazılımnar öçen şriftlär caylaw"
+
+#: kcmfontinst/SettingsDialog.cpp:52
+msgid ""
+"<p>Modern applications use a system called \"FontConfig\" to obtain the list of "
+"fonts. Older applications, such as OpenOffice 1.x, GIMP 1.x, etc. use the "
+"previous \"core X fonts\" mechanism for this.</p>"
+"<p>Selecting this option will inform the installer to create the necessary "
+"files so that these older applications can use the fonts you install.</p>"
+"<p>Please note, however, that this will slow down the installation process."
+"<p>"
+msgstr ""
+"<p>Zamana yazılımnar şrift isemlegen buldırır öçen \"FontConfig\" atlı sistemne "
+"qullana. OpenOffice 1.x, GIMP 1.x kebek iskeräk yazılımnar ul öçen \"core X "
+"fonts\" ısulın qullana.</p>"
+"<p>Bu mömkinlekne saylap, iske yazılımnar bu quyılğan şriftne dä qullana "
+"alsınnar öçen kiräk bulğan biremnärne yasat digän, quydırğıçqa xäbär "
+"bireler.</p>"
+"<p>Bu närsä barçaqta da quyu eşen beraz äkrenäyter."
+"<p>"
+
+#: kcmfontinst/SettingsDialog.cpp:57
+msgid "Configure fonts for Ghostscript"
+msgstr "Ghostscript şriftlären caylaw"
+
+#: kcmfontinst/SettingsDialog.cpp:58
+msgid ""
+"<p>When printing, most applications create what is know as PostScript. This is "
+"then sent to a special application, named Ghostscript, which can interpret the "
+"PostScript and send the appropriate instructions to your printer. If your "
+"application does not embed whatever fonts it uses into the PostScript, then "
+"Ghostscript needs to be informed as to which fonts you have installed, and "
+"where they are located.</p>"
+"<p>Selecting this option will create the necessary Ghostscript config files.</p>"
+"<p>Please note, however, that this will also slow down the installation "
+"process.</p>"
+"<p>As most applications can, and do, embed the fonts into the PostScript before "
+"sending this to Ghostscript, this option can safely be disabled."
+msgstr ""
+"<p>Yazılımnarnıñ kübese, berär närsä bastırğanda PostScript bulıp atalğan "
+"närsäne qoralar. Ul PostScriptlarnı eşkärtep, basaqqa ämer birgän Ghostscript "
+"atlı ber ayırım yazılımğa cibärelä. Yazılımıñ ul qullanğan şriftlärne "
+"PostScript'qa çığara almí ikän, nindi şrift aşa çığarasın Ghostscript'qa "
+"belderäse bar.</p>"
+"<p>Bu mömkinlek saylansa, Ghostscript öçen caybiremnär qorılır.</p>"
+"<p>Quyu eşe barçaqta da beraz suzılaçaq.</p>"
+"<p>Üz yögen Ghostscript'qa cibärer aldınnan, yazılımnarnıñ kübese şriftlarnı "
+"PostScript'qa sala, şuña kürä dä bu köylämäme borçılmíça sünderep bula."
+
+#: kcmfontinst/SettingsDialog.cpp:84
+msgid ""
+"You have enabled a previously disabled option. Would you like the config files "
+"updated now? (Normally they are only updated upon installing, or removing, a "
+"font.)"
+msgstr ""
+"Sin elek sünderelgän köylämäne açtıñ. Caylaw biremnären xäzer ük yañartasımı? "
+"(ğädättä alar şrift quyu/taşlaw çağında ğına yañartıla)"
+
+#: kcmfontinst/SettingsDialog.cpp:86
+msgid "Update"
+msgstr "Yañart"
+
+#: kcmfontinst/SettingsDialog.cpp:86
+msgid "Do Not Update"
+msgstr "Yañartma"
+
+#: kfile-plugin/KFileFont.cpp:287
+msgid "General"
+msgstr "Töptän"
+
+#: kfile-plugin/KFileFont.cpp:289
+msgid "Full Name"
+msgstr "Tulı İsem"
+
+#: kfile-plugin/KFileFont.cpp:290
+msgid "Family"
+msgstr "Ğäilä"
+
+#: kfile-plugin/KFileFont.cpp:291
+msgid "Foundry"
+msgstr "Törlek"
+
+#: kfile-plugin/KFileFont.cpp:292
+msgid "Weight"
+msgstr "Awırlıq"
+
+#: kfile-plugin/KFileFont.cpp:297
+msgid "Slant"
+msgstr "İelgän"
+
+#: kio/KioFonts.cpp:911 kio/KioFonts.cpp:2375
+msgid "Please specify \"%1\" or \"%2\"."
+msgstr "Zínhar \"%1\" yä ki \"%2\" bilgelä."
+
+#: kio/KioFonts.cpp:1105 kio/KioFonts.cpp:1157 kio/KioFonts.cpp:1172
+#: kio/KioFonts.cpp:1397 kio/KioFonts.cpp:1600 kio/KioFonts.cpp:1661
+msgid "Could not access \"%1\" folder."
+msgstr "\"%1\" törgägenä ireşep bulmadı."
+
+#: kio/KioFonts.cpp:1517
+msgid "Sorry, fonts cannot be renamed."
+msgstr "Ğafu, şriftlarğa yaña isem birep bulmadı."
+
+#: kio/KioFonts.cpp:1922
+msgid ""
+"Incorrect password.\n"
+msgstr ""
+"Yaraqsız sersüz.\n"
+
+#: kio/KioFonts.cpp:1965
+msgid ""
+"Do you wish to install the font into \"%1\" (in which case the font will only "
+"be usable by you), or \"%2\" (the font will be usable by all users - but you "
+"will need to know the administrator's password)?"
+msgstr ""
+"Şriftnı \"%1\" eçenä (şrift siña ğına yaraqlı bulır) yä ki \"%2\"gä (şrift bar "
+"kemgä dä yaraqlı bulır läkin sin idäräçe sersüzen belü kiräk) quyasımı?"
+
+#: kio/KioFonts.cpp:1970
+msgid "Where to Install"
+msgstr "Qayda Quyası"
+
+#: kio/KioFonts.cpp:2071
+msgid "Internal fontconfig error."
+msgstr "Şrift köyläwneñ eçke xata."
+
+#: kio/KioFonts.cpp:2106
+msgid "Could not access \"%1\"."
+msgstr "\"%1\" biremenä ireşep bulmadı."
+
+#: kio/KioFonts.cpp:2150
+msgid ""
+"<p>Only fonts may be installed.</p>"
+"<p>If installing a fonts package (*%1), then extract the components, and "
+"install individually.</p>"
+msgstr ""
+"<p>Şriftlarnı ğına quyıp bula.</p>"
+"<p> (*%1)Şrift tuplamasın quyğanda, başta tuplama eçtäleklären çığarıp, "
+"beräm-beräm quyası.</p>"
+
+#: kio/KioFonts.cpp:2313
+msgid ""
+"<p>This font is located in a file alongside other fonts; in order to proceed "
+"with the moving they will all have to be moved. The other affected fonts "
+"are:</p>"
+"<ul>%1</ul>"
+"<p>\n"
+" Do you wish to move all of these?</p>"
+msgstr ""
+"<p>Bu şrift başqa berniçä şrift belän bergä ber birem eçendä tora; anı küçerü "
+"başqalarnıñ da küçerelüenä kiterer. Tä'sirlängän şriftlarnıñ başqaları bu: </p>"
+"<ul>%1</ul>"
+"<p>\n"
+" Barısın da küçeräseme?</p>"
+
+#: kio/KioFonts.cpp:2318
+msgid ""
+"<p>This font is located in a file alongside other fonts; in order to proceed "
+"with the copying they will all have to be copied. The other affected fonts "
+"are:</p>"
+"<ul>%1</ul>"
+"<p>\n"
+" Do you wish to copy all of these?</p>"
+msgstr ""
+"<p>Bu şrift başqa berniçä şrift belän bergä ber birem eçendä tora; anı kopilaw "
+"başqalarnıñ da kopilanuına kiterer. Tä'sirlängän şriftlarnıñ başqaları bu: </p>"
+"<ul>%1</ul>"
+"<p>\n"
+" Barısın da kübäytäseme?</p>"
+
+#: kio/KioFonts.cpp:2322
+msgid ""
+"<p>This font is located in a file alongside other fonts; in order to proceed "
+"with the deleting they will all have to be deleted. The other affected fonts "
+"are:</p>"
+"<ul>%1</ul>"
+"<p>\n"
+" Do you wish to delete all of these?</p>"
+msgstr ""
+"<p>Bu şrift başqa berniçä şrift belän bergä ber birem eçendä tora; anı taşlaw "
+"başqalarnıñ da taşlanuına kiterer. Tä'sirlängän şriftlarnıñ başqaları bu: </p>"
+"<ul>%1</ul>"
+"<p>\n"
+" Barısın da taşlísımı?</p>"
+
+#: kio/KioFonts.cpp:2395
+msgid ""
+"Sorry, you cannot rename, move, copy, or delete either \"%1\" or \"%2\"."
+msgstr ""
+"Qızğanıç ki, \"%1\" belän \"%2\" biremnären küçerep tä, kübäytep tä, taşlap ta "
+"bulmí."
+
+#: lib/FcEngine.cpp:522
+msgid "AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz0123456789"
+msgstr ""
+"AaÄäBbCcÇçDdEeFfGgĞğHhİiIıJjKkLlMmNnÑñOoÖöPpQqRrSsŞşTtUuÜüVvWwXxYyZz0123456789"
+
+#: lib/FcEngine.cpp:576
+msgid "ERROR: Could not determine font's name."
+msgstr "XATA: Şrift adın uqıp bulmadı."
+
+#: lib/FcEngine.cpp:580
+msgid ""
+"_n: %1 [1 pixel]\n"
+"%1 [%n pixels]"
+msgstr "%1 [%n noqta]"
+
+#: lib/FcEngine.cpp:697
+msgid ""
+"_: A sentence that uses all of the letters of the alphabet\n"
+"The quick brown fox jumps over the lazy dog"
+msgstr "Körän tölkä yawız et aşa ütep qarağan"
+
+#: lib/FcEngine.cpp:711
+msgid ""
+"_: All of the letters of the alphabet, uppercase\n"
+"ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+msgstr "AÄBCÇDEFGĞHİIÍJKLMNÑOÖPQRSŞTUÜVWXYZ"
+
+#: lib/FcEngine.cpp:716
+msgid ""
+"_: All of the letters of the alphabet, lowercase\n"
+"abcdefghijklmnopqrstuvwxyz"
+msgstr "aäbcçdefgğhiıíjklmnñoöpqrsştuüvwxyz"
+
+#: lib/FcEngine.cpp:721
+msgid ""
+"_: Numbers and characters\n"
+"0123456789.:,;(*!?'/\\\")£$€%^&-+@~#<>{}[]"
+msgstr "0123456789.:,;(*!?'/\\\")£$€%^&-+@~#<>{}[]"
+
+#: viewpart/FontPreview.cpp:92
+msgid " No preview available"
+msgstr " Aldan küzläp bulmí"
+
+#: viewpart/FontViewPart.cpp:92
+msgid "Face:"
+msgstr "Yöz:"
+
+#: viewpart/FontViewPart.cpp:94
+msgid "Install..."
+msgstr "Quyu..."
+
+#: viewpart/FontViewPart.cpp:110
+msgid "Change Text..."
+msgstr "Yazma Üzgärtü..."
+
+#: viewpart/FontViewPart.cpp:208
+msgid ""
+"Where do you wish to install \"%1\" (%2)?\n"
+"\"%3\" - only accessible to you, or\n"
+"\"%4\" - accessible to all (requires administrator password)"
+msgstr ""
+" \"%1\" (%2)ne qaya quyarğa teliseñ?\n"
+"\"%3\" - siña ğına yaraqlı, yä ki\n"
+"\"%4\" - härkemgä yaraqlı (idäräçe sersüzen täläp itä)"
+
+#: viewpart/FontViewPart.cpp:216
+msgid "Install"
+msgstr "Quyu"
+
+#: viewpart/FontViewPart.cpp:243
+msgid "%1:%2 successfully installed."
+msgstr "%1:%2 uñışlı quyılğan."
+
+#: viewpart/FontViewPart.cpp:250
+msgid "Could not install %1:%2"
+msgstr "%1:%2 quyıp bulmadı"
+
+#: viewpart/FontViewPart.cpp:260
+msgid "Preview String"
+msgstr "Tezmäne Kürep al"
+
+#: viewpart/FontViewPart.cpp:260
+msgid "Please enter new string:"
+msgstr "Yaña tezmäne kert zinhar:"
+
+#: viewpart/FontViewPartFactory.cpp:78
+msgid "CFontViewPart"
+msgstr "CFontViewPart"
+
+#: viewpart/FontViewerApp.cpp:96
+msgid "Select Font to View"
+msgstr "Küreneş öçen Şrift Saylaw"
+
+#: viewpart/FontViewerApp.cpp:111
+msgid "URL to open"
+msgstr "Açası URL"
+
+#: viewpart/FontViewerApp.cpp:115
+msgid "Font Viewer"
+msgstr "Yazu Kürsätkeç"
+
+#: viewpart/FontViewerApp.cpp:115
+msgid "Simple font viewer"
+msgstr "Şrift öçen ğadí kürsätkeç"
+
+#: viewpart/FontViewerApp.cpp:117
+msgid "(c) Craig Drummond, 2004"
+msgstr "(c) 2004, Craig Drummond"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Tatarish Localizators"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "tatarish-l10n@gmail.com"

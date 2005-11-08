@@ -1,0 +1,170 @@
+# Tatarish localization
+# Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdelibs ktexteditor_autobookmarker\n"
+"POT-Creation-Date: 2005-06-14 01:24+0200\n"
+"PO-Revision-Date: 2005-08-11 00:00+04\n"
+"Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: autobookmarker.cpp:90
+msgid "AutoBookmarks"
+msgstr "Aqıllı Bitbilgelär"
+
+#: autobookmarker.cpp:101
+msgid "Configure AutoBookmarks"
+msgstr "Aqıllı Bitbilge Caylawı"
+
+#: autobookmarker.cpp:280
+msgid "Edit Entry"
+msgstr "Kerem Üzgärtü"
+
+#: autobookmarker.cpp:288
+msgid "&Pattern:"
+msgstr "Ürnä&k:"
+
+#: autobookmarker.cpp:294
+msgid "<p>A regular expression. Matching lines will be bookmarked.</p>"
+msgstr ""
+"<p>Tärtip çağılışı (regexp). Aña turı kilgän yullarğa bitbilge quyılır.</p>"
+
+#: autobookmarker.cpp:298
+msgid "Case &sensitive"
+msgstr "Keçe-olını ayıra&sı"
+
+#: autobookmarker.cpp:302
+msgid ""
+"<p>If enabled, the pattern matching will be case sensitive, otherwise not.</p>"
+msgstr ""
+"<p>Açılğan bulsa, ürnäk belän çağıştırğanda olı/keçe xäreflär ayırası, yä isä "
+"yuq.</p>"
+
+#: autobookmarker.cpp:305
+msgid "&Minimal matching"
+msgstr "\"&Aç\" çağıştıru"
+
+#: autobookmarker.cpp:309
+msgid ""
+"<p>If enabled, the pattern matching will use minimal matching; if you do not "
+"know what that is, please read the appendix on regular expressions in the kate "
+"manual.</p>"
+msgstr ""
+"<p>Açıq bulsa, ezläw ürnäge keçkenä kileşü qullanaçaq; bonı turında belmägän "
+"çaqta, Kate qullanmasında tärtip çağılışına (RegExp) bağışlanğan östämädä uqıp "
+"bula.</p>"
+
+#: autobookmarker.cpp:313
+msgid "&File mask:"
+msgstr "&Birem sözgeçe:"
+
+#: autobookmarker.cpp:319
+msgid ""
+"<p>A list of filename masks, separated by semicolons. This can be used to limit "
+"the usage of this entity to files with matching names.</p>"
+"<p>Use the wizard button to the right of the mimetype entry below to easily "
+"fill out both lists.</p>"
+msgstr ""
+"<p>Tapöter belän ayırı birem adı tezmäse. Eşkärteläse biremnärneñ adı andağılar "
+"belän çikläw öçen qullanıla.</p>"
+"<p>Ul tezmäne ciñelräk tutıru öçen, bu mime-töre keremennän uñ yaqta bulğan "
+"xikmätçe töymäsen qullanıp bula.</p>"
+
+#: autobookmarker.cpp:324
+msgid "MIME &types:"
+msgstr "MIME &töre:"
+
+#: autobookmarker.cpp:330
+msgid ""
+"<p>A list of mime types, separated by semicolon. This can be used to limit the "
+"usage of this entity to files with matching mime types.</p>"
+"<p>Use the wizard button on the right to get a list of existing file types to "
+"choose from, using it will fill in the file masks as well.</p>"
+msgstr ""
+"<p>Tapöter belän ayırı mime-törlär tezmäse. Eşkärteläse biremnärneñ töre "
+"andağılar belän çikläw öçen qullanıla.</p>"
+"<p>Barlıqta bulğan törlär tezmäsen alu öçen, uñ yaqta bulğan xikmätçe töymäsen "
+"qullanıp bula.</p>"
+
+#: autobookmarker.cpp:340
+msgid ""
+"<p>Click this button to display a checkable list of mimetypes available on your "
+"system. When used, the file masks entry above will be filled in with the "
+"corresponding masks.</p>"
+msgstr ""
+"<p>Bu töymägä çirtep, sistemdä bulğan mime-törlär belän tamğalana torğan tezmä "
+"çığarıp bula. Anı qullanıp, öskäräk bulğan birem sözgeçläre qırnı şul saylanğan "
+"keremnär belän tutırıp bula.</p>"
+
+#: autobookmarker.cpp:365
+msgid ""
+"Select the MimeTypes for this pattern.\n"
+"Please note that this will automatically edit the associated file extensions as "
+"well."
+msgstr ""
+"Bu ürnäk öçen Mime-Törlär bilgeläw.\n"
+"Birem quşımtasının bäye üzennän üzgäreläçäge turında da istä totarğa kiräk."
+
+#: autobookmarker.cpp:367
+msgid "Select Mime Types"
+msgstr "MIME-Törlär Saylaw"
+
+#: autobookmarker.cpp:385
+msgid "&Patterns"
+msgstr "Ü&rnäk"
+
+#: autobookmarker.cpp:388
+msgid "Pattern"
+msgstr "Ürnäk"
+
+#: autobookmarker.cpp:389
+msgid "Mime Types"
+msgstr "MIME &Töre"
+
+#: autobookmarker.cpp:390
+msgid "File Masks"
+msgstr "Birem Sözgeçe"
+
+#: autobookmarker.cpp:394
+msgid ""
+"<p>This list shows your configured autobookmark entities. When a document is "
+"opened, each entity is used in the following way: "
+"<ol>"
+"<li>The entity is dismissed, if a mime and/or filename mask is defined, and "
+"neither matches the document.</li>"
+"<li>Otherwise each line of the document is tried against the pattern, and a "
+"bookmark is set on matching lines.</li></ul>"
+"<p>Use the buttons below to manage your collection of entities.</p>"
+msgstr ""
+"<p>Bu tezmä köylängän aqıllı bitbilge töşlären kürsätä. Berär istälek açılğan "
+"çaqta, ul töşlärneñ barısı bolayraq qullanıla:"
+"<ol>"
+"<li>Ul töş qullanılmí qalır: ägär töş cayında bilgelängän birmenär töre/adı "
+"arasında berse genä dä açıq istälegenä kileşmägän bulsa.</li>"
+"<li>Yä isä ul istälekneñ bar yulları da bu ürnäkkä turı kilüenä tikşereler dä, "
+"kileşkän yullarğa bitbilgelär qulılır.</li></ol>"
+"<p>Töşlär cıyıntığı belän eş itü öçen bu astağı toymäne qullanıp bula.</p>"
+
+#: autobookmarker.cpp:406
+msgid "&New..."
+msgstr "&Yaña..."
+
+#: autobookmarker.cpp:409
+msgid "Press this button to create a new autobookmark entity."
+msgstr "Yaña aqıllı bitbilge töşen yasaw öçen bu töymägä çirtäse."
+
+#: autobookmarker.cpp:414
+msgid "Press this button to delete the currently selected entity."
+msgstr "Biredä saylanğan kerem beterü öçen bu töymägä çirtäse."
+
+#: autobookmarker.cpp:416
+msgid "&Edit..."
+msgstr "&Üzgärtü..."
+
+#: autobookmarker.cpp:419
+msgid "Press this button to edit the currently selected entity."
+msgstr "Biredä saylanğan kerem üzgärtü öçen bu töymägä çirtäse."

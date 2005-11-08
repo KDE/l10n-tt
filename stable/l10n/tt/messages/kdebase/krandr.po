@@ -1,0 +1,278 @@
+# Tatarish localization
+# Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase krandr\n"
+"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"PO-Revision-Date: 2005-08-11 00:00+04\n"
+"Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Tatarish Localizators"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "tatarish-l10n@gmail.com"
+
+#: krandrmodule.cpp:82
+msgid ""
+"<qt>Your X server does not support resizing and rotating the display. Please "
+"update to version 4.3 or greater. You need the X Resize And Rotate extension "
+"(RANDR) version 1.1 or greater to use this feature.</qt>"
+msgstr ""
+"<qt>Biredäge X-server küräk ülçäme belän anıñ borılışın üzgärtü totmí. Aları "
+"kiräk bulsa, söreme kimendä 4.3 bulırğa tieş. Ul eşçänlek öçen \"X Resize And "
+"Rotate extension\" (RANDR) söreme dä kimendä 1.1 bulırğa tieş.</qt>"
+
+#: krandrmodule.cpp:91
+msgid "Settings for screen:"
+msgstr "Küräk köylämäläre:"
+
+#: krandrmodule.cpp:95 krandrtray.cpp:83
+#, c-format
+msgid "Screen %1"
+msgstr "%1 Küräk"
+
+#: krandrmodule.cpp:100
+msgid ""
+"The screen whose settings you would like to change can be selected using this "
+"drop-down list."
+msgstr "Caylawın üzgärtäse kilgän küräkne bu atılma tezmädä saylap bula."
+
+#: krandrmodule.cpp:109
+msgid "Screen size:"
+msgstr "Küräk ülçäme:"
+
+#: krandrmodule.cpp:111
+msgid ""
+"The size, otherwise known as the resolution, of your screen can be selected "
+"from this drop-down list."
+msgstr "Biredäge küräk ülçämen bu atılma tezmädän saylap bula."
+
+#: krandrmodule.cpp:117
+msgid "Refresh rate:"
+msgstr "Yañartu yışlığı:"
+
+#: krandrmodule.cpp:119
+msgid ""
+"The refresh rate of your screen can be selected from this drop-down list."
+msgstr "Biredäge küräkneñ yañartılu yışlığın bu atılma tezmädän saylap bula."
+
+#: krandrmodule.cpp:123
+msgid "Orientation (degrees counterclockwise)"
+msgstr "Yünälü (gradus)"
+
+#: krandrmodule.cpp:126
+msgid ""
+"The options in this section allow you to change the rotation of your screen."
+msgstr "Bu bülek köylämäläre aşa küräk borılışın üzgärtep bula."
+
+#: krandrmodule.cpp:128
+msgid "Apply settings on KDE startup"
+msgstr "KDE cibärgändä caylawlarnı aşırası"
+
+#: krandrmodule.cpp:130
+msgid ""
+"If this option is enabled the size and orientation settings will be used when "
+"KDE starts."
+msgstr ""
+"Bu köylämä yanıq torsa, KDE cibärelgändä ülçäm belän yünälü caylawı öçen boları "
+"qullanılaçaq."
+
+#: krandrmodule.cpp:135
+msgid "Allow tray application to change startup settings"
+msgstr "Ulaq yazılımına cibärelü caylawların üzgärtergä birü"
+
+#: krandrmodule.cpp:137
+msgid ""
+"If this option is enabled, options set by the system tray applet will be saved "
+"and loaded when KDE starts instead of being temporary."
+msgstr ""
+"Bu köylämä yanıq torsa, sistem ulağınıñ köylämäläre saqlanıp, KDE cibärelgändä "
+"kire yöklängän bulaçaq, yä isä alar waqıtlı ğına bula."
+
+#: krandrmodule.cpp:174 krandrtray.cpp:149
+msgid "%1 x %2"
+msgstr "%1 x %2"
+
+#: krandrtray.cpp:45
+msgid "Screen resize & rotate"
+msgstr "Küräk ülçäme & borılışı"
+
+#: krandrtray.cpp:69
+msgid "Required X Extension Not Available"
+msgstr "Kiräk X-Quşılma Barlıqta Yuq"
+
+#: krandrtray.cpp:94
+msgid "Configure Display..."
+msgstr "Küreneş Caylawı..."
+
+#: krandrtray.cpp:117
+msgid "Screen configuration has changed"
+msgstr "Küräk caylawı üzgärtelgän buldı"
+
+#: krandrtray.cpp:128
+msgid "Screen Size"
+msgstr "Küräk Ülçäme"
+
+#: krandrtray.cpp:181
+msgid "Refresh Rate"
+msgstr "Yañartu Yışlığı"
+
+#: krandrtray.cpp:251
+msgid "Configure Display"
+msgstr "Küreneş Caylaw"
+
+#: ktimerdialog.cpp:154
+#, c-format
+msgid ""
+"_n: 1 second remaining:\n"
+"%n seconds remaining:"
+msgstr "%n sekund qala:"
+
+#: main.cpp:32
+msgid "Application is being auto-started at KDE session start"
+msgstr "Bu yazılım KDE sessi cibärelgän çaqtan uq eşli"
+
+#: main.cpp:38
+msgid "Resize and Rotate"
+msgstr "Ülçäm belän Borılış"
+
+#: main.cpp:38
+msgid "Resize and Rotate System Tray App"
+msgstr "Sistem Ulaq Yazılımınıñ Ülçäm belän Borılışı"
+
+#: main.cpp:39
+msgid "Maintainer"
+msgstr "Bulışuçı"
+
+#: main.cpp:40
+msgid "Many fixes"
+msgstr "Küp tözätmä"
+
+#: randr.cpp:161
+msgid "Confirm Display Setting Change"
+msgstr "Küreneş Caylaw Üzgärtüen Raslaw"
+
+#: randr.cpp:165
+msgid "&Accept Configuration"
+msgstr "Caylawnı &Alası"
+
+#: randr.cpp:166
+msgid "&Return to Previous Configuration"
+msgstr "Üzğan Caylawğa &Qayt"
+
+#: randr.cpp:168
+msgid ""
+"Your screen orientation, size and refresh rate have been changed to the "
+"requested settings. Please indicate whether you wish to keep this "
+"configuration. In 15 seconds the display will revert to your previous settings."
+msgstr ""
+"Küräkneñ yünälü, ülçäm, yışlıq köylämäläre üzgärtelgän buldı. Alarnı saqlísı "
+"bulsa, endäşergä kiräk. 15 sekund uzğannan soñ iske köyläwlär qaytarılır."
+
+#: randr.cpp:196
+msgid ""
+"New configuration:\n"
+"Resolution: %1 x %2\n"
+"Orientation: %3"
+msgstr ""
+"Yaña caylaw:\n"
+"Adımlıq: %1 x %2\n"
+"Yünälü: %3"
+
+#: randr.cpp:201
+msgid ""
+"New configuration:\n"
+"Resolution: %1 x %2\n"
+"Orientation: %3\n"
+"Refresh rate: %4"
+msgstr ""
+"Yaña caylaw:\n"
+"Adımlıq: %1 x %2\n"
+"Yünälü: %3\n"
+"Yañaru yışlığı: %4"
+
+#: randr.cpp:230 randr.cpp:247
+msgid "Normal"
+msgstr "Ğädäti"
+
+#: randr.cpp:232
+msgid "Left (90 degrees)"
+msgstr "Sulğa (90 gradus)"
+
+#: randr.cpp:234
+msgid "Upside-down (180 degrees)"
+msgstr "Östän-asqa (180 gradus)"
+
+#: randr.cpp:236
+msgid "Right (270 degrees)"
+msgstr "Uñğa (270 gradus)"
+
+#: randr.cpp:238
+msgid "Mirror horizontally"
+msgstr "Arqılıdan közgelä"
+
+#: randr.cpp:240
+msgid "Mirror vertically"
+msgstr "Buydan közgelä"
+
+#: randr.cpp:242 randr.cpp:273
+msgid "Unknown orientation"
+msgstr "Bilgesez yünälü"
+
+#: randr.cpp:249
+msgid "Rotated 90 degrees counterclockwise"
+msgstr "Säğät yöreşe buyınça 90 gradusqa borılğan"
+
+#: randr.cpp:251
+msgid "Rotated 180 degrees counterclockwise"
+msgstr "Säğät yöreşe buyınça 180 gradusqa borılğan"
+
+#: randr.cpp:253
+msgid "Rotated 270 degrees counterclockwise"
+msgstr "Säğät yöreşe buyınça 270 gradusqa borılğan"
+
+#: randr.cpp:258
+msgid "Mirrored horizontally and vertically"
+msgstr "Arqılıdan da, buydan da közgelände"
+
+#: randr.cpp:260
+msgid "mirrored horizontally and vertically"
+msgstr "yatma belän asma buyınça közge"
+
+#: randr.cpp:263
+msgid "Mirrored horizontally"
+msgstr "Arqılıdan közgelände"
+
+#: randr.cpp:265
+msgid "mirrored horizontally"
+msgstr "yatma buyınça közge"
+
+#: randr.cpp:268
+msgid "Mirrored vertically"
+msgstr "Buydan közgelände"
+
+#: randr.cpp:270
+msgid "mirrored vertically"
+msgstr "asma buyınça közge"
+
+#: randr.cpp:275
+msgid "unknown orientation"
+msgstr "bilgesez yünälü"
+
+#: randr.cpp:399 randr.cpp:404
+msgid ""
+"_: Refresh rate in Hertz (Hz)\n"
+"%1 Hz"
+msgstr "%1 Hz"

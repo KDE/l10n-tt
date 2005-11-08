@@ -1,0 +1,336 @@
+# Tatarish localization
+# Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase kcmscreensaver\n"
+"POT-Creation-Date: 2005-09-21 02:57+0200\n"
+"PO-Revision-Date: 2005-08-11 00:00+04\n"
+"Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Tatarish Localizators"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "tatarish-l10n@gmail.com"
+
+#: advanceddialog.cpp:16
+msgid "Advanced Options"
+msgstr "Östämä Caylawlar"
+
+#: advanceddialog.cpp:126
+msgid ""
+"Specify the priority that the screensaver will run at. A higher priority may "
+"mean that the screensaver runs faster, though may reduce the speed that other "
+"programs run at while the screensaver is active."
+msgstr ""
+"Küräk-saqçı nindi östenlek belän eşlärgä tieşlegen bilgeli. Yuğarıraq östenlek "
+"belän cibärelgändä, küräk-saqçınıñ eşläwe tizräk buluı bar, dimäk saqçı eşlägän "
+"çaqta başqa yazılımnarnıñ eşe äkrenäyer."
+
+#: advanceddialog.cpp:127
+msgid ""
+"The action to take when the mouse cursor is located in the top left corner of "
+"the screen for 15 seconds."
+msgstr ""
+"Küse uğı küräkneñ öske sul poçmağında 15 sekund buyı torsa, bu eş eşläner."
+
+#: advanceddialog.cpp:128
+msgid ""
+"The action to take when the mouse cursor is located in the top right corner of "
+"the screen for 15 seconds."
+msgstr ""
+"Küse uğı küräkneñ öske uñ poçmağında 15 sekund buyı torsa, bu eş eşläner."
+
+#: advanceddialog.cpp:129
+msgid ""
+"The action to take when the mouse cursor is located in the bottom left corner "
+"of the screen for 15 seconds."
+msgstr ""
+"Küse uğı küräkneñ asqı sul poçmağında 15 sekund buyı torsa, bu eş eşläner."
+
+#: advanceddialog.cpp:130
+msgid ""
+"The action to take when the mouse cursor is located in the bottom right corner "
+"of the screen for 15 seconds."
+msgstr ""
+"Küse uğı küräkneñ asqı uñ poçmağında 15 sekund buyı torsa, bu eş eşläner."
+
+#: category_list.cpp:7
+msgid ""
+"_: Screen saver category\n"
+"Banners & Pictures"
+msgstr "Äytem belän Räsem"
+
+#: category_list.cpp:8
+msgid ""
+"_: Screen saver category\n"
+"Desktop Distortions"
+msgstr "Östälne Cimergeç"
+
+#: category_list.cpp:9
+msgid ""
+"_: Screen saver category\n"
+"Flying Things"
+msgstr "Oçqan Äyberlär"
+
+#: category_list.cpp:10
+msgid ""
+"_: Screen saver category\n"
+"Fractals"
+msgstr "Fraktallar"
+
+#: category_list.cpp:11
+msgid ""
+"_: Screen saver category\n"
+"Gadgets & Simulations"
+msgstr "Caylama belän Qılanışlar"
+
+#: category_list.cpp:12
+msgid ""
+"_: Screen saver category\n"
+"Illusions of Depth"
+msgstr "Tiränlek Sizdergeç"
+
+#: category_list.cpp:13
+msgid ""
+"_: Screen saver category\n"
+"Miscellaneous"
+msgstr "Başqalar"
+
+#: category_list.cpp:14
+msgid ""
+"_: Screen saver category\n"
+"OpenGL Screen Savers"
+msgstr "OpenGL belän Küräksaqçı"
+
+#: category_list.cpp:15
+msgid ""
+"_: Screen saver category\n"
+"Rapid Motion"
+msgstr "Tiz Küçü"
+
+#: category_list.cpp:16
+msgid ""
+"_: Screen saver category\n"
+"Visit to Flatland"
+msgstr "Flatland'qa kilü"
+
+#. i18n: file advanceddialogimpl.ui line 33
+#: rc.cpp:3
+#, fuzzy, no-c-format
+msgid "Screen Saver Priority"
+msgstr "Küräksaqçı Östenlege"
+
+#. i18n: file advanceddialogimpl.ui line 42
+#: rc.cpp:6
+#, no-c-format
+msgid "Low"
+msgstr "Tübän"
+
+#. i18n: file advanceddialogimpl.ui line 47
+#: rc.cpp:9
+#, no-c-format
+msgid "Medium"
+msgstr "Urtaça"
+
+#. i18n: file advanceddialogimpl.ui line 52
+#: rc.cpp:12
+#, no-c-format
+msgid "High"
+msgstr "Yuğarı"
+
+#. i18n: file advanceddialogimpl.ui line 86
+#: rc.cpp:16
+#, no-c-format
+msgid "Screen Corner Actions"
+msgstr "Küräk Poçmağında Ğämäl"
+
+#. i18n: file advanceddialogimpl.ui line 121
+#: rc.cpp:20
+#, no-c-format
+msgid "Top left:"
+msgstr "Öske sul:"
+
+#. i18n: file advanceddialogimpl.ui line 127
+#: rc.cpp:23 rc.cpp:35 rc.cpp:47 rc.cpp:59
+#, no-c-format
+msgid "No Action"
+msgstr "Eşsez"
+
+#. i18n: file advanceddialogimpl.ui line 132
+#: rc.cpp:26 rc.cpp:38 rc.cpp:50 rc.cpp:62
+#, no-c-format
+msgid "Lock Screen"
+msgstr "Küräkne Biklise"
+
+#. i18n: file advanceddialogimpl.ui line 137
+#: rc.cpp:29 rc.cpp:41 rc.cpp:53 rc.cpp:65
+#, no-c-format
+msgid "Prevent Locking"
+msgstr "Bikläwdän Saqlísı"
+
+#. i18n: file advanceddialogimpl.ui line 176
+#: rc.cpp:32
+#, no-c-format
+msgid "Top right:"
+msgstr "Öske uñ:"
+
+#. i18n: file advanceddialogimpl.ui line 224
+#: rc.cpp:44
+#, no-c-format
+msgid "Bottom left:"
+msgstr "Asqı sul:"
+
+#. i18n: file advanceddialogimpl.ui line 279
+#: rc.cpp:56
+#, no-c-format
+msgid "Bottom right:"
+msgstr "Asqı uñ:"
+
+#: scrnsave.cpp:89
+msgid ""
+"<h1>Screen Saver</h1> This module allows you to enable and configure a screen "
+"saver. Note that you can enable a screen saver even if you have power saving "
+"features enabled for your display."
+"<p> Besides providing an endless variety of entertainment and preventing "
+"monitor burn-in, a screen saver also gives you a simple way to lock your "
+"display if you are going to leave it unattended for a while. If you want the "
+"screen saver to lock the session, make sure you enable the \"Require password\" "
+"feature of the screen saver; if you do not, you can still explicitly lock the "
+"session using the desktop's \"Lock Session\" action."
+msgstr ""
+"<h1>Küräk Saqçısı</h1> Bu mudul aşa küräk saqçısın caylap bula. Belep torası: "
+"küräk öçen qüät saqlaw çarası açılğan bulsa ğına küräk-saqçını cibärep bula."
+"<p> Monnan tış, ozaqqa kitep barğanda küräk üz eşläw waqıtın buşqa tuzdırmasın "
+"öçen dä küräk-saqçıdan uñaylıq kürep bula. Küräk-saqçı sessine bikli dä ala, "
+"bonı öçen ul saqçınıñ caylawında \"Sersüz kiräk\" digän çaranı açası, yä isä "
+"sessine quldan da bikläp bula."
+
+#: scrnsave.cpp:132
+msgid "Screen Saver"
+msgstr "Küräk Saqlağıç"
+
+#: scrnsave.cpp:147
+msgid "Select the screen saver to use."
+msgstr "Qullanası küräksaqçın saylaw."
+
+#: scrnsave.cpp:150
+msgid "&Setup..."
+msgstr "&Caylaw..."
+
+#: scrnsave.cpp:154
+msgid "Configure the screen saver's options, if any."
+msgstr "Alay bulsa, küräk-saqçınıñ köylämälären cayla."
+
+#: scrnsave.cpp:156
+msgid "&Test"
+msgstr "&Sınaw"
+
+#: scrnsave.cpp:160
+msgid "Show a full screen preview of the screen saver."
+msgstr "Küräk-saqçını böten küräkkä kürsätep birü."
+
+#: scrnsave.cpp:162
+msgid "Settings"
+msgstr "Köyläw"
+
+#: scrnsave.cpp:169
+msgid "Start a&utomatically"
+msgstr "Üzennän &cibäräse"
+
+#: scrnsave.cpp:172
+msgid "Automatically start the screen saver after a period of inactivity."
+msgstr "Eşsez toru arası ütkännän soñ, küräksaqçı üzennän üze cibäreler."
+
+#: scrnsave.cpp:180 scrnsave.cpp:214
+msgid "After:"
+msgstr "Monnan soñ:"
+
+#: scrnsave.cpp:186
+msgid " minutes"
+msgstr " minut"
+
+#: scrnsave.cpp:187
+msgid "1 minute"
+msgstr "1 minut"
+
+#: scrnsave.cpp:196
+msgid "The period of inactivity after which the screen saver should start."
+msgstr "Eşsez toru arası bu, ul ütkäç küräksaqçı cibäräläçäk."
+
+#: scrnsave.cpp:202
+msgid "&Require password to stop"
+msgstr "&Tuqtatırğa sersüz kiräk"
+
+#: scrnsave.cpp:209
+msgid ""
+"Prevent potential unauthorized use by requiring a password to stop the screen "
+"saver."
+msgstr ""
+"Küräk-saqçı eşen tuqtatuın sersüz belän bikläp, tanılmağan qullanudan saqlanıp "
+"bula."
+
+#: scrnsave.cpp:217
+msgid ""
+"The amount of time, after the screen saver has started, to ask for the unlock "
+"password."
+msgstr ""
+"Küräk-saqçı eşli başlawdan soñ, monda kertelgän ara uzğaç, bik töşerü öçen "
+"sersüz soralaçaq."
+
+#: scrnsave.cpp:222
+msgid " seconds"
+msgstr " sekund"
+
+#: scrnsave.cpp:223
+msgid "1 second"
+msgstr "1 sekund"
+
+#: scrnsave.cpp:241
+msgid "Choose the period after which the display will be locked. "
+msgstr "Bu ara uzğaç uzudan soñ küräk biklängän bulaçaq. "
+
+#: scrnsave.cpp:255
+msgid "A preview of the selected screen saver."
+msgstr "Saylanğan küräksaqçın qarap alu."
+
+#: scrnsave.cpp:260
+msgid "Advanced &Options"
+msgstr "Östämä &Caylawlar"
+
+#: scrnsave.cpp:287
+msgid "kcmscreensaver"
+msgstr "kcmscreensaver"
+
+#: scrnsave.cpp:287
+msgid "KDE Screen Saver Control Module"
+msgstr "KDE Küräk Saqçısı öçen İdärä Modulı"
+
+#: scrnsave.cpp:289
+msgid ""
+"(c) 1997-2002 Martin R. Jones\n"
+"(c) 2003-2004 Chris Howells"
+msgstr ""
+"(c) 1997-2002 Martin R. Jones\n"
+"(c) 2003-2004 Chris Howells"
+
+#: scrnsave.cpp:480
+msgid "Loading..."
+msgstr "Yökläw..."
+
+#~ msgid "Make aware of power &management"
+#~ msgstr "Qüät idären belgän &itäse"
+
+#~ msgid "Enable this option if you want to disable the screen saver while watching TV or movies."
+#~ msgstr "Monı açıp, TV/tasma qarağan çaqta küräk-saqçı cibärelmi torır."
