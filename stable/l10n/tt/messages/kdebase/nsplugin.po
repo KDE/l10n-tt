@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase nsplugin\n"
-"POT-Creation-Date: 2005-05-20 10:35+0200\n"
+"POT-Creation-Date: 2005-11-30 03:19+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -36,12 +36,12 @@ msgstr "quşılma"
 msgid "&Save As..."
 msgstr "&Yañaça Saqlaw..."
 
-#: plugin_part.cpp:300
+#: plugin_part.cpp:301
 #, c-format
 msgid "Loading Netscape plugin for %1"
 msgstr "%1 öçen Netscape quşılma yökläw"
 
-#: plugin_part.cpp:311
+#: plugin_part.cpp:309
 #, c-format
 msgid "Unable to load Netscape plugin for %1"
 msgstr "%1 öçen Netscape quşılmasın yökläp bulmadı"

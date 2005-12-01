@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmmedia\n"
-"POT-Creation-Date: 2005-09-01 02:45+0200\n"
+"POT-Creation-Date: 2005-11-30 03:19+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -56,11 +56,11 @@ msgstr "Yazılım tözeşendä bulışa"
 msgid "FIXME : Write me..."
 msgstr "TÖZÄTÇE : Yaz miña..."
 
-#: managermodule.cpp:39
+#: managermodule.cpp:40
 msgid "No support for HAL on this system"
 msgstr ""
 
-#: managermodule.cpp:46
+#: managermodule.cpp:47
 msgid "No support for CD polling on this system"
 msgstr ""
 

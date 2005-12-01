@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase libkicker\n"
-"POT-Creation-Date: 2005-10-26 02:42+0200\n"
+"POT-Creation-Date: 2005-11-30 03:20+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -283,122 +283,122 @@ msgstr "Tiz Gizgeç qullanası"
 msgid "Optional Menus"
 msgstr "Östämä Saylaqlar"
 
-#. i18n: file kickerSettings.kcfg line 160
+#. i18n: file kickerSettings.kcfg line 161
 #: rc.cpp:111
 #, no-c-format
 msgid "Recently used applications"
 msgstr "Baya qullanılğan yazılımnar"
 
-#. i18n: file kickerSettings.kcfg line 164
+#. i18n: file kickerSettings.kcfg line 165
 #: rc.cpp:114
 #, no-c-format
 msgid "Number of visible entries"
 msgstr "Kürengän keremnär sanı"
 
-#. i18n: file kickerSettings.kcfg line 170
+#. i18n: file kickerSettings.kcfg line 171
 #: rc.cpp:117
 #, no-c-format
 msgid "Show most recently used applications rather than most frequently used"
 msgstr ""
 "İñ qullanılğan yazılımnar urınına baya qullanılğan yazılımnar kürsätäse"
 
-#. i18n: file kickerSettings.kcfg line 179
+#. i18n: file kickerSettings.kcfg line 180
 #: rc.cpp:120
 #, no-c-format
 msgid "Enable a tile background image for the KMenu button"
 msgstr "KSaylaq töymäse öçen asyaq süräten tüşäw qullanası"
 
-#. i18n: file kickerSettings.kcfg line 184
+#. i18n: file kickerSettings.kcfg line 185
 #: rc.cpp:123
 #, no-c-format
 msgid "Enable a tile background image for the Desktop button"
 msgstr "Östäl töymäse öçen asyaq süräten tüşäw qullanası"
 
-#. i18n: file kickerSettings.kcfg line 189
+#. i18n: file kickerSettings.kcfg line 190
 #: rc.cpp:126
 #, no-c-format
 msgid "Enable a tile background image for Application, URL and special buttons"
 msgstr "Yazılım, URL, ayırmalı töymälär öçen asyaq süräten tüşäw qullanası"
 
-#. i18n: file kickerSettings.kcfg line 194
+#. i18n: file kickerSettings.kcfg line 195
 #: rc.cpp:129
 #, no-c-format
 msgid "Enable a tile background image for the Quick Browser button"
 msgstr "Tiz Gizü töymäse öçen asyaq süräten tüşäw qullanası"
 
-#. i18n: file kickerSettings.kcfg line 199
+#. i18n: file kickerSettings.kcfg line 200
 #: rc.cpp:132
 #, no-c-format
 msgid "Enable a tile background image for the Window List button"
 msgstr "Täräzä Tezmäseneñ töymäse öçen asyaq süräten tüşäw qullanası"
 
-#. i18n: file kickerSettings.kcfg line 204
+#. i18n: file kickerSettings.kcfg line 205
 #: rc.cpp:135
 #, no-c-format
 msgid "Image tile for Kmenu button background"
 msgstr "Ksaylaq töymäse asyağına sürät tüşäw"
 
-#. i18n: file kickerSettings.kcfg line 208
+#. i18n: file kickerSettings.kcfg line 209
 #: rc.cpp:138 rc.cpp:144
 #, no-c-format
 msgid "Color to use for Kmenu button background"
 msgstr "KSaylaq töymäse asyağına tös"
 
-#. i18n: file kickerSettings.kcfg line 213
+#. i18n: file kickerSettings.kcfg line 214
 #: rc.cpp:141
 #, no-c-format
 msgid "Image tile for Desktop button background"
 msgstr "Östäl töymäse asyağına sürät tüşäw"
 
-#. i18n: file kickerSettings.kcfg line 222
+#. i18n: file kickerSettings.kcfg line 223
 #: rc.cpp:147
 #, no-c-format
 msgid "Image tile for Application, URL and special button backgrounds"
 msgstr "Yazılım, URL, ayırmalı töymä asyağına sürät tüşäw"
 
-#. i18n: file kickerSettings.kcfg line 226
+#. i18n: file kickerSettings.kcfg line 227
 #: rc.cpp:150
 #, no-c-format
 msgid "Color to use for Application, URL and special button backgrounds"
 msgstr "Yazılım, URL, ayırmalı töymä asyağına tös"
 
-#. i18n: file kickerSettings.kcfg line 231
+#. i18n: file kickerSettings.kcfg line 232
 #: rc.cpp:153
 #, no-c-format
 msgid "Image tile for Browser button background"
 msgstr "Gizgeç töymäse asyağına sürät tüşäw"
 
-#. i18n: file kickerSettings.kcfg line 235
+#. i18n: file kickerSettings.kcfg line 236
 #: rc.cpp:156
 #, no-c-format
 msgid "Color to use for Browser button background"
 msgstr "Gizgeç töymäse asyağına tös"
 
-#. i18n: file kickerSettings.kcfg line 240
+#. i18n: file kickerSettings.kcfg line 241
 #: rc.cpp:159
 #, no-c-format
 msgid "Image tile for Window List button background"
 msgstr "Täräzälär Tezmä töymäse asyağına sürät tüşäw"
 
-#. i18n: file kickerSettings.kcfg line 244
+#. i18n: file kickerSettings.kcfg line 245
 #: rc.cpp:162
 #, no-c-format
 msgid "Color to use for Window List button background"
 msgstr "Täräzä Tezmäse töymäseneñ asyağına tös"
 
-#. i18n: file kickerSettings.kcfg line 253
+#. i18n: file kickerSettings.kcfg line 254
 #: rc.cpp:165
 #, no-c-format
 msgid "Use side image in Kmenu"
 msgstr "Ksaylaq yanında sürät qullanası"
 
-#. i18n: file kickerSettings.kcfg line 258
+#. i18n: file kickerSettings.kcfg line 259
 #: rc.cpp:168
 #, no-c-format
 msgid "The name of the file to use as the side image in the K Menu"
 msgstr "K-Saylaq yanında qullanası sürät biremeneñ adı"
 
-#. i18n: file kickerSettings.kcfg line 263
+#. i18n: file kickerSettings.kcfg line 264
 #: rc.cpp:171
 #, no-c-format
 msgid ""
@@ -406,37 +406,37 @@ msgid ""
 "SidePixmapName does not cover"
 msgstr "K-Saylaq buyın tutıru öçen qullanası sürät biremeneñ adı"
 
-#. i18n: file kickerSettings.kcfg line 268
+#. i18n: file kickerSettings.kcfg line 269
 #: rc.cpp:174
 #, no-c-format
 msgid "Show text on the K Menu button"
 msgstr "K-Saylaq töymäsendä yazma kürsätäse"
 
-#. i18n: file kickerSettings.kcfg line 273
+#. i18n: file kickerSettings.kcfg line 274
 #: rc.cpp:177
 #, no-c-format
 msgid "Text to be shown on K Menu Button"
 msgstr "K-Saylaq Töymäse östendä yazma"
 
-#. i18n: file kickerSettings.kcfg line 282
+#. i18n: file kickerSettings.kcfg line 283
 #: rc.cpp:180
 #, no-c-format
 msgid "Enable icon mouse over effects"
 msgstr "Küse ütkändä tamğa tä'sirlären qullanası"
 
-#. i18n: file kickerSettings.kcfg line 287
+#. i18n: file kickerSettings.kcfg line 288
 #: rc.cpp:183
 #, no-c-format
 msgid "Show icons in mouse over effects"
 msgstr "Küse ütkändä tamğa tä'sirlären kürsätäse"
 
-#. i18n: file kickerSettings.kcfg line 292
+#. i18n: file kickerSettings.kcfg line 293
 #: rc.cpp:186
 #, no-c-format
 msgid "Show text in mouse over effects"
 msgstr "Küse ütkändä yazma tä'sirlären kürsätäse"
 
-#. i18n: file kickerSettings.kcfg line 297
+#. i18n: file kickerSettings.kcfg line 298
 #: rc.cpp:189
 #, no-c-format
 msgid ""
@@ -445,31 +445,31 @@ msgstr ""
 "Qoralkiñäş kilep çığuınıñ tizlegen üzgärtä, sekundnıñ meñle öleşlärendä "
 "ülçälänä"
 
-#. i18n: file kickerSettings.kcfg line 303
+#. i18n: file kickerSettings.kcfg line 304
 #: rc.cpp:192
 #, no-c-format
 msgid "Mouse over effects are shown after the defined time (in milliseconds)"
 msgstr "Küse ütkändä çığuçı tä'sir bu ara ütkäç kürsätelä (millisekund)"
 
-#. i18n: file kickerSettings.kcfg line 308
+#. i18n: file kickerSettings.kcfg line 309
 #: rc.cpp:195
 #, no-c-format
 msgid "Mouse over effects are hidden after the defined time (in milliseconds)"
 msgstr "Küse ütkändä çığuçı tä'sir bu ara ütkäç yäşerelä (millisekund)"
 
-#. i18n: file kickerSettings.kcfg line 313
+#. i18n: file kickerSettings.kcfg line 314
 #: rc.cpp:198
 #, no-c-format
 msgid "Enable background tiles"
 msgstr "Artyaq tüşäw açası"
 
-#. i18n: file kickerSettings.kcfg line 318
+#. i18n: file kickerSettings.kcfg line 319
 #: rc.cpp:201
 #, no-c-format
 msgid "The margin between panel icons and the panel border"
 msgstr "Tirä tamğasınnan tirä çigenä tikle ara"
 
-#. i18n: file kickerSettings.kcfg line 323
+#. i18n: file kickerSettings.kcfg line 324
 #: rc.cpp:204
 #, no-c-format
 msgid ""
@@ -480,13 +480,13 @@ msgstr ""
 "KService kürsätkän töymälär (yazılımnar yışraq) ul xezmätneñ beterelüen sizep, "
 "üzen beterep quyalar. Bu köylämäne sünderep bula."
 
-#. i18n: file kickerSettings.kcfg line 328
+#. i18n: file kickerSettings.kcfg line 329
 #: rc.cpp:207
 #, no-c-format
 msgid "Font for the buttons with text."
 msgstr "Töymä yazmasına yazu töre."
 
-#. i18n: file kickerSettings.kcfg line 333
+#. i18n: file kickerSettings.kcfg line 334
 #: rc.cpp:210
 #, no-c-format
 msgid "Text color for the buttons."

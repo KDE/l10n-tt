@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase khotkeys\n"
-"POT-Creation-Date: 2005-09-27 02:32+0200\n"
+"POT-Creation-Date: 2005-11-30 03:19+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -460,7 +460,7 @@ msgstr "Östäl"
 msgid "Dock"
 msgstr "Toraq"
 
-#: app/app.cpp:147 kcontrol/kcmkhotkeys.cpp:109
+#: app/app.cpp:147 kcontrol/kcmkhotkeys.cpp:86
 msgid "KHotKeys"
 msgstr "KHotKeys"
 
@@ -535,7 +535,7 @@ msgstr ""
 msgid "These entries were created using Menu Editor."
 msgstr "Bu keremnär Saylaw Tözätkeçe belän yasalandı."
 
-#: shared/soundrecorder.cpp:53
+#: shared/soundrecorder_arts.cpp:58
 #, fuzzy
 msgid "khotkeys"
 msgstr "KHotKeys"
@@ -552,12 +552,12 @@ msgstr "Täräzä açtırğıçı: "
 msgid "Gesture trigger: "
 msgstr "Qılanış qabızğıçı: "
 
-#: shared/triggers.cpp:417
+#: shared/triggers.cpp:414
 #, fuzzy
 msgid "Voice trigger: "
 msgstr "Çaptırma qabızğıçı: "
 
-#: shared/voices.cpp:205
+#: shared/voices.cpp:208
 msgid "Voice"
 msgstr ""
 
@@ -733,27 +733,27 @@ msgstr "8. Töymä (bulsa)"
 msgid "Button 9 (if available)"
 msgstr "9. Töymä (bulsa)"
 
-#: kcontrol/kcmkhotkeys.cpp:112
+#: kcontrol/kcmkhotkeys.cpp:89
 msgid "(c) 1999-2005 Lubos Lunak"
 msgstr "(c) 1999-2005 Lubos Lunak"
 
-#: kcontrol/kcmkhotkeys.cpp:113
+#: kcontrol/kcmkhotkeys.cpp:90
 msgid "Maintainer"
 msgstr "Bulışuçı"
 
-#: kcontrol/kcmkhotkeys.cpp:243
+#: kcontrol/kcmkhotkeys.cpp:220
 msgid "New Action"
 msgstr "Yaña Ğämäl"
 
-#: kcontrol/kcmkhotkeys.cpp:264
+#: kcontrol/kcmkhotkeys.cpp:241
 msgid "New Action Group"
 msgstr "Yaña Eş Törkeme"
 
-#: kcontrol/kcmkhotkeys.cpp:296
+#: kcontrol/kcmkhotkeys.cpp:273
 msgid "Select File with Actions to Be Imported"
 msgstr "Yöklise Birem belän Eş saylaw"
 
-#: kcontrol/kcmkhotkeys.cpp:303
+#: kcontrol/kcmkhotkeys.cpp:280
 msgid ""
 "Import of the specified file failed. Most probably the file is not a valid file "
 "with actions."
@@ -830,12 +830,12 @@ msgstr "Qılanış Qabızğıç:..."
 msgid "Window Trigger..."
 msgstr "Täräzä Açtırğıçı..."
 
-#: kcontrol/triggers_tab.cpp:55
+#: kcontrol/triggers_tab.cpp:56
 #, fuzzy
 msgid "Voice Trigger..."
 msgstr "Çaptırma Qabızğıçı..."
 
-#: kcontrol/triggers_tab.cpp:221
+#: kcontrol/triggers_tab.cpp:222
 msgid "Select keyboard shortcut:"
 msgstr "Töylek cptırmasın saylaw:"
 

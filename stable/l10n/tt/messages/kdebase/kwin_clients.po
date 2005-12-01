@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kwin_clients\n"
-"POT-Creation-Date: 2005-07-31 01:40+0200\n"
+"POT-Creation-Date: 2005-11-30 03:19+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -68,39 +68,39 @@ msgstr ""
 "Saylaq keremenä qılınğan ikele çirtügä berär eşne kileşterep bula. Anıq bulmasa "
 "buş qaldırası."
 
-#: b2/b2client.cpp:346 keramik/keramik.cpp:1033
+#: b2/b2client.cpp:346 keramik/keramik.cpp:1036
 #: kwmtheme/kwmthemeclient.cpp:292
 msgid "Menu"
 msgstr "Saylaq"
 
-#: b2/b2client.cpp:348 b2/b2client.cpp:814 keramik/keramik.cpp:1043
-#: keramik/keramik.cpp:1428
+#: b2/b2client.cpp:348 b2/b2client.cpp:814 keramik/keramik.cpp:1046
+#: keramik/keramik.cpp:1431
 msgid "Not on all desktops"
 msgstr "Bar östäldä dä tügel"
 
-#: b2/b2client.cpp:348 b2/b2client.cpp:814 keramik/keramik.cpp:1043
-#: keramik/keramik.cpp:1428
+#: b2/b2client.cpp:348 b2/b2client.cpp:814 keramik/keramik.cpp:1046
+#: keramik/keramik.cpp:1431
 msgid "On all desktops"
 msgstr "Bar östäldä dä"
 
-#: b2/b2client.cpp:349 keramik/keramik.cpp:1063
+#: b2/b2client.cpp:349 keramik/keramik.cpp:1066
 #: kwmtheme/kwmthemeclient.cpp:312
 msgid "Minimize"
 msgstr "Törep quy"
 
-#: b2/b2client.cpp:349 b2/b2client.cpp:826 keramik/keramik.cpp:1072
-#: keramik/keramik.cpp:1416 kwmtheme/kwmthemeclient.cpp:320
+#: b2/b2client.cpp:349 b2/b2client.cpp:826 keramik/keramik.cpp:1075
+#: keramik/keramik.cpp:1419 kwmtheme/kwmthemeclient.cpp:320
 #: kwmtheme/kwmthemeclient.cpp:775
 msgid "Maximize"
 msgstr "Cäyep quy"
 
-#: b2/b2client.cpp:351 b2/b2client.cpp:859 keramik/keramik.cpp:1109
-#: keramik/keramik.cpp:1439
+#: b2/b2client.cpp:351 b2/b2client.cpp:859 keramik/keramik.cpp:1112
+#: keramik/keramik.cpp:1442
 msgid "Unshade"
 msgstr "Külägäsez"
 
-#: b2/b2client.cpp:351 b2/b2client.cpp:859 keramik/keramik.cpp:1109
-#: keramik/keramik.cpp:1439
+#: b2/b2client.cpp:351 b2/b2client.cpp:859 keramik/keramik.cpp:1112
+#: keramik/keramik.cpp:1442
 msgid "Shade"
 msgstr "Külägäle"
 
@@ -153,15 +153,15 @@ msgstr ""
 msgid "KDE2"
 msgstr "KDE2"
 
-#: keramik/keramik.cpp:961
+#: keramik/keramik.cpp:964
 msgid "<center><b>Keramik preview</b></center>"
 msgstr "<center><b>\"Keramik\" tışlawınıñ küreneşe</b></center>"
 
-#: keramik/keramik.cpp:1090
+#: keramik/keramik.cpp:1093
 msgid "Keep Above Others"
 msgstr "Başqalar Östendä Bul"
 
-#: keramik/keramik.cpp:1099
+#: keramik/keramik.cpp:1102
 msgid "Keep Below Others"
 msgstr "Başqalar Astında Bul"
 
