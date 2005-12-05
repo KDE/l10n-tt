@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2005-12-02 02:18+0000\n"
+"POT-Creation-Date: 2005-12-05 02:16+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -3454,15 +3454,15 @@ msgid "Name=Layout"
 msgstr "Name=Urnaşılu"
 
 #: kcontrol/kicker/kicker_config.desktop:76
-#: kcontrol/kicker/kicker_config_arrangement.desktop:56
+#: kcontrol/kicker/kicker_config_arrangement.desktop:57
 msgid "Comment=You can configure the arrangement of the panel here"
 msgstr "Comment=Taqta urnaşıluın köyläw urını"
 
 #: kcontrol/kicker/kicker_config.desktop:144
 #: kcontrol/kicker/kicker_config_appearance.desktop:157
-#: kcontrol/kicker/kicker_config_arrangement.desktop:123
-#: kcontrol/kicker/kicker_config_hiding.desktop:101
-#: kcontrol/kicker/kicker_config_menus.desktop:100
+#: kcontrol/kicker/kicker_config_arrangement.desktop:124
+#: kcontrol/kicker/kicker_config_hiding.desktop:103
+#: kcontrol/kicker/kicker_config_menus.desktop:102
 #: kcontrol/kicker/panel.desktop:146
 msgid ""
 "Keywords=kicker,panel,kpanel,taskbar,startbar,launchbar,location,size,auto "
@@ -3493,7 +3493,7 @@ msgstr "Name=Urınlaşu"
 msgid "Name=Hiding"
 msgstr "Name=Yäşerü"
 
-#: kcontrol/kicker/kicker_config_hiding.desktop:57
+#: kcontrol/kicker/kicker_config_hiding.desktop:58
 msgid "Comment=You can configure the hiding of the panel here"
 msgstr "Comment=Taqtanıñ yäşerelüen caylaw urını"
 
@@ -3501,7 +3501,7 @@ msgstr "Comment=Taqtanıñ yäşerelüen caylaw urını"
 msgid "Name=Menus"
 msgstr "Name=Saylaq"
 
-#: kcontrol/kicker/kicker_config_menus.desktop:55
+#: kcontrol/kicker/kicker_config_menus.desktop:56
 msgid "Comment=You can configure the menus of the panel here"
 msgstr "Comment=Taqtanıñ saylaqların caylaw urını"
 
@@ -3557,7 +3557,7 @@ msgstr "Comment=Çeltärneñ töp köyläwläre; kötterü arası kebek."
 msgid "Keywords=timeout,iopref,netpref,network preferences,ftp"
 msgstr "Keywords=timeout,iopref,netpref,network preferences,ftp"
 
-#: kcontrol/kio/netpref.desktop:111
+#: kcontrol/kio/netpref.desktop:112
 msgid "Name=Connection Preferences"
 msgstr "Name=Totaşu Caylawları"
 
@@ -3835,7 +3835,7 @@ msgstr ""
 msgid "Name=AdBlocK Filters"
 msgstr "Name=Reklam Sözgeçläre"
 
-#: kcontrol/konqhtml/khtml_filter.desktop:57
+#: kcontrol/konqhtml/khtml_filter.desktop:58
 msgid "Comment=Configure Konqueror AdBlocK filters"
 msgstr "Comment=Konqueror'dağı reklam kistergeçneñ caylaw"
 
@@ -3996,11 +3996,11 @@ msgstr "Name=KDE Tışlaw quyu"
 msgid "Comment=Manage global KDE visual themes"
 msgstr "Comment=KDE'nıñ tışlaw törlären caylaw idäräse"
 
-#: kcontrol/kthememanager/kthememanager.desktop:60
+#: kcontrol/kthememanager/kthememanager.desktop:61
 msgid "Keywords=themes,look and feel"
 msgstr "Keywords=themes,look and feel"
 
-#: kcontrol/kthememanager/kthememanager.desktop:114
+#: kcontrol/kthememanager/kthememanager.desktop:115
 msgid "Name=Theme Manager"
 msgstr "Name=Tışlaw İdäräçe"
 
@@ -4090,11 +4090,11 @@ msgstr ""
 "Comment=Xosusílıq – qullanuçıdan soñ sistem eçendä qalğan ezlär beterüçe "
 "kcontrol modulı"
 
-#: kcontrol/privacy/privacy.desktop:62
+#: kcontrol/privacy/privacy.desktop:63
 msgid "Keywords=Privacy,privacy"
 msgstr "Keywords=Privacy,privacy"
 
-#: kcontrol/privacy/privacy.desktop:119
+#: kcontrol/privacy/privacy.desktop:120
 msgid "Name=Privacy"
 msgstr "Name=Xosusílıq"
 
@@ -4106,7 +4106,7 @@ msgstr "Name=KRandRTray"
 msgid "GenericName=Screen Resize & Rotate"
 msgstr "GenericName=Küräk Ülçäme & Borılışı"
 
-#: kcontrol/randr/krandrtray.desktop:55
+#: kcontrol/randr/krandrtray.desktop:56
 #, fuzzy
 msgid "Comment=Resize and rotate X screens."
 msgstr "Comment=Kürägeñneñ Ülçäme belän Borılışı"
@@ -4254,14 +4254,14 @@ msgstr "Keywords=Xinerama,dual head,multihead,monitor"
 msgid "Name=Password & User Account"
 msgstr "Name=Sersüz & Qullanuçı Xisabı"
 
-#: kdepasswd/kcm/kcm_useraccount.desktop:67
+#: kdepasswd/kcm/kcm_useraccount.desktop:68
 #, fuzzy
 msgid ""
 "Keywords=password,email,name,organization,realname,login image,face,echo mode"
 msgstr ""
 "Keywords=password;email;name;organization;realname;login image;face; echo mode;"
 
-#: kdepasswd/kcm/kcm_useraccount.desktop:109
+#: kdepasswd/kcm/kcm_useraccount.desktop:111
 msgid "Comment=User information such as password, name and email"
 msgstr "Comment=Qullanuçı caylawı: sersüz, isem, email kebek närsälär"
 
@@ -4285,7 +4285,7 @@ msgstr "GenericName=Faks Qoralı"
 msgid "Name=KJobViewer"
 msgstr "Name=KJobViewer"
 
-#: kdeprint/kjobviewer/kjobviewer.desktop:20
+#: kdeprint/kjobviewer/kjobviewer.desktop:21
 msgid "GenericName=Print Jobs"
 msgstr "GenericName=Bastıru Eşläre"
 
@@ -4487,7 +4487,7 @@ msgstr "Name=Üze Cibäreläse"
 msgid "Name=Templates"
 msgstr "Name=Ürçetmä"
 
-#: kdesktop/init/directory.trash:7 kicker/applets/trash/trashapplet.desktop:41
+#: kdesktop/init/directory.trash:7 kicker/applets/trash/trashapplet.desktop:42
 #: kioslave/system/entries/trash.desktop:7
 msgid "Name=Trash"
 msgstr "Name=Çüplek"
@@ -4504,11 +4504,11 @@ msgstr "Name=KDE Östäl"
 msgid "X-KDE-Submenu=Set as Background"
 msgstr ""
 
-#: kdesktop/kdesktopSetAsBackground.desktop:43
+#: kdesktop/kdesktopSetAsBackground.desktop:44
 msgid "Name=Centered"
 msgstr "Name=Üzäkläşep"
 
-#: kdesktop/kdesktopSetAsBackground.desktop:105
+#: kdesktop/kdesktopSetAsBackground.desktop:107
 msgid "Name=Tiled"
 msgstr "Name=Bülengän"
 
@@ -4653,7 +4653,7 @@ msgstr "Comment=ChezWam Window Manager, EvilWM asılında ciñel täräzä-idär
 msgid "Name=Enlightenment"
 msgstr "Name=Enlightenment"
 
-#: kdm/kfrontend/sessions/enlightenment.desktop:16
+#: kdm/kfrontend/sessions/enlightenment.desktop:17
 msgid "Comment=An extremely themable very feature-rich window manager"
 msgstr "Comment=Küpçaralı tışlanulı täräzä-idäräçe"
 
@@ -4862,7 +4862,7 @@ msgstr "Comment=Ciñel bulsa da, köylänä torğan täräzä-idäräçe"
 msgid "Name=Sawfish"
 msgstr "Name=Sawfish"
 
-#: kdm/kfrontend/sessions/sawfish.desktop:11
+#: kdm/kfrontend/sessions/sawfish.desktop:12
 msgid ""
 "Comment=An extensible window manager scriptable with an Emacs Lisp-like "
 "language"
@@ -4953,7 +4953,7 @@ msgstr "Comment=Holesterol Bulmağan Östäl Möxiteneñ 4. söreme. CDE kürene
 msgid "Name=Circles"
 msgstr "Name=Circles"
 
-#: kdm/kfrontend/themes/circles/GdmGreeterTheme.desktop:51
+#: kdm/kfrontend/themes/circles/GdmGreeterTheme.desktop:52
 msgid "Description=Theme with blue circles"
 msgstr "Description=Zäñgär tügäräklär belän tışlaw"
 
@@ -5143,7 +5143,7 @@ msgstr ""
 msgid "Name=Lock/Logout Buttons"
 msgstr "Name=Kereş/Çığış Modulı"
 
-#: kicker/applets/lockout/lockout.desktop:48
+#: kicker/applets/lockout/lockout.desktop:49
 msgid "Comment=Adds buttons for locking screen and session logout"
 msgstr ""
 
@@ -5172,7 +5172,7 @@ msgstr "Comment=Ayırım torğan saylaq-tirälär berläşterüçe applet"
 msgid "Name=Desktop Preview & Pager"
 msgstr "Name=Öställär Küçerüçe Saylaq"
 
-#: kicker/applets/minipager/minipagerapplet.desktop:45
+#: kicker/applets/minipager/minipagerapplet.desktop:46
 msgid "Comment=Preview, manage and switch to multiple virtual desktops"
 msgstr ""
 
@@ -5188,7 +5188,7 @@ msgstr ""
 msgid "Name=Run Command"
 msgstr "Name=Boyırıq Eşlätü"
 
-#: kicker/applets/run/runapplet.desktop:56
+#: kicker/applets/run/runapplet.desktop:57
 msgid "Comment=Launch single commands without a terminal window"
 msgstr ""
 
@@ -5271,7 +5271,7 @@ msgstr "Comment=Berär törgäkneñ birem tezmäsen kürsätüçe saylaq"
 msgid "Name=Show Desktop"
 msgstr "Name=Östäl Kürsätü"
 
-#: kicker/kicker/buttons/desktop.desktop:47
+#: kicker/kicker/buttons/desktop.desktop:48
 msgid "Comment=A button that gives quick access to the desktop when pressed"
 msgstr "Comment=Östäl eçtälegenä tiz ireşergä birüçe töymä"
 
@@ -5287,7 +5287,7 @@ msgstr "Comment=K-Saylaqta bulmağan yazılımnar cibärgeçe"
 msgid "Name=K Menu"
 msgstr "Name=K-Saylaq"
 
-#: kicker/kicker/buttons/kmenu.desktop:49
+#: kicker/kicker/buttons/kmenu.desktop:50
 msgid "Comment=Applications and common actions"
 msgstr "Comment=Yazılımnar belän töp ğämällär"
 
@@ -5303,7 +5303,7 @@ msgstr "Comment=Bar açıq täräzä tezmäse belän saylaq"
 msgid "Name=Panel"
 msgstr "Name=Tirä"
 
-#: kicker/kicker/core/childpanelextension.desktop:51
+#: kicker/kicker/core/childpanelextension.desktop:52
 msgid "Comment=Child panel extension."
 msgstr "Comment=Bala taqta östämäse."
 
@@ -5377,7 +5377,7 @@ msgstr "Comment=Soñğı arada qullanılğan istälekläreñ"
 msgid "Name=Network Folders"
 msgstr "Name=Çeltärle Törgäklär"
 
-#: kicker/menuext/remote/remotemenu.desktop:54
+#: kicker/menuext/remote/remotemenu.desktop:55
 #, fuzzy
 msgid "Comment=Menu of network folders"
 msgstr "Comment=Çeltärle törgäklärgä ciñel ireşü"
@@ -5387,7 +5387,7 @@ msgstr "Comment=Çeltärle törgäklärgä ciñel ireşü"
 msgid "Name=System Menu"
 msgstr "Name=Sistem"
 
-#: kicker/menuext/system/systemmenu.desktop:47
+#: kicker/menuext/system/systemmenu.desktop:48
 #, fuzzy
 msgid "Comment=Menu of important system places"
 msgstr "Comment=Sistem urınnarına ciñel ireşü"
@@ -5704,16 +5704,16 @@ msgstr "Description=K&View Cibärü"
 msgid "Description=Web-URL"
 msgstr "Description=Web-URL"
 
-#: klipper/klipperrc.desktop:211 klipper/klipperrc.desktop:1479
+#: klipper/klipperrc.desktop:211 klipper/klipperrc.desktop:1480
 msgid "Description=Open with &Konqueror"
 msgstr "Description=&Konqueror belän Aç"
 
-#: klipper/klipperrc.desktop:289 klipper/klipperrc.desktop:1632
+#: klipper/klipperrc.desktop:289 klipper/klipperrc.desktop:1633
 msgid "Description=Open with &Mozilla"
 msgstr "Description=&Mozilla belän Aç"
 
-#: klipper/klipperrc.desktop:366 klipper/klipperrc.desktop:1076
-#: klipper/klipperrc.desktop:1276 klipper/klipperrc.desktop:1709
+#: klipper/klipperrc.desktop:366 klipper/klipperrc.desktop:1077
+#: klipper/klipperrc.desktop:1277 klipper/klipperrc.desktop:1710
 msgid "Description=Send &URL"
 msgstr "Description=&URL Künderü"
 
@@ -5722,52 +5722,52 @@ msgstr "Description=&URL Künderü"
 msgid "Description=Open with &Firefox"
 msgstr "Description=&Konqueror belän Aç"
 
-#: klipper/klipperrc.desktop:487
+#: klipper/klipperrc.desktop:488
 msgid "Description=Send &Page"
 msgstr "Description=&Bit Künderü"
 
-#: klipper/klipperrc.desktop:561
+#: klipper/klipperrc.desktop:562
 msgid "Description=Mail-URL"
 msgstr "Description=Xat-URL"
 
-#: klipper/klipperrc.desktop:627
+#: klipper/klipperrc.desktop:628
 msgid "Description=Launch &Kmail"
 msgstr "Description=&Kmail Cibärü"
 
-#: klipper/klipperrc.desktop:702
+#: klipper/klipperrc.desktop:703
 msgid "Description=Launch &mutt"
 msgstr "Description=&mutt Cibärü"
 
-#: klipper/klipperrc.desktop:777
+#: klipper/klipperrc.desktop:778
 msgid "Description=Text File"
 msgstr "Description=Mäten Bireme"
 
-#: klipper/klipperrc.desktop:854
+#: klipper/klipperrc.desktop:855
 msgid "Description=Launch K&Edit"
 msgstr "Description=K&Edit Cibärü"
 
-#: klipper/klipperrc.desktop:928
+#: klipper/klipperrc.desktop:929
 msgid "Description=Launch K&Write"
 msgstr "Description=K&Write Cibärü"
 
-#: klipper/klipperrc.desktop:1001
+#: klipper/klipperrc.desktop:1002
 msgid "Description=Local file URL"
 msgstr "Description=Cirle birem URLı"
 
-#: klipper/klipperrc.desktop:1149 klipper/klipperrc.desktop:1349
-#: klipper/klipperrc.desktop:1782
+#: klipper/klipperrc.desktop:1150 klipper/klipperrc.desktop:1350
+#: klipper/klipperrc.desktop:1783
 msgid "Description=Send &File"
 msgstr "Description=Bir&em Cibärü"
 
-#: klipper/klipperrc.desktop:1223
+#: klipper/klipperrc.desktop:1224
 msgid "Description=Gopher URL"
 msgstr "Description=Gopher URLı"
 
-#: klipper/klipperrc.desktop:1423
+#: klipper/klipperrc.desktop:1424
 msgid "Description=ftp URL"
 msgstr "Description=ftp URLı"
 
-#: klipper/klipperrc.desktop:1556
+#: klipper/klipperrc.desktop:1557
 msgid "Description=Open with &Netscape"
 msgstr "Description=&Netscape belän Aç"
 

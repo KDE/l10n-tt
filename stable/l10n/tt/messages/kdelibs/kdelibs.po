@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2005-12-04 03:01+0100\n"
+"POT-Creation-Date: 2005-12-05 03:03+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -5725,7 +5725,7 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "Qoraltirä"
 
-#: kdeui/kedittoolbar.cpp:447 khtml/html/html_formimpl.cpp:1992
+#: kdeui/kedittoolbar.cpp:447 khtml/html/html_formimpl.cpp:1987
 #: khtml/khtmlview.cpp:2485 khtml/khtmlview.cpp:2518
 msgid "Reset"
 msgstr "Awdar"
@@ -7191,7 +7191,7 @@ msgstr ""
 "<qt>Bu form eçtälege cirle birem sistemendäge<BR><B>%1</B><BR>"
 "taba cibäräläçäk.<BR>Form eçtälegen cibärü dawam itäseme?"
 
-#: khtml/html/html_formimpl.cpp:1484 khtml/html/html_formimpl.cpp:2000
+#: khtml/html/html_formimpl.cpp:1479 khtml/html/html_formimpl.cpp:1995
 #: khtml/khtml_part.cpp:4788 khtml/khtmlview.cpp:2471 khtml/khtmlview.cpp:2513
 msgid "Submit"
 msgstr "Cibär"
@@ -7327,7 +7327,7 @@ msgstr "uqıp çıqqanda ütmäslek xata: %1, %2 yulında, %3 buyında"
 msgid "XML parsing error"
 msgstr "XML eçtälege xatalı"
 
-#: khtml/xml/dom_docimpl.cpp:1992
+#: khtml/xml/dom_docimpl.cpp:2008
 msgid "Basic Page Style"
 msgstr "Üz Bizäleşe"
 
