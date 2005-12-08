@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2005-12-07 03:03+0100\n"
+"POT-Creation-Date: 2005-12-08 03:03+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -112,7 +112,7 @@ msgstr "%1 eçendä üzgärelde"
 msgid "The source file is '%1'"
 msgstr "Çığanaq biremeneñ adı '%1'"
 
-#: kio/kdirlister.cpp:2178 kio/krun.cpp:818 kio/paste.cpp:210
+#: kio/kdirlister.cpp:2183 kio/krun.cpp:818 kio/paste.cpp:210
 #: kio/renamedlg.cpp:431
 #, c-format
 msgid ""

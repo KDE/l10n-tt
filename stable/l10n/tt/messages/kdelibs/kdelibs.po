@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2005-12-07 03:03+0100\n"
+"POT-Creation-Date: 2005-12-08 03:03+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -908,8 +908,8 @@ msgstr "Saqla"
 msgid "&Save"
 msgstr "&Saqla"
 
-#: common_texts.cpp:111 khtml/khtml_part.cpp:3910 khtml/khtml_part.cpp:4114
-#: khtml/khtml_part.cpp:4428 khtml/khtml_run.cpp:83 kparts/browserrun.cpp:411
+#: common_texts.cpp:111 khtml/khtml_part.cpp:3912 khtml/khtml_part.cpp:4116
+#: khtml/khtml_part.cpp:4430 khtml/khtml_run.cpp:83 kparts/browserrun.cpp:411
 msgid "Save As"
 msgstr "Yañaça Saqlaw..."
 
@@ -1128,7 +1128,7 @@ msgstr "Soñğını Aç"
 msgid "Open &Recent"
 msgstr "S&oñğını Aç"
 
-#: common_texts.cpp:179 kdeui/kstdaction_p.h:61 khtml/khtml_part.cpp:4231
+#: common_texts.cpp:179 kdeui/kstdaction_p.h:61 khtml/khtml_part.cpp:4233
 msgid "&Find..."
 msgstr "&Ezläw..."
 
@@ -6883,7 +6883,7 @@ msgstr "&Bilgelämä Quyu"
 msgid "Semi-Automatic"
 msgstr "Ayrtıça-Üzennän"
 
-#: khtml/khtml_part.cpp:296 khtml/khtml_part.cpp:2278
+#: khtml/khtml_part.cpp:296 khtml/khtml_part.cpp:2280
 msgid "Automatic Detection"
 msgstr "Üzennän Sizü"
 
@@ -7009,140 +7009,140 @@ msgstr "%1 bit belän %2 aşa yaqlanğan sessi."
 msgid "Session is not secured."
 msgstr "Yaqlanmağan sessi."
 
-#: khtml/khtml_part.cpp:1716
+#: khtml/khtml_part.cpp:1718
 #, c-format
 msgid "Error while loading %1"
 msgstr "%1 yöklägändä xata"
 
-#: khtml/khtml_part.cpp:1718
+#: khtml/khtml_part.cpp:1720
 msgid "An error occurred while loading <B>%1</B>:"
 msgstr "<B>%1</B> yöklägändä xata çıqtı:"
 
-#: khtml/khtml_part.cpp:1753
+#: khtml/khtml_part.cpp:1755
 msgid "Error: "
 msgstr "Xata: "
 
-#: khtml/khtml_part.cpp:1756
+#: khtml/khtml_part.cpp:1758
 msgid "The requested operation could not be completed"
 msgstr "Soralğan eşlänü azağına citkerelmäde"
 
-#: khtml/khtml_part.cpp:1762
+#: khtml/khtml_part.cpp:1764
 msgid "Technical Reason: "
 msgstr "Teknik Säbäp: "
 
-#: khtml/khtml_part.cpp:1767
+#: khtml/khtml_part.cpp:1769
 msgid "Details of the Request:"
 msgstr "Bu Soraw Turında:"
 
-#: khtml/khtml_part.cpp:1769
+#: khtml/khtml_part.cpp:1771
 #, c-format
 msgid "URL: %1"
 msgstr "URL: %1"
 
-#: khtml/khtml_part.cpp:1776
+#: khtml/khtml_part.cpp:1778
 #, c-format
 msgid "Date and Time: %1"
 msgstr "Waqıt belän Zaman: %1"
 
-#: khtml/khtml_part.cpp:1778
+#: khtml/khtml_part.cpp:1780
 #, c-format
 msgid "Additional Information: %1"
 msgstr "Östämä Belem: %1"
 
-#: khtml/khtml_part.cpp:1780
+#: khtml/khtml_part.cpp:1782
 msgid "Description:"
 msgstr "Açıqlama:"
 
-#: khtml/khtml_part.cpp:1786
+#: khtml/khtml_part.cpp:1788
 msgid "Possible Causes:"
 msgstr "Bulırlıq Säbäp:"
 
-#: khtml/khtml_part.cpp:1793
+#: khtml/khtml_part.cpp:1795
 msgid "Possible Solutions:"
 msgstr "Bulırlıq Çişeleş:"
 
-#: khtml/khtml_part.cpp:2115
+#: khtml/khtml_part.cpp:2117
 msgid "Page loaded."
 msgstr "Bit yöklände."
 
-#: khtml/khtml_part.cpp:2117
+#: khtml/khtml_part.cpp:2119
 msgid ""
 "_n: %n Image of %1 loaded.\n"
 "%n Images of %1 loaded."
 msgstr "%n Sürätneñ %1 yöklände."
 
-#: khtml/khtml_part.cpp:3711 khtml/khtml_part.cpp:3798
-#: khtml/khtml_part.cpp:3809
+#: khtml/khtml_part.cpp:3713 khtml/khtml_part.cpp:3800
+#: khtml/khtml_part.cpp:3811
 msgid " (In new window)"
 msgstr " (Yaña täräzädä)"
 
-#: khtml/khtml_part.cpp:3750
+#: khtml/khtml_part.cpp:3752
 msgid "Symbolic Link"
 msgstr "Yomşaq Bäy"
 
-#: khtml/khtml_part.cpp:3752
+#: khtml/khtml_part.cpp:3754
 msgid "%1 (Link)"
 msgstr "%1 (Läñker)"
 
-#: khtml/khtml_part.cpp:3772
+#: khtml/khtml_part.cpp:3774
 msgid "%2 (%1 bytes)"
 msgstr "%2 (%1 bayt)"
 
-#: khtml/khtml_part.cpp:3776
+#: khtml/khtml_part.cpp:3778
 msgid "%2 (%1 K)"
 msgstr "%2 (%1 K)"
 
-#: khtml/khtml_part.cpp:3811
+#: khtml/khtml_part.cpp:3813
 msgid " (In other frame)"
 msgstr " (Başqa qısada)"
 
-#: khtml/khtml_part.cpp:3816
+#: khtml/khtml_part.cpp:3818
 msgid "Email to: "
 msgstr "Moña Email: "
 
-#: khtml/khtml_part.cpp:3822
+#: khtml/khtml_part.cpp:3824
 msgid " - Subject: "
 msgstr " - Ni turında: "
 
-#: khtml/khtml_part.cpp:3824
+#: khtml/khtml_part.cpp:3826
 msgid " - CC: "
 msgstr " - CC: "
 
-#: khtml/khtml_part.cpp:3826
+#: khtml/khtml_part.cpp:3828
 msgid " - BCC: "
 msgstr " - BCC: "
 
-#: khtml/khtml_part.cpp:3915
+#: khtml/khtml_part.cpp:3917
 msgid ""
 "<qt>This untrusted page links to<BR><B>%1</B>.<BR>Do you want to follow the "
 "link?"
 msgstr "<qt>Bu şikle bittä bäy bar:<BR><B>%1</B>.<BR>Ul bäy buyınça küçäseme?"
 
-#: khtml/khtml_part.cpp:3916
+#: khtml/khtml_part.cpp:3918
 msgid "Follow"
 msgstr "Kiläse"
 
-#: khtml/khtml_part.cpp:4016
+#: khtml/khtml_part.cpp:4018
 msgid "Frame Information"
 msgstr "Qısa Turında"
 
-#: khtml/khtml_part.cpp:4022
+#: khtml/khtml_part.cpp:4024
 msgid "   <a href=\"%1\">[Properties]</a>"
 msgstr "   <a href=\"%1\">[Üzençälege]</a>"
 
-#: khtml/khtml_part.cpp:4102
+#: khtml/khtml_part.cpp:4104
 msgid "Save Background Image As"
 msgstr "Asyaq Süräten Saqlaw..."
 
-#: khtml/khtml_part.cpp:4189
+#: khtml/khtml_part.cpp:4191
 msgid "Save Frame As"
 msgstr "Qısanı Saqlaw..."
 
-#: khtml/khtml_part.cpp:4229
+#: khtml/khtml_part.cpp:4231
 msgid "&Find in Frame..."
 msgstr "Qısada &Ezläw..."
 
-#: khtml/khtml_part.cpp:4729
+#: khtml/khtml_part.cpp:4731
 msgid ""
 "Warning:  This is a secure form but it is attempting to send your data back "
 "unencrypted.\n"
@@ -7154,16 +7154,16 @@ msgstr ""
 "Öçençe yaq bu belemne eläkterä dä ala.\n"
 "Bonı çınlap ta dawam itäseme?"
 
-#: khtml/khtml_part.cpp:4732 khtml/khtml_part.cpp:4741
-#: khtml/khtml_part.cpp:4765
+#: khtml/khtml_part.cpp:4734 khtml/khtml_part.cpp:4743
+#: khtml/khtml_part.cpp:4767
 msgid "Network Transmission"
 msgstr "Çeltärle Taşım"
 
-#: khtml/khtml_part.cpp:4732 khtml/khtml_part.cpp:4742
+#: khtml/khtml_part.cpp:4734 khtml/khtml_part.cpp:4744
 msgid "&Send Unencrypted"
 msgstr "Serlämiçä &Cibär"
 
-#: khtml/khtml_part.cpp:4739
+#: khtml/khtml_part.cpp:4741
 msgid ""
 "Warning: Your data is about to be transmitted across the network unencrypted.\n"
 "Are you sure you wish to continue?"
@@ -7171,7 +7171,7 @@ msgstr ""
 "Belderü: Kertelgän belem çeltär aşa serlänmiçä tapşıralaçaq.\n"
 "Bonı çınlap ta dawam itäseme?"
 
-#: khtml/khtml_part.cpp:4763
+#: khtml/khtml_part.cpp:4765
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
@@ -7179,11 +7179,11 @@ msgstr ""
 "Bu säxifädäge form eçtälege email aşa tapşıralaçaq.\n"
 "Dawam itäse kiläme?"
 
-#: khtml/khtml_part.cpp:4766
+#: khtml/khtml_part.cpp:4768
 msgid "&Send Email"
 msgstr "&Email Cibärü"
 
-#: khtml/khtml_part.cpp:4787
+#: khtml/khtml_part.cpp:4789
 msgid ""
 "<qt>The form will be submitted to <BR><B>%1</B><BR>on your local filesystem.<BR>"
 "Do you want to submit the form?"
@@ -7192,11 +7192,11 @@ msgstr ""
 "taba cibäräläçäk.<BR>Form eçtälegen cibärü dawam itäseme?"
 
 #: khtml/html/html_formimpl.cpp:1479 khtml/html/html_formimpl.cpp:1995
-#: khtml/khtml_part.cpp:4788 khtml/khtmlview.cpp:2471 khtml/khtmlview.cpp:2513
+#: khtml/khtml_part.cpp:4790 khtml/khtmlview.cpp:2471 khtml/khtmlview.cpp:2513
 msgid "Submit"
 msgstr "Cibär"
 
-#: khtml/khtml_part.cpp:4836
+#: khtml/khtml_part.cpp:4838
 msgid ""
 "This site attempted to attach a file from your computer in the form submission. "
 "The attachment was removed for your protection."
@@ -7204,47 +7204,47 @@ msgstr ""
 "Bu säxifädäge form bu sanaqtağı biremne qıstırıp cibärmäkçe bula. Saqlıq bozmaw "
 "öçen, ul qıstırılğan birem ayırılğan buldı."
 
-#: khtml/khtml_part.cpp:4836
+#: khtml/khtml_part.cpp:4838
 msgid "KDE"
 msgstr "KDE"
 
-#: khtml/khtml_part.cpp:5741
+#: khtml/khtml_part.cpp:5743
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6813
+#: khtml/khtml_part.cpp:6815
 msgid "Security Warning"
 msgstr "İminlek Kisätmäse"
 
-#: khtml/khtml_part.cpp:6819
+#: khtml/khtml_part.cpp:6821
 msgid "<qt>Access by untrusted page to<BR><B>%1</B><BR> denied."
 msgstr "<qt>Işanıp betmägän bittän <BR><B>%1</B><BR> taba ireşü tíıldı."
 
-#: khtml/java/kjavaappletserver.cpp:784 khtml/khtml_part.cpp:6820
+#: khtml/java/kjavaappletserver.cpp:784 khtml/khtml_part.cpp:6822
 msgid "Security Alert"
 msgstr "İminlek Beldergeçe"
 
-#: khtml/khtml_part.cpp:7245
+#: khtml/khtml_part.cpp:7247
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr "'%1' digän açıq buqça form eçtälege belän sersüzlär öçen qullanıla."
 
-#: khtml/khtml_part.cpp:7299
+#: khtml/khtml_part.cpp:7301
 msgid "&Close Wallet"
 msgstr "Buqçanı Ya&p"
 
-#: khtml/khtml_part.cpp:7342
+#: khtml/khtml_part.cpp:7344
 msgid "JavaScript &Debugger"
 msgstr "JavaScript &Betçese"
 
-#: khtml/khtml_part.cpp:7377
+#: khtml/khtml_part.cpp:7379
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr "Bu bittäge JavaScript yaña täräzä açıp qaradı."
 
-#: khtml/khtml_part.cpp:7383
+#: khtml/khtml_part.cpp:7385
 msgid "Popup Window Blocked"
 msgstr "Atılma Täräzä Sünek"
 
-#: khtml/khtml_part.cpp:7383
+#: khtml/khtml_part.cpp:7385
 #, fuzzy
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
@@ -7254,19 +7254,19 @@ msgstr ""
 "Bu bittäge JavaScript atılma täräzä açarğa cíınğan.\n"
 "Xältirädäge räsemgä çirtep, tıyu eşen caylap bula."
 
-#: khtml/khtml_part.cpp:7397
+#: khtml/khtml_part.cpp:7399
 #, c-format
 msgid ""
 "_n: &Show Blocked Popup Window\n"
 "Show %n Blocked Popup Windows"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7398
+#: khtml/khtml_part.cpp:7400
 #, fuzzy
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr "Tıyılğan Täräzälär Turında Belderüne &Kürsätäse "
 
-#: khtml/khtml_part.cpp:7400
+#: khtml/khtml_part.cpp:7402
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript'neñ Yaña Täräzä açu Tärtibe..."
 
