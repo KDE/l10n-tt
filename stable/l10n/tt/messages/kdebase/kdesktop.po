@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdesktop\n"
-"POT-Creation-Date: 2005-12-06 03:05+0100\n"
+"POT-Creation-Date: 2005-12-10 03:05+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -172,7 +172,7 @@ msgstr "Astağı sürät öçen ber isem kertäse:"
 msgid "image.png"
 msgstr "image.png"
 
-#: desktop.cc:866
+#: desktop.cc:877
 msgid ""
 "Could not log out properly.\n"
 "The session manager cannot be contacted. You can try to force a shutdown by "
