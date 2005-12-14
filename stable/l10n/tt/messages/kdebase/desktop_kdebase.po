@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2005-12-12 02:17+0000\n"
+"POT-Creation-Date: 2005-12-14 02:18+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -1419,7 +1419,7 @@ msgstr "Name=EnjoyMPEG"
 msgid "GenericName=MPEG Player"
 msgstr "GenericName=MPEG Uynatqıç"
 
-#: kappfinder/apps/Multimedia/gtv.desktop:80
+#: kappfinder/apps/Multimedia/gtv.desktop:81
 msgid "Name=GTV"
 msgstr "Name=GTV"
 
@@ -1443,7 +1443,7 @@ msgstr "Name=MpegTV"
 msgid "GenericName=DVD Player"
 msgstr "GenericName=DVD Uynatqıç"
 
-#: kappfinder/apps/Multimedia/ogle.desktop:78
+#: kappfinder/apps/Multimedia/ogle.desktop:79
 msgid "Name=Ogle"
 msgstr "Name=Ogle"
 
@@ -1451,7 +1451,7 @@ msgstr "Name=Ogle"
 msgid "GenericName=MOV Video Player"
 msgstr "GenericName=MOV Video Uynatqıç"
 
-#: kappfinder/apps/Multimedia/oqtplayer.desktop:79
+#: kappfinder/apps/Multimedia/oqtplayer.desktop:80
 msgid "Name=OQTPlayer"
 msgstr "Name=OQTPlayer"
 
