@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2005-12-08 03:03+0100\n"
+"POT-Creation-Date: 2005-12-17 03:06+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -3316,7 +3316,7 @@ msgstr "Östäl"
 msgid "Documents"
 msgstr "İstäleklär"
 
-#: kfile/kdiroperator.cpp:1253 kfile/kfilespeedbar.cpp:57
+#: kfile/kdiroperator.cpp:1257 kfile/kfilespeedbar.cpp:57
 msgid "Home Folder"
 msgstr "Ana Törgäk"
 
@@ -3332,7 +3332,7 @@ msgstr "Çeltärle Törgäklär"
 msgid "Menu Editor"
 msgstr "Saylaq Tözätkeçe"
 
-#: kfile/kcustommenueditor.cpp:94 kfile/kdiroperator.cpp:1247
+#: kfile/kcustommenueditor.cpp:94 kfile/kdiroperator.cpp:1251
 msgid "Menu"
 msgstr "Saylaq"
 
@@ -3626,7 +3626,7 @@ msgstr ""
 msgid "Select Folder"
 msgstr "Törgäk Saylaw"
 
-#: kfile/kdiroperator.cpp:1258 kfile/kdirselectdialog.cpp:91
+#: kfile/kdiroperator.cpp:1262 kfile/kdirselectdialog.cpp:91
 #: kfile/kdirselectdialog.cpp:124
 msgid "New Folder..."
 msgstr "Yaña Törgäk..."
@@ -4141,64 +4141,64 @@ msgstr "Taşla Biremne"
 msgid "The specified folder does not exist or was not readable."
 msgstr "Äytelgän törgäk yä barlıqta yuq, yä uqırlıq tügel."
 
-#: kfile/kdiroperator.cpp:910 kfile/kdiroperator.cpp:1310
+#: kfile/kdiroperator.cpp:910 kfile/kdiroperator.cpp:1314
 #: kfile/kfiledetailview.cpp:64
 msgid "Detailed View"
 msgstr "Centekle Küreneş"
 
-#: kfile/kdiroperator.cpp:915 kfile/kdiroperator.cpp:1308
+#: kfile/kdiroperator.cpp:915 kfile/kdiroperator.cpp:1312
 msgid "Short View"
 msgstr "Qısqa Küreneş"
 
-#: kfile/kdiroperator.cpp:1249
+#: kfile/kdiroperator.cpp:1253
 msgid "Parent Folder"
 msgstr "Ana Törgäk"
 
-#: kfile/kdiroperator.cpp:1260
+#: kfile/kdiroperator.cpp:1264
 msgid "Move to Trash"
 msgstr "Çüpkä Küçer"
 
-#: kfile/kdiroperator.cpp:1271
+#: kfile/kdiroperator.cpp:1275
 msgid "Sorting"
 msgstr "Tezü"
 
-#: kfile/kdiroperator.cpp:1272
+#: kfile/kdiroperator.cpp:1276
 msgid "By Name"
 msgstr "&Adı Buyınça"
 
-#: kfile/kdiroperator.cpp:1275
+#: kfile/kdiroperator.cpp:1279
 msgid "By Date"
 msgstr "Zaman Buyınça"
 
-#: kfile/kdiroperator.cpp:1278
+#: kfile/kdiroperator.cpp:1282
 msgid "By Size"
 msgstr "Küläm Buyınça"
 
-#: kfile/kdiroperator.cpp:1281
+#: kfile/kdiroperator.cpp:1285
 msgid "Reverse"
 msgstr "Kiregä"
 
-#: kfile/kdiroperator.cpp:1291
+#: kfile/kdiroperator.cpp:1295
 msgid "Folders First"
 msgstr "Baştan Törgäklär"
 
-#: kfile/kdiroperator.cpp:1293
+#: kfile/kdiroperator.cpp:1297
 msgid "Case Insensitive"
 msgstr "Olı/Keşe Bilgene Ayırıp"
 
-#: kfile/kdiroperator.cpp:1313
+#: kfile/kdiroperator.cpp:1317
 msgid "Show Hidden Files"
 msgstr "Yäşeren Birem Kürsätäse"
 
-#: kfile/kdiroperator.cpp:1316
+#: kfile/kdiroperator.cpp:1320
 msgid "Separate Folders"
 msgstr "Ayırım Törgäklär"
 
-#: kfile/kdiroperator.cpp:1320
+#: kfile/kdiroperator.cpp:1324
 msgid "Show Preview"
 msgstr "Küzläwne Kürsät"
 
-#: kfile/kdiroperator.cpp:1324
+#: kfile/kdiroperator.cpp:1328
 msgid "Hide Preview"
 msgstr "Küzläwne Yäşert"
 

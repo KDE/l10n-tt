@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmkclock\n"
-"POT-Creation-Date: 2005-07-20 01:34+0200\n"
+"POT-Creation-Date: 2005-12-17 03:07+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -67,12 +67,12 @@ msgstr "Waqıt quşağın üzgärtü öçen, anı bu tezmädän saylísı:"
 msgid "Current local timezone: %1 (%2)"
 msgstr "Biredäge waqıt quşağı: "
 
-#: tzone.cpp:176
+#: tzone.cpp:180
 #, fuzzy
 msgid "Error setting new timezone."
 msgstr "Waqıt Quşağın üzgärtkändä xata kilep çıqtı."
 
-#: tzone.cpp:177
+#: tzone.cpp:181
 msgid "Timezone Error"
 msgstr "Waqıt Quşağı Qatası"
 
