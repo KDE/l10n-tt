@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kminipagerapplet\n"
-"POT-Creation-Date: 2005-12-16 03:07+0100\n"
+"POT-Creation-Date: 2005-12-20 03:07+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -102,14 +102,14 @@ msgstr "&Bitçe Caylawı"
 msgid "&Configure Desktops..."
 msgstr "Öställär &Caylaw..."
 
-#: pagerbutton.cpp:688
+#: pagerbutton.cpp:741
 #, c-format
 msgid ""
 "_n: and 1 other\n"
 "and %n others"
 msgstr ""
 
-#: pagerbutton.cpp:696
+#: pagerbutton.cpp:749
 #, c-format
 msgid ""
 "_n: One window:\n"
