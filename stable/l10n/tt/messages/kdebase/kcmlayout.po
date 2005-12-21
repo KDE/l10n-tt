@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmlayout\n"
-"POT-Creation-Date: 2005-12-01 02:51+0100\n"
+"POT-Creation-Date: 2005-12-21 03:06+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -1026,27 +1026,8 @@ msgstr "Töylek Qabatlawı"
 msgid "&Delay:"
 msgstr "&Ara:"
 
-#. i18n: file kcmmiscwidget.ui line 138
-#: rc.cpp:154
-#, fuzzy, no-c-format
-msgid ""
-"If supported, this option allows you to set the\n"
-"                          delay after which a pressed key will start generating "
-"keycodes. The 'Repeat rate\n"
-"                          ' option controls the frequency of these keycodes."
-msgstr ""
-"Totılğan bulsa, töymägä basudan soñ ımlaw cibärä başlağançı kiçekterü arasın bu "
-"köylämä aşa köyläp bula. 'Qabatlaw yışlığı' digän köylämä aşa ul ımlawlar "
-"yışlığın köyläp bula."
-
-#. i18n: file kcmmiscwidget.ui line 155
-#: rc.cpp:159
-#, no-c-format
-msgid " msec"
-msgstr " msek"
-
-#. i18n: file kcmmiscwidget.ui line 158
-#: rc.cpp:162
+#. i18n: file kcmmiscwidget.ui line 136
+#: rc.cpp:154 rc.cpp:160
 #, no-c-format
 msgid ""
 "If supported, this option allows you to set the delay after which a pressed key "
@@ -1057,14 +1038,20 @@ msgstr ""
 "köylämä aşa köyläp bula. 'Qabatlaw yışlığı' digän köylämä aşa ul ımlawlar "
 "yışlığın köyläp bula."
 
-#. i18n: file kcmmiscwidget.ui line 174
-#: rc.cpp:165
+#. i18n: file kcmmiscwidget.ui line 153
+#: rc.cpp:157
+#, no-c-format
+msgid " msec"
+msgstr " msek"
+
+#. i18n: file kcmmiscwidget.ui line 172
+#: rc.cpp:163
 #, no-c-format
 msgid "&Rate:"
 msgstr "&Dan:"
 
-#. i18n: file kcmmiscwidget.ui line 209
-#: rc.cpp:168 rc.cpp:174
+#. i18n: file kcmmiscwidget.ui line 207
+#: rc.cpp:166 rc.cpp:172
 #, no-c-format
 msgid ""
 "If supported, this option allows you to set the rate at which keycodes are "
@@ -1073,20 +1060,20 @@ msgstr ""
 "Totılğan bulsa, töymägä basudan çıqqan ımlaw yışlığın bu köylämä aşa köyläp "
 "bula."
 
-#. i18n: file kcmmiscwidget.ui line 229
-#: rc.cpp:171
+#. i18n: file kcmmiscwidget.ui line 227
+#: rc.cpp:169
 #, no-c-format
 msgid "/s"
 msgstr "/s"
 
-#. i18n: file kcmmiscwidget.ui line 240
-#: rc.cpp:177
+#. i18n: file kcmmiscwidget.ui line 238
+#: rc.cpp:175
 #, no-c-format
 msgid "&Enable keyboard repeat"
 msgstr "&Töylek qabatlanuın açu"
 
-#. i18n: file kcmmiscwidget.ui line 246
-#: rc.cpp:180
+#. i18n: file kcmmiscwidget.ui line 244
+#: rc.cpp:178
 #, no-c-format
 msgid ""
 "If you check this option, pressing and holding down a key emits the same "
@@ -1097,14 +1084,14 @@ msgstr ""
 "Bu köylämä yanıq bulsa, töymälärgä basıp totqanda ul töymägä berniçä tapqır "
 "basqan kebek bulaçaq. "
 
-#. i18n: file kcmmiscwidget.ui line 265
-#: rc.cpp:183
+#. i18n: file kcmmiscwidget.ui line 263
+#: rc.cpp:181
 #, no-c-format
 msgid "%"
 msgstr "%"
 
-#. i18n: file kcmmiscwidget.ui line 268
-#: rc.cpp:186 rc.cpp:192
+#. i18n: file kcmmiscwidget.ui line 266
+#: rc.cpp:184 rc.cpp:190
 #, no-c-format
 msgid ""
 "If supported, this option allows you to hear audible clicks from your "
@@ -1120,8 +1107,8 @@ msgstr ""
 "tawış bik neçkä ikän, ul çaqta bu köylämädän uñaylıq kürep bula."
 "<p>Sudırma töymäsen österep çirteş tawışın üzgärtep bula."
 
-#. i18n: file kcmmiscwidget.ui line 284
-#: rc.cpp:189
+#. i18n: file kcmmiscwidget.ui line 282
+#: rc.cpp:187
 #, no-c-format
 msgid "Key click &volume:"
 msgstr "Töymä çirtü &köçe:"
@@ -1145,6 +1132,13 @@ msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
+
+#, fuzzy
+#~ msgid ""
+#~ "If supported, this option allows you to set the\n"
+#~ "                          delay after which a pressed key will start generating keycodes. The 'Repeat rate\n"
+#~ "                          ' option controls the frequency of these keycodes."
+#~ msgstr "Totılğan bulsa, töymägä basudan soñ ımlaw cibärä başlağançı kiçekterü arasın bu köylämä aşa köyläp bula. 'Qabatlaw yışlığı' digän köylämä aşa ul ımlawlar yışlığın köyläp bula."
 
 #~ msgid "Alt+E"
 #~ msgstr "Alt+E"

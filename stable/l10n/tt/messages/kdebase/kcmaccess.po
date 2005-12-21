@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmaccess\n"
-"POT-Creation-Date: 2005-09-09 02:47+0200\n"
+"POT-Creation-Date: 2005-12-21 03:07+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -298,7 +298,7 @@ msgstr ""
 "Äkren töymä: Shift töymäsen 8 sekund basıq totu"
 
 #: kcmaccess.cpp:509
-msgid "Turn sticky keys and slow keys off after a certain time of inactivity"
+msgid "Turn sticky keys and slow keys off after a certain period of inactivity"
 msgstr ""
 
 #: kcmaccess.cpp:515
@@ -331,8 +331,8 @@ msgstr "Qılanış qullanğanda kileşü sarağan täräzä kürsätü"
 msgid ""
 "If this option is checked, KDE will show a confirmation dialog whenever a "
 "keyboard accessibility feature is turned on or off.\n"
-"Be carefull to know what you are doing if you uncheck it as then the keyboard "
-"accessibility settings will always be applied without confirmation."
+"Be sure you know what you are doing if you uncheck it, as the keyboard "
+"accessibility settings will then always be applied without confirmation."
 msgstr ""
 "Bu köylämä yanıq torsa, qılanış qılğanda KDE kileşü täräzäsen kürsätäçäk.\n"
 "Anı sünderep quyğanda saq bulası, çönki ul çaqta AccessX caylawları kileşü "
