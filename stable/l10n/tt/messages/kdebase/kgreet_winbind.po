@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kgreet_winbind\n"
-"POT-Creation-Date: 2005-12-21 03:07+0100\n"
+"POT-Creation-Date: 2005-12-22 03:09+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,42 +12,42 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: kgreet_winbind.cpp:123
+#: kgreet_winbind.cpp:125
 msgid "&Domain:"
 msgstr "&Domain:"
 
-#: kgreet_winbind.cpp:124
+#: kgreet_winbind.cpp:126
 msgid "&Username:"
 msgstr "&Qullanuçı:"
 
-#: kgreet_winbind.cpp:137
+#: kgreet_winbind.cpp:139
 msgid "Domain:"
 msgstr "Domain:"
 
-#: kgreet_winbind.cpp:140
+#: kgreet_winbind.cpp:142
 msgid "Username:"
 msgstr "Qullanuçı:"
 
-#: kgreet_winbind.cpp:159
+#: kgreet_winbind.cpp:161
 msgid "&Password:"
 msgstr "&Sersüz:"
 
-#: kgreet_winbind.cpp:160
+#: kgreet_winbind.cpp:162
 msgid "Current &password:"
 msgstr "&Ağımdağı sersüz:"
 
-#: kgreet_winbind.cpp:183
+#: kgreet_winbind.cpp:185
 msgid "&New password:"
 msgstr "&Yaña sersüz:"
 
-#: kgreet_winbind.cpp:184
+#: kgreet_winbind.cpp:186
 msgid "Con&firm password:"
 msgstr "Sersüz qa&batlaw:"
 
-#: kgreet_winbind.cpp:361
+#: kgreet_winbind.cpp:363
 msgid "Unrecognized prompt \"%1\""
 msgstr "Tanılmağan çaqıru: \"%1\""
 
-#: kgreet_winbind.cpp:583
+#: kgreet_winbind.cpp:609
 msgid "Winbind / Samba"
 msgstr "Winbind / Samba"
