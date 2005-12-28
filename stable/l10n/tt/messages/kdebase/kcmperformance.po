@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmperformance\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2005-12-28 03:13+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -173,10 +173,10 @@ msgstr "Cibärelü çaqta &sistem caylaw tikşerüen sünderü"
 
 #. i18n: file system_ui.ui line 43
 #: rc.cpp:33
-#, no-c-format
+#, fuzzy, no-c-format
 msgid ""
 "<b>WARNING:</b> This option may in rare cases lead to various problems. Consult "
-"the What's This (Shift+F1) help for details."
+"the What's This? (Shift+F1) help for details."
 msgstr ""
 "<b>BELDERÜ:</b> Bu köylämä siräk oçraqlarda törle qíınlıqlarğa kiterä ala. "
 "Tögälrägen \"Ni Bu?\" digän yärdämendä uqıp bula (Shift+F1)."
