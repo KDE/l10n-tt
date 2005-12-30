@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs katepart\n"
-"POT-Creation-Date: 2005-12-27 03:09+0100\n"
+"POT-Creation-Date: 2005-12-30 03:11+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -3072,7 +3072,7 @@ msgid ""
 "ANSI C89"
 msgstr "ANSI C89"
 
-#. i18n: file data/apache.xml line 3
+#. i18n: file data/apache.xml line 15
 #: rc.cpp:64
 #, fuzzy
 msgid ""
@@ -3080,7 +3080,7 @@ msgid ""
 "Apache Configuration"
 msgstr "Caylaw"
 
-#. i18n: file data/apache.xml line 3
+#. i18n: file data/apache.xml line 15
 #: rc.cpp:66 rc.cpp:110 rc.cpp:162 rc.cpp:206 rc.cpp:250 rc.cpp:502
 msgid ""
 "_: Language Section\n"
