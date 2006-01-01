@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio_help\n"
-"POT-Creation-Date: 2005-05-18 21:23+0200\n"
+"POT-Creation-Date: 2006-01-01 03:10+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -24,37 +24,37 @@ msgid ""
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
 
-#: kio_help.cpp:123
+#: kio_help.cpp:115
 #, c-format
 msgid "There is no documentation available for %1."
 msgstr "Biredä %1 öçen qullanmalar yuq."
 
-#: kio_help.cpp:166
+#: kio_help.cpp:158
 msgid "Looking up correct file"
 msgstr "Döres birem ezläw"
 
-#: kio_help.cpp:217
+#: kio_help.cpp:209
 msgid "Preparing document"
 msgstr "İstälek äzerläw"
 
-#: kio_help.cpp:226 kio_help.cpp:259
+#: kio_help.cpp:218 kio_help.cpp:251
 #, c-format
 msgid "The requested help file could not be parsed:<br>%1"
 msgstr "Soralğan yärdäm biremeneñ eçtälegen uqı bulmadı:<br>%1"
 
-#: kio_help.cpp:248
+#: kio_help.cpp:240
 msgid "Saving to cache"
 msgstr "Alxätergä saqlaw"
 
-#: kio_help.cpp:254
+#: kio_help.cpp:246
 msgid "Using cached version"
 msgstr "Alxäterle sörem qullanu"
 
-#: kio_help.cpp:316
+#: kio_help.cpp:308
 msgid "Looking up section"
 msgstr "Bülek ezläw"
 
-#: kio_help.cpp:327
+#: kio_help.cpp:319
 msgid "Could not find filename %1 in %2."
 msgstr "%2 eçendä %1 biremen tabıp bulmadı."
 

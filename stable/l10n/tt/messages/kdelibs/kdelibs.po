@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2005-12-28 03:11+0100\n"
+"POT-Creation-Date: 2006-01-01 03:11+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -4528,19 +4528,19 @@ msgstr ""
 "Kürep alu: %1\n"
 "Tülängäne: %2\n"
 
-#: knewstuff/downloaddialog.cpp:592
+#: knewstuff/downloaddialog.cpp:595
 msgid "Installation successful."
 msgstr "Quyu uñışlı uzdı."
 
-#: knewstuff/downloaddialog.cpp:592 knewstuff/downloaddialog.cpp:594
+#: knewstuff/downloaddialog.cpp:595 knewstuff/downloaddialog.cpp:597
 msgid "Installation"
 msgstr "Quyu"
 
-#: knewstuff/downloaddialog.cpp:594
+#: knewstuff/downloaddialog.cpp:597
 msgid "Installation failed."
 msgstr "Quyıp bulmadı."
 
-#: knewstuff/downloaddialog.cpp:687
+#: knewstuff/downloaddialog.cpp:690
 #, fuzzy
 msgid "Preview not available."
 msgstr ""
