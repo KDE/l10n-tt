@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kate\n"
-"POT-Creation-Date: 2005-11-01 02:39+0100\n"
+"POT-Creation-Date: 2006-01-02 03:11+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -20,23 +20,23 @@ msgstr "'%1' boyırığın eşlätep bulmadı."
 msgid "Kate External Tools"
 msgstr "Kate öçen Tışqı Qoral"
 
-#: app/kateexternaltools.cpp:432
+#: app/kateexternaltools.cpp:427
 msgid "Edit External Tool"
 msgstr "Tışqı Qoral Üzgärtü"
 
-#: app/kateexternaltools.cpp:446
+#: app/kateexternaltools.cpp:441
 msgid "&Label:"
 msgstr "&Yazma:"
 
-#: app/kateexternaltools.cpp:451
+#: app/kateexternaltools.cpp:446
 msgid "The name will be displayed in the 'Tools->External' menu"
 msgstr "İsem 'Qorallar->Tışqı' saylağında kürsäteläçäk."
 
-#: app/kateexternaltools.cpp:461
+#: app/kateexternaltools.cpp:456
 msgid "S&cript:"
 msgstr "Ämerle&k:"
 
-#: app/kateexternaltools.cpp:466
+#: app/kateexternaltools.cpp:461
 msgid ""
 "<p>The script to execute to invoke the tool. The script is passed to /bin/sh "
 "for execution. The following macros will be expanded:</p>"
@@ -64,11 +64,11 @@ msgstr ""
 "<li><code>%selection</code> - xäzerge küreneştä saylanğan tekst."
 "<li><code>%text</code> - xäzerge dokumentnıñ tekstı.</ul>"
 
-#: app/kateexternaltools.cpp:484
+#: app/kateexternaltools.cpp:479
 msgid "&Executable:"
 msgstr "&Eşçän:"
 
-#: app/kateexternaltools.cpp:489
+#: app/kateexternaltools.cpp:484
 msgid ""
 "The executable used by the command. This is used to check if a tool should be "
 "displayed; if not set, the first word of <em>command</em> will be used."
@@ -76,11 +76,11 @@ msgstr ""
 "Bu boyırıq qullanğan eşçän. Qoralnıñ kürsäteläçägen tikşerer öçen qullanıla. "
 "Quyılğan bulmasa, <em>boyırıq</em>'nıñ berençe süze qullanılaçaq"
 
-#: app/kateexternaltools.cpp:495
+#: app/kateexternaltools.cpp:490
 msgid "&Mime types:"
 msgstr "&MIME töre:"
 
-#: app/kateexternaltools.cpp:500
+#: app/kateexternaltools.cpp:495
 msgid ""
 "A semicolon-separated list of mime types for which this tool should be "
 "available; if this is left empty, the tool is always available. To choose from "
@@ -90,27 +90,27 @@ msgstr ""
 "qalsa, qoral härwaqıt qullanırlıq bulır. Bilgele mime törlärdan saylar öçen, "
 "uñdağı töymägä bas."
 
-#: app/kateexternaltools.cpp:509
+#: app/kateexternaltools.cpp:504
 msgid "Click for a dialog that can help you creating a list of mimetypes."
 msgstr "Mime törlär tezmäsen yasarğa bulışa alğan dialog açar öçen monda bas."
 
-#: app/kateexternaltools.cpp:513
+#: app/kateexternaltools.cpp:508
 msgid "&Save:"
 msgstr "&Saqla:"
 
-#: app/kateexternaltools.cpp:517
+#: app/kateexternaltools.cpp:512
 msgid "None"
 msgstr "Yuq"
 
-#: app/kateexternaltools.cpp:517
+#: app/kateexternaltools.cpp:512
 msgid "Current Document"
 msgstr "Biredäge İstälek"
 
-#: app/kateexternaltools.cpp:517
+#: app/kateexternaltools.cpp:512
 msgid "All Documents"
 msgstr "Bar İstäleklär"
 
-#: app/kateexternaltools.cpp:521
+#: app/kateexternaltools.cpp:516
 msgid ""
 "You can elect to save the current or all [modified] documents prior to running "
 "the command. This is helpful if you want to pass URLs to an application like, "
@@ -120,11 +120,11 @@ msgstr ""
 "dokumentlar saqlawnı saylí alasıñ. Bu, sin URL'larnı FTP klient kebek "
 "eşçännärgä cibärergä telägän çaqta faydalı bula ala."
 
-#: app/kateexternaltools.cpp:528
+#: app/kateexternaltools.cpp:523
 msgid "&Command line name:"
 msgstr "&Boyırıq yul adı:"
 
-#: app/kateexternaltools.cpp:533
+#: app/kateexternaltools.cpp:528
 msgid ""
 "If you specify a name here, you can invoke the command from the view command "
 "lines with exttool-the_name_you_specified_here. Please do not use spaces or "
@@ -134,31 +134,31 @@ msgstr ""
 "exttool-bonda-kertelgän-ataması kertü aşa çaqırıp bula. Beläse: buşlıq belän "
 "sikerü bilgelären qullanmasqa."
 
-#: app/kateexternaltools.cpp:544
+#: app/kateexternaltools.cpp:539
 msgid "You must specify at least a name and a command"
 msgstr "Kimendä isem häm boyırıq saylarğa kiräk"
 
-#: app/kateexternaltools.cpp:553
+#: app/kateexternaltools.cpp:548
 msgid "Select the MimeTypes for which to enable this tool."
 msgstr "Bu qoral qaysı mime tiplar öçen sälätländeräçäk buluın sayla."
 
-#: app/kateexternaltools.cpp:555
+#: app/kateexternaltools.cpp:550
 msgid "Select Mime Types"
 msgstr "MIME-Törlär Saylaw"
 
-#: app/kateexternaltools.cpp:573
+#: app/kateexternaltools.cpp:568
 msgid "&New..."
 msgstr "&Yaña..."
 
-#: app/kateexternaltools.cpp:581
+#: app/kateexternaltools.cpp:576
 msgid "&Edit..."
 msgstr "&Üzgärtü..."
 
-#: app/kateexternaltools.cpp:585
+#: app/kateexternaltools.cpp:580
 msgid "Insert &Separator"
 msgstr "Ayı&rğıçnı Tıq"
 
-#: app/kateexternaltools.cpp:607
+#: app/kateexternaltools.cpp:602
 msgid ""
 "This list shows all the configured tools, represented by their menu text."
 msgstr "Bar bulğan qorallar tezmäse bu."
@@ -862,155 +862,155 @@ msgstr "<strong>Xata:</strong><p>"
 msgid "Grep Tool Error"
 msgstr "Grep Qoral Xatası"
 
-#: app/katemain.cpp:38
+#: app/katemain.cpp:39
 msgid "Start Kate with a given session"
 msgstr "Birelgän sessia belän Kate'nı başlat"
 
-#: app/katemain.cpp:40
+#: app/katemain.cpp:41
 msgid "Use a already running kate instance (if possible)"
 msgstr "Mömkin bulsa, cibärelgän kate dänäsen qullan."
 
-#: app/katemain.cpp:42
+#: app/katemain.cpp:43
 msgid "Only try to reuse kate instance with this pid"
 msgstr "Bu yök belän kate dänäsen yañadan ğına qullanıp qara"
 
-#: app/katemain.cpp:44 app/kwritemain.cpp:536
+#: app/katemain.cpp:45 app/kwritemain.cpp:536
 msgid "Set encoding for the file to open"
 msgstr "Açılaçaq birem öçen kodlamanı bilgelä"
 
-#: app/katemain.cpp:46 app/kwritemain.cpp:537
+#: app/katemain.cpp:47 app/kwritemain.cpp:537
 msgid "Navigate to this line"
 msgstr "Bu yulğa bar"
 
-#: app/katemain.cpp:48 app/kwritemain.cpp:538
+#: app/katemain.cpp:49 app/kwritemain.cpp:538
 msgid "Navigate to this column"
 msgstr "Bu bağanağa bar"
 
-#: app/katemain.cpp:50 app/kwritemain.cpp:535
+#: app/katemain.cpp:51 app/kwritemain.cpp:535
 msgid "Read the contents of stdin"
 msgstr "Eçtälekne töp kerem ağımınnan uqu"
 
-#: app/katemain.cpp:51 app/kwritemain.cpp:539
+#: app/katemain.cpp:52 app/kwritemain.cpp:539
 msgid "Document to open"
 msgstr "Açası istälek"
 
-#: app/katemain.cpp:60
+#: app/katemain.cpp:61
 msgid "Kate"
 msgstr "Kate"
 
-#: app/katemain.cpp:61
+#: app/katemain.cpp:62
 msgid "Kate - Advanced Text Editor"
 msgstr "Kate - Kiñäytelgän Yazma-Tözätkeç"
 
-#: app/katemain.cpp:62 app/kwritemain.cpp:556
+#: app/katemain.cpp:63 app/kwritemain.cpp:556
 msgid "(c) 2000-2005 The Kate Authors"
 msgstr "(c) 2000-2005 Kate tözüçeläre"
 
-#: app/katemain.cpp:64 app/kwritemain.cpp:558
+#: app/katemain.cpp:65 app/kwritemain.cpp:558
 msgid "Maintainer"
 msgstr "Bulışuçı"
 
-#: app/katemain.cpp:65 app/katemain.cpp:66 app/katemain.cpp:67
-#: app/katemain.cpp:72 app/kwritemain.cpp:559 app/kwritemain.cpp:560
+#: app/katemain.cpp:66 app/katemain.cpp:67 app/katemain.cpp:68
+#: app/katemain.cpp:73 app/kwritemain.cpp:559 app/kwritemain.cpp:560
 #: app/kwritemain.cpp:561 app/kwritemain.cpp:566
 msgid "Core Developer"
 msgstr "Töş Citeşterüçe"
 
-#: app/katemain.cpp:68 app/kwritemain.cpp:562
+#: app/katemain.cpp:69 app/kwritemain.cpp:562
 msgid "The cool buffersystem"
 msgstr "Şäp eşxäter sisteme"
 
-#: app/katemain.cpp:69 app/kwritemain.cpp:563
+#: app/katemain.cpp:70 app/kwritemain.cpp:563
 msgid "The Editing Commands"
 msgstr "Üzgärtü Boyırıqları"
 
-#: app/katemain.cpp:70 app/kwritemain.cpp:564
+#: app/katemain.cpp:71 app/kwritemain.cpp:564
 msgid "Testing, ..."
 msgstr "Sınaw, ..."
 
-#: app/katemain.cpp:71 app/kwritemain.cpp:565
+#: app/katemain.cpp:72 app/kwritemain.cpp:565
 msgid "Former Core Developer"
 msgstr "Elekke Töş Citeşterüçe"
 
-#: app/katemain.cpp:73 app/kwritemain.cpp:567
+#: app/katemain.cpp:74 app/kwritemain.cpp:567
 msgid "KWrite Author"
 msgstr "KWrite Yazuçısı"
 
-#: app/katemain.cpp:74 app/kwritemain.cpp:568
+#: app/katemain.cpp:75 app/kwritemain.cpp:568
 msgid "KWrite port to KParts"
 msgstr "KWrite –› KParts"
 
-#: app/katemain.cpp:77 app/kwritemain.cpp:571
+#: app/katemain.cpp:78 app/kwritemain.cpp:571
 msgid "KWrite Undo History, Kspell integration"
 msgstr "KWrite Kire alu Taríxı, Kspell belän totaştıru"
 
-#: app/katemain.cpp:78 app/kwritemain.cpp:572
+#: app/katemain.cpp:79 app/kwritemain.cpp:572
 msgid "KWrite XML Syntax highlighting support"
 msgstr "KWrite eçendä XML tözeleşen yaqtırtu"
 
-#: app/katemain.cpp:79 app/kwritemain.cpp:573
+#: app/katemain.cpp:80 app/kwritemain.cpp:573
 msgid "Patches and more"
 msgstr "Yamawlar belän b.n."
 
-#: app/katemain.cpp:80
+#: app/katemain.cpp:81
 msgid "Developer & Highlight wizard"
 msgstr "Citeşterü & Yaqtırtu ostası"
 
-#: app/katemain.cpp:82 app/kwritemain.cpp:575
+#: app/katemain.cpp:83 app/kwritemain.cpp:575
 msgid "Highlighting for RPM Spec-Files, Perl, Diff and more"
 msgstr "RPM, Perl, Diff öçen Yaqtırtu"
 
-#: app/katemain.cpp:83 app/kwritemain.cpp:576
+#: app/katemain.cpp:84 app/kwritemain.cpp:576
 msgid "Highlighting for VHDL"
 msgstr "VHDL öçen Yaqtırtu"
 
-#: app/katemain.cpp:84 app/kwritemain.cpp:577
+#: app/katemain.cpp:85 app/kwritemain.cpp:577
 msgid "Highlighting for SQL"
 msgstr "SQL öçen Yaqtırtu"
 
-#: app/katemain.cpp:85 app/kwritemain.cpp:578
+#: app/katemain.cpp:86 app/kwritemain.cpp:578
 msgid "Highlighting for Ferite"
 msgstr "Ferite öçen Yaqtırtu"
 
-#: app/katemain.cpp:86 app/kwritemain.cpp:579
+#: app/katemain.cpp:87 app/kwritemain.cpp:579
 msgid "Highlighting for ILERPG"
 msgstr "ILERPG öçen Yaqtırtu"
 
-#: app/katemain.cpp:87 app/kwritemain.cpp:580
+#: app/katemain.cpp:88 app/kwritemain.cpp:580
 msgid "Highlighting for LaTeX"
 msgstr "LaTeX öçen Yaqtırtu"
 
-#: app/katemain.cpp:88 app/kwritemain.cpp:581
+#: app/katemain.cpp:89 app/kwritemain.cpp:581
 msgid "Highlighting for Makefiles, Python"
 msgstr "Makefiles, Python öçen Yaqtırtu"
 
-#: app/katemain.cpp:89 app/kwritemain.cpp:582
+#: app/katemain.cpp:90 app/kwritemain.cpp:582
 msgid "Highlighting for Python"
 msgstr "Python öçen Yaqtırtu"
 
-#: app/katemain.cpp:91 app/kwritemain.cpp:584
+#: app/katemain.cpp:92 app/kwritemain.cpp:584
 msgid "Highlighting for Scheme"
 msgstr "Scheme öçen Yaqtırtu"
 
-#: app/katemain.cpp:92 app/kwritemain.cpp:585
+#: app/katemain.cpp:93 app/kwritemain.cpp:585
 msgid "PHP Keyword/Datatype list"
 msgstr "PHP öçen Töpsüz/Törlek tezmäse"
 
-#: app/katemain.cpp:93 app/kwritemain.cpp:586
+#: app/katemain.cpp:94 app/kwritemain.cpp:586
 msgid "Very nice help"
 msgstr "Bik şäp yärdäm"
 
-#: app/katemain.cpp:94 app/kwritemain.cpp:587
+#: app/katemain.cpp:95 app/kwritemain.cpp:587
 msgid "All people who have contributed and I have forgotten to mention"
 msgstr "Äytelergä onıtılğan başqa qatnaşuçılar"
 
-#: _translatorinfo.cpp:1 app/katemain.cpp:96 app/kwritemain.cpp:589
+#: _translatorinfo.cpp:1 app/katemain.cpp:97 app/kwritemain.cpp:589
 msgid ""
 "_: NAME OF TRANSLATORS\n"
 "Your names"
 msgstr "Tatarish Localizators"
 
-#: _translatorinfo.cpp:3 app/katemain.cpp:96 app/kwritemain.cpp:589
+#: _translatorinfo.cpp:3 app/katemain.cpp:97 app/kwritemain.cpp:589
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
