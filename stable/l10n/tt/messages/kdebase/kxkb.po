@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kxkb\n"
-"POT-Creation-Date: 2005-12-01 02:51+0100\n"
+"POT-Creation-Date: 2006-01-03 03:12+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -20,11 +20,11 @@ msgstr "Töylekne '%1' köyläwenä küçerep bulmadı"
 msgid "Configure..."
 msgstr "Caylaw..."
 
-#: kxkb.cpp:618
+#: kxkb.cpp:612
 msgid "A utility to switch keyboard maps"
 msgstr "Töylek köyläwen almaştıru qoralı"
 
-#: kxkb.cpp:622
+#: kxkb.cpp:616
 msgid "KDE Keyboard Tool"
 msgstr "KDE Töylek Qoralı"
 

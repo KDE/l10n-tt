@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2006-01-02 03:10+0100\n"
+"POT-Creation-Date: 2006-01-03 03:11+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -6254,7 +6254,7 @@ msgstr "Proxy:"
 msgid "Authentication needed for %1 but authentication is disabled."
 msgstr "%1 öçen tanılğan bulu kiräk, tanılu isä sünek tora."
 
-#: ../kioslave/http/http.cc:5739
+#: ../kioslave/http/http.cc:5736
 msgid ""
 "Unsupported method: authentication will fail. Please submit a bug report."
 msgstr "Totılmağan ısul: tanılu uzmadı. Bet yomğağın cibäräse."
