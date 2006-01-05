@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase khotkeys\n"
-"POT-Creation-Date: 2005-12-22 03:09+0100\n"
+"POT-Creation-Date: 2006-01-05 03:12+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -50,7 +50,7 @@ msgid "&Modify..."
 msgstr "&Üzgärtü..."
 
 #. i18n: file kcontrol/ui/actions_listview_widget_ui.ui line 30
-#: kcontrol/tab_widget.cpp:423 rc.cpp:27
+#: kcontrol/tab_widget.cpp:425 rc.cpp:27
 #, no-c-format
 msgid "Actions"
 msgstr "Ğämällär"
@@ -244,7 +244,7 @@ msgid "Specific window"
 msgstr "Ayırım täräzä"
 
 #. i18n: file kcontrol/ui/keyboard_input_widget_ui.ui line 123
-#: kcontrol/tab_widget.cpp:428 rc.cpp:143 rc.cpp:217
+#: kcontrol/tab_widget.cpp:430 rc.cpp:143 rc.cpp:217
 #, no-c-format
 msgid "Window"
 msgstr "Täräzä"
@@ -459,7 +459,7 @@ msgstr "Östäl"
 msgid "Dock"
 msgstr "Toraq"
 
-#: app/app.cpp:147 kcontrol/kcmkhotkeys.cpp:86
+#: app/app.cpp:147 kcontrol/kcmkhotkeys.cpp:89
 msgid "KHotKeys"
 msgstr "KHotKeys"
 
@@ -533,11 +533,6 @@ msgstr ""
 #: kcontrol/menuedit.cpp:95 shared/settings.cpp:250
 msgid "These entries were created using Menu Editor."
 msgstr "Bu keremnär Saylaw Tözätkeçe belän yasalandı."
-
-#: shared/soundrecorder_arts.cpp:58
-#, fuzzy
-msgid "khotkeys"
-msgstr "KHotKeys"
 
 #: shared/triggers.cpp:153
 msgid "Shortcut trigger: "
@@ -732,27 +727,27 @@ msgstr "8. Töymä (bulsa)"
 msgid "Button 9 (if available)"
 msgstr "9. Töymä (bulsa)"
 
-#: kcontrol/kcmkhotkeys.cpp:89
+#: kcontrol/kcmkhotkeys.cpp:92
 msgid "(c) 1999-2005 Lubos Lunak"
 msgstr "(c) 1999-2005 Lubos Lunak"
 
-#: kcontrol/kcmkhotkeys.cpp:90
+#: kcontrol/kcmkhotkeys.cpp:93
 msgid "Maintainer"
 msgstr "Bulışuçı"
 
-#: kcontrol/kcmkhotkeys.cpp:220
+#: kcontrol/kcmkhotkeys.cpp:223
 msgid "New Action"
 msgstr "Yaña Ğämäl"
 
-#: kcontrol/kcmkhotkeys.cpp:241
+#: kcontrol/kcmkhotkeys.cpp:244
 msgid "New Action Group"
 msgstr "Yaña Eş Törkeme"
 
-#: kcontrol/kcmkhotkeys.cpp:273
+#: kcontrol/kcmkhotkeys.cpp:276
 msgid "Select File with Actions to Be Imported"
 msgstr "Yöklise Birem belän Eş saylaw"
 
-#: kcontrol/kcmkhotkeys.cpp:280
+#: kcontrol/kcmkhotkeys.cpp:283
 msgid ""
 "Import of the specified file failed. Most probably the file is not a valid file "
 "with actions."
@@ -764,55 +759,55 @@ msgstr ""
 msgid "K Menu - "
 msgstr "K-Saylaq - "
 
-#: kcontrol/tab_widget.cpp:415
+#: kcontrol/tab_widget.cpp:417
 msgid "Info"
 msgstr "Turında"
 
-#: kcontrol/tab_widget.cpp:416
+#: kcontrol/tab_widget.cpp:418
 msgid "General Settings"
 msgstr "Töp Caylaw"
 
-#: kcontrol/tab_widget.cpp:417
+#: kcontrol/tab_widget.cpp:419
 msgid "Gestures Settings"
 msgstr "Qılanışlar Caylaw"
 
-#: kcontrol/tab_widget.cpp:418 kcontrol/tab_widget.cpp:419
+#: kcontrol/tab_widget.cpp:420 kcontrol/tab_widget.cpp:421
 msgid "General"
 msgstr "Töptän"
 
-#: kcontrol/tab_widget.cpp:420
+#: kcontrol/tab_widget.cpp:422
 msgid "Triggers"
 msgstr "Sündergeç"
 
-#: kcontrol/tab_widget.cpp:421
+#: kcontrol/tab_widget.cpp:423
 msgid "Keyboard Shortcut"
 msgstr "Töylek Qısqartması"
 
-#: kcontrol/tab_widget.cpp:422
+#: kcontrol/tab_widget.cpp:424
 msgid "Gestures"
 msgstr "Qılanu"
 
-#: kcontrol/tab_widget.cpp:424
+#: kcontrol/tab_widget.cpp:426
 msgid "Command/URL Settings"
 msgstr "Boyırıq/URL Caylaw"
 
-#: kcontrol/tab_widget.cpp:425
+#: kcontrol/tab_widget.cpp:427
 msgid "Menu Entry Settings"
 msgstr "Saylaq Kerem Caylawı"
 
-#: kcontrol/tab_widget.cpp:426
+#: kcontrol/tab_widget.cpp:428
 msgid "DCOP Call Settings"
 msgstr "DCOP Endäşü Caylawı"
 
-#: kcontrol/tab_widget.cpp:427
+#: kcontrol/tab_widget.cpp:429
 msgid "Keyboard Input Settings"
 msgstr "Töylektän Kertü Caylawı"
 
-#: kcontrol/tab_widget.cpp:429
+#: kcontrol/tab_widget.cpp:431
 msgid "Conditions"
 msgstr "Şartlar"
 
-#: kcontrol/tab_widget.cpp:430
+#: kcontrol/tab_widget.cpp:432
 #, fuzzy
 msgid "Voices Settings"
 msgstr "Qılanışlar Caylaw"
@@ -838,17 +833,17 @@ msgstr "Çaptırma Qabızğıçı..."
 msgid "Select keyboard shortcut:"
 msgstr "Töylek cptırmasın saylaw:"
 
-#: kcontrol/voicerecorder.cpp:71
+#: kcontrol/voicerecorder.cpp:74
 msgid "Recording..."
 msgstr ""
 
-#: kcontrol/voicerecorder.cpp:127
+#: kcontrol/voicerecorder.cpp:124
 msgid ""
 "The word you recorded is too close to the existing reference '%1'. Please "
 "record another word."
 msgstr ""
 
-#: kcontrol/voicerecorder.cpp:134
+#: kcontrol/voicerecorder.cpp:131
 msgid ""
 "Unable to extract voice information from noise.\n"
 "If this error occurs repeatedly, it suggests that there is either too much "
@@ -886,3 +881,7 @@ msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
+
+#, fuzzy
+#~ msgid "khotkeys"
+#~ msgstr "KHotKeys"
