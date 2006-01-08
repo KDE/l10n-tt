@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdeprint\n"
-"POT-Creation-Date: 2005-10-14 02:37+0200\n"
+"POT-Creation-Date: 2005-11-30 03:18+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -404,7 +404,7 @@ msgstr "Çeltärle basaq"
 msgid "Internal error."
 msgstr "Eçke xata."
 
-#: cups/kmcupsmanager.cpp:560 lpr/matichandler.cpp:254
+#: cups/kmcupsmanager.cpp:580 lpr/matichandler.cpp:254
 #: lpr/matichandler.cpp:358
 msgid ""
 "Unable to find the executable foomatic-datafile in your PATH. Check that "
@@ -413,7 +413,7 @@ msgstr ""
 "Biredäge PATH aşa foomatic-datafile eşçäne tabılmadı. Foomatic tieşleçä "
 "quyılğan buluın tikşeräse."
 
-#: cups/kmcupsmanager.cpp:592 lpr/matichandler.cpp:286
+#: cups/kmcupsmanager.cpp:612 lpr/matichandler.cpp:286
 #: lpr/matichandler.cpp:405
 msgid ""
 "Unable to create the Foomatic driver [%1,%2]. Either that driver does not "
@@ -1902,36 +1902,36 @@ msgstr "<p>Serile Faks/Modem totaşılğan cıhaznı saylísı.</p>"
 msgid "You must select a device."
 msgstr "Berär cıhaz saylísı bar."
 
-#: cups/kmcupsmanager.cpp:745
+#: cups/kmcupsmanager.cpp:765
 msgid "Library cupsdconf not found. Check your installation."
 msgstr "Cupsdconf tuplaması tabılmadı. Quyılunı tikşerep alası."
 
-#: cups/kmcupsmanager.cpp:751
+#: cups/kmcupsmanager.cpp:771
 msgid "Symbol %1 not found in cupsdconf library."
 msgstr "Cupsdconf tuplamasında %1 bilgese tabılmadı."
 
-#: cups/kmcupsmanager.cpp:826
+#: cups/kmcupsmanager.cpp:846
 msgid "&Export Driver..."
 msgstr "Driver &Çığaru..."
 
-#: cups/kmcupsmanager.cpp:828
+#: cups/kmcupsmanager.cpp:848
 msgid "&Printer IPP Report"
 msgstr "&Basaqnıñ IPP Yomğağı"
 
-#: cups/kmcupsmanager.cpp:874 cups/kmwippprinter.cpp:218
+#: cups/kmcupsmanager.cpp:894 cups/kmwippprinter.cpp:218
 #, c-format
 msgid "IPP Report for %1"
 msgstr "IPP Yomğağı, %1 öçen"
 
-#: cups/kmcupsmanager.cpp:878
+#: cups/kmcupsmanager.cpp:898
 msgid "Unable to retrieve printer information. Error received:"
 msgstr "Basaq belemen alıp bulmadı. Xata kiterelde:"
 
-#: cups/kmcupsmanager.cpp:891
+#: cups/kmcupsmanager.cpp:911
 msgid "Server"
 msgstr "Server"
 
-#: cups/kmcupsmanager.cpp:931 cups/kmcupsmanager.cpp:958
+#: cups/kmcupsmanager.cpp:951 cups/kmcupsmanager.cpp:978
 #, c-format
 msgid ""
 "Connection to CUPS server failed. Check that the CUPS server is correctly "
@@ -1940,15 +1940,15 @@ msgstr ""
 "CUPS server belän totaşıp bulmadı. CUPS server tieşleçä quyılıp eşläwen "
 "tikşerergä kiräk. Xata: %1."
 
-#: cups/kmcupsmanager.cpp:932
+#: cups/kmcupsmanager.cpp:952
 msgid "the IPP request failed for an unknown reason"
 msgstr "bu IPP-soraw nindider bilgesez säbäp belän uzmadı"
 
-#: cups/kmcupsmanager.cpp:959
+#: cups/kmcupsmanager.cpp:979
 msgid "connection refused"
 msgstr "totaşılu kire qağıldı"
 
-#: cups/kmcupsmanager.cpp:959
+#: cups/kmcupsmanager.cpp:979
 msgid "host not found"
 msgstr "hostı tabılmadı"
 

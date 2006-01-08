@@ -4,13 +4,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase khtmlkttsd\n"
-"POT-Creation-Date: 2005-06-14 01:26+0200\n"
+"POT-Creation-Date: 2006-01-04 03:13+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#: khtmlkttsd.cpp:43
+msgid "&Speak Text"
+msgstr ""
 
 #: khtmlkttsd.cpp:60
 msgid "Cannot Read source"

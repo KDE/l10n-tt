@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcontrol\n"
-"POT-Creation-Date: 2005-08-29 02:40+0200\n"
+"POT-Creation-Date: 2005-12-28 03:13+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -117,8 +117,9 @@ msgid "Unsaved Changes"
 msgstr "Saqlanmağan Üzgärülär"
 
 #: helpwidget.cpp:44
+#, fuzzy
 msgid ""
-"<p>Use the \"Whats This\" (Shift+F1) to get help on specific options.</p>"
+"<p>Use the \"What's This?\" (Shift+F1) to get help on specific options.</p>"
 "<p>To read the full manual click <a href=\"%1\">here</a>.</p>"
 msgstr ""
 "<p>Ayırım köylämä buyınça kiñäş alu öçen \"Ni Bu?\" (Shift+F1) qullanası.</p>"
