@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-01-10 02:23+0000\n"
+"POT-Creation-Date: 2006-01-12 02:24+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -7778,7 +7778,7 @@ msgstr "Name=Yaxşı Keşelärneñ Barısı"
 msgid "Name=Chicken Songs"
 msgstr "Name=Tawıq Cırı"
 
-#: pics/wallpapers/KDE34.png.desktop:4
+#: pics/wallpapers/KDE35.png.desktop:4
 #, fuzzy
 msgid "Name=KDE 3.5 Default"
 msgstr "Name=KDE 3.4 Ğädätie"
