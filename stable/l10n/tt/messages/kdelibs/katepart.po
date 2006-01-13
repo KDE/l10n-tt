@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs katepart\n"
-"POT-Creation-Date: 2006-01-12 03:11+0100\n"
+"POT-Creation-Date: 2006-01-13 03:12+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -765,7 +765,7 @@ msgstr ""
 msgid "Close Nevertheless"
 msgstr "Aña Qaramíça Yap"
 
-#: part/katedocument.cpp:4272 part/katedocument.cpp:4954 part/kateview.cpp:863
+#: part/katedocument.cpp:4272 part/katedocument.cpp:4954 part/kateview.cpp:860
 msgid "Save File"
 msgstr "Biremne Saqla"
 
@@ -801,16 +801,16 @@ msgstr "'%1' atlı birem başqa yazılımnan yasalğan bulğan."
 msgid "The file '%1' was deleted by another program."
 msgstr "'%1' atlı birem başqa yazılımnan beterelgän bulğan."
 
-#: part/katedocument.cpp:4982 part/kateview.cpp:890
+#: part/katedocument.cpp:4982 part/kateview.cpp:887
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "%1 atlı birem bar inde. Anıñ östennän yazıp almaştırasımı?"
 
-#: part/katedocument.cpp:4984 part/kateview.cpp:891
+#: part/katedocument.cpp:4984 part/kateview.cpp:888
 msgid "Overwrite File?"
 msgstr "Biremne Östennän Yazasımı?"
 
-#: part/katedocument.cpp:4985 part/kateview.cpp:892
+#: part/katedocument.cpp:4985 part/kateview.cpp:889
 msgid "&Overwrite"
 msgstr "&Östän Yaz"
 
@@ -2778,69 +2778,69 @@ msgstr "Uñdağı Süzne Beter"
 msgid "Delete Next Character"
 msgstr "Kiläse Bilgene Beter"
 
-#: part/kateview.cpp:602
+#: part/kateview.cpp:599
 msgid "Backspace"
 msgstr "Kireara"
 
-#: part/kateview.cpp:628
+#: part/kateview.cpp:625
 msgid "Collapse Toplevel"
 msgstr "Töpadımnı Törep quy"
 
-#: part/kateview.cpp:630
+#: part/kateview.cpp:627
 msgid "Expand Toplevel"
 msgstr "Öske Adımnı Cäyep Quy"
 
-#: part/kateview.cpp:632
+#: part/kateview.cpp:629
 msgid "Collapse One Local Level"
 msgstr "Cirle Adımnı Törep quy"
 
-#: part/kateview.cpp:634
+#: part/kateview.cpp:631
 msgid "Expand One Local Level"
 msgstr "Cirle Adımnı Cäyep Quy"
 
-#: part/kateview.cpp:639
+#: part/kateview.cpp:636
 msgid "Show the code folding region tree"
 msgstr "Kod törü ağaçın kürsätü"
 
-#: part/kateview.cpp:640
+#: part/kateview.cpp:637
 msgid "Basic template code test"
 msgstr "Töp ürçetmä eçtälegen sınaw"
 
-#: part/kateview.cpp:702
+#: part/kateview.cpp:699
 msgid " OVR "
 msgstr " ÖST "
 
-#: part/kateview.cpp:704
+#: part/kateview.cpp:701
 msgid " INS "
 msgstr " INS "
 
-#: part/kateview.cpp:707
+#: part/kateview.cpp:704
 msgid " R/O "
 msgstr " U/Ğ "
 
-#: part/kateview.cpp:712
+#: part/kateview.cpp:709
 #, c-format
 msgid " Line: %1"
 msgstr " Yul: %1"
 
-#: part/kateview.cpp:713
+#: part/kateview.cpp:710
 #, c-format
 msgid " Col: %1"
 msgstr " Buy: %1"
 
-#: part/kateview.cpp:716
+#: part/kateview.cpp:713
 msgid " BLK "
 msgstr " BLK "
 
-#: part/kateview.cpp:716
+#: part/kateview.cpp:713
 msgid " NORM "
 msgstr " TÖP "
 
-#: part/kateview.cpp:892
+#: part/kateview.cpp:889
 msgid "Overwrite the file"
 msgstr "Birem östennän yazası"
 
-#: part/kateview.cpp:1777
+#: part/kateview.cpp:1774
 msgid "Export File as HTML"
 msgstr "Biremne HTML itep Çığar"
 

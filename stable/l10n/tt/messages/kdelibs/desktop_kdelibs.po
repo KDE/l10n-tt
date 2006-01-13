@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-01-12 02:24+0000\n"
+"POT-Creation-Date: 2006-01-13 02:25+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -890,11 +890,11 @@ msgstr "Name=Çinçä (Ciñel)"
 msgid "Name=Chinese (Hong Kong)"
 msgstr "Name=Çinçä"
 
-#: kdecore/all_languages.desktop:10098
+#: kdecore/all_languages.desktop:10099
 msgid "Name=Chinese Traditional"
 msgstr "Name=Çinçä (Ğädäti)"
 
-#: kdecore/all_languages.desktop:10152
+#: kdecore/all_languages.desktop:10153
 msgid "Name=Zulu"
 msgstr "Name=Zuluça"
 

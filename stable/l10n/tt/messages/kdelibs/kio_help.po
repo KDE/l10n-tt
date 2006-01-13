@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio_help\n"
-"POT-Creation-Date: 2006-01-01 03:10+0100\n"
+"POT-Creation-Date: 2006-01-13 03:12+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -102,7 +102,7 @@ msgstr "XML-Tärcemäçe"
 msgid "KDE Translator for XML"
 msgstr "KDE Tärcemäçe, XML öçen"
 
-#: meinproc.cpp:261
+#: meinproc.cpp:265
 #, c-format
 msgid "Could not write to cache file %1."
 msgstr "%1 alxäter biremenä yazıp bulmadı."
