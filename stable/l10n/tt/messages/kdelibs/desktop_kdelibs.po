@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-01-18 02:27+0000\n"
+"POT-Creation-Date: 2006-01-19 02:28+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -178,7 +178,7 @@ msgstr "Comment=İstälek süzlärenä azaqlarnı yözep çığarıp kürsätä 
 msgid "Name=Kate Part JavaScript Test"
 msgstr "Name=Kate Part JavaScript Sınaw"
 
-#: kate/scripts/jstest.desktop:44
+#: kate/scripts/jstest.desktop:45
 msgid "Comment=Script for testing kate part's scripting"
 msgstr "Comment=Kate Part'nıñ ämerleklären sınawçı qoral"
 
@@ -906,129 +906,129 @@ msgstr "Comment=KDE'nıñ Sistem Beldermäläre"
 msgid "Name=Trash: emptied"
 msgstr "Name=Çüplek: buşatıldı"
 
-#: kdecore/eventsrc:135
+#: kdecore/eventsrc:136
 msgid "Comment=The trash has been emptied"
 msgstr "Comment=Çüplek buşatılğan buldı"
 
-#: kdecore/eventsrc:189
+#: kdecore/eventsrc:191
 msgid "Name=Textcompletion: rotation"
 msgstr "Name=Süzazağı: äyländerü"
 
-#: kdecore/eventsrc:265
+#: kdecore/eventsrc:267
 msgid "Comment=The end of the list of matches has been reached"
 msgstr "Comment=Kileşülär tezmäseneñ azağına cittek"
 
-#: kdecore/eventsrc:323
+#: kdecore/eventsrc:325
 msgid "Name=Textcompletion: no match"
 msgstr "Name=Süzazağı: kileşkäne yuq"
 
-#: kdecore/eventsrc:399
+#: kdecore/eventsrc:401
 msgid "Comment=No matching completion was found"
 msgstr "Comment=Kileşkän azaqlar tabılmadı"
 
-#: kdecore/eventsrc:457
+#: kdecore/eventsrc:459
 msgid "Name=Textcompletion: partial match"
 msgstr "Name=Süzazağı: öleşçä kileşkän"
 
-#: kdecore/eventsrc:533
+#: kdecore/eventsrc:535
 msgid "Comment=There is more than one possible match"
 msgstr "Comment=Kileşkäne berdän dä kübkär"
 
-#: kdecore/eventsrc:591
+#: kdecore/eventsrc:593
 msgid "Name=Cannot Open File"
 msgstr "Name=Biremne Aça Almím"
 
-#: kdecore/eventsrc:671
+#: kdecore/eventsrc:673
 msgid "Comment=The selected file cannot be opened for reading or writing"
 msgstr "Comment=Saylanğan biremne, uqu yä ki yazu eşe öçen açıp bulmí"
 
-#: kdecore/eventsrc:750
+#: kdecore/eventsrc:752
 msgid "Name=Fatal Error"
 msgstr "Name=Ütmäslek Xata"
 
-#: kdecore/eventsrc:828
+#: kdecore/eventsrc:830
 msgid "Comment=There was a serious error causing the program to exit"
 msgstr "Comment=Yazılımnan çığuına kitergän citdi xata kilep çıqqan"
 
-#: kdecore/eventsrc:888
+#: kdecore/eventsrc:890
 msgid "Name=Notification"
 msgstr "Name=Beldermä"
 
-#: kdecore/eventsrc:965
+#: kdecore/eventsrc:967
 msgid "Comment=Something special happened in the program"
 msgstr "Comment=Yazılımda kötelmägän närsä kilep çıqqan"
 
-#: kdecore/eventsrc:1026
+#: kdecore/eventsrc:1028
 msgid "Name=Warning"
 msgstr "Name=Kisätmä"
 
-#: kdecore/eventsrc:1105
+#: kdecore/eventsrc:1107
 msgid "Comment=There was an error in the program which may cause problems"
 msgstr "Comment=Qıyınlıqlarğa kiterä ala torğan xatalar kilep çıqqannar"
 
-#: kdecore/eventsrc:1165
+#: kdecore/eventsrc:1167
 msgid "Name=Catastrophe"
 msgstr "Name=Bälä-qaza"
 
-#: kdecore/eventsrc:1240
+#: kdecore/eventsrc:1242
 msgid ""
 "Comment=A very serious error occurred, at least causing the program to exit"
 msgstr ""
 "Comment=İñ kimendä,yazılımnan çığuına kitergän bik citdi xata kilep çıqqan"
 
-#: kdecore/eventsrc:1310
+#: kdecore/eventsrc:1312
 msgid "Name=Login"
 msgstr "Name=Kereş"
 
-#: kdecore/eventsrc:1384
+#: kdecore/eventsrc:1386
 msgid "Comment=KDE is starting up"
 msgstr "Comment=KDE yöklänä"
 
-#: kdecore/eventsrc:1444
+#: kdecore/eventsrc:1446
 msgid "Name=Logout"
 msgstr "Name=Çığış"
 
-#: kdecore/eventsrc:1519
+#: kdecore/eventsrc:1521
 msgid "Comment=KDE is exiting"
 msgstr "Comment=KDE tuqtatıla"
 
-#: kdecore/eventsrc:1579
+#: kdecore/eventsrc:1581
 msgid "Name=Print error"
 msgstr "Name=Bastıru xatası"
 
-#: kdecore/eventsrc:1656
+#: kdecore/eventsrc:1658
 msgid "Comment=A print error has occurred"
 msgstr "Comment=Bastıru xatası bulıp çıqtı"
 
-#: kdecore/eventsrc:1729
+#: kdecore/eventsrc:1731
 msgid "Name=Information message"
 msgstr "Name=Belderü xäbäre"
 
-#: kdecore/eventsrc:1798
+#: kdecore/eventsrc:1800
 msgid "Comment=An information message is being shown"
 msgstr "Comment=Belderü xäbäre kürsätelä"
 
-#: kdecore/eventsrc:1870
+#: kdecore/eventsrc:1872
 msgid "Name=Warning message"
 msgstr "Name=Kisätü xäbäre"
 
-#: kdecore/eventsrc:1938
+#: kdecore/eventsrc:1940
 msgid "Comment=A warning message is being shown"
 msgstr "Comment=Kisätü xäbäre kürsätelä"
 
-#: kdecore/eventsrc:2012
+#: kdecore/eventsrc:2014
 msgid "Name=Critical message"
 msgstr "Name=Kisken xäl xäbäre"
 
-#: kdecore/eventsrc:2078
+#: kdecore/eventsrc:2080
 msgid "Comment=A critical message is being shown"
 msgstr "Comment=Kisken xäl xäbäre kürsätelä"
 
-#: kdecore/eventsrc:2151
+#: kdecore/eventsrc:2153
 msgid "Name=Question"
 msgstr "Name=Soraw"
 
-#: kdecore/eventsrc:2219
+#: kdecore/eventsrc:2221
 msgid "Comment=A question is being asked"
 msgstr "Comment=Ber soraw birelde"
 
@@ -1533,11 +1533,11 @@ msgstr "Name=Däftär (ürnäk)"
 msgid "Name=KDE Resources"
 msgstr "Name=KDE Resursları"
 
-#: kresources/kresources.desktop:64
+#: kresources/kresources.desktop:65
 msgid "Comment=Configure KDE Resources"
 msgstr "Comment=KDE Resursların Caylaw"
 
-#: kresources/kresources.desktop:122
+#: kresources/kresources.desktop:123
 msgid ""
 "Keywords=resources,konnector resource,contact resource,calendar resource,notes "
 "resource,imap"
@@ -1573,7 +1573,7 @@ msgstr "Name=ISpell"
 msgid "Name=HighContrast"
 msgstr "Name=KiskenTösle"
 
-#: kstyles/highcontrast/highcontrast.themerc:48
+#: kstyles/highcontrast/highcontrast.themerc:49
 msgid "Comment=A style that works well with high contrast color schemes"
 msgstr "Comment=Bu tışlaw bik kisken tösle köyläwlärgä yaxşı kileşä"
 

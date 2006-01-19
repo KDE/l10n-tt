@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdesktop\n"
-"POT-Creation-Date: 2006-01-09 03:21+0100\n"
+"POT-Creation-Date: 2006-01-19 03:16+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -148,31 +148,31 @@ msgstr "KDesktop Yozaqlaw"
 msgid "Session Locker for KDesktop"
 msgstr "KDesktop Sessi Biklägeçe"
 
-#: desktop.cc:777
+#: desktop.cc:779
 msgid "Set as Primary Background Color"
 msgstr "Asyaqnıñ Töp Tösen Bilgeläw"
 
-#: desktop.cc:778
+#: desktop.cc:780
 msgid "Set as Secondary Background Color"
 msgstr "Asyaqnıñ İkençe Tösen Bilgeläw"
 
-#: desktop.cc:795
+#: desktop.cc:797
 msgid "&Save to Desktop..."
 msgstr "Östäldä &Saqlaw..."
 
-#: desktop.cc:797
+#: desktop.cc:799
 msgid "Set as &Wallpaper"
 msgstr "&Cäymä itep Quy"
 
-#: desktop.cc:805
+#: desktop.cc:807
 msgid "Enter a name for the image below:"
 msgstr "Astağı sürät öçen ber isem kertäse:"
 
-#: desktop.cc:814
+#: desktop.cc:816
 msgid "image.png"
 msgstr "image.png"
 
-#: desktop.cc:877
+#: desktop.cc:879
 msgid ""
 "Could not log out properly.\n"
 "The session manager cannot be contacted. You can try to force a shutdown by "
