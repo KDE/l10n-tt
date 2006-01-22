@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-01-21 02:28+0000\n"
+"POT-Creation-Date: 2006-01-22 02:28+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2001,15 +2001,15 @@ msgstr ""
 msgid "Name=Bounce keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:594
+#: kcontrol/access/eventsrc:595
 msgid "Comment=Bounce keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:635
+#: kcontrol/access/eventsrc:637
 msgid "Name=Mouse keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:673
+#: kcontrol/access/eventsrc:675
 msgid "Comment=Mouse keys has been enabled or disabled"
 msgstr ""
 
