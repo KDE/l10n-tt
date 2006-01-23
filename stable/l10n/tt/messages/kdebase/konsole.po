@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase konsole\n"
-"POT-Creation-Date: 2006-01-15 03:14+0100\n"
+"POT-Creation-Date: 2006-01-23 03:15+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -473,60 +473,60 @@ msgstr "Biredäge sessine çınlap ta yabasımı?"
 msgid "Close Confirmation"
 msgstr "Yaptıru Belän Kileşü"
 
-#: konsole.cpp:3356 konsole.cpp:3406 konsole.cpp:3427
+#: konsole.cpp:3358 konsole.cpp:3408 konsole.cpp:3429
 msgid "New "
 msgstr "Yaña "
 
-#: konsole.cpp:3410 konsole.cpp:3412
+#: konsole.cpp:3412 konsole.cpp:3414
 msgid "New &Window"
 msgstr "Yana Täräzä"
 
-#: konsole.cpp:3436
+#: konsole.cpp:3438
 msgid "New Shell at Bookmark"
 msgstr "Bitbilge Buyınça Yaña Qabıq"
 
-#: konsole.cpp:3439
+#: konsole.cpp:3441
 msgid "Shell at Bookmark"
 msgstr "Bitbilge Buyınça Qabıq"
 
-#: konsole.cpp:3450
+#: konsole.cpp:3452
 #, c-format
 msgid ""
 "_: Screen is a program controlling screens!\n"
 "Screen at %1"
 msgstr "%1 Küräge"
 
-#: konsole.cpp:3748
+#: konsole.cpp:3750
 msgid "Rename Session"
 msgstr "Sessi Adı..."
 
-#: konsole.cpp:3749
+#: konsole.cpp:3751
 msgid "Session name:"
 msgstr "Sessi adı:"
 
-#: konsole.cpp:3784 konsole_part.cpp:961
+#: konsole.cpp:3786 konsole_part.cpp:961
 msgid "History Configuration"
 msgstr "Uzğannı Caylaw"
 
-#: konsole.cpp:3792 konsole_part.cpp:969
+#: konsole.cpp:3794 konsole_part.cpp:969
 msgid "&Enable"
 msgstr "&Açıq"
 
-#: konsole.cpp:3795
+#: konsole.cpp:3797
 msgid "&Number of lines: "
 msgstr "Yul sa&nı: "
 
-#: konsole.cpp:3799 konsole_part.cpp:976
+#: konsole.cpp:3801 konsole_part.cpp:976
 msgid ""
 "_: Unlimited (number of lines)\n"
 "Unlimited"
 msgstr "Çikläwsez"
 
-#: konsole.cpp:3803 konsole_part.cpp:978
+#: konsole.cpp:3805 konsole_part.cpp:978
 msgid "&Set Unlimited"
 msgstr "Çiksez &İtäse"
 
-#: konsole.cpp:3960
+#: konsole.cpp:3962
 msgid ""
 "End of history reached.\n"
 "Continue from the beginning?"
@@ -534,11 +534,11 @@ msgstr ""
 "Uzğannarnıñ azağına citkän.\n"
 "Başınnan däwam itäseme?"
 
-#: konsole.cpp:3961 konsole.cpp:3969 konsole.cpp:3978
+#: konsole.cpp:3963 konsole.cpp:3971 konsole.cpp:3980
 msgid "Find"
 msgstr "Tap"
 
-#: konsole.cpp:3968
+#: konsole.cpp:3970
 msgid ""
 "Beginning of history reached.\n"
 "Continue from the end?"
@@ -546,21 +546,21 @@ msgstr ""
 "Uzğannarnıñ başına citkän.\n"
 "Azağınnan däwam itäseme?"
 
-#: konsole.cpp:3977
+#: konsole.cpp:3979
 msgid "Search string '%1' not found."
 msgstr "Ezlängän '%1' yazması tabılmadı."
 
-#: konsole.cpp:3994
+#: konsole.cpp:3996
 msgid "Save History"
 msgstr "Uzğannı Saqla"
 
-#: konsole.cpp:4000
+#: konsole.cpp:4002
 msgid ""
 "This is not a local file.\n"
 msgstr ""
 "Bu närsä cirle birem tügel.\n"
 
-#: konsole.cpp:4010
+#: konsole.cpp:4012
 #, fuzzy
 msgid ""
 "A file with this name already exists.\n"
@@ -569,27 +569,27 @@ msgstr ""
 "%1 atlı birem bar inde.\n"
 "Anıñ östennän yazasımı?"
 
-#: konsole.cpp:4010
+#: konsole.cpp:4012
 msgid "File Exists"
 msgstr "Birem Bar"
 
-#: konsole.cpp:4010
+#: konsole.cpp:4012
 msgid "Overwrite"
 msgstr "Östän Yaz"
 
-#: konsole.cpp:4015
+#: konsole.cpp:4017
 msgid "Unable to write to file."
 msgstr "Biremgä yazıp bulmí."
 
-#: konsole.cpp:4024
+#: konsole.cpp:4026
 msgid "Could not save history."
 msgstr "Uzğannı saqlap bulmadı."
 
-#: konsole.cpp:4035
+#: konsole.cpp:4037
 msgid "<p>The current session already has a ZModem file transfer in progress."
 msgstr "<p>Biredäge sessidä ZModem aşa birem taşu eşe başlağan inde."
 
-#: konsole.cpp:4044
+#: konsole.cpp:4046
 msgid ""
 "<p>No suitable ZModem software was found on the system.\n"
 "<p>You may wish to install the 'rzsz' or 'lrzsz' package.\n"
@@ -597,11 +597,11 @@ msgstr ""
 "<p>Yaraqlı bulğan ZModem yazılımı bu sistemdä tabılmadı.\n"
 "<p>Şuña kürä 'rzsz' yä 'lrzsz' atlı tuplama quyası bar.\n"
 
-#: konsole.cpp:4051
+#: konsole.cpp:4053
 msgid "Select Files to Upload"
 msgstr "Yöklise Birem Saylaw"
 
-#: konsole.cpp:4071
+#: konsole.cpp:4073
 msgid ""
 "<p>A ZModem file transfer attempt has been detected, but no suitable ZModem "
 "software was found on the system.\n"
@@ -611,7 +611,7 @@ msgstr ""
 "ZModem yazılımı bu sistemdä tabılmadı.\n"
 "<p>Şuña kürä 'rzsz' yä 'lrzsz' atlı tuplama quyası bar.\n"
 
-#: konsole.cpp:4078
+#: konsole.cpp:4080
 msgid ""
 "A ZModem file transfer attempt has been detected.\n"
 "Please specify the folder you want to store the file(s):"
@@ -619,36 +619,36 @@ msgstr ""
 "ZModem protokolı aşa birem taşıluı sizep alınğan.\n"
 "Ul biremnärne saqlaw öçen berär törgäk bilgelise bar:"
 
-#: konsole.cpp:4081
+#: konsole.cpp:4083
 msgid "&Download"
 msgstr "İñ&der"
 
-#: konsole.cpp:4082 konsole.cpp:4083
+#: konsole.cpp:4084 konsole.cpp:4085
 msgid "Start downloading file to specified folder."
 msgstr "Birem inderüen bilgelängän törgäkkä başla."
 
-#: konsole.cpp:4099
+#: konsole.cpp:4101
 #, c-format
 msgid "Print %1"
 msgstr "%1 Bastıru"
 
-#: konsole.cpp:4126
+#: konsole.cpp:4128
 msgid "Size Configuration"
 msgstr "Ülçämne Caylaw"
 
-#: konsole.cpp:4140
+#: konsole.cpp:4142
 msgid "Number of columns:"
 msgstr "Buy sanı:"
 
-#: konsole.cpp:4143 konsole_part.cpp:983
+#: konsole.cpp:4145 konsole_part.cpp:983
 msgid "Number of lines:"
 msgstr "Yul sanı:"
 
-#: konsole.cpp:4171
+#: konsole.cpp:4173
 msgid "As &regular expression"
 msgstr "&Tärtip çağılışı kebek"
 
-#: konsole.cpp:4174
+#: konsole.cpp:4176
 msgid "&Edit..."
 msgstr "&Üzgärtü..."
 

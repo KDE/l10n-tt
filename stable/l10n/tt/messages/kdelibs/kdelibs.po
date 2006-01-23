@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-01-22 03:14+0100\n"
+"POT-Creation-Date: 2006-01-23 03:14+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -7505,7 +7505,7 @@ msgstr "JavaScript eçennän Bitbilge Östälänä"
 msgid "Disallow"
 msgstr "Birmäw"
 
-#: khtml/ecma/kjs_proxy.cpp:387
+#: khtml/ecma/kjs_proxy.cpp:388
 msgid ""
 "A script on this page is causing KHTML to freeze. If it continues to run, other "
 "applications may become less responsive.\n"
@@ -7515,11 +7515,11 @@ msgstr ""
 "yazılımnar äkren endäşä başlarlar.\n"
 "Bu ämerlekne özep quyasımı?"
 
-#: khtml/ecma/kjs_proxy.cpp:387
+#: khtml/ecma/kjs_proxy.cpp:388
 msgid "JavaScript"
 msgstr "JavaScript"
 
-#: khtml/ecma/kjs_proxy.cpp:387
+#: khtml/ecma/kjs_proxy.cpp:388
 msgid "&Abort"
 msgstr "&Özäse"
 
@@ -7782,7 +7782,7 @@ msgstr "İñ&der"
 msgid "Do Not Download"
 msgstr "İñdermäskä"
 
-#: kinit/kinit.cpp:440
+#: kinit/kinit.cpp:442
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -7792,7 +7792,7 @@ msgstr ""
 "Yä sistemgä, yä qullanuçığa açarğa birelgän birem sanınıñ öske çigenä citü "
 "buldı."
 
-#: kinit/kinit.cpp:462
+#: kinit/kinit.cpp:464
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -7802,11 +7802,11 @@ msgstr ""
 "Yä sistemgä, yä qullanuçığa açarğa birelgän eşlänü sanınıñ öske çigenä citü "
 "buldı."
 
-#: kinit/kinit.cpp:553
+#: kinit/kinit.cpp:555
 msgid "Could not find '%1' executable."
 msgstr "'%1' atlı eşçän bireme tabılmadı."
 
-#: kinit/kinit.cpp:569
+#: kinit/kinit.cpp:571
 msgid ""
 "Could not open library '%1'.\n"
 "%2"
@@ -7814,11 +7814,11 @@ msgstr ""
 "'%1' atlı tuplamanı açıp bulmadı.\n"
 "%2"
 
-#: kinit/kinit.cpp:570 kinit/kinit.cpp:613
+#: kinit/kinit.cpp:572 kinit/kinit.cpp:615
 msgid "Unknown error"
 msgstr "Bilgesez xata"
 
-#: kinit/kinit.cpp:612
+#: kinit/kinit.cpp:614
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
 "%2"
