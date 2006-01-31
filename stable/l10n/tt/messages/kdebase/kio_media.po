@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kio_media\n"
-"POT-Creation-Date: 2006-01-21 03:16+0100\n"
+"POT-Creation-Date: 2006-01-31 03:15+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -99,35 +99,35 @@ msgstr "Yaña Täräzädä Aç"
 msgid "Unknown"
 msgstr "Bilgesez"
 
-#: mediamanager/fstabbackend.cpp:358
+#: mediamanager/fstabbackend.cpp:360
 msgid "CD Recorder"
 msgstr "CD Yazdırğıç"
 
-#: mediamanager/fstabbackend.cpp:364
+#: mediamanager/fstabbackend.cpp:366
 msgid "DVD"
 msgstr "DVD"
 
-#: mediamanager/fstabbackend.cpp:375
+#: mediamanager/fstabbackend.cpp:377
 msgid "CD-ROM"
 msgstr "CD-ROM"
 
-#: mediamanager/fstabbackend.cpp:388
+#: mediamanager/fstabbackend.cpp:390
 msgid "Floppy"
 msgstr "Floppi"
 
-#: mediamanager/fstabbackend.cpp:396
+#: mediamanager/fstabbackend.cpp:398
 msgid "Zip Disk"
 msgstr "Zip Disk"
 
-#: mediamanager/fstabbackend.cpp:407
+#: mediamanager/fstabbackend.cpp:409
 msgid "Removable Device"
 msgstr "Çığarulı Cıhaz"
 
-#: mediamanager/fstabbackend.cpp:412 mediamanager/fstabbackend.cpp:418
+#: mediamanager/fstabbackend.cpp:414 mediamanager/fstabbackend.cpp:420
 msgid "Remote Share"
 msgstr "Çittäge Urtaq"
 
-#: mediamanager/fstabbackend.cpp:423
+#: mediamanager/fstabbackend.cpp:425
 msgid "Hard Disk"
 msgstr "Eçke Disk"
 
