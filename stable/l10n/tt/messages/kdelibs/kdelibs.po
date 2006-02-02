@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-01-29 03:15+0100\n"
+"POT-Creation-Date: 2006-02-02 03:14+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -463,7 +463,7 @@ msgid "S&uggest"
 msgstr "&Alıştırma"
 
 #. i18n: file ./kdeui/kspellui.ui line 254
-#: kdeui/ksconfig.cpp:292 rc.cpp:218 rc.cpp:399
+#: kdeui/ksconfig.cpp:293 rc.cpp:218 rc.cpp:399
 #, no-c-format
 msgid "English"
 msgstr "İnglizçä"
@@ -3991,8 +3991,8 @@ msgstr "Urısälif"
 msgid "Greek"
 msgstr "Yunança"
 
-#: kdecore/kcharsets.cpp:51 kdeui/ksconfig.cpp:233 kdeui/ksconfig.cpp:393
-#: kdeui/ksconfig.cpp:648 khtml/khtml_part.cpp:285
+#: kdecore/kcharsets.cpp:51 kdeui/ksconfig.cpp:234 kdeui/ksconfig.cpp:394
+#: kdeui/ksconfig.cpp:649 khtml/khtml_part.cpp:285
 msgid "Hebrew"
 msgstr "Yähüdçä"
 
@@ -4008,8 +4008,8 @@ msgstr "Koreyçä"
 msgid "Thai"
 msgstr "Tayça"
 
-#: kdecore/kcharsets.cpp:55 kdeui/ksconfig.cpp:238 kdeui/ksconfig.cpp:398
-#: kdeui/ksconfig.cpp:653 khtml/khtml_part.cpp:290
+#: kdecore/kcharsets.cpp:55 kdeui/ksconfig.cpp:239 kdeui/ksconfig.cpp:399
+#: kdeui/ksconfig.cpp:654 khtml/khtml_part.cpp:290
 msgid "Turkish"
 msgstr "Törekçä"
 
@@ -4953,143 +4953,143 @@ msgstr "Sürät Öleşen Saylaw"
 msgid "Please click and drag on the image to select the region of interest:"
 msgstr "Sürätneñ kiräk öleşen saylaw öçen aña çirtep österergä kiräk:"
 
-#: kdeui/ksconfig.cpp:100
+#: kdeui/ksconfig.cpp:101
 msgid "Create &root/affix combinations not in dictionary"
 msgstr "&Tamır/quşımta kileşülären süzlektän tış yasísı"
 
-#: kdeui/ksconfig.cpp:105
+#: kdeui/ksconfig.cpp:106
 msgid "Consider run-together &words as spelling errors"
 msgstr "Bergä-cíılğan &süzlärne xata itep sanísı"
 
-#: kdeui/ksconfig.cpp:116
+#: kdeui/ksconfig.cpp:117
 msgid "&Dictionary:"
 msgstr "&Süzlek:"
 
-#: kdeui/ksconfig.cpp:141
+#: kdeui/ksconfig.cpp:142
 msgid "&Encoding:"
 msgstr "&Bilgelämä:"
 
-#: kdeui/ksconfig.cpp:146
+#: kdeui/ksconfig.cpp:147
 msgid "International Ispell"
 msgstr "Küptelle ISpell"
 
-#: kdeui/ksconfig.cpp:147
+#: kdeui/ksconfig.cpp:148
 msgid "Aspell"
 msgstr "Aspell"
 
-#: kdeui/ksconfig.cpp:148
+#: kdeui/ksconfig.cpp:149
 msgid "Hspell"
 msgstr "Hspell"
 
-#: kdeui/ksconfig.cpp:149
+#: kdeui/ksconfig.cpp:150
 msgid "Zemberek"
 msgstr "Zemberek"
 
-#: kdeui/ksconfig.cpp:154
+#: kdeui/ksconfig.cpp:155
 msgid "&Client:"
 msgstr "&Klient:"
 
-#: kdeui/ksconfig.cpp:295
+#: kdeui/ksconfig.cpp:296
 msgid "Spanish"
 msgstr "İspança"
 
-#: kdeui/ksconfig.cpp:298
+#: kdeui/ksconfig.cpp:299
 msgid "Danish"
 msgstr "Dança"
 
-#: kdeui/ksconfig.cpp:301
+#: kdeui/ksconfig.cpp:302
 msgid "German"
 msgstr "Almança"
 
-#: kdeui/ksconfig.cpp:304
+#: kdeui/ksconfig.cpp:305
 msgid "German (new spelling)"
 msgstr "Almança (yaña imla)"
 
-#: kdeui/ksconfig.cpp:307
+#: kdeui/ksconfig.cpp:308
 msgid "Brazilian Portuguese"
 msgstr "Portugalça, Brasil"
 
-#: kdeui/ksconfig.cpp:310
+#: kdeui/ksconfig.cpp:311
 msgid "Portuguese"
 msgstr "Portugalça"
 
-#: kdeui/ksconfig.cpp:313
+#: kdeui/ksconfig.cpp:314
 msgid "Esperanto"
 msgstr "Esperanto"
 
-#: kdeui/ksconfig.cpp:316
+#: kdeui/ksconfig.cpp:317
 msgid "Norwegian"
 msgstr "Norwejçä"
 
-#: kdeui/ksconfig.cpp:319
+#: kdeui/ksconfig.cpp:320
 msgid "Polish"
 msgstr "Polça"
 
-#: kdeui/ksconfig.cpp:322 khtml/khtml_part.cpp:288
+#: kdeui/ksconfig.cpp:323 khtml/khtml_part.cpp:288
 msgid "Russian"
 msgstr "Urısça"
 
-#: kdeui/ksconfig.cpp:325
+#: kdeui/ksconfig.cpp:326
 msgid "Slovenian"
 msgstr "Slovençä"
 
-#: kdeui/ksconfig.cpp:328
+#: kdeui/ksconfig.cpp:329
 msgid "Slovak"
 msgstr "Slovakça"
 
-#: kdeui/ksconfig.cpp:331
+#: kdeui/ksconfig.cpp:332
 msgid "Czech"
 msgstr "Çexçä"
 
-#: kdeui/ksconfig.cpp:334
+#: kdeui/ksconfig.cpp:335
 msgid "Swedish"
 msgstr "İswäcçä"
 
-#: kdeui/ksconfig.cpp:337
+#: kdeui/ksconfig.cpp:338
 msgid "Swiss German"
 msgstr "Almança (İswiçrä)"
 
-#: kdeui/ksconfig.cpp:340 khtml/khtml_part.cpp:291
+#: kdeui/ksconfig.cpp:341 khtml/khtml_part.cpp:291
 msgid "Ukrainian"
 msgstr "Ukrainça"
 
-#: kdeui/ksconfig.cpp:343
+#: kdeui/ksconfig.cpp:344
 msgid "Lithuanian"
 msgstr "Litçä"
 
-#: kdeui/ksconfig.cpp:346
+#: kdeui/ksconfig.cpp:347
 msgid "French"
 msgstr "Fransça"
 
-#: kdeui/ksconfig.cpp:349
+#: kdeui/ksconfig.cpp:350
 msgid "Belarusian"
 msgstr "Belarusça"
 
-#: kdeui/ksconfig.cpp:352
+#: kdeui/ksconfig.cpp:353
 msgid "Hungarian"
 msgstr "Macarça"
 
-#: kdeui/ksconfig.cpp:356
+#: kdeui/ksconfig.cpp:357
 msgid ""
 "_: Unknown ispell dictionary\n"
 "Unknown"
 msgstr "Bilgesez"
 
-#: kdeui/ksconfig.cpp:438 kdeui/ksconfig.cpp:588
+#: kdeui/ksconfig.cpp:439 kdeui/ksconfig.cpp:589
 msgid "ISpell Default"
 msgstr "ISpell, Ğädäti"
 
-#: kdeui/ksconfig.cpp:484 kdeui/ksconfig.cpp:634
+#: kdeui/ksconfig.cpp:485 kdeui/ksconfig.cpp:635
 msgid ""
 "_: default spelling dictionary\n"
 "Default - %1 [%2]"
 msgstr "Ğädäti - %1 [%2]"
 
-#: kdeui/ksconfig.cpp:504 kdeui/ksconfig.cpp:660
+#: kdeui/ksconfig.cpp:505 kdeui/ksconfig.cpp:661
 msgid "ASpell Default"
 msgstr "ASpell, Ğädäti"
 
-#: kdeui/ksconfig.cpp:567 kdeui/ksconfig.cpp:723
+#: kdeui/ksconfig.cpp:568 kdeui/ksconfig.cpp:724
 #, c-format
 msgid ""
 "_: default spelling dictionary\n"

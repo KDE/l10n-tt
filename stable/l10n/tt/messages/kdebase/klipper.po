@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase klipper\n"
-"POT-Creation-Date: 2006-02-01 03:15+0100\n"
+"POT-Creation-Date: 2006-02-02 03:15+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -281,19 +281,19 @@ msgstr "Klipper - Alışukesä Qoralı"
 msgid "&More"
 msgstr "&Başqa"
 
-#: toplevel.cpp:158
+#: toplevel.cpp:159
 msgid "C&lear Clipboard History"
 msgstr "Alışukeşe Uzğanın &Buşat"
 
-#: toplevel.cpp:167
+#: toplevel.cpp:168
 msgid "&Configure Klipper..."
 msgstr "Klipper &Caylaw..."
 
-#: toplevel.cpp:224
+#: toplevel.cpp:225
 msgid "Klipper - clipboard tool"
 msgstr "Klipper - alışukesä qoralı"
 
-#: toplevel.cpp:524
+#: toplevel.cpp:525
 msgid ""
 "You can enable URL actions later by right-clicking on the Klipper icon and "
 "selecting 'Enable Actions'"
@@ -301,7 +301,7 @@ msgstr ""
 "Soñraq Klipper tamğasına ike çirtkäç 'Eşlär Qullanası' keremen saylaw aşa da "
 "URL eşlären açıp bula"
 
-#: toplevel.cpp:591
+#: toplevel.cpp:592
 msgid ""
 "Should Klipper start automatically\n"
 "when you login?"
@@ -309,51 +309,51 @@ msgstr ""
 "Kergän çaqta Klipper yazılımı\n"
 "üzennän üze yöklänsenme?"
 
-#: toplevel.cpp:591
+#: toplevel.cpp:592
 msgid "Automatically Start Klipper?"
 msgstr "Klipper Üzennän Cibärelsenme?"
 
-#: toplevel.cpp:591
+#: toplevel.cpp:592
 msgid "Start"
 msgstr "Başla"
 
-#: toplevel.cpp:591
+#: toplevel.cpp:592
 msgid "Do Not Start"
 msgstr "Başlamasqa"
 
-#: toplevel.cpp:644
+#: toplevel.cpp:646
 msgid "Enable &Actions"
 msgstr "Ğämälne &Aç"
 
-#: toplevel.cpp:648
+#: toplevel.cpp:650
 msgid "&Actions Enabled"
 msgstr "&Ğämällär Açıq"
 
-#: toplevel.cpp:1083
+#: toplevel.cpp:1085
 msgid "KDE cut & paste history utility"
 msgstr "KDE'neñ alışukeşä uzğanı öçen qoral"
 
-#: toplevel.cpp:1087
+#: toplevel.cpp:1089
 msgid "Klipper"
 msgstr "Klipper"
 
-#: toplevel.cpp:1094
+#: toplevel.cpp:1096
 msgid "Author"
 msgstr "Yazuçı"
 
-#: toplevel.cpp:1098
+#: toplevel.cpp:1100
 msgid "Original Author"
 msgstr "Baş Yazuçı"
 
-#: toplevel.cpp:1102
+#: toplevel.cpp:1104
 msgid "Contributor"
 msgstr "Qatnaşuçı"
 
-#: toplevel.cpp:1106
+#: toplevel.cpp:1108
 msgid "Bugfixes and optimizations"
 msgstr "Tözätmä belän turaytular"
 
-#: toplevel.cpp:1110
+#: toplevel.cpp:1112
 msgid "Maintainer"
 msgstr "Bulışuçı"
 
