@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase clockapplet\n"
-"POT-Creation-Date: 2005-10-22 02:43+0200\n"
+"POT-Creation-Date: 2006-02-03 03:25+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -296,59 +296,59 @@ msgstr "Atna azağı"
 msgid "Weekend!"
 msgstr "Atna azağı!"
 
-#: clock.cpp:1448
+#: clock.cpp:1449
 msgid "Clock"
 msgstr "Säğät"
 
-#: clock.cpp:1474 clock.cpp:1681
+#: clock.cpp:1475 clock.cpp:1682
 msgid "Local Timezone"
 msgstr "Cirle Waqıt Quşağı"
 
-#: clock.cpp:1483
+#: clock.cpp:1484
 msgid "&Configure Timezones..."
 msgstr "&Waqıt Quşağı..."
 
-#: clock.cpp:1487
+#: clock.cpp:1488
 msgid "&Plain"
 msgstr "&Ğadí"
 
-#: clock.cpp:1488
+#: clock.cpp:1489
 msgid "&Digital"
 msgstr "&Sanlı"
 
-#: clock.cpp:1489
+#: clock.cpp:1490
 msgid "&Analog"
 msgstr "&Uqlı"
 
-#: clock.cpp:1490
+#: clock.cpp:1491
 msgid "&Fuzzy"
 msgstr "&Aqıllı"
 
-#: clock.cpp:1493
+#: clock.cpp:1494
 msgid "&Type"
 msgstr "&Töre"
 
-#: clock.cpp:1494
+#: clock.cpp:1495
 msgid "Show Time&zone"
 msgstr "&Waqıt Quşağın Kürsätäse"
 
-#: clock.cpp:1497
+#: clock.cpp:1498
 msgid "&Adjust Date && Time..."
 msgstr "Waqıt/Zaman &Tözätü..."
 
-#: clock.cpp:1499
+#: clock.cpp:1500
 msgid "Date && Time &Format..."
 msgstr "Waqıt/Zaman &Küreneşe..."
 
-#: clock.cpp:1502
+#: clock.cpp:1503
 msgid "C&opy to Clipboard"
 msgstr "Alışu&kesä eçenä Al"
 
-#: clock.cpp:1506
+#: clock.cpp:1507
 msgid "&Configure Clock..."
 msgstr "Säğät &Caylaw..."
 
-#: clock.cpp:1762
+#: clock.cpp:1763
 #, c-format
 msgid "Showing time for %1"
 msgstr "%1 kürsätü tapqırı"
