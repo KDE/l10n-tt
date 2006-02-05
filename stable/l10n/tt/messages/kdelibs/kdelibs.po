@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-02-02 03:14+0100\n"
+"POT-Creation-Date: 2006-02-05 03:53+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -7447,7 +7447,7 @@ msgstr ""
 "%1 yul %2:\n"
 "%3"
 
-#: khtml/ecma/kjs_html.cpp:2129 khtml/ecma/kjs_window.cpp:1358
+#: khtml/ecma/kjs_html.cpp:2125 khtml/ecma/kjs_window.cpp:1358
 msgid "Confirmation: JavaScript Popup"
 msgstr "Yaslaw: JavaScript Atılması"
 
@@ -7469,11 +7469,11 @@ msgstr ""
 "<p>%1</p>urınlaşuın yaña täräzädä açmaqçı bula.<br />"
 "Aña bonı eşlärgä biräseme?</qt>"
 
-#: khtml/ecma/kjs_html.cpp:2136 khtml/ecma/kjs_window.cpp:1366
+#: khtml/ecma/kjs_html.cpp:2132 khtml/ecma/kjs_window.cpp:1366
 msgid "Allow"
 msgstr "Röxsät it"
 
-#: khtml/ecma/kjs_html.cpp:2136 khtml/ecma/kjs_window.cpp:1366
+#: khtml/ecma/kjs_html.cpp:2132 khtml/ecma/kjs_window.cpp:1366
 msgid "Do Not Allow"
 msgstr "Birmäskä"
 
@@ -7485,23 +7485,23 @@ msgstr "Täräzäne yabasımı?"
 msgid "Confirmation Required"
 msgstr "Raslísı Bar"
 
-#: khtml/ecma/kjs_window.cpp:2423
+#: khtml/ecma/kjs_window.cpp:2443
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Saylanmağa \"%1\" taba kürsätkän bitbilgene östiseme?"
 
-#: khtml/ecma/kjs_window.cpp:2426
+#: khtml/ecma/kjs_window.cpp:2446
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
 msgstr "Saylanmağa \"%1\" taba kürsätkän \"%2\" atlı bitbilgene östiseme?"
 
-#: khtml/ecma/kjs_window.cpp:2434
+#: khtml/ecma/kjs_window.cpp:2454
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript eçennän Bitbilge Östälänä"
 
-#: khtml/ecma/kjs_window.cpp:2438
+#: khtml/ecma/kjs_window.cpp:2458
 msgid "Disallow"
 msgstr "Birmäw"
 
@@ -7523,7 +7523,7 @@ msgstr "JavaScript"
 msgid "&Abort"
 msgstr "&Özäse"
 
-#: khtml/ecma/kjs_html.cpp:2131
+#: khtml/ecma/kjs_html.cpp:2127
 msgid ""
 "This site is submitting a form which will open up a new browser window via "
 "JavaScript.\n"
@@ -7533,7 +7533,7 @@ msgstr ""
 "açmaqçı bula.\n"
 "Aña bonı eşlärgä biräseme?"
 
-#: khtml/ecma/kjs_html.cpp:2134
+#: khtml/ecma/kjs_html.cpp:2130
 msgid ""
 "<qt>This site is submitting a form which will open "
 "<p>%1</p> in a new browser window via JavaScript.<br />"
