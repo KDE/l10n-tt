@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdesktop\n"
-"POT-Creation-Date: 2006-01-23 03:15+0100\n"
+"POT-Creation-Date: 2006-02-07 03:55+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -128,23 +128,23 @@ msgstr ""
 msgid "No appropriate greeter plugin configured."
 msgstr "Sälämläw modulı caylanunı uzmağan."
 
-#: lock/main.cc:53
+#: lock/main.cc:54
 msgid "Force session locking"
 msgstr "Sessine mäcbüri bikläw"
 
-#: lock/main.cc:54
+#: lock/main.cc:55
 msgid "Only start screensaver"
 msgstr "Küräk saqlağıçın ğına cibäräse"
 
-#: lock/main.cc:55
+#: lock/main.cc:56
 msgid "Only use the blank screensaver"
 msgstr "Buş küräk saqlağıçın ğına cibäräse"
 
-#: lock/main.cc:65
+#: lock/main.cc:66
 msgid "KDesktop Locker"
 msgstr "KDesktop Yozaqlaw"
 
-#: lock/main.cc:65
+#: lock/main.cc:66
 msgid "Session Locker for KDesktop"
 msgstr "KDesktop Sessi Biklägeçe"
 
