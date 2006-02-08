@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-02-07 03:09+0000\n"
+"POT-Creation-Date: 2006-02-08 03:08+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2622,6 +2622,11 @@ msgstr "Comment=Portable Graymap Süräte"
 #: mimetypes/image/x-portable-pixmap.desktop:7
 msgid "Comment=Portable Pixmap Image"
 msgstr "Comment=Portable Pixmap Süräte"
+
+#: mimetypes/image/x-raw.desktop:7
+#, fuzzy
+msgid "Comment=RAW Camera File"
+msgstr "Comment=C Başlığınıñ Bireme"
 
 #: mimetypes/image/x-rgb.desktop:7
 msgid "Comment=SGI Image (RGB)"
