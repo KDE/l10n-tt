@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-02-08 03:08+0000\n"
+"POT-Creation-Date: 2006-02-09 03:11+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -4688,7 +4688,7 @@ msgid "Name=FVWM"
 msgstr "Name=FVWM"
 
 #: kdm/kfrontend/sessions/fvwm.desktop:8
-#: kdm/kfrontend/sessions/fvwm2.desktop:8
+#: kdm/kfrontend/sessions/fvwm2.desktop:7
 msgid ""
 "Comment=A powerful ICCCM-compliant multiple virtual desktop window manager"
 msgstr "Comment=ICCCM-ütkän, küp öställär totqan köçle täräzä-idäräçe"
