@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-02-09 03:11+0000\n"
+"POT-Creation-Date: 2006-02-10 03:12+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -5695,7 +5695,7 @@ msgstr "Name=Klipper"
 msgid "GenericName=Clipboard Tool"
 msgstr "GenericName=Kesä Qoralı"
 
-#: klipper/klipper.desktop:98
+#: klipper/klipper.desktop:99
 msgid "Comment=A cut & paste history utility"
 msgstr ""
 
