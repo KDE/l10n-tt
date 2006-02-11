@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-02-10 03:56+0100\n"
+"POT-Creation-Date: 2006-02-11 03:53+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -142,7 +142,7 @@ msgid "&Zoom"
 msgstr "&Ereräyt"
 
 #: arts/message/artsmessage.cc:89 common_texts.cpp:54 kabc/lock.cpp:131
-#: kdeui/kmessagebox.cpp:760 kdeui/kmessagebox.cpp:790 kjs/object.cpp:490
+#: kdeui/kmessagebox.cpp:760 kdeui/kmessagebox.cpp:790 kjs/object.cpp:493
 #: kutils/kpluginselector.cpp:248
 msgid "Error"
 msgstr "Xata"
@@ -883,31 +883,31 @@ msgid ""
 "Un-Sticky"
 msgstr "Berketmiçä"
 
-#: kjs/object.cpp:346
+#: kjs/object.cpp:349
 msgid "No default value"
 msgstr "Ğädäti bäyä yuq"
 
-#: kjs/object.cpp:491
+#: kjs/object.cpp:494
 msgid "Evaluation error"
 msgstr "İsäpläw xatası"
 
-#: kjs/object.cpp:492
+#: kjs/object.cpp:495
 msgid "Range error"
 msgstr "Çik bozılışı"
 
-#: kjs/object.cpp:493
+#: kjs/object.cpp:496
 msgid "Reference error"
 msgstr "Bäyläw bozılışı"
 
-#: kjs/object.cpp:494
+#: kjs/object.cpp:497
 msgid "Syntax error"
 msgstr "Tözeleş xatası"
 
-#: kjs/object.cpp:495
+#: kjs/object.cpp:498
 msgid "Type error"
 msgstr "Kertü xatası"
 
-#: kjs/object.cpp:496
+#: kjs/object.cpp:499
 msgid "URI error"
 msgstr "URI xarası"
 
