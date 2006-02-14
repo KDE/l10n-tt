@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-02-12 03:58+0100\n"
+"POT-Creation-Date: 2006-02-14 03:49+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -3530,18 +3530,19 @@ msgid "Adar II"
 msgstr "Adar II"
 
 #: kdecore/kaboutdata.cpp:388
+#, fuzzy
 msgid ""
 "_: replace this with information about your translation team\n"
 "<p>KDE is translated into many languages thanks to the work of the translation "
 "teams all over the world.</p>"
-"<p>For more information on KDE internationalization visit "
-"http://i18n.kde.org</p>"
+"<p>For more information on KDE internationalization visit <a "
+"href=\"http://l10n.kde.org\">http://l10n.kde.org</a></p>"
 msgstr ""
 "<p>Böten dönyada bulğan telläşterü törkemnäre yärdäme belän KDE bu köngä küp "
 "tellärgä telläşterelgän.</p>"
 "<p>KDE telläşterü turında belem öçen http://i18n.kde.org säxifäsenä keräse</p>"
 
-#: kdecore/kaboutdata.cpp:443
+#: kdecore/kaboutdata.cpp:444
 msgid ""
 "No licensing terms for this program have been specified.\n"
 "Please check the documentation or the source for any\n"
@@ -3551,7 +3552,7 @@ msgstr ""
 "Şartnama turında belemneñ anıñ qullanmada yä ki\n"
 "çığanaqlarında buluı bar.\n"
 
-#: kdecore/kaboutdata.cpp:450
+#: kdecore/kaboutdata.cpp:451
 #, c-format
 msgid "This program is distributed under the terms of the %1."
 msgstr "Bu yazılım %1 şartları buyınça taratıla."
