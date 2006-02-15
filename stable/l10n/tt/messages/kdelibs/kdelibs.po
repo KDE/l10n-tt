@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-02-14 03:49+0100\n"
+"POT-Creation-Date: 2006-02-15 03:51+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -3785,7 +3785,7 @@ msgstr "Bilgesez ğäilä: %1"
 msgid "Share Hot New Stuff"
 msgstr "Yaña Närsäne Büleşü"
 
-#: kdeui/kcolordialog.cpp:1131 knewstuff/uploaddialog.cpp:58
+#: kdeui/kcolordialog.cpp:1132 knewstuff/uploaddialog.cpp:58
 #: kresources/configdialog.cpp:53
 msgid "Name:"
 msgstr "İsem:"
@@ -5265,62 +5265,62 @@ msgid ""
 "Web Colors"
 msgstr "Web Tösläre"
 
-#: kdeui/kcolordialog.cpp:562
+#: kdeui/kcolordialog.cpp:563
 msgid "Named Colors"
 msgstr "Atlı Töslär"
 
-#: kdeui/kcolordialog.cpp:715
+#: kdeui/kcolordialog.cpp:716
 msgid ""
 "Unable to read X11 RGB color strings. The following file location(s) were "
 "examined:\n"
 msgstr ""
 "X11 öçen RGB töslär atamaların uqıp bulmadı. Kiläse urınlaştırular tikşerelde:\n"
 
-#: kdeui/kcolordialog.cpp:938
+#: kdeui/kcolordialog.cpp:939
 msgid "Select Color"
 msgstr "Tös Saylaw"
 
-#: kdeui/kcolordialog.cpp:1003
+#: kdeui/kcolordialog.cpp:1004
 msgid "H:"
 msgstr "T:"
 
-#: kdeui/kcolordialog.cpp:1012
+#: kdeui/kcolordialog.cpp:1013
 msgid "S:"
 msgstr "Q:"
 
-#: kdeui/kcolordialog.cpp:1021
+#: kdeui/kcolordialog.cpp:1022
 msgid "V:"
 msgstr "V:"
 
-#: kdeui/kcolordialog.cpp:1033
+#: kdeui/kcolordialog.cpp:1034
 msgid "R:"
 msgstr "Q:"
 
-#: kdeui/kcolordialog.cpp:1042
+#: kdeui/kcolordialog.cpp:1043
 msgid "G:"
 msgstr "Y:"
 
-#: kdeui/kcolordialog.cpp:1051
+#: kdeui/kcolordialog.cpp:1052
 msgid "B:"
 msgstr "K:"
 
-#: kdeui/kcolordialog.cpp:1106
+#: kdeui/kcolordialog.cpp:1107
 msgid "&Add to Custom Colors"
 msgstr "Östämä Töslärgä Quş"
 
-#: kdeui/kcolordialog.cpp:1138
+#: kdeui/kcolordialog.cpp:1139
 msgid "HTML:"
 msgstr "HTML:"
 
-#: kdeui/kcolordialog.cpp:1217
+#: kdeui/kcolordialog.cpp:1218
 msgid "Default color"
 msgstr "Ğädäti tös"
 
-#: kdeui/kcolordialog.cpp:1245
+#: kdeui/kcolordialog.cpp:1246
 msgid "-default-"
 msgstr "-ğädäti-"
 
-#: kdeui/kcolordialog.cpp:1465
+#: kdeui/kcolordialog.cpp:1466
 msgid "-unnamed-"
 msgstr "-isemsez-"
 
