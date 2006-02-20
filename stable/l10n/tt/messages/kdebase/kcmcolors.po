@@ -4,13 +4,25 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmcolors\n"
-"POT-Creation-Date: 2005-07-06 01:31+0200\n"
+"POT-Creation-Date: 2006-02-20 03:45+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Tatarish Localizators"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "tatarish-l10n@gmail.com"
 
 #: colorscm.cpp:100
 msgid ""
@@ -354,15 +366,3 @@ msgid ""
 "_: Menu item\n"
 "Save"
 msgstr "Saqla"
-
-#: _translatorinfo.cpp:1
-msgid ""
-"_: NAME OF TRANSLATORS\n"
-"Your names"
-msgstr "Tatarish Localizators"
-
-#: _translatorinfo.cpp:3
-msgid ""
-"_: EMAIL OF TRANSLATORS\n"
-"Your emails"
-msgstr "tatarish-l10n@gmail.com"
