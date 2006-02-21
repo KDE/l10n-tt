@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs ktexteditor_docwordcompletion\n"
-"POT-Creation-Date: 2006-01-19 03:14+0100\n"
+"POT-Creation-Date: 2006-02-21 03:51+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -40,11 +40,11 @@ msgstr "Qabıqtağı Tutıruçı"
 msgid "Automatic Completion Popup"
 msgstr "Automatic Completion PopupÜzennän Tutırunıñ Atılma-Saylağı"
 
-#: docwordcompletion.cpp:487
+#: docwordcompletion.cpp:467
 msgid "Automatically &show completion list"
 msgstr "Üzennän tutıru tezmäsen kür&sätäse"
 
-#: docwordcompletion.cpp:500
+#: docwordcompletion.cpp:480
 msgid ""
 "_: Translators: This is the first part of two strings wich will comprise the "
 "sentence 'Show completions when a word is at least N characters'. The first "
@@ -55,14 +55,14 @@ msgid ""
 "Show completions &when a word is at least"
 msgstr "Süz &ozınlığı"
 
-#: docwordcompletion.cpp:506
+#: docwordcompletion.cpp:486
 msgid ""
 "_: This is the second part of two strings that will comprise teh sentence 'Show "
 "completions when a word is at least N characters'\n"
 "characters long."
 msgstr "bilgedän dä kim bulmasa ğına, anıñ azaqların kürsätäse."
 
-#: docwordcompletion.cpp:509
+#: docwordcompletion.cpp:489
 msgid ""
 "Enable the automatic completion list popup as default. The popup can be "
 "disabled on a view basis from the 'Tools' menu."
@@ -70,7 +70,7 @@ msgstr ""
 "Üsennän tutıru belän atılma-tezmäse aldan uq sälätläp quyıla. Ul atılmanı "
 "\"Qoral\" saylağında sünderep bula."
 
-#: docwordcompletion.cpp:512
+#: docwordcompletion.cpp:492
 msgid ""
 "Define the length a word should have before the completion list is displayed."
 msgstr "Tutıru tezmäse çıqqançı, süz ni ozınlıqqa citärgä tieşlegen bilgeli."

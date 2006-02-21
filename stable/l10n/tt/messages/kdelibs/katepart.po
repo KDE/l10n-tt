@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs katepart\n"
-"POT-Creation-Date: 2006-02-15 03:51+0100\n"
+"POT-Creation-Date: 2006-02-21 03:51+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -153,7 +153,7 @@ msgstr "<p>Bit astlığınıñ tözeleşe. Kiläse qırlarnı qullanıp bula:</p
 msgid "L&ayout"
 msgstr "Urn&aşılu"
 
-#: part/kateprinter.cpp:915 part/kateschema.cpp:832
+#: part/kateprinter.cpp:915 part/kateschema.cpp:834
 msgid "&Schema:"
 msgstr "&Tözeleş:"
 
@@ -1157,108 +1157,108 @@ msgstr ""
 "östenä basqaç çıqqan saylaqta tözätäse öleş saylísı."
 "<p>Şul uq atılma saylaq qullanıp asyaq töslären töp cayına awdarıp bula."
 
-#: part/kateschema.cpp:838 plugins/autobookmarker/autobookmarker.cpp:406
+#: part/kateschema.cpp:840 plugins/autobookmarker/autobookmarker.cpp:406
 msgid "&New..."
 msgstr "&Yaña..."
 
-#: part/kateschema.cpp:851
+#: part/kateschema.cpp:853
 msgid "Colors"
 msgstr "Töslär"
 
-#: part/kateschema.cpp:857
+#: part/kateschema.cpp:859
 msgid "Normal Text Styles"
 msgstr "Töp Yazu Bizäleşe"
 
-#: part/kateschema.cpp:861
+#: part/kateschema.cpp:863
 msgid "Highlighting Text Styles"
 msgstr "Yazma Yaqtırtu Törläre"
 
-#: part/kateschema.cpp:866
+#: part/kateschema.cpp:868
 msgid "&Default schema for %1:"
 msgstr "%1 öçen &töp caylaw:"
 
-#: part/kateschema.cpp:964
+#: part/kateschema.cpp:966
 msgid "Name for New Schema"
 msgstr "Yaña Tözeleş Adı"
 
-#: part/kateschema.cpp:964
+#: part/kateschema.cpp:966
 msgid "Name:"
 msgstr "İsem:"
 
-#: part/kateschema.cpp:964
+#: part/kateschema.cpp:966
 msgid "New Schema"
 msgstr "Yaña Tözeleş"
 
-#: part/kateschema.cpp:1051
+#: part/kateschema.cpp:1053
 msgid "Context"
 msgstr "Eştirä"
 
 #: part/kateautoindent.cpp:95 part/katehighlight.cpp:3142
-#: part/kateschema.cpp:1056
+#: part/kateschema.cpp:1058
 msgid "Normal"
 msgstr "Ğädäti"
 
-#: part/kateschema.cpp:1057
+#: part/kateschema.cpp:1059
 msgid "Selected"
 msgstr "Saylanğanı"
 
-#: part/kateschema.cpp:1058
+#: part/kateschema.cpp:1060
 msgid "Background"
 msgstr "Asyaq"
 
-#: part/kateschema.cpp:1059
+#: part/kateschema.cpp:1061
 msgid "Background Selected"
 msgstr "Artyaq Saylandı"
 
-#: part/kateschema.cpp:1061
+#: part/kateschema.cpp:1063
 msgid "Use Default Style"
 msgstr "Töp Bizäleş Qullanası"
 
-#: part/kateschema.cpp:1095
+#: part/kateschema.cpp:1097
 msgid "&Bold"
 msgstr "&Qalın"
 
-#: part/kateschema.cpp:1097
+#: part/kateschema.cpp:1099
 msgid "&Italic"
 msgstr "&Awışlı"
 
-#: part/kateschema.cpp:1099
+#: part/kateschema.cpp:1101
 msgid "&Underline"
 msgstr "&Sızdırıp"
 
-#: part/kateschema.cpp:1101
+#: part/kateschema.cpp:1103
 msgid "S&trikeout"
 msgstr "&Sızıp çığıp"
 
-#: part/kateschema.cpp:1106
+#: part/kateschema.cpp:1108
 msgid "Normal &Color..."
 msgstr "Töp &Tös..."
 
-#: part/kateschema.cpp:1107
+#: part/kateschema.cpp:1109
 msgid "&Selected Color..."
 msgstr "&Saylanğan Tös..."
 
-#: part/kateschema.cpp:1108
+#: part/kateschema.cpp:1110
 msgid "&Background Color..."
 msgstr "&Asyaq Töse..."
 
-#: part/kateschema.cpp:1109
+#: part/kateschema.cpp:1111
 msgid "S&elected Background Color..."
 msgstr "&Saylamanıñ Asyaq Töse..."
 
-#: part/kateschema.cpp:1120
+#: part/kateschema.cpp:1122
 msgid "Unset Background Color"
 msgstr "Artyaq Tösen Awdar"
 
-#: part/kateschema.cpp:1122
+#: part/kateschema.cpp:1124
 msgid "Unset Selected Background Color"
 msgstr "Artyaq öçen Saylanğan Tösen Awdar"
 
-#: part/kateschema.cpp:1127
+#: part/kateschema.cpp:1129
 msgid "Use &Default Style"
 msgstr "Töp Bizäleş Qullanası"
 
-#: part/kateschema.cpp:1341
+#: part/kateschema.cpp:1352
 msgid ""
 "\"Use Default Style\" will be automatically unset when you change any style "
 "properties."
@@ -1266,7 +1266,7 @@ msgstr ""
 "Bizäleş üzençälege üzgärtelüdän soñ, \"Töp Bizäleş Qullanası\" digän bayıraq "
 "üzennän töçäçäk."
 
-#: part/kateschema.cpp:1342
+#: part/kateschema.cpp:1353
 msgid "Kate Styles"
 msgstr "Kate Bizäleşe"
 
@@ -3973,11 +3973,11 @@ msgstr "Qabıqtağı Tutıruçı"
 msgid "Automatic Completion Popup"
 msgstr "Automatic Completion PopupÜzennän Tutırunıñ Atılma-Saylağı"
 
-#: plugins/wordcompletion/docwordcompletion.cpp:487
+#: plugins/wordcompletion/docwordcompletion.cpp:467
 msgid "Automatically &show completion list"
 msgstr "Üzennän tutıru tezmäsen kür&sätäse"
 
-#: plugins/wordcompletion/docwordcompletion.cpp:500
+#: plugins/wordcompletion/docwordcompletion.cpp:480
 msgid ""
 "_: Translators: This is the first part of two strings wich will comprise the "
 "sentence 'Show completions when a word is at least N characters'. The first "
@@ -3988,14 +3988,14 @@ msgid ""
 "Show completions &when a word is at least"
 msgstr "Süz &ozınlığı"
 
-#: plugins/wordcompletion/docwordcompletion.cpp:506
+#: plugins/wordcompletion/docwordcompletion.cpp:486
 msgid ""
 "_: This is the second part of two strings that will comprise teh sentence 'Show "
 "completions when a word is at least N characters'\n"
 "characters long."
 msgstr "bilgedän dä kim bulmasa ğına, anıñ azaqların kürsätäse."
 
-#: plugins/wordcompletion/docwordcompletion.cpp:509
+#: plugins/wordcompletion/docwordcompletion.cpp:489
 msgid ""
 "Enable the automatic completion list popup as default. The popup can be "
 "disabled on a view basis from the 'Tools' menu."
@@ -4003,7 +4003,7 @@ msgstr ""
 "Üsennän tutıru belän atılma-tezmäse aldan uq sälätläp quyıla. Ul atılmanı "
 "\"Qoral\" saylağında sünderep bula."
 
-#: plugins/wordcompletion/docwordcompletion.cpp:512
+#: plugins/wordcompletion/docwordcompletion.cpp:492
 msgid ""
 "Define the length a word should have before the completion list is displayed."
 msgstr "Tutıru tezmäse çıqqançı, süz ni ozınlıqqa citärgä tieşlegen bilgeli."
