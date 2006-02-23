@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs katepart\n"
-"POT-Creation-Date: 2006-02-21 03:51+0100\n"
+"POT-Creation-Date: 2006-02-23 03:44+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2194,27 +2194,27 @@ msgstr "Boyırıq tabılmadı"
 msgid "JavaScript file not found"
 msgstr "JavaScript bireme tabılmadı"
 
-#: part/katespell.cpp:56
+#: part/katespell.cpp:57
 msgid "Spelling (from cursor)..."
 msgstr "Yazu Turılığı (kürsärdän başlap)..."
 
-#: part/katespell.cpp:57
+#: part/katespell.cpp:58
 msgid "Check the document's spelling from the cursor and forward"
 msgstr "Bu istälekneñ yazu turılığın kürsärdän başlap tikşerü"
 
-#: part/katespell.cpp:59
+#: part/katespell.cpp:60
 msgid "Spellcheck Selection..."
 msgstr "Saylanuda Yazu Tıkşerü..."
 
-#: part/katespell.cpp:60
+#: part/katespell.cpp:61
 msgid "Check spelling of the selected text"
 msgstr "Saylanğan kisäkneñ yazu turılığın tikşerü"
 
-#: part/katespell.cpp:108
+#: part/katespell.cpp:122
 msgid "Spellcheck"
 msgstr "Yazu tikşerü"
 
-#: part/katespell.cpp:188
+#: part/katespell.cpp:202
 msgid ""
 "The spelling program could not be started. Please make sure you have set the "
 "correct spelling program and that it is properly configured and in your PATH."
@@ -2222,7 +2222,7 @@ msgstr ""
 "Yazu turılığın tikşergeç yazılımnı cibärep bulmí. Ul yazılımnıñ tieşleçä "
 "caylanğan buluı belän anı PATH aşa tabıp buluın tikşerep alası."
 
-#: part/katespell.cpp:193
+#: part/katespell.cpp:207
 msgid "The spelling program seems to have crashed."
 msgstr "Yazu tikşergeç yazılım cimerelgän kebek kürenä."
 

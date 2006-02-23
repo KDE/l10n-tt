@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2006-02-04 03:13+0100\n"
+"POT-Creation-Date: 2006-02-23 03:44+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -3292,11 +3292,11 @@ msgstr "Yöklämäskä"
 msgid "KIOExec"
 msgstr "KIOExec"
 
-#: kfile/kimagefilepreview.cpp:56
+#: kfile/kimagefilepreview.cpp:53
 msgid "&Automatic preview"
 msgstr "&Üze kürsätep torsın"
 
-#: kfile/kimagefilepreview.cpp:61
+#: kfile/kimagefilepreview.cpp:58
 msgid "&Preview"
 msgstr "&Küzläp alu"
 
