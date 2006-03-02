@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase joystick\n"
-"POT-Creation-Date: 2005-08-31 02:43+0200\n"
+"POT-Creation-Date: 2006-03-02 03:42+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -36,15 +36,15 @@ msgstr "Kiläse"
 msgid "Please wait a moment to calculate the precision"
 msgstr "Tögällek sanalğançı beraz kötep torası bar"
 
-#: caldialog.cpp:81
+#: caldialog.cpp:83
 msgid "(usually X)"
 msgstr "(ğädättä X)"
 
-#: caldialog.cpp:83
+#: caldialog.cpp:85
 msgid "(usually Y)"
 msgstr "(ğädättä Y)"
 
-#: caldialog.cpp:88
+#: caldialog.cpp:90
 msgid ""
 "<qt>Calibration is about to check the value range your device delivers."
 "<br>"
@@ -62,7 +62,7 @@ msgstr ""
 "<br>Kiläse adımğa küçü öçen ul cıhaznıñ berär töymägä, yä ki bu täräzäneñ "
 "'Kiläse' digän töymägä çirtäse.</qt>"
 
-#: caldialog.cpp:102
+#: caldialog.cpp:107
 msgid ""
 "<qt>Calibration is about to check the value range your device delivers."
 "<br>"
@@ -78,7 +78,7 @@ msgstr ""
 "<br>Kiläse adımğa küçü öçen ul cıhaznıñ berär töymägä, yä ki bu täräzäneñ "
 "'Kiläse' digän töymägä çirtäse.</qt>"
 
-#: caldialog.cpp:116
+#: caldialog.cpp:124
 msgid ""
 "<qt>Calibration is about to check the value range your device delivers."
 "<br>"
@@ -96,19 +96,19 @@ msgstr ""
 "<br>Kiläse adımğa küçü öçen ul cıhaznıñ berär töymägä, yä ki bu täräzäneñ "
 "'Kiläse' digän töymägä çirtäse.</qt>"
 
-#: caldialog.cpp:136 joywidget.cpp:332 joywidget.cpp:367
+#: caldialog.cpp:147 joywidget.cpp:332 joywidget.cpp:367
 msgid "Communication Error"
 msgstr "Elemtä Xatası"
 
-#: caldialog.cpp:140
+#: caldialog.cpp:151
 msgid "You have successfully calibrated your device"
 msgstr "Bu cıhazne bilgeläp çığu uñışlı uzdı"
 
-#: caldialog.cpp:140 joywidget.cpp:373
+#: caldialog.cpp:151 joywidget.cpp:373
 msgid "Calibration Success"
 msgstr "Bilgeläşterü Buldı"
 
-#: caldialog.cpp:164
+#: caldialog.cpp:175
 msgid "Value Axis %1: %2"
 msgstr "%1 Yünälmä Bäyäse: %2"
 

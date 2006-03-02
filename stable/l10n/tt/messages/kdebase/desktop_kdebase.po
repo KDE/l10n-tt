@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-02-26 03:03+0000\n"
+"POT-Creation-Date: 2006-03-02 02:54+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2742,7 +2742,7 @@ msgstr ""
 msgid "Name=KDE WebSVN"
 msgstr "Name=KDE WebSVN"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/kde_websvn.desktop:24
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/kde_websvn.desktop:25
 msgid "Query=http://websvn.kde.org/\\\\{@}"
 msgstr "Query=http://websvn.kde.org/\\\\{@}"
 
@@ -2839,7 +2839,7 @@ msgstr "Query=http://pgp.dtype.org:11371/pks/lookup?search=\\\\{@}&op=vindex"
 msgid "Name=PHP Search"
 msgstr "Name=PHP Ezläw"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/php.desktop:69
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/php.desktop:70
 msgid ""
 "Query=http://www.php.net/search.php?show=\\\\{mode,\"manual\"}&pattern=\\\\{@}"
 msgstr ""
@@ -3541,11 +3541,11 @@ msgstr "Keywords=Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgid "Name=Local Network Browsing"
 msgstr "Name=Cirle Çeltärne Küzläw"
 
-#: kcontrol/kio/lanbrowser.desktop:82
+#: kcontrol/kio/lanbrowser.desktop:83
 msgid "Comment=Setup lisa, reslisa and the ioslaves"
 msgstr "Comment=lisa, reslisa, ioslaves caylawları"
 
-#: kcontrol/kio/lanbrowser.desktop:149
+#: kcontrol/kio/lanbrowser.desktop:150
 msgid "Keywords=samba,smb,windows,network"
 msgstr "Keywords=samba,smb,windows,network"
 
@@ -3835,7 +3835,7 @@ msgstr ""
 msgid "Name=AdBlocK Filters"
 msgstr "Name=Reklam Sözgeçläre"
 
-#: kcontrol/konqhtml/khtml_filter.desktop:61
+#: kcontrol/konqhtml/khtml_filter.desktop:62
 msgid "Comment=Configure Konqueror AdBlocK filters"
 msgstr "Comment=Konqueror'dağı reklam kistergeçneñ caylaw"
 
