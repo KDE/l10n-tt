@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-03-02 03:40+0100\n"
+"POT-Creation-Date: 2006-03-04 03:43+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -5801,7 +5801,7 @@ msgid "Reset Toolbars"
 msgstr "Qoraltirä"
 
 #: kdeui/kedittoolbar.cpp:447 khtml/html/html_formimpl.cpp:2075
-#: khtml/khtmlview.cpp:2491 khtml/khtmlview.cpp:2524
+#: khtml/khtmlview.cpp:2500 khtml/khtmlview.cpp:2533
 msgid "Reset"
 msgstr "Awdar"
 
@@ -7267,7 +7267,7 @@ msgstr ""
 "taba cibäräläçäk.<BR>Form eçtälegen cibärü dawam itäseme?"
 
 #: khtml/html/html_formimpl.cpp:1513 khtml/html/html_formimpl.cpp:2083
-#: khtml/khtml_part.cpp:4797 khtml/khtmlview.cpp:2477 khtml/khtmlview.cpp:2519
+#: khtml/khtml_part.cpp:4797 khtml/khtmlview.cpp:2486 khtml/khtmlview.cpp:2528
 msgid "Submit"
 msgstr "Cibär"
 
@@ -7345,39 +7345,39 @@ msgstr "Tıyılğan Täräzälär Turında Belderüne &Kürsätäse "
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript'neñ Yaña Täräzä açu Tärtibe..."
 
-#: khtml/khtmlview.cpp:1587
+#: khtml/khtmlview.cpp:1596
 msgid "Find stopped."
 msgstr "Ezläw tuqtadı."
 
-#: khtml/khtmlview.cpp:1598
+#: khtml/khtmlview.cpp:1607
 msgid "Starting -- find links as you type"
 msgstr "Cíu barğan çaqta bäylär ezläw bara"
 
-#: khtml/khtmlview.cpp:1604
+#: khtml/khtmlview.cpp:1613
 msgid "Starting -- find text as you type"
 msgstr "Cíu barğan çaqta yazma ezläw bara"
 
-#: khtml/khtmlview.cpp:1625
+#: khtml/khtmlview.cpp:1634
 msgid "Link found: \"%1\"."
 msgstr "Bäy tabıldı: \"%1\"."
 
-#: khtml/khtmlview.cpp:1630
+#: khtml/khtmlview.cpp:1639
 msgid "Link not found: \"%1\"."
 msgstr "Bäy tabılmadı: \"%1\"."
 
-#: khtml/khtmlview.cpp:1638
+#: khtml/khtmlview.cpp:1647
 msgid "Text found: \"%1\"."
 msgstr "Yazma tabıldı: \"%1\"."
 
-#: khtml/khtmlview.cpp:1643
+#: khtml/khtmlview.cpp:1652
 msgid "Text not found: \"%1\"."
 msgstr "Yazma tabılmadı: \"%1\"."
 
-#: khtml/khtmlview.cpp:1687
+#: khtml/khtmlview.cpp:1696
 msgid "Access Keys activated"
 msgstr "İreşü Töymäse açıldı"
 
-#: khtml/khtmlview.cpp:2706
+#: khtml/khtmlview.cpp:2715
 #, c-format
 msgid "Print %1"
 msgstr "%1 Bastıru"
