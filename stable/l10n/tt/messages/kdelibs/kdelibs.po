@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-03-04 03:43+0100\n"
+"POT-Creation-Date: 2006-03-05 03:41+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -853,8 +853,8 @@ msgstr "Eçtälek"
 msgid "About"
 msgstr "Turında"
 
-#: common_texts.cpp:63 common_texts.cpp:176 kdeui/kaboutapplication.cpp:62
-#: kdeui/kaboutapplication.cpp:86
+#: common_texts.cpp:63 common_texts.cpp:176 kdeui/kaboutapplication.cpp:64
+#: kdeui/kaboutapplication.cpp:88
 msgid "&About"
 msgstr "&Turında"
 
@@ -1030,7 +1030,7 @@ msgstr "Üzgärt"
 msgid "&Delete"
 msgstr "&Beter"
 
-#: common_texts.cpp:125 kdeui/kfontdialog.cpp:225 kdeui/kfontdialog.cpp:476
+#: common_texts.cpp:125 kdeui/kfontdialog.cpp:225 kdeui/kfontdialog.cpp:477
 msgid "Italic"
 msgstr "Awışlı"
 
@@ -5162,11 +5162,12 @@ msgstr ""
 "Saylanğan yazunıñ küreneşe bu. Anı almaştıru öçen \"Saylaw...\" töymäsen "
 "çirtäse."
 
-#: kdeui/kaboutapplication.cpp:61
+#. i18n "??" is displayed as (pseudo-)version when no data is known about the application
+#: kdeui/kaboutapplication.cpp:63
 msgid "??"
 msgstr "??"
 
-#: kdeui/kaboutapplication.cpp:65
+#: kdeui/kaboutapplication.cpp:67
 msgid ""
 "No information available.\n"
 "The supplied KAboutData object does not exist."
@@ -5174,15 +5175,15 @@ msgstr ""
 "Belem yuq.\n"
 "Bu yazılım KAboutData digän cisemne qaytırmadı."
 
-#: kdeui/kaboutapplication.cpp:105
+#: kdeui/kaboutapplication.cpp:107
 msgid "A&uthor"
 msgstr "Yaz&uçısı"
 
-#: kdeui/kaboutapplication.cpp:105
+#: kdeui/kaboutapplication.cpp:107
 msgid "A&uthors"
 msgstr "Yaz&uçısı"
 
-#: kdeui/kaboutapplication.cpp:115
+#: kdeui/kaboutapplication.cpp:117
 #, fuzzy
 msgid ""
 "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> "
@@ -5191,21 +5192,21 @@ msgstr ""
 "Xatalar turında <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> "
 "adresına belderegez, yazuçısına turı yazmağız.\n"
 
-#: kdeui/kaboutapplication.cpp:119 kdeui/kaboutapplication.cpp:122
+#: kdeui/kaboutapplication.cpp:121 kdeui/kaboutapplication.cpp:124
 #, fuzzy
 msgid ""
 "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
 msgstr "Xatalar turında <a href=\"mailto:%1\">%2</a> adresına belderegez."
 
-#: kdeui/kaboutapplication.cpp:147
+#: kdeui/kaboutapplication.cpp:149
 msgid "&Thanks To"
 msgstr "&Räxmätebez"
 
-#: kdeui/kaboutapplication.cpp:174
+#: kdeui/kaboutapplication.cpp:176
 msgid "T&ranslation"
 msgstr "Telläşte&rü"
 
-#: kdeui/kaboutapplication.cpp:179
+#: kdeui/kaboutapplication.cpp:181
 msgid "&License Agreement"
 msgstr "&Şartnämä belän Rízalaşu"
 
@@ -5269,9 +5270,9 @@ msgstr "Qullansı yazu ğäiläsen bonda saylap bula."
 msgid "Here you can choose the font style to be used."
 msgstr "Qullansı yazu bizäleşen bonda saylap bula."
 
-#: kdeui/kfontdialog.cpp:224 kdeui/kfontdialog.cpp:472
-#: kdeui/kfontdialog.cpp:474 kdeui/kfontdialog.cpp:483
-#: kdeui/kfontdialog.cpp:484
+#: kdeui/kfontdialog.cpp:224 kdeui/kfontdialog.cpp:473
+#: kdeui/kfontdialog.cpp:475 kdeui/kfontdialog.cpp:484
+#: kdeui/kfontdialog.cpp:485
 msgid "Regular"
 msgstr "Tärtiple"
 
@@ -5304,11 +5305,12 @@ msgstr ""
 msgid "Here you can choose the font size to be used."
 msgstr "Qullanası yazu ülçämen bonda saylap bula."
 
-#: kdeui/kfontdialog.cpp:295
+#. i18n: This is a classical test phrase. (It contains all letters from A to Z.)
+#: kdeui/kfontdialog.cpp:296
 msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgstr "Körän Tölkä Yawız Ut Aşa Ütep Qarağan"
 
-#: kdeui/kfontdialog.cpp:300
+#: kdeui/kfontdialog.cpp:301
 msgid ""
 "This sample text illustrates the current settings. You may edit it to test "
 "special characters."
@@ -5316,7 +5318,7 @@ msgstr ""
 "Bu ürnäk yazması biredäge köyläwne kürsätä. Ayırmalı bilgelär sınaw öçen anı "
 "üzgärtep tä bula."
 
-#: kdeui/kfontdialog.cpp:309 kdeui/kfontdialog.cpp:319
+#: kdeui/kfontdialog.cpp:310 kdeui/kfontdialog.cpp:320
 msgid "Actual Font"
 msgstr "Qullanğan Yazu"
 
