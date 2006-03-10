@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kicker\n"
-"POT-Creation-Date: 2006-02-21 03:53+0100\n"
+"POT-Creation-Date: 2006-03-10 03:51+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -81,7 +81,7 @@ msgstr "Tirä kürsätü"
 msgid "Hide panel"
 msgstr "Tiräne yäşer"
 
-#: core/extensionmanager.cpp:112
+#: core/extensionmanager.cpp:117
 msgid ""
 "The KDE panel (kicker) could not load the main panel due to a problem with your "
 "installation. "
@@ -89,7 +89,7 @@ msgstr ""
 "KDE'neñ Kicker atlı tiräse töp tiräne yökli almí, anıñ säbäbe quyılu "
 "qíınlığındadır. "
 
-#: core/extensionmanager.cpp:114
+#: core/extensionmanager.cpp:119
 msgid "Fatal Error!"
 msgstr "Ütmäslek Xata!"
 

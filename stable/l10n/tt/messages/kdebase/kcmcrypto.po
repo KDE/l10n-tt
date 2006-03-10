@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmcrypto\n"
-"POT-Creation-Date: 2005-07-09 01:31+0200\n"
+"POT-Creation-Date: 2006-03-10 03:51+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -782,7 +782,7 @@ msgid ""
 "S/MIME CA"
 msgstr "S/MIME Tanıqlıq Oyışması"
 
-#: crypto.cpp:2436
+#: crypto.cpp:2438
 msgid "None"
 msgstr "Yuq"
 
