@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase libkonq\n"
-"POT-Creation-Date: 2005-09-21 02:57+0200\n"
+"POT-Creation-Date: 2006-03-11 03:53+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -104,7 +104,7 @@ msgstr "<p><b>%1</b> digänen uqırlıq xoquqlarıñ citmi</p>"
 msgid "<p><b>%1</b> does not seem to exist anymore</p>"
 msgstr "<p><b>%1</b> digäne bütän yuq sıman</p>"
 
-#: konq_dirpart.cc:484
+#: konq_dirpart.cc:481
 #, c-format
 msgid "Search result: %1"
 msgstr "Ezläw näticäse: %1"
