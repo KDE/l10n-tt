@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase ksysguard\n"
-"POT-Creation-Date: 2006-02-21 03:53+0100\n"
+"POT-Creation-Date: 2006-03-12 03:46+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -1618,12 +1618,13 @@ msgid "&New Worksheet..."
 msgstr ""
 
 #: ksysguard.cc:111
-msgid "&Import Recent Worksheet..."
-msgstr ""
+#, fuzzy
+msgid "Import Worksheet..."
+msgstr "Bar Eşbitlärne dä Awdar"
 
 #: ksysguard.cc:114
 #, fuzzy
-msgid "Import Worksheet"
+msgid "&Import Recent Worksheet"
 msgstr "Bar Eşbitlärne dä Awdar"
 
 #: ksysguard.cc:117
