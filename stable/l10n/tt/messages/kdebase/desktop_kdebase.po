@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-03-06 03:06+0000\n"
+"POT-Creation-Date: 2006-03-14 03:07+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -1380,7 +1380,7 @@ msgstr "Name=AleVT"
 msgid "Name=AlsaMixerGui"
 msgstr "Name=AlsaMixerGui"
 
-#: kappfinder/apps/Multimedia/alsamixergui.desktop:23
+#: kappfinder/apps/Multimedia/alsamixergui.desktop:24
 msgid "GenericName=Alsa Mixer Frontend"
 msgstr "GenericName=Alsa Mixer Yözarası"
 
@@ -2195,7 +2195,7 @@ msgstr "Keywords=CSS,HTML,style,stylesheet,accessibility"
 msgid "Name=Display"
 msgstr "Name=Kürsätü"
 
-#: kcontrol/display/display.desktop:72
+#: kcontrol/display/display.desktop:73
 msgid "Comment=Display Settings"
 msgstr "Comment=Küräk Caylaw"
 
