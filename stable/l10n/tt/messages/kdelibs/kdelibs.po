@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-03-14 03:51+0100\n"
+"POT-Creation-Date: 2006-03-15 03:51+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -1724,7 +1724,7 @@ msgstr "Xosusí"
 msgid "Confidential"
 msgstr "Xosusí"
 
-#: kabc/errorhandler.cpp:40
+#: kabc/errorhandler.cpp:42
 msgid "Error in libkabc"
 msgstr "libkabc eçendä xata"
 
