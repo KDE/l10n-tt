@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kfontinst\n"
-"POT-Creation-Date: 2005-10-10 02:40+0200\n"
+"POT-Creation-Date: 2006-03-16 03:51+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -335,7 +335,7 @@ msgstr "Awırlıq"
 msgid "Slant"
 msgstr "İelgän"
 
-#: kio/KioFonts.cpp:911 kio/KioFonts.cpp:2375
+#: kio/KioFonts.cpp:911 kio/KioFonts.cpp:2373
 msgid "Please specify \"%1\" or \"%2\"."
 msgstr "Zínhar \"%1\" yä ki \"%2\" bilgelä."
 
@@ -367,15 +367,15 @@ msgstr ""
 msgid "Where to Install"
 msgstr "Qayda Quyası"
 
-#: kio/KioFonts.cpp:2071
+#: kio/KioFonts.cpp:2069
 msgid "Internal fontconfig error."
 msgstr "Şrift köyläwneñ eçke xata."
 
-#: kio/KioFonts.cpp:2106
+#: kio/KioFonts.cpp:2104
 msgid "Could not access \"%1\"."
 msgstr "\"%1\" biremenä ireşep bulmadı."
 
-#: kio/KioFonts.cpp:2150
+#: kio/KioFonts.cpp:2148
 msgid ""
 "<p>Only fonts may be installed.</p>"
 "<p>If installing a fonts package (*%1), then extract the components, and "
@@ -385,7 +385,7 @@ msgstr ""
 "<p> (*%1)Şrift tuplamasın quyğanda, başta tuplama eçtäleklären çığarıp, "
 "beräm-beräm quyası.</p>"
 
-#: kio/KioFonts.cpp:2313
+#: kio/KioFonts.cpp:2311
 msgid ""
 "<p>This font is located in a file alongside other fonts; in order to proceed "
 "with the moving they will all have to be moved. The other affected fonts "
@@ -400,7 +400,7 @@ msgstr ""
 "<p>\n"
 " Barısın da küçeräseme?</p>"
 
-#: kio/KioFonts.cpp:2318
+#: kio/KioFonts.cpp:2316
 msgid ""
 "<p>This font is located in a file alongside other fonts; in order to proceed "
 "with the copying they will all have to be copied. The other affected fonts "
@@ -415,7 +415,7 @@ msgstr ""
 "<p>\n"
 " Barısın da kübäytäseme?</p>"
 
-#: kio/KioFonts.cpp:2322
+#: kio/KioFonts.cpp:2320
 msgid ""
 "<p>This font is located in a file alongside other fonts; in order to proceed "
 "with the deleting they will all have to be deleted. The other affected fonts "
@@ -430,7 +430,7 @@ msgstr ""
 "<p>\n"
 " Barısın da taşlísımı?</p>"
 
-#: kio/KioFonts.cpp:2395
+#: kio/KioFonts.cpp:2393
 msgid ""
 "Sorry, you cannot rename, move, copy, or delete either \"%1\" or \"%2\"."
 msgstr ""

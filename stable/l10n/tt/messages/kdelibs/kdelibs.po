@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-03-15 03:51+0100\n"
+"POT-Creation-Date: 2006-03-16 03:49+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -868,7 +868,7 @@ msgstr "Atalmadı"
 
 #: common_texts.cpp:67 kdecore/kapplication.cpp:1380
 #: kdecore/kapplication.cpp:2207 kdecore/kapplication.cpp:2242
-#: kdecore/kapplication.cpp:2511 kdecore/kapplication.cpp:2533
+#: kdecore/kapplication.cpp:2513 kdecore/kapplication.cpp:2535
 #: kdecore/kdebug.cpp:295 kdeui/kdialogbase.cpp:908 kdeui/kstdguiitem.cpp:99
 msgid "&OK"
 msgstr "&OK"
@@ -994,7 +994,7 @@ msgid "&Save"
 msgstr "&Saqla"
 
 #: common_texts.cpp:111 khtml/khtml_part.cpp:3919 khtml/khtml_part.cpp:4123
-#: khtml/khtml_part.cpp:4437 khtml/khtml_run.cpp:83 kparts/browserrun.cpp:414
+#: khtml/khtml_part.cpp:4437 khtml/khtml_run.cpp:83 kparts/browserrun.cpp:417
 msgid "Save As"
 msgstr "Yañaça Saqlaw..."
 
@@ -2933,11 +2933,11 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdecore/kapplication.cpp:2510
+#: kdecore/kapplication.cpp:2512
 msgid "Could not Launch Mail Client"
 msgstr "Xat Klienten Cibärep Bulmadı"
 
-#: kdecore/kapplication.cpp:2511
+#: kdecore/kapplication.cpp:2513
 #, c-format
 msgid ""
 "Could not launch the mail client:\n"
@@ -2948,11 +2948,11 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdecore/kapplication.cpp:2532
+#: kdecore/kapplication.cpp:2534
 msgid "Could not Launch Browser"
 msgstr "Gizgeç Cibärep Bulmadı"
 
-#: kdecore/kapplication.cpp:2533
+#: kdecore/kapplication.cpp:2535
 #, c-format
 msgid ""
 "Could not launch the browser:\n"
@@ -2963,13 +2963,13 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdecore/kapplication.cpp:2597
+#: kdecore/kapplication.cpp:2599
 msgid ""
 "Could not register with DCOP.\n"
 msgstr ""
 "DCOP belän terkäp bulmadı.\n"
 
-#: kdecore/kapplication.cpp:2629
+#: kdecore/kapplication.cpp:2631
 msgid ""
 "KLauncher could not be reached via DCOP.\n"
 msgstr ""
@@ -6815,11 +6815,11 @@ msgstr "%1 atlı birem bar inde. Anıñ östennän yazıp almaştırasımı?"
 msgid "Overwrite File?"
 msgstr "Biremne Östennän Yazasımı?"
 
-#: khtml/khtml_ext.cpp:884 kparts/browserrun.cpp:385
+#: khtml/khtml_ext.cpp:884 kparts/browserrun.cpp:388
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "İñderü Citäkçesen (%1) $PATH buyınça tabıp bulmadı "
 
-#: khtml/khtml_ext.cpp:885 kparts/browserrun.cpp:386
+#: khtml/khtml_ext.cpp:885 kparts/browserrun.cpp:389
 msgid ""
 "Try to reinstall it  \n"
 "\n"
@@ -8016,19 +8016,19 @@ msgstr ""
 msgid "Close Document"
 msgstr "İstälekne Yap"
 
-#: kparts/browserrun.cpp:271
+#: kparts/browserrun.cpp:273
 msgid "Do you really want to execute '%1'? "
 msgstr "'%1' digänen çınlap ta eşlätäseme? "
 
-#: kparts/browserrun.cpp:272
+#: kparts/browserrun.cpp:274
 msgid "Execute File?"
 msgstr "Biremne Eşlätäseme?"
 
-#: kparts/browserrun.cpp:272
+#: kparts/browserrun.cpp:274
 msgid "Execute"
 msgstr "Eşlät"
 
-#: kparts/browserrun.cpp:290
+#: kparts/browserrun.cpp:292
 msgid ""
 "Open '%2'?\n"
 "Type: %1"
@@ -8036,7 +8036,7 @@ msgstr ""
 "'%2' Açasımı?\n"
 "Töre: %1"
 
-#: kparts/browserrun.cpp:292
+#: kparts/browserrun.cpp:294
 msgid ""
 "Open '%3'?\n"
 "Name: %2\n"
@@ -8046,15 +8046,15 @@ msgstr ""
 "Adı: %2\n"
 "Töre: %1"
 
-#: kparts/browserrun.cpp:306
+#: kparts/browserrun.cpp:308
 msgid "&Open with '%1'"
 msgstr "&Monı belän aç '%1'"
 
-#: kparts/browserrun.cpp:307
+#: kparts/browserrun.cpp:309
 msgid "&Open With..."
 msgstr "&Monı belän Açu..."
 
-#: kparts/browserrun.cpp:348
+#: kparts/browserrun.cpp:351
 msgid "&Open"
 msgstr "&Aç"
 
