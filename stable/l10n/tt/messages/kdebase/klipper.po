@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase klipper\n"
-"POT-Creation-Date: 2006-02-17 03:47+0100\n"
+"POT-Creation-Date: 2006-03-17 03:49+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -321,39 +321,39 @@ msgstr "Başla"
 msgid "Do Not Start"
 msgstr "Başlamasqa"
 
-#: toplevel.cpp:646
+#: toplevel.cpp:647
 msgid "Enable &Actions"
 msgstr "Ğämälne &Aç"
 
-#: toplevel.cpp:650
+#: toplevel.cpp:651
 msgid "&Actions Enabled"
 msgstr "&Ğämällär Açıq"
 
-#: toplevel.cpp:1086
+#: toplevel.cpp:1089
 msgid "KDE cut & paste history utility"
 msgstr "KDE'neñ alışukeşä uzğanı öçen qoral"
 
-#: toplevel.cpp:1090
+#: toplevel.cpp:1093
 msgid "Klipper"
 msgstr "Klipper"
 
-#: toplevel.cpp:1097
+#: toplevel.cpp:1100
 msgid "Author"
 msgstr "Yazuçı"
 
-#: toplevel.cpp:1101
+#: toplevel.cpp:1104
 msgid "Original Author"
 msgstr "Baş Yazuçı"
 
-#: toplevel.cpp:1105
+#: toplevel.cpp:1108
 msgid "Contributor"
 msgstr "Qatnaşuçı"
 
-#: toplevel.cpp:1109
+#: toplevel.cpp:1112
 msgid "Bugfixes and optimizations"
 msgstr "Tözätmä belän turaytular"
 
-#: toplevel.cpp:1113
+#: toplevel.cpp:1116
 msgid "Maintainer"
 msgstr "Bulışuçı"
 
