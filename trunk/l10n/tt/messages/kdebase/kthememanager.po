@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kthememanager\n"
-"POT-Creation-Date: 2005-11-05 02:43+0100\n"
+"POT-Creation-Date: 2006-02-18 03:48+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -38,52 +38,52 @@ msgid ""
 "themes."
 msgstr "KDE tışlawların quyu, taşlaw, yasaw eşläre bu modul aşa qarala."
 
-#: kthememanager.cpp:203
+#: kthememanager.cpp:206
 msgid "Theme Files"
 msgstr "Tışlaw Biremnäre"
 
-#: kthememanager.cpp:204
+#: kthememanager.cpp:207
 msgid "Select Theme File"
 msgstr "Tışlaw Biremen Sayla"
 
-#: kthememanager.cpp:238
+#: kthememanager.cpp:241
 msgid "Do you really want to remove the theme <b>%1</b>?"
 msgstr "<b>%1</b> digän tışlawın çınlap ta beteräse kiläme?"
 
-#: kthememanager.cpp:239
+#: kthememanager.cpp:242
 msgid "Remove Theme"
 msgstr "Tışlawnı Beter"
 
-#: kthememanager.cpp:261
+#: kthememanager.cpp:264
 msgid "My Theme"
 msgstr "Tışlawım"
 
-#: kthememanager.cpp:272
+#: kthememanager.cpp:275
 msgid "Theme %1 already exists."
 msgstr "%1 tışlawı bar inde."
 
-#: kthememanager.cpp:292
+#: kthememanager.cpp:295
 #, c-format
 msgid "Your theme has been successfully created in %1."
 msgstr "Biredäge tışlaw %1 eçendä uñışlı qorıldı."
 
-#: kthememanager.cpp:293
+#: kthememanager.cpp:296
 msgid "Theme Created"
 msgstr "Tışlaw Yasaldı"
 
-#: kthememanager.cpp:295
+#: kthememanager.cpp:298
 msgid "An error occurred while creating your theme."
 msgstr "Bu tışlawnı yasağanda xata kilep çıqtı."
 
-#: kthememanager.cpp:296
+#: kthememanager.cpp:299
 msgid "Theme Not Created"
 msgstr "Tışlaw Yasalmadı"
 
-#: kthememanager.cpp:323
+#: kthememanager.cpp:326
 msgid "This theme does not contain a preview."
 msgstr "Bu tışlawnıñ aldan küzätü yuq."
 
-#: kthememanager.cpp:328
+#: kthememanager.cpp:331
 msgid "Author: %1<br>Email: %2<br>Version: %3<br>Homepage: %4"
 msgstr "Yazuçı: %1<br>Email: %2<br>Sörem: %3<br>Anabit: %4"
 

@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kicker\n"
-"POT-Creation-Date: 2005-12-21 03:07+0100\n"
+"POT-Creation-Date: 2006-02-21 03:53+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -73,11 +73,11 @@ msgstr "%1 atlı applet yökläp bulmí. Quyılunı tikşerep alası."
 msgid "Applet Loading Error"
 msgstr "Applet Yökläw Xatası"
 
-#: core/container_extension.cpp:1604 core/container_extension.cpp:1617
+#: core/container_extension.cpp:1591 core/container_extension.cpp:1604
 msgid "Show panel"
 msgstr "Tirä kürsätü"
 
-#: core/container_extension.cpp:1608 core/container_extension.cpp:1621
+#: core/container_extension.cpp:1595 core/container_extension.cpp:1608
 msgid "Hide panel"
 msgstr "Tiräne yäşer"
 
@@ -434,44 +434,44 @@ msgstr "%1 (Sulğa)"
 msgid "%1 (Floating)"
 msgstr "%1 (Yözüle)"
 
-#: ui/service_mnu.cpp:261
+#: ui/service_mnu.cpp:262
 msgid "No Entries"
 msgstr "Keremnär Yuq"
 
-#: ui/service_mnu.cpp:268
+#: ui/service_mnu.cpp:269
 msgid "Add This Menu"
 msgstr "Bu Saylaqnı Östä"
 
-#: ui/service_mnu.cpp:273
+#: ui/service_mnu.cpp:274
 #, fuzzy
 msgid "Add Non-KDE Application"
 msgstr "KDE-tügel Yazılım Caylawı"
 
-#: ui/service_mnu.cpp:530
+#: ui/service_mnu.cpp:531
 msgid "Add Item to Desktop"
 msgstr "Östälgä Kerem Östä"
 
-#: ui/service_mnu.cpp:536
+#: ui/service_mnu.cpp:537
 msgid "Add Item to Main Panel"
 msgstr "Töp Tirägä Kerem Östä"
 
-#: ui/service_mnu.cpp:542
+#: ui/service_mnu.cpp:543
 msgid "Edit Item"
 msgstr "Kerem Üzgärtü"
 
-#: ui/service_mnu.cpp:548
+#: ui/service_mnu.cpp:549
 msgid "Put Into Run Dialog"
 msgstr "Cibärü Täräzäsenä Sal"
 
-#: ui/service_mnu.cpp:557
+#: ui/service_mnu.cpp:558
 msgid "Add Menu to Desktop"
 msgstr "Östälgä Saylaq Östä"
 
-#: ui/service_mnu.cpp:563
+#: ui/service_mnu.cpp:564
 msgid "Add Menu to Main Panel"
 msgstr "Töp Tirägä Saylaq Östä"
 
-#: ui/service_mnu.cpp:569
+#: ui/service_mnu.cpp:570
 msgid "Edit Menu"
 msgstr "Saylaq Üzgärtü"
 

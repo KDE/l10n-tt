@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmkicker\n"
-"POT-Creation-Date: 2005-11-01 02:39+0100\n"
+"POT-Creation-Date: 2006-01-13 03:13+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -181,7 +181,7 @@ msgstr ""
 msgid "Quick Browser"
 msgstr "Tiz Gizgeç"
 
-#: menutab_impl.cpp:174
+#: menutab_impl.cpp:176
 msgid ""
 "The KDE menu editor (kmenuedit) could not be launched.\n"
 "Perhaps it is not installed or not in your path."
@@ -189,7 +189,7 @@ msgstr ""
 "KDE'neñ saylaq tözätkeçen (kmenuedit) cibärep bulmí.\n"
 "Ul yä quyılmadı, yä biredäge yulda yuq."
 
-#: menutab_impl.cpp:176
+#: menutab_impl.cpp:178
 msgid "Application Missing"
 msgstr "Yazılım Barlıqta Yuq"
 

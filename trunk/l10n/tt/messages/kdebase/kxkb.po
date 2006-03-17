@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kxkb\n"
-"POT-Creation-Date: 2006-01-03 03:12+0100\n"
+"POT-Creation-Date: 2006-02-24 03:47+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,21 +12,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: kxkb.cpp:86
-msgid "Error changing keyboard layout to '%1'"
-msgstr "Töylekne '%1' köyläwenä küçerep bulmadı"
-
-#: kxkb.cpp:113
-msgid "Configure..."
-msgstr "Caylaw..."
-
-#: kxkb.cpp:612
+#: kxkb.cpp:369
 msgid "A utility to switch keyboard maps"
 msgstr "Töylek köyläwen almaştıru qoralı"
 
-#: kxkb.cpp:616
+#: kxkb.cpp:373
 msgid "KDE Keyboard Tool"
 msgstr "KDE Töylek Qoralı"
+
+#: kxkbtraywindow.cpp:60
+msgid "Error changing keyboard layout to '%1'"
+msgstr "Töylekne '%1' köyläwenä küçerep bulmadı"
+
+#: kxkbtraywindow.cpp:110
+msgid "Configure..."
+msgstr "Caylaw..."
 
 #: pixmap.cpp:149
 msgid "Belgian"

@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmicons\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2006-02-20 03:45+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,76 +12,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: iconthemes.cpp:81
-msgid "Name"
-msgstr "İsem"
-
-#: iconthemes.cpp:82
-msgid "Description"
-msgstr "Açıqlama"
-
-#: iconthemes.cpp:88
-msgid "Install New Theme..."
-msgstr "Yaña Tışlaw Quyu..."
-
-#: iconthemes.cpp:91
-msgid "Remove Theme"
-msgstr "Tışlawnı Beter"
-
-#: iconthemes.cpp:96
-msgid "Select the icon theme you want to use:"
-msgstr "Tamğa öçen qullanası kilgän köylänüne saylaw:"
-
-#: iconthemes.cpp:159
-msgid "Drag or Type Theme URL"
-msgstr "Tışlaw URL'ın Taşlaw yä Cıyu"
-
-#: iconthemes.cpp:170
-#, c-format
-msgid "Unable to find the icon theme archive %1."
-msgstr "Tamğa tışlaw öçen %1 digän tuplamasın tabıp bulmadı."
-
-#: iconthemes.cpp:172
+#: _translatorinfo.cpp:1
 msgid ""
-"Unable to download the icon theme archive;\n"
-"please check that address %1 is correct."
-msgstr ""
-"Bu tamğalı tışlaw tuplamasın iñderep bulmí;\n"
-"%1 adreseneñ tuğrı buluın tikşerep alası."
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Tatarish Localizators"
 
-#: iconthemes.cpp:180
-msgid "The file is not a valid icon theme archive."
-msgstr "Bu birem yaraqlı tamğalı tışlaw tuplaması tügel."
-
-#: iconthemes.cpp:191
+#: _translatorinfo.cpp:3
 msgid ""
-"A problem occurred during the installation process; however, most of the themes "
-"in the archive have been installed"
-msgstr ""
-"Quyu eşendä qíınlıq kilep çıqqan; alay bulsa da, bu tuplamadağı tışlawlarnıñ "
-"kübese quyıldı."
-
-#: iconthemes.cpp:212
-msgid "Installing icon themes"
-msgstr "Tamğalı tışlaw quyu"
-
-#: iconthemes.cpp:230
-msgid "<qt>Installing <strong>%1</strong> theme</qt>"
-msgstr "<qt><strong>%1</strong> tışlaw quyu</qt>"
-
-#: iconthemes.cpp:290
-msgid ""
-"<qt>Are you sure you want to remove the <strong>%1</strong> icon theme?"
-"<br>"
-"<br>This will delete the files installed by this theme.</qt>"
-msgstr ""
-"<qt><strong>%1</strong> digän tamğa tışlawın çınlap ta beteräse me?"
-"<br>"
-"<br>Bu tışlaw quyğan biremnär betereler.</qt>"
-
-#: iconthemes.cpp:298
-msgid "Confirmation"
-msgstr "Raslaw"
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "tatarish-l10n@gmail.com"
 
 #: icons.cpp:45
 msgid "Use of Icon"
@@ -195,6 +136,77 @@ msgstr "Tös:"
 msgid "&Second color:"
 msgstr "İkençe tö&s:"
 
+#: iconthemes.cpp:81
+msgid "Name"
+msgstr "İsem"
+
+#: iconthemes.cpp:82
+msgid "Description"
+msgstr "Açıqlama"
+
+#: iconthemes.cpp:88
+msgid "Install New Theme..."
+msgstr "Yaña Tışlaw Quyu..."
+
+#: iconthemes.cpp:91
+msgid "Remove Theme"
+msgstr "Tışlawnı Beter"
+
+#: iconthemes.cpp:96
+msgid "Select the icon theme you want to use:"
+msgstr "Tamğa öçen qullanası kilgän köylänüne saylaw:"
+
+#: iconthemes.cpp:159
+msgid "Drag or Type Theme URL"
+msgstr "Tışlaw URL'ın Taşlaw yä Cıyu"
+
+#: iconthemes.cpp:170
+#, c-format
+msgid "Unable to find the icon theme archive %1."
+msgstr "Tamğa tışlaw öçen %1 digän tuplamasın tabıp bulmadı."
+
+#: iconthemes.cpp:172
+msgid ""
+"Unable to download the icon theme archive;\n"
+"please check that address %1 is correct."
+msgstr ""
+"Bu tamğalı tışlaw tuplamasın iñderep bulmí;\n"
+"%1 adreseneñ tuğrı buluın tikşerep alası."
+
+#: iconthemes.cpp:180
+msgid "The file is not a valid icon theme archive."
+msgstr "Bu birem yaraqlı tamğalı tışlaw tuplaması tügel."
+
+#: iconthemes.cpp:191
+msgid ""
+"A problem occurred during the installation process; however, most of the themes "
+"in the archive have been installed"
+msgstr ""
+"Quyu eşendä qíınlıq kilep çıqqan; alay bulsa da, bu tuplamadağı tışlawlarnıñ "
+"kübese quyıldı."
+
+#: iconthemes.cpp:212
+msgid "Installing icon themes"
+msgstr "Tamğalı tışlaw quyu"
+
+#: iconthemes.cpp:230
+msgid "<qt>Installing <strong>%1</strong> theme</qt>"
+msgstr "<qt><strong>%1</strong> tışlaw quyu</qt>"
+
+#: iconthemes.cpp:290
+msgid ""
+"<qt>Are you sure you want to remove the <strong>%1</strong> icon theme?"
+"<br>"
+"<br>This will delete the files installed by this theme.</qt>"
+msgstr ""
+"<qt><strong>%1</strong> digän tamğa tışlawın çınlap ta beteräse me?"
+"<br>"
+"<br>Bu tışlaw quyğan biremnär betereler.</qt>"
+
+#: iconthemes.cpp:298
+msgid "Confirmation"
+msgstr "Raslaw"
+
 #: main.cpp:47
 msgid "&Theme"
 msgstr "&Tışlaw"
@@ -239,15 +251,3 @@ msgstr ""
 "<p>Bu modul aşa quyılğan köyläneşlärne genä \"Köyläneşne Beter\" digän töymä "
 "aşa beterep bula. Töp köyläneşlärne beterep bulmí.</p>"
 "<p>Tamğalarda qullanası tä'sirlärne dä saylap bula.</p>"
-
-#: _translatorinfo.cpp:1
-msgid ""
-"_: NAME OF TRANSLATORS\n"
-"Your names"
-msgstr "Tatarish Localizators"
-
-#: _translatorinfo.cpp:3
-msgid ""
-"_: EMAIL OF TRANSLATORS\n"
-"Your emails"
-msgstr "tatarish-l10n@gmail.com"

@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase nsplugin\n"
-"POT-Creation-Date: 2005-12-20 03:07+0100\n"
+"POT-Creation-Date: 2006-01-08 03:13+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -54,15 +54,15 @@ msgstr "Netscape quşılması turında"
 msgid "Unnamed plugin"
 msgstr "Atalmağan quşılma"
 
-#: pluginscan.cpp:492 pluginscan.cpp:495
+#: pluginscan.cpp:493 pluginscan.cpp:496
 msgid "Netscape plugin viewer"
 msgstr "Netscape quşılma kürsätkeçe"
 
-#: pluginscan.cpp:545
+#: pluginscan.cpp:546
 msgid "Show progress output for GUI"
 msgstr "Çığaru alğabarışın kürsätü"
 
-#: pluginscan.cpp:552
+#: pluginscan.cpp:553
 msgid "nspluginscan"
 msgstr "nspluginscan"
 
