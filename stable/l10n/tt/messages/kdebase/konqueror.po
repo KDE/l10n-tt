@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase konqueror\n"
-"POT-Creation-Date: 2006-03-16 03:51+0100\n"
+"POT-Creation-Date: 2006-03-18 04:02+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -678,7 +678,7 @@ msgstr "Başqa tabaqlarnıñ çınlap ta barısın da yabasımı?"
 msgid "Close Other Tabs Confirmation"
 msgstr "Başqa Tabaqlarnı Yabu Belän Kileşü"
 
-#: konq_mainwindow.cc:2760 konq_mainwindow.cc:3801 konq_tabs.cc:422
+#: konq_mainwindow.cc:2760 konq_mainwindow.cc:3801 konq_tabs.cc:421
 msgid "Close &Other Tabs"
 msgstr "&Başqa Tabaqnı Yap"
 
@@ -888,7 +888,7 @@ msgstr "Küreneş Köyläwen &Caylaw..."
 msgid "Load &View Profile"
 msgstr "&Küreneş Köyläwen Yöklä"
 
-#: konq_mainwindow.cc:3833 konq_tabs.cc:400
+#: konq_mainwindow.cc:3833 konq_tabs.cc:399
 msgid "&Reload All Tabs"
 msgstr "&Bar Yafranı Qabat Yöklä"
 
@@ -1261,30 +1261,30 @@ msgstr ""
 "qullanıp bula. Açıq bit başlığı tabaq başlığına quyıla."
 
 #: konq_tabs.cc:89
-msgid "&Duplicate Tab"
-msgstr "Tabaqnı &Qabatla"
-
-#: konq_tabs.cc:95
 msgid "&Reload Tab"
 msgstr "&Yafranı Qabat Yöklä"
 
-#: konq_tabs.cc:101
-msgid "Other Tabs"
-msgstr "Başqa Tabaq"
+#: konq_tabs.cc:94
+msgid "&Duplicate Tab"
+msgstr "Tabaqnı &Qabatla"
 
-#: konq_tabs.cc:106
+#: konq_tabs.cc:100
 msgid "D&etach Tab"
 msgstr "Tabaqnı &Ayır"
 
-#: konq_tabs.cc:113
+#: konq_tabs.cc:107
+msgid "Other Tabs"
+msgstr "Başqa Tabaq"
+
+#: konq_tabs.cc:112
 msgid "&Close Tab"
 msgstr "&Tabaqnı Yap"
 
-#: konq_tabs.cc:145
+#: konq_tabs.cc:144
 msgid "Open a new tab"
 msgstr "Yaña tabaq aç"
 
-#: konq_tabs.cc:154
+#: konq_tabs.cc:153
 msgid "Close the current tab"
 msgstr "Biredäge tabaqnı yap"
 

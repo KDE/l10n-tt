@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmkicker\n"
-"POT-Creation-Date: 2006-01-13 03:13+0100\n"
+"POT-Creation-Date: 2006-03-18 04:02+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -119,11 +119,11 @@ msgstr "Öske taqta yäşerü töymäsen kürsä&t"
 msgid "Show bottom panel-hiding bu&tton"
 msgstr "Asqı taqta yäşerü töymäsen kürsä&tü"
 
-#: lookandfeeltab_impl.cpp:66
+#: lookandfeeltab_impl.cpp:67
 msgid "Select Image File"
 msgstr "Küreneş faylın sayla"
 
-#: lookandfeeltab_impl.cpp:140
+#: lookandfeeltab_impl.cpp:144
 msgid ""
 "Error loading theme image file.\n"
 "\n"
