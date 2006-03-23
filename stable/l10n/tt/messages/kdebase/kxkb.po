@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kxkb\n"
-"POT-Creation-Date: 2006-03-10 03:51+0100\n"
+"POT-Creation-Date: 2006-03-23 03:55+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -28,411 +28,411 @@ msgstr "Töylekne '%1' köyläwenä küçerep bulmadı"
 msgid "Configure..."
 msgstr "Caylaw..."
 
-#: pixmap.cpp:263
+#: pixmap.cpp:265
 msgid "Belgian"
 msgstr "Belgiale"
 
-#: pixmap.cpp:264
+#: pixmap.cpp:266
 msgid "Bulgarian"
 msgstr "Bulgarça"
 
-#: pixmap.cpp:265
+#: pixmap.cpp:267
 msgid "Brazilian"
 msgstr "Brazille"
 
-#: pixmap.cpp:266
+#: pixmap.cpp:268
 msgid "Canadian"
 msgstr "Kanadalı"
 
-#: pixmap.cpp:267
+#: pixmap.cpp:269
 msgid "Czech"
 msgstr "Çexçä"
 
-#: pixmap.cpp:268
+#: pixmap.cpp:270
 msgid "Czech (qwerty)"
 msgstr "Çexçä (qwerty)"
 
-#: pixmap.cpp:269
+#: pixmap.cpp:271
 msgid "Danish"
 msgstr "Dança"
 
-#: pixmap.cpp:270
+#: pixmap.cpp:272
 msgid "Estonian"
 msgstr "Estonça"
 
-#: pixmap.cpp:271
+#: pixmap.cpp:273
 msgid "Finnish"
 msgstr "Finçä"
 
-#: pixmap.cpp:272
+#: pixmap.cpp:274
 msgid "French"
 msgstr "Fransça"
 
-#: pixmap.cpp:273
+#: pixmap.cpp:275
 msgid "German"
 msgstr "Almança"
 
-#: pixmap.cpp:274
+#: pixmap.cpp:276
 msgid "Hungarian"
 msgstr "Macarça"
 
-#: pixmap.cpp:275
+#: pixmap.cpp:277
 msgid "Hungarian (qwerty)"
 msgstr "Macarça (qwerty)"
 
-#: pixmap.cpp:276
+#: pixmap.cpp:278
 msgid "Italian"
 msgstr "İtalça"
 
-#: pixmap.cpp:277
+#: pixmap.cpp:279
 msgid "Japanese"
 msgstr "Japança"
 
-#: pixmap.cpp:278
+#: pixmap.cpp:280
 msgid "Lithuanian"
 msgstr "Litçä"
 
-#: pixmap.cpp:279
+#: pixmap.cpp:281
 msgid "Norwegian"
 msgstr "Norwejçä"
 
-#: pixmap.cpp:280
+#: pixmap.cpp:282
 msgid "PC-98xx Series"
 msgstr "PC-98xx Törkeme"
 
-#: pixmap.cpp:281
+#: pixmap.cpp:283
 msgid "Polish"
 msgstr "Polça"
 
-#: pixmap.cpp:282
+#: pixmap.cpp:284
 msgid "Portuguese"
 msgstr "Portugalça"
 
-#: pixmap.cpp:283
+#: pixmap.cpp:285
 msgid "Romanian"
 msgstr "Romança"
 
-#: pixmap.cpp:284
+#: pixmap.cpp:286
 msgid "Russian"
 msgstr "Urısça"
 
-#: pixmap.cpp:285
+#: pixmap.cpp:287
 msgid "Slovak"
 msgstr "Slovakça"
 
-#: pixmap.cpp:286
+#: pixmap.cpp:288
 msgid "Slovak (qwerty)"
 msgstr "Slovakça (qwerty)"
 
-#: pixmap.cpp:287
+#: pixmap.cpp:289
 msgid "Spanish"
 msgstr "İspança"
 
-#: pixmap.cpp:288
+#: pixmap.cpp:290
 msgid "Swedish"
 msgstr "İswäcçä"
 
-#: pixmap.cpp:289
+#: pixmap.cpp:291
 msgid "Swiss German"
 msgstr "Almança (İswiçrä)"
 
-#: pixmap.cpp:290
+#: pixmap.cpp:292
 msgid "Swiss French"
 msgstr "Fransça (İswiçrä)"
 
-#: pixmap.cpp:291
+#: pixmap.cpp:293
 msgid "Thai"
 msgstr "Tayça"
 
-#: pixmap.cpp:292
+#: pixmap.cpp:294
 msgid "United Kingdom"
 msgstr "Berläşkän Padşahlıq"
 
-#: pixmap.cpp:293
+#: pixmap.cpp:295
 msgid "U.S. English"
 msgstr "İnglizçä (AQŞ)"
 
-#: pixmap.cpp:294
+#: pixmap.cpp:296
 msgid "U.S. English w/ deadkeys"
 msgstr "İnglizçä (AQŞ, ülgäntöymä belän)"
 
-#: pixmap.cpp:295
+#: pixmap.cpp:297
 msgid "U.S. English w/ISO9995-3"
 msgstr "İnglizçä (AQŞ, ISO9995-3 belän)"
 
-#: pixmap.cpp:298
+#: pixmap.cpp:300
 msgid "Armenian"
 msgstr "Ärmänçä"
 
-#: pixmap.cpp:299
+#: pixmap.cpp:301
 msgid "Azerbaijani"
 msgstr "Äzerçä"
 
-#: pixmap.cpp:300
+#: pixmap.cpp:302
 msgid "Icelandic"
 msgstr "İslandça"
 
-#: pixmap.cpp:301
+#: pixmap.cpp:303
 msgid "Israeli"
 msgstr "İsraelçä"
 
-#: pixmap.cpp:302
+#: pixmap.cpp:304
 msgid "Lithuanian azerty standard"
 msgstr "Lituaça, azerty"
 
-#: pixmap.cpp:303
+#: pixmap.cpp:305
 msgid "Lithuanian querty \"numeric\""
 msgstr "Lituaça, querty \"sanlı\""
 
-#: pixmap.cpp:304
+#: pixmap.cpp:306
 msgid "Lithuanian querty \"programmer's\""
 msgstr "Lituaça, querty \"programçı\""
 
-#: pixmap.cpp:305
+#: pixmap.cpp:307
 msgid "Macedonian"
 msgstr "Makedonça"
 
-#: pixmap.cpp:306
+#: pixmap.cpp:308
 msgid "Serbian"
 msgstr "Serbçä"
 
-#: pixmap.cpp:307
+#: pixmap.cpp:309
 msgid "Slovenian"
 msgstr "Slovençä"
 
-#: pixmap.cpp:308
+#: pixmap.cpp:310
 msgid "Vietnamese"
 msgstr "Vietnamça"
 
-#: pixmap.cpp:311
+#: pixmap.cpp:313
 msgid "Arabic"
 msgstr "Ğäräpçä"
 
-#: pixmap.cpp:312
+#: pixmap.cpp:314
 msgid "Belarusian"
 msgstr "Belarusça"
 
-#: pixmap.cpp:313
+#: pixmap.cpp:315
 msgid "Bengali"
 msgstr "Bengalça"
 
-#: pixmap.cpp:314
+#: pixmap.cpp:316
 msgid "Croatian"
 msgstr "Kroatça"
 
-#: pixmap.cpp:315
+#: pixmap.cpp:317
 msgid "Greek"
 msgstr "Yunança"
 
-#: pixmap.cpp:316
+#: pixmap.cpp:318
 msgid "Latvian"
 msgstr "Latça"
 
-#: pixmap.cpp:317
+#: pixmap.cpp:319
 msgid "Lithuanian qwerty \"numeric\""
 msgstr "Lituaça, qwerty \"sanlı\""
 
-#: pixmap.cpp:318
+#: pixmap.cpp:320
 msgid "Lithuanian qwerty \"programmer's\""
 msgstr "Lituaça, qwerty \"programçı\""
 
-#: pixmap.cpp:319
+#: pixmap.cpp:321
 msgid "Turkish"
 msgstr "Törekçä"
 
-#: pixmap.cpp:320
+#: pixmap.cpp:322
 msgid "Ukrainian"
 msgstr "Ukrainça"
 
-#: pixmap.cpp:323
+#: pixmap.cpp:325
 msgid "Albanian"
 msgstr "Albança"
 
-#: pixmap.cpp:324
+#: pixmap.cpp:326
 msgid "Burmese"
 msgstr "Burmesçä"
 
-#: pixmap.cpp:325
+#: pixmap.cpp:327
 msgid "Dutch"
 msgstr "Dutça"
 
-#: pixmap.cpp:326
+#: pixmap.cpp:328
 msgid "Georgian (latin)"
 msgstr "Görceçä (latinälif)"
 
-#: pixmap.cpp:327
+#: pixmap.cpp:329
 msgid "Georgian (russian)"
 msgstr "Görceçä (urısälif)"
 
-#: pixmap.cpp:328
+#: pixmap.cpp:330
 msgid "Gujarati"
 msgstr "Gujaratça"
 
-#: pixmap.cpp:329
+#: pixmap.cpp:331
 msgid "Gurmukhi"
 msgstr "Gurmuxi"
 
-#: pixmap.cpp:330
+#: pixmap.cpp:332
 msgid "Hindi"
 msgstr "Hindçä"
 
-#: pixmap.cpp:331
+#: pixmap.cpp:333
 msgid "Inuktitut"
 msgstr "İnuktitutça"
 
-#: pixmap.cpp:332
+#: pixmap.cpp:334
 msgid "Iranian"
 msgstr "İrança"
 
-#: pixmap.cpp:334
+#: pixmap.cpp:336
 msgid "Latin America"
 msgstr "Latin Amerika"
 
-#: pixmap.cpp:335
+#: pixmap.cpp:337
 msgid "Maltese"
 msgstr "Maltesçä"
 
-#: pixmap.cpp:336
+#: pixmap.cpp:338
 msgid "Maltese (US layout)"
 msgstr "Maltese (AQŞ caylawı)"
 
-#: pixmap.cpp:337
+#: pixmap.cpp:339
 msgid "Northern Saami (Finland)"
 msgstr "Tönyaq Saami (Finland)"
 
-#: pixmap.cpp:338
+#: pixmap.cpp:340
 msgid "Northern Saami (Norway)"
 msgstr "Tönyaq Saami (Norvegia)"
 
-#: pixmap.cpp:339
+#: pixmap.cpp:341
 msgid "Northern Saami (Sweden)"
 msgstr "Tönyaq Saami (İswäc)"
 
-#: pixmap.cpp:340
+#: pixmap.cpp:342
 msgid "Polish (qwertz)"
 msgstr "Polça (qwertz)"
 
-#: pixmap.cpp:341
+#: pixmap.cpp:343
 msgid "Russian (cyrillic phonetic)"
 msgstr "Urısça (yañğıraw buyınça)"
 
-#: pixmap.cpp:342
+#: pixmap.cpp:344
 msgid "Tajik"
 msgstr "Tajıqça"
 
-#: pixmap.cpp:343
+#: pixmap.cpp:345
 msgid "Turkish (F)"
 msgstr "Törekçä (F)"
 
-#: pixmap.cpp:344
+#: pixmap.cpp:346
 msgid "U.S. English w/ ISO9995-3"
 msgstr "İnglizçä (AQŞ, ISO9995-3 belän)"
 
-#: pixmap.cpp:345
+#: pixmap.cpp:347
 msgid "Yugoslavian"
 msgstr "Yugoslavça"
 
-#: pixmap.cpp:348
+#: pixmap.cpp:350
 msgid "Bosnian"
 msgstr "Bosniçä"
 
-#: pixmap.cpp:349
+#: pixmap.cpp:351
 msgid "Croatian (US)"
 msgstr "Kroatça (AQŞ)"
 
-#: pixmap.cpp:350
+#: pixmap.cpp:352
 msgid "Dvorak"
 msgstr "Dvorak"
 
-#: pixmap.cpp:351
+#: pixmap.cpp:353
 msgid "French (alternative)"
 msgstr "Fransça (başqası)"
 
-#: pixmap.cpp:352
+#: pixmap.cpp:354
 msgid "French Canadian"
 msgstr "Fransça (Kanada)"
 
-#: pixmap.cpp:353
+#: pixmap.cpp:355
 msgid "Kannada"
 msgstr "Kannadça"
 
-#: pixmap.cpp:354
+#: pixmap.cpp:356
 msgid "Lao"
 msgstr "Laoça"
 
-#: pixmap.cpp:355
+#: pixmap.cpp:357
 msgid "Malayalam"
 msgstr "Malayalamça"
 
-#: pixmap.cpp:356
+#: pixmap.cpp:358
 msgid "Mongolian"
 msgstr "Moğolça"
 
-#: pixmap.cpp:357
+#: pixmap.cpp:359
 msgid "Ogham"
 msgstr "Ogham"
 
-#: pixmap.cpp:358
+#: pixmap.cpp:360
 msgid "Oriya"
 msgstr "Oriyaça"
 
-#: pixmap.cpp:359
+#: pixmap.cpp:361
 msgid "Syriac"
 msgstr "Süriä"
 
-#: pixmap.cpp:360
+#: pixmap.cpp:362
 msgid "Telugu"
 msgstr "Teluguça"
 
-#: pixmap.cpp:361
+#: pixmap.cpp:363
 msgid "Thai (Kedmanee)"
 msgstr "Thayça (Kedmanee)"
 
-#: pixmap.cpp:362
+#: pixmap.cpp:364
 msgid "Thai (Pattachote)"
 msgstr "Thayça (Pattachote)"
 
-#: pixmap.cpp:363
+#: pixmap.cpp:365
 msgid "Thai (TIS-820.2538)"
 msgstr "Thayça (TIS-820.2538)"
 
-#: pixmap.cpp:366
+#: pixmap.cpp:368
 msgid "Uzbek"
 msgstr "Üzbäkçä"
 
-#: pixmap.cpp:367
+#: pixmap.cpp:369
 msgid "Faroese"
 msgstr "Farosça"
 
-#: pixmap.cpp:370
+#: pixmap.cpp:372
 msgid "Dzongkha / Tibetan"
 msgstr ""
 
-#: pixmap.cpp:371
+#: pixmap.cpp:373
 #, fuzzy
 msgid "Hungarian (US)"
 msgstr "Macarça"
 
-#: pixmap.cpp:372
+#: pixmap.cpp:374
 #, fuzzy
 msgid "Irish"
 msgstr "Törekçä"
 
-#: pixmap.cpp:373
+#: pixmap.cpp:375
 #, fuzzy
 msgid "Israeli (phonetic)"
 msgstr "Urısça (yañğıraw buyınça)"
 
-#: pixmap.cpp:374
+#: pixmap.cpp:376
 msgid "Serbian (Cyrillic)"
 msgstr ""
 
-#: pixmap.cpp:375
+#: pixmap.cpp:377
 #, fuzzy
 msgid "Serbian (Latin)"
 msgstr "Görceçä (latinälif)"
 
-#: pixmap.cpp:376
+#: pixmap.cpp:378
 #, fuzzy
 msgid "Swiss"
 msgstr "İswäcçä"
