@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmkwm\n"
-"POT-Creation-Date: 2005-08-12 01:42+0200\n"
+"POT-Creation-Date: 2006-03-27 03:52+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -890,7 +890,7 @@ msgstr ""
 msgid "Snap Zones"
 msgstr "Çik Alanı"
 
-#: windows.cpp:900 windows.cpp:910
+#: windows.cpp:900 windows.cpp:909
 msgid "none"
 msgstr "yuq"
 
@@ -898,11 +898,7 @@ msgstr "yuq"
 msgid "&Border snap zone:"
 msgstr "&Çikkä çirtü alanı:"
 
-#: windows.cpp:903 windows.cpp:913
-msgid " pixels"
-msgstr " noqta"
-
-#: windows.cpp:905
+#: windows.cpp:904
 msgid ""
 "Here you can set the snap zone for screen borders, i.e. the 'strength' of the "
 "magnetic field which will make windows snap to the border when moved near it."
@@ -910,11 +906,11 @@ msgstr ""
 "Östäl çigendä täräzäne çikkä tartuçı ara kiñlege, yäğni tärazälärne östäl "
 "çigenä tartuçı ara."
 
-#: windows.cpp:912
+#: windows.cpp:911
 msgid "&Window snap zone:"
 msgstr "&Täräzägä çirtü alanı:"
 
-#: windows.cpp:915
+#: windows.cpp:913
 msgid ""
 "Here you can set the snap zone for windows, i.e. the 'strength' of the magnetic "
 "field which will make windows snap to each other when they're moved near "
@@ -923,11 +919,11 @@ msgstr ""
 "Täräzä çigendä täräzäne çikkä tartuçı ara kiñlege, yäğni tärazälärne ber "
 "bersenä yabıştıruçı ara."
 
-#: windows.cpp:919
+#: windows.cpp:917
 msgid "Snap windows onl&y when overlapping"
 msgstr "Täräzälär qaplansa ğına &tartıp quyası"
 
-#: windows.cpp:920
+#: windows.cpp:918
 msgid ""
 "Here you can set that windows will be only snapped if you try to overlap them, "
 "i.e. they will not be snapped if the windows comes only near another window or "
@@ -936,7 +932,13 @@ msgstr ""
 "Täräzälär ber bersen qaplap torsalar ğına alarnı östäl çigenä yä ki ber bersenä "
 "tartıp quyası."
 
-#: windows.cpp:1206
+#: windows.cpp:1015 windows.cpp:1019
+msgid ""
+"_n:  pixel\n"
+" pixels"
+msgstr ""
+
+#: windows.cpp:1218
 msgid ""
 "<qt><b>It seems that alpha channel support is not available.</b>"
 "<br>"
@@ -971,108 +973,111 @@ msgstr ""
 "<br><i>Option     \"RenderAccel\" \"true\"</i>"
 "<br>In <i>Section \"Device\"</i></qt>"
 
-#: windows.cpp:1226
+#: windows.cpp:1238
 msgid "Apply translucency only to decoration"
 msgstr "Bizäkläw öçen tonıqlıq ğına aşırası"
 
-#: windows.cpp:1234
+#: windows.cpp:1246
 msgid "Active windows:"
 msgstr "Eşçän täräzälär:"
 
-#: windows.cpp:1241
+#: windows.cpp:1253
 msgid "Inactive windows:"
 msgstr "Astağı täräzälär:"
 
-#: windows.cpp:1248
+#: windows.cpp:1260
 msgid "Moving windows:"
 msgstr "Täräzä küçerü:"
 
-#: windows.cpp:1255
+#: windows.cpp:1267
 msgid "Dock windows:"
 msgstr "Yataq täräzälär:"
 
-#: windows.cpp:1264
+#: windows.cpp:1276
 msgid "Treat 'keep above' windows as active ones"
 msgstr "'Östä Totası' digän täräzälärne barçaqta eşüzäktä itep sanísı"
 
-#: windows.cpp:1267
+#: windows.cpp:1279
 msgid "Disable ARGB windows (ignores window alpha maps, fixes gtk1 apps)"
 msgstr ""
 "ARGB-täräzälärne sünderü (täräzäneñ alfa-xarítasın yuq sanaw, gtk1-yazılım "
 "tözätü)"
 
-#: windows.cpp:1271
+#: windows.cpp:1283
 msgid "Opacity"
 msgstr "T&onıqlıq"
 
-#: windows.cpp:1277
+#: windows.cpp:1289
 msgid "Use shadows"
 msgstr "Külägä qullanası"
 
-#: windows.cpp:1285
+#: windows.cpp:1297
 msgid "Active window size:"
 msgstr "Eşçän täräzä ülçäme:"
 
-#: windows.cpp:1292
+#: windows.cpp:1304
 msgid "Inactive window size:"
 msgstr "Astağı täräzä ülçäme:"
 
-#: windows.cpp:1299
+#: windows.cpp:1311
 msgid "Dock window size:"
 msgstr "Yataq täräzä ülçäme:"
 
-#: windows.cpp:1306
+#: windows.cpp:1318
 msgid "Vertical offset:"
 msgstr "Asma çigeş:"
 
-#: windows.cpp:1313
+#: windows.cpp:1325
 msgid "Horizontal offset:"
 msgstr "Yatma çigeş:"
 
-#: windows.cpp:1320
+#: windows.cpp:1332
 msgid "Shadow color:"
 msgstr "Külägä töse:"
 
-#: windows.cpp:1326
+#: windows.cpp:1338
 msgid "Remove shadows on move"
 msgstr "Küçkändä külägä beteräse"
 
-#: windows.cpp:1328
+#: windows.cpp:1340
 msgid "Remove shadows on resize"
 msgstr "Ülçäm üzgändä külägä beteräse"
 
-#: windows.cpp:1331
+#: windows.cpp:1343
 msgid "Shadows"
 msgstr "Külägä"
 
-#: windows.cpp:1336
+#: windows.cpp:1348
 msgid "Fade-in windows (including popups)"
 msgstr "Suışıp-çığuçı täräzä (atılmada da)"
 
-#: windows.cpp:1337
+#: windows.cpp:1349
 msgid "Fade between opacity changes"
 msgstr "Ütäkürenüne üzgärtep çığu"
 
-#: windows.cpp:1340
+#: windows.cpp:1352
 msgid "Fade-in speed:"
 msgstr ""
 
-#: windows.cpp:1343
+#: windows.cpp:1355
 msgid "Fade-out speed:"
 msgstr ""
 
-#: windows.cpp:1350
+#: windows.cpp:1362
 msgid "Effects"
 msgstr "Tä'sir"
 
-#: windows.cpp:1352
+#: windows.cpp:1364
 msgid "Use translucency/shadows"
 msgstr "Ütäkürenü/külägä qullanası"
 
-#: windows.cpp:1604
+#: windows.cpp:1616
 msgid ""
 "<qt>Translucency support is new and may cause problems"
 "<br> including crashes (sometimes the translucency engine, seldom even X).</qt>"
 msgstr ""
 "<qt>Ütäkürenüne totu küptän tügel genä barlıqqa kilde, şuña kürä qíınlıqlarnıñ "
 "kilep çığuı bar.</qt>"
+
+#~ msgid " pixels"
+#~ msgstr " noqta"

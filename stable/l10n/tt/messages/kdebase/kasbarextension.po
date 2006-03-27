@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kasbarextension\n"
-"POT-Creation-Date: 2005-05-27 01:21+0200\n"
+"POT-Creation-Date: 2006-03-27 03:52+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -146,11 +146,7 @@ msgstr "Keçe"
 msgid "Custom"
 msgstr "Köyläwle"
 
-#: kasprefsdlg.cpp:145
-msgid " Pixels"
-msgstr " Noqta"
-
-#: kasprefsdlg.cpp:161
+#: kasprefsdlg.cpp:162
 msgid ""
 "Specifies the maximum number of items that should be placed in a line before "
 "starting a new row or column. If the value is 0 then all the available space "
@@ -159,63 +155,63 @@ msgstr ""
 "Yaña yul yä ki bağana başlar aldınnan yulğa iñ küp niçä maddä kerä alğanın "
 "bilgeli. San 0 bulsa, barlıq yaraqlı urın qullanılaçaq."
 
-#: kasprefsdlg.cpp:164
+#: kasprefsdlg.cpp:165
 msgid "Bo&xes per line: "
 msgstr "Yul sayın şaq&maq: "
 
-#: kasprefsdlg.cpp:180
+#: kasprefsdlg.cpp:181
 msgid "&Detach from screen edge"
 msgstr "Küräk poçmağınnan &ayırası"
 
-#: kasprefsdlg.cpp:181
+#: kasprefsdlg.cpp:182
 msgid "Detaches the bar from the screen edge and makes it draggable."
 msgstr "Taqtanı ekran qıríınnan ayırıp, taşırlıq yasí."
 
-#: kasprefsdlg.cpp:194
+#: kasprefsdlg.cpp:195
 msgid "Background"
 msgstr "Asyaq"
 
-#: kasprefsdlg.cpp:196
+#: kasprefsdlg.cpp:197
 msgid "Trans&parent"
 msgstr "Ü&täkürenü"
 
-#: kasprefsdlg.cpp:197
+#: kasprefsdlg.cpp:198
 msgid "Enables pseudo-transparent mode."
 msgstr "Almaş-ütäkürenü ısulın açu."
 
-#: kasprefsdlg.cpp:201
+#: kasprefsdlg.cpp:202
 msgid "Enable t&int"
 msgstr "&Tösmer belän"
 
-#: kasprefsdlg.cpp:203
+#: kasprefsdlg.cpp:204
 msgid "Enables tinting the background that shows through in transparent mode."
 msgstr "Arqa plannı tonıqlawnı sälätländerä."
 
-#: kasprefsdlg.cpp:209
+#: kasprefsdlg.cpp:210
 msgid "Specifies the color used for the background tint."
 msgstr "Arqa plannı tonıqlawda qullanılğan tösne bilgeli."
 
-#: kasprefsdlg.cpp:213
+#: kasprefsdlg.cpp:214
 msgid "Tint &color:"
 msgstr "Tonıqlaw häm tös:"
 
-#: kasprefsdlg.cpp:222
+#: kasprefsdlg.cpp:223
 msgid "Specifies the strength of the background tint."
 msgstr "Arqa plannı tonıqlaw tiränlegen bilgeli."
 
-#: kasprefsdlg.cpp:226
+#: kasprefsdlg.cpp:227
 msgid "Tint &strength: "
 msgstr "Tonıqlaw häm tiränlek: "
 
-#: kasprefsdlg.cpp:242
+#: kasprefsdlg.cpp:243
 msgid "Thumbnails"
 msgstr "Töymäsürät"
 
-#: kasprefsdlg.cpp:244
+#: kasprefsdlg.cpp:245
 msgid "Enable thu&mbnails"
 msgstr "Töy&mäsürät açası"
 
-#: kasprefsdlg.cpp:246
+#: kasprefsdlg.cpp:247
 msgid ""
 "Enables the display of a thumbnailed image of the window when you move your "
 "mouse pointer over an item. The thumbnails are approximate, and may not reflect "
@@ -228,22 +224,22 @@ msgstr ""
 "\n"
 "Bu mömkinlekne äkren sanaqlarda qullanu eşläw tizlegen kimetä ala."
 
-#: kasprefsdlg.cpp:253
+#: kasprefsdlg.cpp:254
 msgid "&Embed thumbnails"
 msgstr "&Töymäsürätlär berketü"
 
-#: kasprefsdlg.cpp:259
+#: kasprefsdlg.cpp:260
 msgid ""
 "Controls the size of the window thumbnails. Using large sizes may cause "
 "performance problems."
 msgstr ""
 "Täräzä eskizları zurlığın bilgeli. Zur eskiz qullanu eş tizlegen kimetä ala."
 
-#: kasprefsdlg.cpp:261
+#: kasprefsdlg.cpp:262
 msgid "Thumbnail &size: "
 msgstr "Töymäsürät &ülçäme: "
 
-#: kasprefsdlg.cpp:271
+#: kasprefsdlg.cpp:272
 msgid ""
 "Controls the frequency with which the thumbnail of the active window is "
 "updated. If the value is 0 then no updates will be performed.\n"
@@ -255,52 +251,52 @@ msgstr ""
 "\n"
 "Keçe san bilgeläw äkren sanaqlarda eşläw tizlegen kimetä ala."
 
-#: kasprefsdlg.cpp:274
+#: kasprefsdlg.cpp:275
 msgid "&Update thumbnail every: "
 msgstr "Töymäsürät &yañartu arası: "
 
-#: kasprefsdlg.cpp:279
+#: kasprefsdlg.cpp:280
 msgid "seconds"
 msgstr "sekund"
 
-#: kasprefsdlg.cpp:289
+#: kasprefsdlg.cpp:290
 msgid "Behavior"
 msgstr "Eşlise eş"
 
-#: kasprefsdlg.cpp:291
+#: kasprefsdlg.cpp:292
 msgid "&Group windows"
 msgstr "Täräzälär &törkemläw"
 
-#: kasprefsdlg.cpp:293
+#: kasprefsdlg.cpp:294
 msgid "Enables the grouping together of related windows."
 msgstr "Ber-bersenä qarağan täräzälärneñ törkemläşterelüen sälätländerä"
 
-#: kasprefsdlg.cpp:298
+#: kasprefsdlg.cpp:299
 msgid "Show all &windows"
 msgstr "Bar &täräzälär kürsätü"
 
-#: kasprefsdlg.cpp:300
+#: kasprefsdlg.cpp:301
 msgid ""
 "Enables the display of all windows, not just those on the current desktop."
 msgstr ""
 "Xäzerge östäl östendäge täräzälärne genä tügel, barlıq täräzälär kürsätüen "
 "sälätländerä."
 
-#: kasprefsdlg.cpp:304
+#: kasprefsdlg.cpp:305
 msgid "&Group windows on inactive desktops"
 msgstr "Täräzälär &törkemläw, eşsez öställärdä"
 
-#: kasprefsdlg.cpp:306
+#: kasprefsdlg.cpp:307
 msgid ""
 "Enables the grouping together of windows that are not on the current desktop."
 msgstr ""
 "Xäzerge östäl östendä bulmağan täräzälärneñ törkemläşterelüen sälätländerä."
 
-#: kasprefsdlg.cpp:311
+#: kasprefsdlg.cpp:312
 msgid "Only show &minimized windows"
 msgstr "&Törelgän täräzälär genä kürsätäse"
 
-#: kasprefsdlg.cpp:313
+#: kasprefsdlg.cpp:314
 msgid ""
 "When this option is checked only minimized windows are shown in the bar. This "
 "gives Kasbar similar behavior to the icon handling in older environments like "
@@ -310,55 +306,55 @@ msgstr ""
 "arqasında Kasbar'nıñ ikonnar belän eşläwe CDE yä ki Open Look kebek iskeräk "
 "urtamnardağıraq qılanışına oxşí."
 
-#: kasprefsdlg.cpp:325
+#: kasprefsdlg.cpp:326
 msgid "Colors"
 msgstr "Töslär"
 
-#: kasprefsdlg.cpp:330
+#: kasprefsdlg.cpp:331
 msgid "Label foreground:"
 msgstr "Yazma ösyağı:"
 
-#: kasprefsdlg.cpp:337
+#: kasprefsdlg.cpp:338
 msgid "Label background:"
 msgstr "Yazma asyağı:"
 
-#: kasprefsdlg.cpp:346
+#: kasprefsdlg.cpp:347
 msgid "Inactive foreground:"
 msgstr "Astağınıñ alyağı:"
 
-#: kasprefsdlg.cpp:352
+#: kasprefsdlg.cpp:353
 msgid "Inactive background:"
 msgstr "Astağınıñ artyağı:"
 
-#: kasprefsdlg.cpp:361
+#: kasprefsdlg.cpp:362
 msgid "Active foreground:"
 msgstr "Eşçän alyaq:"
 
-#: kasprefsdlg.cpp:367
+#: kasprefsdlg.cpp:368
 msgid "Active background:"
 msgstr "Eşçän artyaq:"
 
-#: kasprefsdlg.cpp:375
+#: kasprefsdlg.cpp:376
 msgid "&Progress color:"
 msgstr "&Alğa kiteş töse:"
 
-#: kasprefsdlg.cpp:381
+#: kasprefsdlg.cpp:382
 msgid "&Attention color:"
 msgstr "&Belderü töse:"
 
-#: kasprefsdlg.cpp:392
+#: kasprefsdlg.cpp:393
 msgid "Indicators"
 msgstr "İndikator"
 
-#: kasprefsdlg.cpp:400
+#: kasprefsdlg.cpp:401
 msgid "Advanced"
 msgstr "Kiñäytep"
 
-#: kasprefsdlg.cpp:403
+#: kasprefsdlg.cpp:404
 msgid "Enable &startup notifier"
 msgstr "&Cibärelü beldergeç açası"
 
-#: kasprefsdlg.cpp:405
+#: kasprefsdlg.cpp:406
 msgid ""
 "Enables the display of tasks that are starting but have not yet created a "
 "window."
@@ -366,11 +362,11 @@ msgstr ""
 "Başlana torğan, läkin äle täräzäsen qormağan mäs'älälärneñ kürrsätelgänenen "
 "sälätländerä."
 
-#: kasprefsdlg.cpp:411
+#: kasprefsdlg.cpp:412
 msgid "Enable &modified indicator"
 msgstr "Ü&zgäreş indikatorın açası"
 
-#: kasprefsdlg.cpp:413
+#: kasprefsdlg.cpp:414
 msgid ""
 "Enables the display of a floppy disk state icon for windows containing a "
 "modified document."
@@ -378,36 +374,42 @@ msgstr ""
 "Eçendä üzgärtelgän istälek bulğan täräzälärdä disket bilgeneñ kürsätelüen "
 "sälätländerä."
 
-#: kasprefsdlg.cpp:418
+#: kasprefsdlg.cpp:419
 msgid "Enable &progress indicator"
 msgstr "&Alğabarış kürsätüen açası"
 
-#: kasprefsdlg.cpp:420
+#: kasprefsdlg.cpp:421
 msgid ""
 "Enables the display of a progress bar in the label of windows show are progress "
 "indicators."
 msgstr "Täräzä yazmalarında alğabarış tiräsen kürsätüen açu."
 
-#: kasprefsdlg.cpp:425
+#: kasprefsdlg.cpp:426
 msgid "Enable &attention indicator"
 msgstr "Ü&zgäreş indikatorın açası"
 
-#: kasprefsdlg.cpp:427
+#: kasprefsdlg.cpp:428
 msgid ""
 "Enables the display of an icon that indicates a window that needs attention."
 msgstr "Ähämiät täläp itkän täräzägä kürsätkän ikon kürsätelüen sälätländerä."
 
-#: kasprefsdlg.cpp:431
+#: kasprefsdlg.cpp:432
 msgid "Enable frames for inactive items"
 msgstr "Sünek keremnärne qısa belän kürsätäse"
 
-#: kasprefsdlg.cpp:433
+#: kasprefsdlg.cpp:434
 msgid ""
 "Enables frames around inactive items, if you want the bar to disappear into the "
 "background you should probably uncheck this option."
 msgstr ""
 "Aktif bulmağan maddälär tiräli qısalarnı sälätländerä. Taqtanı arqa planğa "
 "yäşerergä teläsäñ, bu saylanmanı bilgelämäskä kiräkter."
+
+#: kasprefsdlg.cpp:445
+msgid ""
+"_n:  pixel\n"
+" pixels"
+msgstr ""
 
 #: kastasker.cpp:154
 msgid "Show &All Windows"
@@ -545,3 +547,6 @@ msgstr ""
 #: kastaskitem.cpp:499
 msgid "NET WM Specification Info"
 msgstr "NET WM Täswirlämä Beleşmäse"
+
+#~ msgid " Pixels"
+#~ msgstr " Noqta"

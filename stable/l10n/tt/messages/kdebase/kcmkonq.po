@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmkonq\n"
-"POT-Creation-Date: 2005-12-28 03:13+0100\n"
+"POT-Creation-Date: 2006-03-27 03:52+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -373,14 +373,6 @@ msgstr ""
 "Bu - östäl östendäge ikonnar tekstını kürsäter öçen artında qullanğan tös."
 
 #: fontopts.cpp:146
-msgid " lines"
-msgstr " yul"
-
-#: fontopts.cpp:147
-msgid "1 line"
-msgstr "1 yul"
-
-#: fontopts.cpp:148
 msgid "H&eight for icon text:"
 msgstr "İkon yazması &bieklege:"
 
@@ -392,15 +384,11 @@ msgstr ""
 "Bu -ikon tekstı öçen kürsäteläçäk iñ zur yul sanı. Ozın birem isemnäre soñğı "
 "yul soñında özeler."
 
-#: fontopts.cpp:164
-msgid " pixels"
-msgstr " noqta"
-
-#: fontopts.cpp:166
+#: fontopts.cpp:165
 msgid "&Width for icon text:"
 msgstr "İkon yazması &kiñlege:"
 
-#: fontopts.cpp:172
+#: fontopts.cpp:173
 msgid ""
 "This is the maximum width for the icon text when konqueror is used in multi "
 "column view mode."
@@ -408,11 +396,11 @@ msgstr ""
 "Bu - konqueror küp bağana küreneñendä qullanğanda ikon tekstınıñ maksimum "
 "kiñlege."
 
-#: fontopts.cpp:180
+#: fontopts.cpp:181
 msgid "&Underline filenames"
 msgstr "Birem adın &sızası"
 
-#: fontopts.cpp:184
+#: fontopts.cpp:185
 msgid ""
 "Checking this option will result in filenames being underlined, so that they "
 "look like links on a web page. Note: to complete the analogy, make sure that "
@@ -422,11 +410,11 @@ msgstr ""
 "oxşaşlıqnı tämamlar öçen küse idäräläre bülegendä yalğız çirtü belän açunı "
 "sälätle itäse bar."
 
-#: fontopts.cpp:193
+#: fontopts.cpp:194
 msgid "Display file sizes in b&ytes"
 msgstr "Birem külämen ba&ytlap kürsätäse"
 
-#: fontopts.cpp:197
+#: fontopts.cpp:198
 msgid ""
 "Checking this option will result in file sizes being displayed in bytes. "
 "Otherwise file sizes are being displayed in kilobytes or megabytes if "
@@ -435,7 +423,19 @@ msgstr ""
 "Bu saylansa, birem zurlıqlarınıñ baytlarda kürsäteler. Yuğisä birem zurlıqları "
 "kilobayt häm megabaytlarda kürsäteler."
 
-#: fontopts.cpp:390
+#: fontopts.cpp:223
+msgid ""
+"_n:  line\n"
+" lines"
+msgstr ""
+
+#: fontopts.cpp:228
+msgid ""
+"_n:  pixel\n"
+" pixels"
+msgstr ""
+
+#: fontopts.cpp:401
 msgid ""
 "<h1>Appearance</h1> You can configure how Konqueror looks as a file manager "
 "here."
@@ -806,3 +806,12 @@ msgstr ""
 #: rootopts.cpp:269
 msgid "Confirmation Required"
 msgstr "Raslísı Bar"
+
+#~ msgid " lines"
+#~ msgstr " yul"
+
+#~ msgid "1 line"
+#~ msgstr "1 yul"
+
+#~ msgid " pixels"
+#~ msgstr " noqta"

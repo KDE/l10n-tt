@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmscreensaver\n"
-"POT-Creation-Date: 2005-09-21 02:57+0200\n"
+"POT-Creation-Date: 2006-03-27 03:52+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -253,27 +253,24 @@ msgstr "Üzennän &cibäräse"
 msgid "Automatically start the screen saver after a period of inactivity."
 msgstr "Eşsez toru arası ütkännän soñ, küräksaqçı üzennän üze cibäreler."
 
-#: scrnsave.cpp:180 scrnsave.cpp:214
+#: scrnsave.cpp:180 scrnsave.cpp:213
 msgid "After:"
 msgstr "Monnan soñ:"
 
 #: scrnsave.cpp:186
-msgid " minutes"
-msgstr " minut"
-
-#: scrnsave.cpp:187
-msgid "1 minute"
+#, fuzzy
+msgid " min"
 msgstr "1 minut"
 
-#: scrnsave.cpp:196
+#: scrnsave.cpp:195
 msgid "The period of inactivity after which the screen saver should start."
 msgstr "Eşsez toru arası bu, ul ütkäç küräksaqçı cibäräläçäk."
 
-#: scrnsave.cpp:202
+#: scrnsave.cpp:201
 msgid "&Require password to stop"
 msgstr "&Tuqtatırğa sersüz kiräk"
 
-#: scrnsave.cpp:209
+#: scrnsave.cpp:208
 msgid ""
 "Prevent potential unauthorized use by requiring a password to stop the screen "
 "saver."
@@ -281,7 +278,7 @@ msgstr ""
 "Küräk-saqçı eşen tuqtatuın sersüz belän bikläp, tanılmağan qullanudan saqlanıp "
 "bula."
 
-#: scrnsave.cpp:217
+#: scrnsave.cpp:216
 msgid ""
 "The amount of time, after the screen saver has started, to ask for the unlock "
 "password."
@@ -289,35 +286,32 @@ msgstr ""
 "Küräk-saqçı eşli başlawdan soñ, monda kertelgän ara uzğaç, bik töşerü öçen "
 "sersüz soralaçaq."
 
-#: scrnsave.cpp:222
-msgid " seconds"
-msgstr " sekund"
-
-#: scrnsave.cpp:223
-msgid "1 second"
+#: scrnsave.cpp:221
+#, fuzzy
+msgid " sec"
 msgstr "1 sekund"
 
-#: scrnsave.cpp:241
+#: scrnsave.cpp:239
 msgid "Choose the period after which the display will be locked. "
 msgstr "Bu ara uzğaç uzudan soñ küräk biklängän bulaçaq. "
 
-#: scrnsave.cpp:255
+#: scrnsave.cpp:253
 msgid "A preview of the selected screen saver."
 msgstr "Saylanğan küräksaqçın qarap alu."
 
-#: scrnsave.cpp:260
+#: scrnsave.cpp:258
 msgid "Advanced &Options"
 msgstr "Östämä &Caylawlar"
 
-#: scrnsave.cpp:287
+#: scrnsave.cpp:285
 msgid "kcmscreensaver"
 msgstr "kcmscreensaver"
 
-#: scrnsave.cpp:287
+#: scrnsave.cpp:285
 msgid "KDE Screen Saver Control Module"
 msgstr "KDE Küräk Saqçısı öçen İdärä Modulı"
 
-#: scrnsave.cpp:289
+#: scrnsave.cpp:287
 msgid ""
 "(c) 1997-2002 Martin R. Jones\n"
 "(c) 2003-2004 Chris Howells"
@@ -325,9 +319,15 @@ msgstr ""
 "(c) 1997-2002 Martin R. Jones\n"
 "(c) 2003-2004 Chris Howells"
 
-#: scrnsave.cpp:480
+#: scrnsave.cpp:478
 msgid "Loading..."
 msgstr "Yökläw..."
+
+#~ msgid " minutes"
+#~ msgstr " minut"
+
+#~ msgid " seconds"
+#~ msgstr " sekund"
 
 #~ msgid "Make aware of power &management"
 #~ msgstr "Qüät idären belgän &itäse"
