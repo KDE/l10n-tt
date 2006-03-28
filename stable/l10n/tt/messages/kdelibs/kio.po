@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2006-03-25 03:52+0100\n"
+"POT-Creation-Date: 2006-03-28 03:56+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -112,7 +112,7 @@ msgstr "%1 eçendä üzgärelde"
 msgid "The source file is '%1'"
 msgstr "Çığanaq biremeneñ adı '%1'"
 
-#: kio/kdirlister.cpp:282 kio/kdirlister.cpp:293 kio/krun.cpp:823
+#: kio/kdirlister.cpp:282 kio/kdirlister.cpp:293 kio/krun.cpp:832
 #: kio/paste.cpp:213 kio/renamedlg.cpp:431
 #, c-format
 msgid ""
@@ -2311,11 +2311,11 @@ msgstr "Bu biremne eşläterlek xoquqlar birelmägän."
 msgid "Launching %1"
 msgstr "%1 Eşlätterü"
 
-#: kio/krun.cpp:705
+#: kio/krun.cpp:714
 msgid "You are not authorized to execute this service."
 msgstr "Bu ezmärne eşläterlek xoquqlar birelmägän."
 
-#: kio/krun.cpp:859
+#: kio/krun.cpp:868
 msgid ""
 "<qt>Unable to run the command specified. The file or folder <b>%1</b> "
 "does not exist.</qt>"
@@ -2323,7 +2323,7 @@ msgstr ""
 "<qt>Birelgän boyırıqnı eşlätep bulmadı. <b>%1</b> digän birem/törgäk barlıqta "
 "bulmadı.</qt>"
 
-#: kio/krun.cpp:1354
+#: kio/krun.cpp:1363
 msgid "Could not find the program '%1'"
 msgstr "'%1' atlı yazılımnı tabıp bulmadı"
 
