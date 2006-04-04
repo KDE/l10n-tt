@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-03-30 03:53+0200\n"
+"POT-Creation-Date: 2006-04-04 03:49+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -5802,7 +5802,7 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "Qoraltirä"
 
-#: kdeui/kedittoolbar.cpp:447 khtml/html/html_formimpl.cpp:2071
+#: kdeui/kedittoolbar.cpp:447 khtml/html/html_formimpl.cpp:2073
 #: khtml/khtmlview.cpp:2526 khtml/khtmlview.cpp:2559
 msgid "Reset"
 msgstr "Awdar"
@@ -7268,7 +7268,7 @@ msgstr ""
 "<qt>Bu form eçtälege cirle birem sistemendäge<BR><B>%1</B><BR>"
 "taba cibäräläçäk.<BR>Form eçtälegen cibärü dawam itäseme?"
 
-#: khtml/html/html_formimpl.cpp:1509 khtml/html/html_formimpl.cpp:2079
+#: khtml/html/html_formimpl.cpp:1511 khtml/html/html_formimpl.cpp:2081
 #: khtml/khtml_part.cpp:4802 khtml/khtmlview.cpp:2512 khtml/khtmlview.cpp:2554
 msgid "Submit"
 msgstr "Cibär"
