@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2006-03-28 03:56+0200\n"
+"POT-Creation-Date: 2006-04-05 03:58+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2884,7 +2884,7 @@ msgstr ""
 "<qt>'<b>%1</b>' atlı yazılım '<b>%2</b>' digän buqça açtıruın soradı. Ul astağı "
 "buqça öçen sersüz kertäse bar."
 
-#: kfile/kfiledialog.cpp:1824 misc/kwalletd/kwalletd.cpp:388
+#: kfile/kfiledialog.cpp:1830 misc/kwalletd/kwalletd.cpp:388
 #: misc/kwalletd/kwalletd.cpp:402
 msgid "&Open"
 msgstr "&Aç"
@@ -3348,7 +3348,7 @@ msgstr "Öskäräk"
 msgid "Move Down"
 msgstr "Asqaraq"
 
-#: kfile/kfiledialog.cpp:1667 kfile/kfilefiltercombo.cpp:32
+#: kfile/kfiledialog.cpp:1673 kfile/kfilefiltercombo.cpp:32
 msgid "*|All Files"
 msgstr "*|Bar Birem"
 
@@ -3797,17 +3797,17 @@ msgstr "Saqlísı birem adın kertäse bar."
 msgid "Please select the file to open."
 msgstr "Açası birem saylísı bar."
 
-#: kfile/kfiledialog.cpp:409 kfile/kfiledialog.cpp:450
-#: kfile/kfiledialog.cpp:1543
+#: kfile/kfiledialog.cpp:410 kfile/kfiledialog.cpp:453
+#: kfile/kfiledialog.cpp:1547
 msgid "You can only select local files."
 msgstr "Cirle biremnär genä saylí alasıñ."
 
-#: kfile/kfiledialog.cpp:410 kfile/kfiledialog.cpp:451
-#: kfile/kfiledialog.cpp:1544
+#: kfile/kfiledialog.cpp:411 kfile/kfiledialog.cpp:454
+#: kfile/kfiledialog.cpp:1548
 msgid "Remote Files Not Accepted"
 msgstr "Çit Biremnär Totılmí"
 
-#: kfile/kfiledialog.cpp:443
+#: kfile/kfiledialog.cpp:445
 msgid ""
 "%1\n"
 "does not appear to be a valid URL.\n"
@@ -3815,11 +3815,11 @@ msgstr ""
 "%1\n"
 "yaraqlı URL kebek kürenmi.\n"
 
-#: kfile/kfiledialog.cpp:443
+#: kfile/kfiledialog.cpp:445
 msgid "Invalid URL"
 msgstr "Bozıq URL"
 
-#: kfile/kfiledialog.cpp:779
+#: kfile/kfiledialog.cpp:782
 msgid ""
 "<p>While typing in the text area, you may be presented with possible matches. "
 "This feature can be controlled by clicking with the right mouse button and "
@@ -3827,11 +3827,11 @@ msgid ""
 msgstr ""
 "<p>Kertü qırında cíğanda, qullanırlıq bulğan tulılandırular kürsätelgän bulır."
 
-#: kfile/kfiledialog.cpp:788
+#: kfile/kfiledialog.cpp:791
 msgid "This is the name to save the file as."
 msgstr "Birem bu adı belän saqlanaçaq."
 
-#: kfile/kfiledialog.cpp:793
+#: kfile/kfiledialog.cpp:796
 msgid ""
 "This is the list of files to open. More than one file can be specified by "
 "listing several files, separated by spaces."
@@ -3839,16 +3839,16 @@ msgstr ""
 "Açılaçaq biremnär belän tezmä. Berniçä birem kürsätü öçen, alarnı buşlıq belän "
 "ayırası."
 
-#: kfile/kfiledialog.cpp:800
+#: kfile/kfiledialog.cpp:803
 msgid "This is the name of the file to open."
 msgstr "Açılaçaq biremneñ adı bu."
 
-#: kfile/kfiledialog.cpp:838
+#: kfile/kfiledialog.cpp:841
 #, fuzzy
 msgid "Current location"
 msgstr "Tanılu"
 
-#: kfile/kfiledialog.cpp:839
+#: kfile/kfiledialog.cpp:842
 #, fuzzy
 msgid ""
 "This is the currently listed location. The drop-down list also lists commonly "
@@ -3858,27 +3858,27 @@ msgstr ""
 "Töp urınlaşular bonda kürsätelgän. Alar arasında yort törgägeneñ, soñğı "
 "kerülärneñ urınlaşuları bar."
 
-#: kfile/kfiledialog.cpp:846
+#: kfile/kfiledialog.cpp:849
 #, c-format
 msgid "Root Folder: %1"
 msgstr "Töp Törgäk: %1"
 
-#: kfile/kfiledialog.cpp:852
+#: kfile/kfiledialog.cpp:855
 #, c-format
 msgid "Home Folder: %1"
 msgstr "Ana Törgäk: %1"
 
-#: kfile/kfiledialog.cpp:861
+#: kfile/kfiledialog.cpp:864
 #, c-format
 msgid "Documents: %1"
 msgstr "İstäleklär: %1"
 
-#: kfile/kfiledialog.cpp:868
+#: kfile/kfiledialog.cpp:871
 #, c-format
 msgid "Desktop: %1"
 msgstr "Östäl: %1"
 
-#: kfile/kfiledialog.cpp:909
+#: kfile/kfiledialog.cpp:912
 msgid ""
 "<qt>Click this button to enter the parent folder."
 "<p>For instance, if the current location is file:/home/%1 clicking this button "
@@ -3888,39 +3888,39 @@ msgstr ""
 "<p>ü.ö. biredäge urınlaşu \"birem:/ana/%1\" bulsa, bu töymägä çirtüdän soñ ul "
 "\"birem:/ana\" bulaçaq.</qt>"
 
-#: kfile/kfiledialog.cpp:913
+#: kfile/kfiledialog.cpp:916
 msgid "Click this button to move backwards one step in the browsing history."
 msgstr "Uzğannar köndälege buyınça ütkän adımğa küçü öçen bu töymägä çirtäse."
 
-#: kfile/kfiledialog.cpp:915
+#: kfile/kfiledialog.cpp:918
 msgid "Click this button to move forward one step in the browsing history."
 msgstr "Uzğannar köndälege buyınça aldağı adımğa küçü öçen bu töymägä çirtäse."
 
-#: kfile/kfiledialog.cpp:917
+#: kfile/kfiledialog.cpp:920
 msgid "Click this button to reload the contents of the current location."
 msgstr "Biredäge urınlaşunı yañadan yökläw öçen bu töymägä çirtäse."
 
-#: kfile/kfiledialog.cpp:920
+#: kfile/kfiledialog.cpp:923
 msgid "Click this button to create a new folder."
 msgstr "Yaña törgäk yasaw öçen bu töymägä çirtäse."
 
-#: kfile/kfiledialog.cpp:923
+#: kfile/kfiledialog.cpp:926
 msgid "Show Quick Access Navigation Panel"
 msgstr "Tiz İreşüle Küçü Tiräsen Kürsätäse"
 
-#: kfile/kfiledialog.cpp:924
+#: kfile/kfiledialog.cpp:927
 msgid "Hide Quick Access Navigation Panel"
 msgstr "Tiz İreşüle Küçü Tiräsen Yäşertäse"
 
-#: kfile/kfiledialog.cpp:929
+#: kfile/kfiledialog.cpp:932
 msgid "Show Bookmarks"
 msgstr "Bitbilgelärne Kürsät"
 
-#: kfile/kfiledialog.cpp:930
+#: kfile/kfiledialog.cpp:933
 msgid "Hide Bookmarks"
 msgstr "Bitbilgelärne Yäşer"
 
-#: kfile/kfiledialog.cpp:935
+#: kfile/kfiledialog.cpp:938
 msgid ""
 "<qt>This is the configuration menu for the file dialog. Various options can be "
 "accessed from this menu including: "
@@ -3942,11 +3942,11 @@ msgstr ""
 "<li>birem eçtälegen küzläw</li>"
 "<li>biremnärne törgäklärdän ayıru</li></ul></qt>"
 
-#: kfile/kfiledialog.cpp:989
+#: kfile/kfiledialog.cpp:992
 msgid "&Location:"
 msgstr "&Urnaşılu:"
 
-#: kfile/kfiledialog.cpp:1014
+#: kfile/kfiledialog.cpp:1017
 msgid ""
 "<qt>This is the filter to apply to the file list. File names that do not match "
 "the filter will not be shown."
@@ -3959,11 +3959,11 @@ msgstr ""
 "<p>Bulğan sözgeçlärne atılma tezmädän dä saylap bula."
 "<p>Almaştırğıçlar da qullanıp bula: */?</qt>"
 
-#: kfile/kfiledialog.cpp:1020
+#: kfile/kfiledialog.cpp:1023
 msgid "&Filter:"
 msgstr "&Sözgeç:"
 
-#: kfile/kfiledialog.cpp:1474
+#: kfile/kfiledialog.cpp:1477
 msgid ""
 "The chosen filenames do not\n"
 "appear to be valid."
@@ -3971,11 +3971,11 @@ msgstr ""
 "Bu saylanğan biremadı\n"
 "yaraqlı bulıp kürenmi."
 
-#: kfile/kfiledialog.cpp:1476
+#: kfile/kfiledialog.cpp:1479
 msgid "Invalid Filenames"
 msgstr "Birem Adı Yaraqsız"
 
-#: kfile/kfiledialog.cpp:1506
+#: kfile/kfiledialog.cpp:1509
 msgid ""
 "The requested filenames\n"
 "%1\n"
@@ -3987,31 +3987,31 @@ msgstr ""
 "yaraqlı bulıp kürenmi;\n"
 "Birem adınıñ barısın da \"cäyä\" eçenä salıp qararğa bla."
 
-#: kfile/kfiledialog.cpp:1510
+#: kfile/kfiledialog.cpp:1513
 msgid "Filename Error"
 msgstr "Birem Adı Xatalı"
 
-#: kfile/kfiledialog.cpp:1664
+#: kfile/kfiledialog.cpp:1670
 msgid "*|All Folders"
 msgstr "*|Bar Törgäklär"
 
-#: kfile/kfiledialog.cpp:1964
+#: kfile/kfiledialog.cpp:1970
 msgid "Automatically select filename e&xtension (%1)"
 msgstr "Bire adınıñ quşımtası ü&zennän saylansın (%1)"
 
-#: kfile/kfiledialog.cpp:1965
+#: kfile/kfiledialog.cpp:1971
 msgid "the extension <b>%1</b>"
 msgstr "bu quşımta: <b>%1</b>"
 
-#: kfile/kfiledialog.cpp:1973
+#: kfile/kfiledialog.cpp:1979
 msgid "Automatically select filename e&xtension"
 msgstr "Birem adınıñ quşımtası ü&zennän saylansın"
 
-#: kfile/kfiledialog.cpp:1974
+#: kfile/kfiledialog.cpp:1980
 msgid "a suitable extension"
 msgstr "yaraqlı quşımta"
 
-#: kfile/kfiledialog.cpp:1985
+#: kfile/kfiledialog.cpp:1991
 msgid ""
 "This option enables some convenient features for saving files with extensions:"
 "<br>"
@@ -4041,7 +4041,7 @@ msgstr ""
 "<li><b>Saqla</b> östenä çirtkändä <b>%2</b> qırında quşımta kertelmi qalsa, "
 "birem adına %3 östälengän bulaçaq.</li></ol>"
 
-#: kfile/kfiledialog.cpp:2259
+#: kfile/kfiledialog.cpp:2265
 msgid ""
 "<qt>This button allows you to bookmark specific locations. Click on this button "
 "to open the bookmark menu where you may add, edit or select a bookmark."
@@ -5618,11 +5618,11 @@ msgstr ""
 "Bu yazılımnıñ eşlätü yulın, cibärelüen belderü, DCOP caylawın, nindi "
 "qullanuçıdan eşlätüen üzgärtü öçen bonda çirtäse."
 
-#: ../kioslave/http/http.cc:5100 kpasswdserver/kpasswdserver.cpp:330
+#: ../kioslave/http/http.cc:5110 kpasswdserver/kpasswdserver.cpp:330
 msgid "  Do you want to retry?"
 msgstr "  Qabatlísımı?"
 
-#: ../kioslave/http/http.cc:5101 kpasswdserver/kpasswdserver.cpp:332
+#: ../kioslave/http/http.cc:5111 kpasswdserver/kpasswdserver.cpp:332
 msgid "Authentication"
 msgstr "Tanılu"
 
@@ -5814,11 +5814,11 @@ msgstr ""
 "%2\n"
 "\n"
 
-#: ../kioslave/ftp/ftp.cc:595 ../kioslave/http/http.cc:5112
+#: ../kioslave/ftp/ftp.cc:595 ../kioslave/http/http.cc:5122
 msgid "You need to supply a username and a password to access this site."
 msgstr "Berär säxifägä ireşü aldınnan qullanuçı adı belän sersüz kertäse bar."
 
-#: ../kioslave/ftp/ftp.cc:597 ../kioslave/http/http.cc:5120
+#: ../kioslave/ftp/ftp.cc:597 ../kioslave/http/http.cc:5130
 msgid "Site:"
 msgstr "Säxifä:"
 
@@ -6209,36 +6209,36 @@ msgstr "%1 belän totaşıldıq. Cawap kötelä..."
 msgid "Server processing request, please wait..."
 msgstr "Server sorawnı eşkärtä, kötäse beraz..."
 
-#: ../kioslave/http/http.cc:3864
+#: ../kioslave/http/http.cc:3874
 msgid "Requesting data to send"
 msgstr "Cibäräse birem soraw"
 
-#: ../kioslave/http/http.cc:3905
+#: ../kioslave/http/http.cc:3915
 #, c-format
 msgid "Sending data to %1"
 msgstr "%1 taba birem cibärü"
 
-#: ../kioslave/http/http.cc:4314
+#: ../kioslave/http/http.cc:4324
 msgid "Retrieving %1 from %2..."
 msgstr "%1 tarafınnan %2 öçen alu..."
 
-#: ../kioslave/http/http.cc:4323
+#: ../kioslave/http/http.cc:4333
 msgid "Retrieving from %1..."
 msgstr "%1 tarafınnan alu..."
 
-#: ../kioslave/http/http.cc:5092 ../kioslave/http/http.cc:5240
+#: ../kioslave/http/http.cc:5102 ../kioslave/http/http.cc:5250
 msgid "Authentication Failed."
 msgstr "Tanılu Uzmadı."
 
-#: ../kioslave/http/http.cc:5095 ../kioslave/http/http.cc:5243
+#: ../kioslave/http/http.cc:5105 ../kioslave/http/http.cc:5253
 msgid "Proxy Authentication Failed."
 msgstr "Proxy Tanılu Uzmadı."
 
-#: ../kioslave/http/http.cc:5121 ../kioslave/http/http.cc:5138
+#: ../kioslave/http/http.cc:5131 ../kioslave/http/http.cc:5148
 msgid "<b>%1</b> at <b>%2</b>"
 msgstr "<b>%1</b>, <b>%2</b>"
 
-#: ../kioslave/http/http.cc:5128
+#: ../kioslave/http/http.cc:5138
 msgid ""
 "You need to supply a username and a password for the proxy server listed below "
 "before you are allowed to access any sites."
@@ -6246,15 +6246,15 @@ msgstr ""
 "Berär säxifägä ireşü aldınnan asta kürsätelgän proxy server öçen qullanuçı adı "
 "belän sersüz kertäse bar."
 
-#: ../kioslave/http/http.cc:5137
+#: ../kioslave/http/http.cc:5147
 msgid "Proxy:"
 msgstr "Proxy:"
 
-#: ../kioslave/http/http.cc:5159
+#: ../kioslave/http/http.cc:5169
 msgid "Authentication needed for %1 but authentication is disabled."
 msgstr "%1 öçen tanılğan bulu kiräk, tanılu isä sünek tora."
 
-#: ../kioslave/http/http.cc:5781
+#: ../kioslave/http/http.cc:5791
 msgid ""
 "Unsupported method: authentication will fail. Please submit a bug report."
 msgstr "Totılmağan ısul: tanılu uzmadı. Bet yomğağın cibäräse."
