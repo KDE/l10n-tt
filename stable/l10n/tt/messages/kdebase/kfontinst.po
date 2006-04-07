@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kfontinst\n"
-"POT-Creation-Date: 2006-04-04 03:50+0200\n"
+"POT-Creation-Date: 2006-04-06 03:54+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -437,40 +437,40 @@ msgstr ""
 "Qızğanıç ki, \"%1\" belän \"%2\" biremnären küçerep tä, kübäytep tä, taşlap ta "
 "bulmí."
 
-#: lib/FcEngine.cpp:524
+#: lib/FcEngine.cpp:522
 msgid "AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz0123456789"
 msgstr ""
 "AaÄäBbCcÇçDdEeFfGgĞğHhİiIıJjKkLlMmNnÑñOoÖöPpQqRrSsŞşTtUuÜüVvWwXxYyZz0123456789"
 
-#: lib/FcEngine.cpp:578
+#: lib/FcEngine.cpp:576
 msgid "ERROR: Could not determine font's name."
 msgstr "XATA: Şrift adın uqıp bulmadı."
 
-#: lib/FcEngine.cpp:582
+#: lib/FcEngine.cpp:580
 msgid ""
 "_n: %1 [1 pixel]\n"
 "%1 [%n pixels]"
 msgstr "%1 [%n noqta]"
 
-#: lib/FcEngine.cpp:699
+#: lib/FcEngine.cpp:697
 msgid ""
 "_: A sentence that uses all of the letters of the alphabet\n"
 "The quick brown fox jumps over the lazy dog"
 msgstr "Körän tölkä yawız et aşa ütep qarağan"
 
-#: lib/FcEngine.cpp:713
+#: lib/FcEngine.cpp:711
 msgid ""
 "_: All of the letters of the alphabet, uppercase\n"
 "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 msgstr "AÄBCÇDEFGĞHİIÍJKLMNÑOÖPQRSŞTUÜVWXYZ"
 
-#: lib/FcEngine.cpp:718
+#: lib/FcEngine.cpp:716
 msgid ""
 "_: All of the letters of the alphabet, lowercase\n"
 "abcdefghijklmnopqrstuvwxyz"
 msgstr "aäbcçdefgğhiıíjklmnñoöpqrsştuüvwxyz"
 
-#: lib/FcEngine.cpp:723
+#: lib/FcEngine.cpp:721
 msgid ""
 "_: Numbers and characters\n"
 "0123456789.:,;(*!?'/\\\")£$€%^&-+@~#<>{}[]"

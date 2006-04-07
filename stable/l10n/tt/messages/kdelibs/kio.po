@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2006-04-05 03:58+0200\n"
+"POT-Creation-Date: 2006-04-06 03:52+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -164,7 +164,7 @@ msgstr "Alışukesädän Östä&p quy"
 msgid "The peer SSL certificate appears to be corrupt."
 msgstr "Bu SSL-tanıqlıq bozıq kebek kürenä."
 
-#: kio/observer.cpp:332 kio/tcpslavebase.cpp:705 misc/uiserver.cpp:1218
+#: kio/observer.cpp:332 kio/tcpslavebase.cpp:706 misc/uiserver.cpp:1218
 msgid "SSL"
 msgstr "SSL"
 
@@ -311,7 +311,7 @@ msgstr ""
 "İmin ısulınnan çığu. Taşımnar bütän serlänep tormaslar.\n"
 "Taşım eçtälegen öçençe yaq kürä alır dip añlarğa kiräk bonı."
 
-#: kio/tcpslavebase.cpp:325 kio/tcpslavebase.cpp:1085
+#: kio/tcpslavebase.cpp:325 kio/tcpslavebase.cpp:1086
 msgid "Security Information"
 msgstr "İminlek Turında"
 
@@ -319,60 +319,60 @@ msgstr "İminlek Turında"
 msgid "C&ontinue Loading"
 msgstr "&Yökläwne Dawam itü"
 
-#: kio/tcpslavebase.cpp:676
+#: kio/tcpslavebase.cpp:677
 msgid "Enter the certificate password:"
 msgstr "Bu tanıqlıq sersüzen kertü:"
 
-#: kio/tcpslavebase.cpp:677
+#: kio/tcpslavebase.cpp:678
 msgid "SSL Certificate Password"
 msgstr "SSL Tanıqlıq Sersüze"
 
-#: kio/tcpslavebase.cpp:690
+#: kio/tcpslavebase.cpp:691
 msgid "Unable to open the certificate. Try a new password?"
 msgstr "Tanıqlıqnı açıp bulmadı. Yaña sersüz belän qarísımı?"
 
-#: kio/tcpslavebase.cpp:703
+#: kio/tcpslavebase.cpp:704
 msgid "The procedure to set the client certificate for the session failed."
 msgstr "Bu sessi öçen klient tanıqlığın quyu eşe uzmağan."
 
-#: kio/tcpslavebase.cpp:873
+#: kio/tcpslavebase.cpp:874
 msgid ""
 "The IP address of the host %1 does not match the one the certificate was issued "
 "to."
 msgstr "%1 hostnıñ IP-adrese tanıqlıqta äytelgän adres belän turı kilmi."
 
-#: kio/tcpslavebase.cpp:878 kio/tcpslavebase.cpp:886 kio/tcpslavebase.cpp:921
-#: kio/tcpslavebase.cpp:995 kio/tcpslavebase.cpp:1007
-#: kio/tcpslavebase.cpp:1016 kio/tcpslavebase.cpp:1047
+#: kio/tcpslavebase.cpp:879 kio/tcpslavebase.cpp:887 kio/tcpslavebase.cpp:922
+#: kio/tcpslavebase.cpp:996 kio/tcpslavebase.cpp:1008
+#: kio/tcpslavebase.cpp:1017 kio/tcpslavebase.cpp:1048
 msgid "Server Authentication"
 msgstr "Server Tanıtu Eşe"
 
-#: kio/tcpslavebase.cpp:879 kio/tcpslavebase.cpp:887 kio/tcpslavebase.cpp:1017
+#: kio/tcpslavebase.cpp:880 kio/tcpslavebase.cpp:888 kio/tcpslavebase.cpp:1018
 msgid "&Details"
 msgstr "&Cöziräk"
 
-#: kio/tcpslavebase.cpp:880 kio/tcpslavebase.cpp:888
+#: kio/tcpslavebase.cpp:881 kio/tcpslavebase.cpp:889
 msgid "Co&ntinue"
 msgstr "&Däwam"
 
-#: kio/tcpslavebase.cpp:882 kio/tcpslavebase.cpp:1012
+#: kio/tcpslavebase.cpp:883 kio/tcpslavebase.cpp:1013
 msgid "The server certificate failed the authenticity test (%1)."
 msgstr "Bu server tanıqlığı çın buluına sınawnı uza almadı (%1)."
 
-#: kio/tcpslavebase.cpp:918 kio/tcpslavebase.cpp:1044
+#: kio/tcpslavebase.cpp:919 kio/tcpslavebase.cpp:1045
 msgid ""
 "Would you like to accept this certificate forever without being prompted?"
 msgstr "Bu tanıqlıqnı ber ni soramíça bar çaqqa qabul itäse kiläme?"
 
-#: kio/tcpslavebase.cpp:922 kio/tcpslavebase.cpp:1048
+#: kio/tcpslavebase.cpp:923 kio/tcpslavebase.cpp:1049
 msgid "&Forever"
 msgstr "&Barçaqta"
 
-#: kio/tcpslavebase.cpp:923 kio/tcpslavebase.cpp:1049
+#: kio/tcpslavebase.cpp:924 kio/tcpslavebase.cpp:1050
 msgid "&Current Sessions Only"
 msgstr "&Biredäge Sessilär Genä"
 
-#: kio/tcpslavebase.cpp:994
+#: kio/tcpslavebase.cpp:995
 msgid ""
 "You have indicated that you wish to accept this certificate, but it is not "
 "issued to the server who is presenting it. Do you wish to continue loading?"
@@ -380,7 +380,7 @@ msgstr ""
 "Bu tanıqlıqnı birgän servere anı çığarğan servere belän ber bulmíça, sin anı "
 "qabul itmäkçe bulasıñ. Anıñ çınlap ta yöklise kiläme?"
 
-#: kio/tcpslavebase.cpp:1006
+#: kio/tcpslavebase.cpp:1007
 msgid ""
 "SSL certificate is being rejected as requested. You can disable this in the KDE "
 "Control Center."
@@ -388,11 +388,11 @@ msgstr ""
 "SSL-tanıqlıq soralğan çaqta uq ul kire qağılğan ide. KDE'neñ İdärä Üzäge eçendä "
 "bonı sünderep bula."
 
-#: kio/tcpslavebase.cpp:1018
+#: kio/tcpslavebase.cpp:1019
 msgid "Co&nnect"
 msgstr "&Totaş"
 
-#: kio/tcpslavebase.cpp:1074
+#: kio/tcpslavebase.cpp:1075
 msgid ""
 "You are about to enter secure mode. All transmissions will be encrypted unless "
 "otherwise noted.\n"
@@ -402,11 +402,11 @@ msgstr ""
 "İmin ısulına kerü. Taşımnar barısı da serlänep torırlar.\n"
 "Taşımıñ eçtälegen öçençe yaq kürä almas dip añlarğa kiräk bonı."
 
-#: kio/tcpslavebase.cpp:1086
+#: kio/tcpslavebase.cpp:1087
 msgid "Display SSL &Information"
 msgstr "SSL &Turında Kürsät"
 
-#: kio/tcpslavebase.cpp:1088
+#: kio/tcpslavebase.cpp:1089
 msgid "C&onnect"
 msgstr "&Totaşıl"
 

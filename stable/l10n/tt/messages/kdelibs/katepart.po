@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs katepart\n"
-"POT-Creation-Date: 2006-04-03 03:51+0200\n"
+"POT-Creation-Date: 2006-04-07 03:45+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2151,7 +2151,7 @@ msgstr "Östän Yaz"
 msgid "Overwrite the disk file with the editor content."
 msgstr "Biremneñ disk eçendäge söremen tözätkeçtäge belän almaştıru."
 
-#: part/katedialogs.cpp:1673
+#: part/katedialogs.cpp:1690
 msgid ""
 "The diff command failed. Please make sure that diff(1) is installed and in your "
 "PATH."
@@ -2159,11 +2159,11 @@ msgstr ""
 "\"diff\" digän boyırıq uzmadı. Bu sanaqnıñ PATH yulı aşa anı tabıp buluın "
 "tikşerep alası bar."
 
-#: part/katedialogs.cpp:1675
+#: part/katedialogs.cpp:1692
 msgid "Error Creating Diff"
 msgstr "Ayırma Yasaw Xatası"
 
-#: part/katedialogs.cpp:1688
+#: part/katedialogs.cpp:1705
 msgid ""
 "Ignoring means that you will not be warned again (unless the disk file changes "
 "once more): if you save the document, you will overwrite the file on disk; if "
@@ -2173,7 +2173,7 @@ msgstr ""
 "üzgärtelmäsä ikän). Bu birem üzgärtelgän bulsa, başqa yazılımnan yasalğan "
 "üzgäreşlär yuğalaçaq."
 
-#: part/katedialogs.cpp:1692
+#: part/katedialogs.cpp:1709
 msgid "You Are on Your Own"
 msgstr "Üz Üzäreşlär"
 
