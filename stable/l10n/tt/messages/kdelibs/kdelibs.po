@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-04-04 03:49+0200\n"
+"POT-Creation-Date: 2006-04-08 03:51+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -5941,7 +5941,7 @@ msgstr "Ğädäti tös"
 msgid "-default-"
 msgstr "-ğädäti-"
 
-#: kdeui/kcolordialog.cpp:1466
+#: kdeui/kcolordialog.cpp:1462
 msgid "-unnamed-"
 msgstr "-isemsez-"
 
