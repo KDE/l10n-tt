@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-04-08 03:51+0200\n"
+"POT-Creation-Date: 2006-04-09 03:49+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -7404,7 +7404,7 @@ msgstr "uqıp çıqqanda ütmäslek xata: %1, %2 yulında, %3 buyında"
 msgid "XML parsing error"
 msgstr "XML eçtälege xatalı"
 
-#: khtml/xml/dom_docimpl.cpp:1998
+#: khtml/xml/dom_docimpl.cpp:2000
 msgid "Basic Page Style"
 msgstr "Üz Bizäleşe"
 
@@ -7541,7 +7541,7 @@ msgstr "JavaScript eçennän Bitbilge Östälänä"
 msgid "Disallow"
 msgstr "Birmäw"
 
-#: khtml/ecma/kjs_proxy.cpp:388
+#: khtml/ecma/kjs_proxy.cpp:405
 msgid ""
 "A script on this page is causing KHTML to freeze. If it continues to run, other "
 "applications may become less responsive.\n"
@@ -7551,11 +7551,11 @@ msgstr ""
 "yazılımnar äkren endäşä başlarlar.\n"
 "Bu ämerlekne özep quyasımı?"
 
-#: khtml/ecma/kjs_proxy.cpp:388
+#: khtml/ecma/kjs_proxy.cpp:405
 msgid "JavaScript"
 msgstr "JavaScript"
 
-#: khtml/ecma/kjs_proxy.cpp:388
+#: khtml/ecma/kjs_proxy.cpp:405
 msgid "&Abort"
 msgstr "&Özäse"
 

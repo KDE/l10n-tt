@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase appletproxy\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2006-04-09 03:51+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -38,7 +38,7 @@ msgid ""
 msgstr "DCOP totaşu qíınlıqlarına säbäple bu applet araçısın cibärep bulmí."
 
 #: appletproxy.cpp:133 appletproxy.cpp:141 appletproxy.cpp:174
-#: appletproxy.cpp:195 appletproxy.cpp:297 appletproxy.cpp:319
+#: appletproxy.cpp:195 appletproxy.cpp:297 appletproxy.cpp:322
 msgid "Applet Loading Error"
 msgstr "Applet Yökläw Xatası"
 
@@ -63,7 +63,7 @@ msgid ""
 msgstr ""
 "DCOP totaşu qíınlıqlarına säbäple bu applet araçısı bu tirä eçenä utıra almí."
 
-#: appletproxy.cpp:318
+#: appletproxy.cpp:321
 msgid "The applet proxy could not dock into the panel."
 msgstr "Bu applet araçısı bu tirä eçenä utıra almí."
 
