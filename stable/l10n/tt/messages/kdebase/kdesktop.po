@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdesktop\n"
-"POT-Creation-Date: 2006-02-07 03:55+0100\n"
+"POT-Creation-Date: 2006-04-10 03:51+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -148,31 +148,31 @@ msgstr "KDesktop Yozaqlaw"
 msgid "Session Locker for KDesktop"
 msgstr "KDesktop Sessi Biklägeçe"
 
-#: desktop.cc:779
+#: desktop.cc:778
 msgid "Set as Primary Background Color"
 msgstr "Asyaqnıñ Töp Tösen Bilgeläw"
 
-#: desktop.cc:780
+#: desktop.cc:779
 msgid "Set as Secondary Background Color"
 msgstr "Asyaqnıñ İkençe Tösen Bilgeläw"
 
-#: desktop.cc:797
+#: desktop.cc:796
 msgid "&Save to Desktop..."
 msgstr "Östäldä &Saqlaw..."
 
-#: desktop.cc:799
+#: desktop.cc:798
 msgid "Set as &Wallpaper"
 msgstr "&Cäymä itep Quy"
 
-#: desktop.cc:807
+#: desktop.cc:806
 msgid "Enter a name for the image below:"
 msgstr "Astağı sürät öçen ber isem kertäse:"
 
-#: desktop.cc:816
+#: desktop.cc:815
 msgid "image.png"
 msgstr "image.png"
 
-#: desktop.cc:879
+#: desktop.cc:878
 msgid ""
 "Could not log out properly.\n"
 "The session manager cannot be contacted. You can try to force a shutdown by "
@@ -419,7 +419,7 @@ msgstr "Raslawsız Tuqtat"
 msgid "Reboot without Confirmation"
 msgstr "Raslamíça Yañadan Yöklä"
 
-#: minicli.cpp:93 minicli.cpp:638
+#: minicli.cpp:93 minicli.cpp:639
 msgid "&Options >>"
 msgstr "&Caylaw >>"
 
@@ -441,7 +441,7 @@ msgstr ""
 msgid "Incorrect password; please try again."
 msgstr "Sersüz kileşmäde; tağın kertep qara."
 
-#: minicli.cpp:537
+#: minicli.cpp:538
 msgid ""
 "<center><b>%1</b></center>\n"
 "You do not have permission to execute this command."
@@ -449,7 +449,7 @@ msgstr ""
 "<center><b>%1</b></center>\n"
 "Bu boyırıqnı eşlätterlek xoquqıñ citmi."
 
-#: minicli.cpp:565
+#: minicli.cpp:566
 msgid ""
 "<center><b>%1</b></center>\n"
 "Could not run the specified command."
@@ -457,7 +457,7 @@ msgstr ""
 "<center><b>%1</b></center>\n"
 "Birelgän boyırıqnı eşkärtep bulmadı."
 
-#: minicli.cpp:577
+#: minicli.cpp:578
 msgid ""
 "<center><b>%1</b></center>\n"
 "The specified command does not exist."
@@ -465,11 +465,11 @@ msgstr ""
 "<center><b>%1</b></center>\n"
 "Birelgän boyırıq biredä yuq."
 
-#: minicli.cpp:626
+#: minicli.cpp:627
 msgid "&Options <<"
 msgstr "&Caylaw <<"
 
-#: minicli.cpp:831
+#: minicli.cpp:832
 msgid ""
 "Running a realtime application can be very dangerous. If the application "
 "misbehaves, the system might hang unrecoverably.\n"
@@ -479,11 +479,11 @@ msgstr ""
 "kitä ikän, sistemneñ dä tözälä almíça tuqtawı bar.\n"
 "Çınlap ta däwam itäseme?"
 
-#: minicli.cpp:834
+#: minicli.cpp:835
 msgid "Warning - Run Command"
 msgstr "Beldermä – Boyırıq Eşlätü"
 
-#: minicli.cpp:834
+#: minicli.cpp:835
 msgid "&Run Realtime"
 msgstr "Çınço&rda Eşlät"
 

@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-04-09 03:49+0200\n"
+"POT-Creation-Date: 2006-04-10 03:49+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -7404,7 +7404,7 @@ msgstr "uqıp çıqqanda ütmäslek xata: %1, %2 yulında, %3 buyında"
 msgid "XML parsing error"
 msgstr "XML eçtälege xatalı"
 
-#: khtml/xml/dom_docimpl.cpp:2000
+#: khtml/xml/dom_docimpl.cpp:2002
 msgid "Basic Page Style"
 msgstr "Üz Bizäleşe"
 
@@ -7483,11 +7483,11 @@ msgstr ""
 "%1 yul %2:\n"
 "%3"
 
-#: khtml/ecma/kjs_html.cpp:2144 khtml/ecma/kjs_window.cpp:1358
+#: khtml/ecma/kjs_html.cpp:2144 khtml/ecma/kjs_window.cpp:1360
 msgid "Confirmation: JavaScript Popup"
 msgstr "Yaslaw: JavaScript Atılması"
 
-#: khtml/ecma/kjs_window.cpp:1361
+#: khtml/ecma/kjs_window.cpp:1363
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
@@ -7495,7 +7495,7 @@ msgstr ""
 "Bu bittäge JavaScript yaña täräzä açmaqçı bula.\n"
 "Aña bonı eşlärgä biräseme?"
 
-#: khtml/ecma/kjs_window.cpp:1364
+#: khtml/ecma/kjs_window.cpp:1366
 msgid ""
 "<qt>This site is requesting to open"
 "<p>%1</p>in a new browser window via JavaScript.<br />"
@@ -7505,39 +7505,39 @@ msgstr ""
 "<p>%1</p>urınlaşuın yaña täräzädä açmaqçı bula.<br />"
 "Aña bonı eşlärgä biräseme?</qt>"
 
-#: khtml/ecma/kjs_html.cpp:2151 khtml/ecma/kjs_window.cpp:1366
+#: khtml/ecma/kjs_html.cpp:2151 khtml/ecma/kjs_window.cpp:1368
 msgid "Allow"
 msgstr "Röxsät it"
 
-#: khtml/ecma/kjs_html.cpp:2151 khtml/ecma/kjs_window.cpp:1366
+#: khtml/ecma/kjs_html.cpp:2151 khtml/ecma/kjs_window.cpp:1368
 msgid "Do Not Allow"
 msgstr "Birmäskä"
 
-#: khtml/ecma/kjs_window.cpp:1648
+#: khtml/ecma/kjs_window.cpp:1650
 msgid "Close window?"
 msgstr "Täräzäne yabasımı?"
 
-#: khtml/ecma/kjs_window.cpp:1648
+#: khtml/ecma/kjs_window.cpp:1650
 msgid "Confirmation Required"
 msgstr "Raslísı Bar"
 
-#: khtml/ecma/kjs_window.cpp:2504
+#: khtml/ecma/kjs_window.cpp:2519
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Saylanmağa \"%1\" taba kürsätkän bitbilgene östiseme?"
 
-#: khtml/ecma/kjs_window.cpp:2507
+#: khtml/ecma/kjs_window.cpp:2522
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
 msgstr "Saylanmağa \"%1\" taba kürsätkän \"%2\" atlı bitbilgene östiseme?"
 
-#: khtml/ecma/kjs_window.cpp:2515
+#: khtml/ecma/kjs_window.cpp:2530
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript eçennän Bitbilge Östälänä"
 
-#: khtml/ecma/kjs_window.cpp:2519
+#: khtml/ecma/kjs_window.cpp:2534
 msgid "Disallow"
 msgstr "Birmäw"
 
