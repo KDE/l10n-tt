@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-04-10 03:49+0200\n"
+"POT-Creation-Date: 2006-04-11 03:53+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -7392,15 +7392,15 @@ msgstr "KHTML"
 msgid "Embeddable HTML component"
 msgstr "HTML öçen kertelmäle komponent"
 
-#: khtml/xml/xml_tokenizer.cpp:273
+#: khtml/xml/xml_tokenizer.cpp:279
 msgid "the document is not in the correct file format"
 msgstr "bu istälek biremeneñ tözeleşe bozıq"
 
-#: khtml/xml/xml_tokenizer.cpp:279
+#: khtml/xml/xml_tokenizer.cpp:285
 msgid "fatal parsing error: %1 in line %2, column %3"
 msgstr "uqıp çıqqanda ütmäslek xata: %1, %2 yulında, %3 buyında"
 
-#: khtml/xml/xml_tokenizer.cpp:440
+#: khtml/xml/xml_tokenizer.cpp:446
 msgid "XML parsing error"
 msgstr "XML eçtälege xatalı"
 
