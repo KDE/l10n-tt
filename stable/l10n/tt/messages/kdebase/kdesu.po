@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdesu\n"
-"POT-Creation-Date: 2005-05-18 21:23+0200\n"
+"POT-Creation-Date: 2006-04-13 03:51+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -49,57 +49,61 @@ msgid "Let command use existing dcopserver"
 msgstr "Boyırıqqa barlıqtağı dcopserver qullanırğa birü"
 
 #: kdesu.cpp:66
+msgid "Do not display ignore button"
+msgstr ""
+
+#: kdesu.cpp:67
 msgid "Specify icon to use in the password dialog"
 msgstr "Sersüz täräzäsendä qullanası tamğa bilgeläw"
 
-#: kdesu.cpp:67
+#: kdesu.cpp:68
 msgid "Do not show the command to be run in the dialog"
 msgstr "Eşlätäse boyırıqnı bu täräzädä kürsätmäskä"
 
-#: kdesu.cpp:98
+#: kdesu.cpp:99
 msgid "KDE su"
 msgstr "KDE su"
 
-#: kdesu.cpp:99
+#: kdesu.cpp:100
 msgid "Runs a program with elevated privileges."
 msgstr "Yazılımnı kütärelgän östenlek belän cibärü."
 
-#: kdesu.cpp:102
+#: kdesu.cpp:103
 msgid "Maintainer"
 msgstr "Bulışuçı"
 
-#: kdesu.cpp:104
+#: kdesu.cpp:105
 msgid "Original author"
 msgstr "Baş yazuçı"
 
-#: kdesu.cpp:127
+#: kdesu.cpp:128
 msgid "Command '%1' not found."
 msgstr "\"%1\" boyırığı tabılmadı."
 
-#: kdesu.cpp:203
+#: kdesu.cpp:204
 #, c-format
 msgid "Illegal priority: %1"
 msgstr "Yaraqsız östenlek: %1"
 
-#: kdesu.cpp:231
+#: kdesu.cpp:232
 msgid "No command specified."
 msgstr "Boyırıq birelmäde."
 
-#: kdesu.cpp:339
+#: kdesu.cpp:341
 msgid ""
 "Su returned with an error.\n"
 msgstr ""
 "Su ber xatanı belän qaytarttı.\n"
 
-#: kdesu.cpp:360
+#: kdesu.cpp:362
 msgid "Command:"
 msgstr "Boyırıq:"
 
-#: kdesu.cpp:365
+#: kdesu.cpp:367
 msgid "realtime: "
 msgstr "çınçaq: "
 
-#: kdesu.cpp:368
+#: kdesu.cpp:370
 msgid "Priority:"
 msgstr "Möhimlek:"
 
@@ -108,7 +112,7 @@ msgstr "Möhimlek:"
 msgid "Run as %1"
 msgstr "%1 adınnan Cibär"
 
-#: sudlg.cpp:23
+#: sudlg.cpp:25
 msgid ""
 "The action you requested needs root privileges. Please enter root's password "
 "below or click Ignore to continue with your current privileges."
@@ -116,7 +120,16 @@ msgstr ""
 "Bu eş qılu öçen root xoquqları kiräk. Xäzer root sersüzen kertäse qala, yä ki "
 "Qarama östenä çirtep biredäge xoquqlar belän däwam itäse."
 
-#: sudlg.cpp:27
+#: sudlg.cpp:29
+#, fuzzy
+msgid ""
+"The action you requested needs root privileges. Please enter root's password "
+"below "
+msgstr ""
+"Bu eş qılu öçen root xoquqları kiräk. Xäzer root sersüzen kertäse qala, yä ki "
+"Qarama östenä çirtep biredäge xoquqlar belän däwam itäse."
+
+#: sudlg.cpp:34
 msgid ""
 "The action you requested needs additional privileges. Please enter the password "
 "for \"%1\" below or click Ignore to continue with your current privileges."
@@ -124,15 +137,15 @@ msgstr ""
 "Bu soralğan eş qılu öçen östämä xoquqlar kiräk. Xäzer \"%1\" öçen sersüz "
 "kertäse qala, yä ki Qarama östenä çirtep biredäge xoquqlar belän däwam itäse."
 
-#: sudlg.cpp:32
+#: sudlg.cpp:40
 msgid "&Ignore"
 msgstr "&Uzası"
 
-#: sudlg.cpp:48
+#: sudlg.cpp:56
 msgid "Conversation with su failed."
 msgstr "su aşa äyländerü uzmadı."
 
-#: sudlg.cpp:57
+#: sudlg.cpp:65
 msgid ""
 "The program 'su' is not found;\n"
 "make sure your PATH is set correctly."
@@ -140,7 +153,7 @@ msgstr ""
 "'su' atlı yazılım tabılmadı;\n"
 "biredäge PATH tieşleçä köylängän buluın tikşeräse."
 
-#: sudlg.cpp:64
+#: sudlg.cpp:72
 msgid ""
 "You are not allowed to use 'su';\n"
 "on some systems, you need to be in a special group (often: wheel) to use this "
@@ -150,11 +163,11 @@ msgstr ""
 "bu yazılımnı qullanu öçen, qayber sistemnärdä nindider törkemgä kergän buluı "
 "kiräk (yış: wheel)."
 
-#: sudlg.cpp:71
+#: sudlg.cpp:79
 msgid "Incorrect password; please try again."
 msgstr "Sersüz kileşmäde; tağın kertep qara."
 
-#: sudlg.cpp:75
+#: sudlg.cpp:83
 msgid "Internal error: illegal return from SuProcess::checkInstall()"
 msgstr "Eçke xata: SuProcess::checkInstall() qaytarğanı yaraqsız"
 
