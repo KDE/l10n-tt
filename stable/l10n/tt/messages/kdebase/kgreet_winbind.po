@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kgreet_winbind\n"
-"POT-Creation-Date: 2005-12-22 03:09+0100\n"
+"POT-Creation-Date: 2006-04-19 03:54+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -44,10 +44,10 @@ msgstr "&Yaña sersüz:"
 msgid "Con&firm password:"
 msgstr "Sersüz qa&batlaw:"
 
-#: kgreet_winbind.cpp:363
+#: kgreet_winbind.cpp:365
 msgid "Unrecognized prompt \"%1\""
 msgstr "Tanılmağan çaqıru: \"%1\""
 
-#: kgreet_winbind.cpp:609
+#: kgreet_winbind.cpp:611
 msgid "Winbind / Samba"
 msgstr "Winbind / Samba"

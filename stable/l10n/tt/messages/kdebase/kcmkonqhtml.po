@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmkonqhtml\n"
-"POT-Creation-Date: 2005-09-06 02:36+0200\n"
+"POT-Creation-Date: 2006-04-19 03:54+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -536,7 +536,7 @@ msgstr ""
 "<li><b>Ber märtäbä genä kürsät</b>: Böten canlandırmalarnı tulısınça kürsät, "
 "läkin qabatlama.</li>"
 
-#: javaopts.cpp:62 jsopts.cpp:48 pluginopts.cpp:58
+#: javaopts.cpp:62 jsopts.cpp:48 pluginopts.cpp:59
 msgid "Global Settings"
 msgstr "Ğömümi Köylämälär"
 
@@ -684,7 +684,7 @@ msgstr ""
 "waqıtı buyına java prosessın däwam eşlätergä teläsäñ, Applet Serverın Sünder "
 "tartmasın tamğalamíça qaldır."
 
-#: javaopts.cpp:285 pluginopts.cpp:642
+#: javaopts.cpp:285 pluginopts.cpp:637
 msgid "Doma&in-Specific"
 msgstr "Dömen öçen &Xosusí"
 
@@ -1057,32 +1057,32 @@ msgstr ""
 "Konqueror allows you to specify very fine-grained from which hosts you want to "
 "execute Java and/or JavaScript programs."
 
-#: pluginopts.cpp:60
+#: pluginopts.cpp:61
 msgid "&Enable plugins globally"
 msgstr "Pluginnarnı ğömümi räw&eştä sälätländer"
 
-#: pluginopts.cpp:61
+#: pluginopts.cpp:62
 msgid "Only allow &HTTP and HTTPS URLs for plugins"
 msgstr "Pluginnar öçen &HTTP häm &HTTPS URL'ların qabul it"
 
-#: pluginopts.cpp:62
+#: pluginopts.cpp:63
 msgid "&Load plugins on demand only"
 msgstr "Pluginnarnı soralğannan soñ ğına yök&lä"
 
-#: pluginopts.cpp:63 pluginopts.cpp:169
+#: pluginopts.cpp:64 pluginopts.cpp:170
 #, c-format
 msgid "CPU priority for plugins: %1"
 msgstr "Pluginnar öçen CPU östenlekläre: %1"
 
-#: pluginopts.cpp:79
+#: pluginopts.cpp:80
 msgid "Domain-Specific Settin&gs"
 msgstr "Domenğa bäyle &köylämälär"
 
-#: pluginopts.cpp:85 pluginopts.cpp:609
+#: pluginopts.cpp:86 pluginopts.cpp:604
 msgid "Domain-Specific Policies"
 msgstr "Domenğa bäyle Säyäsätlär"
 
-#: pluginopts.cpp:97
+#: pluginopts.cpp:98
 msgid ""
 "Enables the execution of plugins that can be contained in HTML pages, e.g. "
 "Macromedia Flash. Note that, as with any browser, enabling active contents can "
@@ -1092,7 +1092,7 @@ msgstr ""
 "sälätländerä. Härxäldä teläsä qaysı gizgeçtä aktif eçtälekneñ başqarıluına "
 "röxsät biru saqlıq bälälären kiterä alğanın istä tot."
 
-#: pluginopts.cpp:101
+#: pluginopts.cpp:102
 msgid ""
 "This box contains the domains and hosts you have set a specific plugin policy "
 "for. This policy will be used instead of the default policy for enabling or "
@@ -1104,7 +1104,7 @@ msgstr ""
 "öçen bar bulğan säyäsät urnına qullanılır. "
 "<p> Ber säyäsätne sayla da uñdağı idärälär qullanıp üzgärtülär yasa."
 
-#: pluginopts.cpp:107
+#: pluginopts.cpp:108
 msgid ""
 "Click this button to choose the file that contains the plugin policies. These "
 "policies will be merged with the existing ones. Duplicate entries are ignored."
@@ -1112,7 +1112,7 @@ msgstr ""
 "Java säyäsätläre bulğan biremne saylar öçen bu töymägä bas. Bu säyäsätlär bar "
 "bulğan säyäsätlär belän berläştereler. Qabatlanğan kertemnär qaralmíça üteler."
 
-#: pluginopts.cpp:110
+#: pluginopts.cpp:111
 msgid ""
 "Click this button to save the plugin policy to a zipped file. The file, named "
 "<b>plugin_policy.tgz</b>, will be saved to a location of your choice."
@@ -1120,7 +1120,7 @@ msgstr ""
 "Java säyäsäten ziplanğan birem eçenä saqlar öçen bu töymägä bas. <b>"
 "java_policy.tgz</b> isemle birem sin saylağan törgäktä saqlanaçaq"
 
-#: pluginopts.cpp:113
+#: pluginopts.cpp:114
 msgid ""
 "Here you can set specific plugin policies for any particular host or domain. To "
 "add a new policy, simply click the <i>New...</i> button and supply the "
@@ -1136,41 +1136,41 @@ msgstr ""
 "töymäsenä basu saylanğan säyäsätneñ taşlanaçağına häm tege domen öçen bar "
 "bulğan säyäsät qullanuına kiterer."
 
-#: pluginopts.cpp:128 pluginopts.cpp:539
+#: pluginopts.cpp:129 pluginopts.cpp:534
 msgid "Netscape Plugins"
 msgstr "Netscape pluginnarı"
 
-#: pluginopts.cpp:158
+#: pluginopts.cpp:159
 msgid ""
 "_: lowest priority\n"
 "lowest"
 msgstr "iñ tübän"
 
-#: pluginopts.cpp:160
+#: pluginopts.cpp:161
 msgid ""
 "_: low priority\n"
 "low"
 msgstr "tübän"
 
-#: pluginopts.cpp:162
+#: pluginopts.cpp:163
 msgid ""
 "_: medium priority\n"
 "medium"
 msgstr "urta"
 
-#: pluginopts.cpp:164
+#: pluginopts.cpp:165
 msgid ""
 "_: high priority\n"
 "high"
 msgstr "yuğarı"
 
-#: pluginopts.cpp:166
+#: pluginopts.cpp:167
 msgid ""
 "_: highest priority\n"
 "highest"
 msgstr "iñ yuğarı"
 
-#: pluginopts.cpp:269
+#: pluginopts.cpp:270
 msgid ""
 "<h1>Konqueror Plugins</h1> The Konqueror web browser can use Netscape plugins "
 "to show special content, just like the Navigator does. Please note that the way "
@@ -1182,7 +1182,7 @@ msgstr ""
 "quyu tärtibe taratma tözeleşenä bäyle bula ala. Alarnıñ quyılu urını yışraq "
 "'/opt/netscape/plugins' törgägendä bula."
 
-#: pluginopts.cpp:295
+#: pluginopts.cpp:296
 msgid ""
 "Do you want to apply your changes before the scan? Otherwise the changes will "
 "be lost."
@@ -1190,50 +1190,50 @@ msgstr ""
 "Tarawğa qädär üzgärtülärne aşırırğa teliseñme? Yuğisä üzgäreşlär saqlanmíça "
 "yuğalaçaqlar."
 
-#: pluginopts.cpp:313
+#: pluginopts.cpp:315
 msgid ""
 "The nspluginscan executable cannot be found. Netscape plugins will not be "
 "scanned."
 msgstr ""
 "Nspluginscan başqarılması tabıla almadı. Netscape pluginnarı taralmayaçaq."
 
-#: pluginopts.cpp:320
+#: pluginopts.cpp:322
 msgid "Scanning for plugins"
 msgstr "Pluginnar öçen taraw"
 
-#: pluginopts.cpp:365
+#: pluginopts.cpp:360
 msgid "Select Plugin Scan Folder"
 msgstr "Plugin Taraw Törgägen Sayla"
 
-#: pluginopts.cpp:562
+#: pluginopts.cpp:557
 msgid "Plugin"
 msgstr "Quşılma"
 
-#: pluginopts.cpp:579
+#: pluginopts.cpp:574
 msgid "MIME type"
 msgstr "MIME Töre"
 
-#: pluginopts.cpp:584
+#: pluginopts.cpp:579
 msgid "Description"
 msgstr "Açıqlama"
 
-#: pluginopts.cpp:589
+#: pluginopts.cpp:584
 msgid "Suffixes"
 msgstr "Quşımta"
 
-#: pluginopts.cpp:654
+#: pluginopts.cpp:649
 msgid "New Plugin Policy"
 msgstr "Yaña Plugin Säyäsäte"
 
-#: pluginopts.cpp:657
+#: pluginopts.cpp:652
 msgid "Change Plugin Policy"
 msgstr "Plugin Säyäsäten Üzgärt"
 
-#: pluginopts.cpp:661
+#: pluginopts.cpp:656
 msgid "&Plugin policy:"
 msgstr "&Plugin Säyäsäte:"
 
-#: pluginopts.cpp:662
+#: pluginopts.cpp:657
 msgid "Select a plugin policy for the above host or domain."
 msgstr "Östäge xuca yä ki domen öçen plugin säyäsäten sayla."
 

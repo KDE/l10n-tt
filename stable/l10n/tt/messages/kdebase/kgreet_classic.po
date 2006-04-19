@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kgreet_classic\n"
-"POT-Creation-Date: 2005-08-22 02:35+0200\n"
+"POT-Creation-Date: 2006-04-19 03:54+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -36,10 +36,10 @@ msgstr "&Yaña sersüz:"
 msgid "Con&firm password:"
 msgstr "Sersüz qa&batlaw:"
 
-#: kgreet_classic.cpp:288
+#: kgreet_classic.cpp:290
 msgid "Unrecognized prompt \"%1\""
 msgstr "Tanılmağan çaqıru: \"%1\""
 
-#: kgreet_classic.cpp:497
+#: kgreet_classic.cpp:499
 msgid "Username + password (classic)"
 msgstr "Qullanuçı adı + sersüz (ğädäti)"
