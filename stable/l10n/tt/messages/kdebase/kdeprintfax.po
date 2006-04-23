@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdeprintfax\n"
-"POT-Creation-Date: 2005-06-16 01:26+0200\n"
+"POT-Creation-Date: 2006-04-23 03:54+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -41,44 +41,44 @@ msgstr "%1. Serile Port"
 msgid "Other"
 msgstr "Başqa"
 
-#: faxctrl.cpp:314
+#: faxctrl.cpp:316
 msgid "Converting input files to PostScript"
 msgstr "Kereş biremen PostScript itep äyländerü"
 
-#: faxctrl.cpp:396
+#: faxctrl.cpp:398
 msgid "Sending fax to %1 (%2)"
 msgstr "Faksnı boña cibärü: %1 (%2)"
 
-#: faxctrl.cpp:401
+#: faxctrl.cpp:403
 #, c-format
 msgid "Sending to fax using: %1"
 msgstr "Faxs cibärü, %1 qullanıp"
 
-#: faxctrl.cpp:405
+#: faxctrl.cpp:407
 msgid "Sending fax to %1..."
 msgstr "Faksnı boña cibärü: %1..."
 
-#: faxctrl.cpp:416
+#: faxctrl.cpp:418
 msgid "Skipping %1..."
 msgstr "%1 uzu..."
 
-#: faxctrl.cpp:434
+#: faxctrl.cpp:436
 msgid "Filtering %1..."
 msgstr "%1 sözü..."
 
-#: faxctrl.cpp:552
+#: faxctrl.cpp:554
 msgid "Fax log"
 msgstr "Faks köndälege"
 
-#: faxctrl.cpp:554
+#: faxctrl.cpp:556
 msgid "Fax Log"
 msgstr "Faks Köndälege"
 
-#: faxctrl.cpp:563 faxctrl.cpp:593
+#: faxctrl.cpp:565 faxctrl.cpp:595
 msgid "KDEPrint Fax Tool Log"
 msgstr "KDEPrint Faks Qoralı Köndälege"
 
-#: faxctrl.cpp:598
+#: faxctrl.cpp:600
 msgid "Cannot open file for writing."
 msgstr "Yazu öçen birem açıp bulmadı."
 
