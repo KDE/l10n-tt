@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-04-18 02:08+0000\n"
+"POT-Creation-Date: 2006-04-24 02:08+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -1223,23 +1223,23 @@ msgstr "Comment=Tışqı"
 msgid "Comment=Attachment for KMail Composer"
 msgstr "Comment=KMail öçen qıstırma"
 
-#: kdeprint/specials.desktop:789
+#: kdeprint/specials.desktop:790
 msgid "Description=Creates PDF/Acrobat file as attachment for KMail"
 msgstr "Description=PDF/Acrobat biremen yasap, KMail'ğa qıstırma itep birä"
 
-#: kdeprint/specials.desktop:868
+#: kdeprint/specials.desktop:869
 msgid "Name=Mail PDF File"
 msgstr "Name=PDF Birem Cibärü"
 
-#: kdeprint/specials.desktop:930
+#: kdeprint/specials.desktop:931
 msgid "Comment=KSendFax"
 msgstr "Comment=KSendFax"
 
-#: kdeprint/specials.desktop:945
+#: kdeprint/specials.desktop:946
 msgid "Description=Use ksendfax to fax the current document"
 msgstr "Description=Biredäge istälekne fakslaw öçen ksendfax qullanu"
 
-#: kdeprint/specials.desktop:1021
+#: kdeprint/specials.desktop:1022
 msgid "Name=Advanced Faxing Tool (ksendfax)"
 msgstr "Name=Faks Cibärü Qoralı (ksendfax)"
 
