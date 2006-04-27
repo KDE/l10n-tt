@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdialog\n"
-"POT-Creation-Date: 2006-04-10 03:50+0200\n"
+"POT-Creation-Date: 2006-04-27 03:54+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -160,16 +160,16 @@ msgstr ""
 msgid "Arguments - depending on main option"
 msgstr "Köylämälär - töp köylämägä bäyle"
 
-#: kdialog.cpp:669
+#: kdialog.cpp:665
 msgid "KDialog"
 msgstr "KDialog"
 
-#: kdialog.cpp:670
+#: kdialog.cpp:666
 msgid "KDialog can be used to show nice dialog boxes from shell scripts"
 msgstr ""
 "Qabıq ämerleklärennän täräzälär kürsätü öçen KDialog qullanılğan bula ala"
 
-#: kdialog.cpp:673
+#: kdialog.cpp:669
 msgid "Current maintainer"
 msgstr "Xäzerge qatnaşuçı"
 
