@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdesktop\n"
-"POT-Creation-Date: 2006-04-10 03:51+0200\n"
+"POT-Creation-Date: 2006-04-28 03:54+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -148,31 +148,31 @@ msgstr "KDesktop Yozaqlaw"
 msgid "Session Locker for KDesktop"
 msgstr "KDesktop Sessi Biklägeçe"
 
-#: desktop.cc:778
+#: desktop.cc:760
 msgid "Set as Primary Background Color"
 msgstr "Asyaqnıñ Töp Tösen Bilgeläw"
 
-#: desktop.cc:779
+#: desktop.cc:761
 msgid "Set as Secondary Background Color"
 msgstr "Asyaqnıñ İkençe Tösen Bilgeläw"
 
-#: desktop.cc:796
+#: desktop.cc:778
 msgid "&Save to Desktop..."
 msgstr "Östäldä &Saqlaw..."
 
-#: desktop.cc:798
+#: desktop.cc:780
 msgid "Set as &Wallpaper"
 msgstr "&Cäymä itep Quy"
 
-#: desktop.cc:806
+#: desktop.cc:788
 msgid "Enter a name for the image below:"
 msgstr "Astağı sürät öçen ber isem kertäse:"
 
-#: desktop.cc:815
+#: desktop.cc:797
 msgid "image.png"
 msgstr "image.png"
 
-#: desktop.cc:878
+#: desktop.cc:860
 msgid ""
 "Could not log out properly.\n"
 "The session manager cannot be contacted. You can try to force a shutdown by "
@@ -368,8 +368,8 @@ msgid "Use this if the desktop window appears as a real window"
 msgstr "Östäl täräzäse çın täräzädäy kürenä ikän, monı qullanası"
 
 #: main.cc:52
-msgid "Use this to disable the Autostart folder"
-msgstr "Üzcibärelü törgägen sünderü öçen, monı qullanası"
+msgid "Obsolete"
+msgstr ""
 
 #: main.cc:53
 msgid "Wait for kded to finish building database"
@@ -1080,3 +1080,6 @@ msgid ""
 "Enable this option if you want to disable the screen saver while watching TV or "
 "movies."
 msgstr "Monı açıp, asyaq öçen bülenäçäk alxäter külämen çiklärgä bula."
+
+#~ msgid "Use this to disable the Autostart folder"
+#~ msgstr "Üzcibärelü törgägen sünderü öçen, monı qullanası"
