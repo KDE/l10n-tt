@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase ksystemtrayapplet\n"
-"POT-Creation-Date: 2006-03-18 04:02+0100\n"
+"POT-Creation-Date: 2006-04-29 03:56+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -24,7 +24,7 @@ msgstr "Kürengän ikon:"
 msgid "Hidden icons:"
 msgstr "Yäşeren ikon:"
 
-#: systemtrayapplet.cpp:725
+#: systemtrayapplet.cpp:726
 #, fuzzy
 msgid "Configure System Tray..."
 msgstr "Sistem Tiräsen Caylaw"

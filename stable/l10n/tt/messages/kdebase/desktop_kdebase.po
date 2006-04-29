@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-04-28 02:09+0000\n"
+"POT-Creation-Date: 2006-04-29 02:11+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -4301,19 +4301,14 @@ msgstr "GenericName=Bastıru Qoralı"
 msgid "Name=Printers"
 msgstr "Name=Basaqlar"
 
-#: kdeprint/printmgr/printers.desktop:84 kdeprint/printmgr/printmgr.desktop:89
+#: kdeprint/printmgr/printers.desktop:84
 msgid "Comment=Printing system configuration (printers, jobs, classes, ...)"
 msgstr ""
 "Comment=Bastıru sistemeneñ caylawı: basaqlar, eşlär, törlär kebek närsä"
 
 #: kdeprint/printmgr/printers.desktop:155
-#: kdeprint/printmgr/printmgr.desktop:160
 msgid "Keywords=print,printer,printing management"
 msgstr "Keywords=print,printer,printing management"
-
-#: kdeprint/printmgr/printmgr.desktop:15
-msgid "Name=Printing Manager"
-msgstr "Name=Bastıru İdäräçe"
 
 #: kdeprint/slave/mimetypes/class.desktop:3
 msgid "Comment=Class of Printers"
@@ -7880,6 +7875,9 @@ msgstr ""
 #: pics/wallpapers/triplegears.jpg.desktop:4
 msgid "Name=Triple Gears"
 msgstr "Name=Öçle Yoldızlar"
+
+#~ msgid "Name=Printing Manager"
+#~ msgstr "Name=Bastıru İdäräçe"
 
 #~ msgid "Query=http://www.detelefoongids.nl/tginl.dll?action=white&type=search&name=\\{1}&city=\\{2}"
 #~ msgstr "Query=http://www.detelefoongids.nl/tginl.dll?action=white&type=search&name=\\{1}&city=\\{2}"
