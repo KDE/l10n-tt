@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmfonts\n"
-"POT-Creation-Date: 2005-10-08 02:42+0200\n"
+"POT-Creation-Date: 2006-05-01 03:54+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -68,84 +68,84 @@ msgid ""
 "Hinting is a process used to enhance the quality of fonts at small sizes."
 msgstr "Keçe yazularnı yaqşılığın arttıruçı närsä."
 
-#: fonts.cpp:499
+#: fonts.cpp:492
 msgid "General"
 msgstr "Töptän"
 
-#: fonts.cpp:500
+#: fonts.cpp:493
 msgid "Fixed width"
 msgstr "Berkiñle"
 
-#: fonts.cpp:501
+#: fonts.cpp:494
 msgid "Toolbar"
 msgstr "Qoraltirä"
 
-#: fonts.cpp:502
+#: fonts.cpp:495
 msgid "Menu"
 msgstr "Saylaq"
 
-#: fonts.cpp:503
+#: fonts.cpp:496
 msgid "Window title"
 msgstr "Täräzä başlığı"
 
-#: fonts.cpp:504
+#: fonts.cpp:497
 msgid "Taskbar"
 msgstr "Qoraltirä"
 
-#: fonts.cpp:505
+#: fonts.cpp:498
 msgid "Desktop"
 msgstr "Östäl"
 
-#: fonts.cpp:539
+#: fonts.cpp:532
 msgid "Used for normal text (e.g. button labels, list items)."
 msgstr "Ğädäti yazma öçen totılğan (ü.ö. töymä yazmasıtezmä keremnäre)."
 
-#: fonts.cpp:540
+#: fonts.cpp:533
 msgid "A non-proportional font (i.e. typewriter font)."
 msgstr "Nisbätle bulmağan yazu (ü.ö. typewriter yazuı)."
 
-#: fonts.cpp:541
+#: fonts.cpp:534
 msgid "Used to display text beside toolbar icons."
 msgstr "Qoraltirädäge töymä yazmalarda totılğan."
 
-#: fonts.cpp:542
+#: fonts.cpp:535
 msgid "Used by menu bars and popup menus."
 msgstr "Saylaq tiräse belän atılma saylaqta totılğan."
 
-#: fonts.cpp:543
+#: fonts.cpp:536
 msgid "Used by the window titlebar."
 msgstr "Täräzä başlığında totılğan."
 
-#: fonts.cpp:544
+#: fonts.cpp:537
 msgid "Used by the taskbar."
 msgstr "Bu qoraltirädä totılğan."
 
-#: fonts.cpp:545
+#: fonts.cpp:538
 msgid "Used for desktop icons."
 msgstr "Östäldäge tamğalar öçen totılğan."
 
-#: fonts.cpp:596
+#: fonts.cpp:589
 msgid "Ad&just All Fonts..."
 msgstr "Bar Yazularnı &Köyläw..."
 
-#: fonts.cpp:597
+#: fonts.cpp:590
 msgid "Click to change all fonts"
 msgstr "Bar yazularnı üzgärtü öçen çirt"
 
-#: fonts.cpp:604
+#: fonts.cpp:597
 msgid "Use a&nti-aliasing for fonts"
 msgstr "Yazular şomartuın &qullanası"
 
-#: fonts.cpp:605
+#: fonts.cpp:598
 msgid ""
 "If this option is selected, KDE will smooth the edges of curves in fonts."
 msgstr "Bu köylämä yanıq torsa, KDE yazular çiklären şomartıp toraçaq."
 
-#: fonts.cpp:608
+#: fonts.cpp:601
 msgid "Configure..."
 msgstr "Caylaw..."
 
-#: fonts.cpp:684
+#: fonts.cpp:677
 msgid ""
 "<p>You have changed anti-aliasing related settings. This change will only "
 "affect newly started applications.</p>"
@@ -153,39 +153,39 @@ msgstr ""
 "<p>Şomartu köyläwläre üzgärtelgän bulğan. Yaña cibärelgän yazılımnarda ğına "
 "alarnıñ çağılışı bulaçaq.</p>"
 
-#: fonts.cpp:685
+#: fonts.cpp:678
 msgid "Anti-Aliasing Settings Changed"
 msgstr "Yazular Şomartu Caylawı Üzgärelgän"
 
-#: kxftconfig.cpp:874 kxftconfig.cpp:915
+#: kxftconfig.cpp:876 kxftconfig.cpp:917
 msgid "None"
 msgstr "Yuq"
 
-#: kxftconfig.cpp:876
+#: kxftconfig.cpp:878
 msgid "RGB"
 msgstr "RGB"
 
-#: kxftconfig.cpp:878
+#: kxftconfig.cpp:880
 msgid "BGR"
 msgstr "BGR"
 
-#: kxftconfig.cpp:880
+#: kxftconfig.cpp:882
 msgid "Vertical RGB"
 msgstr "Asma RGB"
 
-#: kxftconfig.cpp:882
+#: kxftconfig.cpp:884
 msgid "Vertical BGR"
 msgstr "Asma BGR"
 
-#: kxftconfig.cpp:911
+#: kxftconfig.cpp:913
 msgid "Medium"
 msgstr "Urtaça"
 
-#: kxftconfig.cpp:917
+#: kxftconfig.cpp:919
 msgid "Slight"
 msgstr "Ällä ni"
 
-#: kxftconfig.cpp:919
+#: kxftconfig.cpp:921
 msgid "Full"
 msgstr "Tulı"
 
