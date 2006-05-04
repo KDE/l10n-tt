@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase konsole\n"
-"POT-Creation-Date: 2006-05-03 03:53+0200\n"
+"POT-Creation-Date: 2006-05-04 03:55+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -735,10 +735,14 @@ msgid ""
 msgstr ""
 "İkele çirtkändä, bu xäref-san bulmağan bilgelär dä süz belän bergä saylanaçaq:"
 
-#: kwrited.cpp:61
+#: kwrited.cpp:62
 #, c-format
 msgid "KWrited - Listening on Device %1"
 msgstr "KWrited - %1 Cıhazın Tıñlaw"
+
+#: kwrited.cpp:94
+msgid "Clear Messages"
+msgstr ""
 
 #: main.cpp:55
 msgid "X terminal for use with KDE."
