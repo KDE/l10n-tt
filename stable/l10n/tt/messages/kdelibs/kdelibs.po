@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-05-05 03:51+0200\n"
+"POT-Creation-Date: 2006-05-06 03:51+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -994,7 +994,7 @@ msgid "&Save"
 msgstr "&Saqla"
 
 #: common_texts.cpp:111 khtml/khtml_part.cpp:3926 khtml/khtml_part.cpp:4130
-#: khtml/khtml_part.cpp:4444 khtml/khtml_run.cpp:83 kparts/browserrun.cpp:417
+#: khtml/khtml_part.cpp:4444 khtml/khtml_run.cpp:83 kparts/browserrun.cpp:419
 msgid "Save As"
 msgstr "Yañaça Saqlaw..."
 
@@ -6815,11 +6815,11 @@ msgstr "%1 atlı birem bar inde. Anıñ östennän yazıp almaştırasımı?"
 msgid "Overwrite File?"
 msgstr "Biremne Östennän Yazasımı?"
 
-#: khtml/khtml_ext.cpp:884 kparts/browserrun.cpp:388
+#: khtml/khtml_ext.cpp:884 kparts/browserrun.cpp:390
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "İñderü Citäkçesen (%1) $PATH buyınça tabıp bulmadı "
 
-#: khtml/khtml_ext.cpp:885 kparts/browserrun.cpp:389
+#: khtml/khtml_ext.cpp:885 kparts/browserrun.cpp:391
 msgid ""
 "Try to reinstall it  \n"
 "\n"
@@ -8016,19 +8016,19 @@ msgstr ""
 msgid "Close Document"
 msgstr "İstälekne Yap"
 
-#: kparts/browserrun.cpp:273
+#: kparts/browserrun.cpp:275
 msgid "Do you really want to execute '%1'? "
 msgstr "'%1' digänen çınlap ta eşlätäseme? "
 
-#: kparts/browserrun.cpp:274
+#: kparts/browserrun.cpp:276
 msgid "Execute File?"
 msgstr "Biremne Eşlätäseme?"
 
-#: kparts/browserrun.cpp:274
+#: kparts/browserrun.cpp:276
 msgid "Execute"
 msgstr "Eşlät"
 
-#: kparts/browserrun.cpp:292
+#: kparts/browserrun.cpp:294
 msgid ""
 "Open '%2'?\n"
 "Type: %1"
@@ -8036,7 +8036,7 @@ msgstr ""
 "'%2' Açasımı?\n"
 "Töre: %1"
 
-#: kparts/browserrun.cpp:294
+#: kparts/browserrun.cpp:296
 msgid ""
 "Open '%3'?\n"
 "Name: %2\n"
@@ -8046,15 +8046,15 @@ msgstr ""
 "Adı: %2\n"
 "Töre: %1"
 
-#: kparts/browserrun.cpp:308
+#: kparts/browserrun.cpp:310
 msgid "&Open with '%1'"
 msgstr "&Monı belän aç '%1'"
 
-#: kparts/browserrun.cpp:309
+#: kparts/browserrun.cpp:311
 msgid "&Open With..."
 msgstr "&Monı belän Açu..."
 
-#: kparts/browserrun.cpp:351
+#: kparts/browserrun.cpp:353
 msgid "&Open"
 msgstr "&Aç"
 
