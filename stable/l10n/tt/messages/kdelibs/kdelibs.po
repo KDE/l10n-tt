@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-05-06 03:51+0200\n"
+"POT-Creation-Date: 2006-05-07 03:53+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -439,7 +439,7 @@ msgid "S&uggest"
 msgstr "&Alıştırma"
 
 #. i18n: file ./kdeui/kspellui.ui line 254
-#: kdeui/ksconfig.cpp:293 rc.cpp:206 rc.cpp:387
+#: kdeui/ksconfig.cpp:294 rc.cpp:206 rc.cpp:387
 #, no-c-format
 msgid "English"
 msgstr "İnglizçä"
@@ -4036,8 +4036,8 @@ msgstr "Urısälif"
 msgid "Greek"
 msgstr "Yunança"
 
-#: kdecore/kcharsets.cpp:51 kdeui/ksconfig.cpp:234 kdeui/ksconfig.cpp:394
-#: kdeui/ksconfig.cpp:649 khtml/khtml_part.cpp:285
+#: kdecore/kcharsets.cpp:51 kdeui/ksconfig.cpp:235 kdeui/ksconfig.cpp:395
+#: kdeui/ksconfig.cpp:650 khtml/khtml_part.cpp:285
 msgid "Hebrew"
 msgstr "Yähüdçä"
 
@@ -4053,8 +4053,8 @@ msgstr "Koreyçä"
 msgid "Thai"
 msgstr "Tayça"
 
-#: kdecore/kcharsets.cpp:55 kdeui/ksconfig.cpp:239 kdeui/ksconfig.cpp:399
-#: kdeui/ksconfig.cpp:654 khtml/khtml_part.cpp:290
+#: kdecore/kcharsets.cpp:55 kdeui/ksconfig.cpp:240 kdeui/ksconfig.cpp:400
+#: kdeui/ksconfig.cpp:655 khtml/khtml_part.cpp:290
 msgid "Turkish"
 msgstr "Törekçä"
 
@@ -4987,143 +4987,143 @@ msgstr "Sürät Öleşen Saylaw"
 msgid "Please click and drag on the image to select the region of interest:"
 msgstr "Sürätneñ kiräk öleşen saylaw öçen aña çirtep österergä kiräk:"
 
-#: kdeui/ksconfig.cpp:101
+#: kdeui/ksconfig.cpp:102
 msgid "Create &root/affix combinations not in dictionary"
 msgstr "&Tamır/quşımta kileşülären süzlektän tış yasísı"
 
-#: kdeui/ksconfig.cpp:106
+#: kdeui/ksconfig.cpp:107
 msgid "Consider run-together &words as spelling errors"
 msgstr "Bergä-cíılğan &süzlärne xata itep sanísı"
 
-#: kdeui/ksconfig.cpp:117
+#: kdeui/ksconfig.cpp:118
 msgid "&Dictionary:"
 msgstr "&Süzlek:"
 
-#: kdeui/ksconfig.cpp:142
+#: kdeui/ksconfig.cpp:143
 msgid "&Encoding:"
 msgstr "&Bilgelämä:"
 
-#: kdeui/ksconfig.cpp:147
+#: kdeui/ksconfig.cpp:148
 msgid "International Ispell"
 msgstr "Küptelle ISpell"
 
-#: kdeui/ksconfig.cpp:148
+#: kdeui/ksconfig.cpp:149
 msgid "Aspell"
 msgstr "Aspell"
 
-#: kdeui/ksconfig.cpp:149
+#: kdeui/ksconfig.cpp:150
 msgid "Hspell"
 msgstr "Hspell"
 
-#: kdeui/ksconfig.cpp:150
+#: kdeui/ksconfig.cpp:151
 msgid "Zemberek"
 msgstr "Zemberek"
 
-#: kdeui/ksconfig.cpp:155
+#: kdeui/ksconfig.cpp:156
 msgid "&Client:"
 msgstr "&Klient:"
 
-#: kdeui/ksconfig.cpp:296
+#: kdeui/ksconfig.cpp:297
 msgid "Spanish"
 msgstr "İspança"
 
-#: kdeui/ksconfig.cpp:299
+#: kdeui/ksconfig.cpp:300
 msgid "Danish"
 msgstr "Dança"
 
-#: kdeui/ksconfig.cpp:302
+#: kdeui/ksconfig.cpp:303
 msgid "German"
 msgstr "Almança"
 
-#: kdeui/ksconfig.cpp:305
+#: kdeui/ksconfig.cpp:306
 msgid "German (new spelling)"
 msgstr "Almança (yaña imla)"
 
-#: kdeui/ksconfig.cpp:308
+#: kdeui/ksconfig.cpp:309
 msgid "Brazilian Portuguese"
 msgstr "Portugalça, Brasil"
 
-#: kdeui/ksconfig.cpp:311
+#: kdeui/ksconfig.cpp:312
 msgid "Portuguese"
 msgstr "Portugalça"
 
-#: kdeui/ksconfig.cpp:314
+#: kdeui/ksconfig.cpp:315
 msgid "Esperanto"
 msgstr "Esperanto"
 
-#: kdeui/ksconfig.cpp:317
+#: kdeui/ksconfig.cpp:318
 msgid "Norwegian"
 msgstr "Norwejçä"
 
-#: kdeui/ksconfig.cpp:320
+#: kdeui/ksconfig.cpp:321
 msgid "Polish"
 msgstr "Polça"
 
-#: kdeui/ksconfig.cpp:323 khtml/khtml_part.cpp:288
+#: kdeui/ksconfig.cpp:324 khtml/khtml_part.cpp:288
 msgid "Russian"
 msgstr "Urısça"
 
-#: kdeui/ksconfig.cpp:326
+#: kdeui/ksconfig.cpp:327
 msgid "Slovenian"
 msgstr "Slovençä"
 
-#: kdeui/ksconfig.cpp:329
+#: kdeui/ksconfig.cpp:330
 msgid "Slovak"
 msgstr "Slovakça"
 
-#: kdeui/ksconfig.cpp:332
+#: kdeui/ksconfig.cpp:333
 msgid "Czech"
 msgstr "Çexçä"
 
-#: kdeui/ksconfig.cpp:335
+#: kdeui/ksconfig.cpp:336
 msgid "Swedish"
 msgstr "İswäcçä"
 
-#: kdeui/ksconfig.cpp:338
+#: kdeui/ksconfig.cpp:339
 msgid "Swiss German"
 msgstr "Almança (İswiçrä)"
 
-#: kdeui/ksconfig.cpp:341 khtml/khtml_part.cpp:291
+#: kdeui/ksconfig.cpp:342 khtml/khtml_part.cpp:291
 msgid "Ukrainian"
 msgstr "Ukrainça"
 
-#: kdeui/ksconfig.cpp:344
+#: kdeui/ksconfig.cpp:345
 msgid "Lithuanian"
 msgstr "Litçä"
 
-#: kdeui/ksconfig.cpp:347
+#: kdeui/ksconfig.cpp:348
 msgid "French"
 msgstr "Fransça"
 
-#: kdeui/ksconfig.cpp:350
+#: kdeui/ksconfig.cpp:351
 msgid "Belarusian"
 msgstr "Belarusça"
 
-#: kdeui/ksconfig.cpp:353
+#: kdeui/ksconfig.cpp:354
 msgid "Hungarian"
 msgstr "Macarça"
 
-#: kdeui/ksconfig.cpp:357
+#: kdeui/ksconfig.cpp:358
 msgid ""
 "_: Unknown ispell dictionary\n"
 "Unknown"
 msgstr "Bilgesez"
 
-#: kdeui/ksconfig.cpp:439 kdeui/ksconfig.cpp:589
+#: kdeui/ksconfig.cpp:440 kdeui/ksconfig.cpp:590
 msgid "ISpell Default"
 msgstr "ISpell, Ğädäti"
 
-#: kdeui/ksconfig.cpp:485 kdeui/ksconfig.cpp:635
+#: kdeui/ksconfig.cpp:486 kdeui/ksconfig.cpp:636
 msgid ""
 "_: default spelling dictionary\n"
 "Default - %1 [%2]"
 msgstr "Ğädäti - %1 [%2]"
 
-#: kdeui/ksconfig.cpp:505 kdeui/ksconfig.cpp:661
+#: kdeui/ksconfig.cpp:506 kdeui/ksconfig.cpp:662
 msgid "ASpell Default"
 msgstr "ASpell, Ğädäti"
 
-#: kdeui/ksconfig.cpp:568 kdeui/ksconfig.cpp:724
+#: kdeui/ksconfig.cpp:569 kdeui/ksconfig.cpp:725
 #, c-format
 msgid ""
 "_: default spelling dictionary\n"
@@ -7483,11 +7483,11 @@ msgstr ""
 "%1 yul %2:\n"
 "%3"
 
-#: khtml/ecma/kjs_html.cpp:2146 khtml/ecma/kjs_window.cpp:1360
+#: khtml/ecma/kjs_html.cpp:2146 khtml/ecma/kjs_window.cpp:1362
 msgid "Confirmation: JavaScript Popup"
 msgstr "Yaslaw: JavaScript Atılması"
 
-#: khtml/ecma/kjs_window.cpp:1363
+#: khtml/ecma/kjs_window.cpp:1365
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
@@ -7495,7 +7495,7 @@ msgstr ""
 "Bu bittäge JavaScript yaña täräzä açmaqçı bula.\n"
 "Aña bonı eşlärgä biräseme?"
 
-#: khtml/ecma/kjs_window.cpp:1366
+#: khtml/ecma/kjs_window.cpp:1368
 msgid ""
 "<qt>This site is requesting to open"
 "<p>%1</p>in a new browser window via JavaScript.<br />"
@@ -7505,39 +7505,39 @@ msgstr ""
 "<p>%1</p>urınlaşuın yaña täräzädä açmaqçı bula.<br />"
 "Aña bonı eşlärgä biräseme?</qt>"
 
-#: khtml/ecma/kjs_html.cpp:2153 khtml/ecma/kjs_window.cpp:1368
+#: khtml/ecma/kjs_html.cpp:2153 khtml/ecma/kjs_window.cpp:1370
 msgid "Allow"
 msgstr "Röxsät it"
 
-#: khtml/ecma/kjs_html.cpp:2153 khtml/ecma/kjs_window.cpp:1368
+#: khtml/ecma/kjs_html.cpp:2153 khtml/ecma/kjs_window.cpp:1370
 msgid "Do Not Allow"
 msgstr "Birmäskä"
 
-#: khtml/ecma/kjs_window.cpp:1650
+#: khtml/ecma/kjs_window.cpp:1655
 msgid "Close window?"
 msgstr "Täräzäne yabasımı?"
 
-#: khtml/ecma/kjs_window.cpp:1650
+#: khtml/ecma/kjs_window.cpp:1655
 msgid "Confirmation Required"
 msgstr "Raslísı Bar"
 
-#: khtml/ecma/kjs_window.cpp:2519
+#: khtml/ecma/kjs_window.cpp:2524
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Saylanmağa \"%1\" taba kürsätkän bitbilgene östiseme?"
 
-#: khtml/ecma/kjs_window.cpp:2522
+#: khtml/ecma/kjs_window.cpp:2527
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
 msgstr "Saylanmağa \"%1\" taba kürsätkän \"%2\" atlı bitbilgene östiseme?"
 
-#: khtml/ecma/kjs_window.cpp:2530
+#: khtml/ecma/kjs_window.cpp:2535
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript eçennän Bitbilge Östälänä"
 
-#: khtml/ecma/kjs_window.cpp:2534
+#: khtml/ecma/kjs_window.cpp:2539
 msgid "Disallow"
 msgstr "Birmäw"
 
