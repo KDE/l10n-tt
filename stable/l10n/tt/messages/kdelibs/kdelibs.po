@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-05-07 03:53+0200\n"
+"POT-Creation-Date: 2006-05-10 03:52+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2118,8 +2118,10 @@ msgid "Unable to open lock file."
 msgstr "Bikle birem açıp bulmadı."
 
 #: kabc/lock.cpp:105
-msgid "The resource '%1' is locked by application '%2'."
-msgstr "'%1' digän resurs '%2' yazılımınnan biklängän."
+msgid ""
+"The address book '%1' is locked by application '%2'.\n"
+"If you believe this is incorrect, just remove the lock file from '%3'"
+msgstr ""
 
 #: kabc/lock.cpp:145
 msgid "Unlock failed. Lock file is owned by other process: %1 (%2)"
@@ -6643,7 +6645,7 @@ msgstr "Yazu Tikşerü Üze Eşläsen"
 msgid "Allow Tabulations"
 msgstr "Çigenüne Açası"
 
-#: kdeui/ktextedit.cpp:347 khtml/rendering/render_form.cpp:331
+#: kdeui/ktextedit.cpp:353 khtml/rendering/render_form.cpp:331
 msgid "Spell Checking"
 msgstr "Yazu Tikşerü"
 
@@ -10888,6 +10890,9 @@ msgid ""
 "_: QXml\n"
 "error in the text declaration of an external entity"
 msgstr "tışqı entity öçen yazma bilgeläwendä xata kilep çıqtı"
+
+#~ msgid "The resource '%1' is locked by application '%2'."
+#~ msgstr "'%1' digän resurs '%2' yazılımınnan biklängän."
 
 #~ msgid "AutoExampleDialog"
 #~ msgstr "AutoExampleDialog"
