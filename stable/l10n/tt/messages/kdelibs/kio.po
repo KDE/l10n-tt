@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2006-05-06 03:51+0200\n"
+"POT-Creation-Date: 2006-05-11 03:55+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2995,15 +2995,15 @@ msgstr "Sersüzlär kileşte."
 msgid "Passwords do not match."
 msgstr "Sersüzlär kileşmäde."
 
-#: misc/ktelnetservice.cpp:40
+#: misc/ktelnetservice.cpp:41
 msgid "telnet service"
 msgstr "telnet xezmäte"
 
-#: misc/ktelnetservice.cpp:41
+#: misc/ktelnetservice.cpp:42
 msgid "telnet protocol handler"
 msgstr "telnet protokol eşkärtkeçe"
 
-#: misc/ktelnetservice.cpp:70
+#: misc/ktelnetservice.cpp:76
 msgid "You do not have permission to access the %1 protocol."
 msgstr "%1 protokolın qullanırlıq xoquqlarıñ citmi."
 
