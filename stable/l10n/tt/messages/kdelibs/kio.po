@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2006-05-11 03:55+0200\n"
+"POT-Creation-Date: 2006-05-13 03:52+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -5890,27 +5890,27 @@ msgstr "KDE'neñ HTTP alxäter idärä qoralı"
 msgid "Empty the cache"
 msgstr "Alxäterne buşat"
 
-#: ../kioslave/http/kcookiejar/main.cpp:34
+#: ../kioslave/http/kcookiejar/main.cpp:30
 msgid "HTTP Cookie Daemon"
 msgstr "HTTP Cookie Xezmäte"
 
-#: ../kioslave/http/kcookiejar/main.cpp:40
+#: ../kioslave/http/kcookiejar/main.cpp:36
 msgid "Shut down cookie jar"
 msgstr "Cookie tuplamasın yapu"
 
-#: ../kioslave/http/kcookiejar/main.cpp:41
+#: ../kioslave/http/kcookiejar/main.cpp:37
 msgid "Remove cookies for domain"
 msgstr "Domain öçen cookie beterü"
 
-#: ../kioslave/http/kcookiejar/main.cpp:42
+#: ../kioslave/http/kcookiejar/main.cpp:38
 msgid "Remove all cookies"
 msgstr "Barlıq cookie beterü"
 
-#: ../kioslave/http/kcookiejar/main.cpp:43
+#: ../kioslave/http/kcookiejar/main.cpp:39
 msgid "Reload configuration file"
 msgstr "Caylaw biremen qabat yöklä"
 
-#: ../kioslave/http/kcookiejar/main.cpp:50
+#: ../kioslave/http/kcookiejar/main.cpp:46
 msgid "HTTP cookie daemon"
 msgstr "HTTP cookie xezmäte"
 
