@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmscreensaver\n"
-"POT-Creation-Date: 2006-03-27 03:52+0200\n"
+"POT-Creation-Date: 2006-05-17 03:55+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -24,11 +24,11 @@ msgid ""
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
 
-#: advanceddialog.cpp:16
+#: advanceddialog.cpp:18
 msgid "Advanced Options"
 msgstr "Östämä Caylawlar"
 
-#: advanceddialog.cpp:126
+#: advanceddialog.cpp:146
 msgid ""
 "Specify the priority that the screensaver will run at. A higher priority may "
 "mean that the screensaver runs faster, though may reduce the speed that other "
@@ -38,28 +38,28 @@ msgstr ""
 "belän cibärelgändä, küräk-saqçınıñ eşläwe tizräk buluı bar, dimäk saqçı eşlägän "
 "çaqta başqa yazılımnarnıñ eşe äkrenäyer."
 
-#: advanceddialog.cpp:127
+#: advanceddialog.cpp:147
 msgid ""
 "The action to take when the mouse cursor is located in the top left corner of "
 "the screen for 15 seconds."
 msgstr ""
 "Küse uğı küräkneñ öske sul poçmağında 15 sekund buyı torsa, bu eş eşläner."
 
-#: advanceddialog.cpp:128
+#: advanceddialog.cpp:148
 msgid ""
 "The action to take when the mouse cursor is located in the top right corner of "
 "the screen for 15 seconds."
 msgstr ""
 "Küse uğı küräkneñ öske uñ poçmağında 15 sekund buyı torsa, bu eş eşläner."
 
-#: advanceddialog.cpp:129
+#: advanceddialog.cpp:149
 msgid ""
 "The action to take when the mouse cursor is located in the bottom left corner "
 "of the screen for 15 seconds."
 msgstr ""
 "Küse uğı küräkneñ asqı sul poçmağında 15 sekund buyı torsa, bu eş eşläner."
 
-#: advanceddialog.cpp:130
+#: advanceddialog.cpp:150
 msgid ""
 "The action to take when the mouse cursor is located in the bottom right corner "
 "of the screen for 15 seconds."

@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase krdb\n"
-"POT-Creation-Date: 2005-06-02 01:23+0200\n"
+"POT-Creation-Date: 2006-05-17 03:54+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: krdb.cpp:340
+#: krdb.cpp:344
 msgid ""
 "# created by KDE, %1\n"
 "#\n"
