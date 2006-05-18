@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase konqueror\n"
-"POT-Creation-Date: 2006-04-12 03:53+0200\n"
+"POT-Creation-Date: 2006-05-18 03:59+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -622,15 +622,15 @@ msgstr ""
 
 #: konq_mainwindow.cc:1759 konq_mainwindow.cc:2583 konq_mainwindow.cc:2601
 #: konq_mainwindow.cc:2705 konq_mainwindow.cc:2721 konq_mainwindow.cc:2738
-#: konq_mainwindow.cc:2775 konq_mainwindow.cc:2808 konq_mainwindow.cc:5194
-#: konq_mainwindow.cc:5212 konq_viewmgr.cc:1163 konq_viewmgr.cc:1181
+#: konq_mainwindow.cc:2775 konq_mainwindow.cc:2808 konq_mainwindow.cc:5197
+#: konq_mainwindow.cc:5215 konq_viewmgr.cc:1163 konq_viewmgr.cc:1181
 msgid "Discard Changes?"
 msgstr "Üzgäreşne Yuğaltasımı?"
 
 #: konq_mainwindow.cc:1759 konq_mainwindow.cc:2583 konq_mainwindow.cc:2601
 #: konq_mainwindow.cc:2705 konq_mainwindow.cc:2721 konq_mainwindow.cc:2738
-#: konq_mainwindow.cc:2775 konq_mainwindow.cc:2808 konq_mainwindow.cc:5194
-#: konq_mainwindow.cc:5212 konq_viewmgr.cc:1163 konq_viewmgr.cc:1181
+#: konq_mainwindow.cc:2775 konq_mainwindow.cc:2808 konq_mainwindow.cc:5197
+#: konq_mainwindow.cc:5215 konq_viewmgr.cc:1163 konq_viewmgr.cc:1181
 msgid "&Discard Changes"
 msgstr "&Üzgärmäne Yuğaltası"
 
@@ -1115,13 +1115,13 @@ msgstr "Törgäkne Tabaqta Aç"
 
 #: konq_mainwindow.cc:4004
 #: sidebar/trees/bookmark_module/bookmark_module.cpp:67
-#: sidebar/trees/konq_sidebartree.cpp:919
+#: sidebar/trees/konq_sidebartree.cpp:913
 msgid "Open in New Window"
 msgstr "Yaña Täräzädä Aç"
 
 #: konq_mainwindow.cc:4005
 #: sidebar/trees/bookmark_module/bookmark_module.cpp:69
-#: sidebar/trees/konq_sidebartree.cpp:921
+#: sidebar/trees/konq_sidebartree.cpp:915
 msgid "Open in New Tab"
 msgstr "Yaña Tabaqta Aç"
 
@@ -1166,29 +1166,29 @@ msgstr "&Yaña Tabaqta Aç"
 msgid "Open the document in a new tab"
 msgstr "İstälekne yaña tabaqta aç"
 
-#: konq_mainwindow.cc:4890
+#: konq_mainwindow.cc:4893
 #, c-format
 msgid "Open with %1"
 msgstr "Monı belän aç: %1"
 
-#: konq_mainwindow.cc:4947
+#: konq_mainwindow.cc:4950
 msgid "&View Mode"
 msgstr "&Küreneş Isulı"
 
-#: konq_mainwindow.cc:5157
+#: konq_mainwindow.cc:5160
 msgid ""
 "You have multiple tabs open in this window, are you sure you want to quit?"
 msgstr "Bu täräzädä berniçä tabaq açılğan bulğan. Çınlap ta çığasımı?"
 
-#: konq_mainwindow.cc:5159 konq_viewmgr.cc:1145
+#: konq_mainwindow.cc:5162 konq_viewmgr.cc:1145
 msgid "Confirmation"
 msgstr "Raslaw"
 
-#: konq_mainwindow.cc:5161
+#: konq_mainwindow.cc:5164
 msgid "C&lose Current Tab"
 msgstr "Biredäge Tabaqnı Ya&p"
 
-#: konq_mainwindow.cc:5193
+#: konq_mainwindow.cc:5196
 msgid ""
 "This tab contains changes that have not been submitted.\n"
 "Closing the window will discard these changes."
@@ -1196,7 +1196,7 @@ msgstr ""
 "Bu tabaqtağı üzgäreşlär saqlanmağan äle.\n"
 "Bu täräzä yabıla ikän, ul üzgäreşlär yuğalaçaq."
 
-#: konq_mainwindow.cc:5211
+#: konq_mainwindow.cc:5214
 msgid ""
 "This page contains changes that have not been submitted.\n"
 "Closing the window will discard these changes."
@@ -1204,20 +1204,20 @@ msgstr ""
 "Bu bittäge üzgäreşlär saqlanmağan äle.\n"
 "Bu täräzä yabıla ikän, ul üzgäreşlär yuğalaçaq."
 
-#: konq_mainwindow.cc:5300
+#: konq_mainwindow.cc:5303
 msgid ""
 "Your sidebar is not functional or unavailable. A new entry cannot be added."
 msgstr "Yantiräñ yä eşlämi, yä sünek tora. Yaña kerem östäp bulmí."
 
-#: konq_mainwindow.cc:5300 konq_mainwindow.cc:5307
+#: konq_mainwindow.cc:5303 konq_mainwindow.cc:5310
 msgid "Web Sidebar"
 msgstr "Web Yantiräse"
 
-#: konq_mainwindow.cc:5305
+#: konq_mainwindow.cc:5308
 msgid "Add new web extension \"%1\" to your sidebar?"
 msgstr "Yantirägä '%1' digän yaña web-quşılmanı östiseme?"
 
-#: konq_mainwindow.cc:5307
+#: konq_mainwindow.cc:5310
 msgid "Do Not Add"
 msgstr "Östämäskä"
 
@@ -1589,7 +1589,7 @@ msgstr "Bu biremne qullanu öçen, anı baştan çüplektän çığarası bar."
 msgid "&Show Netscape Bookmarks in Konqueror"
 msgstr "Konqueror'da Netscape Bitbilgelären Kürsätäse"
 
-#: keditbookmarks/actionsimpl.cpp:111 sidebar/trees/konq_sidebartree.cpp:913
+#: keditbookmarks/actionsimpl.cpp:111 sidebar/trees/konq_sidebartree.cpp:907
 msgid "Rename"
 msgstr "İsem quşu"
 
@@ -2522,11 +2522,11 @@ msgstr "Boyırıqtan çığım: \"%1\""
 msgid "Clear Search"
 msgstr "Ezläwne Buşat"
 
-#: sidebar/trees/konqsidebar_tree.cpp:145
+#: sidebar/trees/konqsidebar_tree.cpp:146
 msgid "Select Type"
 msgstr "Saylaw Töre"
 
-#: sidebar/trees/konqsidebar_tree.cpp:146
+#: sidebar/trees/konqsidebar_tree.cpp:147
 msgid "Select type:"
 msgstr "Saylaw töre:"
 
@@ -2613,7 +2613,7 @@ msgid "&Create New Folder"
 msgstr "&Yaña Törgäk Yasa"
 
 #: sidebar/trees/bookmark_module/bookmark_module.cpp:61
-#: sidebar/trees/konq_sidebartree.cpp:911
+#: sidebar/trees/konq_sidebartree.cpp:905
 msgid "Delete Folder"
 msgstr "Törgäkne Beter"
 
@@ -2622,7 +2622,7 @@ msgid "Delete Bookmark"
 msgstr "Bitbilgene Beter"
 
 #: sidebar/trees/bookmark_module/bookmark_module.cpp:73
-#: sidebar/trees/konq_sidebartree.cpp:923
+#: sidebar/trees/konq_sidebartree.cpp:917
 msgid "Copy Link Address"
 msgstr "Bäy Urının İskä al"
 
@@ -2654,23 +2654,23 @@ msgstr "Bitbilge Beterü"
 msgid "Bookmark Properties"
 msgstr "Bitbilge Üzençälege"
 
-#: sidebar/trees/konq_sidebartree.cpp:909
+#: sidebar/trees/konq_sidebartree.cpp:903
 msgid "&Create New Folder..."
 msgstr "&Yaña Törgäk Yasaw..."
 
-#: sidebar/trees/konq_sidebartree.cpp:915
+#: sidebar/trees/konq_sidebartree.cpp:909
 msgid "Delete Link"
 msgstr "Bäyne Beter"
 
-#: sidebar/trees/konq_sidebartree.cpp:961
+#: sidebar/trees/konq_sidebartree.cpp:955
 msgid "New Folder"
 msgstr "Yaña Törgäk"
 
-#: sidebar/trees/konq_sidebartree.cpp:965
+#: sidebar/trees/konq_sidebartree.cpp:959
 msgid "Create New Folder"
 msgstr "Yaña Törgäk Yasa"
 
-#: sidebar/trees/konq_sidebartree.cpp:966
+#: sidebar/trees/konq_sidebartree.cpp:960
 msgid "Enter folder name:"
 msgstr "Törgäk adın kert:"
 
