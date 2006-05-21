@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-05-20 03:53+0200\n"
+"POT-Creation-Date: 2006-05-21 03:53+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -5682,19 +5682,19 @@ msgstr "Sınaw"
 msgid "&Overwrite"
 msgstr "Östän Yaz"
 
-#: kdeui/ksyntaxhighlighter.cpp:472 kdeui/ksyntaxhighlighter.cpp:579
+#: kdeui/ksyntaxhighlighter.cpp:476 kdeui/ksyntaxhighlighter.cpp:583
 msgid "As-you-type spell checking enabled."
 msgstr "Kertkän-çaqta yazu döreslegen tikşerü açıq."
 
-#: kdeui/ksyntaxhighlighter.cpp:474
+#: kdeui/ksyntaxhighlighter.cpp:478
 msgid "As-you-type spell checking disabled."
 msgstr "Kertkän-çaqta yazu döreslegen tikşerü sünek."
 
-#: kdeui/ksyntaxhighlighter.cpp:521
+#: kdeui/ksyntaxhighlighter.cpp:525
 msgid "Incremental Spellcheck"
 msgstr "Arttırulı Yazma-tikşergeç"
 
-#: kdeui/ksyntaxhighlighter.cpp:581
+#: kdeui/ksyntaxhighlighter.cpp:585
 msgid "Too many misspelled words. As-you-type spell checking disabled."
 msgstr "Xatalı süzlär artıq küp. Kertkän-çaqta tikşerü eşe sünderelde."
 
