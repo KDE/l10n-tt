@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-05-23 02:08+0000\n"
+"POT-Creation-Date: 2006-05-24 02:11+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -774,7 +774,7 @@ msgstr "GenericName=Söyläk Uyını"
 msgid "Name=Angband"
 msgstr "Name=Angband"
 
-#: kappfinder/apps/Games/Roguelikes/angband.desktop:13
+#: kappfinder/apps/Games/Roguelikes/angband.desktop:14
 msgid "Comment=Dive into Angband and defeat Morgoth"
 msgstr "Comment=Angband taba barıp Morgoth'nı ciñ"
 
@@ -782,7 +782,7 @@ msgstr "Comment=Angband taba barıp Morgoth'nı ciñ"
 msgid "Name=Moria"
 msgstr "Name=Moria"
 
-#: kappfinder/apps/Games/Roguelikes/moria.desktop:18
+#: kappfinder/apps/Games/Roguelikes/moria.desktop:19
 msgid "Comment=Dive into Moria and defeat the Balrog"
 msgstr "Comment=Moria taba barıp Balrog'nı ciñ"
 
@@ -928,7 +928,7 @@ msgstr "GenericName=Küräk Töşergeç Yazılım"
 msgid "Name=X Bitmap"
 msgstr "Name=X Bitmap"
 
-#: kappfinder/apps/Graphics/bitmap.desktop:28
+#: kappfinder/apps/Graphics/bitmap.desktop:29
 msgid "GenericName=Bitmap Creator"
 msgstr "GenericName=Bitmap Yasatqıç"
 
@@ -936,7 +936,7 @@ msgstr "GenericName=Bitmap Yasatqıç"
 msgid "Name=Blender"
 msgstr "Name=Blender"
 
-#: kappfinder/apps/Graphics/blender.desktop:19
+#: kappfinder/apps/Graphics/blender.desktop:20
 msgid "GenericName=3D Modeler/Renderer"
 msgstr "GenericName=3D Modeler/Renderer"
 
@@ -952,7 +952,7 @@ msgstr "GenericName=PostScript Kürsätkeç"
 msgid "Name=Gimp"
 msgstr "Name=Gimp"
 
-#: kappfinder/apps/Graphics/gimp.desktop:20
+#: kappfinder/apps/Graphics/gimp.desktop:21
 msgid "GenericName=Image Manipulation Program"
 msgstr "GenericName=Sürät Yasawçı Yazılım"
 
@@ -1096,7 +1096,7 @@ msgstr "Name=Galeon"
 #: kappfinder/apps/Internet/mozilla.desktop:17
 #: kappfinder/apps/Internet/netscape.desktop:18
 #: kappfinder/apps/Internet/netscape6.desktop:29
-#: kappfinder/apps/Internet/opera.desktop:14 konqueror/konqbrowser.desktop:20
+#: kappfinder/apps/Internet/opera.desktop:15 konqueror/konqbrowser.desktop:20
 msgid "GenericName=Web Browser"
 msgstr "GenericName=Web Browser"
 
@@ -1126,7 +1126,7 @@ msgid "Name=Pan"
 msgstr "Name=Pan"
 
 #: kappfinder/apps/Internet/Pan.desktop:13
-#: kappfinder/apps/Internet/knews.desktop:25
+#: kappfinder/apps/Internet/knews.desktop:26
 msgid "GenericName=Usenet News Reader"
 msgstr "GenericName=Yañalıq Uqu öçen"
 
@@ -1540,7 +1540,7 @@ msgstr "GenericName=Şäxsi Täqwim"
 msgid "Name=GNOME-Card"
 msgstr "Name=GNOME-Card"
 
-#: kappfinder/apps/Office/Gnome-Card.desktop:34
+#: kappfinder/apps/Office/Gnome-Card.desktop:35
 msgid "GenericName=Contact Manager"
 msgstr "GenericName=Elemtälär İdäräçe"
 
@@ -1683,7 +1683,7 @@ msgstr "GenericName=Sistem Prosessları Turında"
 msgid "GenericName=ouR eXtended Virtual Terminal"
 msgstr "GenericName=Xıyalí Terminal (ouR)"
 
-#: kappfinder/apps/System/Terminal/rxvt.desktop:58
+#: kappfinder/apps/System/Terminal/rxvt.desktop:57
 msgid "Name=RXVT"
 msgstr "Name=RXVT"
 
@@ -1826,7 +1826,7 @@ msgid "Name=OClock"
 msgstr "Name=OClock"
 
 #: kappfinder/apps/Utilities/oclock.desktop:23
-#: kappfinder/apps/Utilities/xutils/xclock.desktop:64
+#: kappfinder/apps/Utilities/xutils/xclock.desktop:65
 msgid "GenericName=Clock"
 msgstr "GenericName=Säğät"
 
@@ -1870,7 +1870,7 @@ msgstr "Name=X Calc"
 msgid "Name=X Clipboard"
 msgstr "Name=X Clipboard"
 
-#: kappfinder/apps/Utilities/xutils/xclipboard.desktop:54
+#: kappfinder/apps/Utilities/xutils/xclipboard.desktop:55
 msgid "GenericName=Clipboard Viewer"
 msgstr "GenericName=Kesä Kürsätkeç"
 
@@ -1882,7 +1882,7 @@ msgstr "Name=X Säğät"
 msgid "Name=X Console"
 msgstr "Name=X Konsolı"
 
-#: kappfinder/apps/Utilities/xutils/xconsole.desktop:55
+#: kappfinder/apps/Utilities/xutils/xconsole.desktop:56
 msgid "GenericName=Console Message Viewer"
 msgstr "GenericName=Konsol Xäbärlären Kürsätkeç"
 
@@ -1898,7 +1898,7 @@ msgstr "GenericName=Sistem Yöklänü Küzätkeçe"
 msgid "Name=X Magnifier"
 msgstr "Name=X Ereräytkeç"
 
-#: kappfinder/apps/Utilities/xutils/xmag.desktop:58
+#: kappfinder/apps/Utilities/xutils/xmag.desktop:59
 msgid "GenericName=Desktop Magnifier"
 msgstr "GenericName=Östäl Ereräytkeç"
 
@@ -1941,75 +1941,75 @@ msgid ""
 "active"
 msgstr ""
 
-#: kcontrol/access/eventsrc:141
+#: kcontrol/access/eventsrc:142
 msgid "Name=A modifier key has become inactive"
 msgstr ""
 
-#: kcontrol/access/eventsrc:183
+#: kcontrol/access/eventsrc:184
 msgid ""
 "Comment=A modifier key (e.g. Shift or Ctrl) has changed its state and is now "
 "inactive"
 msgstr ""
 
-#: kcontrol/access/eventsrc:224
+#: kcontrol/access/eventsrc:226
 msgid "Name=A modifier key has been locked"
 msgstr ""
 
-#: kcontrol/access/eventsrc:266
+#: kcontrol/access/eventsrc:268
 msgid ""
 "Comment=A modifier key (e.g. Shift or Ctrl) has been locked and is now active "
 "for all of the following keypresses"
 msgstr ""
 
-#: kcontrol/access/eventsrc:307
+#: kcontrol/access/eventsrc:310
 msgid "Name=A lock key has been activated"
 msgstr ""
 
-#: kcontrol/access/eventsrc:349
+#: kcontrol/access/eventsrc:352
 msgid ""
 "Comment=A lock key (e.g. Caps Lock or Num Lock) has changed its state and is "
 "now active"
 msgstr ""
 
-#: kcontrol/access/eventsrc:390
+#: kcontrol/access/eventsrc:394
 msgid "Name=A lock key has been deactivated"
 msgstr ""
 
-#: kcontrol/access/eventsrc:432
+#: kcontrol/access/eventsrc:436
 msgid ""
 "Comment=A lock key (e.g. Caps Lock or Num Lock) has changed its state and is "
 "now inactive"
 msgstr ""
 
-#: kcontrol/access/eventsrc:473
+#: kcontrol/access/eventsrc:478
 msgid "Name=Sticky keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:513
+#: kcontrol/access/eventsrc:518
 msgid "Comment=Sticky keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:558
+#: kcontrol/access/eventsrc:563
 msgid "Name=Slow keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:599
+#: kcontrol/access/eventsrc:604
 msgid "Comment=Slow keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:645
+#: kcontrol/access/eventsrc:650
 msgid "Name=Bounce keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:684
+#: kcontrol/access/eventsrc:689
 msgid "Comment=Bounce keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:729
+#: kcontrol/access/eventsrc:734
 msgid "Name=Mouse keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:770
+#: kcontrol/access/eventsrc:775
 msgid "Comment=Mouse keys has been enabled or disabled"
 msgstr ""
 
@@ -2421,7 +2421,7 @@ msgstr "Query=http://bugs.debian.org/\\\\{@}"
 msgid "Name=dict.cc Translation: German to English"
 msgstr "Name=dict.cc Tärcemä: Almança -› İnglizçä"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/de2en.desktop:54
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/de2en.desktop:55
 #: kcontrol/ebrowsing/plugins/ikws/searchproviders/en2de.desktop:58
 msgid "Query=http://www.dict.cc/?s=\\\\{@}"
 msgstr "Query=http://www.dict.cc/?s=\\\\{@}"
@@ -3306,11 +3306,11 @@ msgstr "Name=Protokollar"
 msgid "Comment=joystick - a kcontrol module to test joysticks"
 msgstr "Comment=Joystik sınaw öçen kcontrol modulı"
 
-#: kcontrol/joystick/joystick.desktop:61
+#: kcontrol/joystick/joystick.desktop:62
 msgid "Keywords=joystick,gamepad"
 msgstr "Keywords=joystick,gamepad"
 
-#: kcontrol/joystick/joystick.desktop:101
+#: kcontrol/joystick/joystick.desktop:102
 msgid "Name=Joystick"
 msgstr "Name=Joystik"
 
@@ -3441,7 +3441,7 @@ msgstr "Name=Yazu Biremnäre"
 msgid "Name=KFontView"
 msgstr "Name=KFontView"
 
-#: kcontrol/kfontinst/viewpart/kfontview.desktop:25
+#: kcontrol/kfontinst/viewpart/kfontview.desktop:26
 msgid "GenericName=Font Viewer"
 msgstr "GenericName=Yazu Kürsätkeç"
 
@@ -4482,7 +4482,7 @@ msgstr "Name=Üze Cibäreläse"
 msgid "Name=Templates"
 msgstr "Name=Ürçetmä"
 
-#: kdesktop/init/directory.trash:7 kicker/applets/trash/trashapplet.desktop:41
+#: kdesktop/init/directory.trash:7 kicker/applets/trash/trashapplet.desktop:42
 #: kioslave/system/entries/trash.desktop:7
 msgid "Name=Trash"
 msgstr "Name=Çüplek"
@@ -5153,7 +5153,7 @@ msgstr ""
 msgid "Comment=Directly access your storage media"
 msgstr "Comment=Bar bulğan cıhazlarnı kürsätüçe taqta applete"
 
-#: kicker/applets/media/mediaapplet.desktop:50
+#: kicker/applets/media/mediaapplet.desktop:51
 #: kioslave/media/kcmodule/media.desktop:13
 #: kioslave/system/entries/media.desktop:6
 #: konqueror/sidebar/trees/init/services/media.desktop:6
@@ -5197,7 +5197,7 @@ msgstr ""
 msgid "Name=Swallow Applet"
 msgstr "Name=Yotu Applete"
 
-#: kicker/applets/swallow/swallowapplet.desktop:65
+#: kicker/applets/swallow/swallowapplet.desktop:66
 msgid "Comment=The swallow panel applet"
 msgstr "Comment=Yotuçı taqta applete"
 
@@ -5706,70 +5706,70 @@ msgstr "Description=K&View Cibärü"
 msgid "Description=Web-URL"
 msgstr "Description=Web-URL"
 
-#: klipper/klipperrc.desktop:215 klipper/klipperrc.desktop:1509
+#: klipper/klipperrc.desktop:216 klipper/klipperrc.desktop:1510
 msgid "Description=Open with &Konqueror"
 msgstr "Description=&Konqueror belän Aç"
 
-#: klipper/klipperrc.desktop:293 klipper/klipperrc.desktop:1663
+#: klipper/klipperrc.desktop:294 klipper/klipperrc.desktop:1664
 msgid "Description=Open with &Mozilla"
 msgstr "Description=&Mozilla belän Aç"
 
-#: klipper/klipperrc.desktop:370 klipper/klipperrc.desktop:1097
-#: klipper/klipperrc.desktop:1302 klipper/klipperrc.desktop:1740
+#: klipper/klipperrc.desktop:371 klipper/klipperrc.desktop:1098
+#: klipper/klipperrc.desktop:1303 klipper/klipperrc.desktop:1741
 msgid "Description=Send &URL"
 msgstr "Description=&URL Künderü"
 
-#: klipper/klipperrc.desktop:445
+#: klipper/klipperrc.desktop:446
 #, fuzzy
 msgid "Description=Open with &Firefox"
 msgstr "Description=&Konqueror belän Aç"
 
-#: klipper/klipperrc.desktop:499
+#: klipper/klipperrc.desktop:500
 msgid "Description=Send &Page"
 msgstr "Description=&Bit Künderü"
 
-#: klipper/klipperrc.desktop:574
+#: klipper/klipperrc.desktop:575
 msgid "Description=Mail-URL"
 msgstr "Description=Xat-URL"
 
-#: klipper/klipperrc.desktop:643
+#: klipper/klipperrc.desktop:644
 msgid "Description=Launch &Kmail"
 msgstr "Description=&Kmail Cibärü"
 
-#: klipper/klipperrc.desktop:719
+#: klipper/klipperrc.desktop:720
 msgid "Description=Launch &mutt"
 msgstr "Description=&mutt Cibärü"
 
-#: klipper/klipperrc.desktop:794
+#: klipper/klipperrc.desktop:795
 msgid "Description=Text File"
 msgstr "Description=Mäten Bireme"
 
-#: klipper/klipperrc.desktop:872
+#: klipper/klipperrc.desktop:873
 msgid "Description=Launch K&Edit"
 msgstr "Description=K&Edit Cibärü"
 
-#: klipper/klipperrc.desktop:947
+#: klipper/klipperrc.desktop:948
 msgid "Description=Launch K&Write"
 msgstr "Description=K&Write Cibärü"
 
-#: klipper/klipperrc.desktop:1021
+#: klipper/klipperrc.desktop:1022
 msgid "Description=Local file URL"
 msgstr "Description=Cirle birem URLı"
 
-#: klipper/klipperrc.desktop:1171 klipper/klipperrc.desktop:1376
-#: klipper/klipperrc.desktop:1814
+#: klipper/klipperrc.desktop:1172 klipper/klipperrc.desktop:1377
+#: klipper/klipperrc.desktop:1815
 msgid "Description=Send &File"
 msgstr "Description=Bir&em Cibärü"
 
-#: klipper/klipperrc.desktop:1246
+#: klipper/klipperrc.desktop:1247
 msgid "Description=Gopher URL"
 msgstr "Description=Gopher URLı"
 
-#: klipper/klipperrc.desktop:1451
+#: klipper/klipperrc.desktop:1452
 msgid "Description=ftp URL"
 msgstr "Description=ftp URLı"
 
-#: klipper/klipperrc.desktop:1586
+#: klipper/klipperrc.desktop:1587
 msgid "Description=Open with &Netscape"
 msgstr "Description=&Netscape belän Aç"
 
@@ -6146,7 +6146,7 @@ msgstr "Comment=Yaña Midnight Commander (root ısulı)"
 msgid "Name=KPager"
 msgstr "Name=KPager"
 
-#: kpager/kpager.desktop:21
+#: kpager/kpager.desktop:22
 msgid "GenericName=Desktop Pager"
 msgstr "GenericName=Östäl Bitçese"
 
@@ -6216,15 +6216,15 @@ msgstr "Comment=KDE'nıñ Sistem Saqçısı"
 msgid "Name=pattern_match"
 msgstr "Name=pattern_match"
 
-#: ksysguard/example/eventsrc:116
+#: ksysguard/example/eventsrc:117
 msgid "Comment=Search pattern matched"
 msgstr "Comment=Ezlängäne belän kileşte"
 
-#: ksysguard/example/eventsrc:174
+#: ksysguard/example/eventsrc:175
 msgid "Name=sensor_alarm"
 msgstr "Name=sensor_alarm"
 
-#: ksysguard/example/eventsrc:211
+#: ksysguard/example/eventsrc:213
 msgid "Comment=Sensor exceeded critical limit"
 msgstr "Comment=Sizgeçneñ eşläw waqıtı ütte"
 
