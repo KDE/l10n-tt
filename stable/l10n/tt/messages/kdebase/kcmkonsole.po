@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmkonsole\n"
-"POT-Creation-Date: 2006-01-08 03:13+0100\n"
+"POT-Creation-Date: 2006-05-28 03:54+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -381,8 +381,8 @@ msgstr "Töp tözeleş &itep quy"
 
 #. i18n: file schemadialog.ui line 339
 #: rc.cpp:157
-#, no-c-format
-msgid "&Save Schema..."
+#, fuzzy, no-c-format
+msgid "Sa&ve Schema..."
 msgstr "Tözeleşne &Saqlaw..."
 
 #. i18n: file schemadialog.ui line 347

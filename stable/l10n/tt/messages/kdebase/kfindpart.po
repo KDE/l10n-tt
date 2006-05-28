@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kfindpart\n"
-"POT-Creation-Date: 2006-03-04 03:44+0100\n"
+"POT-Creation-Date: 2006-05-28 03:54+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -222,15 +222,19 @@ msgstr "KB"
 msgid "MB"
 msgstr "MB"
 
-#: kftabdlg.cpp:248
+#: kftabdlg.cpp:186
+msgid "GB"
+msgstr ""
+
+#: kftabdlg.cpp:249
 msgid "File &type:"
 msgstr "Birem &töre:"
 
-#: kftabdlg.cpp:250
+#: kftabdlg.cpp:251
 msgid "C&ontaining text:"
 msgstr "&Eçendäge yazma:"
 
-#: kftabdlg.cpp:255
+#: kftabdlg.cpp:256
 msgid ""
 "<qt>If specified, only files that contain this text are found. Note that not "
 "all file types from the list above are supported. Please refer to the "
@@ -240,19 +244,19 @@ msgstr ""
 "äytelgän birem törläre arasında totılmağannarı da bar. Totılğan birem törläre "
 "belän tezmäne qullanmada tabıp bula.</qt>"
 
-#: kftabdlg.cpp:263
+#: kftabdlg.cpp:264
 msgid "Case s&ensitive"
 msgstr "K&eçe-olını ayırası"
 
-#: kftabdlg.cpp:264
+#: kftabdlg.cpp:265
 msgid "Include &binary files"
 msgstr "&Binar biremnär belän"
 
-#: kftabdlg.cpp:265
+#: kftabdlg.cpp:266
 msgid "Regular e&xpression"
 msgstr "Tärti&p çağılışı "
 
-#: kftabdlg.cpp:268
+#: kftabdlg.cpp:269
 msgid ""
 "<qt>This lets you search in any type of file, even those that usually do not "
 "contain text (for example program files and images).</qt>"
@@ -260,67 +264,67 @@ msgstr ""
 "<qt>Törle törlektä bulğan biremnärdä ezlärgä birä, ğädättä alar eçendä yazmalar "
 "bulmasa da (ü.ö. yazılım belän sürät biremnärendä).</qt>"
 
-#: kftabdlg.cpp:276
+#: kftabdlg.cpp:277
 msgid "&Edit..."
 msgstr "&Üzgärtü..."
 
-#: kftabdlg.cpp:281
+#: kftabdlg.cpp:282
 msgid "fo&r:"
 msgstr "&bonı öçen:"
 
-#: kftabdlg.cpp:282
+#: kftabdlg.cpp:283
 msgid "Search &metainfo sections:"
 msgstr "&Meta-belem bülegen ezläw:"
 
-#: kftabdlg.cpp:285
+#: kftabdlg.cpp:286
 msgid "All Files & Folders"
 msgstr "Bar Birem-Törgäklär"
 
-#: kftabdlg.cpp:287
+#: kftabdlg.cpp:288
 msgid "Folders"
 msgstr "Törgäk"
 
-#: kftabdlg.cpp:288
+#: kftabdlg.cpp:289
 msgid "Symbolic Links"
 msgstr "Bilgedän Bäy"
 
-#: kftabdlg.cpp:289
+#: kftabdlg.cpp:290
 msgid "Special Files (Sockets, Device Files, ...)"
 msgstr "Ayırmalı Birem (Soket, Cıhaz Bireme, ...)"
 
-#: kftabdlg.cpp:290
+#: kftabdlg.cpp:291
 msgid "Executable Files"
 msgstr "Eşçän Biremnär"
 
-#: kftabdlg.cpp:291
+#: kftabdlg.cpp:292
 msgid "SUID Executable Files"
 msgstr "SUID Eşlätmäle Biremnär"
 
-#: kftabdlg.cpp:292
+#: kftabdlg.cpp:293
 msgid "All Images"
 msgstr "Bar Sürätlär"
 
-#: kftabdlg.cpp:293
+#: kftabdlg.cpp:294
 msgid "All Video"
 msgstr "Bar Video"
 
-#: kftabdlg.cpp:294
+#: kftabdlg.cpp:295
 msgid "All Sounds"
 msgstr "Bar Tawışlar"
 
-#: kftabdlg.cpp:342
+#: kftabdlg.cpp:343
 msgid "Name/&Location"
 msgstr "Adı/&Urınlaşu"
 
-#: kftabdlg.cpp:343
+#: kftabdlg.cpp:344
 msgid "C&ontents"
 msgstr "&Eçtälek"
 
-#: kftabdlg.cpp:344
+#: kftabdlg.cpp:345
 msgid "&Properties"
 msgstr "&Üzençälege"
 
-#: kftabdlg.cpp:349
+#: kftabdlg.cpp:350
 msgid ""
 "<qt>Search within files' specific comments/metainfo"
 "<br>These are some examples:"
@@ -339,7 +343,7 @@ msgstr ""
 "<li><b>Sürät (png...)</b> Äytelgän adımlıq, açıqlama belän sürätlär "
 "ezläw...</li></ul></qt>"
 
-#: kftabdlg.cpp:357
+#: kftabdlg.cpp:358
 msgid ""
 "<qt>If specified, search only in this field"
 "<br>"
@@ -353,31 +357,31 @@ msgstr ""
 "<li><b>Tawış bireme (mp3...)</b> Anda Başlıq, Cíıntıq sıman qır bula ala</li>"
 "<li><b>Sürät (png...)</b> Adımlıq, Bit Tiränlege...</li></ul></qt>"
 
-#: kftabdlg.cpp:551
+#: kftabdlg.cpp:552
 msgid "Unable to search within a period which is less than a minute."
 msgstr "Ber minuttan da kim bulğan arada ezläp bulmí."
 
-#: kftabdlg.cpp:562
+#: kftabdlg.cpp:563
 msgid "The date is not valid."
 msgstr "Bu çaq yaraqlı tügel."
 
-#: kftabdlg.cpp:564
+#: kftabdlg.cpp:565
 msgid "Invalid date range."
 msgstr "Çq arası yaraqsız."
 
-#: kftabdlg.cpp:566
+#: kftabdlg.cpp:567
 msgid "Unable to search dates in the future."
 msgstr "Kiläçäk çaqlarnı tabıp bulmadı."
 
-#: kftabdlg.cpp:618
+#: kftabdlg.cpp:628
 msgid "Size is too big. Set maximum size value?"
 msgstr "Ülçäme artıq olı. Ülçäm bäyäse öske çikkä quyasımı?"
 
-#: kftabdlg.cpp:618
+#: kftabdlg.cpp:628
 msgid "Set"
 msgstr "Quy"
 
-#: kftabdlg.cpp:618
+#: kftabdlg.cpp:628
 msgid "Do Not Set"
 msgstr "Quymasqa"
 
@@ -464,7 +468,7 @@ msgstr "Monı belän Aç..."
 msgid "Selected Files"
 msgstr "Saylanğan Birem"
 
-#: kquery.cpp:462
+#: kquery.cpp:477
 msgid "Error while using locate"
 msgstr "locate digän boyırıqta xata kilep çıqtı"
 
