@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmlayout\n"
-"POT-Creation-Date: 2006-04-09 03:50+0200\n"
+"POT-Creation-Date: 2006-05-31 03:56+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,291 +12,291 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: kcmlayout.cpp:562
+#: kcmlayout.cpp:563
 msgid "None"
 msgstr "Yuq"
 
-#: kcmlayout.cpp:831
+#: kcmlayout.cpp:832
 msgid "Brazilian ABNT2"
 msgstr "Brazilneñ ABNT2"
 
-#: kcmlayout.cpp:832
+#: kcmlayout.cpp:833
 msgid "Dell 101-key PC"
 msgstr "Dell 101-töymäle PC"
 
-#: kcmlayout.cpp:833
+#: kcmlayout.cpp:834
 msgid "Everex STEPnote"
 msgstr "Everex STEPnote"
 
-#: kcmlayout.cpp:834
+#: kcmlayout.cpp:835
 msgid "Generic 101-key PC"
 msgstr "Töp, 101-toymäle PC"
 
-#: kcmlayout.cpp:835
+#: kcmlayout.cpp:836
 msgid "Generic 102-key (Intl) PC"
 msgstr "Töp, 102-toymäle (Intl) PC"
 
-#: kcmlayout.cpp:836
+#: kcmlayout.cpp:837
 msgid "Generic 104-key PC"
 msgstr "Töp, 104-toymäle PC"
 
-#: kcmlayout.cpp:837
+#: kcmlayout.cpp:838
 msgid "Generic 105-key (Intl) PC"
 msgstr "Töp, 105-toymäle (Intl) PC"
 
-#: kcmlayout.cpp:838
+#: kcmlayout.cpp:839
 msgid "Japanese 106-key"
 msgstr "Japan, 106-töymäle"
 
-#: kcmlayout.cpp:839
+#: kcmlayout.cpp:840
 msgid "Microsoft Natural"
 msgstr "Microsoft Natural"
 
-#: kcmlayout.cpp:840
+#: kcmlayout.cpp:841
 msgid "Northgate OmniKey 101"
 msgstr "Northgate OmniKey 101"
 
-#: kcmlayout.cpp:841
+#: kcmlayout.cpp:842
 msgid "Keytronic FlexPro"
 msgstr "Keytronic FlexPro"
 
-#: kcmlayout.cpp:842
+#: kcmlayout.cpp:843
 msgid "Winbook Model XP5"
 msgstr "Winbook Modele XP5"
 
-#: kcmlayout.cpp:845
+#: kcmlayout.cpp:846
 msgid "Group Shift/Lock behavior"
 msgstr "Törkemgä küçü çağılışı"
 
-#: kcmlayout.cpp:846
+#: kcmlayout.cpp:847
 msgid "R-Alt switches group while pressed"
 msgstr "Uñ Alt törkem küçerä"
 
-#: kcmlayout.cpp:847
+#: kcmlayout.cpp:848
 msgid "Right Alt key changes group"
 msgstr "Uñ Alt törkem küçerä"
 
-#: kcmlayout.cpp:848
+#: kcmlayout.cpp:849
 msgid "Caps Lock key changes group"
 msgstr "CapsLock töymäse törkemne üzgärtä"
 
-#: kcmlayout.cpp:849
+#: kcmlayout.cpp:850
 msgid "Menu key changes group"
 msgstr "Saylaq töymäse törkem küçerä"
 
-#: kcmlayout.cpp:850
+#: kcmlayout.cpp:851
 msgid "Both Shift keys together change group"
 msgstr "Shift töymäläre bergä üzgärtkän törkem"
 
-#: kcmlayout.cpp:851
+#: kcmlayout.cpp:852
 msgid "Control+Shift changes group"
 msgstr "Ctrl+Shift basu törkemne üzgärtä"
 
-#: kcmlayout.cpp:852
+#: kcmlayout.cpp:853
 msgid "Alt+Control changes group"
 msgstr "Alt+Ctrl üzgärtkän törkem"
 
-#: kcmlayout.cpp:853
+#: kcmlayout.cpp:854
 msgid "Alt+Shift changes group"
 msgstr "Alt+Shift üzgärtkän törkem"
 
-#: kcmlayout.cpp:854
+#: kcmlayout.cpp:855
 msgid "Control Key Position"
 msgstr "Ctrl Töymäse Urını"
 
-#: kcmlayout.cpp:855
+#: kcmlayout.cpp:856
 msgid "Make CapsLock an additional Control"
 msgstr "CapsLock töymäsennän östämä Ctrl it"
 
-#: kcmlayout.cpp:856
+#: kcmlayout.cpp:857
 msgid "Swap Control and Caps Lock"
 msgstr "Ctrl belän CapsLock töymälären almaştıru"
 
-#: kcmlayout.cpp:857
+#: kcmlayout.cpp:858
 msgid "Control key at left of 'A'"
 msgstr "Ctrl töymäse 'A'dan sulda"
 
-#: kcmlayout.cpp:858
+#: kcmlayout.cpp:859
 msgid "Control key at bottom left"
 msgstr "Ctrl töymäse asqı sulında"
 
-#: kcmlayout.cpp:859
+#: kcmlayout.cpp:860
 msgid "Use keyboard LED to show alternative group"
 msgstr "Töylek utın almaş törkem kürsätü öçen totası"
 
-#: kcmlayout.cpp:860
+#: kcmlayout.cpp:861
 msgid "Num_Lock LED shows alternative group"
 msgstr "NumLock utı almaş törkem kürsätä"
 
-#: kcmlayout.cpp:861
+#: kcmlayout.cpp:862
 msgid "Caps_Lock LED shows alternative group"
 msgstr "CapsLock yanuı almaştıruçı törkem kürsätä"
 
-#: kcmlayout.cpp:862
+#: kcmlayout.cpp:863
 msgid "Scroll_Lock LED shows alternative group"
 msgstr "ScrollLock utı almaş törkem kürsätä"
 
-#: kcmlayout.cpp:865
+#: kcmlayout.cpp:866
 msgid "Left Win-key switches group while pressed"
 msgstr "Sul Win-töymä törkem küçerä"
 
-#: kcmlayout.cpp:866
+#: kcmlayout.cpp:867
 msgid "Right Win-key switches group while pressed"
 msgstr "Uñ Win-töymä törkem küçerä"
 
-#: kcmlayout.cpp:867
+#: kcmlayout.cpp:868
 msgid "Both Win-keys switch group while pressed"
 msgstr "Win-töymäläre bergä basılsa törkem üzgärtelä"
 
-#: kcmlayout.cpp:868
+#: kcmlayout.cpp:869
 msgid "Left Win-key changes group"
 msgstr "Sul Win-töymä törkem küçerä"
 
-#: kcmlayout.cpp:869
+#: kcmlayout.cpp:870
 msgid "Right Win-key changes group"
 msgstr "Uñ Win-töymä törkem küçerä"
 
-#: kcmlayout.cpp:870
+#: kcmlayout.cpp:871
 msgid "Third level choosers"
 msgstr "Öçençe basqıç saylağıç"
 
-#: kcmlayout.cpp:871
+#: kcmlayout.cpp:872
 msgid "Press Right Control to choose 3rd level"
 msgstr "Uñ Ctrl töymäse 3. basqıç saylí"
 
-#: kcmlayout.cpp:872
+#: kcmlayout.cpp:873
 msgid "Press Menu key to choose 3rd level"
 msgstr "Saylaq-töymä 3. basqıç saylí"
 
-#: kcmlayout.cpp:873
+#: kcmlayout.cpp:874
 msgid "Press any of Win-keys to choose 3rd level"
 msgstr "Win-töymä 3. basqıç saylí"
 
-#: kcmlayout.cpp:874
+#: kcmlayout.cpp:875
 msgid "Press Left Win-key to choose 3rd level"
 msgstr "Sul Win-töymä 3. basqıç saylí"
 
-#: kcmlayout.cpp:875
+#: kcmlayout.cpp:876
 msgid "Press Right Win-key to choose 3rd level"
 msgstr "Uñ Win-töymä 3. basqıç saylí"
 
-#: kcmlayout.cpp:876
+#: kcmlayout.cpp:877
 msgid "CapsLock key behavior"
 msgstr "CapsLock töymäneñ eşläwe"
 
-#: kcmlayout.cpp:877
+#: kcmlayout.cpp:878
 msgid "uses internal capitalization. Shift cancels Caps."
 msgstr "eçke olılaytunı qullana. Shift basu Caps sünderä."
 
-#: kcmlayout.cpp:878
+#: kcmlayout.cpp:879
 msgid "uses internal capitalization. Shift doesn't cancel Caps."
 msgstr "eçke olılaytunı qullana. Shift basu Caps sündermi."
 
-#: kcmlayout.cpp:879
+#: kcmlayout.cpp:880
 msgid "acts as Shift with locking. Shift cancels Caps."
 msgstr "ul Shift kebek bikläp eşli. Shift töymäse Caps'nı sünderä."
 
-#: kcmlayout.cpp:880
+#: kcmlayout.cpp:881
 msgid "acts as Shift with locking. Shift doesn't cancel Caps."
 msgstr "ul Shift kebek bikläp eşli. Shift töymäse Caps'nı sündermi."
 
-#: kcmlayout.cpp:881
+#: kcmlayout.cpp:882
 msgid "Alt/Win key behavior"
 msgstr "Alt/Win töymä eşe"
 
-#: kcmlayout.cpp:882
+#: kcmlayout.cpp:883
 msgid "Add the standard behavior to Menu key."
 msgstr "Bu töp eşlänüne Saylaq töymäsenä östä."
 
-#: kcmlayout.cpp:883
+#: kcmlayout.cpp:884
 msgid "Alt and Meta on the Alt keys (default)."
 msgstr "Alt töymälärdä Alt belän Meta (töpcay)."
 
-#: kcmlayout.cpp:884
+#: kcmlayout.cpp:885
 msgid "Meta is mapped to the Win-keys."
 msgstr "Win töymäsen Meta kebek qullanu"
 
-#: kcmlayout.cpp:885
+#: kcmlayout.cpp:886
 msgid "Meta is mapped to the left Win-key."
 msgstr "Sul Win töymäsen Meta kebek qullanu"
 
-#: kcmlayout.cpp:886
+#: kcmlayout.cpp:887
 msgid "Super is mapped to the Win-keys (default)."
 msgstr "Win töymäsen Super kebek qullanu (töpcay)"
 
-#: kcmlayout.cpp:887
+#: kcmlayout.cpp:888
 msgid "Hyper is mapped to the Win-keys."
 msgstr "Win töymäsen Hyper kebek qullanu"
 
-#: kcmlayout.cpp:888
+#: kcmlayout.cpp:889
 msgid "Right Alt is Compose"
 msgstr "Uñ Alt töymäsen Compose itäse"
 
-#: kcmlayout.cpp:889
+#: kcmlayout.cpp:890
 msgid "Right Win-key is Compose"
 msgstr "Uñ Win töymäsen Compose itäse"
 
-#: kcmlayout.cpp:890
+#: kcmlayout.cpp:891
 msgid "Menu is Compose"
 msgstr "Saylaq töymäsen Compose itäse"
 
-#: kcmlayout.cpp:893
+#: kcmlayout.cpp:894
 msgid "Both Ctrl keys together change group"
 msgstr "Ctrl töymäläre bergä üzgärtkän törkem"
 
-#: kcmlayout.cpp:894
+#: kcmlayout.cpp:895
 msgid "Both Alt keys together change group"
 msgstr "Alt töymäläre bergä üzgärtkän törkem"
 
-#: kcmlayout.cpp:895
+#: kcmlayout.cpp:896
 msgid "Left Shift key changes group"
 msgstr "Sul Shift-töymä törkem küçerä"
 
-#: kcmlayout.cpp:896
+#: kcmlayout.cpp:897
 msgid "Right Shift key changes group"
 msgstr "Uñ Shift-töymä törkem küçerä"
 
-#: kcmlayout.cpp:897
+#: kcmlayout.cpp:898
 msgid "Right Ctrl key changes group"
 msgstr "Uñ Ctrl-töymä törkem küçerä"
 
-#: kcmlayout.cpp:898
+#: kcmlayout.cpp:899
 msgid "Left Alt key changes group"
 msgstr "Sul Alt-töymä törkem küçerä"
 
-#: kcmlayout.cpp:899
+#: kcmlayout.cpp:900
 msgid "Left Ctrl key changes group"
 msgstr "Sul Ctrl-töymä törkem küçerä"
 
-#: kcmlayout.cpp:900
+#: kcmlayout.cpp:901
 msgid "Compose Key"
 msgstr "Totaş Töymä"
 
-#: kcmlayout.cpp:903
+#: kcmlayout.cpp:904
 msgid "Shift with numpad keys works as in MS Windows."
 msgstr "Shift belän santöylek töymäläre MS Windows'ta kebek."
 
-#: kcmlayout.cpp:904
+#: kcmlayout.cpp:905
 msgid "Special keys (Ctrl+Alt+<key>) handled in a server."
 msgstr "Ayırmalı töymälärne (Ctrl+Alt+<key>) server eşkärtä."
 
-#: kcmlayout.cpp:905
+#: kcmlayout.cpp:906
 msgid "Miscellaneous compatibility options"
 msgstr "Kileşçänlek köylämäläre"
 
-#: kcmlayout.cpp:906
+#: kcmlayout.cpp:907
 msgid "Right Control key works as Right Alt"
 msgstr "Uñ Ctrl töymäse Uñ Alt kebek eşli"
 
-#: kcmlayout.cpp:909
+#: kcmlayout.cpp:910
 msgid "Right Alt key switches group while pressed"
 msgstr "Uñ Alt-töymä törkem küçerä"
 
-#: kcmlayout.cpp:910
+#: kcmlayout.cpp:911
 msgid "Left Alt key switches group while pressed"
 msgstr "Sul Alt-töymä törkem küçerä"
 
-#: kcmlayout.cpp:911
+#: kcmlayout.cpp:912
 msgid "Press Right Alt-key to choose 3rd level"
 msgstr "Uñ Alt-töymä 3. basqıç saylí"
 
