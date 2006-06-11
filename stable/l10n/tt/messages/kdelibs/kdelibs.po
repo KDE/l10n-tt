@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-06-02 03:54+0200\n"
+"POT-Creation-Date: 2006-06-11 03:58+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -7523,23 +7523,23 @@ msgstr "Täräzäne yabasımı?"
 msgid "Confirmation Required"
 msgstr "Raslísı Bar"
 
-#: khtml/ecma/kjs_window.cpp:2524
+#: khtml/ecma/kjs_window.cpp:2526
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Saylanmağa \"%1\" taba kürsätkän bitbilgene östiseme?"
 
-#: khtml/ecma/kjs_window.cpp:2527
+#: khtml/ecma/kjs_window.cpp:2529
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
 msgstr "Saylanmağa \"%1\" taba kürsätkän \"%2\" atlı bitbilgene östiseme?"
 
-#: khtml/ecma/kjs_window.cpp:2535
+#: khtml/ecma/kjs_window.cpp:2537
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript eçennän Bitbilge Östälänä"
 
-#: khtml/ecma/kjs_window.cpp:2539
+#: khtml/ecma/kjs_window.cpp:2541
 msgid "Disallow"
 msgstr "Birmäw"
 
