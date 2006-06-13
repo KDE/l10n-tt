@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdmgreet\n"
-"POT-Creation-Date: 2006-04-09 03:50+0200\n"
+"POT-Creation-Date: 2006-06-13 03:56+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -83,7 +83,7 @@ msgstr "&Qabul"
 msgid "&Refresh"
 msgstr "&Yañart"
 
-#: kchooser.cpp:95 kgreeter.cpp:654
+#: kchooser.cpp:95 kgreeter.cpp:660
 msgid "&Menu"
 msgstr "&Saylaq"
 
@@ -96,19 +96,19 @@ msgstr "<bilgesez>"
 msgid "Unknown host %1"
 msgstr "Bilgesez host: %1"
 
-#: kgreeter.cpp:355
+#: kgreeter.cpp:361
 msgid "Custom"
 msgstr "Köyläwle"
 
-#: kgreeter.cpp:356
+#: kgreeter.cpp:362
 msgid "Failsafe"
 msgstr "Çıdamlı"
 
-#: kgreeter.cpp:430
+#: kgreeter.cpp:436
 msgid " (previous)"
 msgstr " (uzğanı)"
 
-#: kgreeter.cpp:489
+#: kgreeter.cpp:495
 msgid ""
 "Your saved session type '%1' is not valid any more.\n"
 "Please select a new one, otherwise 'default' will be used."
@@ -116,11 +116,11 @@ msgstr ""
 "Elek '%1' digän sessi töre bütän kileşmi inde.\n"
 "Başqasın saylap bula, yä isä 'default' qullanılğan bulır."
 
-#: kgreeter.cpp:596
+#: kgreeter.cpp:602
 msgid "Warning: this is an unsecured session"
 msgstr "Belderü: yaqlanmağan sessi"
 
-#: kgreeter.cpp:598
+#: kgreeter.cpp:604
 msgid ""
 "This display requires no X authorization.\n"
 "This means that anybody can connect to it,\n"
@@ -130,23 +130,23 @@ msgstr ""
 "Barkem dä aña totaşılıp, täräzälär açıp,\n"
 "kerteşne tota ala itep añlarğa kiräk bonı."
 
-#: kgreeter.cpp:651
+#: kgreeter.cpp:657
 msgid "L&ogin"
 msgstr "&Kereş"
 
-#: kgreeter.cpp:683 kgreeter.cpp:821
+#: kgreeter.cpp:689 kgreeter.cpp:827
 msgid "Session &Type"
 msgstr "Sessi &Töre"
 
-#: kgreeter.cpp:689 kgreeter.cpp:828
+#: kgreeter.cpp:695 kgreeter.cpp:834
 msgid "&Authentication Method"
 msgstr "&Tanılu Isulı"
 
-#: kgreeter.cpp:694 kgreeter.cpp:833
+#: kgreeter.cpp:700 kgreeter.cpp:839
 msgid "&Remote Login"
 msgstr "&Çittän Kerü"
 
-#: kgreeter.cpp:769
+#: kgreeter.cpp:775
 msgid "Login Failed."
 msgstr "Kerep bulmadı."
 
