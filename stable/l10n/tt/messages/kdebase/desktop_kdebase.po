@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-06-13 02:12+0000\n"
+"POT-Creation-Date: 2006-06-14 02:12+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -4265,7 +4265,7 @@ msgstr ""
 msgid "Comment=User information such as password, name and email"
 msgstr "Comment=Qullanuçı caylawı: sersüz, isem, email kebek närsälär"
 
-#: kdepasswd/kdepasswd.desktop:10
+#: kdepasswd/kdepasswd.desktop:9
 msgid "Name=Change Password"
 msgstr "Name=Sersüz Üzgärtü"
 
