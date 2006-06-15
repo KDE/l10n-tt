@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-06-14 02:12+0000\n"
+"POT-Creation-Date: 2006-06-15 02:18+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -5591,7 +5591,7 @@ msgstr "Comment=Totaşmağan Zip Disk"
 msgid "Name=Media Properties Page"
 msgstr "Name=Cıhaz Totaşılu Beldergeçe"
 
-#: kioslave/media/propsdlgplugin/media_propsdlgplugin.desktop:5
+#: kioslave/media/propsdlgplugin/media_propsdlgplugin.desktop:9
 msgid "Comment=Konqueror properties dialog plugin to configure mount behaviour"
 msgstr ""
 
