@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-06-16 03:57+0200\n"
+"POT-Creation-Date: 2006-06-17 03:57+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -7581,7 +7581,7 @@ msgstr ""
 "<p>%1</p> biten gizgeçneñ yaña täräzäsendä açmaqçı bula.<br />"
 "Aña bonı eşlärgä biräseme?</qt>"
 
-#: khtml/html/htmlparser.cpp:1698
+#: khtml/html/htmlparser.cpp:1697
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "Ezläp bulğan töp isemlek bu. Ezlise süz kertü: "
 

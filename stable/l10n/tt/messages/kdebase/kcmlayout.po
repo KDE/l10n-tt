@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmlayout\n"
-"POT-Creation-Date: 2006-05-31 03:56+0200\n"
+"POT-Creation-Date: 2006-06-17 03:59+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -299,6 +299,304 @@ msgstr "Sul Alt-töymä törkem küçerä"
 #: kcmlayout.cpp:912
 msgid "Press Right Alt-key to choose 3rd level"
 msgstr "Uñ Alt-töymä 3. basqıç saylí"
+
+#: kcmlayout.cpp:915
+#, fuzzy
+msgid "R-Alt switches group while pressed."
+msgstr "Uñ Alt törkem küçerä"
+
+#: kcmlayout.cpp:916
+#, fuzzy
+msgid "Left Alt key switches group while pressed."
+msgstr "Sul Alt-töymä törkem küçerä"
+
+#: kcmlayout.cpp:917
+#, fuzzy
+msgid "Left Win-key switches group while pressed."
+msgstr "Sul Win-töymä törkem küçerä"
+
+#: kcmlayout.cpp:918
+#, fuzzy
+msgid "Right Win-key switches group while pressed."
+msgstr "Uñ Win-töymä törkem küçerä"
+
+#: kcmlayout.cpp:919
+#, fuzzy
+msgid "Both Win-keys switch group while pressed."
+msgstr "Win-töymäläre bergä basılsa törkem üzgärtelä"
+
+#: kcmlayout.cpp:920
+#, fuzzy
+msgid "Right Ctrl key switches group while pressed."
+msgstr "Uñ Alt-töymä törkem küçerä"
+
+#: kcmlayout.cpp:921
+#, fuzzy
+msgid "Right Alt key changes group."
+msgstr "Uñ Alt törkem küçerä"
+
+#: kcmlayout.cpp:922
+#, fuzzy
+msgid "Left Alt key changes group."
+msgstr "Sul Alt-töymä törkem küçerä"
+
+#: kcmlayout.cpp:923
+#, fuzzy
+msgid "CapsLock key changes group."
+msgstr "CapsLock töymäse törkemne üzgärtä"
+
+#: kcmlayout.cpp:924
+#, fuzzy
+msgid "Shift+CapsLock changes group."
+msgstr "CapsLock töymäse törkemne üzgärtä"
+
+#: kcmlayout.cpp:925
+#, fuzzy
+msgid "Both Shift keys together change group."
+msgstr "Shift töymäläre bergä üzgärtkän törkem"
+
+#: kcmlayout.cpp:926
+#, fuzzy
+msgid "Both Alt keys together change group."
+msgstr "Alt töymäläre bergä üzgärtkän törkem"
+
+#: kcmlayout.cpp:927
+#, fuzzy
+msgid "Both Ctrl keys together change group."
+msgstr "Ctrl töymäläre bergä üzgärtkän törkem"
+
+#: kcmlayout.cpp:928
+#, fuzzy
+msgid "Ctrl+Shift changes group."
+msgstr "Ctrl+Shift basu törkemne üzgärtä"
+
+#: kcmlayout.cpp:929
+#, fuzzy
+msgid "Alt+Ctrl changes group."
+msgstr "Alt+Ctrl üzgärtkän törkem"
+
+#: kcmlayout.cpp:930
+#, fuzzy
+msgid "Alt+Shift changes group."
+msgstr "Alt+Shift üzgärtkän törkem"
+
+#: kcmlayout.cpp:931
+#, fuzzy
+msgid "Menu key changes group."
+msgstr "Saylaq töymäse törkem küçerä"
+
+#: kcmlayout.cpp:932
+#, fuzzy
+msgid "Left Win-key changes group."
+msgstr "Sul Win-töymä törkem küçerä"
+
+#: kcmlayout.cpp:933
+#, fuzzy
+msgid "Right Win-key changes group."
+msgstr "Uñ Win-töymä törkem küçerä"
+
+#: kcmlayout.cpp:934
+#, fuzzy
+msgid "Left Shift key changes group."
+msgstr "Sul Shift-töymä törkem küçerä"
+
+#: kcmlayout.cpp:935
+#, fuzzy
+msgid "Right Shift key changes group."
+msgstr "Uñ Shift-töymä törkem küçerä"
+
+#: kcmlayout.cpp:936
+#, fuzzy
+msgid "Left Ctrl key changes group."
+msgstr "Sul Ctrl-töymä törkem küçerä"
+
+#: kcmlayout.cpp:937
+#, fuzzy
+msgid "Right Ctrl key changes group."
+msgstr "Uñ Ctrl-töymä törkem küçerä"
+
+#: kcmlayout.cpp:938
+#, fuzzy
+msgid "Press Right Ctrl to choose 3rd level."
+msgstr "Uñ Ctrl töymäse 3. basqıç saylí"
+
+#: kcmlayout.cpp:939
+#, fuzzy
+msgid "Press Menu key to choose 3rd level."
+msgstr "Saylaq-töymä 3. basqıç saylí"
+
+#: kcmlayout.cpp:940
+#, fuzzy
+msgid "Press any of Win-keys to choose 3rd level."
+msgstr "Win-töymä 3. basqıç saylí"
+
+#: kcmlayout.cpp:941
+#, fuzzy
+msgid "Press Left Win-key to choose 3rd level."
+msgstr "Sul Win-töymä 3. basqıç saylí"
+
+#: kcmlayout.cpp:942
+#, fuzzy
+msgid "Press Right Win-key to choose 3rd level."
+msgstr "Uñ Win-töymä 3. basqıç saylí"
+
+#: kcmlayout.cpp:943
+#, fuzzy
+msgid "Press any of Alt keys to choose 3rd level."
+msgstr "Win-töymä 3. basqıç saylí"
+
+#: kcmlayout.cpp:944
+#, fuzzy
+msgid "Press Left Alt key to choose 3rd level."
+msgstr "Sul Win-töymä 3. basqıç saylí"
+
+#: kcmlayout.cpp:945
+#, fuzzy
+msgid "Press Right Alt key to choose 3rd level."
+msgstr "Uñ Alt-töymä 3. basqıç saylí"
+
+#: kcmlayout.cpp:946
+#, fuzzy
+msgid "Ctrl key position"
+msgstr "Ctrl Töymäse Urını"
+
+#: kcmlayout.cpp:947
+#, fuzzy
+msgid "Make CapsLock an additional Ctrl."
+msgstr "CapsLock töymäsennän östämä Ctrl it"
+
+#: kcmlayout.cpp:948
+#, fuzzy
+msgid "Swap Ctrl and CapsLock."
+msgstr "Ctrl belän CapsLock töymälären almaştıru"
+
+#: kcmlayout.cpp:949
+#, fuzzy
+msgid "Ctrl key at left of 'A'"
+msgstr "Ctrl töymäse 'A'dan sulda"
+
+#: kcmlayout.cpp:950
+#, fuzzy
+msgid "Ctrl key at bottom left"
+msgstr "Ctrl töymäse asqı sulında"
+
+#: kcmlayout.cpp:951
+#, fuzzy
+msgid "Right Ctrl key works as Right Alt."
+msgstr "Uñ Ctrl töymäse Uñ Alt kebek eşli"
+
+#: kcmlayout.cpp:952
+#, fuzzy
+msgid "Use keyboard LED to show alternative group."
+msgstr "Töylek utın almaş törkem kürsätü öçen totası"
+
+#: kcmlayout.cpp:953
+#, fuzzy
+msgid "NumLock LED shows alternative group."
+msgstr "NumLock utı almaş törkem kürsätä"
+
+#: kcmlayout.cpp:954
+#, fuzzy
+msgid "CapsLock LED shows alternative group."
+msgstr "CapsLock yanuı almaştıruçı törkem kürsätä"
+
+#: kcmlayout.cpp:955
+#, fuzzy
+msgid "ScrollLock LED shows alternative group."
+msgstr "ScrollLock utı almaş törkem kürsätä"
+
+#: kcmlayout.cpp:956
+#, fuzzy
+msgid "CapsLock uses internal capitalization. Shift cancels CapsLock."
+msgstr "eçke olılaytunı qullana. Shift basu Caps sünderä."
+
+#: kcmlayout.cpp:957
+#, fuzzy
+msgid "CapsLock uses internal capitalization. Shift doesn't cancel CapsLock."
+msgstr "eçke olılaytunı qullana. Shift basu Caps sündermi."
+
+#: kcmlayout.cpp:958
+#, fuzzy
+msgid "CapsLock acts as Shift with locking. Shift cancels CapsLock."
+msgstr "ul Shift kebek bikläp eşli. Shift töymäse Caps'nı sünderä."
+
+#: kcmlayout.cpp:959
+#, fuzzy
+msgid "CapsLock acts as Shift with locking. Shift doesn't cancel CapsLock."
+msgstr "ul Shift kebek bikläp eşli. Shift töymäse Caps'nı sündermi."
+
+#: kcmlayout.cpp:960
+msgid "CapsLock just locks the Shift modifier."
+msgstr ""
+
+#: kcmlayout.cpp:961
+msgid "CapsLock toggles normal capitalization of alphabetic characters."
+msgstr ""
+
+#: kcmlayout.cpp:962
+msgid "CapsLock toggles Shift so all keys are affected."
+msgstr ""
+
+#: kcmlayout.cpp:963
+#, fuzzy
+msgid "Alt and Meta are on the Alt keys (default)."
+msgstr "Alt töymälärdä Alt belän Meta (töpcay)."
+
+#: kcmlayout.cpp:964
+#, fuzzy
+msgid "Alt is mapped to the right Win-key and Super to Menu."
+msgstr "Sul Win töymäsen Meta kebek qullanu"
+
+#: kcmlayout.cpp:965
+#, fuzzy
+msgid "Compose key position"
+msgstr "Ctrl Töymäse Urını"
+
+#: kcmlayout.cpp:966
+#, fuzzy
+msgid "Right Alt is Compose."
+msgstr "Uñ Alt töymäsen Compose itäse"
+
+#: kcmlayout.cpp:967
+#, fuzzy
+msgid "Right Win-key is Compose."
+msgstr "Uñ Win töymäsen Compose itäse"
+
+#: kcmlayout.cpp:968
+#, fuzzy
+msgid "Menu is Compose."
+msgstr "Saylaq töymäsen Compose itäse"
+
+#: kcmlayout.cpp:969
+#, fuzzy
+msgid "Right Ctrl is Compose."
+msgstr "Uñ Alt töymäsen Compose itäse"
+
+#: kcmlayout.cpp:970
+#, fuzzy
+msgid "Caps Lock is Compose."
+msgstr "Saylaq töymäsen Compose itäse"
+
+#: kcmlayout.cpp:971
+#, fuzzy
+msgid "Special keys (Ctrl+Alt+&lt;key&gt;) handled in a server."
+msgstr "Ayırmalı töymälärne (Ctrl+Alt+<key>) server eşkärtä."
+
+#: kcmlayout.cpp:972
+msgid "Adding the EuroSign to certain keys"
+msgstr ""
+
+#: kcmlayout.cpp:973
+msgid "Add the EuroSign to the E key."
+msgstr ""
+
+#: kcmlayout.cpp:974
+msgid "Add the EuroSign to the 5 key."
+msgstr ""
+
+#: kcmlayout.cpp:975
+msgid "Add the EuroSign to the 2 key."
+msgstr ""
 
 #: pixmap.cpp:243
 msgid "Belgian"
