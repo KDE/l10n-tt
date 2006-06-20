@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-06-18 03:55+0200\n"
+"POT-Creation-Date: 2006-06-20 03:54+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -1192,7 +1192,7 @@ msgid "&Replace..."
 msgstr "&Almaştıru..."
 
 #: common_texts.cpp:173 kabc/ldapconfigwidget.cpp:156
-#: kabc/ldapconfigwidget.cpp:168 kdeui/klineedit.cpp:889
+#: kabc/ldapconfigwidget.cpp:168 kdeui/klineedit.cpp:898
 #: kdeui/ktoolbar.cpp:2058
 msgid "Default"
 msgstr "Ğädäti"
@@ -3279,7 +3279,7 @@ msgstr "Tulı Küräk Isulı"
 msgid "What's This"
 msgstr "Ni Bu"
 
-#: kdecore/kstdaccel.cpp:99 kdecore/kstdaccel.cpp:100 kdeui/klineedit.cpp:861
+#: kdecore/kstdaccel.cpp:99 kdecore/kstdaccel.cpp:100 kdeui/klineedit.cpp:870
 msgid "Text Completion"
 msgstr "Süz Tutıru"
 
@@ -4907,7 +4907,7 @@ msgstr "Çaptırma"
 msgid "Default key:"
 msgstr "Ğädäti töymä:"
 
-#: kdeui/kkeybutton.cpp:89 kdeui/kkeydialog.cpp:537 kdeui/klineedit.cpp:864
+#: kdeui/kkeybutton.cpp:89 kdeui/kkeydialog.cpp:537 kdeui/klineedit.cpp:873
 msgid "None"
 msgstr "Yuq"
 
@@ -5369,23 +5369,23 @@ msgstr "Sorama bütän"
 msgid "About %1"
 msgstr "%1 &Turında"
 
-#: kdeui/klineedit.cpp:865
+#: kdeui/klineedit.cpp:874
 msgid "Manual"
 msgstr "Qullanma"
 
-#: kdeui/klineedit.cpp:866
+#: kdeui/klineedit.cpp:875
 msgid "Automatic"
 msgstr "Üzennän"
 
-#: kdeui/klineedit.cpp:867
+#: kdeui/klineedit.cpp:876
 msgid "Dropdown List"
 msgstr "Atılma Tezmä"
 
-#: kdeui/klineedit.cpp:868
+#: kdeui/klineedit.cpp:877
 msgid "Short Automatic"
 msgstr "Qısqa Üzennän"
 
-#: kdeui/klineedit.cpp:869
+#: kdeui/klineedit.cpp:878
 msgid "Dropdown List && Automatic"
 msgstr "Atılma Tezmä && Üzennän"
 
