@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-06-20 03:54+0200\n"
+"POT-Creation-Date: 2006-06-21 03:56+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -7291,39 +7291,39 @@ msgstr "KDE"
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6829
+#: khtml/khtml_part.cpp:6810
 msgid "Security Warning"
 msgstr "İminlek Kisätmäse"
 
-#: khtml/khtml_part.cpp:6835
+#: khtml/khtml_part.cpp:6816
 msgid "<qt>Access by untrusted page to<BR><B>%1</B><BR> denied."
 msgstr "<qt>Işanıp betmägän bittän <BR><B>%1</B><BR> taba ireşü tíıldı."
 
-#: khtml/java/kjavaappletserver.cpp:784 khtml/khtml_part.cpp:6836
+#: khtml/java/kjavaappletserver.cpp:784 khtml/khtml_part.cpp:6817
 msgid "Security Alert"
 msgstr "İminlek Beldergeçe"
 
-#: khtml/khtml_part.cpp:7261
+#: khtml/khtml_part.cpp:7242
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr "'%1' digän açıq buqça form eçtälege belän sersüzlär öçen qullanıla."
 
-#: khtml/khtml_part.cpp:7315
+#: khtml/khtml_part.cpp:7296
 msgid "&Close Wallet"
 msgstr "Buqçanı Ya&p"
 
-#: khtml/khtml_part.cpp:7358
+#: khtml/khtml_part.cpp:7339
 msgid "JavaScript &Debugger"
 msgstr "JavaScript &Betçese"
 
-#: khtml/khtml_part.cpp:7393
+#: khtml/khtml_part.cpp:7374
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr "Bu bittäge JavaScript yaña täräzä açıp qaradı."
 
-#: khtml/khtml_part.cpp:7399
+#: khtml/khtml_part.cpp:7380
 msgid "Popup Window Blocked"
 msgstr "Atılma Täräzä Sünek"
 
-#: khtml/khtml_part.cpp:7399
+#: khtml/khtml_part.cpp:7380
 #, fuzzy
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
@@ -7333,19 +7333,19 @@ msgstr ""
 "Bu bittäge JavaScript atılma täräzä açarğa cíınğan.\n"
 "Xältirädäge räsemgä çirtep, tıyu eşen caylap bula."
 
-#: khtml/khtml_part.cpp:7413
+#: khtml/khtml_part.cpp:7394
 #, c-format
 msgid ""
 "_n: &Show Blocked Popup Window\n"
 "Show %n Blocked Popup Windows"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7414
+#: khtml/khtml_part.cpp:7395
 #, fuzzy
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr "Tıyılğan Täräzälär Turında Belderüne &Kürsätäse "
 
-#: khtml/khtml_part.cpp:7416
+#: khtml/khtml_part.cpp:7397
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript'neñ Yaña Täräzä açu Tärtibe..."
 
