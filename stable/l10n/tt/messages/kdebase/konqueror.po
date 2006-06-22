@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase konqueror\n"
-"POT-Creation-Date: 2006-05-18 03:59+0200\n"
+"POT-Creation-Date: 2006-06-22 04:01+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -620,17 +620,17 @@ msgstr ""
 "Bu bittä bonnan elek cibärelgän bulmağan üzgäreşlär bar.\n"
 "Bitne qabat yöklägän soñ ul üzgäreşlär yuğalaçaq."
 
-#: konq_mainwindow.cc:1759 konq_mainwindow.cc:2583 konq_mainwindow.cc:2601
-#: konq_mainwindow.cc:2705 konq_mainwindow.cc:2721 konq_mainwindow.cc:2738
-#: konq_mainwindow.cc:2775 konq_mainwindow.cc:2808 konq_mainwindow.cc:5197
-#: konq_mainwindow.cc:5215 konq_viewmgr.cc:1163 konq_viewmgr.cc:1181
+#: konq_mainwindow.cc:1759 konq_mainwindow.cc:2581 konq_mainwindow.cc:2599
+#: konq_mainwindow.cc:2703 konq_mainwindow.cc:2719 konq_mainwindow.cc:2736
+#: konq_mainwindow.cc:2773 konq_mainwindow.cc:2806 konq_mainwindow.cc:5195
+#: konq_mainwindow.cc:5213 konq_viewmgr.cc:1163 konq_viewmgr.cc:1181
 msgid "Discard Changes?"
 msgstr "Üzgäreşne Yuğaltasımı?"
 
-#: konq_mainwindow.cc:1759 konq_mainwindow.cc:2583 konq_mainwindow.cc:2601
-#: konq_mainwindow.cc:2705 konq_mainwindow.cc:2721 konq_mainwindow.cc:2738
-#: konq_mainwindow.cc:2775 konq_mainwindow.cc:2808 konq_mainwindow.cc:5197
-#: konq_mainwindow.cc:5215 konq_viewmgr.cc:1163 konq_viewmgr.cc:1181
+#: konq_mainwindow.cc:1759 konq_mainwindow.cc:2581 konq_mainwindow.cc:2599
+#: konq_mainwindow.cc:2703 konq_mainwindow.cc:2719 konq_mainwindow.cc:2736
+#: konq_mainwindow.cc:2773 konq_mainwindow.cc:2806 konq_mainwindow.cc:5195
+#: konq_mainwindow.cc:5213 konq_viewmgr.cc:1163 konq_viewmgr.cc:1181
 msgid "&Discard Changes"
 msgstr "&Üzgärmäne Yuğaltası"
 
@@ -646,7 +646,7 @@ msgstr "Uzğan belän Yantirä Kürsätäse"
 msgid "Cannot find running history plugin in your sidebar."
 msgstr "Yantirädä cibärü öçen uzğannar yantiräsen tabıp bulmí."
 
-#: konq_mainwindow.cc:2582 konq_mainwindow.cc:2600
+#: konq_mainwindow.cc:2580 konq_mainwindow.cc:2598
 msgid ""
 "This tab contains changes that have not been submitted.\n"
 "Detaching the tab will discard these changes."
@@ -654,7 +654,7 @@ msgstr ""
 "Bu tabaqta bonnan elek cibärelgän bulmağan üzgäreşlär bar.\n"
 "Tabaqnı ayırudan soñ ul üzgäreşlär yuğalaçaq."
 
-#: konq_mainwindow.cc:2704
+#: konq_mainwindow.cc:2702
 msgid ""
 "This view contains changes that have not been submitted.\n"
 "Closing the view will discard these changes."
@@ -662,7 +662,7 @@ msgstr ""
 "Bu tirädä bonnan elek cibärelgän bulmağan üzgäreşlär bar.\n"
 "Tiräne yabudan soñ ul üzgäreşlär yuğalaçaq."
 
-#: konq_mainwindow.cc:2720 konq_mainwindow.cc:2737
+#: konq_mainwindow.cc:2718 konq_mainwindow.cc:2735
 msgid ""
 "This tab contains changes that have not been submitted.\n"
 "Closing the tab will discard these changes."
@@ -670,19 +670,19 @@ msgstr ""
 "Bu tabaqta bonnan elek cibärelgän bulmağan üzgäreşlär bar.\n"
 "Tabaqnı yabudan soñ ul üzgäreşlär yuğalaçaq."
 
-#: konq_mainwindow.cc:2759
+#: konq_mainwindow.cc:2757
 msgid "Do you really want to close all other tabs?"
 msgstr "Başqa tabaqlarnıñ çınlap ta barısın da yabasımı?"
 
-#: konq_mainwindow.cc:2760
+#: konq_mainwindow.cc:2758
 msgid "Close Other Tabs Confirmation"
 msgstr "Başqa Tabaqlarnı Yabu Belän Kileşü"
 
-#: konq_mainwindow.cc:2760 konq_mainwindow.cc:3801 konq_tabs.cc:421
+#: konq_mainwindow.cc:2758 konq_mainwindow.cc:3799 konq_tabs.cc:421
 msgid "Close &Other Tabs"
 msgstr "&Başqa Tabaqnı Yap"
 
-#: konq_mainwindow.cc:2774
+#: konq_mainwindow.cc:2772
 msgid ""
 "This tab contains changes that have not been submitted.\n"
 "Closing other tabs will discard these changes."
@@ -690,7 +690,7 @@ msgstr ""
 "Bu tabaqta bonnan elek cibärelgän bulmağan üzgäreşlär bar.\n"
 "Başqa tabaqlarnı yabudan soñ ul üzgäreşlär yuğalaçaq."
 
-#: konq_mainwindow.cc:2807
+#: konq_mainwindow.cc:2805
 msgid ""
 "This tab contains changes that have not been submitted.\n"
 "Reloading all tabs will discard these changes."
@@ -698,253 +698,253 @@ msgstr ""
 "Bu tabaqta bonnan elek cibärelgän bulmağan üzgäreşlär bar.\n"
 "Başqa tabaqlarnı qabat yökläwdän soñ ul üzgäreşlär yuğalaçaq."
 
-#: konq_mainwindow.cc:2879
+#: konq_mainwindow.cc:2877
 #, c-format
 msgid "No permissions to write to %1"
 msgstr "%1 eçenä yazır öçen xoquqlar yuq"
 
-#: konq_mainwindow.cc:2889
+#: konq_mainwindow.cc:2887
 msgid "Enter Target"
 msgstr "Maqsat Kertäse"
 
-#: konq_mainwindow.cc:2898
+#: konq_mainwindow.cc:2896
 msgid "<qt><b>%1</b> is not valid</qt>"
 msgstr "<qt><b>%1</b> digäne yaraqlı tügel</qt>"
 
-#: konq_mainwindow.cc:2914
+#: konq_mainwindow.cc:2912
 msgid "Copy selected files from %1 to:"
 msgstr "Saylanğan birem kübäytü: %1 -›"
 
-#: konq_mainwindow.cc:2924
+#: konq_mainwindow.cc:2922
 msgid "Move selected files from %1 to:"
 msgstr "Saylanğan biremnärne küçer: %1 -›"
 
-#: konq_mainwindow.cc:3703
+#: konq_mainwindow.cc:3701
 msgid "&Edit File Type..."
 msgstr "Birem Tören Ü&zgärtü..."
 
-#: konq_mainwindow.cc:3705 sidebar/trees/history_module/history_module.cpp:78
+#: konq_mainwindow.cc:3703 sidebar/trees/history_module/history_module.cpp:78
 msgid "New &Window"
 msgstr "Yana Täräzä"
 
-#: konq_mainwindow.cc:3706
+#: konq_mainwindow.cc:3704
 msgid "&Duplicate Window"
 msgstr "Täräzäne &Qabatla"
 
-#: konq_mainwindow.cc:3707
+#: konq_mainwindow.cc:3705
 msgid "Send &Link Address..."
 msgstr "&Bäyneñ Urının Cibärü..."
 
-#: konq_mainwindow.cc:3708
+#: konq_mainwindow.cc:3706
 msgid "S&end File..."
 msgstr "Bir&em Cibärü..."
 
-#: konq_mainwindow.cc:3711
+#: konq_mainwindow.cc:3709
 msgid "Open &Terminal"
 msgstr "&Terminal Açu"
 
-#: konq_mainwindow.cc:3713
+#: konq_mainwindow.cc:3711
 msgid "&Open Location..."
 msgstr "Urınlaşu &Açu..."
 
-#: konq_mainwindow.cc:3715
+#: konq_mainwindow.cc:3713
 msgid "&Find File..."
 msgstr "Bire&m Ezläw..."
 
-#: konq_mainwindow.cc:3720
+#: konq_mainwindow.cc:3718
 msgid "&Use index.html"
 msgstr "index.html &qullanası"
 
-#: konq_mainwindow.cc:3721
+#: konq_mainwindow.cc:3719
 msgid "Lock to Current Location"
 msgstr "Biredäge Urında Biklä"
 
-#: konq_mainwindow.cc:3722
+#: konq_mainwindow.cc:3720
 msgid "Lin&k View"
 msgstr "Bäyle &Küreneş"
 
-#: konq_mainwindow.cc:3725
+#: konq_mainwindow.cc:3723
 msgid "&Up"
 msgstr "&Öskä"
 
-#: konq_mainwindow.cc:3744 konq_mainwindow.cc:3763
+#: konq_mainwindow.cc:3742 konq_mainwindow.cc:3761
 msgid "History"
 msgstr "Taríx"
 
-#: konq_mainwindow.cc:3748
+#: konq_mainwindow.cc:3746
 msgid "Home"
 msgstr "Anabit"
 
-#: konq_mainwindow.cc:3752
+#: konq_mainwindow.cc:3750
 msgid "S&ystem"
 msgstr ""
 
-#: konq_mainwindow.cc:3753
+#: konq_mainwindow.cc:3751
 msgid "App&lications"
 msgstr "Yazı&lımnar"
 
-#: konq_mainwindow.cc:3754
+#: konq_mainwindow.cc:3752
 msgid "&Storage Media"
 msgstr "&Saqlawlı Media"
 
-#: konq_mainwindow.cc:3755
+#: konq_mainwindow.cc:3753
 msgid "&Network Folders"
 msgstr "&Çeltärle Törgäklär"
 
-#: konq_mainwindow.cc:3756
+#: konq_mainwindow.cc:3754
 msgid "Sett&ings"
 msgstr "&Caylaw"
 
-#: about/konq_aboutpage.cc:136 konq_mainwindow.cc:3758
+#: about/konq_aboutpage.cc:136 konq_mainwindow.cc:3756
 msgid "Trash"
 msgstr "Çüplek"
 
-#: konq_mainwindow.cc:3759
+#: konq_mainwindow.cc:3757
 msgid "Autostart"
 msgstr "Üzennän Cibäreläse"
 
-#: konq_mainwindow.cc:3760
+#: konq_mainwindow.cc:3758
 msgid "Most Often Visited"
 msgstr "İñ Yış Kerelgän"
 
-#: konq_mainwindow.cc:3767 konq_mainwindow.cc:4333
+#: konq_mainwindow.cc:3765 konq_mainwindow.cc:4331
 msgid "&Save View Profile..."
 msgstr "Küreneş Köyläwen &Saqlaw..."
 
-#: konq_mainwindow.cc:3768
+#: konq_mainwindow.cc:3766
 msgid "Save View Changes per &Folder"
 msgstr "Save View Changes per &Folder"
 
-#: konq_mainwindow.cc:3770
+#: konq_mainwindow.cc:3768
 msgid "Remove Folder Properties"
 msgstr "Törgäk Üzençälegen Awdar"
 
-#: konq_mainwindow.cc:3790
+#: konq_mainwindow.cc:3788
 msgid "Configure Extensions..."
 msgstr "Quşılma Caylaw..."
 
-#: konq_mainwindow.cc:3791
+#: konq_mainwindow.cc:3789
 msgid "Configure Spell Checking..."
 msgstr "Yazuı Tikşerüne Caylaw..."
 
-#: konq_mainwindow.cc:3794
+#: konq_mainwindow.cc:3792
 msgid "Split View &Left/Right"
 msgstr "Küreneşen &Buydan Büläse"
 
-#: konq_mainwindow.cc:3795
+#: konq_mainwindow.cc:3793
 msgid "Split View &Top/Bottom"
 msgstr "Küreneşen &Arqılıdan Büläse"
 
-#: konq_mainwindow.cc:3796 konq_tabs.cc:84
+#: konq_mainwindow.cc:3794 konq_tabs.cc:84
 msgid "&New Tab"
 msgstr "&Yaña Tabaq"
 
-#: konq_mainwindow.cc:3797
+#: konq_mainwindow.cc:3795
 msgid "&Duplicate Current Tab"
 msgstr "Biredäge Tabaqnı &Qabatla"
 
-#: konq_mainwindow.cc:3798
+#: konq_mainwindow.cc:3796
 msgid "Detach Current Tab"
 msgstr "Biredäge Tabaqnı Ayır"
 
-#: konq_mainwindow.cc:3799
+#: konq_mainwindow.cc:3797
 msgid "&Close Active View"
 msgstr "Aktif Küreneşne &Yap"
 
-#: konq_mainwindow.cc:3800
+#: konq_mainwindow.cc:3798
 msgid "Close Current Tab"
 msgstr "Biredäge Tabaqnı Yap"
 
-#: konq_mainwindow.cc:3803
+#: konq_mainwindow.cc:3801
 msgid "Activate Next Tab"
 msgstr "Kiläse Tabaqqa Küç"
 
-#: konq_mainwindow.cc:3804
+#: konq_mainwindow.cc:3802
 msgid "Activate Previous Tab"
 msgstr "Ütkän Tabaqqa Küç"
 
-#: konq_mainwindow.cc:3809
+#: konq_mainwindow.cc:3807
 #, c-format
 msgid "Activate Tab %1"
 msgstr "%1 Tabağın Aktiflä"
 
-#: konq_mainwindow.cc:3812
+#: konq_mainwindow.cc:3810
 msgid "Move Tab Left"
 msgstr "Tabaqnı Sulğa Küçer"
 
-#: konq_mainwindow.cc:3813
+#: konq_mainwindow.cc:3811
 msgid "Move Tab Right"
 msgstr "Tabaqnı Uñğa Küçer"
 
-#: konq_mainwindow.cc:3816
+#: konq_mainwindow.cc:3814
 msgid "Dump Debug Info"
 msgstr "Tözätü Belemen Çığar"
 
-#: konq_mainwindow.cc:3819
+#: konq_mainwindow.cc:3817
 msgid "C&onfigure View Profiles..."
 msgstr "Küreneş Köyläwen &Caylaw..."
 
-#: konq_mainwindow.cc:3820
+#: konq_mainwindow.cc:3818
 msgid "Load &View Profile"
 msgstr "&Küreneş Köyläwen Yöklä"
 
-#: konq_mainwindow.cc:3833 konq_tabs.cc:399
+#: konq_mainwindow.cc:3831 konq_tabs.cc:399
 msgid "&Reload All Tabs"
 msgstr "&Bar Yafranı Qabat Yöklä"
 
-#: konq_mainwindow.cc:3848
+#: konq_mainwindow.cc:3846
 msgid "&Stop"
 msgstr "&Tuqta"
 
-#: konq_mainwindow.cc:3850
+#: konq_mainwindow.cc:3848
 msgid "&Rename"
 msgstr "&İsem quş"
 
-#: konq_mainwindow.cc:3851
+#: konq_mainwindow.cc:3849
 msgid "&Move to Trash"
 msgstr "Çüpkä &Küçer"
 
-#: konq_mainwindow.cc:3857
+#: konq_mainwindow.cc:3855
 msgid "Animated Logo"
 msgstr "Canlı Logo"
 
-#: konq_mainwindow.cc:3860 konq_mainwindow.cc:3861
+#: konq_mainwindow.cc:3858 konq_mainwindow.cc:3859
 msgid "L&ocation: "
 msgstr "&Urnaşılu: "
 
-#: konq_mainwindow.cc:3864
+#: konq_mainwindow.cc:3862
 msgid "Location Bar"
 msgstr "Urnaşılu Tiräse"
 
-#: konq_mainwindow.cc:3869
+#: konq_mainwindow.cc:3867
 msgid "Location Bar<p>Enter a web address or search term."
 msgstr "Urınlaşu Tirä<p>Web adres yä ezläw süzen kertäse."
 
-#: konq_mainwindow.cc:3872
+#: konq_mainwindow.cc:3870
 msgid "Clear Location Bar"
 msgstr "Urnaşılu Tiräsen Buşat"
 
-#: konq_mainwindow.cc:3877
+#: konq_mainwindow.cc:3875
 msgid "Clear Location bar<p>Clears the content of the location bar."
 msgstr "Urınlaşu tiräsen buşat<p>Urınlaşu tiräsendäge eçtälegen buşata."
 
-#: konq_mainwindow.cc:3900
+#: konq_mainwindow.cc:3898
 msgid "Bookmark This Location"
 msgstr "Urnaşıluğa Bitbilge Quy"
 
-#: konq_mainwindow.cc:3904
+#: konq_mainwindow.cc:3902
 msgid "Kon&queror Introduction"
 msgstr "Kon&queror belän Tanışu"
 
-#: konq_mainwindow.cc:3906
+#: konq_mainwindow.cc:3904
 msgid "Go"
 msgstr "Küç"
 
-#: konq_mainwindow.cc:3907
+#: konq_mainwindow.cc:3905
 msgid "Go<p>Goes to the page that has been entered into the location bar."
 msgstr "Küç<p>Urınlaşu tiräsendä kertelgän bitkä küçerä."
 
-#: konq_mainwindow.cc:3913
+#: konq_mainwindow.cc:3911
 msgid ""
 "Enter the parent folder"
 "<p>For instance, if the current location is file:/home/%1 clicking this button "
@@ -954,27 +954,27 @@ msgstr ""
 "<p>Ürnäk öçen, biredäge urınlaşu file:/home/%1 törgägendä bulğan çaqta ul "
 "töymägä basqannan soñ urınlaşu file:/home bulayaçaq."
 
-#: konq_mainwindow.cc:3916
+#: konq_mainwindow.cc:3914
 msgid "Enter the parent folder"
 msgstr "Öske törgäk kertäse"
 
-#: konq_mainwindow.cc:3918
+#: konq_mainwindow.cc:3916
 msgid "Move backwards one step in the browsing history<p>"
 msgstr "Uzğan küzätülär eçendä arttağı adımğa küç<p>"
 
-#: konq_mainwindow.cc:3919
+#: konq_mainwindow.cc:3917
 msgid "Move backwards one step in the browsing history"
 msgstr "Uzğan küzätülär eçendä arttağı adımğa küç"
 
-#: konq_mainwindow.cc:3921
+#: konq_mainwindow.cc:3919
 msgid "Move forward one step in the browsing history<p>"
 msgstr "Uzğan küzätülär eçendä aldağı adımğa küç<p>"
 
-#: konq_mainwindow.cc:3922
+#: konq_mainwindow.cc:3920
 msgid "Move forward one step in the browsing history"
 msgstr "Uzğan küzätülär eçendä aldağı adımğa küç"
 
-#: konq_mainwindow.cc:3924
+#: konq_mainwindow.cc:3922
 msgid ""
 "Navigate to your 'Home Location'"
 "<p>You can configure the location this button takes you to in the <b>"
@@ -984,11 +984,11 @@ msgstr ""
 "<p><b>KDE İdärä Üzäge</b>, <b>Birem İdäräçe</b>/<b>Eşçänlek</b> "
 "eçendä bu töymägä basqan çaqta küçü urının bonda köyläp bula."
 
-#: konq_mainwindow.cc:3927
+#: konq_mainwindow.cc:3925
 msgid "Navigate to your 'Home Location'"
 msgstr "'Yort Urınlaşuına' küçü"
 
-#: konq_mainwindow.cc:3929
+#: konq_mainwindow.cc:3927
 msgid ""
 "Reload the currently displayed document"
 "<p>This may, for example, be needed to refresh webpages that have been modified "
@@ -998,11 +998,11 @@ msgstr ""
 "<p>Soñğı yöklänüdän soñ säxifä bite üzgärelgän bulsa, ul üzgäreşlärne kürü öçen "
 "bu närsäneñ kiräk bulıp çığuı bar."
 
-#: konq_mainwindow.cc:3932
+#: konq_mainwindow.cc:3930
 msgid "Reload the currently displayed document"
 msgstr "Biredä kürsätelgän istälekne qabat yöklä"
 
-#: konq_mainwindow.cc:3934
+#: konq_mainwindow.cc:3932
 msgid ""
 "Reload all currently displayed documents in tabs"
 "<p>This may, for example, be needed to refresh webpages that have been modified "
@@ -1012,11 +1012,11 @@ msgstr ""
 "<p>Soñğı yöklänüdän soñ säxifä bitläre üzgärelgän bulsalar, ul üzgäreşlärne "
 "kürü öçen bu närsäneñ kiräk bulıp çığuı bar."
 
-#: konq_mainwindow.cc:3937
+#: konq_mainwindow.cc:3935
 msgid "Reload all currently displayed document in tabs"
 msgstr "Biredä tabaqlarda kürsätelgän istäleklärne qabat yöklä"
 
-#: konq_mainwindow.cc:3939
+#: konq_mainwindow.cc:3937
 msgid ""
 "Stop loading the document"
 "<p>All network transfers will be stopped and Konqueror will display the content "
@@ -1026,11 +1026,11 @@ msgstr ""
 "<p>Çeltärle taşımnarnıñ barısı da taqtayaçaq, Konqueror'da isä alıp citeşkän "
 "eçtälek kürsäteläçäk."
 
-#: konq_mainwindow.cc:3942
+#: konq_mainwindow.cc:3940
 msgid "Stop loading the document"
 msgstr "İstälek yokläwen tuqtat"
 
-#: konq_mainwindow.cc:3944
+#: konq_mainwindow.cc:3942
 msgid ""
 "Cut the currently selected text or item(s) and move it to the system clipboard"
 "<p> This makes it available to the <b>Paste</b> command in Konqueror and other "
@@ -1040,11 +1040,11 @@ msgstr ""
 "<p> Annas soñ ul alınğan närsäne KDE yazılımnarındağı <b>Östäp quy</b> "
 "boyırığı aşa çığarıp bulaçaq."
 
-#: konq_mainwindow.cc:3948
+#: konq_mainwindow.cc:3946
 msgid "Move the selected text or item(s) to the clipboard"
 msgstr "Saylanğan yazmanı yä keremne alışukesägä küçerä"
 
-#: konq_mainwindow.cc:3950
+#: konq_mainwindow.cc:3948
 msgid ""
 "Copy the currently selected text or item(s) to the system clipboard"
 "<p>This makes it available to the <b>Paste</b> command in Konqueror and other "
@@ -1054,11 +1054,11 @@ msgstr ""
 "<p> Annas soñ ul alınğan närsäne KDE yazılımnarındağı <b>Östäp quy</b> "
 "boyırığı aşa çığarıp bulaçaq."
 
-#: konq_mainwindow.cc:3954
+#: konq_mainwindow.cc:3952
 msgid "Copy the selected text or item(s) to the clipboard"
 msgstr "Saylanğan yazmanı/keremne alışukesä eçenä dä sal"
 
-#: konq_mainwindow.cc:3956
+#: konq_mainwindow.cc:3954
 msgid ""
 "Paste the previously cut or copied clipboard contents"
 "<p>This also works for text copied or cut from other KDE applications."
@@ -1066,11 +1066,11 @@ msgstr ""
 "Eleräk alışukesägä salınğan eçtälekne östäp quya"
 "<p>Ul başqa KDE-yazılımnarda kisep yä ki iskä alınğan yazmalar belän dä eşli."
 
-#: konq_mainwindow.cc:3959
+#: konq_mainwindow.cc:3957
 msgid "Paste the clipboard contents"
 msgstr "Alışukesä eçtälegen östäp quy"
 
-#: konq_mainwindow.cc:3961
+#: konq_mainwindow.cc:3959
 msgid ""
 "Print the currently displayed document"
 "<p>You will be presented with a dialog where you can set various options, such "
@@ -1084,15 +1084,15 @@ msgstr ""
 "<p>Bonnan tış, KDE'neñ bastıru xezmätläre belän dä ul täräzä aşa eşläp bula, "
 "alar arasında basılası istälekne PDF kileş çığaru."
 
-#: konq_mainwindow.cc:3967
+#: konq_mainwindow.cc:3965
 msgid "Print the current document"
 msgstr "Biredäge istälekne bastır"
 
-#: konq_mainwindow.cc:3973
+#: konq_mainwindow.cc:3971
 msgid "If present, open index.html when entering a folder."
 msgstr "Törgäktä index.html bulsa, aña kergända ul açılır."
 
-#: konq_mainwindow.cc:3974
+#: konq_mainwindow.cc:3972
 msgid ""
 "A locked view cannot change folders. Use in combination with 'link view' to "
 "explore many files from one folder"
@@ -1100,7 +1100,7 @@ msgstr ""
 "Biklängän küreneş törgäkne üzgärtä almí. Ber törgäk eçendä kübräk biremnär kürü "
 "öçen, 'bäyle küreneş' qullanıp bula."
 
-#: konq_mainwindow.cc:3975
+#: konq_mainwindow.cc:3973
 msgid ""
 "Sets the view as 'linked'. A linked view follows folder changes made in other "
 "linked views."
@@ -1108,87 +1108,87 @@ msgstr ""
 "Küreneşne 'bäyle' itä. Başqa bäyle küreneşlärdä yasalğan üzgäreşlär bu "
 "küreneştä dä kürenäçäk."
 
-#: konq_mainwindow.cc:3999
+#: konq_mainwindow.cc:3997
 #: sidebar/trees/bookmark_module/bookmark_module.cpp:71
 msgid "Open Folder in Tabs"
 msgstr "Törgäkne Tabaqta Aç"
 
-#: konq_mainwindow.cc:4004
+#: konq_mainwindow.cc:4002
 #: sidebar/trees/bookmark_module/bookmark_module.cpp:67
 #: sidebar/trees/konq_sidebartree.cpp:913
 msgid "Open in New Window"
 msgstr "Yaña Täräzädä Aç"
 
-#: konq_mainwindow.cc:4005
+#: konq_mainwindow.cc:4003
 #: sidebar/trees/bookmark_module/bookmark_module.cpp:69
 #: sidebar/trees/konq_sidebartree.cpp:915
 msgid "Open in New Tab"
 msgstr "Yaña Tabaqta Aç"
 
-#: konq_mainwindow.cc:4173
+#: konq_mainwindow.cc:4171
 msgid "Copy &Files..."
 msgstr "&Birem Kübäytü.."
 
-#: konq_mainwindow.cc:4174
+#: konq_mainwindow.cc:4172
 msgid "M&ove Files..."
 msgstr "Birem &Küçerü..."
 
-#: konq_mainwindow.cc:4178
+#: konq_mainwindow.cc:4176
 msgid "Create Folder..."
 msgstr "Törgäk Yasaw..."
 
-#: konq_mainwindow.cc:4332
+#: konq_mainwindow.cc:4330
 msgid "&Save View Profile \"%1\"..."
 msgstr "\"%1\" Küreneş Köyläwen &Saqlaw..."
 
-#: konq_mainwindow.cc:4672
+#: konq_mainwindow.cc:4670
 msgid "Open in T&his Window"
 msgstr "&Bu Täräzädä Aç"
 
-#: konq_mainwindow.cc:4673
+#: konq_mainwindow.cc:4671
 msgid "Open the document in current window"
 msgstr "İstälekne bu täräzädä aç"
 
-#: konq_mainwindow.cc:4675 sidebar/web_module/web_module.h:55
+#: konq_mainwindow.cc:4673 sidebar/web_module/web_module.h:55
 #: sidebar/web_module/web_module.h:58
 msgid "Open in New &Window"
 msgstr "Yaña &Täräzädä Aç"
 
-#: konq_mainwindow.cc:4676
+#: konq_mainwindow.cc:4674
 msgid "Open the document in a new window"
 msgstr "İstälekne yaña täräzädä aç"
 
-#: konq_mainwindow.cc:4686
+#: konq_mainwindow.cc:4684
 msgid "Open in &New Tab"
 msgstr "&Yaña Tabaqta Aç"
 
-#: konq_mainwindow.cc:4687
+#: konq_mainwindow.cc:4685
 msgid "Open the document in a new tab"
 msgstr "İstälekne yaña tabaqta aç"
 
-#: konq_mainwindow.cc:4893
+#: konq_mainwindow.cc:4891
 #, c-format
 msgid "Open with %1"
 msgstr "Monı belän aç: %1"
 
-#: konq_mainwindow.cc:4950
+#: konq_mainwindow.cc:4948
 msgid "&View Mode"
 msgstr "&Küreneş Isulı"
 
-#: konq_mainwindow.cc:5160
+#: konq_mainwindow.cc:5158
 msgid ""
 "You have multiple tabs open in this window, are you sure you want to quit?"
 msgstr "Bu täräzädä berniçä tabaq açılğan bulğan. Çınlap ta çığasımı?"
 
-#: konq_mainwindow.cc:5162 konq_viewmgr.cc:1145
+#: konq_mainwindow.cc:5160 konq_viewmgr.cc:1145
 msgid "Confirmation"
 msgstr "Raslaw"
 
-#: konq_mainwindow.cc:5164
+#: konq_mainwindow.cc:5162
 msgid "C&lose Current Tab"
 msgstr "Biredäge Tabaqnı Ya&p"
 
-#: konq_mainwindow.cc:5196
+#: konq_mainwindow.cc:5194
 msgid ""
 "This tab contains changes that have not been submitted.\n"
 "Closing the window will discard these changes."
@@ -1196,7 +1196,7 @@ msgstr ""
 "Bu tabaqtağı üzgäreşlär saqlanmağan äle.\n"
 "Bu täräzä yabıla ikän, ul üzgäreşlär yuğalaçaq."
 
-#: konq_mainwindow.cc:5214
+#: konq_mainwindow.cc:5212
 msgid ""
 "This page contains changes that have not been submitted.\n"
 "Closing the window will discard these changes."
@@ -1204,20 +1204,20 @@ msgstr ""
 "Bu bittäge üzgäreşlär saqlanmağan äle.\n"
 "Bu täräzä yabıla ikän, ul üzgäreşlär yuğalaçaq."
 
-#: konq_mainwindow.cc:5303
+#: konq_mainwindow.cc:5301
 msgid ""
 "Your sidebar is not functional or unavailable. A new entry cannot be added."
 msgstr "Yantiräñ yä eşlämi, yä sünek tora. Yaña kerem östäp bulmí."
 
-#: konq_mainwindow.cc:5303 konq_mainwindow.cc:5310
+#: konq_mainwindow.cc:5301 konq_mainwindow.cc:5308
 msgid "Web Sidebar"
 msgstr "Web Yantiräse"
 
-#: konq_mainwindow.cc:5308
+#: konq_mainwindow.cc:5306
 msgid "Add new web extension \"%1\" to your sidebar?"
 msgstr "Yantirägä '%1' digän yaña web-quşılmanı östiseme?"
 
-#: konq_mainwindow.cc:5310
+#: konq_mainwindow.cc:5308
 msgid "Do Not Add"
 msgstr "Östämäskä"
 
