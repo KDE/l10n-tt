@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase konsole\n"
-"POT-Creation-Date: 2006-06-22 04:00+0200\n"
+"POT-Creation-Date: 2006-07-02 03:58+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: TEWidget.cpp:928 TEWidget.cpp:930
+#: TEWidget.cpp:929 TEWidget.cpp:931
 msgid "Size: XXX x XXX"
 msgstr "Ülçäme: XXX x XXX"
 
-#: TEWidget.cpp:935
+#: TEWidget.cpp:936
 msgid "Size: %1 x %2"
 msgstr "Ülçäm: %1 x %2"
 
