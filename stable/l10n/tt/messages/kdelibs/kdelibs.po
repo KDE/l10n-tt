@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-07-02 03:56+0200\n"
+"POT-Creation-Date: 2006-07-03 03:57+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -5805,7 +5805,7 @@ msgid "Reset Toolbars"
 msgstr "Qoraltirä"
 
 #: kdeui/kedittoolbar.cpp:447 khtml/html/html_formimpl.cpp:2108
-#: khtml/khtmlview.cpp:2530 khtml/khtmlview.cpp:2563
+#: khtml/khtmlview.cpp:2533 khtml/khtmlview.cpp:2566
 msgid "Reset"
 msgstr "Awdar"
 
@@ -7271,7 +7271,7 @@ msgstr ""
 "taba cibäräläçäk.<BR>Form eçtälegen cibärü dawam itäseme?"
 
 #: khtml/html/html_formimpl.cpp:1522 khtml/html/html_formimpl.cpp:2116
-#: khtml/khtml_part.cpp:4808 khtml/khtmlview.cpp:2516 khtml/khtmlview.cpp:2558
+#: khtml/khtml_part.cpp:4808 khtml/khtmlview.cpp:2519 khtml/khtmlview.cpp:2561
 msgid "Submit"
 msgstr "Cibär"
 
@@ -7349,39 +7349,39 @@ msgstr "Tıyılğan Täräzälär Turında Belderüne &Kürsätäse "
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript'neñ Yaña Täräzä açu Tärtibe..."
 
-#: khtml/khtmlview.cpp:1626
+#: khtml/khtmlview.cpp:1629
 msgid "Find stopped."
 msgstr "Ezläw tuqtadı."
 
-#: khtml/khtmlview.cpp:1637
+#: khtml/khtmlview.cpp:1640
 msgid "Starting -- find links as you type"
 msgstr "Cíu barğan çaqta bäylär ezläw bara"
 
-#: khtml/khtmlview.cpp:1643
+#: khtml/khtmlview.cpp:1646
 msgid "Starting -- find text as you type"
 msgstr "Cíu barğan çaqta yazma ezläw bara"
 
-#: khtml/khtmlview.cpp:1664
+#: khtml/khtmlview.cpp:1667
 msgid "Link found: \"%1\"."
 msgstr "Bäy tabıldı: \"%1\"."
 
-#: khtml/khtmlview.cpp:1669
+#: khtml/khtmlview.cpp:1672
 msgid "Link not found: \"%1\"."
 msgstr "Bäy tabılmadı: \"%1\"."
 
-#: khtml/khtmlview.cpp:1677
+#: khtml/khtmlview.cpp:1680
 msgid "Text found: \"%1\"."
 msgstr "Yazma tabıldı: \"%1\"."
 
-#: khtml/khtmlview.cpp:1682
+#: khtml/khtmlview.cpp:1685
 msgid "Text not found: \"%1\"."
 msgstr "Yazma tabılmadı: \"%1\"."
 
-#: khtml/khtmlview.cpp:1726
+#: khtml/khtmlview.cpp:1729
 msgid "Access Keys activated"
 msgstr "İreşü Töymäse açıldı"
 
-#: khtml/khtmlview.cpp:2745
+#: khtml/khtmlview.cpp:2748
 #, c-format
 msgid "Print %1"
 msgstr "%1 Bastıru"
@@ -7406,7 +7406,7 @@ msgstr "uqıp çıqqanda ütmäslek xata: %1, %2 yulında, %3 buyında"
 msgid "XML parsing error"
 msgstr "XML eçtälege xatalı"
 
-#: khtml/xml/dom_docimpl.cpp:2015
+#: khtml/xml/dom_docimpl.cpp:2007
 msgid "Basic Page Style"
 msgstr "Üz Bizäleşe"
 
@@ -7485,11 +7485,11 @@ msgstr ""
 "%1 yul %2:\n"
 "%3"
 
-#: khtml/ecma/kjs_html.cpp:2132 khtml/ecma/kjs_window.cpp:1362
+#: khtml/ecma/kjs_html.cpp:2142 khtml/ecma/kjs_window.cpp:1380
 msgid "Confirmation: JavaScript Popup"
 msgstr "Yaslaw: JavaScript Atılması"
 
-#: khtml/ecma/kjs_window.cpp:1365
+#: khtml/ecma/kjs_window.cpp:1383
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
@@ -7497,7 +7497,7 @@ msgstr ""
 "Bu bittäge JavaScript yaña täräzä açmaqçı bula.\n"
 "Aña bonı eşlärgä biräseme?"
 
-#: khtml/ecma/kjs_window.cpp:1368
+#: khtml/ecma/kjs_window.cpp:1386
 msgid ""
 "<qt>This site is requesting to open"
 "<p>%1</p>in a new browser window via JavaScript.<br />"
@@ -7507,39 +7507,39 @@ msgstr ""
 "<p>%1</p>urınlaşuın yaña täräzädä açmaqçı bula.<br />"
 "Aña bonı eşlärgä biräseme?</qt>"
 
-#: khtml/ecma/kjs_html.cpp:2139 khtml/ecma/kjs_window.cpp:1370
+#: khtml/ecma/kjs_html.cpp:2149 khtml/ecma/kjs_window.cpp:1388
 msgid "Allow"
 msgstr "Röxsät it"
 
-#: khtml/ecma/kjs_html.cpp:2139 khtml/ecma/kjs_window.cpp:1370
+#: khtml/ecma/kjs_html.cpp:2149 khtml/ecma/kjs_window.cpp:1388
 msgid "Do Not Allow"
 msgstr "Birmäskä"
 
-#: khtml/ecma/kjs_window.cpp:1655
+#: khtml/ecma/kjs_window.cpp:1673
 msgid "Close window?"
 msgstr "Täräzäne yabasımı?"
 
-#: khtml/ecma/kjs_window.cpp:1655
+#: khtml/ecma/kjs_window.cpp:1673
 msgid "Confirmation Required"
 msgstr "Raslísı Bar"
 
-#: khtml/ecma/kjs_window.cpp:2526
+#: khtml/ecma/kjs_window.cpp:2544
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Saylanmağa \"%1\" taba kürsätkän bitbilgene östiseme?"
 
-#: khtml/ecma/kjs_window.cpp:2529
+#: khtml/ecma/kjs_window.cpp:2547
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
 msgstr "Saylanmağa \"%1\" taba kürsätkän \"%2\" atlı bitbilgene östiseme?"
 
-#: khtml/ecma/kjs_window.cpp:2537
+#: khtml/ecma/kjs_window.cpp:2555
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript eçennän Bitbilge Östälänä"
 
-#: khtml/ecma/kjs_window.cpp:2541
+#: khtml/ecma/kjs_window.cpp:2559
 msgid "Disallow"
 msgstr "Birmäw"
 
@@ -7561,7 +7561,7 @@ msgstr "JavaScript"
 msgid "&Abort"
 msgstr "&Özäse"
 
-#: khtml/ecma/kjs_html.cpp:2134
+#: khtml/ecma/kjs_html.cpp:2144
 msgid ""
 "This site is submitting a form which will open up a new browser window via "
 "JavaScript.\n"
@@ -7571,7 +7571,7 @@ msgstr ""
 "açmaqçı bula.\n"
 "Aña bonı eşlärgä biräseme?"
 
-#: khtml/ecma/kjs_html.cpp:2137
+#: khtml/ecma/kjs_html.cpp:2147
 msgid ""
 "<qt>This site is submitting a form which will open "
 "<p>%1</p> in a new browser window via JavaScript.<br />"
@@ -7581,7 +7581,7 @@ msgstr ""
 "<p>%1</p> biten gizgeçneñ yaña täräzäsendä açmaqçı bula.<br />"
 "Aña bonı eşlärgä biräseme?</qt>"
 
-#: khtml/html/htmlparser.cpp:1698
+#: khtml/html/htmlparser.cpp:1704
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "Ezläp bulğan töp isemlek bu. Ezlise süz kertü: "
 

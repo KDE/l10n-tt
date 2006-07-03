@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs katepart\n"
-"POT-Creation-Date: 2006-05-07 03:53+0200\n"
+"POT-Creation-Date: 2006-07-03 03:56+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2996,7 +2996,11 @@ msgstr "Yaraqsız köylämä: '%1'. Qullanu: %2 on|off|1|0|true|false"
 msgid "Unknown command '%1'"
 msgstr "Billgesez boyırıq: %1"
 
-#: part/katecmds.cpp:537
+#: part/katecmds.cpp:494
+msgid "Sorry, but Kate is not able to replace newlines, yet"
+msgstr ""
+
+#: part/katecmds.cpp:536
 #, c-format
 msgid ""
 "_n: 1 replacement done\n"
