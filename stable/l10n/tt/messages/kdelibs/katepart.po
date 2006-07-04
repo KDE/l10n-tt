@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs katepart\n"
-"POT-Creation-Date: 2006-07-03 03:56+0200\n"
+"POT-Creation-Date: 2006-07-04 03:57+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -773,7 +773,7 @@ msgstr "Biremne Saqla"
 msgid "Save failed"
 msgstr "Saqlap bulmadı"
 
-#: part/katedialogs.cpp:1606 part/katedocument.cpp:4324
+#: part/katedialogs.cpp:1607 part/katedocument.cpp:4324
 msgid "What do you want to do?"
 msgstr "Ni eşlise kilä?"
 
@@ -781,7 +781,7 @@ msgstr "Ni eşlise kilä?"
 msgid "File Was Changed on Disk"
 msgstr "Disk Eçendäge Birem Üzgärtelgän"
 
-#: part/katedialogs.cpp:1584 part/katedocument.cpp:4325
+#: part/katedialogs.cpp:1585 part/katedocument.cpp:4325
 msgid "&Reload File"
 msgstr "&Yañadan Yöklä"
 
@@ -925,7 +925,7 @@ msgstr ""
 "Bu birem öçen mime-törlär saylísı.\n"
 "Birem quşımtasına kileşterelgän caylawlarğa üzgäreşlär kerteläçäk."
 
-#: part/katedialogs.cpp:1417 part/katefiletype.cpp:506
+#: part/katedialogs.cpp:1418 part/katefiletype.cpp:506
 #: plugins/autobookmarker/autobookmarker.cpp:367
 msgid "Select Mime Types"
 msgstr "MIME-Törlär Saylaw"
@@ -1136,7 +1136,7 @@ msgstr ""
 "saylísı."
 "<p>Şul uq atılma saylaq qullanıp asyaq töslären töp cayına awdarıp bula."
 
-#: part/katedialogs.cpp:1258 part/kateschema.cpp:689
+#: part/katedialogs.cpp:1259 part/kateschema.cpp:689
 msgid "H&ighlight:"
 msgstr "Yaq&tırt:"
 
@@ -1983,7 +1983,7 @@ msgstr "Çigenmä Quşımtası/Alquşımtası"
 msgid "KDE Default"
 msgstr "KDE'neñ Töpcayı"
 
-#: part/katedialogs.cpp:1108 part/katedialogs.cpp:1438
+#: part/katedialogs.cpp:1108 part/katedialogs.cpp:1439
 msgid "Name"
 msgstr "İsem"
 
@@ -2008,7 +2008,7 @@ msgstr "Şartnämä:"
 msgid "Do&wnload..."
 msgstr "İñ&derü..."
 
-#: part/katedialogs.cpp:1323
+#: part/katedialogs.cpp:1324
 msgid ""
 "Choose a <em>Syntax Highlight mode</em> from this list to view its properties "
 "below."
@@ -2016,14 +2016,14 @@ msgstr ""
 "Tezmädä <em>Yazma Yaqtırtu ısulı</em> saylanğaç, anıñ üzençäleklären kürep "
 "bula."
 
-#: part/katedialogs.cpp:1326
+#: part/katedialogs.cpp:1327
 msgid ""
 "The list of file extensions used to determine which files to highlight using "
 "the current syntax highlight mode."
 msgstr ""
 "Biredäge yaqtırtu ısulı belän eşkärtep bulğan birem quşımtalarınnan tezmäse bu."
 
-#: part/katedialogs.cpp:1329
+#: part/katedialogs.cpp:1330
 msgid ""
 "The list of Mime Types used to determine which files to highlight using the "
 "current highlight mode."
@@ -2034,7 +2034,7 @@ msgstr ""
 "<p>Kerem qırınnan sulda bulğan töymägä basıp, mime-törlär saylawçı osta çaqırıp "
 "bula."
 
-#: part/katedialogs.cpp:1333
+#: part/katedialogs.cpp:1334
 msgid ""
 "Display a dialog with a list of all available mime types to choose from."
 "<p>The <strong>File Extensions</strong> entry will automatically be edited as "
@@ -2043,7 +2043,7 @@ msgstr ""
 "Saylaw öçen, barlıq mime-törlär tezmäse belän täräzä küsrätelä."
 "<p><strong>Birem Quşımtaları</strong>  digän kerem dä şunda uq üze tözäteläçäk."
 
-#: part/katedialogs.cpp:1337
+#: part/katedialogs.cpp:1338
 msgid ""
 "Click this button to download new or updated syntax highlight descriptions from "
 "the Kate website."
@@ -2051,7 +2051,7 @@ msgstr ""
 "Bu töymägä çirtep, cömlä tözeleşen yaqtırtu caylawların Kate säxifäsennän "
 "östäp/yañartıp bula."
 
-#: part/katedialogs.cpp:1415
+#: part/katedialogs.cpp:1416
 msgid ""
 "Select the MimeTypes you want highlighted using the '%1' syntax highlight "
 "rules.\n"
@@ -2061,69 +2061,69 @@ msgstr ""
 "'%1' digän yaqtırtu tärtibe belän eşkärtäse kilgän mime-törlär saylaw.\n"
 "Ul çaqta birem kileşterüläre dä yañartılaçaq buluın istä totası."
 
-#: part/katedialogs.cpp:1430
+#: part/katedialogs.cpp:1431
 msgid "Highlight Download"
 msgstr "Yaqtırtunı İñderü"
 
-#: part/katedialogs.cpp:1430
+#: part/katedialogs.cpp:1431
 msgid "&Install"
 msgstr "&Quyası"
 
-#: part/katedialogs.cpp:1435
+#: part/katedialogs.cpp:1436
 msgid "Select the syntax highlighting files you want to update:"
 msgstr "Yañartası kilgän yaqtırtu biremnären saylaw:"
 
-#: part/katedialogs.cpp:1439
+#: part/katedialogs.cpp:1440
 msgid "Installed"
 msgstr "Quyıldı"
 
-#: part/katedialogs.cpp:1440
+#: part/katedialogs.cpp:1441
 msgid "Latest"
 msgstr "Soñğısı"
 
-#: part/katedialogs.cpp:1444
+#: part/katedialogs.cpp:1445
 msgid "<b>Note:</b> New versions are selected automatically."
 msgstr "<b>Beläse:</b> Yaña söremnäre üzennän üze saylana."
 
-#: part/katedialogs.cpp:1543
+#: part/katedialogs.cpp:1544
 msgid "Go to Line"
 msgstr "Yulğa Küçü"
 
-#: part/katedialogs.cpp:1553
+#: part/katedialogs.cpp:1554
 msgid "&Go to line:"
 msgstr "&Yulğa küç:"
 
-#: part/katedialogs.cpp:1579
+#: part/katedialogs.cpp:1580
 msgid "File Was Deleted on Disk"
 msgstr "Disk Bireme Beterelde"
 
-#: part/katedialogs.cpp:1580
+#: part/katedialogs.cpp:1581
 msgid "&Save File As..."
 msgstr "B&aşqaça Saqlaw..."
 
-#: part/katedialogs.cpp:1581
+#: part/katedialogs.cpp:1582
 msgid "Lets you select a location and save the file again."
 msgstr "Berär urınlaşunı saylap, bu biremne qabat saqlarğa birä."
 
-#: part/katedialogs.cpp:1583
+#: part/katedialogs.cpp:1584
 msgid "File Changed on Disk"
 msgstr "Disktäge Birem Üzgärgän"
 
-#: part/katedialogs.cpp:1585
+#: part/katedialogs.cpp:1586
 msgid ""
 "Reload the file from disk. If you have unsaved changes, they will be lost."
 msgstr ""
 "Disk biremennän yañadan yökläw. Bar bulğan saqlanmağan üzgäreşlär yuğalaçaq."
 
-#: part/katedialogs.cpp:1590
+#: part/katedialogs.cpp:1591
 msgid "&Ignore"
 msgstr "&Uzası"
 
-#: part/katedialogs.cpp:1593
+#: part/katedialogs.cpp:1594
 msgid "Ignore the changes. You will not be prompted again."
 msgstr "Üzgäreşkä qaramasqa. Bütän soralmas."
 
-#: part/katedialogs.cpp:1594
+#: part/katedialogs.cpp:1595
 msgid ""
 "Do nothing. Next time you focus the file, or try to save it or close it, you "
 "will be prompted again."
@@ -2131,11 +2131,11 @@ msgstr ""
 "Ber ni eşlämä. Bu biremne tağın saylağan, saqlağan yä yapqan çaqta bu täräzä "
 "qabat kürsäteläçäk."
 
-#: part/katedialogs.cpp:1612
+#: part/katedialogs.cpp:1613
 msgid "&View Difference"
 msgstr "&Ayırmasın Kürü"
 
-#: part/katedialogs.cpp:1617
+#: part/katedialogs.cpp:1618
 msgid ""
 "Calculates the difference between the editor contents and the disk file using "
 "diff(1) and opens the diff file with the default application for that."
@@ -2143,15 +2143,15 @@ msgstr ""
 "Bu saylanğan istälek öçen anıñ disk eçendäge söreme belän arasında bulğan "
 "ayırma ezläp, ul ayırma biremen töp yazılımda açu."
 
-#: part/katedialogs.cpp:1621
+#: part/katedialogs.cpp:1622
 msgid "Overwrite"
 msgstr "Östän Yaz"
 
-#: part/katedialogs.cpp:1622
+#: part/katedialogs.cpp:1623
 msgid "Overwrite the disk file with the editor content."
 msgstr "Biremneñ disk eçendäge söremen tözätkeçtäge belän almaştıru."
 
-#: part/katedialogs.cpp:1690
+#: part/katedialogs.cpp:1691
 msgid ""
 "The diff command failed. Please make sure that diff(1) is installed and in your "
 "PATH."
@@ -2159,11 +2159,11 @@ msgstr ""
 "\"diff\" digän boyırıq uzmadı. Bu sanaqnıñ PATH yulı aşa anı tabıp buluın "
 "tikşerep alası bar."
 
-#: part/katedialogs.cpp:1692
+#: part/katedialogs.cpp:1693
 msgid "Error Creating Diff"
 msgstr "Ayırma Yasaw Xatası"
 
-#: part/katedialogs.cpp:1705
+#: part/katedialogs.cpp:1706
 msgid ""
 "Ignoring means that you will not be warned again (unless the disk file changes "
 "once more): if you save the document, you will overwrite the file on disk; if "
@@ -2173,7 +2173,7 @@ msgstr ""
 "üzgärtelmäsä ikän). Bu birem üzgärtelgän bulsa, başqa yazılımnan yasalğan "
 "üzgäreşlär yuğalaçaq."
 
-#: part/katedialogs.cpp:1709
+#: part/katedialogs.cpp:1710
 msgid "You Are on Your Own"
 msgstr "Üz Üzäreşlär"
 

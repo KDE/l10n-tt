@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-07-03 03:57+0200\n"
+"POT-Creation-Date: 2006-07-04 03:57+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -7800,7 +7800,7 @@ msgstr "KMultiPart"
 msgid "Embeddable component for multipart/mixed"
 msgstr "Comment=Qıstırmalar öçen Quşılma Komponent"
 
-#: khtml/rendering/render_frames.cpp:939
+#: khtml/rendering/render_frames.cpp:944
 msgid ""
 "No plugin found for '%1'.\n"
 "Do you want to download one from %2?"
@@ -7808,15 +7808,15 @@ msgstr ""
 "'%1' öçen quşılma tabılmadı.\n"
 "Anı %2 yağınnan iñderäseme?"
 
-#: khtml/rendering/render_frames.cpp:940
+#: khtml/rendering/render_frames.cpp:945
 msgid "Missing Plugin"
 msgstr "Tabılmağan Quşılma"
 
-#: khtml/rendering/render_frames.cpp:940
+#: khtml/rendering/render_frames.cpp:945
 msgid "Download"
 msgstr "İñ&der"
 
-#: khtml/rendering/render_frames.cpp:940
+#: khtml/rendering/render_frames.cpp:945
 msgid "Do Not Download"
 msgstr "İñdermäskä"
 
