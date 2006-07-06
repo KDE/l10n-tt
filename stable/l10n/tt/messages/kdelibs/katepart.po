@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs katepart\n"
-"POT-Creation-Date: 2006-07-05 03:57+0200\n"
+"POT-Creation-Date: 2006-07-06 04:00+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -394,90 +394,90 @@ msgid ""
 "given text."
 msgstr "Ezlängän yazma yä ki tärtip çağılıçın äytelgän yazma belän almaştıru."
 
-#: part/katesearch.cpp:329
+#: part/katesearch.cpp:331
 msgid "Search string '%1' not found!"
 msgstr "'%1' yazması tabılmadı!"
 
-#: part/katesearch.cpp:331 part/katesearch.cpp:496
+#: part/katesearch.cpp:333 part/katesearch.cpp:498
 msgid "Find"
 msgstr "Tap"
 
-#: part/katesearch.cpp:351 part/katesearch.cpp:369 part/katesearch.cpp:473
+#: part/katesearch.cpp:353 part/katesearch.cpp:371 part/katesearch.cpp:475
 #, c-format
 msgid ""
 "_n: %n replacement made.\n"
 "%n replacements made."
 msgstr "%n almaştıru yasaldı."
 
-#: part/katesearch.cpp:477
+#: part/katesearch.cpp:479
 msgid "End of document reached."
 msgstr "İstälek azağına çıqtıq."
 
-#: part/katesearch.cpp:478
+#: part/katesearch.cpp:480
 msgid "Beginning of document reached."
 msgstr "İstälek başına citkän."
 
-#: part/katesearch.cpp:483
+#: part/katesearch.cpp:485
 msgid "End of selection reached."
 msgstr "Saylanunıñ azağına citkän."
 
-#: part/katesearch.cpp:484
+#: part/katesearch.cpp:486
 msgid "Beginning of selection reached."
 msgstr "Saylanu başı kiñäytelgän."
 
-#: part/katesearch.cpp:488
+#: part/katesearch.cpp:490
 msgid "Continue from the beginning?"
 msgstr "Başınnan dawam itäseme?"
 
-#: part/katesearch.cpp:489
+#: part/katesearch.cpp:491
 msgid "Continue from the end?"
 msgstr "Azağınnan dawam itäseme?"
 
-#: part/katesearch.cpp:497
+#: part/katesearch.cpp:499
 msgid "&Stop"
 msgstr "&Tuqta"
 
-#: part/katesearch.cpp:721
+#: part/katesearch.cpp:723
 msgid "Replace Confirmation"
 msgstr "Almaştıru belän Kileşü"
 
-#: part/katesearch.cpp:723
+#: part/katesearch.cpp:725
 msgid "Replace &All"
 msgstr "&Barın Almaştır"
 
-#: part/katesearch.cpp:723
+#: part/katesearch.cpp:725
 msgid "Re&place && Close"
 msgstr "Almaştır da Ya&p"
 
-#: part/katesearch.cpp:723
+#: part/katesearch.cpp:725
 msgid "&Replace"
 msgstr "&Almaştır"
 
-#: part/katesearch.cpp:725
+#: part/katesearch.cpp:727
 msgid "&Find Next"
 msgstr "&Kiläsen Tap"
 
-#: part/katesearch.cpp:730
+#: part/katesearch.cpp:732
 msgid "Found an occurrence of your search term. What do you want to do?"
 msgstr "Ezlängäne tabıldı. Ni eşlise?"
 
-#: part/katesearch.cpp:782
+#: part/katesearch.cpp:784
 msgid "Usage: find[:[bcersw]] PATTERN"
 msgstr "Qullanu: find[:[bcersw]] ÜRNÄK"
 
-#: part/katesearch.cpp:794
+#: part/katesearch.cpp:796
 msgid "Usage: ifind[:[bcrs]] PATTERN"
 msgstr "Qullanu: ifind[:[bcrs]] ÜRNÄK"
 
-#: part/katesearch.cpp:848
+#: part/katesearch.cpp:850
 msgid "Usage: replace[:[bceprsw]] PATTERN [REPLACEMENT]"
 msgstr "Qullanu: replace[:[bceprsw]] ÜRNÄK [ALMAŞTIRMA]"
 
-#: part/katesearch.cpp:882
+#: part/katesearch.cpp:884
 msgid "<p>Usage: <code>find[:bcersw] PATTERN</code></p>"
 msgstr "<p>Qullanu: <code>find[:bcersw] ÜRNÄK</code></p>"
 
-#: part/katesearch.cpp:885
+#: part/katesearch.cpp:887
 msgid ""
 "<p>Usage: <code>ifind:[:bcrs] PATTERN</code>"
 "<br>ifind does incremental or 'as-you-type' search</p>"
@@ -485,11 +485,11 @@ msgstr ""
 "<p>Qullanu: <code>ifind:[:bcrs] ÜRNÄK</code>"
 "<br>ifind digäne artıp yä 'kertelgänçä' ezläw yasí</p>"
 
-#: part/katesearch.cpp:889
+#: part/katesearch.cpp:891
 msgid "<p>Usage: <code>replace[:bceprsw] PATTERN REPLACEMENT</code></p>"
 msgstr "<p>Qullanu: <code>replace[:bceprsw] ÜRNÄK ALMAŞTIRMA</code></p>"
 
-#: part/katesearch.cpp:892
+#: part/katesearch.cpp:894
 msgid ""
 "<h4><caption>Options</h4>"
 "<p><b>b</b> - Search backward"
@@ -503,7 +503,7 @@ msgstr ""
 "<br><b>r</b> - Ürnäkne tärtip çağılışı itep sanísı"
 "<br><b>s</b> - Olı/keçe ayırıp ezläw"
 
-#: part/katesearch.cpp:901
+#: part/katesearch.cpp:903
 msgid ""
 "<br><b>e</b> - Search in selected text only"
 "<br><b>w</b> - Search whole words only"
@@ -511,7 +511,7 @@ msgstr ""
 "<br><b>e</b> - Yazmanıñ saylanğan oleşendä genä ezlise"
 "<br><b>w</b> - Tulı süzlär genä ezlise"
 
-#: part/katesearch.cpp:907
+#: part/katesearch.cpp:909
 msgid ""
 "<br><b>p</b> - Prompt for replace</p>"
 "<p>If REPLACEMENT is not present, an empty string is used.</p>"
