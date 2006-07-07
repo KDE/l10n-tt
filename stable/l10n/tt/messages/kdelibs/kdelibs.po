@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-07-04 03:57+0200\n"
+"POT-Creation-Date: 2006-07-07 03:55+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -8273,7 +8273,7 @@ msgstr "Ezläw öçen berär yazma kertäse bar."
 msgid "Invalid regular expression."
 msgstr "Tärtip çağılışı yaraqsız."
 
-#: kutils/kcmoduleloader.cpp:97
+#: kutils/kcmoduleloader.cpp:98
 msgid ""
 "<qt>There was an error when loading the module '%1'."
 "<br>"
@@ -8287,30 +8287,30 @@ msgstr ""
 "yökläp bulmadı. Citeştergeç bilgeläweneñ, yä ki create_* funksílarınıñ bulmawı "
 "bar.</qt>"
 
-#: kutils/kcmoduleloader.cpp:110
+#: kutils/kcmoduleloader.cpp:111
 msgid "The specified library %1 could not be found."
 msgstr "%1 digän tuplamanı tabıp bulmadı."
 
-#: kutils/kcmoduleloader.cpp:131
+#: kutils/kcmoduleloader.cpp:132
 msgid "The module %1 could not be found."
 msgstr "%1 digän modulnı tabıp bulmí."
 
-#: kutils/kcmoduleloader.cpp:132
+#: kutils/kcmoduleloader.cpp:133
 msgid ""
 "<qt>"
 "<p>The diagnostics is:"
 "<br>The desktop file %1 could not be found.</qt>"
 msgstr "<qt><p>Yuraw:<br>Östälneñ %1 digän bireme tabılmadı.</qt>"
 
-#: kutils/kcmoduleloader.cpp:151
+#: kutils/kcmoduleloader.cpp:152
 msgid "The module %1 could not be loaded."
 msgstr "%1 digän modulnı yökläp bulmí."
 
-#: kutils/kcmoduleloader.cpp:170
+#: kutils/kcmoduleloader.cpp:171
 msgid "The module %1 is not a valid configuration module."
 msgstr "%1 digän modul ul caylaw öçen yaraqlı modul tügel."
 
-#: kutils/kcmoduleloader.cpp:171
+#: kutils/kcmoduleloader.cpp:172
 msgid ""
 "<qt>"
 "<p>The diagnostics is:"
@@ -8320,11 +8320,11 @@ msgstr ""
 "<p>Yuraw:"
 "<br>Östälneñ %1 digän bireme nindider tuplamanı bilgelämägän.</qt>"
 
-#: kutils/kcmoduleloader.cpp:205
+#: kutils/kcmoduleloader.cpp:206
 msgid "There was an error loading the module."
 msgstr "Modul yöklägändä xata kilep çıqtı."
 
-#: kutils/kcmoduleloader.cpp:205 kutils/kcmoduleloader.cpp:273
+#: kutils/kcmoduleloader.cpp:206 kutils/kcmoduleloader.cpp:274
 msgid ""
 "<qt>"
 "<p>The diagnostics is:"
