@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs katepart\n"
-"POT-Creation-Date: 2006-07-10 03:55+0200\n"
+"POT-Creation-Date: 2006-07-11 03:21+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2842,7 +2842,7 @@ msgstr " TÖP "
 msgid "Overwrite the file"
 msgstr "Birem östennän yazası"
 
-#: part/kateview.cpp:1780
+#: part/kateview.cpp:1781
 msgid "Export File as HTML"
 msgstr "Biremne HTML itep Çığar"
 
