@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-07-07 02:13+0000\n"
+"POT-Creation-Date: 2006-07-18 01:36+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -3119,12 +3119,12 @@ msgstr "Keywords=icons,effects,size,hicolor,locolor"
 msgid "Name=CD-ROM Information"
 msgstr "Name=Beldermä"
 
-#: kcontrol/info/cdinfo.desktop:37
+#: kcontrol/info/cdinfo.desktop:40
 #, fuzzy
 msgid "Comment=CD/DVD Drive Capabilites"
 msgstr "Comment=DVD Video Disk"
 
-#: kcontrol/info/cdinfo.desktop:61
+#: kcontrol/info/cdinfo.desktop:67
 msgid "Keywords=CD-ROM Information,CD-ROM,CD,CD Drive,Writer Capabilities"
 msgstr ""
 
@@ -5615,7 +5615,7 @@ msgstr "Comment=Totaşmağan Zip Disk"
 msgid "Name=Media Properties Page"
 msgstr "Name=Cıhaz Totaşılu Beldergeçe"
 
-#: kioslave/media/propsdlgplugin/media_propsdlgplugin.desktop:27
+#: kioslave/media/propsdlgplugin/media_propsdlgplugin.desktop:30
 msgid "Comment=Konqueror properties dialog plugin to configure mount behaviour"
 msgstr ""
 

@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-07-14 03:20+0200\n"
+"POT-Creation-Date: 2006-07-25 03:52+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -4403,7 +4403,7 @@ msgid ""
 "remote host closed connection"
 msgstr "çittäge host totaşunı yaptı"
 
-#: kdecore/network/ksocketaddress.cpp:619
+#: kdecore/network/ksocketaddress.cpp:625
 #, c-format
 msgid ""
 "_: 1: the unknown socket address family number\n"
@@ -4564,19 +4564,19 @@ msgstr ""
 "Kürep alu: %1\n"
 "Tülängäne: %2\n"
 
-#: knewstuff/downloaddialog.cpp:595
+#: knewstuff/downloaddialog.cpp:594
 msgid "Installation successful."
 msgstr "Quyu uñışlı uzdı."
 
-#: knewstuff/downloaddialog.cpp:595 knewstuff/downloaddialog.cpp:597
+#: knewstuff/downloaddialog.cpp:594 knewstuff/downloaddialog.cpp:596
 msgid "Installation"
 msgstr "Quyu"
 
-#: knewstuff/downloaddialog.cpp:597
+#: knewstuff/downloaddialog.cpp:596
 msgid "Installation failed."
 msgstr "Quyıp bulmadı."
 
-#: knewstuff/downloaddialog.cpp:690
+#: knewstuff/downloaddialog.cpp:689
 #, fuzzy
 msgid "Preview not available."
 msgstr ""
@@ -5804,7 +5804,7 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "Qoraltirä"
 
-#: kdeui/kedittoolbar.cpp:447 khtml/html/html_formimpl.cpp:2108
+#: kdeui/kedittoolbar.cpp:447 khtml/html/html_formimpl.cpp:2113
 #: khtml/khtmlview.cpp:2533 khtml/khtmlview.cpp:2566
 msgid "Reset"
 msgstr "Awdar"
@@ -7270,7 +7270,7 @@ msgstr ""
 "<qt>Bu form eçtälege cirle birem sistemendäge<BR><B>%1</B><BR>"
 "taba cibäräläçäk.<BR>Form eçtälegen cibärü dawam itäseme?"
 
-#: khtml/html/html_formimpl.cpp:1522 khtml/html/html_formimpl.cpp:2116
+#: khtml/html/html_formimpl.cpp:1527 khtml/html/html_formimpl.cpp:2121
 #: khtml/khtml_part.cpp:4808 khtml/khtmlview.cpp:2519 khtml/khtmlview.cpp:2561
 msgid "Submit"
 msgstr "Cibär"
@@ -7523,23 +7523,23 @@ msgstr "Täräzäne yabasımı?"
 msgid "Confirmation Required"
 msgstr "Raslísı Bar"
 
-#: khtml/ecma/kjs_window.cpp:2544
+#: khtml/ecma/kjs_window.cpp:2548
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Saylanmağa \"%1\" taba kürsätkän bitbilgene östiseme?"
 
-#: khtml/ecma/kjs_window.cpp:2547
+#: khtml/ecma/kjs_window.cpp:2551
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
 msgstr "Saylanmağa \"%1\" taba kürsätkän \"%2\" atlı bitbilgene östiseme?"
 
-#: khtml/ecma/kjs_window.cpp:2555
+#: khtml/ecma/kjs_window.cpp:2559
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript eçennän Bitbilge Östälänä"
 
-#: khtml/ecma/kjs_window.cpp:2559
+#: khtml/ecma/kjs_window.cpp:2563
 msgid "Disallow"
 msgstr "Birmäw"
 
@@ -8427,22 +8427,22 @@ msgstr ""
 msgid "(This plugin is not configurable)"
 msgstr "(Bu quşılma caylana torğan tügel)"
 
-#: kutils/kreplacedialog.cpp:137
+#: kutils/kreplacedialog.cpp:142
 msgid "Your replacement string is referencing a capture greater than '\\%1', "
 msgstr "Almaştıru yazması '\\%1' totqınlığınan kübrägenä bäylängän, "
 
-#: kutils/kreplacedialog.cpp:140
+#: kutils/kreplacedialog.cpp:145
 #, c-format
 msgid ""
 "_n: but your pattern only defines 1 capture.\n"
 "but your pattern only defines %n captures."
 msgstr "ürnäktä isä barı %n totqın bilgelängän."
 
-#: kutils/kreplacedialog.cpp:141
+#: kutils/kreplacedialog.cpp:146
 msgid "but your pattern defines no captures."
 msgstr "ürnäktä isä totqınnıñ berse dä yuq."
 
-#: kutils/kreplacedialog.cpp:142
+#: kutils/kreplacedialog.cpp:147
 msgid ""
 "\n"
 "Please correct."
