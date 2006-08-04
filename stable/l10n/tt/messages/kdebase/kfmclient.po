@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kfmclient\n"
-"POT-Creation-Date: 2006-04-15 03:52+0200\n"
+"POT-Creation-Date: 2006-08-04 03:58+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -281,29 +281,29 @@ msgstr ""
 "             // Biredäge törgäkne aça. Bik kileşä.\n"
 "\n"
 
-#: kfmclient.cc:403
+#: kfmclient.cc:405
 msgid ""
 "Profile %1 not found\n"
 msgstr ""
 "%1 atlı caybirem tabılmadı\n"
 
-#: kfmclient.cc:429
+#: kfmclient.cc:434
 msgid ""
 "Syntax Error: Not enough arguments\n"
 msgstr ""
 "Cömlä Xatası: Köylämälär citmi\n"
 
-#: kfmclient.cc:434
+#: kfmclient.cc:439
 msgid ""
 "Syntax Error: Too many arguments\n"
 msgstr ""
 "Cömlä Xatası: Artıq köylämälär\n"
 
-#: kfmclient.cc:554
+#: kfmclient.cc:559
 msgid "Unable to download from an invalid URL."
 msgstr "Yaraqsız URL'dan iñderep bulmadı."
 
-#: kfmclient.cc:618
+#: kfmclient.cc:623
 msgid ""
 "Syntax Error: Unknown command '%1'\n"
 msgstr ""
