@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdesu\n"
-"POT-Creation-Date: 2006-04-13 03:51+0200\n"
+"POT-Creation-Date: 2006-08-08 04:01+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -107,12 +107,16 @@ msgstr "çınçaq: "
 msgid "Priority:"
 msgstr "Möhimlek:"
 
-#: sudlg.cpp:19
+#: sudlg.cpp:31
 #, c-format
 msgid "Run as %1"
 msgstr "%1 adınnan Cibär"
 
-#: sudlg.cpp:25
+#: sudlg.cpp:35
+msgid "Please enter your password."
+msgstr ""
+
+#: sudlg.cpp:38
 msgid ""
 "The action you requested needs root privileges. Please enter root's password "
 "below or click Ignore to continue with your current privileges."
@@ -120,16 +124,7 @@ msgstr ""
 "Bu eş qılu öçen root xoquqları kiräk. Xäzer root sersüzen kertäse qala, yä ki "
 "Qarama östenä çirtep biredäge xoquqlar belän däwam itäse."
 
-#: sudlg.cpp:29
-#, fuzzy
-msgid ""
-"The action you requested needs root privileges. Please enter root's password "
-"below "
-msgstr ""
-"Bu eş qılu öçen root xoquqları kiräk. Xäzer root sersüzen kertäse qala, yä ki "
-"Qarama östenä çirtep biredäge xoquqlar belän däwam itäse."
-
-#: sudlg.cpp:34
+#: sudlg.cpp:42
 msgid ""
 "The action you requested needs additional privileges. Please enter the password "
 "for \"%1\" below or click Ignore to continue with your current privileges."
@@ -137,15 +132,15 @@ msgstr ""
 "Bu soralğan eş qılu öçen östämä xoquqlar kiräk. Xäzer \"%1\" öçen sersüz "
 "kertäse qala, yä ki Qarama östenä çirtep biredäge xoquqlar belän däwam itäse."
 
-#: sudlg.cpp:40
+#: sudlg.cpp:50
 msgid "&Ignore"
 msgstr "&Uzası"
 
-#: sudlg.cpp:56
+#: sudlg.cpp:66
 msgid "Conversation with su failed."
 msgstr "su aşa äyländerü uzmadı."
 
-#: sudlg.cpp:65
+#: sudlg.cpp:75
 msgid ""
 "The program 'su' is not found;\n"
 "make sure your PATH is set correctly."
@@ -153,7 +148,7 @@ msgstr ""
 "'su' atlı yazılım tabılmadı;\n"
 "biredäge PATH tieşleçä köylängän buluın tikşeräse."
 
-#: sudlg.cpp:72
+#: sudlg.cpp:82
 msgid ""
 "You are not allowed to use 'su';\n"
 "on some systems, you need to be in a special group (often: wheel) to use this "
@@ -163,11 +158,11 @@ msgstr ""
 "bu yazılımnı qullanu öçen, qayber sistemnärdä nindider törkemgä kergän buluı "
 "kiräk (yış: wheel)."
 
-#: sudlg.cpp:79
+#: sudlg.cpp:89
 msgid "Incorrect password; please try again."
 msgstr "Sersüz kileşmäde; tağın kertep qara."
 
-#: sudlg.cpp:83
+#: sudlg.cpp:93
 msgid "Internal error: illegal return from SuProcess::checkInstall()"
 msgstr "Eçke xata: SuProcess::checkInstall() qaytarğanı yaraqsız"
 
@@ -182,3 +177,7 @@ msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
+
+#, fuzzy
+#~ msgid "The action you requested needs root privileges. Please enter root's password below "
+#~ msgstr "Bu eş qılu öçen root xoquqları kiräk. Xäzer root sersüzen kertäse qala, yä ki Qarama östenä çirtep biredäge xoquqlar belän däwam itäse."
