@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase konsole\n"
-"POT-Creation-Date: 2006-08-07 04:00+0200\n"
+"POT-Creation-Date: 2006-08-10 04:03+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -864,27 +864,27 @@ msgstr "Bulışuçı"
 msgid "Author"
 msgstr "Yazuçı"
 
-#: main.cpp:179 main.cpp:182
+#: main.cpp:179 main.cpp:182 main.cpp:185
 msgid "bug fixing and improvements"
 msgstr "tözätmälär belän yaqşirtular"
 
-#: main.cpp:185 main.cpp:221 main.cpp:224 main.cpp:227 main.cpp:230
+#: main.cpp:188 main.cpp:224 main.cpp:227 main.cpp:230 main.cpp:233
 msgid "bug fixing"
 msgstr "tözätmälär"
 
-#: main.cpp:188
+#: main.cpp:191
 msgid "Solaris support and work on history"
 msgstr "Solaris totu da uzğannar belän eşläw"
 
-#: main.cpp:191
+#: main.cpp:194
 msgid "faster startup, bug fixing"
 msgstr "cibärelüne tizlätü, tözätmälär"
 
-#: main.cpp:194
+#: main.cpp:197
 msgid "decent marking"
 msgstr "saylap bilgeläw"
 
-#: main.cpp:197
+#: main.cpp:200
 msgid ""
 "partification\n"
 "Toolbar and session names"
@@ -892,7 +892,7 @@ msgstr ""
 "KParts çığanağı\n"
 "Qoraltirä dä sessi atamaları"
 
-#: main.cpp:201
+#: main.cpp:204
 msgid ""
 "partification\n"
 "overall improvements"
@@ -900,11 +900,11 @@ msgstr ""
 "KParts çığanağı\n"
 "urtaq yaqşırtular"
 
-#: main.cpp:205
+#: main.cpp:208
 msgid "transparency"
 msgstr "ütäkürenü"
 
-#: main.cpp:208
+#: main.cpp:211
 msgid ""
 "most of main.C donated via kvt\n"
 "overall improvements"
@@ -912,19 +912,19 @@ msgstr ""
 "main.c eçtälegeneñ kübese kvt eçennän alınğan\n"
 "urtaq yaqşırtular"
 
-#: main.cpp:212
+#: main.cpp:215
 msgid "schema and selection improvements"
 msgstr "Tözeleş belän saylaw yaqşırtuları"
 
-#: main.cpp:215
+#: main.cpp:218
 msgid "SGI Port"
 msgstr "SGI öçen Küçermä"
 
-#: main.cpp:218
+#: main.cpp:221
 msgid "FreeBSD port"
 msgstr "FreeBSD portı"
 
-#: main.cpp:232
+#: main.cpp:235
 msgid ""
 "Thanks to many others.\n"
 "The above list only reflects the contributors\n"
@@ -934,13 +934,13 @@ msgstr ""
 "Bu isemlektä min kertergä\n"
 "onıtmağannarı ğına bar."
 
-#: main.cpp:323
+#: main.cpp:326
 msgid ""
 "You can't use BOTH -ls and -e.\n"
 msgstr ""
 "-ls belän -e köylämäsen bergä qullanıp bulmí.\n"
 
-#: main.cpp:450
+#: main.cpp:453
 msgid ""
 "expected --vt_sz <#columns>x<#lines> e.g. 80x40\n"
 msgstr ""
