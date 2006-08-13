@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kcmshell\n"
-"POT-Creation-Date: 2005-05-18 21:23+0200\n"
+"POT-Creation-Date: 2006-08-13 04:02+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -48,31 +48,31 @@ msgstr "Bu töymäsez modulnı <id>. id bulğan täräzägä qatnaştıra"
 msgid "Do not display main window"
 msgstr "Töp täräzädä kürsätmäskä"
 
-#: main.cpp:197
+#: main.cpp:201
 msgid "KDE Control Module"
 msgstr "KDE İdärä Modulı"
 
-#: main.cpp:199
+#: main.cpp:203
 msgid "A tool to start single KDE control modules"
 msgstr "KDE idäräseneñ ayırı modulların cibärüçe qoral"
 
-#: main.cpp:201
+#: main.cpp:205
 msgid "(c) 1999-2004, The KDE Developers"
 msgstr "(c) 1999-2004, KDE Citeşterüçeläre"
 
-#: main.cpp:203
+#: main.cpp:207
 msgid "Maintainer"
 msgstr "Bulışuçı"
 
-#: main.cpp:224
+#: main.cpp:228
 msgid "The following modules are available:"
 msgstr "Barlıqta kiläse modullar bar:"
 
-#: main.cpp:243
+#: main.cpp:247
 msgid "No description available"
 msgstr "Açıqlamalar yuq"
 
-#: main.cpp:310
+#: main.cpp:314
 #, c-format
 msgid "Configure - %1"
 msgstr "Caylaw - %1"
