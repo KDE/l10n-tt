@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase ksysguard\n"
-"POT-Creation-Date: 2006-04-21 03:54+0200\n"
+"POT-Creation-Date: 2006-08-14 04:00+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,12 +12,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: KSysGuardApplet.cc:310 WorkSheet.cc:94
+#: KSysGuardApplet.cc:313 WorkSheet.cc:94
 #, c-format
 msgid "Cannot open the file %1."
 msgstr "Bu biremne açıp bulmadı: %1"
 
-#: KSysGuardApplet.cc:319 WorkSheet.cc:102
+#: KSysGuardApplet.cc:322 WorkSheet.cc:102
 msgid "The file %1 does not contain valid XML."
 msgstr "Yaraqlı XML %1 biremeneñ eçendä yuq."
 
@@ -45,15 +45,15 @@ msgstr "Alışukesä eçendä yaraqlı tözeleştä sızımnar yuq."
 msgid "It is impossible to connect to '%1'."
 msgstr "'%1' belän totaşılıp bulmadı."
 
-#: KSysGuardApplet.cc:201 WorkSheet.cc:328
+#: KSysGuardApplet.cc:204 WorkSheet.cc:328
 msgid "Select Display Type"
 msgstr "Kürsätü Isulın Saylaw"
 
-#: KSysGuardApplet.cc:202 WorkSheet.cc:329
+#: KSysGuardApplet.cc:205 WorkSheet.cc:329
 msgid "&Signal Plotter"
 msgstr "&Imlaw Sızımı"
 
-#: KSysGuardApplet.cc:203 WorkSheet.cc:330
+#: KSysGuardApplet.cc:206 WorkSheet.cc:330
 msgid "&Multimeter"
 msgstr "&Küpülçär"
 
@@ -1541,11 +1541,11 @@ msgstr "Bit eçendä kürsätäse asma yul sanı."
 msgid "Enter the title of the worksheet here."
 msgstr "Eşbitkä östise başlıq kertü."
 
-#: KSysGuardApplet.cc:204
+#: KSysGuardApplet.cc:207
 msgid "&Dancing Bars"
 msgstr "&Asma Yullar"
 
-#: KSysGuardApplet.cc:234 KSysGuardApplet.cc:383
+#: KSysGuardApplet.cc:237 KSysGuardApplet.cc:386
 msgid ""
 "The KSysGuard applet does not support displaying of this type of sensor. Please "
 "choose another sensor."
@@ -1553,7 +1553,7 @@ msgstr ""
 "KSysGuard applete mondí törle sizgeç öçen sızım yasa almí. Başqa sizgeçne sayla "
 "zinhar."
 
-#: KSysGuardApplet.cc:326
+#: KSysGuardApplet.cc:329
 msgid ""
 "The file %1 does not contain a valid applet definition, which must have a "
 "document type 'KSysGuardApplet'."
@@ -1561,7 +1561,7 @@ msgstr ""
 "KSysGuardApplet törendä istälek kebek bulası, applet öçen yaraqlı bilgelänü %1 "
 "biremendä yuq."
 
-#: KSysGuardApplet.cc:469
+#: KSysGuardApplet.cc:472
 msgid "Drag sensors from the KDE System Guard into this cell."
 msgstr "KDE System Guard täräzäsennän berär sizgeçne bi urınğa österise."
 
