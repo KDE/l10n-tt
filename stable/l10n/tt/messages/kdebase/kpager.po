@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kpager\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2006-08-16 04:04+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -80,7 +80,7 @@ msgstr "&Cäyep quy"
 msgid "&To Desktop"
 msgstr "Ös&tälgä"
 
-#: kpager.cpp:591
+#: kpager.cpp:592
 msgid "&All Desktops"
 msgstr "&Bar Öställär"
 
