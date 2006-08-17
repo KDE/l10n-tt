@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-08-03 02:14+0000\n"
+"POT-Creation-Date: 2006-08-17 02:19+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -3879,11 +3879,11 @@ msgstr ""
 msgid "Name=Java & JavaScript"
 msgstr "Name=Java belän JavaScript"
 
-#: kcontrol/konqhtml/khtml_java_js.desktop:62
+#: kcontrol/konqhtml/khtml_java_js.desktop:63
 msgid "Comment=Configure the behavior of Java and JavaScript"
 msgstr "Comment=Java belän JavaScript caylaw"
 
-#: kcontrol/konqhtml/khtml_java_js.desktop:134
+#: kcontrol/konqhtml/khtml_java_js.desktop:135
 msgid "Keywords=konqueror,kfm,browser,html,web,www,java,javascript"
 msgstr "Keywords=konqueror,kfm,browser,html,web,www,java,javascript"
 
