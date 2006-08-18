@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kicker\n"
-"POT-Creation-Date: 2006-03-25 03:54+0100\n"
+"POT-Creation-Date: 2006-08-18 04:04+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -175,7 +175,7 @@ msgstr "Tirälärne &Biksez İt"
 msgid "Add Applet"
 msgstr "Applet Östä"
 
-#: ui/addappletvisualfeedback.cpp:59
+#: ui/addappletvisualfeedback.cpp:60
 msgid "%1 Added"
 msgstr ""
 
