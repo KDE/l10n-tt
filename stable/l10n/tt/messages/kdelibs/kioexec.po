@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kioexec\n"
-"POT-Creation-Date: 2006-05-06 03:51+0200\n"
+"POT-Creation-Date: 2006-08-19 04:02+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -38,7 +38,7 @@ msgid ""
 msgstr ""
 "'command' kötelde.\n"
 
-#: main.cpp:99
+#: main.cpp:102
 msgid ""
 "The URL %1\n"
 "is malformed"
@@ -46,7 +46,7 @@ msgstr ""
 "Bu %1 URLı\n"
 "yaraqsız"
 
-#: main.cpp:101
+#: main.cpp:104
 msgid ""
 "Remote URL %1\n"
 "not allowed with --tempfiles switch"
@@ -54,7 +54,7 @@ msgstr ""
 "--tempfiles açqıçı belän bergä\n"
 "çittäge %1 URLın qullanıp bulmí"
 
-#: main.cpp:234
+#: main.cpp:237
 msgid ""
 "The supposedly temporary file\n"
 "%1\n"
@@ -65,15 +65,15 @@ msgstr ""
 "bireme üzgärtelgän bulğan axrısı.\n"
 "Anı barıber beteräseme?"
 
-#: main.cpp:235 main.cpp:242
+#: main.cpp:238 main.cpp:245
 msgid "File Changed"
 msgstr "Birem Üzgärtelde"
 
-#: main.cpp:235
+#: main.cpp:238
 msgid "Do Not Delete"
 msgstr "Betermäskä"
 
-#: main.cpp:241
+#: main.cpp:244
 msgid ""
 "The file\n"
 "%1\n"
@@ -84,15 +84,15 @@ msgstr ""
 "bireme üzgärtelgän bulğan axrısı.\n"
 "Üzgärelgänen yökliseme?"
 
-#: main.cpp:242
+#: main.cpp:245
 msgid "Upload"
 msgstr "Yökläw"
 
-#: main.cpp:242
+#: main.cpp:245
 msgid "Do Not Upload"
 msgstr "Yöklämäskä"
 
-#: main.cpp:269
+#: main.cpp:272
 msgid "KIOExec"
 msgstr "KIOExec"
 

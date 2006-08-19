@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-07-25 03:52+0200\n"
+"POT-Creation-Date: 2006-08-19 04:03+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -821,7 +821,7 @@ msgstr "Ereräytü"
 msgid "&Zoom"
 msgstr "&Ereräyt"
 
-#: arts/message/artsmessage.cc:89 common_texts.cpp:54 kabc/lock.cpp:131
+#: arts/message/artsmessage.cc:89 common_texts.cpp:54 kabc/lock.cpp:132
 #: kdeui/kmessagebox.cpp:760 kdeui/kmessagebox.cpp:790 kjs/object.cpp:493
 #: kutils/kpluginselector.cpp:248
 msgid "Error"
@@ -2113,17 +2113,17 @@ msgstr "Eşneñ"
 msgid "Preferred Address"
 msgstr "Adresnıñ Uñaylısı"
 
-#: kabc/lock.cpp:92
+#: kabc/lock.cpp:93
 msgid "Unable to open lock file."
 msgstr "Bikle birem açıp bulmadı."
 
-#: kabc/lock.cpp:105
+#: kabc/lock.cpp:106
 msgid ""
 "The address book '%1' is locked by application '%2'.\n"
 "If you believe this is incorrect, just remove the lock file from '%3'"
 msgstr ""
 
-#: kabc/lock.cpp:145
+#: kabc/lock.cpp:146
 msgid "Unlock failed. Lock file is owned by other process: %1 (%2)"
 msgstr "Bik töşerep bulmadı. Bik bireme başqa eşlänügä bäyle: %1 (%2)"
 
@@ -5682,7 +5682,7 @@ msgstr "Sınaw"
 msgid "&Overwrite"
 msgstr "Östän Yaz"
 
-#: kdeui/ksyntaxhighlighter.cpp:476 kdeui/ksyntaxhighlighter.cpp:583
+#: kdeui/ksyntaxhighlighter.cpp:476 kdeui/ksyntaxhighlighter.cpp:585
 msgid "As-you-type spell checking enabled."
 msgstr "Kertkän-çaqta yazu döreslegen tikşerü açıq."
 
@@ -5690,11 +5690,11 @@ msgstr "Kertkän-çaqta yazu döreslegen tikşerü açıq."
 msgid "As-you-type spell checking disabled."
 msgstr "Kertkän-çaqta yazu döreslegen tikşerü sünek."
 
-#: kdeui/ksyntaxhighlighter.cpp:525
+#: kdeui/ksyntaxhighlighter.cpp:527
 msgid "Incremental Spellcheck"
 msgstr "Arttırulı Yazma-tikşergeç"
 
-#: kdeui/ksyntaxhighlighter.cpp:585
+#: kdeui/ksyntaxhighlighter.cpp:587
 msgid "Too many misspelled words. As-you-type spell checking disabled."
 msgstr "Xatalı süzlär artıq küp. Kertkän-çaqta tikşerü eşe sünderelde."
 
@@ -6617,19 +6617,19 @@ msgstr "Boña almaştır:"
 msgid "Go to line:"
 msgstr "Yulğa küç:"
 
-#: kdeui/kwindowlistmenu.cpp:119
+#: kdeui/kwindowlistmenu.cpp:129
 msgid "Unclutter Windows"
 msgstr "Tiskäre Täräzälär"
 
-#: kdeui/kwindowlistmenu.cpp:121
+#: kdeui/kwindowlistmenu.cpp:131
 msgid "Cascade Windows"
 msgstr "Täräzälärne ber-ber artlı tezü"
 
-#: kdeui/kwindowlistmenu.cpp:175
+#: kdeui/kwindowlistmenu.cpp:185
 msgid "On All Desktops"
 msgstr "Bar Östäldä dä"
 
-#: kdeui/kwindowlistmenu.cpp:203
+#: kdeui/kwindowlistmenu.cpp:213
 msgid "No Windows"
 msgstr "Täräzälär Yuq"
 

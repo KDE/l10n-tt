@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdesktop\n"
-"POT-Creation-Date: 2006-06-23 03:58+0200\n"
+"POT-Creation-Date: 2006-08-19 04:05+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -83,7 +83,7 @@ msgstr ""
 "Ctrl+Alt töymäläre belän bergä şul F-töymälärne basası. Sessilär arasında küçü "
 "ısulların KDE Üzäge belän Östäl saylağında bilgelärgä bula."
 
-#: krootwm.cc:876 lock/lockdlg.cc:539
+#: krootwm.cc:842 lock/lockdlg.cc:539
 msgid "&Start New Session"
 msgstr "Yaña Sessi &Aç"
 
@@ -220,125 +220,125 @@ msgstr "&Üzençälege"
 msgid "&Move to Trash"
 msgstr "Çüpkä &Küçer"
 
-#: krootwm.cc:136
+#: krootwm.cc:133
 msgid "Run Command..."
 msgstr "Boyırıq Eşlätü..."
 
-#: krootwm.cc:140
+#: krootwm.cc:137
 msgid "Configure Desktop..."
 msgstr "Östäl Caylaw..."
 
-#: krootwm.cc:142 krootwm.cc:367
+#: krootwm.cc:139 krootwm.cc:364
 msgid "Disable Desktop Menu"
 msgstr "Östäl Saylağın Sünder"
 
-#: krootwm.cc:146
+#: krootwm.cc:143
 msgid "Unclutter Windows"
 msgstr "Tiskäre Täräzälär"
 
-#: krootwm.cc:148
+#: krootwm.cc:145
 msgid "Cascade Windows"
 msgstr "Täräzälärne ber-ber artlı tezü"
 
-#: krootwm.cc:154
+#: krootwm.cc:151
 msgid "By Name (Case Sensitive)"
 msgstr "İsem Buyınça (Bieklek Sizep)"
 
-#: krootwm.cc:156
+#: krootwm.cc:153
 msgid "By Name (Case Insensitive)"
 msgstr "İsem Buyınça (Bieklek Sizmiçä)"
 
-#: krootwm.cc:158
+#: krootwm.cc:155
 msgid "By Size"
 msgstr "Küläm Buyınça"
 
-#: krootwm.cc:160
+#: krootwm.cc:157
 msgid "By Type"
 msgstr "Tör Buyınça"
 
-#: krootwm.cc:162
+#: krootwm.cc:159
 msgid "By Date"
 msgstr "Zaman Buyınça"
 
-#: krootwm.cc:165
+#: krootwm.cc:162
 msgid "Directories First"
 msgstr "Baştan Törgäklärne"
 
-#: krootwm.cc:168
+#: krootwm.cc:165
 msgid "Line Up Horizontally"
 msgstr "Yatma Buyınça Tez"
 
-#: krootwm.cc:171
+#: krootwm.cc:168
 msgid "Line Up Vertically"
 msgstr "Asma Buyınça Tez"
 
-#: krootwm.cc:174
+#: krootwm.cc:171
 msgid "Align to Grid"
 msgstr "Çeltär Buyınça Tez"
 
 #. i18n: file kdesktop.kcfg line 180
-#: krootwm.cc:178 rc.cpp:231
+#: krootwm.cc:175 rc.cpp:231
 #, no-c-format
 msgid "Lock in Place"
 msgstr "Urnaşıluın Biklä"
 
-#: krootwm.cc:184
+#: krootwm.cc:181
 msgid "Refresh Desktop"
 msgstr "Östälne Yañart"
 
-#: kdesktopbindings.cpp:31 krootwm.cc:190
+#: kdesktopbindings.cpp:31 krootwm.cc:187
 msgid "Lock Session"
 msgstr "Sessine Biklä"
 
-#: krootwm.cc:195
+#: krootwm.cc:192
 msgid "Log Out \"%1\"..."
 msgstr "Çığu \"%1\"..."
 
-#: krootwm.cc:201
+#: krootwm.cc:198
 msgid "Start New Session"
 msgstr "Yaña Sessi Başlí"
 
-#: krootwm.cc:205
+#: krootwm.cc:202
 msgid "Lock Current && Start New Session"
 msgstr "Bu Sessine Biklä dä Yañanı Başla"
 
-#: krootwm.cc:345 krootwm.cc:423
+#: krootwm.cc:342 krootwm.cc:420
 msgid "Sort Icons"
 msgstr "İkon Tezü"
 
-#: krootwm.cc:347
+#: krootwm.cc:344
 msgid "Line Up Icons"
 msgstr "İkonnı Turaytıp Tez"
 
-#: krootwm.cc:374
+#: krootwm.cc:371
 msgid "Enable Desktop Menu"
 msgstr "Östäl Saylağın Sälätlä"
 
-#: krootwm.cc:433
+#: krootwm.cc:430
 msgid "Icons"
 msgstr "Tamğalar"
 
-#: krootwm.cc:439 krootwm.cc:495
+#: krootwm.cc:436 krootwm.cc:492
 msgid "Windows"
 msgstr "Täräzälär"
 
-#: kdesktopbindings.cpp:26 krootwm.cc:455
+#: kdesktopbindings.cpp:26 krootwm.cc:452
 msgid "Switch User"
 msgstr "Qullanuçı Almaştıru"
 
-#: krootwm.cc:484
+#: krootwm.cc:481
 msgid "Sessions"
 msgstr "Sessi"
 
-#: krootwm.cc:488
+#: krootwm.cc:485
 msgid "New"
 msgstr "Yaña"
 
-#: kdesktopbindings.cpp:14 krootwm.cc:494
+#: kdesktopbindings.cpp:14 krootwm.cc:491
 msgid "Desktop"
 msgstr "Östäl"
 
-#: krootwm.cc:864
+#: krootwm.cc:830
 msgid ""
 "<p>You have chosen to open another desktop session."
 "<br>The current session will be hidden and a new login screen will be "
@@ -355,27 +355,27 @@ msgstr ""
 "Ctrl+Alt töymäläre belän bergä şul F-töymälärne basası. Sessilär arasında küçü "
 "ısulların KDE Üzäge belän Östäl saylağında bilgelärgä bula.</p>"
 
-#: krootwm.cc:875
+#: krootwm.cc:841
 msgid "Warning - New Session"
 msgstr "Beldermä - Yaña Sessi"
 
-#: main.cc:45
+#: main.cc:46
 msgid "The KDE desktop"
 msgstr "KDE östälde"
 
-#: main.cc:51
+#: main.cc:52
 msgid "Use this if the desktop window appears as a real window"
 msgstr "Östäl täräzäse çın täräzädäy kürenä ikän, monı qullanası"
 
-#: main.cc:52
+#: main.cc:53
 msgid "Obsolete"
 msgstr ""
 
-#: main.cc:53
+#: main.cc:54
 msgid "Wait for kded to finish building database"
 msgstr "kded üz biremlek yasaw eşen betergänçe köt"
 
-#: main.cc:145
+#: main.cc:153
 msgid "KDesktop"
 msgstr "KDesktop"
 

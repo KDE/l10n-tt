@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kwin\n"
-"POT-Creation-Date: 2006-04-12 03:52+0200\n"
+"POT-Creation-Date: 2006-08-19 04:04+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -408,18 +408,18 @@ msgstr "Östäl Süräten Alu"
 msgid "Block Global Shortcuts"
 msgstr ""
 
-#: main.cpp:62
+#: main.cpp:63
 msgid ""
 "kwin: it looks like there's already a window manager running. kwin not "
 "started.\n"
 msgstr ""
 "kwin: täräzä idäräçeneñ başqa töre eşli inde axrısı. kwin cibbärelmäde.\n"
 
-#: main.cpp:77
+#: main.cpp:78
 msgid "kwin: failure during initialization; aborting"
 msgstr "kwin: eşlärgä äzerlängän çaqta işelde; yabılu başladı"
 
-#: main.cpp:98
+#: main.cpp:99
 msgid ""
 "kwin: unable to claim manager selection, another wm running? (try using "
 "--replace)\n"
@@ -427,28 +427,28 @@ msgstr ""
 "kwin: täräzä idäräçen saylawın uzdıra almím, itdäräçeneñ başqa töre eşlime "
 "inde? (--replace belän cibärep qara)\n"
 
-#: main.cpp:168
+#: main.cpp:169
 msgid "KDE window manager"
 msgstr "KDE Täräzä idäräse"
 
-#: main.cpp:172
+#: main.cpp:173
 msgid "Disable configuration options"
 msgstr "Caylawnıñ köylämälären sünderäse"
 
-#: main.cpp:173
+#: main.cpp:174
 msgid "Replace already-running ICCCM2.0-compliant window manager"
 msgstr "Eşli torğan ICCCM2.0 törendä täräzä idäräçen almaştırası"
 
-#: killer/killer.cpp:49 main.cpp:247
+#: killer/killer.cpp:49 main.cpp:250
 msgid "KWin"
 msgstr "KWin"
 
-#: main.cpp:249
+#: main.cpp:252
 #, fuzzy
 msgid "(c) 1999-2005, The KDE Developers"
 msgstr "(c) 1999-2003, KDE Tözüçeläre"
 
-#: main.cpp:253
+#: main.cpp:256
 msgid "Maintainer"
 msgstr "Bulışuçı"
 
