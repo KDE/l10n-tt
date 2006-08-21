@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs katepart\n"
-"POT-Creation-Date: 2006-07-11 03:21+0200\n"
+"POT-Creation-Date: 2006-08-21 04:00+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -765,7 +765,7 @@ msgstr ""
 msgid "Close Nevertheless"
 msgstr "Aña Qaramíça Yap"
 
-#: part/katedocument.cpp:4253 part/katedocument.cpp:4935 part/kateview.cpp:860
+#: part/katedocument.cpp:4253 part/katedocument.cpp:4986 part/kateview.cpp:860
 msgid "Save File"
 msgstr "Biremne Saqla"
 
@@ -789,28 +789,28 @@ msgstr "&Yañadan Yöklä"
 msgid "&Ignore Changes"
 msgstr "&Üzgäreşkä Qaramasqa"
 
-#: part/katedocument.cpp:4852
+#: part/katedocument.cpp:4903
 msgid "The file '%1' was modified by another program."
 msgstr "'%1' atlı birem başqa yazılımnan üzgärtelgän bulğan."
 
-#: part/katedocument.cpp:4855
+#: part/katedocument.cpp:4906
 msgid "The file '%1' was created by another program."
 msgstr "'%1' atlı birem başqa yazılımnan yasalğan bulğan."
 
-#: part/katedocument.cpp:4858
+#: part/katedocument.cpp:4909
 msgid "The file '%1' was deleted by another program."
 msgstr "'%1' atlı birem başqa yazılımnan beterelgän bulğan."
 
-#: part/katedocument.cpp:4963 part/kateview.cpp:887
+#: part/katedocument.cpp:5014 part/kateview.cpp:887
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "%1 atlı birem bar inde. Anıñ östennän yazıp almaştırasımı?"
 
-#: part/katedocument.cpp:4965 part/kateview.cpp:888
+#: part/katedocument.cpp:5016 part/kateview.cpp:888
 msgid "Overwrite File?"
 msgstr "Biremne Östennän Yazasımı?"
 
-#: part/katedocument.cpp:4966 part/kateview.cpp:889
+#: part/katedocument.cpp:5017 part/kateview.cpp:889
 msgid "&Overwrite"
 msgstr "&Östän Yaz"
 
