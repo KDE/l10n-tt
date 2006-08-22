@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmicons\n"
-"POT-Creation-Date: 2006-02-20 03:45+0100\n"
+"POT-Creation-Date: 2006-08-22 02:34+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -72,67 +72,67 @@ msgstr "Tirä"
 msgid "All Icons"
 msgstr "Barlıq Tamğa"
 
-#: icons.cpp:441
+#: icons.cpp:445
 msgid "Setup Default Icon Effect"
 msgstr "Töp Tamğa Tä'siren Caylaw"
 
-#: icons.cpp:442
+#: icons.cpp:446
 msgid "Setup Active Icon Effect"
 msgstr "Eş Tamğa Tä'siren Caylaw"
 
-#: icons.cpp:443
+#: icons.cpp:447
 msgid "Setup Disabled Icon Effect"
 msgstr "Sünek Tamğa Tä'siren Caylaw"
 
-#: icons.cpp:530
+#: icons.cpp:534
 msgid "&Effect:"
 msgstr "&Tä'sir:"
 
-#: icons.cpp:534
+#: icons.cpp:538
 msgid "No Effect"
 msgstr "Tä'sirsez"
 
-#: icons.cpp:535
+#: icons.cpp:539
 msgid "To Gray"
 msgstr "Sorığa"
 
-#: icons.cpp:536
+#: icons.cpp:540
 msgid "Colorize"
 msgstr "Töslät"
 
-#: icons.cpp:537
+#: icons.cpp:541
 msgid "Gamma"
 msgstr "Tösmerlär"
 
-#: icons.cpp:538
+#: icons.cpp:542
 msgid "Desaturate"
 msgstr "Síıqlísı"
 
-#: icons.cpp:539
+#: icons.cpp:543
 msgid "To Monochrome"
 msgstr "Aqqarağa"
 
-#: icons.cpp:545
+#: icons.cpp:549
 msgid "&Semi-transparent"
 msgstr "&Yasalma-ütäkürenü"
 
-#: icons.cpp:549
+#: icons.cpp:553
 msgid "Preview"
 msgstr "Küzläp alu"
 
-#: icons.cpp:560
+#: icons.cpp:564
 msgid "Effect Parameters"
 msgstr "Tä'sir Köylämäse"
 
-#: icons.cpp:565
+#: icons.cpp:569
 msgid "&Amount:"
 msgstr "&Sanı:"
 
-#: icons.cpp:572
+#: icons.cpp:576
 msgid "Co&lor:"
 msgstr "Tös:"
 
-#: icons.cpp:580
+#: icons.cpp:584
 msgid "&Second color:"
 msgstr "İkençe tö&s:"
 

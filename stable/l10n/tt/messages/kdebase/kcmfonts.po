@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmfonts\n"
-"POT-Creation-Date: 2006-06-15 04:02+0200\n"
+"POT-Creation-Date: 2006-08-22 02:34+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,27 +12,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: fonts.cpp:206
+#: fonts.cpp:208
 msgid "Configure Anti-Alias Settings"
 msgstr "Yazu Şomartuın Caylaw"
 
-#: fonts.cpp:212
+#: fonts.cpp:214
 msgid "E&xclude range:"
 msgstr "&Töşeräse ara:"
 
-#: fonts.cpp:215 fonts.cpp:220
+#: fonts.cpp:217 fonts.cpp:222
 msgid " pt"
 msgstr " pt"
 
-#: fonts.cpp:217
+#: fonts.cpp:219
 msgid " to "
 msgstr " moña "
 
-#: fonts.cpp:223
+#: fonts.cpp:225
 msgid "&Use sub-pixel hinting:"
 msgstr "Tap-ara şomartu &belän:"
 
-#: fonts.cpp:226
+#: fonts.cpp:228
 msgid ""
 "If you have a TFT or LCD screen you can further improve the quality of "
 "displayed fonts by selecting this option."
@@ -46,7 +46,7 @@ msgstr ""
 "<br>"
 "<br><b>CRT-küräklärdä bonıñ uñaylığı yuq.</b>"
 
-#: fonts.cpp:234
+#: fonts.cpp:236
 msgid ""
 "In order for sub-pixel hinting to work correctly you need to know how the "
 "sub-pixels of your display are aligned."
@@ -59,93 +59,93 @@ msgstr ""
 "<br> TFT belän LCD küräklärdä taplar öç eçketaptan tora: qızıl, yäşel, kük. "
 "Küräklärneñ kübesendä eçketaplar RGB buyınça tezelä, qayberlärdä BGR."
 
-#: fonts.cpp:245
+#: fonts.cpp:247
 msgid "Hinting style: "
 msgstr "Kiñäşläw ısulı: "
 
-#: fonts.cpp:252
+#: fonts.cpp:254
 msgid ""
 "Hinting is a process used to enhance the quality of fonts at small sizes."
 msgstr "Keçe yazularnı yaqşılığın arttıruçı närsä."
 
-#: fonts.cpp:487
+#: fonts.cpp:491
 msgid "General"
 msgstr "Töptän"
 
-#: fonts.cpp:488
+#: fonts.cpp:492
 msgid "Fixed width"
 msgstr "Berkiñle"
 
-#: fonts.cpp:489
+#: fonts.cpp:493
 msgid "Toolbar"
 msgstr "Qoraltirä"
 
-#: fonts.cpp:490
+#: fonts.cpp:494
 msgid "Menu"
 msgstr "Saylaq"
 
-#: fonts.cpp:491
+#: fonts.cpp:495
 msgid "Window title"
 msgstr "Täräzä başlığı"
 
-#: fonts.cpp:492
+#: fonts.cpp:496
 msgid "Taskbar"
 msgstr "Qoraltirä"
 
-#: fonts.cpp:493
+#: fonts.cpp:497
 msgid "Desktop"
 msgstr "Östäl"
 
-#: fonts.cpp:527
+#: fonts.cpp:531
 msgid "Used for normal text (e.g. button labels, list items)."
 msgstr "Ğädäti yazma öçen totılğan (ü.ö. töymä yazmasıtezmä keremnäre)."
 
-#: fonts.cpp:528
+#: fonts.cpp:532
 msgid "A non-proportional font (i.e. typewriter font)."
 msgstr "Nisbätle bulmağan yazu (ü.ö. typewriter yazuı)."
 
-#: fonts.cpp:529
+#: fonts.cpp:533
 msgid "Used to display text beside toolbar icons."
 msgstr "Qoraltirädäge töymä yazmalarda totılğan."
 
-#: fonts.cpp:530
+#: fonts.cpp:534
 msgid "Used by menu bars and popup menus."
 msgstr "Saylaq tiräse belän atılma saylaqta totılğan."
 
-#: fonts.cpp:531
+#: fonts.cpp:535
 msgid "Used by the window titlebar."
 msgstr "Täräzä başlığında totılğan."
 
-#: fonts.cpp:532
+#: fonts.cpp:536
 msgid "Used by the taskbar."
 msgstr "Bu qoraltirädä totılğan."
 
-#: fonts.cpp:533
+#: fonts.cpp:537
 msgid "Used for desktop icons."
 msgstr "Östäldäge tamğalar öçen totılğan."
 
-#: fonts.cpp:584
+#: fonts.cpp:588
 msgid "Ad&just All Fonts..."
 msgstr "Bar Yazularnı &Köyläw..."
 
-#: fonts.cpp:585
+#: fonts.cpp:589
 msgid "Click to change all fonts"
 msgstr "Bar yazularnı üzgärtü öçen çirt"
 
-#: fonts.cpp:592
+#: fonts.cpp:596
 msgid "Use a&nti-aliasing for fonts"
 msgstr "Yazular şomartuın &qullanası"
 
-#: fonts.cpp:593
+#: fonts.cpp:597
 msgid ""
 "If this option is selected, KDE will smooth the edges of curves in fonts."
 msgstr "Bu köylämä yanıq torsa, KDE yazular çiklären şomartıp toraçaq."
 
-#: fonts.cpp:596
+#: fonts.cpp:600
 msgid "Configure..."
 msgstr "Caylaw..."
 
-#: fonts.cpp:672
+#: fonts.cpp:676
 msgid ""
 "<p>You have changed anti-aliasing related settings. This change will only "
 "affect newly started applications.</p>"
@@ -153,7 +153,7 @@ msgstr ""
 "<p>Şomartu köyläwläre üzgärtelgän bulğan. Yaña cibärelgän yazılımnarda ğına "
 "alarnıñ çağılışı bulaçaq.</p>"
 
-#: fonts.cpp:673
+#: fonts.cpp:677
 msgid "Anti-Aliasing Settings Changed"
 msgstr "Yazular Şomartu Caylawı Üzgärelgän"
 

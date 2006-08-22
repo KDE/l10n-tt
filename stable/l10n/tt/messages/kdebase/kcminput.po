@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcminput\n"
-"POT-Creation-Date: 2006-03-27 03:52+0200\n"
+"POT-Creation-Date: 2006-08-22 02:34+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -327,13 +327,13 @@ msgstr "Küse"
 msgid "(c) 1997 - 2005 Mouse developers"
 msgstr "(c) 1997 - 2005 Mouse developers"
 
-#: mouse.cpp:726 mouse.cpp:731
+#: mouse.cpp:710 mouse.cpp:715
 msgid ""
 "_n:  pixel\n"
 " pixels"
 msgstr ""
 
-#: mouse.cpp:736
+#: mouse.cpp:720
 msgid ""
 "_n:  line\n"
 " lines"
@@ -507,35 +507,35 @@ msgstr "Bu üzgäreşlärneñ sälätle buluı öçen KDE'nı yañadan cibäräs
 msgid "Cursor Settings Changed"
 msgstr "Kürsätkeç Köylämäläre Üzgärtelgän"
 
-#: core/themepage.cpp:143
+#: core/themepage.cpp:148
 msgid "Small black"
 msgstr "Keçe qara"
 
-#: core/themepage.cpp:144
+#: core/themepage.cpp:149
 msgid "Small black cursors"
 msgstr "Keçe qara kürsär"
 
-#: core/themepage.cpp:148
+#: core/themepage.cpp:153
 msgid "Large black"
 msgstr "Olı qara"
 
-#: core/themepage.cpp:149
+#: core/themepage.cpp:154
 msgid "Large black cursors"
 msgstr "Olı qara kürsär"
 
-#: core/themepage.cpp:153
+#: core/themepage.cpp:158
 msgid "Small white"
 msgstr "Keçe aq"
 
-#: core/themepage.cpp:154
+#: core/themepage.cpp:159
 msgid "Small white cursors"
 msgstr "Keçe aq kürsär"
 
-#: core/themepage.cpp:158
+#: core/themepage.cpp:163
 msgid "Large white"
 msgstr "Olı aq"
 
-#: core/themepage.cpp:159
+#: core/themepage.cpp:164
 msgid "Large white cursors"
 msgstr "Olı aq kürsär"
 
@@ -551,16 +551,16 @@ msgstr "Yaña Tışlaw Quyu..."
 msgid "Remove Theme"
 msgstr "Tışlawnı Beter"
 
-#: xcursor/themepage.cpp:206
+#: xcursor/themepage.cpp:212
 msgid "Drag or Type Theme URL"
 msgstr "Tışlaw URL'ın Taşlaw yä Cıyu"
 
-#: xcursor/themepage.cpp:215
+#: xcursor/themepage.cpp:221
 #, c-format
 msgid "Unable to find the cursor theme archive %1."
 msgstr "%1 kürsätkeç şäkellege arxivı tabılmadı."
 
-#: xcursor/themepage.cpp:217
+#: xcursor/themepage.cpp:223
 msgid ""
 "Unable to download the cursor theme archive; please check that the address %1 "
 "is correct."
@@ -568,11 +568,11 @@ msgstr ""
 "Kürsätkeç şäkellege arxivı iñderelä almadı; zínhar %1 adresınıñ döreslegen "
 "tikşer."
 
-#: xcursor/themepage.cpp:225
+#: xcursor/themepage.cpp:231
 msgid "The file %1 does not appear to be a valid cursor theme archive."
 msgstr "%1 faylı döres kürsätkeç şäkellege arxivı tügel."
 
-#: xcursor/themepage.cpp:234
+#: xcursor/themepage.cpp:240
 msgid ""
 "<qt>Are you sure you want to remove the <strong>%1</strong> cursor theme?"
 "<br>This will delete all the files installed by this theme.</qt>"
@@ -580,11 +580,11 @@ msgstr ""
 "<qt><strong>%1</strong> kürsätkeç şäkellegen çınlap taşlísıñmı?"
 "<br>Bu ğämäl bu şäkellek belän bergä quyılğan barlıq fayllarnı beteräçäk.</qt>"
 
-#: xcursor/themepage.cpp:240
+#: xcursor/themepage.cpp:246
 msgid "Confirmation"
 msgstr "Raslaw"
 
-#: xcursor/themepage.cpp:294
+#: xcursor/themepage.cpp:300
 msgid ""
 "A theme named %1 already exists in your icon theme folder. Do you want replace "
 "it with this one?"
@@ -592,27 +592,27 @@ msgstr ""
 "%1 isemle şäkellek ikon şäkellekläre törgägendä bar inde. Anı yaña belän "
 "alıştırırğa teliseñme?"
 
-#: xcursor/themepage.cpp:296
+#: xcursor/themepage.cpp:302
 msgid "Overwrite Theme?"
 msgstr "Tışlaw Östennän Yazasımı?"
 
-#: xcursor/themepage.cpp:330 xcursor/themepage.cpp:477
+#: xcursor/themepage.cpp:336 xcursor/themepage.cpp:483
 msgid "No description available"
 msgstr "Açıqlamalar yuq"
 
-#: xcursor/themepage.cpp:531
+#: xcursor/themepage.cpp:537
 msgid "No theme"
 msgstr "Şäkellek yuq"
 
-#: xcursor/themepage.cpp:531
+#: xcursor/themepage.cpp:537
 msgid "The old classic X cursors"
 msgstr "İske klassik X kürsätkeçläre"
 
-#: xcursor/themepage.cpp:533
+#: xcursor/themepage.cpp:539
 msgid "System theme"
 msgstr "Sistem şäkellege"
 
-#: xcursor/themepage.cpp:533
+#: xcursor/themepage.cpp:539
 msgid "Do not change cursor theme"
 msgstr "Kürsätkeç şäkellegen alıştırma"
 

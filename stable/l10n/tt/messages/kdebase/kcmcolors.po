@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmcolors\n"
-"POT-Creation-Date: 2006-02-20 03:45+0100\n"
+"POT-Creation-Date: 2006-08-22 02:34+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -278,7 +278,7 @@ msgstr "Töslär"
 msgid "(c) 1997-2005 Colors Developers"
 msgstr "(c) 1997-2005 Colors Developers"
 
-#: colorscm.cpp:498
+#: colorscm.cpp:490
 msgid ""
 "This color scheme could not be removed.\n"
 "Perhaps you do not have permission to alter the filesystem where the color "
@@ -287,15 +287,15 @@ msgstr ""
 "Bu töslär tözeleşen beterep bulmí\n"
 "Töslär tözeleşe belän biremnärne üzgärterlek xoquqlar citmäw buluı bar."
 
-#: colorscm.cpp:531 colorscm.cpp:551
+#: colorscm.cpp:523 colorscm.cpp:543
 msgid "Save Color Scheme"
 msgstr "Tös Cayların Saqla"
 
-#: colorscm.cpp:532
+#: colorscm.cpp:524
 msgid "Enter a name for the color scheme:"
 msgstr "Bu töslär köylänüenä atama kertü:"
 
-#: colorscm.cpp:549
+#: colorscm.cpp:541
 msgid ""
 "A color scheme with the name '%1' already exists.\n"
 "Do you want to overwrite it?\n"
@@ -303,23 +303,23 @@ msgstr ""
 "'%1' atlı töslär köyläwe bar inde.\n"
 "Anıñ östennän yazası kiläme?\n"
 
-#: colorscm.cpp:552
+#: colorscm.cpp:544
 msgid "Overwrite"
 msgstr "Östän Yaz"
 
-#: colorscm.cpp:600
+#: colorscm.cpp:592
 msgid "Import failed."
 msgstr "Yökläp Bulmadı"
 
-#: colorscm.cpp:608
+#: colorscm.cpp:600
 msgid "Untitled Theme"
 msgstr "Atalmağan Tışlaw"
 
-#: colorscm.cpp:866
+#: colorscm.cpp:858
 msgid "Current Scheme"
 msgstr "Biredäge Tözeleş"
 
-#: colorscm.cpp:867
+#: colorscm.cpp:859
 msgid "KDE Default"
 msgstr "KDE'neñ Töpcayı"
 

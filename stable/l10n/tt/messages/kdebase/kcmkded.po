@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmkded\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2006-08-22 02:34+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -115,14 +115,14 @@ msgstr "Qullan"
 msgid "Start"
 msgstr "Başla"
 
-#: kcmkded.cpp:239 kcmkded.cpp:330
+#: kcmkded.cpp:237 kcmkded.cpp:328
 msgid "Unable to contact KDED."
 msgstr "KDED belän aralaşıp bulmadı."
 
-#: kcmkded.cpp:324
+#: kcmkded.cpp:322
 msgid "Unable to start service."
 msgstr "Xezmätne cibärä almím."
 
-#: kcmkded.cpp:346
+#: kcmkded.cpp:344
 msgid "Unable to stop service."
 msgstr "Xezmätne tuqtata almím."
