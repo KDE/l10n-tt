@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase privacy\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2006-08-23 02:32+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -156,24 +156,24 @@ msgstr "Baya cibärelgän yazılımnar tezmäsen keremnärdän buşatu"
 msgid "Clears the FavIcons cached from visited websites"
 msgstr "Kerelgän säxifälärdän tamğalar alxäteren buşatu"
 
-#: privacy.cpp:247
+#: privacy.cpp:251
 msgid ""
 "You are deleting data that is potentially valuable to you. Are you sure?"
 msgstr "Kiräk bula ala torğan belem beterelä. Çınlap ta beteräseme?"
 
-#: privacy.cpp:250
+#: privacy.cpp:254
 msgid "Starting cleanup..."
 msgstr "Buşatu başlaw..."
 
-#: privacy.cpp:259
+#: privacy.cpp:263
 msgid "Clearing %1..."
 msgstr "%1 Buşatu..."
 
-#: privacy.cpp:294
+#: privacy.cpp:298
 msgid "Clearing of %1 failed"
 msgstr "%1 buşatıp bulmadı"
 
-#: privacy.cpp:301
+#: privacy.cpp:305
 msgid "Clean up finished."
 msgstr "Buşatu eşlänep bette."
 

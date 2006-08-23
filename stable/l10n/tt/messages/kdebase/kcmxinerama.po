@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmxinerama\n"
-"POT-Creation-Date: 2005-11-30 03:19+0100\n"
+"POT-Creation-Date: 2006-08-23 02:32+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -62,11 +62,11 @@ msgstr ""
 "<p>Berniçä küräk belän eşlägän sistem caylağanda ğına bu modul qullanıla. "
 "Biredäge sistem ber genä küräk belän eşli sıman.</p></qt>"
 
-#: kcmxinerama.cpp:180
+#: kcmxinerama.cpp:187
 msgid "Your settings will only affect newly started applications."
 msgstr "Bu caylawlar yaña cibärelgän yazılımnarda ğına çağılır."
 
-#: kcmxinerama.cpp:180
+#: kcmxinerama.cpp:187
 msgid "KDE Multiple Monitors"
 msgstr "KDE öçen Berniçä Küräk"
 

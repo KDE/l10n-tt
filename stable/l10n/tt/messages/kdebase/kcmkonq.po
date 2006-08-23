@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmkonq\n"
-"POT-Creation-Date: 2006-08-19 04:05+0200\n"
+"POT-Creation-Date: 2006-08-23 02:32+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -197,7 +197,7 @@ msgstr "%1 östäl östen bonda atap bula"
 msgid "Mouse wheel over desktop background switches desktop"
 msgstr "Östälneñ artyağında küse tägärmäçen äyländeregändä östäl almaşına"
 
-#: desktop.cpp:235 desktop.cpp:253
+#: desktop.cpp:250
 #, c-format
 msgid "Desktop %1"
 msgstr "%1 Östäl"
@@ -323,7 +323,7 @@ msgstr "1. Üzençä Saylaq"
 msgid "Custom Menu 2"
 msgstr "2. Üzençä Saylaq"
 
-#: desktopbehavior_impl.cpp:468
+#: desktopbehavior_impl.cpp:458
 #, fuzzy
 msgid ""
 "<h1>Behavior</h1>\n"
@@ -435,7 +435,7 @@ msgid ""
 " pixels"
 msgstr ""
 
-#: fontopts.cpp:401
+#: fontopts.cpp:384
 msgid ""
 "<h1>Appearance</h1> You can configure how Konqueror looks as a file manager "
 "here."
@@ -787,15 +787,15 @@ msgid ""
 "This folder will be used by default to load or save documents from or to."
 msgstr "İstäleklärne yöklär yä ki saqlar öçen bu törgäk qullanılaçaq."
 
-#: rootopts.cpp:195 rootopts.cpp:210
+#: rootopts.cpp:202 rootopts.cpp:217
 msgid "Autostart"
 msgstr "Üzennän Cibäreläse"
 
-#: rootopts.cpp:199
+#: rootopts.cpp:206
 msgid "Desktop"
 msgstr "Östäl"
 
-#: rootopts.cpp:268
+#: rootopts.cpp:275
 msgid ""
 "The path for '%1' has been changed;\n"
 "do you want the files to be moved from '%2' to '%3'?"
@@ -803,7 +803,7 @@ msgstr ""
 "'%1' yulı üzgärgän;\n"
 "'%2' eçendäge biremnärne '%3' yulına küçeräseme?"
 
-#: rootopts.cpp:269
+#: rootopts.cpp:276
 msgid "Confirmation Required"
 msgstr "Raslísı Bar"
 

@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmsmartcard\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2006-08-23 02:32+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -171,31 +171,31 @@ msgstr "Modul Üzgärtü..."
 msgid "Unable to launch KCardChooser"
 msgstr "KCardChooser cibärep bulmadı"
 
-#: smartcard.cpp:177
+#: smartcard.cpp:157
 msgid "No card inserted"
 msgstr "Kard tığılmadı"
 
-#: smartcard.cpp:216
+#: smartcard.cpp:196
 msgid "Smart card support disabled"
 msgstr "Smartkard totu sünderelgän"
 
-#: smartcard.cpp:227
+#: smartcard.cpp:207
 msgid "No readers found. Check 'pcscd' is running"
 msgstr "Uqıtqıç tabılmadı. 'pcscd' eşläwen tikşeräse"
 
-#: smartcard.cpp:250 smartcard.cpp:270
+#: smartcard.cpp:230 smartcard.cpp:250
 msgid "NO ATR or no card inserted"
 msgstr "ATR YUQ yä ki kart tığılmadı"
 
-#: smartcard.cpp:282
+#: smartcard.cpp:262
 msgid "Managed by: "
 msgstr "Citäkläwçe: "
 
-#: smartcard.cpp:292
+#: smartcard.cpp:272
 msgid "No module managing this card"
 msgstr "Bu kard citäkläwçe modul yuq"
 
-#: smartcard.cpp:381
+#: smartcard.cpp:368
 msgid ""
 "<h1>smartcard</h1> This module allows you to configure KDE support for "
 "smartcards. These can be used for various tasks such as storing SSL "
