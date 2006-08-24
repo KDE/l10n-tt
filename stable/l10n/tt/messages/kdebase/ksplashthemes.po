@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase ksplashthemes\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2006-08-24 02:34+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -32,68 +32,68 @@ msgstr "Östäw..."
 msgid "Test"
 msgstr "Sınaw"
 
-#: installer.cpp:295
+#: installer.cpp:300
 msgid "Delete folder %1 and its contents?"
 msgstr "%1 törgägen anıñ eçtälege belän beteräseme?"
 
-#: installer.cpp:302
+#: installer.cpp:307
 msgid "Failed to remove theme '%1'"
 msgstr "'%1' tışlawın beterep bulmadı"
 
-#: installer.cpp:327 installer.cpp:392
+#: installer.cpp:332 installer.cpp:397
 msgid "(Could not load theme)"
 msgstr "(Tışlawnı yökläp bulmadı)"
 
-#: installer.cpp:359
+#: installer.cpp:364
 msgid "<b>Name:</b> %1<br>"
 msgstr "<b>İsem:</b> %1<br>"
 
-#: installer.cpp:359 installer.cpp:361 installer.cpp:363 installer.cpp:365
-#: installer.cpp:367
+#: installer.cpp:364 installer.cpp:366 installer.cpp:368 installer.cpp:370
+#: installer.cpp:372
 msgid "Unknown"
 msgstr "Bilgesez"
 
-#: installer.cpp:361
+#: installer.cpp:366
 msgid "<b>Description:</b> %1<br>"
 msgstr "<b>Açıqlama:</b> %1<br>"
 
-#: installer.cpp:363
+#: installer.cpp:368
 msgid "<b>Version:</b> %1<br>"
 msgstr "<b>Sörem:</b> %1<br>"
 
-#: installer.cpp:365
+#: installer.cpp:370
 msgid "<b>Author:</b> %1<br>"
 msgstr "<b>Yazuçı:</b> %1<br>"
 
-#: installer.cpp:367
+#: installer.cpp:372
 msgid "<b>Homepage:</b> %1<br>"
 msgstr "<b>Anabit:</b> %1<br>"
 
-#: installer.cpp:374
+#: installer.cpp:379
 msgid "This theme requires the plugin %1 which is not installed."
 msgstr "Bu tışlaw öçen %1 quşılmasınıñ quyılğan buluı kiräk."
 
-#: installer.cpp:381
+#: installer.cpp:386
 msgid "Could not load theme configuration file."
 msgstr "Tışlawnıñ caylaw biremen yökläp bulmadı."
 
-#: installer.cpp:401
+#: installer.cpp:406
 msgid "No preview available."
 msgstr "Aldan küzläp bulmí."
 
-#: installer.cpp:415
+#: installer.cpp:420
 msgid "KSplash Theme Files"
 msgstr "KSplash Tışlaw Biremnäre"
 
-#: installer.cpp:416
+#: installer.cpp:421
 msgid "Add Theme"
 msgstr "Tışlaw Östäw"
 
-#: installer.cpp:469
+#: installer.cpp:474
 msgid "Unable to start ksplashsimple."
 msgstr "KSplashSimple cibärep bulmadı."
 
-#: installer.cpp:475
+#: installer.cpp:480
 msgid "Unable to start ksplash."
 msgstr "KSplash cibärep bulmadı."
 
