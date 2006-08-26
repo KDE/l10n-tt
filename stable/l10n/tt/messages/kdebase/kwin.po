@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kwin\n"
-"POT-Creation-Date: 2006-08-25 02:33+0200\n"
+"POT-Creation-Date: 2006-08-26 02:33+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -464,7 +464,7 @@ msgstr ""
 "\n"
 "KWin xäzer çıqmaqçı bula..."
 
-#: tabbox.cpp:54
+#: tabbox.cpp:55
 msgid "*** No Windows ***"
 msgstr "*** Täräzälär Yuq ***"
 
