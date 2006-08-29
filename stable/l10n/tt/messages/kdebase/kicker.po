@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kicker\n"
-"POT-Creation-Date: 2006-08-19 04:05+0200\n"
+"POT-Creation-Date: 2006-08-29 02:34+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -391,11 +391,11 @@ msgstr "&Töp Törgäk"
 msgid "System &Configuration"
 msgstr "Sistem &Caylaw"
 
-#: ui/recentapps.cpp:169
+#: ui/recentapps.cpp:170
 msgid "Recently Used Applications"
 msgstr "Baya Qullanılğan Yazılımnar"
 
-#: ui/recentapps.cpp:170
+#: ui/recentapps.cpp:171
 msgid "Most Used Applications"
 msgstr "İñ Qullanılğan Yazılımnar"
 
