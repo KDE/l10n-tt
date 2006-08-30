@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-08-19 04:03+0200\n"
+"POT-Creation-Date: 2006-08-30 02:32+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2451,15 +2451,15 @@ msgstr "KDontChangeTheHostName"
 msgid "Informs KDE about a change in hostname"
 msgstr "Host adında üzgäreşlär turında KDE'gä äytä"
 
-#: kded/kded.cpp:715
+#: kded/kded.cpp:719
 msgid "Check Sycoca database only once"
 msgstr "Sycoca biremlegen ber tapqır ğına tikşeräse"
 
-#: kded/kded.cpp:855
+#: kded/kded.cpp:859
 msgid "KDE Daemon"
 msgstr "KDE Xezmäte"
 
-#: kded/kded.cpp:857
+#: kded/kded.cpp:861
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
 msgstr "KDE Xezmäte - Sycoca biremleklär yañartuların kiräk çaqta küçerä"
 
