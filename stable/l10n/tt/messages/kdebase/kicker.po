@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kicker\n"
-"POT-Creation-Date: 2006-08-29 02:34+0200\n"
+"POT-Creation-Date: 2006-08-31 02:33+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -447,31 +447,31 @@ msgstr "Bu Saylaqnı Östä"
 msgid "Add Non-KDE Application"
 msgstr "KDE-tügel Yazılım Caylawı"
 
-#: ui/service_mnu.cpp:480
+#: ui/service_mnu.cpp:488
 msgid "Add Item to Desktop"
 msgstr "Östälgä Kerem Östä"
 
-#: ui/service_mnu.cpp:486
+#: ui/service_mnu.cpp:494
 msgid "Add Item to Main Panel"
 msgstr "Töp Tirägä Kerem Östä"
 
-#: ui/service_mnu.cpp:492
+#: ui/service_mnu.cpp:500
 msgid "Edit Item"
 msgstr "Kerem Üzgärtü"
 
-#: ui/service_mnu.cpp:498
+#: ui/service_mnu.cpp:506
 msgid "Put Into Run Dialog"
 msgstr "Cibärü Täräzäsenä Sal"
 
-#: ui/service_mnu.cpp:507
+#: ui/service_mnu.cpp:515
 msgid "Add Menu to Desktop"
 msgstr "Östälgä Saylaq Östä"
 
-#: ui/service_mnu.cpp:513
+#: ui/service_mnu.cpp:521
 msgid "Add Menu to Main Panel"
 msgstr "Töp Tirägä Saylaq Östä"
 
-#: ui/service_mnu.cpp:519
+#: ui/service_mnu.cpp:527
 msgid "Edit Menu"
 msgstr "Saylaq Üzgärtü"
 
