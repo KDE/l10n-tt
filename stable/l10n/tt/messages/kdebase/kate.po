@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kate\n"
-"POT-Creation-Date: 2006-08-25 02:33+0200\n"
+"POT-Creation-Date: 2006-09-03 02:34+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -268,7 +268,7 @@ msgstr ""
 "Kate öçen yaña küreneş yasaw (şul uq istäleklär tezmäse belän ber täräzä)."
 
 #: app/kateconfigdialog.cpp:268 app/kateconfigdialog.cpp:269
-#: app/katemainwindow.cpp:265 app/katemainwindow.cpp:537
+#: app/katemainwindow.cpp:265 app/katemainwindow.cpp:540
 msgid "External Tools"
 msgstr "Tışqı Qoral"
 
@@ -343,25 +343,31 @@ msgstr "Kate eçennän çığıp qarağanda yaña birem açıldı, yaptıru özd
 msgid "Closing Aborted"
 msgstr "Yabu Özderelde"
 
-#: app/katemainwindow.cpp:608
+#: app/katemainwindow.cpp:489
+msgid ""
+"_: 'document name [*]', [*] means modified\n"
+"%1 [*]"
+msgstr ""
+
+#: app/katemainwindow.cpp:611
 msgid "&Other..."
 msgstr "&Başqa..."
 
-#: app/katemainwindow.cpp:618
+#: app/katemainwindow.cpp:621
 #, fuzzy
 msgid "Other..."
 msgstr "&Başqa..."
 
-#: app/katemainwindow.cpp:635
+#: app/katemainwindow.cpp:638
 msgid "Application '%1' not found!"
 msgstr ""
 
-#: app/katemainwindow.cpp:635
+#: app/katemainwindow.cpp:638
 #, fuzzy
 msgid "Application Not Found!"
 msgstr "Yazılım"
 
-#: app/katemainwindow.cpp:665
+#: app/katemainwindow.cpp:668
 msgid ""
 "<p>The current document has not been saved, and cannot be attached to an email "
 "message."
@@ -370,16 +376,16 @@ msgstr ""
 "<p>Biredäge istälek saqlanmadı äle, şuña kürä email öçen qıstırma bula alamí."
 "<p>Anı saqlap, ul eşne uzdırsımı?"
 
-#: app/katemainwindow.cpp:668
+#: app/katemainwindow.cpp:671
 msgid "Cannot Send Unsaved File"
 msgstr "Saqlanmağan Birem Künderep Bulmadı"
 
-#: app/katemainwindow.cpp:676 app/katemainwindow.cpp:697
+#: app/katemainwindow.cpp:679 app/katemainwindow.cpp:700
 msgid "The file could not be saved. Please check if you have write permission."
 msgstr ""
 "Bu biremne saqlap bulmadı. Yazırlıq xoquqlar buluın tikşerep alası bar."
 
-#: app/katemainwindow.cpp:687
+#: app/katemainwindow.cpp:690
 msgid ""
 "<p>The current file:"
 "<br><strong>%1</strong>"
@@ -391,11 +397,11 @@ msgstr ""
 "<br> Ul üzgäreşlär qıstırma eçendä bulmayaçaq."
 "<p>Cibärü aldınnan istälekne saqlísımı?"
 
-#: app/katemainwindow.cpp:690
+#: app/katemainwindow.cpp:693
 msgid "Save Before Sending?"
 msgstr "Cibärü Aldınnan Saqlísımı?"
 
-#: app/katemainwindow.cpp:690
+#: app/katemainwindow.cpp:693
 msgid "Do Not Save"
 msgstr "Saqlamasqa"
 

@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmicons\n"
-"POT-Creation-Date: 2006-08-22 02:34+0200\n"
+"POT-Creation-Date: 2006-09-03 02:35+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -156,16 +156,16 @@ msgstr "Tışlawnı Beter"
 msgid "Select the icon theme you want to use:"
 msgstr "Tamğa öçen qullanası kilgän köylänüne saylaw:"
 
-#: iconthemes.cpp:159
+#: iconthemes.cpp:155
 msgid "Drag or Type Theme URL"
 msgstr "Tışlaw URL'ın Taşlaw yä Cıyu"
 
-#: iconthemes.cpp:170
+#: iconthemes.cpp:166
 #, c-format
 msgid "Unable to find the icon theme archive %1."
 msgstr "Tamğa tışlaw öçen %1 digän tuplamasın tabıp bulmadı."
 
-#: iconthemes.cpp:172
+#: iconthemes.cpp:168
 msgid ""
 "Unable to download the icon theme archive;\n"
 "please check that address %1 is correct."
@@ -173,11 +173,11 @@ msgstr ""
 "Bu tamğalı tışlaw tuplamasın iñderep bulmí;\n"
 "%1 adreseneñ tuğrı buluın tikşerep alası."
 
-#: iconthemes.cpp:180
+#: iconthemes.cpp:176
 msgid "The file is not a valid icon theme archive."
 msgstr "Bu birem yaraqlı tamğalı tışlaw tuplaması tügel."
 
-#: iconthemes.cpp:191
+#: iconthemes.cpp:187
 msgid ""
 "A problem occurred during the installation process; however, most of the themes "
 "in the archive have been installed"
@@ -185,15 +185,15 @@ msgstr ""
 "Quyu eşendä qíınlıq kilep çıqqan; alay bulsa da, bu tuplamadağı tışlawlarnıñ "
 "kübese quyıldı."
 
-#: iconthemes.cpp:212
+#: iconthemes.cpp:208
 msgid "Installing icon themes"
 msgstr "Tamğalı tışlaw quyu"
 
-#: iconthemes.cpp:230
+#: iconthemes.cpp:226
 msgid "<qt>Installing <strong>%1</strong> theme</qt>"
 msgstr "<qt><strong>%1</strong> tışlaw quyu</qt>"
 
-#: iconthemes.cpp:290
+#: iconthemes.cpp:286
 msgid ""
 "<qt>Are you sure you want to remove the <strong>%1</strong> icon theme?"
 "<br>"
@@ -203,7 +203,7 @@ msgstr ""
 "<br>"
 "<br>Bu tışlaw quyğan biremnär betereler.</qt>"
 
-#: iconthemes.cpp:298
+#: iconthemes.cpp:294
 msgid "Confirmation"
 msgstr "Raslaw"
 

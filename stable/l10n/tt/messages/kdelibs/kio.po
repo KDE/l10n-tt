@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2006-08-30 02:32+0200\n"
+"POT-Creation-Date: 2006-09-03 02:32+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2891,7 +2891,7 @@ msgstr ""
 "<qt>'<b>%1</b>' atlı yazılım '<b>%2</b>' digän buqça açtıruın soradı. Ul astağı "
 "buqça öçen sersüz kertäse bar."
 
-#: kfile/kfiledialog.cpp:1830 misc/kwalletd/kwalletd.cpp:405
+#: kfile/kfiledialog.cpp:1833 misc/kwalletd/kwalletd.cpp:405
 #: misc/kwalletd/kwalletd.cpp:419
 msgid "&Open"
 msgstr "&Aç"
@@ -3360,7 +3360,7 @@ msgstr "Öskäräk"
 msgid "Move Down"
 msgstr "Asqaraq"
 
-#: kfile/kfiledialog.cpp:1673 kfile/kfilefiltercombo.cpp:32
+#: kfile/kfiledialog.cpp:1676 kfile/kfilefiltercombo.cpp:32
 msgid "*|All Files"
 msgstr "*|Bar Birem"
 
@@ -3841,12 +3841,12 @@ msgid "Please select the file to open."
 msgstr "Açası birem saylísı bar."
 
 #: kfile/kfiledialog.cpp:410 kfile/kfiledialog.cpp:453
-#: kfile/kfiledialog.cpp:1547
+#: kfile/kfiledialog.cpp:1550
 msgid "You can only select local files."
 msgstr "Cirle biremnär genä saylí alasıñ."
 
 #: kfile/kfiledialog.cpp:411 kfile/kfiledialog.cpp:454
-#: kfile/kfiledialog.cpp:1548
+#: kfile/kfiledialog.cpp:1551
 msgid "Remote Files Not Accepted"
 msgstr "Çit Biremnär Totılmí"
 
@@ -4006,7 +4006,7 @@ msgstr ""
 msgid "&Filter:"
 msgstr "&Sözgeç:"
 
-#: kfile/kfiledialog.cpp:1477
+#: kfile/kfiledialog.cpp:1480
 msgid ""
 "The chosen filenames do not\n"
 "appear to be valid."
@@ -4014,11 +4014,11 @@ msgstr ""
 "Bu saylanğan biremadı\n"
 "yaraqlı bulıp kürenmi."
 
-#: kfile/kfiledialog.cpp:1479
+#: kfile/kfiledialog.cpp:1482
 msgid "Invalid Filenames"
 msgstr "Birem Adı Yaraqsız"
 
-#: kfile/kfiledialog.cpp:1509
+#: kfile/kfiledialog.cpp:1512
 msgid ""
 "The requested filenames\n"
 "%1\n"
@@ -4030,31 +4030,31 @@ msgstr ""
 "yaraqlı bulıp kürenmi;\n"
 "Birem adınıñ barısın da \"cäyä\" eçenä salıp qararğa bla."
 
-#: kfile/kfiledialog.cpp:1513
+#: kfile/kfiledialog.cpp:1516
 msgid "Filename Error"
 msgstr "Birem Adı Xatalı"
 
-#: kfile/kfiledialog.cpp:1670
+#: kfile/kfiledialog.cpp:1673
 msgid "*|All Folders"
 msgstr "*|Bar Törgäklär"
 
-#: kfile/kfiledialog.cpp:1970
+#: kfile/kfiledialog.cpp:1973
 msgid "Automatically select filename e&xtension (%1)"
 msgstr "Bire adınıñ quşımtası ü&zennän saylansın (%1)"
 
-#: kfile/kfiledialog.cpp:1971
+#: kfile/kfiledialog.cpp:1974
 msgid "the extension <b>%1</b>"
 msgstr "bu quşımta: <b>%1</b>"
 
-#: kfile/kfiledialog.cpp:1979
+#: kfile/kfiledialog.cpp:1982
 msgid "Automatically select filename e&xtension"
 msgstr "Birem adınıñ quşımtası ü&zennän saylansın"
 
-#: kfile/kfiledialog.cpp:1980
+#: kfile/kfiledialog.cpp:1983
 msgid "a suitable extension"
 msgstr "yaraqlı quşımta"
 
-#: kfile/kfiledialog.cpp:1991
+#: kfile/kfiledialog.cpp:1994
 msgid ""
 "This option enables some convenient features for saving files with extensions:"
 "<br>"
@@ -4084,7 +4084,7 @@ msgstr ""
 "<li><b>Saqla</b> östenä çirtkändä <b>%2</b> qırında quşımta kertelmi qalsa, "
 "birem adına %3 östälengän bulaçaq.</li></ol>"
 
-#: kfile/kfiledialog.cpp:2265
+#: kfile/kfiledialog.cpp:2268
 msgid ""
 "<qt>This button allows you to bookmark specific locations. Click on this button "
 "to open the bookmark menu where you may add, edit or select a bookmark."
