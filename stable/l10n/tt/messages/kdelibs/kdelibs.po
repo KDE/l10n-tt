@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-09-03 02:33+0200\n"
+"POT-Creation-Date: 2006-09-04 02:31+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -7822,7 +7822,7 @@ msgstr "İñ&der"
 msgid "Do Not Download"
 msgstr "İñdermäskä"
 
-#: kinit/kinit.cpp:474
+#: kinit/kinit.cpp:475
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -7832,7 +7832,7 @@ msgstr ""
 "Yä sistemgä, yä qullanuçığa açarğa birelgän birem sanınıñ öske çigenä citü "
 "buldı."
 
-#: kinit/kinit.cpp:496
+#: kinit/kinit.cpp:497
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -7842,11 +7842,11 @@ msgstr ""
 "Yä sistemgä, yä qullanuçığa açarğa birelgän eşlänü sanınıñ öske çigenä citü "
 "buldı."
 
-#: kinit/kinit.cpp:588
+#: kinit/kinit.cpp:589
 msgid "Could not find '%1' executable."
 msgstr "'%1' atlı eşçän bireme tabılmadı."
 
-#: kinit/kinit.cpp:604
+#: kinit/kinit.cpp:605
 msgid ""
 "Could not open library '%1'.\n"
 "%2"
@@ -7854,11 +7854,11 @@ msgstr ""
 "'%1' atlı tuplamanı açıp bulmadı.\n"
 "%2"
 
-#: kinit/kinit.cpp:605 kinit/kinit.cpp:648
+#: kinit/kinit.cpp:606 kinit/kinit.cpp:649
 msgid "Unknown error"
 msgstr "Bilgesez xata"
 
-#: kinit/kinit.cpp:647
+#: kinit/kinit.cpp:648
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
 "%2"
