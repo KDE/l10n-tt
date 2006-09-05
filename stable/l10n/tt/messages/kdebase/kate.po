@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kate\n"
-"POT-Creation-Date: 2006-09-04 02:33+0200\n"
+"POT-Creation-Date: 2006-09-05 02:34+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -746,7 +746,7 @@ msgstr "Törgäk:"
 msgid "Recursive"
 msgstr "Kire yaqqa"
 
-#: app/kategrepdialog.cpp:186 app/kategrepdialog.cpp:478
+#: app/kategrepdialog.cpp:186 app/kategrepdialog.cpp:476
 msgid "Find"
 msgstr "Tap"
 
@@ -852,19 +852,19 @@ msgstr ""
 "saylap, Enter bas, yä ki, möxärrirdä turı kilgän yulnı\n"
 " kürsätterer öçen, maddägä qabat bas."
 
-#: app/kategrepdialog.cpp:330
+#: app/kategrepdialog.cpp:328
 msgid "You must enter an existing local folder in the 'Folder' entry."
 msgstr "'Törgäk' keremendä barlıqta bulğan cirle törgäk kürsätergä kiräk."
 
-#: app/kategrepdialog.cpp:331
+#: app/kategrepdialog.cpp:329
 msgid "Invalid Folder"
 msgstr "Yaraqsız Törgäk"
 
-#: app/kategrepdialog.cpp:482
+#: app/kategrepdialog.cpp:480
 msgid "<strong>Error:</strong><p>"
 msgstr "<strong>Xata:</strong><p>"
 
-#: app/kategrepdialog.cpp:482
+#: app/kategrepdialog.cpp:480
 msgid "Grep Tool Error"
 msgstr "Grep Qoral Xatası"
 
