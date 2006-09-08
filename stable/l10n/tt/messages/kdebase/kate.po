@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kate\n"
-"POT-Creation-Date: 2006-09-05 02:34+0200\n"
+"POT-Creation-Date: 2006-09-08 02:32+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -531,7 +531,7 @@ msgstr ""
 "İstälekne saqlap bulmadı\n"
 "'%1'"
 
-#: app/katemwmodonhddialog.cpp:254
+#: app/katemwmodonhddialog.cpp:268
 msgid ""
 "The diff command failed. Please make sure that diff(1) is installed and in your "
 "PATH."
@@ -539,7 +539,7 @@ msgstr ""
 "\"diff\" digän boyırıq uzmadı. Bu sanaqnıñ PATH yulı aşa anı tabıp buluın "
 "tikşerep alası bar."
 
-#: app/katemwmodonhddialog.cpp:256
+#: app/katemwmodonhddialog.cpp:270
 msgid "Error Creating Diff"
 msgstr "Ayırma Yasaw Xatası"
 
