@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kio_trash\n"
-"POT-Creation-Date: 2005-06-30 01:30+0200\n"
+"POT-Creation-Date: 2006-09-14 02:34+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -47,7 +47,7 @@ msgid "Socket name"
 msgstr "Soket adı"
 
 #: kio_trash.cpp:97 kio_trash.cpp:160 kio_trash.cpp:317 kio_trash.cpp:349
-#: kio_trash.cpp:505 kio_trash.cpp:517
+#: kio_trash.cpp:507 kio_trash.cpp:519
 #, c-format
 msgid "Malformed URL %1"
 msgstr "Bozıqtözeşle URL %1"
