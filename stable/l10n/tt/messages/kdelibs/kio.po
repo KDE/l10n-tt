@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2006-09-04 02:31+0200\n"
+"POT-Creation-Date: 2006-09-17 02:33+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -185,55 +185,55 @@ msgstr ""
 msgid "&Skip File"
 msgstr "&Uz Biremne"
 
-#: kio/kfilemetainfo.cpp:840
+#: kio/kfilemetainfo.cpp:844
 msgid "s"
 msgstr "s"
 
-#: kio/kfilemetainfo.cpp:843
+#: kio/kfilemetainfo.cpp:847
 msgid "ms"
 msgstr "ms"
 
-#: kio/kfilemetainfo.cpp:846
+#: kio/kfilemetainfo.cpp:850
 msgid "bps"
 msgstr "ssb"
 
-#: kio/kfilemetainfo.cpp:849
+#: kio/kfilemetainfo.cpp:853
 msgid "pixels"
 msgstr "noqta"
 
-#: kio/kfilemetainfo.cpp:852
+#: kio/kfilemetainfo.cpp:856
 msgid "in"
 msgstr "d"
 
-#: kio/kfilemetainfo.cpp:855
+#: kio/kfilemetainfo.cpp:859
 msgid "cm"
 msgstr "cm"
 
-#: kio/kfilemetainfo.cpp:858
+#: kio/kfilemetainfo.cpp:862
 msgid "B"
 msgstr "B"
 
-#: kio/kfilemetainfo.cpp:861
+#: kio/kfilemetainfo.cpp:865
 msgid "KB"
 msgstr "KB"
 
-#: kio/kfilemetainfo.cpp:864
+#: kio/kfilemetainfo.cpp:868
 msgid "fps"
 msgstr "sss"
 
-#: kio/kfilemetainfo.cpp:867
+#: kio/kfilemetainfo.cpp:871
 msgid "dpi"
 msgstr "dst"
 
-#: kio/kfilemetainfo.cpp:870
+#: kio/kfilemetainfo.cpp:874
 msgid "bpp"
 msgstr "tsb"
 
-#: kio/kfilemetainfo.cpp:873
+#: kio/kfilemetainfo.cpp:877
 msgid "Hz"
 msgstr "Hz"
 
-#: kio/kfilemetainfo.cpp:876
+#: kio/kfilemetainfo.cpp:880
 msgid "mm"
 msgstr "mm"
 

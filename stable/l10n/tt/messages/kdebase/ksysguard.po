@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase ksysguard\n"
-"POT-Creation-Date: 2006-08-14 04:00+0200\n"
+"POT-Creation-Date: 2006-09-17 02:34+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -32,7 +32,7 @@ msgstr ""
 msgid "The file %1 has an invalid worksheet size."
 msgstr "%1 biremendäge eşbit ülçäme yaraqsız."
 
-#: WorkSheet.cc:222
+#: KSysGuardApplet.cc:468 WorkSheet.cc:222
 #, c-format
 msgid "Cannot save file %1"
 msgstr "%1 biremen saqlap bulmadı"
@@ -1561,7 +1561,7 @@ msgstr ""
 "KSysGuardApplet törendä istälek kebek bulası, applet öçen yaraqlı bilgelänü %1 "
 "biremendä yuq."
 
-#: KSysGuardApplet.cc:472
+#: KSysGuardApplet.cc:480
 msgid "Drag sensors from the KDE System Guard into this cell."
 msgstr "KDE System Guard täräzäsennän berär sizgeçne bi urınğa österise."
 

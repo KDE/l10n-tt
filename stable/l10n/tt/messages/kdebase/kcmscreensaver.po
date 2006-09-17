@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmscreensaver\n"
-"POT-Creation-Date: 2006-08-23 02:32+0200\n"
+"POT-Creation-Date: 2006-09-17 02:34+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -319,7 +319,7 @@ msgstr ""
 "(c) 1997-2002 Martin R. Jones\n"
 "(c) 2003-2004 Chris Howells"
 
-#: scrnsave.cpp:469
+#: scrnsave.cpp:470
 msgid "Loading..."
 msgstr "Yökläw..."
 
