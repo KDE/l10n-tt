@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmfonts\n"
-"POT-Creation-Date: 2006-08-22 02:34+0200\n"
+"POT-Creation-Date: 2006-09-18 02:35+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,27 +12,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: fonts.cpp:208
+#: fonts.cpp:209
 msgid "Configure Anti-Alias Settings"
 msgstr "Yazu Şomartuın Caylaw"
 
-#: fonts.cpp:214
+#: fonts.cpp:215
 msgid "E&xclude range:"
 msgstr "&Töşeräse ara:"
 
-#: fonts.cpp:217 fonts.cpp:222
+#: fonts.cpp:218 fonts.cpp:223
 msgid " pt"
 msgstr " pt"
 
-#: fonts.cpp:219
+#: fonts.cpp:220
 msgid " to "
 msgstr " moña "
 
-#: fonts.cpp:225
+#: fonts.cpp:226
 msgid "&Use sub-pixel hinting:"
 msgstr "Tap-ara şomartu &belän:"
 
-#: fonts.cpp:228
+#: fonts.cpp:229
 msgid ""
 "If you have a TFT or LCD screen you can further improve the quality of "
 "displayed fonts by selecting this option."
@@ -46,7 +46,7 @@ msgstr ""
 "<br>"
 "<br><b>CRT-küräklärdä bonıñ uñaylığı yuq.</b>"
 
-#: fonts.cpp:236
+#: fonts.cpp:237
 msgid ""
 "In order for sub-pixel hinting to work correctly you need to know how the "
 "sub-pixels of your display are aligned."
@@ -59,84 +59,84 @@ msgstr ""
 "<br> TFT belän LCD küräklärdä taplar öç eçketaptan tora: qızıl, yäşel, kük. "
 "Küräklärneñ kübesendä eçketaplar RGB buyınça tezelä, qayberlärdä BGR."
 
-#: fonts.cpp:247
+#: fonts.cpp:248
 msgid "Hinting style: "
 msgstr "Kiñäşläw ısulı: "
 
-#: fonts.cpp:254
+#: fonts.cpp:255
 msgid ""
 "Hinting is a process used to enhance the quality of fonts at small sizes."
 msgstr "Keçe yazularnı yaqşılığın arttıruçı närsä."
 
-#: fonts.cpp:491
+#: fonts.cpp:492
 msgid "General"
 msgstr "Töptän"
 
-#: fonts.cpp:492
+#: fonts.cpp:493
 msgid "Fixed width"
 msgstr "Berkiñle"
 
-#: fonts.cpp:493
+#: fonts.cpp:494
 msgid "Toolbar"
 msgstr "Qoraltirä"
 
-#: fonts.cpp:494
+#: fonts.cpp:495
 msgid "Menu"
 msgstr "Saylaq"
 
-#: fonts.cpp:495
+#: fonts.cpp:496
 msgid "Window title"
 msgstr "Täräzä başlığı"
 
-#: fonts.cpp:496
+#: fonts.cpp:497
 msgid "Taskbar"
 msgstr "Qoraltirä"
 
-#: fonts.cpp:497
+#: fonts.cpp:498
 msgid "Desktop"
 msgstr "Östäl"
 
-#: fonts.cpp:531
+#: fonts.cpp:532
 msgid "Used for normal text (e.g. button labels, list items)."
 msgstr "Ğädäti yazma öçen totılğan (ü.ö. töymä yazmasıtezmä keremnäre)."
 
-#: fonts.cpp:532
+#: fonts.cpp:533
 msgid "A non-proportional font (i.e. typewriter font)."
 msgstr "Nisbätle bulmağan yazu (ü.ö. typewriter yazuı)."
 
-#: fonts.cpp:533
+#: fonts.cpp:534
 msgid "Used to display text beside toolbar icons."
 msgstr "Qoraltirädäge töymä yazmalarda totılğan."
 
-#: fonts.cpp:534
+#: fonts.cpp:535
 msgid "Used by menu bars and popup menus."
 msgstr "Saylaq tiräse belän atılma saylaqta totılğan."
 
-#: fonts.cpp:535
+#: fonts.cpp:536
 msgid "Used by the window titlebar."
 msgstr "Täräzä başlığında totılğan."
 
-#: fonts.cpp:536
+#: fonts.cpp:537
 msgid "Used by the taskbar."
 msgstr "Bu qoraltirädä totılğan."
 
-#: fonts.cpp:537
+#: fonts.cpp:538
 msgid "Used for desktop icons."
 msgstr "Östäldäge tamğalar öçen totılğan."
 
-#: fonts.cpp:588
+#: fonts.cpp:589
 msgid "Ad&just All Fonts..."
 msgstr "Bar Yazularnı &Köyläw..."
 
-#: fonts.cpp:589
+#: fonts.cpp:590
 msgid "Click to change all fonts"
 msgstr "Bar yazularnı üzgärtü öçen çirt"
 
-#: fonts.cpp:596
+#: fonts.cpp:597
 msgid "Use a&nti-aliasing for fonts"
 msgstr "Yazular şomartuın &qullanası"
 
-#: fonts.cpp:597
+#: fonts.cpp:598
 msgid ""
 "If this option is selected, KDE will smooth the edges of curves in fonts."
 msgstr "Bu köylämä yanıq torsa, KDE yazular çiklären şomartıp toraçaq."
@@ -145,16 +145,44 @@ msgstr "Bu köylämä yanıq torsa, KDE yazular çiklären şomartıp toraçaq."
 msgid "Configure..."
 msgstr "Caylaw..."
 
-#: fonts.cpp:676
+#: fonts.cpp:608
+msgid "Force fonts DPI"
+msgstr ""
+
+#: fonts.cpp:611
+msgid "96 DPI"
+msgstr ""
+
+#: fonts.cpp:612
+msgid "120 DPI"
+msgstr ""
+
+#: fonts.cpp:615
 msgid ""
-"<p>You have changed anti-aliasing related settings. This change will only "
-"affect newly started applications.</p>"
+"<p>This option forces a specific DPI value for fonts. It may be useful when the "
+"real DPI of the hardware is not detected properly and it is also often misused "
+"when poor quality fonts are used that do not look well with DPI values other "
+"than 96 or 120 DPI.</p>"
+"<p>The use of this option is generally discouraged. For selecting proper DPI "
+"value a better option is explicitly configuring it for the whole X server if "
+"possible (e.g. DisplaySize in xorg.conf or adding <i>-dpi value</i> "
+"to ServerLocalArgs= in $KDEDIR/share/config/kdm/kdmrc). When fonts do not "
+"render properly with real DPI value better fonts should be used or "
+"configuration of font hinting should be checked.</p>"
+msgstr ""
+
+#: fonts.cpp:728
+#, fuzzy
+msgid ""
+"<p>Some changes such as anti-aliasing will only affect newly started "
+"applications.</p>"
 msgstr ""
 "<p>Şomartu köyläwläre üzgärtelgän bulğan. Yaña cibärelgän yazılımnarda ğına "
 "alarnıñ çağılışı bulaçaq.</p>"
 
-#: fonts.cpp:677
-msgid "Anti-Aliasing Settings Changed"
+#: fonts.cpp:729
+#, fuzzy
+msgid "Font Settings Changed"
 msgstr "Yazular Şomartu Caylawı Üzgärelgän"
 
 #: kxftconfig.cpp:876 kxftconfig.cpp:917
