@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs katepart\n"
-"POT-Creation-Date: 2006-09-16 02:32+0200\n"
+"POT-Creation-Date: 2006-09-19 02:33+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -765,7 +765,7 @@ msgstr ""
 msgid "Close Nevertheless"
 msgstr "Aña Qaramíça Yap"
 
-#: part/katedocument.cpp:4256 part/katedocument.cpp:4989 part/kateview.cpp:860
+#: part/katedocument.cpp:4256 part/katedocument.cpp:4989 part/kateview.cpp:859
 msgid "Save File"
 msgstr "Biremne Saqla"
 
@@ -801,16 +801,16 @@ msgstr "'%1' atlı birem başqa yazılımnan yasalğan bulğan."
 msgid "The file '%1' was deleted by another program."
 msgstr "'%1' atlı birem başqa yazılımnan beterelgän bulğan."
 
-#: part/katedocument.cpp:5017 part/kateview.cpp:887
+#: part/katedocument.cpp:5017 part/kateview.cpp:886
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "%1 atlı birem bar inde. Anıñ östennän yazıp almaştırasımı?"
 
-#: part/katedocument.cpp:5019 part/kateview.cpp:888
+#: part/katedocument.cpp:5019 part/kateview.cpp:887
 msgid "Overwrite File?"
 msgstr "Biremne Östennän Yazasımı?"
 
-#: part/katedocument.cpp:5020 part/kateview.cpp:889
+#: part/katedocument.cpp:5020 part/kateview.cpp:888
 msgid "&Overwrite"
 msgstr "&Östän Yaz"
 
@@ -1746,13 +1746,13 @@ msgstr "&Yasalu buyınça"
 msgid "Show indentation lines"
 msgstr "Çigenderü yulların kürsätü"
 
-#: part/katedialogs.cpp:702 part/kateview.cpp:357
+#: part/katedialogs.cpp:702 part/kateview.cpp:356
 msgid ""
 "If this option is checked, the text lines will be wrapped at the view border on "
 "the screen."
 msgstr "Bu köylämä yanıq bulsa, küreneş kiñlegenä símağan yullar töreläçäk."
 
-#: part/katedialogs.cpp:704 part/kateview.cpp:360
+#: part/katedialogs.cpp:704 part/kateview.cpp:359
 msgid "Choose when the Dynamic Word Wrap Indicators should be displayed"
 msgstr "Tere Süztörü Tamğası kürsätäse bulsa bonı saylísı"
 
@@ -2238,26 +2238,26 @@ msgstr ""
 msgid "The spelling program seems to have crashed."
 msgstr "Yazu tikşergeç yazılım cimerelgän kebek kürenä."
 
-#: part/kateview.cpp:213
+#: part/kateview.cpp:212
 msgid "Cut the selected text and move it to the clipboard"
 msgstr "Saylanğan yazmanı alışukeşä eçenä kisep alu"
 
-#: part/kateview.cpp:216
+#: part/kateview.cpp:215
 msgid "Paste previously copied or cut clipboard contents"
 msgstr "Alışukeşä eçtälegen östäp quyu"
 
-#: part/kateview.cpp:219
+#: part/kateview.cpp:218
 msgid ""
 "Use this command to copy the currently selected text to the system clipboard."
 msgstr ""
 "Biredä saylanğan yazma kisägen sistemneñ alışukeşä eçenä salu öçen bu boyıqnı "
 "qullanası."
 
-#: part/kateview.cpp:221
+#: part/kateview.cpp:220
 msgid "Copy as &HTML"
 msgstr "&HTML itep İskä al"
 
-#: part/kateview.cpp:222
+#: part/kateview.cpp:221
 msgid ""
 "Use this command to copy the currently selected text as HTML to the system "
 "clipboard."
@@ -2265,23 +2265,23 @@ msgstr ""
 "Biredä saylanğan yazma kisägen sistemneñ alışukeşä eçenä HTML kileş salu öçen "
 "bu boyıqnı qullanası."
 
-#: part/kateview.cpp:227
+#: part/kateview.cpp:226
 msgid "Save the current document"
 msgstr "Biredäge istälekne saqla"
 
-#: part/kateview.cpp:230
+#: part/kateview.cpp:229
 msgid "Revert the most recent editing actions"
 msgstr "Baya yasalğan üzgärtü eşlären kire alu"
 
-#: part/kateview.cpp:233
+#: part/kateview.cpp:232
 msgid "Revert the most recent undo operation"
 msgstr "Baya yasalğan kire alu eşlären qaytartu"
 
-#: part/kateview.cpp:235
+#: part/kateview.cpp:234
 msgid "&Word Wrap Document"
 msgstr "&Süz Törü İstälege"
 
-#: part/kateview.cpp:236
+#: part/kateview.cpp:235
 msgid ""
 "Use this command to wrap all lines of the current document which are longer "
 "than the width of the current view, to fit into this view."
@@ -2295,11 +2295,11 @@ msgstr ""
 "<br>Süz törüneñ totrıqlı töre bu, yäğni küreneş üzgärtelgändä törülär üzgärelmi "
 "qalaçaq."
 
-#: part/kateview.cpp:241
+#: part/kateview.cpp:240
 msgid "&Indent"
 msgstr "&Çigenü"
 
-#: part/kateview.cpp:242
+#: part/kateview.cpp:241
 msgid ""
 "Use this to indent a selected block of text."
 "<br>"
@@ -2311,19 +2311,19 @@ msgstr ""
 "<br>Tab ozınlığı belän alar urınına buşlıq qullanu kiräklegen bu caylaw "
 "täräzäsendä köyläp bula."
 
-#: part/kateview.cpp:244
+#: part/kateview.cpp:243
 msgid "&Unindent"
 msgstr "&Çigetüne beter"
 
-#: part/kateview.cpp:245
+#: part/kateview.cpp:244
 msgid "Use this to unindent a selected block of text."
 msgstr "Yazmanıñ saylanğan kisägennän çigereşne beterü öçen bonı qullanası."
 
-#: part/kateview.cpp:247
+#: part/kateview.cpp:246
 msgid "&Clean Indentation"
 msgstr "&Saf Çigeneş"
 
-#: part/kateview.cpp:248
+#: part/kateview.cpp:247
 msgid ""
 "Use this to clean the indentation of a selected block of text (only tabs/only "
 "spaces)"
@@ -2337,20 +2337,20 @@ msgstr ""
 "<br>Tab ozınlığı belän alar urınına buşlıq qullanu kiräklegen bu caylaw "
 "täräzäsendä köyläp bula."
 
-#: part/kateview.cpp:251
+#: part/kateview.cpp:250
 msgid "&Align"
 msgstr "&Urnaşılu"
 
-#: part/kateview.cpp:252
+#: part/kateview.cpp:251
 msgid ""
 "Use this to align the current line or block of text to its proper indent level."
 msgstr "Yazmanıñ ağımdağı yulın yä ki kisägen tieşle çigeneş buyınça tigezläw."
 
-#: part/kateview.cpp:254
+#: part/kateview.cpp:253
 msgid "C&omment"
 msgstr "Añlat&ma"
 
-#: part/kateview.cpp:256
+#: part/kateview.cpp:255
 msgid ""
 "This command comments out the current line or a selected block of text.<BR><BR>"
 "The characters for single/multiple line comments are defined within the "
@@ -2359,11 +2359,11 @@ msgstr ""
 "Yazmanıñ ağımdağı yulın yä ki kisägen açıqlama itep quyu.<BR><BR>"
 "Ber/küpyullı açıqlama öçen bilgelär biredäge tel yaqtırtu caylawında bilgelänä."
 
-#: part/kateview.cpp:259
+#: part/kateview.cpp:258
 msgid "Unco&mment"
 msgstr "Açıqla&ma tügel it"
 
-#: part/kateview.cpp:261
+#: part/kateview.cpp:260
 msgid ""
 "This command removes comments from the current line or a selected block of "
 "text.<BR><BR>The characters for single/multiple line comments are defined "
@@ -2372,19 +2372,19 @@ msgstr ""
 "Yazmanıñ ağımdağı yulın yä ki kisägen açıqlama itep quyıluın beterü.<BR><BR>"
 "Ber/küpyullı açıqlama öçen bilgelär biredäge tel yaqtırtu caylawında bilgelänä."
 
-#: part/kateview.cpp:264
+#: part/kateview.cpp:263
 msgid "&Read Only Mode"
 msgstr "&Uquğa Ğına Isul"
 
-#: part/kateview.cpp:267
+#: part/kateview.cpp:266
 msgid "Lock/unlock the document for writing"
 msgstr "Bu istälekne üzgäreşlärdän yaqlaw"
 
-#: part/kateview.cpp:269
+#: part/kateview.cpp:268
 msgid "Uppercase"
 msgstr "Olı bilge"
 
-#: part/kateview.cpp:271
+#: part/kateview.cpp:270
 msgid ""
 "Convert the selection to uppercase, or the character to the right of the cursor "
 "if no text is selected."
@@ -2392,11 +2392,11 @@ msgstr ""
 "Saylanğannı keçeräytä, yä inde saylanu bulmağan çaqta kürsärneñ uñ yağındağı "
 "xäref eşkärtelä."
 
-#: part/kateview.cpp:274
+#: part/kateview.cpp:273
 msgid "Lowercase"
 msgstr "Keçeräytep"
 
-#: part/kateview.cpp:276
+#: part/kateview.cpp:275
 msgid ""
 "Convert the selection to lowercase, or the character to the right of the cursor "
 "if no text is selected."
@@ -2404,76 +2404,76 @@ msgstr ""
 "Saylanğannı keçeräytä, yä inde saylanu bulmağan çaqta kürsärneñ uñ yağındağı "
 "xäref eşkärtelä."
 
-#: part/kateview.cpp:279
+#: part/kateview.cpp:278
 msgid "Capitalize"
 msgstr "Olılaytası"
 
-#: part/kateview.cpp:281
+#: part/kateview.cpp:280
 msgid ""
 "Capitalize the selection, or the word under the cursor if no text is selected."
 msgstr ""
 "Saylanğannı olılayta, yä inde saylanu bulmağan çaqta kürsär astındağı süz "
 "eşkärtelä."
 
-#: part/kateview.cpp:284
+#: part/kateview.cpp:283
 msgid "Join Lines"
 msgstr "Yüllarnı Berläşter"
 
-#: part/kateview.cpp:296
+#: part/kateview.cpp:295
 msgid "Print the current document."
 msgstr "Biredäge istälekne bastır."
 
-#: part/kateview.cpp:298
+#: part/kateview.cpp:297
 msgid "Reloa&d"
 msgstr "&Yaña Yöklä"
 
-#: part/kateview.cpp:299
+#: part/kateview.cpp:298
 msgid "Reload the current document from disk."
 msgstr "Biredäge istälekne disk biremennän yökläw."
 
-#: part/kateview.cpp:302
+#: part/kateview.cpp:301
 msgid "Save the current document to disk, with a name of your choice."
 msgstr "Biredäge istälekne disk biremenä saqlaw, saylanğan adı belän."
 
-#: part/kateview.cpp:305
+#: part/kateview.cpp:304
 msgid ""
 "This command opens a dialog and lets you choose a line that you want the cursor "
 "to move to."
 msgstr "Täräzä açıp, kürsärne anda saylanğan yulğa küçerü."
 
-#: part/kateview.cpp:307
+#: part/kateview.cpp:306
 msgid "&Configure Editor..."
 msgstr "Üzgärtkeç &Caylaw..."
 
-#: part/kateview.cpp:308
+#: part/kateview.cpp:307
 msgid "Configure various aspects of this editor."
 msgstr "Bu tözätkeçneñ törle yaqların caylaw."
 
-#: part/kateview.cpp:310
+#: part/kateview.cpp:309
 msgid "&Highlighting"
 msgstr "&Yaqtırtu"
 
-#: part/kateview.cpp:311
+#: part/kateview.cpp:310
 msgid "Here you can choose how the current document should be highlighted."
 msgstr "Biredäge istälekne niçegräk yaqtırtırğa tieşlegen bonda saylap bula."
 
-#: part/kateview.cpp:314
+#: part/kateview.cpp:313
 msgid "&Filetype"
 msgstr "&Biremtöre"
 
-#: part/kateview.cpp:317
+#: part/kateview.cpp:316
 msgid "&Schema"
 msgstr "&Tözeleş"
 
-#: part/kateview.cpp:321
+#: part/kateview.cpp:320
 msgid "&Indentation"
 msgstr "&Çigertü"
 
-#: part/kateview.cpp:324
+#: part/kateview.cpp:323
 msgid "E&xport as HTML..."
 msgstr "&HTML itep Çığaru...."
 
-#: part/kateview.cpp:325
+#: part/kateview.cpp:324
 msgid ""
 "This command allows you to export the current document with all highlighting "
 "information into a HTML document."
@@ -2481,37 +2481,37 @@ msgstr ""
 "Bu boyırıq aşa, biredäge istälekne bar bulğan yaqtıruları belän HTML kileş "
 "saqlap bula."
 
-#: part/kateview.cpp:329
+#: part/kateview.cpp:328
 msgid "Select the entire text of the current document."
 msgstr "Biredäge istälekneñ böten eçtälegen saylap quya."
 
-#: part/kateview.cpp:332
+#: part/kateview.cpp:331
 msgid ""
 "If you have selected something within the current document, this will no longer "
 "be selected."
 msgstr "Biredäge istäkeneñ saylanğan kisäge bulsa, ul saylanu yağalaçaq."
 
-#: part/kateview.cpp:334
+#: part/kateview.cpp:333
 msgid "Enlarge Font"
 msgstr "Yazunı Ereräyt"
 
-#: part/kateview.cpp:335
+#: part/kateview.cpp:334
 msgid "This increases the display font size."
 msgstr "Kürsätü yazuın ereräytä."
 
-#: part/kateview.cpp:337
+#: part/kateview.cpp:336
 msgid "Shrink Font"
 msgstr "Yazunı Keçeräyt"
 
-#: part/kateview.cpp:338
+#: part/kateview.cpp:337
 msgid "This decreases the display font size."
 msgstr "Kürsätü yazuın keçeräytä."
 
-#: part/kateview.cpp:341
+#: part/kateview.cpp:340
 msgid "Bl&ock Selection Mode"
 msgstr "Bl&ok Saylaw Isulı"
 
-#: part/kateview.cpp:344
+#: part/kateview.cpp:343
 msgid ""
 "This command allows switching between the normal (line based) selection mode "
 "and the block selection mode."
@@ -2519,82 +2519,82 @@ msgstr ""
 "Qullanası saylaw ısulın bu boyırıq aşa saylap bula: yullap saylísı yä ki buylap "
 "saylísı."
 
-#: part/kateview.cpp:347
+#: part/kateview.cpp:346
 msgid "Overwr&ite Mode"
 msgstr "Östän &Yazası"
 
-#: part/kateview.cpp:350
+#: part/kateview.cpp:349
 msgid ""
 "Choose whether you want the text you type to be inserted or to overwrite "
 "existing text."
 msgstr "Cíılğannı östäpme yä ki almaştırıp kertäsen bonda saylap bula."
 
-#: part/kateview.cpp:354
+#: part/kateview.cpp:353
 msgid "&Dynamic Word Wrap"
 msgstr "&Tere Süztörü"
 
-#: part/kateview.cpp:359
+#: part/kateview.cpp:358
 msgid "Dynamic Word Wrap Indicators"
 msgstr "Tere Süztörü Tamğası"
 
-#: part/kateview.cpp:364
+#: part/kateview.cpp:363
 msgid "&Off"
 msgstr "&Sünek"
 
-#: part/kateview.cpp:365
+#: part/kateview.cpp:364
 msgid "Follow &Line Numbers"
 msgstr "Yul &Sannarı Belän"
 
-#: part/kateview.cpp:366
+#: part/kateview.cpp:365
 msgid "&Always On"
 msgstr "&Barçaq Açıq"
 
-#: part/kateview.cpp:370
+#: part/kateview.cpp:369
 msgid "Show Folding &Markers"
 msgstr "Törü &Totqıçların Kürsätü"
 
-#: part/kateview.cpp:373
+#: part/kateview.cpp:372
 msgid ""
 "You can choose if the codefolding marks should be shown, if codefolding is "
 "possible."
 msgstr ""
 "Kod törü qullanırlıq bulsa, anıñ bilgesen kürsätü kiräklegen bonda saylap bula."
 
-#: part/kateview.cpp:374
+#: part/kateview.cpp:373
 msgid "Hide Folding &Markers"
 msgstr "Törü &Bilgesen Yäşer"
 
-#: part/kateview.cpp:377
+#: part/kateview.cpp:376
 msgid "Show &Icon Border"
 msgstr "&Tamğa Çigen Kürsätü"
 
-#: part/kateview.cpp:381
+#: part/kateview.cpp:380
 msgid ""
 "Show/hide the icon border.<BR><BR> The icon border shows bookmark symbols, for "
 "instance."
 msgstr "Tamğa buyın kürsätü/yäşertü.<BR><BR> Bu buyda bitbilgelär quyıla."
 
-#: part/kateview.cpp:382
+#: part/kateview.cpp:381
 msgid "Hide &Icon Border"
 msgstr "&İkon Çigen Yäşer"
 
-#: part/kateview.cpp:385
+#: part/kateview.cpp:384
 msgid "Show &Line Numbers"
 msgstr "&Yulnıñ Sanın Kürsätü"
 
-#: part/kateview.cpp:388
+#: part/kateview.cpp:387
 msgid "Show/hide the line numbers on the left hand side of the view."
 msgstr "Küreneşneñ sul yağında yul sannarın kürsätü/yäşertü."
 
-#: part/kateview.cpp:389
+#: part/kateview.cpp:388
 msgid "Hide &Line Numbers"
 msgstr "&Yulnıñ Sanın Yäşer"
 
-#: part/kateview.cpp:392
+#: part/kateview.cpp:391
 msgid "Show Scroll&bar Marks"
 msgstr "Çornaw&tirädä Tamğa Kürsätü"
 
-#: part/kateview.cpp:395
+#: part/kateview.cpp:394
 msgid ""
 "Show/hide the marks on the vertical scrollbar.<BR><BR>"
 "The marks, for instance, show bookmarks."
@@ -2602,15 +2602,15 @@ msgstr ""
 "Asma çirnawtirädä tamğalar kürsätü/yäşertü.<BR><BR>Ul tamğalar bitbilgelär öçen "
 "qullanıla."
 
-#: part/kateview.cpp:396
+#: part/kateview.cpp:395
 msgid "Hide Scroll&bar Marks"
 msgstr "Çornatirädä &Tamğa Yäşertü"
 
-#: part/kateview.cpp:399
+#: part/kateview.cpp:398
 msgid "Show Static &Word Wrap Marker"
 msgstr "Tötırıqlı &Süztörü Tamğasın Kürsätü"
 
-#: part/kateview.cpp:403
+#: part/kateview.cpp:402
 msgid ""
 "Show/hide the Word Wrap Marker, a vertical line drawn at the word wrap column "
 "as defined in the editing properties"
@@ -2618,241 +2618,241 @@ msgstr ""
 "Totırıqlı Süztörü Tamğasın kürsätü/yäşertü, üzgärtü caylawlarında äytelgänençä "
 "süztörü buyın sızıp çığu"
 
-#: part/kateview.cpp:405
+#: part/kateview.cpp:404
 msgid "Hide Static &Word Wrap Marker"
 msgstr "Tötırıqlı &Süztörü Tamğasın Yäşertü"
 
-#: part/kateview.cpp:408
+#: part/kateview.cpp:407
 msgid "Switch to Command Line"
 msgstr "Boyıryulğa Küçü"
 
-#: part/kateview.cpp:411
+#: part/kateview.cpp:410
 msgid "Show/hide the command line on the bottom of the view."
 msgstr "Küreneş töbendä boyıryul kürsätü/yäşertü."
 
-#: part/kateview.cpp:413
+#: part/kateview.cpp:412
 msgid "&End of Line"
 msgstr "Y&ul Azağı"
 
-#: part/kateview.cpp:414
+#: part/kateview.cpp:413
 msgid "Choose which line endings should be used, when you save the document"
 msgstr "Bu istälekne saqlağanda yul küçerü öçen qullanası tör saylaw"
 
-#: part/kateview.cpp:424
+#: part/kateview.cpp:423
 msgid "E&ncoding"
 msgstr "&Bilgelämä"
 
-#: part/kateview.cpp:441
+#: part/kateview.cpp:440
 msgid "Move Word Left"
 msgstr "Suldağı Süzgä Küç"
 
-#: part/kateview.cpp:445
+#: part/kateview.cpp:444
 msgid "Select Character Left"
 msgstr "Suldağı Xäref Saylaw"
 
-#: part/kateview.cpp:449
+#: part/kateview.cpp:448
 msgid "Select Word Left"
 msgstr "Suldağı Süz Saylaw"
 
-#: part/kateview.cpp:454
+#: part/kateview.cpp:453
 msgid "Move Word Right"
 msgstr "Uñdağı Süzgä Küç"
 
-#: part/kateview.cpp:458
+#: part/kateview.cpp:457
 msgid "Select Character Right"
 msgstr "Uñdağı Xäref Saylaw"
 
-#: part/kateview.cpp:462
+#: part/kateview.cpp:461
 msgid "Select Word Right"
 msgstr "Uñdağı Süz Saylaw"
 
-#: part/kateview.cpp:467
+#: part/kateview.cpp:466
 msgid "Move to Beginning of Line"
 msgstr "Yul Başına Küçer"
 
-#: part/kateview.cpp:471
+#: part/kateview.cpp:470
 msgid "Move to Beginning of Document"
 msgstr "İstälek Başına Küçer"
 
-#: part/kateview.cpp:475
+#: part/kateview.cpp:474
 msgid "Select to Beginning of Line"
 msgstr "Yul Başına tikle Sayla"
 
-#: part/kateview.cpp:479
+#: part/kateview.cpp:478
 msgid "Select to Beginning of Document"
 msgstr "İstälek Başına tikle Sayla"
 
-#: part/kateview.cpp:484
+#: part/kateview.cpp:483
 msgid "Move to End of Line"
 msgstr "Yul Azağına Küçer"
 
-#: part/kateview.cpp:488
+#: part/kateview.cpp:487
 msgid "Move to End of Document"
 msgstr "İstälek Azağına Küçer"
 
-#: part/kateview.cpp:492
+#: part/kateview.cpp:491
 msgid "Select to End of Line"
 msgstr "Yul Azağına tikle Sayla"
 
-#: part/kateview.cpp:496
+#: part/kateview.cpp:495
 msgid "Select to End of Document"
 msgstr "İstälek Azağına tikle Sayla"
 
-#: part/kateview.cpp:501
+#: part/kateview.cpp:500
 msgid "Select to Previous Line"
 msgstr "Ütkän Yulğa tikle Sayla"
 
-#: part/kateview.cpp:505
+#: part/kateview.cpp:504
 msgid "Scroll Line Up"
 msgstr "Öske Yulğa Çorna"
 
-#: part/kateview.cpp:509
+#: part/kateview.cpp:508
 msgid "Move to Next Line"
 msgstr "Kiläse Yulğa Küçer"
 
-#: part/kateview.cpp:512
+#: part/kateview.cpp:511
 msgid "Move to Previous Line"
 msgstr "Ütkän Yulğa Küçer"
 
-#: part/kateview.cpp:515
+#: part/kateview.cpp:514
 msgid "Move Character Right"
 msgstr "Uñdağı Bilgegä Küç"
 
-#: part/kateview.cpp:518
+#: part/kateview.cpp:517
 msgid "Move Character Left"
 msgstr "Suldağı Bilgegä Küç"
 
-#: part/kateview.cpp:522
+#: part/kateview.cpp:521
 msgid "Select to Next Line"
 msgstr "Kiläse Yulğa tikle Sayla"
 
-#: part/kateview.cpp:526
+#: part/kateview.cpp:525
 msgid "Scroll Line Down"
 msgstr "Asqı Yulğa Çorna"
 
-#: part/kateview.cpp:531
+#: part/kateview.cpp:530
 msgid "Scroll Page Up"
 msgstr "Öske Bitkä Çorna"
 
-#: part/kateview.cpp:535
+#: part/kateview.cpp:534
 msgid "Select Page Up"
 msgstr "Öske Bit Sayla"
 
-#: part/kateview.cpp:539
+#: part/kateview.cpp:538
 msgid "Move to Top of View"
 msgstr "Küreneş Östenä Küçer"
 
-#: part/kateview.cpp:543
+#: part/kateview.cpp:542
 msgid "Select to Top of View"
 msgstr "Küreneş Başına tikle Sayla"
 
-#: part/kateview.cpp:548
+#: part/kateview.cpp:547
 msgid "Scroll Page Down"
 msgstr "Asqı Bitkä Çorna"
 
-#: part/kateview.cpp:552
+#: part/kateview.cpp:551
 msgid "Select Page Down"
 msgstr "Asqı Bit Sayla"
 
-#: part/kateview.cpp:556
+#: part/kateview.cpp:555
 msgid "Move to Bottom of View"
 msgstr "Küreneş Astına Küçer"
 
-#: part/kateview.cpp:560
+#: part/kateview.cpp:559
 msgid "Select to Bottom of View"
 msgstr "Küreneş Azağına tikle Sayla"
 
-#: part/kateview.cpp:564
+#: part/kateview.cpp:563
 msgid "Move to Matching Bracket"
 msgstr "Kileşkañ Cäyägä Küç"
 
-#: part/kateview.cpp:568
+#: part/kateview.cpp:567
 msgid "Select to Matching Bracket"
 msgstr "Kileşkañ Cäyäne Sayla"
 
-#: part/kateview.cpp:576
+#: part/kateview.cpp:575
 msgid "Transpose Characters"
 msgstr "Bilgelärne Aslaştırıp Quy"
 
-#: part/kateview.cpp:581
+#: part/kateview.cpp:580
 msgid "Delete Line"
 msgstr "Sızıqnı Beter"
 
-#: part/kateview.cpp:586
+#: part/kateview.cpp:585
 msgid "Delete Word Left"
 msgstr "Suldağı Süzne Beter"
 
-#: part/kateview.cpp:591
+#: part/kateview.cpp:590
 msgid "Delete Word Right"
 msgstr "Uñdağı Süzne Beter"
 
-#: part/kateview.cpp:595
+#: part/kateview.cpp:594
 msgid "Delete Next Character"
 msgstr "Kiläse Bilgene Beter"
 
-#: part/kateview.cpp:599
+#: part/kateview.cpp:598
 msgid "Backspace"
 msgstr "Kireara"
 
-#: part/kateview.cpp:625
+#: part/kateview.cpp:624
 msgid "Collapse Toplevel"
 msgstr "Töpadımnı Törep quy"
 
-#: part/kateview.cpp:627
+#: part/kateview.cpp:626
 msgid "Expand Toplevel"
 msgstr "Öske Adımnı Cäyep Quy"
 
-#: part/kateview.cpp:629
+#: part/kateview.cpp:628
 msgid "Collapse One Local Level"
 msgstr "Cirle Adımnı Törep quy"
 
-#: part/kateview.cpp:631
+#: part/kateview.cpp:630
 msgid "Expand One Local Level"
 msgstr "Cirle Adımnı Cäyep Quy"
 
-#: part/kateview.cpp:636
+#: part/kateview.cpp:635
 msgid "Show the code folding region tree"
 msgstr "Kod törü ağaçın kürsätü"
 
-#: part/kateview.cpp:637
+#: part/kateview.cpp:636
 msgid "Basic template code test"
 msgstr "Töp ürçetmä eçtälegen sınaw"
 
-#: part/kateview.cpp:699
+#: part/kateview.cpp:698
 msgid " OVR "
 msgstr " ÖST "
 
-#: part/kateview.cpp:701
+#: part/kateview.cpp:700
 msgid " INS "
 msgstr " INS "
 
-#: part/kateview.cpp:704
+#: part/kateview.cpp:703
 msgid " R/O "
 msgstr " U/Ğ "
 
-#: part/kateview.cpp:709
+#: part/kateview.cpp:708
 #, c-format
 msgid " Line: %1"
 msgstr " Yul: %1"
 
-#: part/kateview.cpp:710
+#: part/kateview.cpp:709
 #, c-format
 msgid " Col: %1"
 msgstr " Buy: %1"
 
-#: part/kateview.cpp:713
+#: part/kateview.cpp:712
 msgid " BLK "
 msgstr " BLK "
 
-#: part/kateview.cpp:713
+#: part/kateview.cpp:712
 msgid " NORM "
 msgstr " TÖP "
 
-#: part/kateview.cpp:889
+#: part/kateview.cpp:888
 msgid "Overwrite the file"
 msgstr "Birem östennän yazası"
 
-#: part/kateview.cpp:1781
+#: part/kateview.cpp:1780
 msgid "Export File as HTML"
 msgstr "Biremne HTML itep Çığar"
 
