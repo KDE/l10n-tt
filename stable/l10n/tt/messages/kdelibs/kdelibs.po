@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-09-26 02:30+0200\n"
+"POT-Creation-Date: 2006-09-28 02:32+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -3137,23 +3137,23 @@ msgstr "%1 port %2"
 msgid "<empty UNIX socket>"
 msgstr "<buş UNIX-soket>"
 
-#: kdecore/kcheckaccelerators.cpp:150
+#: kdecore/kcheckaccelerators.cpp:148
 msgid "Dr. Klash' Accelerator Diagnosis"
 msgstr "Dr. Klash'nıñ Tizlätü Centekläwe"
 
-#: kdecore/kcheckaccelerators.cpp:157
+#: kdecore/kcheckaccelerators.cpp:155
 msgid "&Disable automatic checking"
 msgstr "&Üzennän tukşerelüne sünderäse"
 
-#: kdecore/kcheckaccelerators.cpp:195
+#: kdecore/kcheckaccelerators.cpp:193
 msgid "<h2>Accelerators changed</h2>"
 msgstr "<h2>Tizlätkeçlär üzgärtelde</h2>"
 
-#: kdecore/kcheckaccelerators.cpp:201
+#: kdecore/kcheckaccelerators.cpp:199
 msgid "<h2>Accelerators removed</h2>"
 msgstr "<h2>Tizlätkeçlär beterelde</h2>"
 
-#: kdecore/kcheckaccelerators.cpp:206
+#: kdecore/kcheckaccelerators.cpp:204
 msgid "<h2>Accelerators added (just for your info)</h2>"
 msgstr "<h2>Tizlätkeçlär östälende (siña ğına)</h2>"
 
