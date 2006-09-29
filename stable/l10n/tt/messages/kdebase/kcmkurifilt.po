@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmkurifilt\n"
-"POT-Creation-Date: 2006-08-24 02:34+0200\n"
+"POT-Creation-Date: 2006-09-29 02:33+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -314,19 +314,19 @@ msgstr ""
 msgid "Keep It"
 msgstr "Monı Qaldır"
 
-#: plugins/shorturi/kshorturifilter.cpp:274
+#: plugins/shorturi/kshorturifilter.cpp:277
 msgid "<qt><b>%1</b> does not have a home folder.</qt>"
 msgstr "<qt><b>%1</b> digäne yort-törgäk bulırğa tieş tügel.</qt>"
 
-#: plugins/shorturi/kshorturifilter.cpp:275
+#: plugins/shorturi/kshorturifilter.cpp:278
 msgid "<qt>There is no user called <b>%1</b>.</qt>"
 msgstr "<qt><b>%1</b> atlı qullanuçılar yuq.</qt>"
 
-#: plugins/shorturi/kshorturifilter.cpp:501
+#: plugins/shorturi/kshorturifilter.cpp:504
 msgid "<qt>The file or folder <b>%1</b> does not exist."
 msgstr "<qt><b>%1</b> atlı birem yä ki törgäk barlıqta yuq."
 
-#: plugins/shorturi/kshorturifilter.cpp:518
+#: plugins/shorturi/kshorturifilter.cpp:521
 msgid "&ShortURLs"
 msgstr "&Qısqa URL'lar"
 

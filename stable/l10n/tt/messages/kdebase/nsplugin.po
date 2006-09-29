@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase nsplugin\n"
-"POT-Creation-Date: 2006-04-22 03:53+0200\n"
+"POT-Creation-Date: 2006-09-29 02:33+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -66,12 +66,12 @@ msgstr "Çığaru alğabarışın kürsätü"
 msgid "nspluginscan"
 msgstr "nspluginscan"
 
-#: viewer/nsplugin.cpp:806
+#: viewer/nsplugin.cpp:805
 #, c-format
 msgid "Submitting data to %1"
 msgstr "Biremne %1 taba künderü"
 
-#: viewer/nsplugin.cpp:825
+#: viewer/nsplugin.cpp:824
 #, c-format
 msgid "Requesting %1"
 msgstr "%1 Soraw"
