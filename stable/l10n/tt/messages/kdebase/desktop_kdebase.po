@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-08-19 02:21+0000\n"
+"POT-Creation-Date: 2006-09-30 00:47+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -369,7 +369,7 @@ msgstr "Name=SIGFPE"
 msgid "Comment=Floating point exception."
 msgstr "Comment=Yözmä tap iskärmäse."
 
-#: drkonqi/presets/developerrc:547 drkonqi/presets/enduserrc:532
+#: drkonqi/presets/developerrc:547 drkonqi/presets/enduserrc:531
 msgid "Name=SIGSEGV"
 msgstr "Name=SIGSEGV"
 
@@ -377,7 +377,7 @@ msgstr "Name=SIGSEGV"
 msgid "Comment=Invalid memory reference."
 msgstr "Comment=Yaraqsız xäter iskärmäse."
 
-#: drkonqi/presets/developerrc:622 drkonqi/presets/enduserrc:609
+#: drkonqi/presets/developerrc:622 drkonqi/presets/enduserrc:607
 msgid "Name=Unknown"
 msgstr "Name=Bilgesez"
 
@@ -437,7 +437,7 @@ msgstr ""
 "Comment=SIGFPE-ımlaw törle yazılımnarda xata bulu arqasında yış çığa. Bu "
 "yazılım istälekläre saqlanğan bulır."
 
-#: drkonqi/presets/enduserrc:533
+#: drkonqi/presets/enduserrc:532
 msgid ""
 "Comment=An application mostly receives the SIGSEGV signal due to a bug in the "
 "application. The application was asked to save its documents."
@@ -445,7 +445,7 @@ msgstr ""
 "Comment=SIGSEGV-ımlaw törle yazılımnarda xata bulu arqasında yış çığa. Bu "
 "yazılım istälekläre saqlanğan bulır."
 
-#: drkonqi/presets/enduserrc:687
+#: drkonqi/presets/enduserrc:685
 msgid "Comment=Sorry, I do not know this signal."
 msgstr "Comment=Ni qızğanıç, bu ımlawnı añlamadım."
 
@@ -2038,7 +2038,7 @@ msgstr "Name=Tawış Sisteme"
 msgid "Comment=Sound System Configuration"
 msgstr "Comment=Tawış Sistemen Caylaw"
 
-#: kcontrol/arts/arts.desktop:156
+#: kcontrol/arts/arts.desktop:157
 msgid ""
 "Keywords=aRts,Sound Server,artsd,Audio,Sound,startup,network "
 "transparency,transparency,priority,duplex,full duplex,response "
@@ -2056,7 +2056,7 @@ msgstr "Name=Asyaq"
 msgid "Comment=Change the background settings"
 msgstr "Comment=Asyaq caylawın üzgärtü"
 
-#: kcontrol/background/background.desktop:162
+#: kcontrol/background/background.desktop:163
 msgid ""
 "Keywords=background,desktops,colors,colours,images,wallpapers,blending,balance,"
 "cache,multiple wallpapers,pixmap"
@@ -2170,7 +2170,7 @@ msgid ""
 msgstr ""
 "Comment=SSL, tanıqlıqlar, şulay uq başqa serläw çaraların caylaw üzäge bu"
 
-#: kcontrol/crypto/crypto.desktop:148
+#: kcontrol/crypto/crypto.desktop:147
 msgid ""
 "Keywords=Crypto,Krypto,Cryptography,encryption,SSL,https,certificates,ciphers,"
 "TLS,secure,security"
@@ -2186,7 +2186,7 @@ msgstr "Name=Bizütabaq"
 msgid "Comment=Configure the stylesheets used to render web pages"
 msgstr "Comment=Web-bitlär eşkärtkändä qullanıla torğan tışlaw caylawları"
 
-#: kcontrol/css/kcmcss.desktop:152
+#: kcontrol/css/kcmcss.desktop:153
 msgid "Keywords=CSS,HTML,style,stylesheet,accessibility"
 msgstr "Keywords=CSS,HTML,style,stylesheet,accessibility"
 
@@ -2218,7 +2218,7 @@ msgstr "Name=Web Qısqartmaları"
 msgid "Comment=Configure enhanced browsing"
 msgstr "Comment=Köçäytelgän gizü caylawı"
 
-#: kcontrol/ebrowsing/ebrowsing.desktop:156
+#: kcontrol/ebrowsing/ebrowsing.desktop:157
 msgid ""
 "Keywords=Enhanced Browsing,Browsing,WWW,Internet,Internet Keywords,Internet "
 "Filters,Network,Search Engines,Shortcuts"
@@ -2421,7 +2421,7 @@ msgid "Name=dict.cc Translation: German to English"
 msgstr "Name=dict.cc Tärcemä: Almança -› İnglizçä"
 
 #: kcontrol/ebrowsing/plugins/ikws/searchproviders/de2en.desktop:57
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/en2de.desktop:60
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/en2de.desktop:59
 msgid "Query=http://www.dict.cc/?s=\\\\{@}"
 msgstr "Query=http://www.dict.cc/?s=\\\\{@}"
 
@@ -3474,7 +3474,7 @@ msgstr "Comment=Taqta urnaşıluın köyläw urını"
 #: kcontrol/kicker/kicker_config.desktop:148
 #: kcontrol/kicker/kicker_config_appearance.desktop:159
 #: kcontrol/kicker/kicker_config_arrangement.desktop:135
-#: kcontrol/kicker/kicker_config_hiding.desktop:121
+#: kcontrol/kicker/kicker_config_hiding.desktop:122
 #: kcontrol/kicker/kicker_config_menus.desktop:118
 #: kcontrol/kicker/panel.desktop:150
 msgid ""
@@ -3506,7 +3506,7 @@ msgstr "Name=Urınlaşu"
 msgid "Name=Hiding"
 msgstr "Name=Yäşerü"
 
-#: kcontrol/kicker/kicker_config_hiding.desktop:67
+#: kcontrol/kicker/kicker_config_hiding.desktop:68
 msgid "Comment=You can configure the hiding of the panel here"
 msgstr "Comment=Taqtanıñ yäşerelüen caylaw urını"
 
@@ -3558,7 +3558,7 @@ msgstr "Name=Cirle Çeltärne Küzläw"
 msgid "Comment=Setup lisa, reslisa and the ioslaves"
 msgstr "Comment=lisa, reslisa, ioslaves caylawları"
 
-#: kcontrol/kio/lanbrowser.desktop:150
+#: kcontrol/kio/lanbrowser.desktop:151
 msgid "Keywords=samba,smb,windows,network"
 msgstr "Keywords=samba,smb,windows,network"
 
@@ -3895,7 +3895,7 @@ msgstr "Name=Konsole"
 msgid "Comment=Konsole configuration module"
 msgstr "Comment=Konsol caylaw modulı"
 
-#: kcontrol/konsole/kcmkonsole.desktop:116
+#: kcontrol/konsole/kcmkonsole.desktop:117
 msgid ""
 "Keywords=konsole,schema,konsole background,colors,background,terminal "
 "application,terminal"
@@ -4190,7 +4190,7 @@ msgstr "Name=Sessi İdäräçe"
 msgid "Comment=Configure the session manager and logout settings"
 msgstr "Comment=Sessi idäräçen belän kerü/çığu tärtiben caylaw"
 
-#: kcontrol/smserver/kcmsmserver.desktop:157
+#: kcontrol/smserver/kcmsmserver.desktop:158
 msgid "Keywords=ksmserver,session,logout,confirmation,save,restore"
 msgstr "Keywords=ksmserver,session,logout,confirmation,save,restore"
 
@@ -4233,7 +4233,7 @@ msgstr "Name=Qoraltirä"
 msgid "Comment=Configure the panel taskbar"
 msgstr "Comment=Eşlärtirä taqtasın caylaw"
 
-#: kcontrol/taskbar/kcmtaskbar.desktop:147
+#: kcontrol/taskbar/kcmtaskbar.desktop:148
 msgid "Keywords=kicker,panel,kpanel,taskbar,startbar,launchbar,windows"
 msgstr "Keywords=kicker,panel,kpanel,taskbar,startbar,launchbar,windows"
 
@@ -4245,7 +4245,7 @@ msgstr "Name=USB Cıhazlar"
 msgid "Comment=View the USB devices attached to this computer"
 msgstr "Comment=Bu sanaqqa totaşqan USB cıhazlarnı qaraw"
 
-#: kcontrol/usbview/kcmusb.desktop:158
+#: kcontrol/usbview/kcmusb.desktop:159
 msgid "Keywords=USB,devices,viewer,control"
 msgstr "Keywords=USB,devices,viewer,control"
 
@@ -4257,7 +4257,7 @@ msgstr "Name=IEEE 1394 Cıhazları"
 msgid "Comment=View the IEEE 1394 devices attached to this computer"
 msgstr "Comment=Bu sanaqqa totaşqan IEEE 1394 cıhazlarnı qaraw"
 
-#: kcontrol/view1394/kcmview1394.desktop:142
+#: kcontrol/view1394/kcmview1394.desktop:143
 msgid "Keywords=1394,Firewire,devices,viewer,control"
 msgstr "Keywords=1394,Firewire,devices,viewer,control"
 
@@ -4269,7 +4269,7 @@ msgstr "Name=Berniçä Küräk"
 msgid "Comment=Configure KDE for multiple monitors"
 msgstr "Comment=KDE'nıñ berniçä küräk belän eşläw caylawı"
 
-#: kcontrol/xinerama/xinerama.desktop:137
+#: kcontrol/xinerama/xinerama.desktop:138
 msgid "Keywords=Xinerama,dual head,multihead,monitor"
 msgstr "Keywords=Xinerama,dual head,multihead,monitor"
 
@@ -5137,11 +5137,11 @@ msgstr "Name=KHotKeys"
 msgid "Name=Input Actions"
 msgstr "Name=Kertü Ğämälläre"
 
-#: khotkeys/kcontrol/khotkeys.desktop:64
+#: khotkeys/kcontrol/khotkeys.desktop:65
 msgid "Comment=Configure Hotkey settings"
 msgstr "Comment=Qaynar töymälärne caylaw"
 
-#: khotkeys/kcontrol/khotkeys.desktop:124
+#: khotkeys/kcontrol/khotkeys.desktop:125
 msgid "Keywords=Keys,Global key bindings,Key bindings,Gestures,Mouse gestures"
 msgstr "Keywords=Keys,Global key bindings,Key bindings,Gestures,Mouse gestures"
 
@@ -6706,7 +6706,7 @@ msgstr "Name=Küçerü"
 msgid "Comment=Configure the way that windows are moved"
 msgstr "Comment=Täräzä küçerü ısulın caylaw"
 
-#: kwin/kcmkwin/kwinoptions/kwinmoving.desktop:151
+#: kwin/kcmkwin/kwinoptions/kwinmoving.desktop:152
 msgid "Keywords=moving,smart,cascade,maximize,maximise,snap zone,snap,border"
 msgstr "Keywords=moving,smart,cascade,maximize,maximise,snap zone,snap,border"
 
@@ -6730,11 +6730,11 @@ msgstr ""
 msgid "Name=Translucency"
 msgstr "Name=Ütäkürenü"
 
-#: kwin/kcmkwin/kwinoptions/kwintranslucency.desktop:67
+#: kwin/kcmkwin/kwinoptions/kwintranslucency.desktop:68
 msgid "Comment=Configure window translucency and shadow management"
 msgstr "Comment=Täräzä ütäkürenüe belän külägäsen caylaw"
 
-#: kwin/kcmkwin/kwinoptions/kwintranslucency.desktop:122
+#: kwin/kcmkwin/kwinoptions/kwintranslucency.desktop:123
 msgid "Keywords=translucency,transparence,shadows"
 msgstr "Keywords=translucency,transparence,shadows"
 
