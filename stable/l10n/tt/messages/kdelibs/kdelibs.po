@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-10-01 02:35+0200\n"
+"POT-Creation-Date: 2006-10-03 02:33+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -7408,7 +7408,7 @@ msgstr "uqıp çıqqanda ütmäslek xata: %1, %2 yulında, %3 buyında"
 msgid "XML parsing error"
 msgstr "XML eçtälege xatalı"
 
-#: khtml/xml/dom_docimpl.cpp:2009
+#: khtml/xml/dom_docimpl.cpp:2011
 msgid "Basic Page Style"
 msgstr "Üz Bizäleşe"
 

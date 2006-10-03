@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kfileaudiopreview\n"
-"POT-Creation-Date: 2005-05-18 21:23+0200\n"
+"POT-Creation-Date: 2006-10-03 02:33+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,10 +12,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: kfileaudiopreview.cpp:65
+#: kfileaudiopreview.cpp:67
 msgid "Media Player"
 msgstr "Media Uynatqıç"
 
-#: kfileaudiopreview.cpp:91
+#: kfileaudiopreview.cpp:93
 msgid "Play &automatically"
 msgstr "Üz-üzennän uyní başlísı"

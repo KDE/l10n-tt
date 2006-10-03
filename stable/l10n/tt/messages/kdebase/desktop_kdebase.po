@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-10-02 00:47+0000\n"
+"POT-Creation-Date: 2006-10-03 00:47+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -1044,13 +1044,13 @@ msgstr "GenericName=Törgäklärne Çordaşlaw"
 msgid "Name=Evolution"
 msgstr "Name=Üseş"
 
-#: kappfinder/apps/Internet/Evolution.desktop:19
+#: kappfinder/apps/Internet/Evolution.desktop:18
 #: kappfinder/apps/Internet/Netscapemessenger.desktop:31
 #: kappfinder/apps/Internet/Sylpheed.desktop:9
 #: kappfinder/apps/Internet/Terminal/mutt.desktop:12
 #: kappfinder/apps/Internet/Terminal/pine.desktop:17
 #: kappfinder/apps/Internet/balsa.desktop:12
-#: kappfinder/apps/Internet/mozilla-thunderbird.desktop:15
+#: kappfinder/apps/Internet/mozilla-thunderbird.desktop:16
 #: kappfinder/apps/Internet/xfmail.desktop:19
 msgid "GenericName=Mail Client"
 msgstr "GenericName=Xat Kliente"
@@ -1077,7 +1077,7 @@ msgstr "GenericName=Fetchmail Caylawı"
 msgid "Name=Gabber"
 msgstr "Name=Gabber"
 
-#: kappfinder/apps/Internet/Gabber.desktop:13
+#: kappfinder/apps/Internet/Gabber.desktop:12
 #: kappfinder/apps/Internet/gaim.desktop:10
 msgid "GenericName=Instant Messenger"
 msgstr "GenericName=Aşığıç Xäbärçe"
@@ -1092,11 +1092,11 @@ msgstr "Name=Galeon"
 #: kappfinder/apps/Internet/Terminal/w3m.desktop:9
 #: kappfinder/apps/Internet/arena.desktop:21
 #: kappfinder/apps/Internet/epiphany.desktop:15
-#: kappfinder/apps/Internet/mozilla-firefox.desktop:15
-#: kappfinder/apps/Internet/mozilla.desktop:16
+#: kappfinder/apps/Internet/mozilla-firefox.desktop:16
+#: kappfinder/apps/Internet/mozilla.desktop:17
 #: kappfinder/apps/Internet/netscape.desktop:18
 #: kappfinder/apps/Internet/netscape6.desktop:29
-#: kappfinder/apps/Internet/opera.desktop:14 konqueror/konqbrowser.desktop:19
+#: kappfinder/apps/Internet/opera.desktop:15 konqueror/konqbrowser.desktop:19
 msgid "GenericName=Web Browser"
 msgstr "GenericName=Web Browser"
 
@@ -1388,7 +1388,7 @@ msgstr "GenericName=Alsa Mixer Yözarası"
 msgid "Name=Audacity"
 msgstr "Name=Audacity"
 
-#: kappfinder/apps/Multimedia/audacity.desktop:13
+#: kappfinder/apps/Multimedia/audacity.desktop:12
 #: kappfinder/apps/Multimedia/rezound.desktop:8
 #: kappfinder/apps/Multimedia/sweep.desktop:16
 msgid "GenericName=Audio Editor"
@@ -1603,7 +1603,7 @@ msgstr "Name=AbiWord"
 msgid "Name=Acrobat Reader"
 msgstr "Name=Acrobat Reader"
 
-#: kappfinder/apps/Office/acroread.desktop:34
+#: kappfinder/apps/Office/acroread.desktop:33
 #: kappfinder/apps/Office/xpdf.desktop:14
 msgid "GenericName=PDF Viewer"
 msgstr "GenericName=PDF Kürsätkeç"
@@ -1808,7 +1808,7 @@ msgid "Name=Calctool"
 msgstr "Name=Calctool"
 
 #: kappfinder/apps/Utilities/calctool.desktop:25
-#: kappfinder/apps/Utilities/xutils/xcalc.desktop:36
+#: kappfinder/apps/Utilities/xutils/xcalc.desktop:37
 msgid "GenericName=Calculator"
 msgstr "GenericName=Sansanaq"
 
@@ -1857,7 +1857,7 @@ msgstr "GenericName=Küräk Yañartqıç"
 msgid "Name=X Traceroute"
 msgstr "Name=X Traceroute"
 
-#: kappfinder/apps/Utilities/xutils/Xtraceroute.desktop:14
+#: kappfinder/apps/Utilities/xutils/Xtraceroute.desktop:15
 msgid "GenericName=Network Tool"
 msgstr "GenericName=Çeltär Qoralı"
 
@@ -2164,13 +2164,13 @@ msgstr ""
 msgid "Name=Crypto"
 msgstr "Name=Serläw"
 
-#: kcontrol/crypto/crypto.desktop:75
+#: kcontrol/crypto/crypto.desktop:76
 msgid ""
 "Comment=Configure SSL, manage certificates, and other cryptography settings"
 msgstr ""
 "Comment=SSL, tanıqlıqlar, şulay uq başqa serläw çaraların caylaw üzäge bu"
 
-#: kcontrol/crypto/crypto.desktop:148
+#: kcontrol/crypto/crypto.desktop:149
 msgid ""
 "Keywords=Crypto,Krypto,Cryptography,encryption,SSL,https,certificates,ciphers,"
 "TLS,secure,security"
@@ -3118,12 +3118,12 @@ msgstr "Keywords=icons,effects,size,hicolor,locolor"
 msgid "Name=CD-ROM Information"
 msgstr "Name=Beldermä"
 
-#: kcontrol/info/cdinfo.desktop:47
+#: kcontrol/info/cdinfo.desktop:48
 #, fuzzy
 msgid "Comment=CD/DVD Drive Capabilites"
 msgstr "Comment=DVD Video Disk"
 
-#: kcontrol/info/cdinfo.desktop:81
+#: kcontrol/info/cdinfo.desktop:83
 msgid "Keywords=CD-ROM Information,CD-ROM,CD,CD Drive,Writer Capabilities"
 msgstr ""
 
@@ -5369,7 +5369,7 @@ msgstr "Comment=Bastıru sistemenä ciñel ireşü"
 msgid "Name=Konqueror Profiles"
 msgstr "Name=Konqueror Caybireme"
 
-#: kicker/menuext/konq-profiles/konquerormenu.desktop:65
+#: kicker/menuext/konq-profiles/konquerormenu.desktop:66
 #, fuzzy
 msgid "Comment=Menu for accessing the Konqueror profiles"
 msgstr "Comment=Konqueror caybiremnärenä ciñel ireşü"
@@ -5432,7 +5432,7 @@ msgstr "Name=CGI Ämerleklär"
 msgid "Comment=Configure the CGI KIO slave"
 msgstr "Comment=CGI KIO slave caylawı"
 
-#: kioslave/cgi/kcmcgi/kcmcgi.desktop:148
+#: kioslave/cgi/kcmcgi/kcmcgi.desktop:149
 msgid "Keywords=CGI,KIO,Slave,Paths"
 msgstr "Keywords=CGI,KIO,Slave,Paths"
 

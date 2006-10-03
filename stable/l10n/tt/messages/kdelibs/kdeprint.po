@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdeprint\n"
-"POT-Creation-Date: 2006-09-21 02:34+0200\n"
+"POT-Creation-Date: 2006-10-03 02:34+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2854,53 +2854,53 @@ msgstr "Özderelde"
 msgid "Completed"
 msgstr "Uzdı"
 
-#: tools/escputil/escpwidget.cpp:44
+#: tools/escputil/escpwidget.cpp:45
 msgid "EPSON InkJet Printer Utilities"
 msgstr "EPSON InkJet Basaq Qoralları"
 
-#: tools/escputil/escpwidget.cpp:90
+#: tools/escputil/escpwidget.cpp:91
 msgid "&Use direct connection (might need root permissions)"
 msgstr "Turı totaşu &qullanası (roor xoquqlarının kiräk buluı bar)"
 
-#: management/kmwsmb.cpp:46 tools/escputil/escpwidget.cpp:98
+#: management/kmwsmb.cpp:46 tools/escputil/escpwidget.cpp:99
 msgid "Printer:"
 msgstr "Basaq:"
 
 #: management/kminfopage.cpp:54 management/kminfopage.cpp:93
-#: tools/escputil/escpwidget.cpp:100
+#: tools/escputil/escpwidget.cpp:101
 msgid "Device:"
 msgstr "Cıhaz:"
 
-#: tools/escputil/escpwidget.cpp:102
+#: tools/escputil/escpwidget.cpp:103
 msgid "Clea&n print head"
 msgstr "Bastıru başlığın &buşat"
 
-#: tools/escputil/escpwidget.cpp:103
+#: tools/escputil/escpwidget.cpp:104
 msgid "&Print a nozzle test pattern"
 msgstr "Enälär sınawçı surät &bastıru"
 
-#: tools/escputil/escpwidget.cpp:104
+#: tools/escputil/escpwidget.cpp:105
 msgid "&Align print head"
 msgstr "Bastıru başın &urınlaştır"
 
-#: tools/escputil/escpwidget.cpp:105
+#: tools/escputil/escpwidget.cpp:106
 msgid "&Ink level"
 msgstr "&Buyaw qalu"
 
-#: tools/escputil/escpwidget.cpp:106
+#: tools/escputil/escpwidget.cpp:107
 msgid "P&rinter identification"
 msgstr "B&asaq bilgelänüe"
 
-#: tools/escputil/escpwidget.cpp:152
+#: tools/escputil/escpwidget.cpp:153
 msgid "Internal error: no device set."
 msgstr "Eçke xata: quyılğan cıhazlar yuq."
 
-#: tools/escputil/escpwidget.cpp:163
+#: tools/escputil/escpwidget.cpp:164
 #, c-format
 msgid "Unsupported connection type: %1"
 msgstr "Totaşılu öçen totılmağan ısul: %1"
 
-#: tools/escputil/escpwidget.cpp:170
+#: tools/escputil/escpwidget.cpp:171
 msgid ""
 "An escputil process is still running. You must wait until its completion before "
 "continuing."
@@ -2908,7 +2908,7 @@ msgstr ""
 "Escputil eşlänü haman da eştä. Dawam itü aldınnan anıñ bulğanın kötep alası bar "
 "äle."
 
-#: tools/escputil/escpwidget.cpp:178
+#: tools/escputil/escpwidget.cpp:179
 msgid ""
 "The executable escputil cannot be found in your PATH environment variable. Make "
 "sure gimp-print is installed and that escputil is in your PATH."
@@ -2916,15 +2916,15 @@ msgstr ""
 "Escputil eşçänen biredäge PATH aşa tabıp bulmí. Gimp-print yazılımınıñ "
 "quyıluın, escputil'ne biredäge PATH aşa tabırlıq buluın tikşerep alası bar."
 
-#: tools/escputil/escpwidget.cpp:203
+#: tools/escputil/escpwidget.cpp:204
 msgid "Internal error: unable to start escputil process."
 msgstr "Eçke xata: escputil yazılımın cibärep bulmí."
 
-#: tools/escputil/escpwidget.cpp:213
+#: tools/escputil/escpwidget.cpp:214
 msgid "Operation terminated with errors."
 msgstr "Eşlätü xatalar belän tuqtatılğan."
 
-#: kpfilterpage.cpp:409 tools/escputil/escpwidget.cpp:216
+#: kpfilterpage.cpp:409 tools/escputil/escpwidget.cpp:217
 msgid "Output"
 msgstr "Çığım"
 
