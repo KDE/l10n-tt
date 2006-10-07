@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase clockapplet\n"
-"POT-Creation-Date: 2006-09-12 02:35+0200\n"
+"POT-Creation-Date: 2006-10-07 02:33+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -348,7 +348,7 @@ msgstr "Alışu&kesä eçenä Al"
 msgid "&Configure Clock..."
 msgstr "Säğät &Caylaw..."
 
-#: clock.cpp:1806
+#: clock.cpp:1807
 #, c-format
 msgid "Showing time for %1"
 msgstr "%1 kürsätü tapqırı"

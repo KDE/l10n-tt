@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kay\n"
-"POT-Creation-Date: 2006-08-07 04:00+0200\n"
+"POT-Creation-Date: 2006-10-07 02:32+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -34,16 +34,16 @@ msgstr ""
 msgid "Autoopen - %1"
 msgstr ""
 
-#: notificationdialog.cpp:35
+#: notificationdialog.cpp:36
 msgid "Medium Detected"
 msgstr "Cıhaz Tabıldı"
 
-#: notificationdialog.cpp:44
+#: notificationdialog.cpp:45
 #, fuzzy
 msgid "<b>Medium type:</b>"
 msgstr "<b>Cıhaz Töre:</b>"
 
-#: notificationdialog.cpp:58
+#: notificationdialog.cpp:59
 msgid "Configure..."
 msgstr ""
 
