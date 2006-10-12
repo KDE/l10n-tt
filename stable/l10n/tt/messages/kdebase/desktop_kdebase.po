@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-10-03 00:47+0000\n"
+"POT-Creation-Date: 2006-10-12 00:49+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -123,7 +123,7 @@ msgstr "Name=Östäl Uyını"
 msgid "Name=Card Games"
 msgstr "Name=Kard Uyını"
 
-#: applnk/kde-games-kidsgames.directory:4
+#: applnk/kde-games-kids.directory:4
 msgid "Name=Games for Kids"
 msgstr "Name=Bala Uyını"
 
