@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdesktop\n"
-"POT-Creation-Date: 2006-09-28 02:34+0200\n"
+"POT-Creation-Date: 2006-10-13 02:33+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -208,15 +208,15 @@ msgstr ""
 "%1 törgägen yasap bulmí; yä bulğan xoquqlarnı tikşeräse, yä bu östäl öçen başqa "
 "yul bilgelise."
 
-#: kdiconview.cc:434
+#: kdiconview.cc:437
 msgid "&Rename"
 msgstr "&İsem quş"
 
-#: kdiconview.cc:435
+#: kdiconview.cc:438
 msgid "&Properties"
 msgstr "&Üzençälege"
 
-#: kdiconview.cc:436
+#: kdiconview.cc:439
 msgid "&Move to Trash"
 msgstr "Çüpkä &Küçer"
 
