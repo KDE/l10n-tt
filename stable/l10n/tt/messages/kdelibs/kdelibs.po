@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-10-03 02:33+0200\n"
+"POT-Creation-Date: 2006-10-15 02:34+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -7396,19 +7396,19 @@ msgstr "KHTML"
 msgid "Embeddable HTML component"
 msgstr "HTML öçen kertelmäle komponent"
 
-#: khtml/xml/xml_tokenizer.cpp:314
+#: khtml/xml/xml_tokenizer.cpp:312
 msgid "the document is not in the correct file format"
 msgstr "bu istälek biremeneñ tözeleşe bozıq"
 
-#: khtml/xml/xml_tokenizer.cpp:320
+#: khtml/xml/xml_tokenizer.cpp:318
 msgid "fatal parsing error: %1 in line %2, column %3"
 msgstr "uqıp çıqqanda ütmäslek xata: %1, %2 yulında, %3 buyında"
 
-#: khtml/xml/xml_tokenizer.cpp:481
+#: khtml/xml/xml_tokenizer.cpp:477
 msgid "XML parsing error"
 msgstr "XML eçtälege xatalı"
 
-#: khtml/xml/dom_docimpl.cpp:2011
+#: khtml/xml/dom_docimpl.cpp:2069
 msgid "Basic Page Style"
 msgstr "Üz Bizäleşe"
 
@@ -7583,7 +7583,7 @@ msgstr ""
 "<p>%1</p> biten gizgeçneñ yaña täräzäsendä açmaqçı bula.<br />"
 "Aña bonı eşlärgä biräseme?</qt>"
 
-#: khtml/html/htmlparser.cpp:1706
+#: khtml/html/htmlparser.cpp:1702
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "Ezläp bulğan töp isemlek bu. Ezlise süz kertü: "
 
