@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs knotify\n"
-"POT-Creation-Date: 2005-06-14 01:24+0200\n"
+"POT-Creation-Date: 2006-10-19 02:33+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,27 +12,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: knotify.cpp:97
+#: knotify.cpp:108
 msgid "KNotify"
 msgstr "KNotify"
 
-#: knotify.cpp:98
+#: knotify.cpp:109
 msgid "KDE Notification Server"
 msgstr "KDE'neñ Beldergeç Xezmäte"
 
-#: knotify.cpp:100
+#: knotify.cpp:111
 msgid "Current Maintainer"
 msgstr "Xäzerge Qatnaşuçı"
 
-#: knotify.cpp:102
+#: knotify.cpp:113
 msgid "Sound support"
 msgstr "Tawış totu"
 
-#: knotify.cpp:103
+#: knotify.cpp:114
 msgid "Previous Maintainer"
 msgstr "Aldağı Yärdämçe"
 
-#: knotify.cpp:139
+#: knotify.cpp:151
 msgid ""
 "During the previous startup, KNotify crashed while creating Arts::Dispatcher. "
 "Do you want to try again or disable aRts sound output?\n"
@@ -46,19 +46,19 @@ msgstr ""
 "aRts tawış çığarunı sünderü saylansa, soñraq anı kire açıp bula, yä inde, "
 "Sistem Beldermä idäräsendä başqa tawış-uynatqıç saylap bula."
 
-#: knotify.cpp:145 knotify.cpp:184
+#: knotify.cpp:157 knotify.cpp:196
 msgid "KNotify Problem"
 msgstr "KNotify Qıyınlığı"
 
-#: knotify.cpp:146 knotify.cpp:185
+#: knotify.cpp:158 knotify.cpp:197
 msgid "&Try Again"
 msgstr "&Tağın Qara"
 
-#: knotify.cpp:147 knotify.cpp:186
+#: knotify.cpp:159 knotify.cpp:198
 msgid "D&isable aRts Output"
 msgstr "&aRts Çığarışın Sünderäse"
 
-#: knotify.cpp:178
+#: knotify.cpp:190
 msgid ""
 "During the previous startup, KNotify crashed while instantiating KNotify. Do "
 "you want to try again or disable aRts sound output?\n"
@@ -72,15 +72,15 @@ msgstr ""
 "aRts tawış çığarunı sünderü saylansa, soñraq anı kire açıp bula, yä inde, "
 "Sistem Beldermä idäräsendä başqa tawış-uynatqıç saylap bula."
 
-#: knotify.cpp:547
+#: knotify.cpp:573
 msgid "Notification"
 msgstr "Beldermä"
 
-#: knotify.cpp:556
+#: knotify.cpp:582
 msgid "Catastrophe!"
 msgstr "Bälä-qaza!"
 
-#: knotify.cpp:755
+#: knotify.cpp:787
 msgid "KDE System Notifications"
 msgstr "KDE'nıñ Sistem Beldermäläre"
 
