@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-10-02 00:47+0000\n"
+"POT-Creation-Date: 2006-10-21 00:48+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -1235,11 +1235,11 @@ msgstr "Name=PDF Birem Cibärü"
 msgid "Comment=KSendFax"
 msgstr "Comment=KSendFax"
 
-#: kdeprint/specials.desktop:950
+#: kdeprint/specials.desktop:949
 msgid "Description=Use ksendfax to fax the current document"
 msgstr "Description=Biredäge istälekne fakslaw öçen ksendfax qullanu"
 
-#: kdeprint/specials.desktop:1027
+#: kdeprint/specials.desktop:1026
 msgid "Name=Advanced Faxing Tool (ksendfax)"
 msgstr "Name=Faks Cibärü Qoralı (ksendfax)"
 
