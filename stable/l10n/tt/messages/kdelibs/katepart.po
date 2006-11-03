@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs katepart\n"
-"POT-Creation-Date: 2006-10-31 02:33+0100\n"
+"POT-Creation-Date: 2006-11-03 02:33+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -3675,7 +3675,7 @@ msgid ""
 "Perl"
 msgstr "Perl"
 
-#. i18n: file data/php.xml line 9
+#. i18n: file data/php.xml line 21
 #: rc.cpp:368
 msgid ""
 "_: Language\n"
