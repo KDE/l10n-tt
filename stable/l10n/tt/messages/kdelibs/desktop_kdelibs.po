@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-10-24 00:48+0000\n"
+"POT-Creation-Date: 2006-11-04 01:48+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -1020,15 +1020,15 @@ msgstr "Comment=Kisätü xäbäre kürsätelä"
 msgid "Name=Critical message"
 msgstr "Name=Kisken xäl xäbäre"
 
-#: kdecore/eventsrc:2176
+#: kdecore/eventsrc:2175
 msgid "Comment=A critical message is being shown"
 msgstr "Comment=Kisken xäl xäbäre kürsätelä"
 
-#: kdecore/eventsrc:2252
+#: kdecore/eventsrc:2250
 msgid "Name=Question"
 msgstr "Name=Soraw"
 
-#: kdecore/eventsrc:2323
+#: kdecore/eventsrc:2321
 msgid "Comment=A question is being asked"
 msgstr "Comment=Ber soraw birelde"
 
@@ -1453,7 +1453,7 @@ msgstr "Comment=Bu proxy caylaw ämerlegen iñderep bulmadı"
 msgid "Name=Script evaluation error"
 msgstr "Name=Ämerlek eçtälegen uqığanda xata çıqtı"
 
-#: kio/misc/kpac/eventsrc:411
+#: kio/misc/kpac/eventsrc:410
 msgid "Comment=There was an error executing the proxy configuration script"
 msgstr "Comment=Proxy caylaw ämerelegen eşlätkändä xata çıqtı"
 
