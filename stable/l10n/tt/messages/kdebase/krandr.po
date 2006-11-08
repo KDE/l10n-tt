@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase krandr\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2006-11-08 02:34+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -160,19 +160,19 @@ msgstr "Bulışuçı"
 msgid "Many fixes"
 msgstr "Küp tözätmä"
 
-#: randr.cpp:161
+#: randr.cpp:159
 msgid "Confirm Display Setting Change"
 msgstr "Küreneş Caylaw Üzgärtüen Raslaw"
 
-#: randr.cpp:165
+#: randr.cpp:163
 msgid "&Accept Configuration"
 msgstr "Caylawnı &Alası"
 
-#: randr.cpp:166
+#: randr.cpp:164
 msgid "&Return to Previous Configuration"
 msgstr "Üzğan Caylawğa &Qayt"
 
-#: randr.cpp:168
+#: randr.cpp:166
 msgid ""
 "Your screen orientation, size and refresh rate have been changed to the "
 "requested settings. Please indicate whether you wish to keep this "
@@ -181,7 +181,7 @@ msgstr ""
 "Küräkneñ yünälü, ülçäm, yışlıq köylämäläre üzgärtelgän buldı. Alarnı saqlísı "
 "bulsa, endäşergä kiräk. 15 sekund uzğannan soñ iske köyläwlär qaytarılır."
 
-#: randr.cpp:196
+#: randr.cpp:197
 msgid ""
 "New configuration:\n"
 "Resolution: %1 x %2\n"
@@ -191,7 +191,7 @@ msgstr ""
 "Adımlıq: %1 x %2\n"
 "Yünälü: %3"
 
-#: randr.cpp:201
+#: randr.cpp:202
 msgid ""
 "New configuration:\n"
 "Resolution: %1 x %2\n"
@@ -203,75 +203,75 @@ msgstr ""
 "Yünälü: %3\n"
 "Yañaru yışlığı: %4"
 
-#: randr.cpp:230 randr.cpp:247
+#: randr.cpp:231 randr.cpp:248
 msgid "Normal"
 msgstr "Ğädäti"
 
-#: randr.cpp:232
+#: randr.cpp:233
 msgid "Left (90 degrees)"
 msgstr "Sulğa (90 gradus)"
 
-#: randr.cpp:234
+#: randr.cpp:235
 msgid "Upside-down (180 degrees)"
 msgstr "Östän-asqa (180 gradus)"
 
-#: randr.cpp:236
+#: randr.cpp:237
 msgid "Right (270 degrees)"
 msgstr "Uñğa (270 gradus)"
 
-#: randr.cpp:238
+#: randr.cpp:239
 msgid "Mirror horizontally"
 msgstr "Arqılıdan közgelä"
 
-#: randr.cpp:240
+#: randr.cpp:241
 msgid "Mirror vertically"
 msgstr "Buydan közgelä"
 
-#: randr.cpp:242 randr.cpp:273
+#: randr.cpp:243 randr.cpp:274
 msgid "Unknown orientation"
 msgstr "Bilgesez yünälü"
 
-#: randr.cpp:249
+#: randr.cpp:250
 msgid "Rotated 90 degrees counterclockwise"
 msgstr "Säğät yöreşe buyınça 90 gradusqa borılğan"
 
-#: randr.cpp:251
+#: randr.cpp:252
 msgid "Rotated 180 degrees counterclockwise"
 msgstr "Säğät yöreşe buyınça 180 gradusqa borılğan"
 
-#: randr.cpp:253
+#: randr.cpp:254
 msgid "Rotated 270 degrees counterclockwise"
 msgstr "Säğät yöreşe buyınça 270 gradusqa borılğan"
 
-#: randr.cpp:258
+#: randr.cpp:259
 msgid "Mirrored horizontally and vertically"
 msgstr "Arqılıdan da, buydan da közgelände"
 
-#: randr.cpp:260
+#: randr.cpp:261
 msgid "mirrored horizontally and vertically"
 msgstr "yatma belän asma buyınça közge"
 
-#: randr.cpp:263
+#: randr.cpp:264
 msgid "Mirrored horizontally"
 msgstr "Arqılıdan közgelände"
 
-#: randr.cpp:265
+#: randr.cpp:266
 msgid "mirrored horizontally"
 msgstr "yatma buyınça közge"
 
-#: randr.cpp:268
+#: randr.cpp:269
 msgid "Mirrored vertically"
 msgstr "Buydan közgelände"
 
-#: randr.cpp:270
+#: randr.cpp:271
 msgid "mirrored vertically"
 msgstr "asma buyınça közge"
 
-#: randr.cpp:275
+#: randr.cpp:276
 msgid "unknown orientation"
 msgstr "bilgesez yünälü"
 
-#: randr.cpp:399 randr.cpp:404
+#: randr.cpp:400 randr.cpp:405
 msgid ""
 "_: Refresh rate in Hertz (Hz)\n"
 "%1 Hz"
