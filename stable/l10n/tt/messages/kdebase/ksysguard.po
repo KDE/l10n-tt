@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase ksysguard\n"
-"POT-Creation-Date: 2006-09-17 02:34+0200\n"
+"POT-Creation-Date: 2006-11-09 02:35+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -805,13 +805,13 @@ msgstr "Imlaw Cibär"
 msgid "Renice Process..."
 msgstr "Yök Östenlege..."
 
-#: SensorDisplayLib/ProcessList.cc:878
+#: SensorDisplayLib/ProcessList.cc:876
 msgid ""
 "_n: Do you really want to send signal %1 to the selected process?\n"
 "Do you really want to send signal %1 to the %n selected processes?"
 msgstr "Saylanğan %n yökneñ barısına da %1 ımlawın cibäräseme?"
 
-#: SensorDisplayLib/ProcessList.cc:882
+#: SensorDisplayLib/ProcessList.cc:880
 msgid "Send"
 msgstr "Cibär"
 
@@ -1255,11 +1255,11 @@ msgstr "Küpülçär Caylawı"
 msgid "List View Settings"
 msgstr "Tezmäne Caylaw"
 
-#: SensorDisplayLib/ReniceDlg.cc:31
+#: SensorDisplayLib/ReniceDlg.cc:32
 msgid "Renice Process"
 msgstr "Yök Östenlege"
 
-#: SensorDisplayLib/ReniceDlg.cc:41
+#: SensorDisplayLib/ReniceDlg.cc:40
 msgid ""
 "You are about to change the scheduling priority of\n"
 "process %1. Be aware that only the Superuser (root)\n"
