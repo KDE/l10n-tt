@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2006-10-18 02:30+0200\n"
+"POT-Creation-Date: 2006-11-13 02:33+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2342,31 +2342,31 @@ msgstr "%1 (Läñker)"
 
 #: ../kioslave/http/kcookiejar/kcookiewin.cpp:270
 #: bookmarks/kbookmarkmenu.cc:791 kfile/kpropertiesdialog.cpp:3910
-#: kio/kfileitem.cpp:765
+#: kio/kfileitem.cpp:766
 msgid "Name:"
 msgstr "İsem:"
 
-#: kfile/kpropertiesdialog.cpp:926 kio/kfileitem.cpp:766
+#: kfile/kpropertiesdialog.cpp:926 kio/kfileitem.cpp:767
 msgid "Type:"
 msgstr "Töre:"
 
-#: kio/kfileitem.cpp:770
+#: kio/kfileitem.cpp:771
 msgid "Link to %1 (%2)"
 msgstr "%1 öçen bäy (%2)"
 
-#: kfile/kpropertiesdialog.cpp:976 kio/kfileitem.cpp:778
+#: kfile/kpropertiesdialog.cpp:976 kio/kfileitem.cpp:779
 msgid "Size:"
 msgstr "Ülçäm:"
 
-#: kfile/kpropertiesdialog.cpp:1044 kio/kfileitem.cpp:783
+#: kfile/kpropertiesdialog.cpp:1044 kio/kfileitem.cpp:784
 msgid "Modified:"
 msgstr "Üzgärelde:"
 
-#: kio/kfileitem.cpp:789
+#: kio/kfileitem.cpp:790
 msgid "Owner:"
 msgstr "İäse:"
 
-#: kio/kfileitem.cpp:790
+#: kio/kfileitem.cpp:791
 msgid "Permissions:"
 msgstr "Xoquqlar:"
 
