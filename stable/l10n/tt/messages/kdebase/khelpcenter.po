@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase khelpcenter\n"
-"POT-Creation-Date: 2006-02-09 03:57+0100\n"
+"POT-Creation-Date: 2006-11-14 02:35+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -450,27 +450,27 @@ msgstr "Ezläw tezmäläre belän törgäkneñ yulı."
 msgid "Currently visible navigator tab"
 msgstr "Gizgeçneñ biredä kürengän tabağı"
 
-#: searchengine.cpp:75
+#: searchengine.cpp:76
 msgid "Error: No document type specified."
 msgstr "Xata: İstälek töre äytelmäde."
 
-#: searchengine.cpp:77
+#: searchengine.cpp:78
 msgid "Error: No search handler for document type '%1'."
 msgstr "Xata: '%1' törendä istälek ezläw öçen eşkärtkeçe yuq."
 
-#: searchengine.cpp:225
+#: searchengine.cpp:226
 msgid "Unable to initialize SearchHandler from file '%1'."
 msgstr "'%1' biremennän EzläwTotqıç äzerläp bulmadı."
 
-#: searchengine.cpp:239
+#: searchengine.cpp:240
 msgid "No valid search handler found."
 msgstr "Ezläw öçen yaraqlı totqıç tabılmadı."
 
-#: searchengine.cpp:305
+#: searchengine.cpp:306
 msgid "Search Results for '%1':"
 msgstr "'%1' öçen Tabılğanı:"
 
-#: searchengine.cpp:310
+#: searchengine.cpp:311
 msgid "Search Results"
 msgstr "Ezläw Näticäse"
 
