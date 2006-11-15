@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase khelpcenter\n"
-"POT-Creation-Date: 2006-11-14 02:35+0100\n"
+"POT-Creation-Date: 2006-11-15 02:35+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -450,27 +450,27 @@ msgstr "Ezläw tezmäläre belän törgäkneñ yulı."
 msgid "Currently visible navigator tab"
 msgstr "Gizgeçneñ biredä kürengän tabağı"
 
-#: searchengine.cpp:76
+#: searchengine.cpp:77
 msgid "Error: No document type specified."
 msgstr "Xata: İstälek töre äytelmäde."
 
-#: searchengine.cpp:78
+#: searchengine.cpp:79
 msgid "Error: No search handler for document type '%1'."
 msgstr "Xata: '%1' törendä istälek ezläw öçen eşkärtkeçe yuq."
 
-#: searchengine.cpp:226
+#: searchengine.cpp:227
 msgid "Unable to initialize SearchHandler from file '%1'."
 msgstr "'%1' biremennän EzläwTotqıç äzerläp bulmadı."
 
-#: searchengine.cpp:240
+#: searchengine.cpp:241
 msgid "No valid search handler found."
 msgstr "Ezläw öçen yaraqlı totqıç tabılmadı."
 
-#: searchengine.cpp:306
+#: searchengine.cpp:307
 msgid "Search Results for '%1':"
 msgstr "'%1' öçen Tabılğanı:"
 
-#: searchengine.cpp:311
+#: searchengine.cpp:312
 msgid "Search Results"
 msgstr "Ezläw Näticäse"
 
@@ -531,23 +531,23 @@ msgstr "Yuq"
 msgid "unknown"
 msgstr "bilgesez"
 
-#: view.cpp:110
+#: view.cpp:114
 msgid "Conquer your Desktop!"
 msgstr "Östäleñne ciñep al!"
 
-#: view.cpp:114
+#: view.cpp:118
 msgid "Help Center"
 msgstr "Yärdäm Üzäge"
 
-#: view.cpp:116
+#: view.cpp:120
 msgid "Welcome to the K Desktop Environment"
 msgstr "KDE'dä kürergä şatbız!"
 
-#: view.cpp:117
+#: view.cpp:121
 msgid "The KDE team welcomes you to user-friendly UNIX computing"
 msgstr "KDE eştörkeme qullanuda iptäşle bulğan UNIX tiräyağında kürergä şat"
 
-#: view.cpp:118
+#: view.cpp:122
 msgid ""
 "KDE is a powerful graphical desktop environment for UNIX workstations. A\n"
 "KDE desktop combines ease of use, contemporary functionality and outstanding\n"
@@ -558,58 +558,58 @@ msgstr ""
 "KDE östäle qullanuda da ciñel, eşli aluları da zamança, sızımlı\n"
 "bizäleşe buyınça da şäp."
 
-#: view.cpp:122
+#: view.cpp:126
 msgid "What is the K Desktop Environment?"
 msgstr "K Östäl Tiräyağı digäne ni ul?"
 
-#: view.cpp:123
+#: view.cpp:127
 msgid "Contacting the KDE Project"
 msgstr "KDE Projektı belän Elemtä"
 
-#: view.cpp:124
+#: view.cpp:128
 msgid "Supporting the KDE Project"
 msgstr "KDE Projektına yärdäm itü"
 
-#: view.cpp:125
+#: view.cpp:129
 msgid "Useful links"
 msgstr "Faydalı bäylär"
 
-#: view.cpp:126
+#: view.cpp:130
 msgid "Getting the most out of KDE"
 msgstr "KDE'ne osta qullanu ısulları"
 
-#: view.cpp:127
+#: view.cpp:131
 msgid "General Documentation"
 msgstr "Töp Qullanma"
 
-#: view.cpp:128
+#: view.cpp:132
 msgid "A Quick Start Guide to the Desktop"
 msgstr "Östäl öçen Tiz Başlaw Qullanması"
 
-#: view.cpp:129
+#: view.cpp:133
 msgid "KDE Users' guide"
 msgstr "KDE Qullanması"
 
-#: view.cpp:130
+#: view.cpp:134
 msgid "Frequently asked questions"
 msgstr "Yış birelgän sorawlar"
 
-#: view.cpp:131
+#: view.cpp:135
 msgid "Basic Applications"
 msgstr "Töp Yazılımnar"
 
-#: view.cpp:132
+#: view.cpp:136
 msgid "The Kicker Desktop Panel"
 msgstr "Kicker digän Östäl Tiräse"
 
-#: view.cpp:133
+#: view.cpp:137
 msgid "The KDE Control Center"
 msgstr "KDE İdärä Üzäge"
 
-#: view.cpp:134
+#: view.cpp:138
 msgid "The Konqueror File manager and Web Browser"
 msgstr "Konqueror atlı Birem Citäkçe dä Web Gizgeç"
 
-#: view.cpp:265
+#: view.cpp:269
 msgid "Copy Link Address"
 msgstr "Bäy Urının İskä al"
