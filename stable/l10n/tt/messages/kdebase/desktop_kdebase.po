@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-11-15 01:49+0000\n"
+"POT-Creation-Date: 2006-11-16 01:49+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -1930,16 +1930,6 @@ msgstr "Comment=Kate Östämäse"
 #: kate/data/kwrite.desktop:79
 msgid "Name=KWrite"
 msgstr "Name=KWrite"
-
-#: kate/sessionmenu/katesessionmenu.desktop:2
-#, fuzzy
-msgid "Name=Kate Session Menu"
-msgstr "Name=Sessi İdäräçe"
-
-#: kate/sessionmenu/katesessionmenu.desktop:3
-msgid ""
-"Comment=Allows you to open Kate with a specified session, or create a new one"
-msgstr ""
 
 #: kcontrol/access/eventsrc:3
 #, fuzzy
@@ -5371,6 +5361,16 @@ msgstr "Name=Birem Ezläw"
 #: kicker/menuext/find/websearch.desktop:8
 msgid "Name=Web Search"
 msgstr "Name=Web-Ezläw"
+
+#: kicker/menuext/kate/katesessionmenu.desktop:2
+#, fuzzy
+msgid "Name=Kate Session Menu"
+msgstr "Name=Sessi İdäräçe"
+
+#: kicker/menuext/kate/katesessionmenu.desktop:3
+msgid ""
+"Comment=Allows you to open Kate with a specified session, or create a new one"
+msgstr ""
 
 #: kicker/menuext/kdeprint/printmenu.desktop:3
 msgid "Name=Print System"
