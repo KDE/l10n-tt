@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdesktop\n"
-"POT-Creation-Date: 2006-10-13 02:33+0200\n"
+"POT-Creation-Date: 2006-11-24 02:34+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -109,22 +109,22 @@ msgstr "&Sälätlä"
 msgid "Start &New Session"
 msgstr "&Yaña Sessi Başla"
 
-#: lock/lockprocess.cc:712
+#: lock/lockprocess.cc:714
 msgid ""
 "Will not lock the session, as unlocking would be impossible:\n"
 msgstr ""
 "Bu sessine bikläp bulmí, çönki annan soñ anı kire açıp bulmas:\n"
 
-#: lock/lockprocess.cc:716
+#: lock/lockprocess.cc:718
 msgid "Cannot start <i>kcheckpass</i>."
 msgstr "<i>kcheckpass</i> yazılımın cibärep bulmí."
 
-#: lock/lockprocess.cc:717
+#: lock/lockprocess.cc:719
 msgid "<i>kcheckpass</i> is unable to operate. Possibly it is not SetUID root."
 msgstr ""
 "<i>kcheckpass</i> tieşleçä eşli almí. SetUID root'nıñ köylämägän buluı bar."
 
-#: lock/lockprocess.cc:760
+#: lock/lockprocess.cc:762
 msgid "No appropriate greeter plugin configured."
 msgstr "Sälämläw modulı caylanunı uzmağan."
 
