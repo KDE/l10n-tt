@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-11-28 01:49+0000\n"
+"POT-Creation-Date: 2006-11-29 01:48+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -5367,7 +5367,7 @@ msgstr "Name=Web-Ezläw"
 msgid "Name=Kate Session Menu"
 msgstr "Name=Sessi İdäräçe"
 
-#: kicker/menuext/kate/katesessionmenu.desktop:18
+#: kicker/menuext/kate/katesessionmenu.desktop:19
 msgid ""
 "Comment=Allows you to open Kate with a specified session, or create a new one"
 msgstr ""
@@ -6154,7 +6154,7 @@ msgstr "Name=Linux Konsole"
 msgid "Comment=New Linux Console"
 msgstr "Comment=Yaña Linux-Konsol"
 
-#: konsole/other/mc.desktop:24
+#: konsole/other/mc.desktop:25
 msgid "Comment=New Midnight Commander"
 msgstr "Comment=Yaña Midnight Commander"
 
@@ -6186,7 +6186,7 @@ msgstr "Comment=Yaña Root Qabığı"
 msgid "Name=Root Midnight Commander"
 msgstr "Name=Root Midnight Commander"
 
-#: konsole/other/sumc.desktop:60
+#: konsole/other/sumc.desktop:61
 msgid "Comment=New Root Midnight Commander"
 msgstr "Comment=Yaña Midnight Commander (root ısulı)"
 
