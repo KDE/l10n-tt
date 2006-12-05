@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase ksysguard\n"
-"POT-Creation-Date: 2006-11-28 02:35+0100\n"
+"POT-Creation-Date: 2006-12-05 02:35+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,12 +12,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: KSysGuardApplet.cc:313 WorkSheet.cc:94
+#: KSysGuardApplet.cc:318 WorkSheet.cc:94
 #, c-format
 msgid "Cannot open the file %1."
 msgstr "Bu biremne açıp bulmadı: %1"
 
-#: KSysGuardApplet.cc:322 WorkSheet.cc:102
+#: KSysGuardApplet.cc:327 WorkSheet.cc:102
 msgid "The file %1 does not contain valid XML."
 msgstr "Yaraqlı XML %1 biremeneñ eçendä yuq."
 
@@ -32,7 +32,7 @@ msgstr ""
 msgid "The file %1 has an invalid worksheet size."
 msgstr "%1 biremendäge eşbit ülçäme yaraqsız."
 
-#: KSysGuardApplet.cc:468 WorkSheet.cc:222
+#: KSysGuardApplet.cc:473 WorkSheet.cc:222
 #, c-format
 msgid "Cannot save file %1"
 msgstr "%1 biremen saqlap bulmadı"
@@ -45,15 +45,15 @@ msgstr "Alışukesä eçendä yaraqlı tözeleştä sızımnar yuq."
 msgid "It is impossible to connect to '%1'."
 msgstr "'%1' belän totaşılıp bulmadı."
 
-#: KSysGuardApplet.cc:204 WorkSheet.cc:328
+#: KSysGuardApplet.cc:209 WorkSheet.cc:328
 msgid "Select Display Type"
 msgstr "Kürsätü Isulın Saylaw"
 
-#: KSysGuardApplet.cc:205 WorkSheet.cc:329
+#: KSysGuardApplet.cc:210 WorkSheet.cc:329
 msgid "&Signal Plotter"
 msgstr "&Imlaw Sızımı"
 
-#: KSysGuardApplet.cc:206 WorkSheet.cc:330
+#: KSysGuardApplet.cc:211 WorkSheet.cc:330
 msgid "&Multimeter"
 msgstr "&Küpülçär"
 
@@ -81,12 +81,12 @@ msgstr "Taymer Caylaw"
 msgid "Use update interval of worksheet"
 msgstr "Eşbit yañartu arasın qullanası"
 
-#: KSGAppletSettings.cc:61 WorkSheetSettings.cc:85 ksgrd/TimerSettings.cc:46
+#: KSGAppletSettings.cc:59 WorkSheetSettings.cc:85 ksgrd/TimerSettings.cc:46
 msgid "Update interval:"
 msgstr "Yañartu arası:"
 
 #. i18n: file ./SensorDisplayLib/SensorLoggerDlgWidget.ui line 68
-#: KSGAppletSettings.cc:67 WorkSheetSettings.cc:91 ksgrd/TimerSettings.cc:51
+#: KSGAppletSettings.cc:64 WorkSheetSettings.cc:91 ksgrd/TimerSettings.cc:51
 #: rc.cpp:21
 #, no-c-format
 msgid " sec"
@@ -623,18 +623,19 @@ msgid "Cannot find file ProcessTable.sgrd."
 msgstr "ProcessTable.sgrd biremen tabıp bulmadı."
 
 #: KSGAppletSettings.cc:34
-msgid "KSysGuard Applet Settings"
+#, fuzzy
+msgid "System Guard Settings"
 msgstr "KSysGuard Applet Caylawı"
 
 #: KSGAppletSettings.cc:42
 msgid "Number of displays:"
 msgstr "Sızım Sanı"
 
-#: KSGAppletSettings.cc:51
+#: KSGAppletSettings.cc:50
 msgid "Size ratio:"
 msgstr "Üzläm çaması:"
 
-#: KSGAppletSettings.cc:57
+#: KSGAppletSettings.cc:54
 #, c-format
 msgid "%"
 msgstr "%"
@@ -1538,11 +1539,11 @@ msgstr "Bit eçendä kürsätäse asma yul sanı."
 msgid "Enter the title of the worksheet here."
 msgstr "Eşbitkä östise başlıq kertü."
 
-#: KSysGuardApplet.cc:207
+#: KSysGuardApplet.cc:212
 msgid "&Dancing Bars"
 msgstr "&Asma Yullar"
 
-#: KSysGuardApplet.cc:237 KSysGuardApplet.cc:386
+#: KSysGuardApplet.cc:242 KSysGuardApplet.cc:391
 msgid ""
 "The KSysGuard applet does not support displaying of this type of sensor. Please "
 "choose another sensor."
@@ -1550,7 +1551,7 @@ msgstr ""
 "KSysGuard applete mondí törle sizgeç öçen sızım yasa almí. Başqa sizgeçne sayla "
 "zinhar."
 
-#: KSysGuardApplet.cc:329
+#: KSysGuardApplet.cc:334
 msgid ""
 "The file %1 does not contain a valid applet definition, which must have a "
 "document type 'KSysGuardApplet'."
@@ -1558,7 +1559,7 @@ msgstr ""
 "KSysGuardApplet törendä istälek kebek bulası, applet öçen yaraqlı bilgelänü %1 "
 "biremendä yuq."
 
-#: KSysGuardApplet.cc:480
+#: KSysGuardApplet.cc:485
 msgid "Drag sensors from the KDE System Guard into this cell."
 msgstr "KDE System Guard täräzäsennän berär sizgeçne bi urınğa österise."
 
