@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase ksysguard\n"
-"POT-Creation-Date: 2006-12-05 02:35+0100\n"
+"POT-Creation-Date: 2006-12-07 02:36+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -32,36 +32,36 @@ msgstr ""
 msgid "The file %1 has an invalid worksheet size."
 msgstr "%1 biremendäge eşbit ülçäme yaraqsız."
 
-#: KSysGuardApplet.cc:473 WorkSheet.cc:222
+#: KSysGuardApplet.cc:476 WorkSheet.cc:225
 #, c-format
 msgid "Cannot save file %1"
 msgstr "%1 biremen saqlap bulmadı"
 
-#: WorkSheet.cc:270
+#: WorkSheet.cc:273
 msgid "The clipboard does not contain a valid display description."
 msgstr "Alışukesä eçendä yaraqlı tözeleştä sızımnar yuq."
 
-#: SensorDisplayLib/SensorDisplay.cc:104 WorkSheet.cc:312
+#: SensorDisplayLib/SensorDisplay.cc:104 WorkSheet.cc:315
 msgid "It is impossible to connect to '%1'."
 msgstr "'%1' belän totaşılıp bulmadı."
 
-#: KSysGuardApplet.cc:209 WorkSheet.cc:328
+#: KSysGuardApplet.cc:209 WorkSheet.cc:331
 msgid "Select Display Type"
 msgstr "Kürsätü Isulın Saylaw"
 
-#: KSysGuardApplet.cc:210 WorkSheet.cc:329
+#: KSysGuardApplet.cc:210 WorkSheet.cc:332
 msgid "&Signal Plotter"
 msgstr "&Imlaw Sızımı"
 
-#: KSysGuardApplet.cc:211 WorkSheet.cc:330
+#: KSysGuardApplet.cc:211 WorkSheet.cc:333
 msgid "&Multimeter"
 msgstr "&Küpülçär"
 
-#: WorkSheet.cc:331
+#: WorkSheet.cc:334
 msgid "&BarGraph"
 msgstr "&Bağanalı"
 
-#: WorkSheet.cc:332
+#: WorkSheet.cc:335
 msgid "S&ensorLogger"
 msgstr "&Sizgeç"
 
@@ -539,7 +539,7 @@ msgstr "Tulı San"
 msgid "Floating Point Value"
 msgstr "Yözmä Taplı San"
 
-#: ksgrd/SensorManager.cc:284
+#: ksgrd/SensorManager.cc:289
 msgid "Connection to %1 has been lost."
 msgstr "%1 belän totaşılu yuğaldı."
 
@@ -1543,7 +1543,7 @@ msgstr "Eşbitkä östise başlıq kertü."
 msgid "&Dancing Bars"
 msgstr "&Asma Yullar"
 
-#: KSysGuardApplet.cc:242 KSysGuardApplet.cc:391
+#: KSysGuardApplet.cc:242 KSysGuardApplet.cc:394
 msgid ""
 "The KSysGuard applet does not support displaying of this type of sensor. Please "
 "choose another sensor."
@@ -1559,7 +1559,7 @@ msgstr ""
 "KSysGuardApplet törendä istälek kebek bulası, applet öçen yaraqlı bilgelänü %1 "
 "biremendä yuq."
 
-#: KSysGuardApplet.cc:485
+#: KSysGuardApplet.cc:488
 msgid "Drag sensors from the KDE System Guard into this cell."
 msgstr "KDE System Guard täräzäsennän berär sizgeçne bi urınğa österise."
 
