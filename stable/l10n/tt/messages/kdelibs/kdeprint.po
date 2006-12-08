@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdeprint\n"
-"POT-Creation-Date: 2006-11-14 02:34+0100\n"
+"POT-Creation-Date: 2006-12-08 02:36+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -6060,7 +6060,7 @@ msgstr "<qt>%1 yöklägändä xata çıqtı. Anıñ belderüe:<p>%2</p></qt>"
 #: kpdriverpage.cpp:48
 #, fuzzy
 msgid ""
-"<qt>Some options selected are in conflict. You must resolve those conflicts "
+"<qt>Some options selected are in conflict. You must resolve these conflicts "
 "before continuing. See <b>Driver Settings</b> tab for detailed information.</qt>"
 msgstr ""
 "<qt>Saylanğan köylämälärneñ qayberläre ber-bersenä qarşı. Ul qíınlıqnı çişkänçe "
