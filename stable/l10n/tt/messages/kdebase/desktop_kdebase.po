@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-12-09 01:49+0000\n"
+"POT-Creation-Date: 2006-12-11 01:48+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -3124,12 +3124,12 @@ msgstr "Keywords=icons,effects,size,hicolor,locolor"
 msgid "Name=CD-ROM Information"
 msgstr "Name=Beldermä"
 
-#: kcontrol/info/cdinfo.desktop:50
+#: kcontrol/info/cdinfo.desktop:51
 #, fuzzy
 msgid "Comment=CD/DVD Drive Capabilites"
 msgstr "Comment=DVD Video Disk"
 
-#: kcontrol/info/cdinfo.desktop:86
+#: kcontrol/info/cdinfo.desktop:88
 msgid "Keywords=CD-ROM Information,CD-ROM,CD,CD Drive,Writer Capabilities"
 msgstr ""
 
@@ -5367,7 +5367,7 @@ msgstr "Name=Web-Ezläw"
 msgid "Name=Kate Session Menu"
 msgstr "Name=Sessi İdäräçe"
 
-#: kicker/menuext/kate/katesessionmenu.desktop:21
+#: kicker/menuext/kate/katesessionmenu.desktop:22
 msgid ""
 "Comment=Allows you to open Kate with a specified session, or create a new one"
 msgstr ""
@@ -5630,7 +5630,7 @@ msgstr "Comment=Totaşmağan Zip Disk"
 msgid "Name=Media Properties Page"
 msgstr "Name=Cıhaz Totaşılu Beldergeçe"
 
-#: kioslave/media/propsdlgplugin/media_propsdlgplugin.desktop:38
+#: kioslave/media/propsdlgplugin/media_propsdlgplugin.desktop:39
 msgid "Comment=Konqueror properties dialog plugin to configure mount behaviour"
 msgstr ""
 
