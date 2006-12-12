@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2006-11-14 02:33+0100\n"
+"POT-Creation-Date: 2006-12-12 02:32+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2998,15 +2998,15 @@ msgstr ""
 msgid "Please contact your system administrator."
 msgstr "Sistem idäräçesenä äytergä kiräk."
 
-#: kdecore/kcmdlineargs.cpp:496 kdecore/kcmdlineargs.cpp:512
+#: kdecore/kcmdlineargs.cpp:498 kdecore/kcmdlineargs.cpp:514
 msgid "Unknown option '%1'."
 msgstr "Bilgesez köylämä: %1"
 
-#: kdecore/kcmdlineargs.cpp:520
+#: kdecore/kcmdlineargs.cpp:522
 msgid "'%1' missing."
 msgstr "'%1' barlıqta yuq."
 
-#: kdecore/kcmdlineargs.cpp:615
+#: kdecore/kcmdlineargs.cpp:617
 msgid ""
 "_: the 2nd argument is a list of name+address, one on each line\n"
 "%1 was written by\n"
@@ -3015,11 +3015,11 @@ msgstr ""
 "%1 yazılımın kiläse yazdı:\n"
 "%2"
 
-#: kdecore/kcmdlineargs.cpp:618
+#: kdecore/kcmdlineargs.cpp:620
 msgid "This application was written by somebody who wants to remain anonymous."
 msgstr "Bu yazılımnı, tanılırğa telämägän keşe yazğan."
 
-#: kdecore/kcmdlineargs.cpp:625
+#: kdecore/kcmdlineargs.cpp:627
 #, fuzzy
 msgid ""
 "Please use http://bugs.kde.org to report bugs.\n"
@@ -3027,21 +3027,21 @@ msgstr ""
 "Xatalar turında http://bugs.kde.org adresına belderäse, yazuçısına üzenä yazası "
 "tügel.\n"
 
-#: kdecore/kcmdlineargs.cpp:628 kdecore/kcmdlineargs.cpp:630
+#: kdecore/kcmdlineargs.cpp:630 kdecore/kcmdlineargs.cpp:632
 msgid ""
 "Please report bugs to %1.\n"
 msgstr ""
 "Xata yomğağın %1 taba cibär zinhar.\n"
 
-#: kdecore/kcmdlineargs.cpp:656
+#: kdecore/kcmdlineargs.cpp:658
 msgid "Unexpected argument '%1'."
 msgstr "Kötelmägän köylämä: %1"
 
-#: kdecore/kcmdlineargs.cpp:761
+#: kdecore/kcmdlineargs.cpp:763
 msgid "Use --help to get a list of available command line options."
 msgstr "--help kertep boyırıq yulında qullanırlıq köylämälärne kürep bula."
 
-#: kdecore/kcmdlineargs.cpp:776
+#: kdecore/kcmdlineargs.cpp:778
 msgid ""
 "\n"
 "%1:\n"
@@ -3049,57 +3049,57 @@ msgstr ""
 "\n"
 "%1:\n"
 
-#: kdecore/kcmdlineargs.cpp:785
+#: kdecore/kcmdlineargs.cpp:787
 msgid "[options] "
 msgstr "[caylaw] "
 
-#: kdecore/kcmdlineargs.cpp:792
+#: kdecore/kcmdlineargs.cpp:794
 msgid "[%1-options]"
 msgstr "[%1-caylaw]"
 
-#: kdecore/kcmdlineargs.cpp:812
+#: kdecore/kcmdlineargs.cpp:814
 msgid ""
 "Usage: %1 %2\n"
 msgstr ""
 "Qullanu: %1 %2\n"
 
-#: kdecore/kcmdlineargs.cpp:815
+#: kdecore/kcmdlineargs.cpp:817
 msgid "Generic options"
 msgstr "Töp köylämä"
 
-#: kdecore/kcmdlineargs.cpp:816
+#: kdecore/kcmdlineargs.cpp:818
 msgid "Show help about options"
 msgstr "Köylämä turında yärdäm kürsätü"
 
-#: kdecore/kcmdlineargs.cpp:824
+#: kdecore/kcmdlineargs.cpp:826
 msgid "Show %1 specific options"
 msgstr "%1 belän bäyle köylämälär kürsätäse"
 
-#: kdecore/kcmdlineargs.cpp:831
+#: kdecore/kcmdlineargs.cpp:833
 msgid "Show all options"
 msgstr "Bar köylämälär kürsätü"
 
-#: kdecore/kcmdlineargs.cpp:832
+#: kdecore/kcmdlineargs.cpp:834
 msgid "Show author information"
 msgstr "Yazuçı turında kürsätü"
 
-#: kdecore/kcmdlineargs.cpp:833
+#: kdecore/kcmdlineargs.cpp:835
 msgid "Show version information"
 msgstr "Sörem turında kürsätü"
 
-#: kdecore/kcmdlineargs.cpp:834
+#: kdecore/kcmdlineargs.cpp:836
 msgid "Show license information"
 msgstr "Şartnämä turında kürsätü"
 
-#: kdecore/kcmdlineargs.cpp:835
+#: kdecore/kcmdlineargs.cpp:837
 msgid "End of options"
 msgstr "Köylämälär azağı"
 
-#: kdecore/kcmdlineargs.cpp:857
+#: kdecore/kcmdlineargs.cpp:859
 msgid "%1 options"
 msgstr "%1 caylaw"
 
-#: kdecore/kcmdlineargs.cpp:859
+#: kdecore/kcmdlineargs.cpp:861
 msgid ""
 "\n"
 "Options:\n"
@@ -3107,7 +3107,7 @@ msgstr ""
 "\n"
 "Köylämä:\n"
 
-#: kdecore/kcmdlineargs.cpp:916
+#: kdecore/kcmdlineargs.cpp:918
 msgid ""
 "\n"
 "Arguments:\n"
@@ -3115,7 +3115,7 @@ msgstr ""
 "\n"
 "Köylämä:\n"
 
-#: kdecore/kcmdlineargs.cpp:1277
+#: kdecore/kcmdlineargs.cpp:1279
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr "Bu yazılım açqan birem/URL'lar qullanudan soñ beterelgän bulaçaq"
 
