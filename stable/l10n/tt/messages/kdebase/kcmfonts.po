@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmfonts\n"
-"POT-Creation-Date: 2006-09-18 02:35+0200\n"
+"POT-Creation-Date: 2006-12-15 02:36+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -136,12 +136,12 @@ msgstr "Bar yazularnı üzgärtü öçen çirt"
 msgid "Use a&nti-aliasing for fonts"
 msgstr "Yazular şomartuın &qullanası"
 
-#: fonts.cpp:598
+#: fonts.cpp:599
 msgid ""
 "If this option is selected, KDE will smooth the edges of curves in fonts."
 msgstr "Bu köylämä yanıq torsa, KDE yazular çiklären şomartıp toraçaq."
 
-#: fonts.cpp:600
+#: fonts.cpp:601
 msgid "Configure..."
 msgstr "Caylaw..."
 
@@ -171,7 +171,7 @@ msgid ""
 "configuration of font hinting should be checked.</p>"
 msgstr ""
 
-#: fonts.cpp:728
+#: fonts.cpp:741
 #, fuzzy
 msgid ""
 "<p>Some changes such as anti-aliasing will only affect newly started "
@@ -180,7 +180,7 @@ msgstr ""
 "<p>Şomartu köyläwläre üzgärtelgän bulğan. Yaña cibärelgän yazılımnarda ğına "
 "alarnıñ çağılışı bulaçaq.</p>"
 
-#: fonts.cpp:729
+#: fonts.cpp:742
 #, fuzzy
 msgid "Font Settings Changed"
 msgstr "Yazular Şomartu Caylawı Üzgärelgän"
