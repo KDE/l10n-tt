@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2006-12-18 02:33+0100\n"
+"POT-Creation-Date: 2006-12-19 02:33+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -21,16 +21,16 @@ msgstr "'%1' biremen uqıp bulmí"
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "Bilgesez protokol '%1'."
 
-#: kio/global.cpp:729 kio/job.cpp:1735 kio/job.cpp:3195 kio/job.cpp:3712
+#: kio/global.cpp:729 kio/job.cpp:1760 kio/job.cpp:3220 kio/job.cpp:3737
 #: kio/paste.cpp:65
 msgid "File Already Exists"
 msgstr "Birem Bar İnde"
 
-#: kio/global.cpp:739 kio/job.cpp:2905
+#: kio/global.cpp:739 kio/job.cpp:2930
 msgid "Folder Already Exists"
 msgstr "Törgäk Bar İnde"
 
-#: kio/job.cpp:3195 kio/job.cpp:3712
+#: kio/job.cpp:3220 kio/job.cpp:3737
 msgid "Already Exists as Folder"
 msgstr "Törgäk Kileş Bar İnde"
 
@@ -2275,7 +2275,7 @@ msgstr "&Sersüz:"
 msgid "&Keep password"
 msgstr "&Sersüzne yatla"
 
-#: kio/passdlg.cpp:345 kpasswdserver/kpasswdserver.cpp:355
+#: kio/passdlg.cpp:345 kpasswdserver/kpasswdserver.cpp:371
 msgid "Authorization Dialog"
 msgstr "İreşü Täräzäse"
 
@@ -5666,15 +5666,15 @@ msgstr ""
 "Bu yazılımnıñ eşlätü yulın, cibärelüen belderü, DCOP caylawın, nindi "
 "qullanuçıdan eşlätüen üzgärtü öçen bonda çirtäse."
 
-#: ../kioslave/http/http.cc:5110 kpasswdserver/kpasswdserver.cpp:330
+#: ../kioslave/http/http.cc:5110 kpasswdserver/kpasswdserver.cpp:346
 msgid "  Do you want to retry?"
 msgstr "  Qabatlísımı?"
 
-#: ../kioslave/http/http.cc:5111 kpasswdserver/kpasswdserver.cpp:332
+#: ../kioslave/http/http.cc:5111 kpasswdserver/kpasswdserver.cpp:348
 msgid "Authentication"
 msgstr "Tanılu"
 
-#: kpasswdserver/kpasswdserver.cpp:332
+#: kpasswdserver/kpasswdserver.cpp:348
 msgid "Retry"
 msgstr "Qabatla"
 
