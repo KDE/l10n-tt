@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2006-12-19 02:33+0100\n"
+"POT-Creation-Date: 2006-12-21 02:35+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -21,16 +21,16 @@ msgstr "'%1' biremen uqıp bulmí"
 msgid "ERROR: Unknown protocol '%1'"
 msgstr "Bilgesez protokol '%1'."
 
-#: kio/global.cpp:729 kio/job.cpp:1760 kio/job.cpp:3220 kio/job.cpp:3737
+#: kio/global.cpp:729 kio/job.cpp:1761 kio/job.cpp:3221 kio/job.cpp:3738
 #: kio/paste.cpp:65
 msgid "File Already Exists"
 msgstr "Birem Bar İnde"
 
-#: kio/global.cpp:739 kio/job.cpp:2930
+#: kio/global.cpp:739 kio/job.cpp:2931
 msgid "Folder Already Exists"
 msgstr "Törgäk Bar İnde"
 
-#: kio/job.cpp:3220 kio/job.cpp:3737
+#: kio/job.cpp:3221 kio/job.cpp:3738
 msgid "Already Exists as Folder"
 msgstr "Törgäk Kileş Bar İnde"
 
