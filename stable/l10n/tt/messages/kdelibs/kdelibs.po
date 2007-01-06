@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2007-01-05 02:36+0100\n"
+"POT-Creation-Date: 2007-01-06 02:35+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -1659,7 +1659,6 @@ msgstr "Adres"
 #: kabc/addresseedialog.cpp:71 kabc/addresseedialog.cpp:101
 #: kabc/distributionlistdialog.cpp:190 kabc/distributionlisteditor.cpp:143
 #: kabc/field.cpp:207 kabc/scripts/field.src.cpp:103 kdeui/kaboutdialog.cpp:91
-#: knewstuff/uploaddialog.cpp:68
 msgid "Email"
 msgstr "Email"
 
@@ -4423,6 +4422,11 @@ msgstr "İsem:"
 #: knewstuff/uploaddialog.cpp:63
 msgid "Author:"
 msgstr "Yazuçı:"
+
+#: knewstuff/uploaddialog.cpp:68
+#, fuzzy
+msgid "Email:"
+msgstr "Email"
 
 #: kdeui/kbugreport.cpp:174 knewstuff/uploaddialog.cpp:73
 msgid "Version:"
