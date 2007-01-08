@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kate\n"
-"POT-Creation-Date: 2006-11-16 02:35+0100\n"
+"POT-Creation-Date: 2007-01-08 02:36+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -187,7 +187,7 @@ msgstr " ÖST "
 msgid " BLK "
 msgstr " BLK "
 
-#: app/kateconsole.cpp:128
+#: app/kateconsole.cpp:129
 msgid ""
 "Do you really want to pipe the text to the console? This will execute any "
 "contained commands with your user rights."
@@ -195,11 +195,11 @@ msgstr ""
 "Bu yazmanı konsol eçendä çınlap ta köpçäliseme? Anıñ eçendäge boyırıqlar "
 "biredäge qullanuçı xoquqları belän eşlänäçäk."
 
-#: app/kateconsole.cpp:129
+#: app/kateconsole.cpp:130
 msgid "Pipe to Console?"
 msgstr "Konsolda Köpçäliseme?"
 
-#: app/kateconsole.cpp:130
+#: app/kateconsole.cpp:131
 msgid "Pipe to Console"
 msgstr "Konsolda Köpçälise"
 
