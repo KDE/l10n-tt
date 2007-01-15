@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcontrol\n"
-"POT-Creation-Date: 2005-12-28 03:13+0100\n"
+"POT-Creation-Date: 2007-01-15 02:35+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -24,7 +24,7 @@ msgid ""
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
 
-#: aboutwidget.cpp:43 main.cpp:103
+#: aboutwidget.cpp:43 main.cpp:104
 msgid "KDE Control Center"
 msgstr "KDE İdärä Üzäge"
 
@@ -41,7 +41,7 @@ msgstr ""
 "\"KDE'neñ Caylaw Üzäge\" eçendä kürergä şatbız, östäl caylawınıñ üzäk urını. "
 "Sul yaqtağı tezmädän berär caylaw bülegen saylap anı yöklärgä bula."
 
-#: aboutwidget.cpp:53 main.cpp:107
+#: aboutwidget.cpp:53 main.cpp:108
 msgid "KDE Info Center"
 msgstr "KDE Beleşmä Üzäge"
 
@@ -159,19 +159,19 @@ msgstr ""
 "<big>Bu caylaw bülegen cibärü öçen idäräçe bulu kiräk.</big>"
 "<br>Astağı \"İdäräçe Isulı\" digän töymägä çirtäse."
 
-#: main.cpp:104
+#: main.cpp:105
 msgid "The KDE Control Center"
 msgstr "KDE İdärä Üzäge"
 
-#: main.cpp:105 main.cpp:109
+#: main.cpp:106 main.cpp:110
 msgid "(c) 1998-2004, The KDE Control Center Developers"
 msgstr "(c) 1998-2004, KDE İdärä Üzäge tözüçeläre"
 
-#: main.cpp:108
+#: main.cpp:109
 msgid "The KDE Info Center"
 msgstr "KDE Beleşmä Üzäge"
 
-#: main.cpp:127 main.cpp:129
+#: main.cpp:128 main.cpp:130
 msgid "Current Maintainer"
 msgstr "Xäzerge Qatnaşuçı"
 
