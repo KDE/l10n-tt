@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase konsole\n"
-"POT-Creation-Date: 2006-12-27 02:37+0100\n"
+"POT-Creation-Date: 2007-01-21 02:38+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: TEWidget.cpp:946 TEWidget.cpp:948
+#: TEWidget.cpp:947 TEWidget.cpp:949
 msgid "Size: XXX x XXX"
 msgstr "Ülçäme: XXX x XXX"
 
-#: TEWidget.cpp:953
+#: TEWidget.cpp:954
 msgid "Size: %1 x %2"
 msgstr "Ülçäm: %1 x %2"
 
@@ -797,8 +797,8 @@ msgid "Do not use Xft (anti-aliasing)"
 msgstr "Xft qullanmasqa (yazunı şomartu)"
 
 #: main.cpp:82
-msgid "Do not use the ARGB32 visual (transparency)"
-msgstr "ARGB32 küreneşen qullanmasqa (ütäkürenü)"
+msgid "Enable experimental support for real transparency"
+msgstr ""
 
 #: main.cpp:84
 msgid "Terminal size in columns x lines"
@@ -934,13 +934,13 @@ msgstr ""
 "Bu isemlektä min kertergä\n"
 "onıtmağannarı ğına bar."
 
-#: main.cpp:326
+#: main.cpp:327
 msgid ""
 "You can't use BOTH -ls and -e.\n"
 msgstr ""
 "-ls belän -e köylämäsen bergä qullanıp bulmí.\n"
 
-#: main.cpp:453
+#: main.cpp:454
 msgid ""
 "expected --vt_sz <#columns>x<#lines> e.g. 80x40\n"
 msgstr ""
@@ -1411,3 +1411,6 @@ msgstr ""
 #: zmodem_dialog.cpp:28
 msgid "&Stop"
 msgstr "&Tuqta"
+
+#~ msgid "Do not use the ARGB32 visual (transparency)"
+#~ msgstr "ARGB32 küreneşen qullanmasqa (ütäkürenü)"
