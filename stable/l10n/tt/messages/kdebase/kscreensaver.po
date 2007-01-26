@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kscreensaver\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2007-01-26 02:37+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -54,14 +54,14 @@ msgstr "Root XWindow eçendä cibär"
 msgid "Random screen saver"
 msgstr "Berär küräk-saqçı"
 
-#: random.cpp:212
+#: random.cpp:215
 msgid "Setup Random Screen Saver"
 msgstr "Oçraqlı Küräk-Saqçı Caylawı"
 
-#: random.cpp:219
+#: random.cpp:222
 msgid "Use OpenGL screen savers"
 msgstr "OpenGL küräk-saqçılar qullanası"
 
-#: random.cpp:222
+#: random.cpp:225
 msgid "Use screen savers that manipulate the screen"
 msgstr "Kuräkne üzgärtüçe küräk-saqçılarnı da qullanası"

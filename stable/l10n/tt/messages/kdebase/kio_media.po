@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kio_media\n"
-"POT-Creation-Date: 2006-12-22 02:36+0100\n"
+"POT-Creation-Date: 2007-01-26 02:37+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -289,43 +289,43 @@ msgstr ""
 msgid "Filesystem: iso9660"
 msgstr ""
 
-#: kfile-plugin/kfilemediaplugin.cpp:166
+#: kfile-plugin/kfilemediaplugin.cpp:173
 msgid "Medium Information"
 msgstr "Media Turında"
 
-#: kfile-plugin/kfilemediaplugin.cpp:169
+#: kfile-plugin/kfilemediaplugin.cpp:176
 msgid "Free"
 msgstr "Buş"
 
-#: kfile-plugin/kfilemediaplugin.cpp:172
+#: kfile-plugin/kfilemediaplugin.cpp:179
 msgid "Used"
 msgstr "Totıldı"
 
-#: kfile-plugin/kfilemediaplugin.cpp:175
+#: kfile-plugin/kfilemediaplugin.cpp:182
 msgid "Total"
 msgstr "Barısı"
 
-#: kfile-plugin/kfilemediaplugin.cpp:178
+#: kfile-plugin/kfilemediaplugin.cpp:185
 msgid "Base URL"
 msgstr "Töp URL"
 
-#: kfile-plugin/kfilemediaplugin.cpp:179
+#: kfile-plugin/kfilemediaplugin.cpp:186
 msgid "Mount Point"
 msgstr "Bäyläw Urını"
 
-#: kfile-plugin/kfilemediaplugin.cpp:180
+#: kfile-plugin/kfilemediaplugin.cpp:187
 msgid "Device Node"
 msgstr "Cıhaz Töyene"
 
-#: kfile-plugin/kfilemediaplugin.cpp:182
+#: kfile-plugin/kfilemediaplugin.cpp:189
 msgid "Medium Summary"
 msgstr "Taşılma Yomğağı"
 
-#: kfile-plugin/kfilemediaplugin.cpp:184
+#: kfile-plugin/kfilemediaplugin.cpp:191
 msgid "Usage"
 msgstr "Totılu"
 
-#: kfile-plugin/kfilemediaplugin.cpp:186
+#: kfile-plugin/kfilemediaplugin.cpp:193
 msgid "Bar Graph"
 msgstr "Bağanalı Sızım"
 
