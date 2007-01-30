@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2007-01-16 02:35+0100\n"
+"POT-Creation-Date: 2007-01-30 02:36+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -1653,8 +1653,10 @@ msgid "Frequent"
 msgstr "Yış"
 
 #: kab/addressbook.cc:192 kabc/field.cpp:205 kabc/scripts/field.src.cpp:101
-msgid "Address"
-msgstr "Adres"
+msgid ""
+"_: street/postal\n"
+"Address"
+msgstr ""
 
 #: kabc/addresseedialog.cpp:71 kabc/addresseedialog.cpp:101
 #: kabc/distributionlistdialog.cpp:190 kabc/distributionlisteditor.cpp:143
@@ -2288,12 +2290,17 @@ msgid "Geographic Position"
 msgstr "Cir Urınlaşuı"
 
 #: kab/addressbook.cc:263 kabc/addressee.cpp:683
-msgid "Title"
-msgstr "Başlıq"
+#, fuzzy
+msgid ""
+"_: person\n"
+"Title"
+msgstr "Tamilça"
 
 #: kabc/addressee.cpp:702
-msgid "Role"
-msgstr "Eşe"
+msgid ""
+"_: person in organization\n"
+"Role"
+msgstr ""
 
 #: kabc/addressee.cpp:740
 msgid "Note"
@@ -10897,6 +10904,15 @@ msgid ""
 "_: QXml\n"
 "error in the text declaration of an external entity"
 msgstr "tışqı entity öçen yazma bilgeläwendä xata kilep çıqtı"
+
+#~ msgid "Address"
+#~ msgstr "Adres"
+
+#~ msgid "Title"
+#~ msgstr "Başlıq"
+
+#~ msgid "Role"
+#~ msgstr "Eşe"
 
 #~ msgid "The resource '%1' is locked by application '%2'."
 #~ msgstr "'%1' digän resurs '%2' yazılımınnan biklängän."
