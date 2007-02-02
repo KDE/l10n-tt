@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase filetypes\n"
-"POT-Creation-Date: 2005-07-30 01:39+0200\n"
+"POT-Creation-Date: 2007-02-02 02:29+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -70,7 +70,7 @@ msgstr ""
 "alsaq, ul 'text/plain' digän birem törenä kileşterelgän, yäğni ul “taqır yazma "
 "bireme” kebek tanıla."
 
-#: filetypedetails.cpp:60 filetypesview.cpp:96 kservicelistwidget.cpp:123
+#: filetypedetails.cpp:60 filetypesview.cpp:95 kservicelistwidget.cpp:123
 msgid "Add..."
 msgstr "Östäw..."
 
@@ -171,11 +171,11 @@ msgstr ""
 "sözgeçlär bulmaw ğäçäpländerer dä bälki, läkin qayber birmeneñ mime-tören "
 "Konqueror anıñ eçtälegenä qarap ta sizä ala."
 
-#: filetypesview.cpp:63
+#: filetypesview.cpp:62
 msgid "F&ind filename pattern:"
 msgstr "&Tabası birem adı ürnäge:"
 
-#: filetypesview.cpp:73
+#: filetypesview.cpp:72
 msgid ""
 "Enter a part of a filename pattern. Only file types with a matching file "
 "pattern will appear in the list."
@@ -183,11 +183,11 @@ msgstr ""
 "Birem adı öleşennän ürnäk kertäse. Biredäge tezmä aña kileşkän biremnär genä "
 "kürsäteläçäk."
 
-#: filetypesview.cpp:83
+#: filetypesview.cpp:82
 msgid "Known Types"
 msgstr "Belgän Törlär"
 
-#: filetypesview.cpp:90
+#: filetypesview.cpp:89
 msgid ""
 "Here you can see a hierarchical list of the file types which are known on your "
 "system. Click on the '+' sign to expand a category, or the '-' sign to collapse "
@@ -199,15 +199,15 @@ msgstr ""
 "saylağaç (ü.ö. HTML biremnär öçen \"text/html\"), uñ töymälärne qullanıp ul "
 "törlek turında belemne kürep/üzgärtep bula."
 
-#: filetypesview.cpp:100
+#: filetypesview.cpp:99
 msgid "Click here to add a new file type."
 msgstr "Bonda çirtep, yaña birem tören östäp bula."
 
-#: filetypesview.cpp:107
+#: filetypesview.cpp:106
 msgid "Click here to remove the selected file type."
 msgstr "Bonda çirtep, bu saylanğan birem tören beterep bula."
 
-#: filetypesview.cpp:129
+#: filetypesview.cpp:128
 msgid "Select a file type by name or by extension"
 msgstr "Birem tören adı yä quşımta buyınça saylaw"
 
@@ -219,30 +219,30 @@ msgstr "winid buyınça bilgelängän täräzäne ütmäslek itä"
 msgid "File type to edit (e.g. text/html)"
 msgstr "Üzgärtäse birem töre (ü.ö. text/html)"
 
-#: keditfiletype.cpp:115
+#: keditfiletype.cpp:114
 msgid "KEditFileType"
 msgstr "KEditFileType"
 
-#: keditfiletype.cpp:116
+#: keditfiletype.cpp:115
 msgid ""
 "KDE file type editor - simplified version for editing a single file type"
 msgstr ""
 "Birem tören tözätü öçen KDE-yazılım - biremneñ ber tören genä tözätüçe sörem"
 
-#: keditfiletype.cpp:118
+#: keditfiletype.cpp:117
 msgid "(c) 2000, KDE developers"
 msgstr "(c) 2000, KDE tözüçeläre"
 
-#: keditfiletype.cpp:152
+#: keditfiletype.cpp:151
 msgid "%1 File"
 msgstr ""
 
-#: keditfiletype.cpp:173
+#: keditfiletype.cpp:172
 #, c-format
 msgid "Edit File Type %1"
 msgstr "%1 Birem Tören Üzgärtü"
 
-#: keditfiletype.cpp:175
+#: keditfiletype.cpp:174
 #, fuzzy, c-format
 msgid "Create New File Type %1"
 msgstr "Biremneñ Yaña Tören Yasaw"

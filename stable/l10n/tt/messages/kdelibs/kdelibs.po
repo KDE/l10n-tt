@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2007-01-30 02:36+0100\n"
+"POT-Creation-Date: 2007-02-02 02:28+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2984,7 +2984,7 @@ msgid ""
 msgstr ""
 "DCOP aşa KLauncher'ğa ireşep bulmí.\n"
 
-#: kdecore/kwinmodule.cpp:452
+#: kdecore/kwinmodule.cpp:456
 #, c-format
 msgid "Desktop %1"
 msgstr "%1 Östäl"
