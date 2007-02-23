@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2007-02-10 02:35+0100\n"
+"POT-Creation-Date: 2007-02-23 02:34+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -165,11 +165,11 @@ msgstr "%n URL Östä&p quy"
 msgid "&Paste Clipboard Contents"
 msgstr "Alışukesädän Östä&p quy"
 
-#: kio/observer.cpp:332 misc/uiserver.cpp:1218
+#: kio/observer.cpp:332 misc/uiserver.cpp:1225
 msgid "The peer SSL certificate appears to be corrupt."
 msgstr "Bu SSL-tanıqlıq bozıq kebek kürenä."
 
-#: kio/observer.cpp:332 kio/tcpslavebase.cpp:706 misc/uiserver.cpp:1218
+#: kio/observer.cpp:332 kio/tcpslavebase.cpp:706 misc/uiserver.cpp:1225
 msgid "SSL"
 msgstr "SSL"
 
@@ -448,7 +448,7 @@ msgstr "Birem &Açu"
 msgid "Open &Destination"
 msgstr "&Urınlaştıruın Aç"
 
-#: kio/defaultprogress.cpp:179 misc/uiserver.cpp:632
+#: kio/defaultprogress.cpp:179 misc/uiserver.cpp:639
 msgid "Progress Dialog"
 msgstr "Alğa Kiteş Täräzäse"
 
@@ -516,7 +516,7 @@ msgid ""
 "%1 / %n files"
 msgstr "%1 / %n birem"
 
-#: kio/defaultprogress.cpp:325 misc/uiserver.cpp:288
+#: kio/defaultprogress.cpp:325 misc/uiserver.cpp:289
 msgid "Stalled"
 msgstr "Tuqtağan"
 
@@ -553,7 +553,7 @@ msgstr "Birem Sınaw Barışı"
 msgid "Mounting %1"
 msgstr "%1 Bäyläw"
 
-#: kio/defaultprogress.cpp:410 misc/uiserver.cpp:378
+#: kio/defaultprogress.cpp:410 misc/uiserver.cpp:379
 msgid "Unmounting"
 msgstr "Ayıru"
 
@@ -2249,7 +2249,7 @@ msgstr "Açıqlanmağan Xata"
 msgid " Stalled "
 msgstr " Tuqtağan "
 
-#: kio/statusbarprogress.cpp:134 misc/uiserver.cpp:1102
+#: kio/statusbarprogress.cpp:134 misc/uiserver.cpp:1109
 msgid " %1/s "
 msgstr " %1/s "
 
@@ -2581,7 +2581,7 @@ msgstr "Andí ozınlıqta açqıç totılmí."
 msgid "KDE SSL Information"
 msgstr "KDE'neñ SSL Turında"
 
-#: kssl/ksslkeygen.cc:97 misc/uiserver.cpp:1383
+#: kssl/ksslkeygen.cc:97 misc/uiserver.cpp:1390
 msgid "KDE"
 msgstr "KDE"
 
@@ -3019,160 +3019,160 @@ msgstr "telnet protokol eşkärtkeçe"
 msgid "You do not have permission to access the %1 protocol."
 msgstr "%1 protokolın qullanırlıq xoquqlarıñ citmi."
 
-#: misc/uiserver.cpp:98 misc/uiserver.cpp:603 misc/uiserver.cpp:682
+#: misc/uiserver.cpp:99 misc/uiserver.cpp:610 misc/uiserver.cpp:689
 msgid "Settings..."
 msgstr "Caylaw..."
 
-#: misc/uiserver.cpp:126
+#: misc/uiserver.cpp:127
 msgid "Configure Network Operation Window"
 msgstr "Çeltärle Eşlär Täräzäsen Caylaw"
 
-#: misc/uiserver.cpp:130
+#: misc/uiserver.cpp:131
 msgid "Show system tray icon"
 msgstr "Sistem ulaq tamğasın kürsätäse"
 
-#: misc/uiserver.cpp:131
+#: misc/uiserver.cpp:132
 msgid "Keep network operation window always open"
 msgstr "Çeltärneñ eş täräzäsen barçaqta açıq totası"
 
-#: misc/uiserver.cpp:132
+#: misc/uiserver.cpp:133
 msgid "Show column headers"
 msgstr "Buy başlıqların kürsätü"
 
-#: misc/uiserver.cpp:133
+#: misc/uiserver.cpp:134
 msgid "Show toolbar"
 msgstr "Qoraltirä kürsätäse"
 
-#: misc/uiserver.cpp:134
+#: misc/uiserver.cpp:135
 msgid "Show statusbar"
 msgstr "Xältirä kürsätäse"
 
-#: misc/uiserver.cpp:135
+#: misc/uiserver.cpp:136
 msgid "Column widths are user adjustable"
 msgstr "Buy kiñlgen köyläp bula"
 
-#: misc/uiserver.cpp:136
+#: misc/uiserver.cpp:137
 msgid "Show information:"
 msgstr "Belem kürsätü:"
 
-#: misc/uiserver.cpp:143 misc/uiserver.cpp:474
+#: misc/uiserver.cpp:144 misc/uiserver.cpp:481
 msgid "URL"
 msgstr "URL"
 
-#: misc/uiserver.cpp:144 misc/uiserver.cpp:473
+#: misc/uiserver.cpp:145 misc/uiserver.cpp:480
 msgid ""
 "_: Remaining Time\n"
 "Rem. Time"
 msgstr "Qal. Waqıt"
 
-#: misc/uiserver.cpp:145 misc/uiserver.cpp:472
+#: misc/uiserver.cpp:146 misc/uiserver.cpp:479
 msgid "Speed"
 msgstr "Tizlek"
 
-#: kfile/kfiledetailview.cpp:67 misc/uiserver.cpp:146 misc/uiserver.cpp:471
+#: kfile/kfiledetailview.cpp:67 misc/uiserver.cpp:147 misc/uiserver.cpp:478
 msgid "Size"
 msgstr "Olılıq"
 
-#: misc/uiserver.cpp:147 misc/uiserver.cpp:470
+#: misc/uiserver.cpp:148 misc/uiserver.cpp:477
 #, c-format
 msgid "%"
 msgstr "%"
 
-#: misc/uiserver.cpp:148 misc/uiserver.cpp:469
+#: misc/uiserver.cpp:149 misc/uiserver.cpp:476
 msgid "Count"
 msgstr "San"
 
-#: misc/uiserver.cpp:149 misc/uiserver.cpp:468
+#: misc/uiserver.cpp:150 misc/uiserver.cpp:475
 msgid ""
 "_: Resume\n"
 "Res."
 msgstr "Dwm."
 
-#: misc/uiserver.cpp:150 misc/uiserver.cpp:467
+#: misc/uiserver.cpp:151 misc/uiserver.cpp:474
 msgid "Local Filename"
 msgstr "Cirle Birem Adı"
 
-#: misc/uiserver.cpp:151 misc/uiserver.cpp:466
+#: misc/uiserver.cpp:152 misc/uiserver.cpp:473
 msgid "Operation"
 msgstr "Eş"
 
-#: misc/uiserver.cpp:254
+#: misc/uiserver.cpp:255
 msgid "%1 / %2"
 msgstr "%1 / %2"
 
-#: misc/uiserver.cpp:291
+#: misc/uiserver.cpp:292
 msgid "%1/s"
 msgstr "%1/s"
 
-#: misc/uiserver.cpp:302
+#: misc/uiserver.cpp:303
 msgid "Copying"
 msgstr "Kübäytü"
 
-#: misc/uiserver.cpp:311
+#: misc/uiserver.cpp:312
 msgid "Moving"
 msgstr "Küçerü"
 
-#: misc/uiserver.cpp:320
+#: misc/uiserver.cpp:321
 msgid "Creating"
 msgstr "Yasaw"
 
-#: misc/uiserver.cpp:329
+#: misc/uiserver.cpp:330
 msgid "Deleting"
 msgstr "Beterü"
 
-#: misc/uiserver.cpp:337
+#: misc/uiserver.cpp:338
 msgid "Loading"
 msgstr "Yökläw"
 
-#: misc/uiserver.cpp:362
+#: misc/uiserver.cpp:363
 msgid "Examining"
 msgstr "Sınaw"
 
-#: misc/uiserver.cpp:370
+#: misc/uiserver.cpp:371
 msgid "Mounting"
 msgstr "Bäyläw"
 
-#: misc/uiserver.cpp:608 misc/uiserver.cpp:1097
+#: misc/uiserver.cpp:615 misc/uiserver.cpp:1104
 msgid " Files: %1 "
 msgstr " Birem: %1 "
 
-#: misc/uiserver.cpp:609
+#: misc/uiserver.cpp:616
 msgid ""
 "_: Remaining Size\n"
 " Rem. Size: %1 kB "
 msgstr " Qal. Küläm: %1 kB "
 
-#: misc/uiserver.cpp:610
+#: misc/uiserver.cpp:617
 msgid ""
 "_: Remaining Time\n"
 " Rem. Time: 00:00:00 "
 msgstr " Qal. Waqıt: 00:00:00 "
 
-#: misc/uiserver.cpp:611
+#: misc/uiserver.cpp:618
 msgid " %1 kB/s "
 msgstr " %1 KBit/s "
 
-#: misc/uiserver.cpp:679
+#: misc/uiserver.cpp:686
 msgid "Cancel Job"
 msgstr "Yökne Tuqtat"
 
-#: misc/uiserver.cpp:1098
+#: misc/uiserver.cpp:1105
 msgid ""
 "_: Remaining Size\n"
 " Rem. Size: %1 "
 msgstr " Qal. Küläm: %1 "
 
-#: misc/uiserver.cpp:1100
+#: misc/uiserver.cpp:1107
 msgid ""
 "_: Remaining Time\n"
 " Rem. Time: %1 "
 msgstr " Qal. Waqıt: %1 "
 
-#: misc/uiserver.cpp:1384
+#: misc/uiserver.cpp:1391
 msgid "KDE Progress Information UI Server"
 msgstr "KDE Eşläwe Turında Beleşmä Servere"
 
-#: misc/uiserver.cpp:1387 misc/uiserver.cpp:1388
+#: misc/uiserver.cpp:1394 misc/uiserver.cpp:1395
 msgid "Developer"
 msgstr "Citeşterüçe"
 
