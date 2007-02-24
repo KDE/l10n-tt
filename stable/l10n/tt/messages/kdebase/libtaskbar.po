@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase libtaskbar\n"
-"POT-Creation-Date: 2006-10-07 02:33+0200\n"
+"POT-Creation-Date: 2007-02-24 02:38+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -326,6 +326,60 @@ msgstr ""
 "belän bu bäyägä tayuanıp bilgelände. Şulay itep, töymäsürät ülçämeneñ berärse "
 "dä bu bäyädän arta almí."
 
+#. i18n: file taskbar.kcfg line 154
+#: rc.cpp:127
+#, no-c-format
+msgid "Use custom colors for taskbar buttons text and background"
+msgstr ""
+
+#. i18n: file taskbar.kcfg line 155
+#: rc.cpp:130
+#, no-c-format
+msgid ""
+"Turning this option on will allow choosing your own colors for taskbar buttons "
+"text and background."
+msgstr ""
+
+#. i18n: file taskbar.kcfg line 158
+#: rc.cpp:133
+#, no-c-format
+msgid "Color to use for active task button text"
+msgstr ""
+
+#. i18n: file taskbar.kcfg line 160
+#: rc.cpp:136
+#, no-c-format
+msgid ""
+"This color is used for displaying text on taskbar button for task which is "
+"active at the moment."
+msgstr ""
+
+#. i18n: file taskbar.kcfg line 163
+#: rc.cpp:139
+#, no-c-format
+msgid "Color to use for inactive tasks button text"
+msgstr ""
+
+#. i18n: file taskbar.kcfg line 165
+#: rc.cpp:142
+#, no-c-format
+msgid ""
+"This color is used for displaying text on taskbar button for tasks other than "
+"active."
+msgstr ""
+
+#. i18n: file taskbar.kcfg line 168
+#: rc.cpp:145
+#, no-c-format
+msgid "Color to use for taskbar buttons background"
+msgstr ""
+
+#. i18n: file taskbar.kcfg line 170
+#: rc.cpp:148
+#, no-c-format
+msgid "This color is used for displaying background of taskbar buttons."
+msgstr ""
+
 #: taskbarbindings.cpp:33
 msgid "Next Taskbar Entry"
 msgstr "Qoraltiräneñ Kiläse Kereme"
@@ -334,27 +388,27 @@ msgstr "Qoraltiräneñ Kiläse Kereme"
 msgid "Previous Taskbar Entry"
 msgstr "Yöktiräneñ Ütkän Kereme"
 
-#: taskcontainer.cpp:637 taskcontainer.cpp:1603
+#: taskcontainer.cpp:646 taskcontainer.cpp:1619
 msgid "modified"
 msgstr "üzgärelde"
 
-#: taskcontainer.cpp:1520
+#: taskcontainer.cpp:1536
 msgid "Loading application ..."
 msgstr "Yazılım yökläw..."
 
-#: taskcontainer.cpp:1584
+#: taskcontainer.cpp:1600
 msgid "On all desktops"
 msgstr "Bar östäldä dä"
 
-#: taskcontainer.cpp:1589
+#: taskcontainer.cpp:1605
 #, c-format
 msgid "On %1"
 msgstr "Açıq %1"
 
-#: taskcontainer.cpp:1595
+#: taskcontainer.cpp:1611
 msgid "Requesting attention"
 msgstr "Soraw birelde"
 
-#: taskcontainer.cpp:1601
+#: taskcontainer.cpp:1617
 msgid "Has unsaved changes"
 msgstr "Saqlanmağan üzgäreşlär bar"
