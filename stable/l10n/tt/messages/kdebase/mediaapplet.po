@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase mediaapplet\n"
-"POT-Creation-Date: 2005-06-10 01:24+0200\n"
+"POT-Creation-Date: 2007-03-05 02:39+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -40,11 +40,11 @@ msgstr "Bulışuçı"
 msgid "Good mentor, patient and helpful. Thanks for all!"
 msgstr "Yaqşı tärbiäçe, sabır da, yärdämçel dä. Barısı öçen dä räxmät!"
 
-#: mediaapplet.cpp:428 preferencesdialog.cpp:74
+#: mediaapplet.cpp:429 preferencesdialog.cpp:74
 msgid "Media"
 msgstr "Media"
 
-#: mediaapplet.cpp:429
+#: mediaapplet.cpp:430
 msgid "&Configure..."
 msgstr "&Caylaw..."
 
