@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-03-05 01:53+0000\n"
+"POT-Creation-Date: 2007-03-06 01:54+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -6647,11 +6647,11 @@ msgstr "Name=Bu Östäldäge Täräzä İğtibar Birü Sorí"
 msgid "Comment=A window on the current virtual desktop demands attention"
 msgstr "Comment=Biredäge östäldä bulğan täräzä iğtibar birüne sorí"
 
-#: kwin/eventsrc:5427
+#: kwin/eventsrc:5428
 msgid "Name=Window On Other Desktop Demands Attention"
 msgstr "Name=Başqa Östäldäge Täräzä İğtibar Birü Sorí"
 
-#: kwin/eventsrc:5481
+#: kwin/eventsrc:5482
 msgid "Comment=A window on an inactive virtual desktop demands attention"
 msgstr "Comment=Başqa östäldä bulğan täräzä iğtibar birüne sorí"
 
