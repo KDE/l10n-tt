@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2007-02-26 02:37+0100\n"
+"POT-Creation-Date: 2007-03-17 02:13+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -250,11 +250,11 @@ msgstr ""
 "Mime-törklegen tabıp bulmadı\n"
 "%1"
 
-#: kio/kmimetype.cpp:798
+#: kio/kmimetype.cpp:796
 msgid "The desktop entry file %1 has no Type=... entry."
 msgstr "Östäl öçen %1 atlı kerem biremendä Type=... yazması yuq."
 
-#: kio/kmimetype.cpp:819
+#: kio/kmimetype.cpp:817
 msgid ""
 "The desktop entry of type\n"
 "%1\n"
@@ -264,7 +264,7 @@ msgstr ""
 "%1\n"
 "törendä kerem bilgesez."
 
-#: kio/kmimetype.cpp:833 kio/kmimetype.cpp:935 kio/kmimetype.cpp:1117
+#: kio/kmimetype.cpp:831 kio/kmimetype.cpp:933 kio/kmimetype.cpp:1115
 msgid ""
 "The desktop entry file\n"
 "%1\n"
@@ -274,7 +274,7 @@ msgstr ""
 "%1\n"
 "atlı kerem bireme FSDevice törendä bulsa da, Dev=... yazması yuq."
 
-#: kio/kmimetype.cpp:879
+#: kio/kmimetype.cpp:877
 msgid ""
 "The desktop entry file\n"
 "%1\n"
@@ -284,19 +284,19 @@ msgstr ""
 "%1\n"
 "atlı kerem bireme Link törendä bulsa da, URL=... yazması yuq."
 
-#: kio/kmimetype.cpp:945
+#: kio/kmimetype.cpp:943
 msgid "Mount"
 msgstr "Bäyläp quy"
 
-#: kio/kmimetype.cpp:956
+#: kio/kmimetype.cpp:954
 msgid "Eject"
 msgstr "Çığar"
 
-#: kio/kmimetype.cpp:958
+#: kio/kmimetype.cpp:956
 msgid "Unmount"
 msgstr "Bäyläwne çiş"
 
-#: kio/kmimetype.cpp:1075
+#: kio/kmimetype.cpp:1073
 msgid ""
 "The desktop entry file\n"
 "%1\n"
