@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kwin\n"
-"POT-Creation-Date: 2007-02-07 02:38+0100\n"
+"POT-Creation-Date: 2007-03-23 14:06+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -545,12 +545,12 @@ msgstr "Ös&tälgä"
 msgid "&All Desktops"
 msgstr "&Bar Öställär"
 
-#: workspace.cpp:1013 workspace.cpp:1033
+#: workspace.cpp:1014 workspace.cpp:1034
 #, c-format
 msgid "Desktop %1"
 msgstr "%1 Östäl"
 
-#: workspace.cpp:2384
+#: workspace.cpp:2385
 msgid ""
 "You have selected to show a window without its border.\n"
 "Without the border, you will not be able to enable the border again using the "
@@ -561,7 +561,7 @@ msgstr ""
 "Küse belän genä bu çikne kire qaytartırğa bulmas inde: töylekneñ %1 çaptırğıçı "
 "aşa täräzä üzgärtü saylağın açıp qına anı qaytarıp bula."
 
-#: workspace.cpp:2396
+#: workspace.cpp:2397
 msgid ""
 "You have selected to show a window in fullscreen mode.\n"
 "If the application itself does not have an option to turn the fullscreen mode "
@@ -573,7 +573,7 @@ msgstr ""
 "tulı küräkkä cäyelüen sünderep bulmas inde: töylekneñ %1 çaptırğıçı aşa täräzä "
 "üzgärtü saylağın açıp qına anı qaytarıp bula."
 
-#: workspace.cpp:2433 workspace.cpp:2515
+#: workspace.cpp:2434 workspace.cpp:2516
 msgid ""
 "The Composite Manager could not be started.\\nMake sure you have \"kompmgr\" in "
 "a $PATH directory."
@@ -581,7 +581,7 @@ msgstr ""
 "Composite Manager yazılımın cibärep bulmadı.\\nŞuña kürä \"kompmgr\" yazılımnıñ "
 "$PATH törgägendä buluın tikşerep al."
 
-#: workspace.cpp:2493
+#: workspace.cpp:2494
 msgid ""
 "The Composite Manager crashed twice within a minute and is therefore disabled "
 "for this session."
@@ -589,11 +589,11 @@ msgstr ""
 "Ber minut eçendä Composite Manager yazılımı ike tapqır işelde inde, şuña kürä "
 "anı bu sessidä cibärü mömkinlege sünderelde."
 
-#: workspace.cpp:2494 workspace.cpp:2516 workspace.cpp:2554
+#: workspace.cpp:2495 workspace.cpp:2517 workspace.cpp:2555
 msgid "Composite Manager Failure"
 msgstr "Composite Manager yazılımı işelde"
 
-#: workspace.cpp:2533
+#: workspace.cpp:2534
 msgid ""
 "<qt><b>kompmgr failed to open the display</b>"
 "<br>There is probably an invalid display entry in your ~/.xcompmgrrc.</qt>"
@@ -601,7 +601,7 @@ msgstr ""
 "<qt><b>kompmgr bu küräkne aça almí</b>"
 "<br>Bu ~/.xcompmgrrc bireme eçendä yalğış küräk turında yazmanıñ buluı bar.</qt>"
 
-#: workspace.cpp:2535
+#: workspace.cpp:2536
 msgid ""
 "<qt><b>kompmgr cannot find the Xrender extension</b>"
 "<br>You are using either an outdated or a crippled version of XOrg."
@@ -614,7 +614,7 @@ msgstr ""
 "alası."
 "<br></qt>"
 
-#: workspace.cpp:2537
+#: workspace.cpp:2538
 msgid ""
 "<qt><b>Composite extension not found</b>"
 "<br>You <i>must</i> use XOrg &ge; 6.8 for translucency and shadows to work."
@@ -631,7 +631,7 @@ msgstr ""
 "<br>Option \"Composite\" \"Enable\""
 "<br>EndSection</i></qt>"
 
-#: workspace.cpp:2542
+#: workspace.cpp:2543
 msgid ""
 "<qt><b>Damage extension not found</b>"
 "<br>You <i>must</i> use XOrg &ge; 6.8 for translucency and shadows to work.</qt>"
@@ -640,7 +640,7 @@ msgstr ""
 "<br>Ütäkürenü belän külägä bulsın öçen, XOrg söreme 6.8'dän dä kim bulmasqa <i>"
 "tieş</i>.</qt>"
 
-#: workspace.cpp:2544
+#: workspace.cpp:2545
 msgid ""
 "<qt><b>XFixes extension not found</b>"
 "<br>You <i>must</i> use XOrg &ge; 6.8 for translucency and shadows to work.</qt>"
