@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2007-03-23 14:05+0100\n"
+"POT-Creation-Date: 2007-03-26 21:51+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -4989,7 +4989,7 @@ msgstr "Almaştır"
 msgid "Configure Shortcuts"
 msgstr "Çaptırmalar Caylaw"
 
-#: kdeui/ktabbar.cpp:195
+#: kdeui/ktabbar.cpp:196
 msgid "Close this tab"
 msgstr "Tabaqnı yap"
 
