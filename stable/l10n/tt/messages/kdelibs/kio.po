@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2007-03-26 21:51+0200\n"
+"POT-Creation-Date: 2007-03-30 02:13+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -3829,11 +3829,11 @@ msgstr "Köndälek Saylaw"
 msgid "Select File to Execute"
 msgstr "Eşlätteräse Birem Saylaw"
 
-#: kfile/knotifydialog.cpp:940
+#: kfile/knotifydialog.cpp:942
 msgid "The specified file does not exist."
 msgstr "Äytelgän birem barlıqta yuq."
 
-#: kfile/knotifydialog.cpp:1010
+#: kfile/knotifydialog.cpp:1012
 msgid "No description available"
 msgstr "Açıqlamalar yuq"
 
