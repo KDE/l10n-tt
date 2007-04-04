@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-03-23 13:11+0000\n"
+"POT-Creation-Date: 2007-04-04 00:20+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -66,6 +66,11 @@ msgstr "Name=Dança"
 #: de/messages/entry.desktop:2
 msgid "Name=German"
 msgstr "Name=Almança"
+
+#: documentation/koffice/koffice.desktop:4
+#, fuzzy
+msgid "Name=KOffice"
+msgstr "Name=Koreyçä"
 
 #: el/messages/entry.desktop:2
 msgid "Name=Greek"
