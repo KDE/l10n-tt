@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdcop\n"
-"POT-Creation-Date: 2006-01-07 03:12+0100\n"
+"POT-Creation-Date: 2007-04-11 02:14+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -18,23 +18,29 @@ msgstr ""
 msgid "&Extra"
 msgstr "&Olı"
 
-#. i18n: file kdcopview.ui line 69
+#. i18n: file kdcopview.ui line 17
 #: rc.cpp:9
+#, no-c-format
+msgid "kdcopview"
+msgstr "kdcopview"
+
+#. i18n: file kdcopview.ui line 36
+#: rc.cpp:12
+#, fuzzy, no-c-format
+msgid "&Search:"
+msgstr "&Ezlä:"
+
+#. i18n: file kdcopview.ui line 81
+#: rc.cpp:15
 #, no-c-format
 msgid "none"
 msgstr "yuq"
 
-#. i18n: file kdcopview.ui line 94
-#: rc.cpp:12
+#. i18n: file kdcopview.ui line 111
+#: rc.cpp:18
 #, no-c-format
 msgid "Returned data type:"
 msgstr "Qaytarılğan birem töre:"
-
-#. i18n: file kdcopview.ui line 114
-#: rc.cpp:15
-#, no-c-format
-msgid "Se&arch:"
-msgstr "&Ezlä:"
 
 #: _translatorinfo.cpp:1
 msgid ""
@@ -167,6 +173,3 @@ msgstr "Qaytarılğan bäyä yuq"
 #, c-format
 msgid "Do not know how to demarshal %1"
 msgstr "%1 digänen tezelmägän itü räweşe bilgesez"
-
-#~ msgid "kdcopview"
-#~ msgstr "kdcopview"
