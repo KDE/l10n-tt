@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-04-01 00:20+0000\n"
+"POT-Creation-Date: 2007-04-12 00:19+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -997,48 +997,48 @@ msgstr "Comment=KDE tuqtatıla"
 msgid "Name=Logout canceled"
 msgstr "Name=Çığış"
 
-#: kdecore/eventsrc:1751
+#: kdecore/eventsrc:1752
 #, fuzzy
 msgid "Comment=KDE logout was canceled"
 msgstr "Comment=KDED Modulı"
 
-#: kdecore/eventsrc:1776
+#: kdecore/eventsrc:1778
 msgid "Name=Print error"
 msgstr "Name=Bastıru xatası"
 
-#: kdecore/eventsrc:1856
+#: kdecore/eventsrc:1858
 msgid "Comment=A print error has occurred"
 msgstr "Comment=Bastıru xatası bulıp çıqtı"
 
-#: kdecore/eventsrc:1934
+#: kdecore/eventsrc:1936
 msgid "Name=Information message"
 msgstr "Name=Belderü xäbäre"
 
-#: kdecore/eventsrc:2008
+#: kdecore/eventsrc:2010
 msgid "Comment=An information message is being shown"
 msgstr "Comment=Belderü xäbäre kürsätelä"
 
-#: kdecore/eventsrc:2086
+#: kdecore/eventsrc:2088
 msgid "Name=Warning message"
 msgstr "Name=Kisätü xäbäre"
 
-#: kdecore/eventsrc:2159
+#: kdecore/eventsrc:2161
 msgid "Comment=A warning message is being shown"
 msgstr "Comment=Kisätü xäbäre kürsätelä"
 
-#: kdecore/eventsrc:2238
+#: kdecore/eventsrc:2240
 msgid "Name=Critical message"
 msgstr "Name=Kisken xäl xäbäre"
 
-#: kdecore/eventsrc:2310
+#: kdecore/eventsrc:2312
 msgid "Comment=A critical message is being shown"
 msgstr "Comment=Kisken xäl xäbäre kürsätelä"
 
-#: kdecore/eventsrc:2388
+#: kdecore/eventsrc:2390
 msgid "Name=Question"
 msgstr "Name=Soraw"
 
-#: kdecore/eventsrc:2461
+#: kdecore/eventsrc:2463
 msgid "Comment=A question is being asked"
 msgstr "Comment=Ber soraw birelde"
 
