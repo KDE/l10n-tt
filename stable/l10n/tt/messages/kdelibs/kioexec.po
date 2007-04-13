@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kioexec\n"
-"POT-Creation-Date: 2006-12-18 02:33+0100\n"
+"POT-Creation-Date: 2007-04-13 02:13+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -92,7 +92,7 @@ msgstr "Yökläw"
 msgid "Do Not Upload"
 msgstr "Yöklämäskä"
 
-#: main.cpp:269
+#: main.cpp:274
 msgid "KIOExec"
 msgstr "KIOExec"
 
