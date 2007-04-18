@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs katepart\n"
-"POT-Creation-Date: 2007-02-18 02:38+0100\n"
+"POT-Creation-Date: 2007-04-18 02:14+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -765,52 +765,52 @@ msgstr ""
 msgid "Close Nevertheless"
 msgstr "Aña Qaramíça Yap"
 
-#: part/katedocument.cpp:4247 part/katedocument.cpp:4980 part/kateview.cpp:863
+#: part/katedocument.cpp:4256 part/katedocument.cpp:4989 part/kateview.cpp:863
 msgid "Save File"
 msgstr "Biremne Saqla"
 
-#: part/katedocument.cpp:4256
+#: part/katedocument.cpp:4265
 msgid "Save failed"
 msgstr "Saqlap bulmadı"
 
-#: part/katedialogs.cpp:1615 part/katedocument.cpp:4318
+#: part/katedialogs.cpp:1615 part/katedocument.cpp:4327
 msgid "What do you want to do?"
 msgstr "Ni eşlise kilä?"
 
-#: part/katedocument.cpp:4319
+#: part/katedocument.cpp:4328
 msgid "File Was Changed on Disk"
 msgstr "Disk Eçendäge Birem Üzgärtelgän"
 
-#: part/katedialogs.cpp:1593 part/katedocument.cpp:4319
+#: part/katedialogs.cpp:1593 part/katedocument.cpp:4328
 msgid "&Reload File"
 msgstr "&Yañadan Yöklä"
 
-#: part/katedocument.cpp:4319
+#: part/katedocument.cpp:4328
 msgid "&Ignore Changes"
 msgstr "&Üzgäreşkä Qaramasqa"
 
-#: part/katedocument.cpp:4897
+#: part/katedocument.cpp:4906
 msgid "The file '%1' was modified by another program."
 msgstr "'%1' atlı birem başqa yazılımnan üzgärtelgän bulğan."
 
-#: part/katedocument.cpp:4900
+#: part/katedocument.cpp:4909
 msgid "The file '%1' was created by another program."
 msgstr "'%1' atlı birem başqa yazılımnan yasalğan bulğan."
 
-#: part/katedocument.cpp:4903
+#: part/katedocument.cpp:4912
 msgid "The file '%1' was deleted by another program."
 msgstr "'%1' atlı birem başqa yazılımnan beterelgän bulğan."
 
-#: part/katedocument.cpp:5008 part/kateview.cpp:890
+#: part/katedocument.cpp:5017 part/kateview.cpp:890
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr "%1 atlı birem bar inde. Anıñ östennän yazıp almaştırasımı?"
 
-#: part/katedocument.cpp:5010 part/kateview.cpp:891
+#: part/katedocument.cpp:5019 part/kateview.cpp:891
 msgid "Overwrite File?"
 msgstr "Biremne Östennän Yazasımı?"
 
-#: part/katedocument.cpp:5011 part/kateview.cpp:892
+#: part/katedocument.cpp:5020 part/kateview.cpp:892
 msgid "&Overwrite"
 msgstr "&Östän Yaz"
 
@@ -1193,7 +1193,7 @@ msgstr "Yaña Tözeleş"
 msgid "Context"
 msgstr "Eştirä"
 
-#: part/kateautoindent.cpp:97 part/katehighlight.cpp:3144
+#: part/kateautoindent.cpp:97 part/katehighlight.cpp:3159
 #: part/kateschema.cpp:1058
 msgid "Normal"
 msgstr "Ğädäti"
@@ -1999,7 +1999,7 @@ msgstr "KDE'neñ Töpcayı"
 msgid "Name"
 msgstr "İsem"
 
-#: part/katedialogs.cpp:1117 part/katehighlight.cpp:3152
+#: part/katedialogs.cpp:1117 part/katehighlight.cpp:3167
 msgid "Comment"
 msgstr "Açıqlama"
 
@@ -2867,80 +2867,80 @@ msgstr ""
 "<B>%1</B>: İskergän tözeleş. %2 digän köylämä xärefle atama belän "
 "yullanmağan<BR>"
 
-#: part/katehighlight.cpp:2333
+#: part/katehighlight.cpp:2335
 msgid "<B>%1</B>: Deprecated syntax. Context %2 has no symbolic name<BR>"
 msgstr "<B>%1</B>: İskergän tözeleş. %2 qullanu urınınıñ xäreble atama yuq<BR>"
 
-#: part/katehighlight.cpp:2377
+#: part/katehighlight.cpp:2379
 msgid ""
 "<B>%1</B>:Deprecated syntax. Context %2 not addressed by a symbolic name"
 msgstr ""
 "<B>%1</B>: İskergän tözeleş. %2 qullanu urını xärefle atama belän "
 "yullanmağan<BR>"
 
-#: part/katehighlight.cpp:2484
+#: part/katehighlight.cpp:2494
 msgid ""
 "There were warning(s) and/or error(s) while parsing the syntax highlighting "
 "configuration."
 msgstr ""
 "Cömlä tözeleşen yaqtırtu caylawın uqığanda belderülär belän/yä xatalar kürende."
 
-#: part/katehighlight.cpp:2486
+#: part/katehighlight.cpp:2496
 msgid "Kate Syntax Highlighting Parser"
 msgstr "Kate öçen Nöhü Yaqtırtu Qoralı"
 
-#: part/katehighlight.cpp:2637
+#: part/katehighlight.cpp:2647
 msgid ""
 "Since there has been an error parsing the highlighting description, this "
 "highlighting will be disabled"
 msgstr "Yaqtırtu caylawında xatalar bulğaç, bu yaqtırtu sünderelgän buldı"
 
-#: part/katehighlight.cpp:2834
+#: part/katehighlight.cpp:2849
 msgid ""
 "<B>%1</B>: Specified multiline comment region (%2) could not be resolved<BR>"
 msgstr "<B>%1</B>: Üzençälekle küpyullı ölkäne (%2) isäpläp bulmí<BR>"
 
-#: part/katehighlight.cpp:3145
+#: part/katehighlight.cpp:3160
 msgid "Keyword"
 msgstr "Töpsüz"
 
-#: part/katehighlight.cpp:3146
+#: part/katehighlight.cpp:3161
 msgid "Data Type"
 msgstr "Birem Töre"
 
-#: part/katehighlight.cpp:3147
+#: part/katehighlight.cpp:3162
 msgid "Decimal/Value"
 msgstr "Unışarlı/Bäyä"
 
-#: part/katehighlight.cpp:3148
+#: part/katehighlight.cpp:3163
 msgid "Base-N Integer"
 msgstr "Asıl-N Tulısan"
 
-#: part/katehighlight.cpp:3149
+#: part/katehighlight.cpp:3164
 msgid "Floating Point"
 msgstr "Yözgän Tap"
 
-#: part/katehighlight.cpp:3150
+#: part/katehighlight.cpp:3165
 msgid "Character"
 msgstr "Xäref"
 
-#: part/katehighlight.cpp:3151
+#: part/katehighlight.cpp:3166
 msgid "String"
 msgstr "Sätir"
 
-#: part/katehighlight.cpp:3153
+#: part/katehighlight.cpp:3168
 msgid "Others"
 msgstr "Başqa"
 
-#: part/katehighlight.cpp:3154
+#: part/katehighlight.cpp:3169
 msgid "Alert"
 msgstr "Belderü"
 
-#: part/katehighlight.cpp:3155
+#: part/katehighlight.cpp:3170
 msgid "Function"
 msgstr "Funksí"
 
-#: part/katehighlight.cpp:3157
+#: part/katehighlight.cpp:3172
 msgid "Region Marker"
 msgstr "Alan Bilgeläw"
 
