@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2007-04-13 02:13+0200\n"
+"POT-Creation-Date: 2007-04-21 02:14+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -165,11 +165,11 @@ msgstr "%n URL Östä&p quy"
 msgid "&Paste Clipboard Contents"
 msgstr "Alışukesädän Östä&p quy"
 
-#: kio/observer.cpp:332 misc/uiserver.cpp:1225
+#: kio/observer.cpp:332 misc/uiserver.cpp:1218
 msgid "The peer SSL certificate appears to be corrupt."
 msgstr "Bu SSL-tanıqlıq bozıq kebek kürenä."
 
-#: kio/observer.cpp:332 kio/tcpslavebase.cpp:706 misc/uiserver.cpp:1225
+#: kio/observer.cpp:332 kio/tcpslavebase.cpp:706 misc/uiserver.cpp:1218
 msgid "SSL"
 msgstr "SSL"
 
@@ -448,7 +448,7 @@ msgstr "Birem &Açu"
 msgid "Open &Destination"
 msgstr "&Urınlaştıruın Aç"
 
-#: kio/defaultprogress.cpp:179 misc/uiserver.cpp:639
+#: kio/defaultprogress.cpp:179 misc/uiserver.cpp:632
 msgid "Progress Dialog"
 msgstr "Alğa Kiteş Täräzäse"
 
@@ -516,7 +516,7 @@ msgid ""
 "%1 / %n files"
 msgstr "%1 / %n birem"
 
-#: kio/defaultprogress.cpp:325 misc/uiserver.cpp:289
+#: kio/defaultprogress.cpp:325 misc/uiserver.cpp:288
 msgid "Stalled"
 msgstr "Tuqtağan"
 
@@ -553,7 +553,7 @@ msgstr "Birem Sınaw Barışı"
 msgid "Mounting %1"
 msgstr "%1 Bäyläw"
 
-#: kio/defaultprogress.cpp:410 misc/uiserver.cpp:379
+#: kio/defaultprogress.cpp:410 misc/uiserver.cpp:378
 msgid "Unmounting"
 msgstr "Ayıru"
 
@@ -2249,7 +2249,7 @@ msgstr "Açıqlanmağan Xata"
 msgid " Stalled "
 msgstr " Tuqtağan "
 
-#: kio/statusbarprogress.cpp:134 misc/uiserver.cpp:1109
+#: kio/statusbarprogress.cpp:134 misc/uiserver.cpp:1102
 msgid " %1/s "
 msgstr " %1/s "
 
@@ -2581,7 +2581,7 @@ msgstr "Andí ozınlıqta açqıç totılmí."
 msgid "KDE SSL Information"
 msgstr "KDE'neñ SSL Turında"
 
-#: kssl/ksslkeygen.cc:97 misc/uiserver.cpp:1390
+#: kssl/ksslkeygen.cc:97 misc/uiserver.cpp:1383
 msgid "KDE"
 msgstr "KDE"
 
@@ -3019,160 +3019,160 @@ msgstr "telnet protokol eşkärtkeçe"
 msgid "You do not have permission to access the %1 protocol."
 msgstr "%1 protokolın qullanırlıq xoquqlarıñ citmi."
 
-#: misc/uiserver.cpp:99 misc/uiserver.cpp:610 misc/uiserver.cpp:689
+#: misc/uiserver.cpp:98 misc/uiserver.cpp:603 misc/uiserver.cpp:682
 msgid "Settings..."
 msgstr "Caylaw..."
 
-#: misc/uiserver.cpp:127
+#: misc/uiserver.cpp:126
 msgid "Configure Network Operation Window"
 msgstr "Çeltärle Eşlär Täräzäsen Caylaw"
 
-#: misc/uiserver.cpp:131
+#: misc/uiserver.cpp:130
 msgid "Show system tray icon"
 msgstr "Sistem ulaq tamğasın kürsätäse"
 
-#: misc/uiserver.cpp:132
+#: misc/uiserver.cpp:131
 msgid "Keep network operation window always open"
 msgstr "Çeltärneñ eş täräzäsen barçaqta açıq totası"
 
-#: misc/uiserver.cpp:133
+#: misc/uiserver.cpp:132
 msgid "Show column headers"
 msgstr "Buy başlıqların kürsätü"
 
-#: misc/uiserver.cpp:134
+#: misc/uiserver.cpp:133
 msgid "Show toolbar"
 msgstr "Qoraltirä kürsätäse"
 
-#: misc/uiserver.cpp:135
+#: misc/uiserver.cpp:134
 msgid "Show statusbar"
 msgstr "Xältirä kürsätäse"
 
-#: misc/uiserver.cpp:136
+#: misc/uiserver.cpp:135
 msgid "Column widths are user adjustable"
 msgstr "Buy kiñlgen köyläp bula"
 
-#: misc/uiserver.cpp:137
+#: misc/uiserver.cpp:136
 msgid "Show information:"
 msgstr "Belem kürsätü:"
 
-#: misc/uiserver.cpp:144 misc/uiserver.cpp:481
+#: misc/uiserver.cpp:143 misc/uiserver.cpp:474
 msgid "URL"
 msgstr "URL"
 
-#: misc/uiserver.cpp:145 misc/uiserver.cpp:480
+#: misc/uiserver.cpp:144 misc/uiserver.cpp:473
 msgid ""
 "_: Remaining Time\n"
 "Rem. Time"
 msgstr "Qal. Waqıt"
 
-#: misc/uiserver.cpp:146 misc/uiserver.cpp:479
+#: misc/uiserver.cpp:145 misc/uiserver.cpp:472
 msgid "Speed"
 msgstr "Tizlek"
 
-#: kfile/kfiledetailview.cpp:67 misc/uiserver.cpp:147 misc/uiserver.cpp:478
+#: kfile/kfiledetailview.cpp:67 misc/uiserver.cpp:146 misc/uiserver.cpp:471
 msgid "Size"
 msgstr "Olılıq"
 
-#: misc/uiserver.cpp:148 misc/uiserver.cpp:477
+#: misc/uiserver.cpp:147 misc/uiserver.cpp:470
 #, c-format
 msgid "%"
 msgstr "%"
 
-#: misc/uiserver.cpp:149 misc/uiserver.cpp:476
+#: misc/uiserver.cpp:148 misc/uiserver.cpp:469
 msgid "Count"
 msgstr "San"
 
-#: misc/uiserver.cpp:150 misc/uiserver.cpp:475
+#: misc/uiserver.cpp:149 misc/uiserver.cpp:468
 msgid ""
 "_: Resume\n"
 "Res."
 msgstr "Dwm."
 
-#: misc/uiserver.cpp:151 misc/uiserver.cpp:474
+#: misc/uiserver.cpp:150 misc/uiserver.cpp:467
 msgid "Local Filename"
 msgstr "Cirle Birem Adı"
 
-#: misc/uiserver.cpp:152 misc/uiserver.cpp:473
+#: misc/uiserver.cpp:151 misc/uiserver.cpp:466
 msgid "Operation"
 msgstr "Eş"
 
-#: misc/uiserver.cpp:255
+#: misc/uiserver.cpp:254
 msgid "%1 / %2"
 msgstr "%1 / %2"
 
-#: misc/uiserver.cpp:292
+#: misc/uiserver.cpp:291
 msgid "%1/s"
 msgstr "%1/s"
 
-#: misc/uiserver.cpp:303
+#: misc/uiserver.cpp:302
 msgid "Copying"
 msgstr "Kübäytü"
 
-#: misc/uiserver.cpp:312
+#: misc/uiserver.cpp:311
 msgid "Moving"
 msgstr "Küçerü"
 
-#: misc/uiserver.cpp:321
+#: misc/uiserver.cpp:320
 msgid "Creating"
 msgstr "Yasaw"
 
-#: misc/uiserver.cpp:330
+#: misc/uiserver.cpp:329
 msgid "Deleting"
 msgstr "Beterü"
 
-#: misc/uiserver.cpp:338
+#: misc/uiserver.cpp:337
 msgid "Loading"
 msgstr "Yökläw"
 
-#: misc/uiserver.cpp:363
+#: misc/uiserver.cpp:362
 msgid "Examining"
 msgstr "Sınaw"
 
-#: misc/uiserver.cpp:371
+#: misc/uiserver.cpp:370
 msgid "Mounting"
 msgstr "Bäyläw"
 
-#: misc/uiserver.cpp:615 misc/uiserver.cpp:1104
+#: misc/uiserver.cpp:608 misc/uiserver.cpp:1097
 msgid " Files: %1 "
 msgstr " Birem: %1 "
 
-#: misc/uiserver.cpp:616
+#: misc/uiserver.cpp:609
 msgid ""
 "_: Remaining Size\n"
 " Rem. Size: %1 kB "
 msgstr " Qal. Küläm: %1 kB "
 
-#: misc/uiserver.cpp:617
+#: misc/uiserver.cpp:610
 msgid ""
 "_: Remaining Time\n"
 " Rem. Time: 00:00:00 "
 msgstr " Qal. Waqıt: 00:00:00 "
 
-#: misc/uiserver.cpp:618
+#: misc/uiserver.cpp:611
 msgid " %1 kB/s "
 msgstr " %1 KBit/s "
 
-#: misc/uiserver.cpp:686
+#: misc/uiserver.cpp:679
 msgid "Cancel Job"
 msgstr "Yökne Tuqtat"
 
-#: misc/uiserver.cpp:1105
+#: misc/uiserver.cpp:1098
 msgid ""
 "_: Remaining Size\n"
 " Rem. Size: %1 "
 msgstr " Qal. Küläm: %1 "
 
-#: misc/uiserver.cpp:1107
+#: misc/uiserver.cpp:1100
 msgid ""
 "_: Remaining Time\n"
 " Rem. Time: %1 "
 msgstr " Qal. Waqıt: %1 "
 
-#: misc/uiserver.cpp:1391
+#: misc/uiserver.cpp:1384
 msgid "KDE Progress Information UI Server"
 msgstr "KDE Eşläwe Turında Beleşmä Servere"
 
-#: misc/uiserver.cpp:1394 misc/uiserver.cpp:1395
+#: misc/uiserver.cpp:1387 misc/uiserver.cpp:1388
 msgid "Developer"
 msgstr "Citeşterüçe"
 
@@ -5666,11 +5666,11 @@ msgstr ""
 "Bu yazılımnıñ eşlätü yulın, cibärelüen belderü, DCOP caylawın, nindi "
 "qullanuçıdan eşlätüen üzgärtü öçen bonda çirtäse."
 
-#: ../kioslave/http/http.cc:5118 kpasswdserver/kpasswdserver.cpp:346
+#: ../kioslave/http/http.cc:5127 kpasswdserver/kpasswdserver.cpp:346
 msgid "  Do you want to retry?"
 msgstr "  Qabatlísımı?"
 
-#: ../kioslave/http/http.cc:5119 kpasswdserver/kpasswdserver.cpp:348
+#: ../kioslave/http/http.cc:5128 kpasswdserver/kpasswdserver.cpp:348
 msgid "Authentication"
 msgstr "Tanılu"
 
@@ -5862,11 +5862,11 @@ msgstr ""
 "%2\n"
 "\n"
 
-#: ../kioslave/ftp/ftp.cc:596 ../kioslave/http/http.cc:5130
+#: ../kioslave/ftp/ftp.cc:596 ../kioslave/http/http.cc:5139
 msgid "You need to supply a username and a password to access this site."
 msgstr "Berär säxifägä ireşü aldınnan qullanuçı adı belän sersüz kertäse bar."
 
-#: ../kioslave/ftp/ftp.cc:598 ../kioslave/http/http.cc:5138
+#: ../kioslave/ftp/ftp.cc:598 ../kioslave/http/http.cc:5147
 msgid "Site:"
 msgstr "Säxifä:"
 
@@ -6257,36 +6257,36 @@ msgstr "%1 belän totaşıldıq. Cawap kötelä..."
 msgid "Server processing request, please wait..."
 msgstr "Server sorawnı eşkärtä, kötäse beraz..."
 
-#: ../kioslave/http/http.cc:3874
+#: ../kioslave/http/http.cc:3883
 msgid "Requesting data to send"
 msgstr "Cibäräse birem soraw"
 
-#: ../kioslave/http/http.cc:3915
+#: ../kioslave/http/http.cc:3924
 #, c-format
 msgid "Sending data to %1"
 msgstr "%1 taba birem cibärü"
 
-#: ../kioslave/http/http.cc:4324
+#: ../kioslave/http/http.cc:4333
 msgid "Retrieving %1 from %2..."
 msgstr "%1 tarafınnan %2 öçen alu..."
 
-#: ../kioslave/http/http.cc:4333
+#: ../kioslave/http/http.cc:4342
 msgid "Retrieving from %1..."
 msgstr "%1 tarafınnan alu..."
 
-#: ../kioslave/http/http.cc:5110 ../kioslave/http/http.cc:5258
+#: ../kioslave/http/http.cc:5119 ../kioslave/http/http.cc:5267
 msgid "Authentication Failed."
 msgstr "Tanılu Uzmadı."
 
-#: ../kioslave/http/http.cc:5113 ../kioslave/http/http.cc:5261
+#: ../kioslave/http/http.cc:5122 ../kioslave/http/http.cc:5270
 msgid "Proxy Authentication Failed."
 msgstr "Proxy Tanılu Uzmadı."
 
-#: ../kioslave/http/http.cc:5139 ../kioslave/http/http.cc:5156
+#: ../kioslave/http/http.cc:5148 ../kioslave/http/http.cc:5165
 msgid "<b>%1</b> at <b>%2</b>"
 msgstr "<b>%1</b>, <b>%2</b>"
 
-#: ../kioslave/http/http.cc:5146
+#: ../kioslave/http/http.cc:5155
 msgid ""
 "You need to supply a username and a password for the proxy server listed below "
 "before you are allowed to access any sites."
@@ -6294,15 +6294,15 @@ msgstr ""
 "Berär säxifägä ireşü aldınnan asta kürsätelgän proxy server öçen qullanuçı adı "
 "belän sersüz kertäse bar."
 
-#: ../kioslave/http/http.cc:5155
+#: ../kioslave/http/http.cc:5164
 msgid "Proxy:"
 msgstr "Proxy:"
 
-#: ../kioslave/http/http.cc:5177
+#: ../kioslave/http/http.cc:5186
 msgid "Authentication needed for %1 but authentication is disabled."
 msgstr "%1 öçen tanılğan bulu kiräk, tanılu isä sünek tora."
 
-#: ../kioslave/http/http.cc:5799
+#: ../kioslave/http/http.cc:5808
 msgid ""
 "Unsupported method: authentication will fail. Please submit a bug report."
 msgstr "Totılmağan ısul: tanılu uzmadı. Bet yomğağın cibäräse."
