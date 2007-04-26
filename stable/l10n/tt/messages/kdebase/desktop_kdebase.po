@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-04-25 00:20+0000\n"
+"POT-Creation-Date: 2007-04-26 00:20+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -5172,11 +5172,11 @@ msgstr "Name=Uyınnar"
 #: khotkeys/data/konqueror_gestures_kde321.khotkeys:205
 #: khotkeys/data/konqueror_gestures_kde321.khotkeys:231
 #: khotkeys/data/konqueror_gestures_kde321.khotkeys:257
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:283
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:313
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:343
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:369
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:395
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:360
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:390
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:420
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:524
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:550
 #: khotkeys/data/printscreen.khotkeys:14 khotkeys/data/printscreen.khotkeys:31
 #, fuzzy
 msgid "Comment="
@@ -5362,11 +5362,11 @@ msgstr "Name=Blackbox"
 #: khotkeys/data/konqueror_gestures_kde321.khotkeys:209
 #: khotkeys/data/konqueror_gestures_kde321.khotkeys:235
 #: khotkeys/data/konqueror_gestures_kde321.khotkeys:261
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:287
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:317
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:347
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:373
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:399
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:364
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:394
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:424
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:528
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:554
 #, fuzzy
 msgid "Comment=Gesture_triggers"
 msgstr "Comment=UserAgent Sätirläre"
@@ -5384,7 +5384,7 @@ msgid "Name=Up"
 msgstr "Name=UDE"
 
 #: khotkeys/data/kde32b1.khotkeys:354
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:383
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:538
 #, fuzzy
 msgid "Name=Reload"
 msgstr "Name=Redmond"
@@ -5491,37 +5491,37 @@ msgid ""
 "release.\\n(Drawing a lowercase 'h'.)"
 msgstr ""
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:299
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:376
 msgid ""
 "Comment=Press, move right, move down, move right, release.\\nMozilla-style: "
 "Press, move down, move right, release."
 msgstr ""
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:301
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:378
 #, fuzzy
 msgid "Name=Close Tab"
 msgstr "Name=Töslär"
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:329
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:406
 msgid ""
 "Comment=Press, move up, release.\\nConflicts with Opera-style 'Up #2', which is "
 "disabled by default."
 msgstr ""
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:331
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:408
 #, fuzzy
 msgid "Name=New Tab"
 msgstr "Name=Yaña Dialog"
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:355
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:432
 msgid "Comment=Press, move down, release."
 msgstr ""
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:357 kwin/eventsrc:2964
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:434 kwin/eventsrc:2964
 msgid "Name=New Window"
 msgstr "Name=Yana Täräzä"
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:381
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:536
 msgid "Comment=Press, move up, move down, release."
 msgstr ""
 
