@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2007-04-13 02:14+0200\n"
+"POT-Creation-Date: 2007-04-27 02:14+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2702,7 +2702,7 @@ msgstr "&Cäyep quy"
 msgid "&Maximize"
 msgstr "&Cäyep quy"
 
-#: kdeui/ksystemtray.cpp:154 kmdi/kmdichildfrm.cpp:1263
+#: kdeui/ksystemtray.cpp:155 kmdi/kmdichildfrm.cpp:1263
 msgid "&Minimize"
 msgstr "&Törep quy"
 
@@ -6374,11 +6374,11 @@ msgstr "Xäbärne Yap"
 msgid "Custom..."
 msgstr "Köyläwle..."
 
-#: kdeui/ksystemtray.cpp:189
+#: kdeui/ksystemtray.cpp:190
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt><b>%1</b> eçennän çınlap ta çığasımı?</qt>"
 
-#: kdeui/ksystemtray.cpp:192
+#: kdeui/ksystemtray.cpp:193
 msgid "Confirm Quit From System Tray"
 msgstr "Sistem Ulağınnan Çığunı Raslaw"
 
