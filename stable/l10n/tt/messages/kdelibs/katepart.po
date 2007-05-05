@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs katepart\n"
-"POT-Creation-Date: 2007-04-28 02:13+0200\n"
+"POT-Creation-Date: 2007-05-05 02:14+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -1193,7 +1193,7 @@ msgstr "Yaña Tözeleş"
 msgid "Context"
 msgstr "Eştirä"
 
-#: part/kateautoindent.cpp:97 part/katehighlight.cpp:3163
+#: part/kateautoindent.cpp:97 part/katehighlight.cpp:3166
 #: part/kateschema.cpp:1058
 msgid "Normal"
 msgstr "Ğädäti"
@@ -1999,7 +1999,7 @@ msgstr "KDE'neñ Töpcayı"
 msgid "Name"
 msgstr "İsem"
 
-#: part/katedialogs.cpp:1117 part/katehighlight.cpp:3171
+#: part/katedialogs.cpp:1117 part/katehighlight.cpp:3174
 msgid "Comment"
 msgstr "Açıqlama"
 
@@ -2871,76 +2871,76 @@ msgstr ""
 msgid "<B>%1</B>: Deprecated syntax. Context %2 has no symbolic name<BR>"
 msgstr "<B>%1</B>: İskergän tözeleş. %2 qullanu urınınıñ xäreble atama yuq<BR>"
 
-#: part/katehighlight.cpp:2383
+#: part/katehighlight.cpp:2386
 msgid ""
 "<B>%1</B>:Deprecated syntax. Context %2 not addressed by a symbolic name"
 msgstr ""
 "<B>%1</B>: İskergän tözeleş. %2 qullanu urını xärefle atama belän "
 "yullanmağan<BR>"
 
-#: part/katehighlight.cpp:2498
+#: part/katehighlight.cpp:2501
 msgid ""
 "There were warning(s) and/or error(s) while parsing the syntax highlighting "
 "configuration."
 msgstr ""
 "Cömlä tözeleşen yaqtırtu caylawın uqığanda belderülär belän/yä xatalar kürende."
 
-#: part/katehighlight.cpp:2500
+#: part/katehighlight.cpp:2503
 msgid "Kate Syntax Highlighting Parser"
 msgstr "Kate öçen Nöhü Yaqtırtu Qoralı"
 
-#: part/katehighlight.cpp:2651
+#: part/katehighlight.cpp:2654
 msgid ""
 "Since there has been an error parsing the highlighting description, this "
 "highlighting will be disabled"
 msgstr "Yaqtırtu caylawında xatalar bulğaç, bu yaqtırtu sünderelgän buldı"
 
-#: part/katehighlight.cpp:2853
+#: part/katehighlight.cpp:2856
 msgid ""
 "<B>%1</B>: Specified multiline comment region (%2) could not be resolved<BR>"
 msgstr "<B>%1</B>: Üzençälekle küpyullı ölkäne (%2) isäpläp bulmí<BR>"
 
-#: part/katehighlight.cpp:3164
+#: part/katehighlight.cpp:3167
 msgid "Keyword"
 msgstr "Töpsüz"
 
-#: part/katehighlight.cpp:3165
+#: part/katehighlight.cpp:3168
 msgid "Data Type"
 msgstr "Birem Töre"
 
-#: part/katehighlight.cpp:3166
+#: part/katehighlight.cpp:3169
 msgid "Decimal/Value"
 msgstr "Unışarlı/Bäyä"
 
-#: part/katehighlight.cpp:3167
+#: part/katehighlight.cpp:3170
 msgid "Base-N Integer"
 msgstr "Asıl-N Tulısan"
 
-#: part/katehighlight.cpp:3168
+#: part/katehighlight.cpp:3171
 msgid "Floating Point"
 msgstr "Yözgän Tap"
 
-#: part/katehighlight.cpp:3169
+#: part/katehighlight.cpp:3172
 msgid "Character"
 msgstr "Xäref"
 
-#: part/katehighlight.cpp:3170
+#: part/katehighlight.cpp:3173
 msgid "String"
 msgstr "Sätir"
 
-#: part/katehighlight.cpp:3172
+#: part/katehighlight.cpp:3175
 msgid "Others"
 msgstr "Başqa"
 
-#: part/katehighlight.cpp:3173
+#: part/katehighlight.cpp:3176
 msgid "Alert"
 msgstr "Belderü"
 
-#: part/katehighlight.cpp:3174
+#: part/katehighlight.cpp:3177
 msgid "Function"
 msgstr "Funksí"
 
-#: part/katehighlight.cpp:3176
+#: part/katehighlight.cpp:3179
 msgid "Region Marker"
 msgstr "Alan Bilgeläw"
 
