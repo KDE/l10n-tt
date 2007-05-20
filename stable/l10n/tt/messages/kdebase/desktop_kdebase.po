@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-05-19 00:20+0000\n"
+"POT-Creation-Date: 2007-05-20 00:21+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -3602,7 +3602,7 @@ msgid "Comment=Use to configure which windows (SMB) filesystems you can browse"
 msgstr ""
 "Comment=Windows çeltärendä büleneşkän belem qaraw tärtibeneñ caylawları"
 
-#: kcontrol/kio/smb.desktop:164
+#: kcontrol/kio/smb.desktop:165
 msgid ""
 "Keywords=SMB,SAMBA,SMB client,Windows "
 "network,LAN,Network,neighborhood,Server,Broadcast,WINS,Share,Login,Passwords"
@@ -3736,11 +3736,11 @@ msgstr "Name=UADescription (Wget 1.5.3)"
 msgid "Name=Browser Identification"
 msgstr "Name=Browser Tanışması"
 
-#: kcontrol/kio/useragent.desktop:87
+#: kcontrol/kio/useragent.desktop:88
 msgid "Comment=Configure the way Konqueror reports itself"
 msgstr "Comment=Konqueror üz-üzen beldergän ısulın saylaw"
 
-#: kcontrol/kio/useragent.desktop:159
+#: kcontrol/kio/useragent.desktop:161
 msgid ""
 "Keywords=User Agent,Browser,Internet,WWW,Network,agent,bindings,server,login"
 msgstr ""
@@ -3762,11 +3762,11 @@ msgstr "Keywords=System sounds,Audio,Sound,Notify,Alerts,Notification"
 msgid "Name=Multiple Desktops"
 msgstr "Name=Östäl Sanı"
 
-#: kcontrol/konq/desktop.desktop:88
+#: kcontrol/konq/desktop.desktop:89
 msgid "Comment=You can configure how many virtual desktops there are."
 msgstr "Comment=Xıyalí östäl sanın caylaw."
 
-#: kcontrol/konq/desktop.desktop:161
+#: kcontrol/konq/desktop.desktop:163
 msgid "Keywords=desktop,desktops,number,virtual desktop"
 msgstr "Keywords=desktop,desktops,number,virtual desktop"
 
@@ -3796,7 +3796,7 @@ msgstr "Name=Yullar"
 msgid "Comment=Change the location important files are stored"
 msgstr "Comment=İñ kiräk biremnärneñ yullar tözätü"
 
-#: kcontrol/konq/desktoppath.desktop:162
+#: kcontrol/konq/desktoppath.desktop:163
 msgid "Keywords=konqueror,filemanager,paths,desktop,directories,autostart"
 msgstr "Keywords=konqueror,filemanager,paths,desktop,directories,autostart"
 
@@ -3805,9 +3805,9 @@ msgstr "Keywords=konqueror,filemanager,paths,desktop,directories,autostart"
 msgid "Comment=You can configure how Konqueror looks as a file manager here"
 msgstr "Comment=Birem idäräçe bularaq eşläwçe Konqueror'nıñ küreneşen caylaw"
 
-#: kcontrol/konq/fileappearance.desktop:163
-#: kcontrol/konq/filebrowser.desktop:168
-#: kcontrol/konq/webappearance.desktop:163
+#: kcontrol/konq/fileappearance.desktop:164
+#: kcontrol/konq/filebrowser.desktop:169
+#: kcontrol/konq/webappearance.desktop:164
 msgid ""
 "Keywords=konqueror,filemanager,word "
 "wrap,wrap,underline,display,filesize,bytes,font,color,colour"
@@ -3837,11 +3837,11 @@ msgstr "Comment=Konqueror'nıñ birem idäräçe bularaq eşläw ısulın caylaw
 msgid "Name=Previews & Meta-Data"
 msgstr "Name=Kürep Alu & Meta-Eçtälek"
 
-#: kcontrol/konq/filepreviews.desktop:81
+#: kcontrol/konq/filepreviews.desktop:82
 msgid "Comment=You can configure how Konqueror Previews & Meta-data work here"
 msgstr "Comment=Konqueror'dağı Kürsätkeç eşen caylaw"
 
-#: kcontrol/konq/filepreviews.desktop:146
+#: kcontrol/konq/filepreviews.desktop:148
 msgid "Keywords=konqueror,filemanager,previews,file previews,maximum size"
 msgstr "Keywords=konqueror,filemanager,previews,file previews,maximum size"
 
@@ -3865,7 +3865,7 @@ msgstr ""
 msgid "Name=AdBlocK Filters"
 msgstr "Name=Reklam Sözgeçläre"
 
-#: kcontrol/konqhtml/khtml_filter.desktop:73
+#: kcontrol/konqhtml/khtml_filter.desktop:74
 msgid "Comment=Configure Konqueror AdBlocK filters"
 msgstr "Comment=Konqueror'dağı reklam kistergeçneñ caylaw"
 
@@ -4026,11 +4026,11 @@ msgstr "Name=KDE Tışlaw quyu"
 msgid "Comment=Manage global KDE visual themes"
 msgstr "Comment=KDE'nıñ tışlaw törlären caylaw idäräse"
 
-#: kcontrol/kthememanager/kthememanager.desktop:68
+#: kcontrol/kthememanager/kthememanager.desktop:69
 msgid "Keywords=themes,look and feel"
 msgstr "Keywords=themes,look and feel"
 
-#: kcontrol/kthememanager/kthememanager.desktop:130
+#: kcontrol/kthememanager/kthememanager.desktop:132
 msgid "Name=Theme Manager"
 msgstr "Name=Tışlaw İdäräçe"
 
@@ -4042,11 +4042,11 @@ msgstr "Comment=KDE Tışlawı"
 msgid "Name=Launch Feedback"
 msgstr "Name=Cibärü Tärtibe"
 
-#: kcontrol/launch/kcmlaunch.desktop:85
+#: kcontrol/launch/kcmlaunch.desktop:86
 msgid "Comment=Choose application-launch feedback style"
 msgstr "Comment=Yazılım cibärgändä endtäşü tärtiben caylaw"
 
-#: kcontrol/launch/kcmlaunch.desktop:155
+#: kcontrol/launch/kcmlaunch.desktop:157
 msgid ""
 "Keywords=application,start,launch,busy,cursor,feedback,mouse,pointer,rotating,"
 "spinning,disk,startup,program,report"
@@ -4092,11 +4092,11 @@ msgstr "Comment=Çeltär yözaraları turında"
 msgid "Name=Performance"
 msgstr "Name=Citezlek"
 
-#: kcontrol/performance/kcmkonqyperformance.desktop:79
+#: kcontrol/performance/kcmkonqyperformance.desktop:80
 msgid "Comment=Configure settings that can improve Konqueror performance"
 msgstr "Comment=Konqueror citezlegen arttıra ala torğan köyläwlär "
 
-#: kcontrol/performance/kcmkonqyperformance.desktop:147
+#: kcontrol/performance/kcmkonqyperformance.desktop:149
 msgid "Keywords=konqueror,reuse,preloading"
 msgstr "Keywords=konqueror,reuse,preloading"
 
@@ -4104,11 +4104,11 @@ msgstr "Keywords=konqueror,reuse,preloading"
 msgid "Name=KDE Performance"
 msgstr "Name=KDE Citezlege"
 
-#: kcontrol/performance/kcmperformance.desktop:81
+#: kcontrol/performance/kcmperformance.desktop:82
 msgid "Comment=Configure settings that can improve KDE performance"
 msgstr "Comment=KDE citezlegen arttıra ala torğan köyläwlär "
 
-#: kcontrol/performance/kcmperformance.desktop:149
+#: kcontrol/performance/kcmperformance.desktop:151
 msgid "Keywords=performance,speed,memory,improve"
 msgstr "Keywords=performance,speed,memory,improve"
 
@@ -4120,11 +4120,11 @@ msgstr ""
 "Comment=Xosusílıq – qullanuçıdan soñ sistem eçendä qalğan ezlär beterüçe "
 "kcontrol modulı"
 
-#: kcontrol/privacy/privacy.desktop:68
+#: kcontrol/privacy/privacy.desktop:69
 msgid "Keywords=Privacy,privacy"
 msgstr "Keywords=Privacy,privacy"
 
-#: kcontrol/privacy/privacy.desktop:129
+#: kcontrol/privacy/privacy.desktop:131
 msgid "Name=Privacy"
 msgstr "Name=Xosusílıq"
 
@@ -4185,7 +4185,7 @@ msgstr "Name=Smartkard"
 msgid "Comment=Configure smartcard support"
 msgstr "Comment=Smartkard totıluın caylaw"
 
-#: kcontrol/smartcard/smartcard.desktop:144
+#: kcontrol/smartcard/smartcard.desktop:145
 msgid "Keywords=Smartcard,PKCS,SSL,reader,smart,card"
 msgstr "Keywords=Smartcard,PKCS,SSL,reader,smart,card"
 
@@ -4209,7 +4209,7 @@ msgstr "Name=Yazma Döreslege"
 msgid "Comment=Configure the spell checker"
 msgstr "Comment=Döresyazu qoralın caylaw"
 
-#: kcontrol/spellchecking/spellchecking.desktop:160
+#: kcontrol/spellchecking/spellchecking.desktop:161
 msgid "Keywords=Spell"
 msgstr "Keywords=Spell"
 
@@ -4223,7 +4223,7 @@ msgid ""
 "KDE"
 msgstr "Comment=KDE yözara berämleklärneñ çağılışı belän küreneşe "
 
-#: kcontrol/style/style.desktop:162
+#: kcontrol/style/style.desktop:163
 msgid ""
 "Keywords=style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE "
 "applications"
@@ -4236,11 +4236,11 @@ msgstr ""
 msgid "Name=Taskbar"
 msgstr "Name=Qoraltirä"
 
-#: kcontrol/taskbar/kcmtaskbar.desktop:88
+#: kcontrol/taskbar/kcmtaskbar.desktop:89
 msgid "Comment=Configure the panel taskbar"
 msgstr "Comment=Eşlärtirä taqtasın caylaw"
 
-#: kcontrol/taskbar/kcmtaskbar.desktop:156
+#: kcontrol/taskbar/kcmtaskbar.desktop:158
 msgid "Keywords=kicker,panel,kpanel,taskbar,startbar,launchbar,windows"
 msgstr "Keywords=kicker,panel,kpanel,taskbar,startbar,launchbar,windows"
 
@@ -4284,14 +4284,14 @@ msgstr "Keywords=Xinerama,dual head,multihead,monitor"
 msgid "Name=Password & User Account"
 msgstr "Name=Sersüz & Qullanuçı Xisabı"
 
-#: kdepasswd/kcm/kcm_useraccount.desktop:77
+#: kdepasswd/kcm/kcm_useraccount.desktop:78
 #, fuzzy
 msgid ""
 "Keywords=password,email,name,organization,realname,login image,face,echo mode"
 msgstr ""
 "Keywords=password;email;name;organization;realname;login image;face; echo mode;"
 
-#: kdepasswd/kcm/kcm_useraccount.desktop:130
+#: kdepasswd/kcm/kcm_useraccount.desktop:131
 msgid "Comment=User information such as password, name and email"
 msgstr "Comment=Qullanuçı caylawı: sersüz, isem, email kebek närsälär"
 
@@ -5644,7 +5644,7 @@ msgstr "Name=Sistem Tiräse"
 msgid "Comment=The system tray panel applet"
 msgstr "Sistem-tirä taqtasınıñ applete"
 
-#: kicker/applets/taskbar/taskbarapplet.desktop:79
+#: kicker/applets/taskbar/taskbarapplet.desktop:80
 #, fuzzy
 msgid "Comment=The default task bar for window management"
 msgstr "Comment=Yöktirä taraqtası applete (töp)."
