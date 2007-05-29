@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs katepart\n"
-"POT-Creation-Date: 2007-05-05 02:14+0200\n"
+"POT-Creation-Date: 2007-05-29 02:14+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -4111,15 +4111,15 @@ msgstr "Ezlä"
 msgid "Search Options"
 msgstr "Ezläw Köylämäse"
 
-#: plugins/isearch/ISearchPlugin.cpp:106 plugins/isearch/ISearchPlugin.cpp:417
+#: plugins/isearch/ISearchPlugin.cpp:106 plugins/isearch/ISearchPlugin.cpp:412
 msgid "Case Sensitive"
 msgstr "Keçe-olını Ayırası"
 
-#: plugins/isearch/ISearchPlugin.cpp:115 plugins/isearch/ISearchPlugin.cpp:419
+#: plugins/isearch/ISearchPlugin.cpp:115 plugins/isearch/ISearchPlugin.cpp:414
 msgid "From Beginning"
 msgstr "Baştan Birle"
 
-#: plugins/isearch/ISearchPlugin.cpp:124 plugins/isearch/ISearchPlugin.cpp:421
+#: plugins/isearch/ISearchPlugin.cpp:124 plugins/isearch/ISearchPlugin.cpp:416
 msgid "Regular Expression"
 msgstr "Tärtip Çağılışı"
 

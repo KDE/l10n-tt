@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs ktexteditor_isearch\n"
-"POT-Creation-Date: 2005-06-14 01:24+0200\n"
+"POT-Creation-Date: 2007-05-29 02:14+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -32,15 +32,15 @@ msgstr "Ezlä"
 msgid "Search Options"
 msgstr "Ezläw Köylämäse"
 
-#: ISearchPlugin.cpp:106 ISearchPlugin.cpp:417
+#: ISearchPlugin.cpp:106 ISearchPlugin.cpp:412
 msgid "Case Sensitive"
 msgstr "Keçe-olını Ayırası"
 
-#: ISearchPlugin.cpp:115 ISearchPlugin.cpp:419
+#: ISearchPlugin.cpp:115 ISearchPlugin.cpp:414
 msgid "From Beginning"
 msgstr "Baştan Birle"
 
-#: ISearchPlugin.cpp:124 ISearchPlugin.cpp:421
+#: ISearchPlugin.cpp:124 ISearchPlugin.cpp:416
 msgid "Regular Expression"
 msgstr "Tärtip Çağılışı"
 
