@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase konsole\n"
-"POT-Creation-Date: 2007-05-10 02:14+0200\n"
+"POT-Creation-Date: 2007-05-30 02:13+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -652,7 +652,7 @@ msgstr "&Tärtip çağılışı kebek"
 msgid "&Edit..."
 msgstr "&Üzgärtü..."
 
-#: konsole_part.cpp:92 main.cpp:173
+#: konsole_part.cpp:92 main.cpp:170
 msgid "Konsole"
 msgstr "Konsole"
 
@@ -744,23 +744,23 @@ msgstr "KWrited - %1 Cıhazın Tıñlaw"
 msgid "Clear Messages"
 msgstr ""
 
-#: main.cpp:64
+#: main.cpp:61
 msgid "X terminal for use with KDE."
 msgstr "KDE belän qullanu öçen X-terminal."
 
-#: main.cpp:69
+#: main.cpp:66
 msgid "Set window class"
 msgstr "Täräzä sínıfın bilgelä"
 
-#: main.cpp:70
+#: main.cpp:67
 msgid "Start login shell"
 msgstr "Kerü qabığın cibär"
 
-#: main.cpp:71
+#: main.cpp:68
 msgid "Set the window title"
 msgstr "Täräzä başlığın bilgeläw"
 
-#: main.cpp:72
+#: main.cpp:69
 msgid ""
 "Specify terminal type as set in the TERM\n"
 "environment variable"
@@ -768,123 +768,123 @@ msgstr ""
 "Eş tiräneñ TERM üzgärelmäsendä kük\n"
 "bilgelängän terminal tören kertergä kiräk."
 
-#: main.cpp:73
+#: main.cpp:70
 msgid "Do not close Konsole when command exits"
 msgstr "Boyırıq ütkännän soñ konsolnı yapmasqa"
 
-#: main.cpp:74
+#: main.cpp:71
 msgid "Do not save lines in history"
 msgstr "Yullarnı uzğannarda saqlamasqa"
 
-#: main.cpp:75
+#: main.cpp:72
 msgid "Do not display menubar"
 msgstr "Saylaqtirä kürsätmäskä"
 
-#: main.cpp:77
+#: main.cpp:74
 msgid "Do not display tab bar"
 msgstr "Tabaqtirä kürsätmäskä"
 
-#: main.cpp:78
+#: main.cpp:75
 msgid "Do not display frame"
 msgstr "Qısa kürsätmäskä"
 
-#: main.cpp:79
+#: main.cpp:76
 msgid "Do not display scrollbar"
 msgstr "Çornawtirä kürsätmäskä"
 
-#: main.cpp:80
+#: main.cpp:77
 msgid "Do not use Xft (anti-aliasing)"
 msgstr "Xft qullanmasqa (yazunı şomartu)"
 
-#: main.cpp:82
+#: main.cpp:79
 msgid "Enable experimental support for real transparency"
 msgstr ""
 
-#: main.cpp:84
+#: main.cpp:81
 msgid "Terminal size in columns x lines"
 msgstr "Terminal ülçäme: buy x yul"
 
-#: main.cpp:85
+#: main.cpp:82
 msgid "Terminal size is fixed"
 msgstr "Terminal ülçäme berketelgän"
 
-#: main.cpp:86
+#: main.cpp:83
 msgid "Start with given session type"
 msgstr "Sessineñ birelgän töre belän cibär"
 
-#: main.cpp:87
+#: main.cpp:84
 msgid "List available session types"
 msgstr "Sessilärneñ bar törläre tezmäse"
 
-#: main.cpp:88
+#: main.cpp:85
 msgid "Set keytab to 'name'"
 msgstr "Şul köylämäne quyası"
 
-#: main.cpp:89
+#: main.cpp:86
 msgid "List available keytabs"
 msgstr "Barlıq köylämä tezmäse"
 
-#: main.cpp:90
+#: main.cpp:87
 msgid "Start with given session profile"
 msgstr "Sessineñ birelgän caybireme belän cibär"
 
-#: main.cpp:91
+#: main.cpp:88
 msgid "List available session profiles"
 msgstr "Barlıq sessi törläre tezmäse"
 
-#: main.cpp:92
+#: main.cpp:89
 msgid "Set schema to 'name' or use 'file'"
 msgstr "Tözeleşne 'name' itep quyası, yä 'file' qullanası"
 
-#: main.cpp:94
+#: main.cpp:91
 msgid "List available schemata"
 msgstr "Barlıq tözeleşlär tezmäse"
 
-#: main.cpp:95
+#: main.cpp:92
 msgid "Enable extended DCOP Qt functions"
 msgstr "DCOP Qt funksíların açası"
 
-#: main.cpp:96
+#: main.cpp:93
 msgid "Change working directory to 'dir'"
 msgstr "Eş törgägen 'dir' itep üzgärtäse"
 
-#: main.cpp:97
+#: main.cpp:94
 msgid "Execute 'command' instead of shell"
 msgstr "Qabıq urınına 'command' eşlätäse"
 
-#: main.cpp:99
+#: main.cpp:96
 msgid "Arguments for 'command'"
 msgstr "'command' öçen köylämälär"
 
-#: main.cpp:176
+#: main.cpp:173
 msgid "Maintainer"
 msgstr "Bulışuçı"
 
-#: main.cpp:177
+#: main.cpp:174
 msgid "Author"
 msgstr "Yazuçı"
 
-#: main.cpp:179 main.cpp:182 main.cpp:185
+#: main.cpp:176 main.cpp:179 main.cpp:182
 msgid "bug fixing and improvements"
 msgstr "tözätmälär belän yaqşirtular"
 
-#: main.cpp:188 main.cpp:224 main.cpp:227 main.cpp:230 main.cpp:233
+#: main.cpp:185 main.cpp:221 main.cpp:224 main.cpp:227 main.cpp:230
 msgid "bug fixing"
 msgstr "tözätmälär"
 
-#: main.cpp:191
+#: main.cpp:188
 msgid "Solaris support and work on history"
 msgstr "Solaris totu da uzğannar belän eşläw"
 
-#: main.cpp:194
+#: main.cpp:191
 msgid "faster startup, bug fixing"
 msgstr "cibärelüne tizlätü, tözätmälär"
 
-#: main.cpp:197
+#: main.cpp:194
 msgid "decent marking"
 msgstr "saylap bilgeläw"
 
-#: main.cpp:200
+#: main.cpp:197
 msgid ""
 "partification\n"
 "Toolbar and session names"
@@ -892,7 +892,7 @@ msgstr ""
 "KParts çığanağı\n"
 "Qoraltirä dä sessi atamaları"
 
-#: main.cpp:204
+#: main.cpp:201
 msgid ""
 "partification\n"
 "overall improvements"
@@ -900,11 +900,11 @@ msgstr ""
 "KParts çığanağı\n"
 "urtaq yaqşırtular"
 
-#: main.cpp:208
+#: main.cpp:205
 msgid "transparency"
 msgstr "ütäkürenü"
 
-#: main.cpp:211
+#: main.cpp:208
 msgid ""
 "most of main.C donated via kvt\n"
 "overall improvements"
@@ -912,19 +912,19 @@ msgstr ""
 "main.c eçtälegeneñ kübese kvt eçennän alınğan\n"
 "urtaq yaqşırtular"
 
-#: main.cpp:215
+#: main.cpp:212
 msgid "schema and selection improvements"
 msgstr "Tözeleş belän saylaw yaqşırtuları"
 
-#: main.cpp:218
+#: main.cpp:215
 msgid "SGI Port"
 msgstr "SGI öçen Küçermä"
 
-#: main.cpp:221
+#: main.cpp:218
 msgid "FreeBSD port"
 msgstr "FreeBSD portı"
 
-#: main.cpp:235
+#: main.cpp:232
 msgid ""
 "Thanks to many others.\n"
 "The above list only reflects the contributors\n"
@@ -934,13 +934,13 @@ msgstr ""
 "Bu isemlektä min kertergä\n"
 "onıtmağannarı ğına bar."
 
-#: main.cpp:327
+#: main.cpp:339
 msgid ""
 "You can't use BOTH -ls and -e.\n"
 msgstr ""
 "-ls belän -e köylämäsen bergä qullanıp bulmí.\n"
 
-#: main.cpp:454
+#: main.cpp:466
 msgid ""
 "expected --vt_sz <#columns>x<#lines> e.g. 80x40\n"
 msgstr ""

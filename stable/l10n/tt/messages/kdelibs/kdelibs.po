@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2007-05-07 02:14+0200\n"
+"POT-Creation-Date: 2007-05-30 02:13+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -3122,7 +3122,7 @@ msgstr ""
 "\n"
 "Köylämä:\n"
 
-#: kdecore/kcmdlineargs.cpp:1279
+#: kdecore/kcmdlineargs.cpp:1280
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr "Bu yazılım açqan birem/URL'lar qullanudan soñ beterelgän bulaçaq"
 
