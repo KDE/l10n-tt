@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2007-05-30 02:13+0200\n"
+"POT-Creation-Date: 2007-06-05 02:14+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2978,7 +2978,7 @@ msgid ""
 msgstr ""
 "DCOP belän terkäp bulmadı.\n"
 
-#: kdecore/kapplication.cpp:2631
+#: kdecore/kapplication.cpp:2634
 msgid ""
 "KLauncher could not be reached via DCOP.\n"
 msgstr ""
@@ -5822,7 +5822,7 @@ msgid "Reset Toolbars"
 msgstr "Qoraltirä"
 
 #: kdeui/kedittoolbar.cpp:447 khtml/html/html_formimpl.cpp:2129
-#: khtml/khtmlview.cpp:2534 khtml/khtmlview.cpp:2567
+#: khtml/khtmlview.cpp:2543 khtml/khtmlview.cpp:2576
 msgid "Reset"
 msgstr "Awdar"
 
@@ -7290,7 +7290,7 @@ msgstr ""
 "taba cibäräläçäk.<BR>Form eçtälegen cibärü dawam itäseme?"
 
 #: khtml/html/html_formimpl.cpp:1531 khtml/html/html_formimpl.cpp:2137
-#: khtml/khtml_part.cpp:4821 khtml/khtmlview.cpp:2520 khtml/khtmlview.cpp:2562
+#: khtml/khtml_part.cpp:4821 khtml/khtmlview.cpp:2529 khtml/khtmlview.cpp:2571
 msgid "Submit"
 msgstr "Cibär"
 
@@ -7368,39 +7368,39 @@ msgstr "Tıyılğan Täräzälär Turında Belderüne &Kürsätäse "
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript'neñ Yaña Täräzä açu Tärtibe..."
 
-#: khtml/khtmlview.cpp:1618
+#: khtml/khtmlview.cpp:1627
 msgid "Find stopped."
 msgstr "Ezläw tuqtadı."
 
-#: khtml/khtmlview.cpp:1629
+#: khtml/khtmlview.cpp:1638
 msgid "Starting -- find links as you type"
 msgstr "Cíu barğan çaqta bäylär ezläw bara"
 
-#: khtml/khtmlview.cpp:1635
+#: khtml/khtmlview.cpp:1644
 msgid "Starting -- find text as you type"
 msgstr "Cíu barğan çaqta yazma ezläw bara"
 
-#: khtml/khtmlview.cpp:1656
+#: khtml/khtmlview.cpp:1665
 msgid "Link found: \"%1\"."
 msgstr "Bäy tabıldı: \"%1\"."
 
-#: khtml/khtmlview.cpp:1661
+#: khtml/khtmlview.cpp:1670
 msgid "Link not found: \"%1\"."
 msgstr "Bäy tabılmadı: \"%1\"."
 
-#: khtml/khtmlview.cpp:1669
+#: khtml/khtmlview.cpp:1678
 msgid "Text found: \"%1\"."
 msgstr "Yazma tabıldı: \"%1\"."
 
-#: khtml/khtmlview.cpp:1674
+#: khtml/khtmlview.cpp:1683
 msgid "Text not found: \"%1\"."
 msgstr "Yazma tabılmadı: \"%1\"."
 
-#: khtml/khtmlview.cpp:1718
+#: khtml/khtmlview.cpp:1727
 msgid "Access Keys activated"
 msgstr "İreşü Töymäse açıldı"
 
-#: khtml/khtmlview.cpp:2749
+#: khtml/khtmlview.cpp:2758
 #, c-format
 msgid "Print %1"
 msgstr "%1 Bastıru"
