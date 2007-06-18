@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase useraccount\n"
-"POT-Creation-Date: 2005-05-18 21:23+0200\n"
+"POT-Creation-Date: 2007-06-18 01:13+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -44,7 +44,7 @@ msgstr "&Sürät Soraw..."
 msgid "(Custom)"
 msgstr "(Köyläwle)"
 
-#: chfacedlg.cpp:126 main.cpp:255
+#: chfacedlg.cpp:126 main.cpp:256
 msgid "There was an error loading the image."
 msgstr "Bu sürätne yöklägändä xata kilep çıqtı."
 
@@ -115,19 +115,19 @@ msgstr ""
 "Yazılımda xata kilep çıqtı: 'kdepasswd' atlı eçke yazılımnı tabıp bulmí. "
 "Sürsüzen üzgärtep bulmí."
 
-#: main.cpp:212
+#: main.cpp:213
 msgid "Please enter your password in order to save your settings:"
 msgstr "Bu caylawnı saqlaw öçen sersüz kertäse bar:"
 
-#: main.cpp:217
+#: main.cpp:218
 msgid "You must enter your password in order to change your information."
 msgstr "Üz turında belem üzgärtü öçen üz sersüzen kertäse bar."
 
-#: main.cpp:227
+#: main.cpp:228
 msgid "You must enter a correct password."
 msgstr "Yaraqlı sersüz kertäse bar."
 
-#: main.cpp:231
+#: main.cpp:232
 #, c-format
 msgid ""
 "An error occurred and your password has probably not been changed. The error "
@@ -138,16 +138,16 @@ msgstr ""
 "belderüe:\n"
 "%1"
 
-#: main.cpp:244
+#: main.cpp:245
 #, c-format
 msgid "There was an error saving the image: %1"
 msgstr "Bu sürätne saqlağanda xata kilep çıqtı: %1"
 
-#: main.cpp:268 main.cpp:299
+#: main.cpp:269 main.cpp:300
 msgid "Your administrator has disallowed changing your image."
 msgstr "İdäräçe üz sürätlär üzgärtü tídı."
 
-#: main.cpp:333
+#: main.cpp:334
 msgid ""
 "%1 does not appear to be an image file.\n"
 "Please use files with these extensions:\n"
