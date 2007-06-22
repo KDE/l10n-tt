@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-06-20 23:18+0000\n"
+"POT-Creation-Date: 2007-06-21 23:18+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -3536,6 +3536,11 @@ msgstr "Name=Taqta"
 #: kcontrol/kicker/panel.desktop:89
 msgid "Comment=Configure the arrangement of the panel"
 msgstr "Comment=Taqta urınlaşuın caylaw"
+
+#: kcontrol/kicker/uninstall.desktop:3
+#, fuzzy
+msgid "Name=Foo"
+msgstr "Name=Ay"
 
 #: kcontrol/kio/cache.desktop:13
 msgid "Name=Cache"
