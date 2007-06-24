@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase konqueror\n"
-"POT-Creation-Date: 2007-01-16 02:37+0100\n"
+"POT-Creation-Date: 2007-06-24 01:14+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -1584,6 +1584,36 @@ msgstr "İsem"
 #: listview/konq_listviewwidget.cc:909
 msgid "You must take the file out of the trash before being able to use it."
 msgstr "Bu biremne qullanu öçen, anı baştan çüplektän çığarası bar."
+
+#: keditbookmarks/importers.h:108
+msgid "Galeon"
+msgstr ""
+
+#: keditbookmarks/importers.h:118
+msgid "KDE"
+msgstr ""
+
+#: keditbookmarks/importers.h:139
+msgid "Netscape"
+msgstr ""
+
+#: keditbookmarks/importers.h:149
+msgid "Mozilla"
+msgstr ""
+
+#: keditbookmarks/importers.h:159
+msgid "IE"
+msgstr ""
+
+#: keditbookmarks/importers.h:171
+#, fuzzy
+msgid "Opera"
+msgstr "İä"
+
+#: keditbookmarks/importers.h:183
+#, fuzzy
+msgid "Crashes"
+msgstr "Çüplek"
 
 #: keditbookmarks/actionsimpl.cpp:102
 msgid "&Show Netscape Bookmarks in Konqueror"
