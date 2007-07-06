@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-07-04 23:18+0000\n"
+"POT-Creation-Date: 2007-07-05 23:18+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -3236,11 +3236,11 @@ msgstr "Keywords=Partitions,Harddrive,HD,System Information"
 msgid "Name=PCI"
 msgstr "Name=PCI"
 
-#: kcontrol/info/pci.desktop:26
+#: kcontrol/info/pci.desktop:27
 msgid "Comment=PCI information"
 msgstr "Comment=PCI turında"
 
-#: kcontrol/info/pci.desktop:107
+#: kcontrol/info/pci.desktop:108
 msgid "Keywords=PCI,PCI-Devices,PCI-Bus,System Information"
 msgstr "Keywords=PCI,PCI-Devices,PCI-Bus,System Information"
 
@@ -3260,11 +3260,11 @@ msgstr "Keywords=Processor,CPU,FPU,MHz,System Information"
 msgid "Name=SCSI"
 msgstr "Name=SCSI"
 
-#: kcontrol/info/scsi.desktop:25
+#: kcontrol/info/scsi.desktop:26
 msgid "Comment=SCSI information"
 msgstr "Comment=SCSI turında"
 
-#: kcontrol/info/scsi.desktop:106
+#: kcontrol/info/scsi.desktop:107
 msgid "Keywords=SCSI,SCSI-Bus,System Information"
 msgstr "Keywords=SCSI,SCSI-Bus,System Information"
 
