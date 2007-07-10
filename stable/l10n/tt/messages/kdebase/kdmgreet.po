@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdmgreet\n"
-"POT-Creation-Date: 2007-06-30 01:12+0200\n"
+"POT-Creation-Date: 2007-07-10 01:13+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -47,7 +47,7 @@ msgstr "kdm öçen şäp östäl süräte"
 msgid "Name of the configuration file"
 msgstr "Bu caylaw biremeneñ adı"
 
-#: krootimage.cpp:102
+#: krootimage.cpp:103
 msgid "KRootImage"
 msgstr "KRootImage"
 
