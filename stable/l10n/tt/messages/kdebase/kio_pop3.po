@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kio_pop3\n"
-"POT-Creation-Date: 2007-06-14 07:56+0200\n"
+"POT-Creation-Date: 2007-07-17 01:45+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,19 +12,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: pop3.cc:262
+#: pop3.cc:249
 msgid "PASS <your password>"
 msgstr "PASS <sersüzeñ>"
 
-#: pop3.cc:265
+#: pop3.cc:252
 msgid "The server said: \"%1\""
 msgstr "Server bolay di: \"%1\""
 
-#: pop3.cc:287
+#: pop3.cc:274
 msgid "The server terminated the connection."
 msgstr "Server bu totaşunı özde."
 
-#: pop3.cc:289
+#: pop3.cc:276
 msgid ""
 "Invalid response from server:\n"
 "\"%1\""
@@ -32,17 +32,17 @@ msgstr ""
 "Server cawabı yaraqsız :\n"
 "\"%1\""
 
-#: pop3.cc:318
+#: pop3.cc:305
 msgid ""
 "Could not send to server.\n"
 msgstr ""
 "Servergä cibärep bulmadı.\n"
 
-#: pop3.cc:373 pop3.cc:432 pop3.cc:629
+#: pop3.cc:360 pop3.cc:419 pop3.cc:616
 msgid "No authentication details supplied."
 msgstr "Tanıtu beleme birelmäde."
 
-#: pop3.cc:410
+#: pop3.cc:397
 msgid ""
 "Login via APOP failed. The server %1 may not support APOP, although it claims "
 "to support it, or the password may be wrong.\n"
@@ -54,7 +54,7 @@ msgstr ""
 "\n"
 "%2"
 
-#: pop3.cc:598
+#: pop3.cc:585
 msgid ""
 "Login via SASL (%1) failed. The server may not support %2, or the password may "
 "be wrong.\n"
@@ -66,7 +66,7 @@ msgstr ""
 "\n"
 "%3"
 
-#: pop3.cc:607
+#: pop3.cc:594
 msgid ""
 "Your POP3 server does not support SASL.\n"
 "Choose a different authentication method."
@@ -74,11 +74,11 @@ msgstr ""
 "Bu POP3-server SASL propokolın totmí.\n"
 "Tanılu ısulınıñ başqasın saylap bula."
 
-#: pop3.cc:615
+#: pop3.cc:602
 msgid "SASL authentication is not compiled into kio_pop3."
 msgstr "kio_pop3 cíılğanda SASL-tanılu östälenmägän."
 
-#: pop3.cc:647 pop3.cc:696
+#: pop3.cc:634 pop3.cc:683
 msgid ""
 "Could not login to %1.\n"
 "\n"
@@ -86,7 +86,7 @@ msgstr ""
 "%1 belän kereşü uzmadı.\n"
 "\n"
 
-#: pop3.cc:661
+#: pop3.cc:648
 msgid ""
 "Could not login to %1. The password may be wrong.\n"
 "\n"
@@ -96,11 +96,11 @@ msgstr ""
 "\n"
 "%2"
 
-#: pop3.cc:699
+#: pop3.cc:686
 msgid "The server terminated the connection immediately."
 msgstr "Server bu totaşunı şunda uq özep tä quydı."
 
-#: pop3.cc:700
+#: pop3.cc:687
 msgid ""
 "Server does not respond properly:\n"
 "%1\n"
@@ -108,7 +108,7 @@ msgstr ""
 "Server tieşleçä cawapnı birmi:\n"
 "%1\n"
 
-#: pop3.cc:728
+#: pop3.cc:715
 msgid ""
 "Your POP3 server does not support APOP.\n"
 "Choose a different authentication method."
@@ -116,7 +116,7 @@ msgstr ""
 "Bu POP3-server APOP propokolın totmí.\n"
 "Tanılu ısulınıñ başqasın saylap bula."
 
-#: pop3.cc:748
+#: pop3.cc:735
 msgid ""
 "Your POP3 server claims to support TLS but negotiation was unsuccessful. You "
 "can disable TLS in KDE using the crypto settings module."
@@ -125,7 +125,7 @@ msgstr ""
 "bulmadı.\n"
 "KDE'neñ serläw caylaw modulı aşa TLS qullanuın sünderep bula."
 
-#: pop3.cc:759
+#: pop3.cc:746
 msgid ""
 "Your POP3 server does not support TLS. Disable TLS, if you want to connect "
 "without encryption."
@@ -133,10 +133,10 @@ msgstr ""
 "Bu POP3-server TLS protokolın totmí. Serläwsez totaşası kilsä, TLS protokolın "
 "sünderep bula."
 
-#: pop3.cc:768
+#: pop3.cc:755
 msgid "Username and password for your POP3 account:"
 msgstr "POP3 xísabıña ireşü adı belän sersüz:"
 
-#: pop3.cc:968 pop3.cc:977 pop3.cc:1116
+#: pop3.cc:955 pop3.cc:964 pop3.cc:1103
 msgid "Unexpected response from POP3 server."
 msgstr "POP3 server yağınnan kötelmägän cawap kilde."
