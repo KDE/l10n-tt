@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-07-17 23:18+0000\n"
+"POT-Creation-Date: 2007-07-27 23:18+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -6653,23 +6653,23 @@ msgstr "GenericName=Östäl Bitçese"
 msgid "Name=Desktop Settings Wizard"
 msgstr "Name=Östäl Caylaw Xikmätçese"
 
-#: kscreensaver/KBlankscreen.desktop:7
+#: kscreensaver/KBlankscreen.desktop:8
 msgid "Name=Blank Screen"
 msgstr "Name=Buş Küräk"
 
-#: kscreensaver/KBlankscreen.desktop:90 kscreensaver/KRandom.desktop:88
+#: kscreensaver/KBlankscreen.desktop:91 kscreensaver/KRandom.desktop:89
 msgid "Name=Setup..."
 msgstr "Name=Caylaw..."
 
-#: kscreensaver/KBlankscreen.desktop:173 kscreensaver/KRandom.desktop:171
+#: kscreensaver/KBlankscreen.desktop:174 kscreensaver/KRandom.desktop:172
 msgid "Name=Display in Specified Window"
 msgstr "Name=Äytelgän Täräzädä Kürsät"
 
-#: kscreensaver/KBlankscreen.desktop:245 kscreensaver/KRandom.desktop:243
+#: kscreensaver/KBlankscreen.desktop:246 kscreensaver/KRandom.desktop:244
 msgid "Name=Display in Root Window"
 msgstr "Name=Root Täräzäsendä Kürsät"
 
-#: kscreensaver/KRandom.desktop:7
+#: kscreensaver/KRandom.desktop:8
 msgid "Name=Random"
 msgstr "Name=Oçraqlı"
 
