@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmcrypto\n"
-"POT-Creation-Date: 2006-08-22 02:34+0200\n"
+"POT-Creation-Date: 2007-07-30 01:13+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -398,11 +398,11 @@ msgstr "Tanıqlıq:"
 msgid "Action"
 msgstr "Ğämäl"
 
-#: crypto.cpp:567
+#: crypto.cpp:567 crypto.h:185
 msgid "Send"
 msgstr "Cibär"
 
-#: crypto.cpp:568
+#: crypto.cpp:568 crypto.h:191
 msgid "Prompt"
 msgstr "Endäşü"
 
@@ -845,6 +845,11 @@ msgstr "Minut:"
 #: kdatetimedlg.cpp:54
 msgid "Second:"
 msgstr "Sekund:"
+
+#: crypto.h:188
+#, fuzzy
+msgid "Don't Send"
+msgstr "Cibärmä"
 
 #: _translatorinfo.cpp:1
 msgid ""
