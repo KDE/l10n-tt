@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdeprint\n"
-"POT-Creation-Date: 2007-06-02 02:14+0200\n"
+"POT-Creation-Date: 2007-08-27 01:12+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -1307,19 +1307,19 @@ msgstr ""
 msgid "The IPP request failed for an unknown reason."
 msgstr "IPP soraw nindider bilgesez säbäp belän uzmadı."
 
-#: cups/ipprequest.cpp:348
+#: cups/ipprequest.cpp:356
 msgid "Attribute"
 msgstr "Üzençälege"
 
-#: cups/ipprequest.cpp:349
+#: cups/ipprequest.cpp:357
 msgid "Values"
 msgstr "Bäuälär"
 
-#: cups/ipprequest.cpp:380
+#: cups/ipprequest.cpp:388
 msgid "True"
 msgstr "Şulay"
 
-#: cups/ipprequest.cpp:380
+#: cups/ipprequest.cpp:388
 msgid "False"
 msgstr "Tügel"
 
