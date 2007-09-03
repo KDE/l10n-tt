@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2007-09-02 01:14+0200\n"
+"POT-Creation-Date: 2007-09-03 01:12+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -5666,11 +5666,11 @@ msgstr ""
 "Bu yazılımnıñ eşlätü yulın, cibärelüen belderü, DCOP caylawın, nindi "
 "qullanuçıdan eşlätüen üzgärtü öçen bonda çirtäse."
 
-#: ../kioslave/http/http.cc:5153 kpasswdserver/kpasswdserver.cpp:346
+#: ../kioslave/http/http.cc:5160 kpasswdserver/kpasswdserver.cpp:346
 msgid "  Do you want to retry?"
 msgstr "  Qabatlísımı?"
 
-#: ../kioslave/http/http.cc:5154 kpasswdserver/kpasswdserver.cpp:348
+#: ../kioslave/http/http.cc:5161 kpasswdserver/kpasswdserver.cpp:348
 msgid "Authentication"
 msgstr "Tanılu"
 
@@ -5862,11 +5862,11 @@ msgstr ""
 "%2\n"
 "\n"
 
-#: ../kioslave/ftp/ftp.cc:596 ../kioslave/http/http.cc:5165
+#: ../kioslave/ftp/ftp.cc:596 ../kioslave/http/http.cc:5172
 msgid "You need to supply a username and a password to access this site."
 msgstr "Berär säxifägä ireşü aldınnan qullanuçı adı belän sersüz kertäse bar."
 
-#: ../kioslave/ftp/ftp.cc:598 ../kioslave/http/http.cc:5173
+#: ../kioslave/ftp/ftp.cc:598 ../kioslave/http/http.cc:5180
 msgid "Site:"
 msgstr "Säxifä:"
 
@@ -6266,27 +6266,27 @@ msgstr "Cibäräse birem soraw"
 msgid "Sending data to %1"
 msgstr "%1 taba birem cibärü"
 
-#: ../kioslave/http/http.cc:4342
+#: ../kioslave/http/http.cc:4349
 msgid "Retrieving %1 from %2..."
 msgstr "%1 tarafınnan %2 öçen alu..."
 
-#: ../kioslave/http/http.cc:4351
+#: ../kioslave/http/http.cc:4358
 msgid "Retrieving from %1..."
 msgstr "%1 tarafınnan alu..."
 
-#: ../kioslave/http/http.cc:5145 ../kioslave/http/http.cc:5293
+#: ../kioslave/http/http.cc:5152 ../kioslave/http/http.cc:5300
 msgid "Authentication Failed."
 msgstr "Tanılu Uzmadı."
 
-#: ../kioslave/http/http.cc:5148 ../kioslave/http/http.cc:5296
+#: ../kioslave/http/http.cc:5155 ../kioslave/http/http.cc:5303
 msgid "Proxy Authentication Failed."
 msgstr "Proxy Tanılu Uzmadı."
 
-#: ../kioslave/http/http.cc:5174 ../kioslave/http/http.cc:5191
+#: ../kioslave/http/http.cc:5181 ../kioslave/http/http.cc:5198
 msgid "<b>%1</b> at <b>%2</b>"
 msgstr "<b>%1</b>, <b>%2</b>"
 
-#: ../kioslave/http/http.cc:5181
+#: ../kioslave/http/http.cc:5188
 msgid ""
 "You need to supply a username and a password for the proxy server listed below "
 "before you are allowed to access any sites."
@@ -6294,15 +6294,15 @@ msgstr ""
 "Berär säxifägä ireşü aldınnan asta kürsätelgän proxy server öçen qullanuçı adı "
 "belän sersüz kertäse bar."
 
-#: ../kioslave/http/http.cc:5190
+#: ../kioslave/http/http.cc:5197
 msgid "Proxy:"
 msgstr "Proxy:"
 
-#: ../kioslave/http/http.cc:5212
+#: ../kioslave/http/http.cc:5219
 msgid "Authentication needed for %1 but authentication is disabled."
 msgstr "%1 öçen tanılğan bulu kiräk, tanılu isä sünek tora."
 
-#: ../kioslave/http/http.cc:5834
+#: ../kioslave/http/http.cc:5841
 msgid ""
 "Unsupported method: authentication will fail. Please submit a bug report."
 msgstr "Totılmağan ısul: tanılu uzmadı. Bet yomğağın cibäräse."
