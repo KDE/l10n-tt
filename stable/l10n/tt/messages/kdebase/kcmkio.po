@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmkio\n"
-"POT-Creation-Date: 2006-01-23 03:15+0100\n"
+"POT-Creation-Date: 2007-09-04 01:13+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -88,7 +88,7 @@ msgstr ""
 "ışanğan yaratqan alış-bireş säxifäläre öçen härwaqıt cookie aluğa röxsät "
 "soramíça kerü säyäsäten bilgeli alasıñ."
 
-#: kcookiesmanagement.cpp:150 kcookiesmanagement.cpp:171
+#: kcookiesmanagement.cpp:150 kcookiesmanagement.cpp:170
 msgid "DCOP Communication Error"
 msgstr "DCOP Ütkärü Xatası"
 
@@ -96,24 +96,24 @@ msgstr "DCOP Ütkärü Xatası"
 msgid "Unable to delete all the cookies as requested."
 msgstr "Böten cookie'larnı telägänçä taşlap bulmadı."
 
-#: kcookiesmanagement.cpp:172
+#: kcookiesmanagement.cpp:171
 msgid "Unable to delete cookies as requested."
 msgstr "Cookie'larnı telägänçä taşlap bulmadı."
 
-#: kcookiesmanagement.cpp:244
+#: kcookiesmanagement.cpp:241
 msgid "<h1>Cookies Management Quick Help</h1>"
 msgstr "<h1>Cookie Citäkläwe Tiz Yärdäme</h1>"
 
-#: kcookiesmanagement.cpp:253
+#: kcookiesmanagement.cpp:250
 msgid "Information Lookup Failure"
 msgstr "Mäğlümät Taraw Xatası"
 
-#: kcookiesmanagement.cpp:254
+#: kcookiesmanagement.cpp:251
 msgid ""
 "Unable to retrieve information about the cookies stored on your computer."
 msgstr "Cookie'lar turında sanağıñda saqlanğan mäğlümätne tuplap bulmadı."
 
-#: kcookiesmanagement.cpp:335
+#: kcookiesmanagement.cpp:332
 msgid "End of session"
 msgstr "Sessi azağı"
 
