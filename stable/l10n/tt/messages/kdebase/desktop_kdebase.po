@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-09-02 23:18+0000\n"
+"POT-Creation-Date: 2007-09-08 23:21+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2450,12 +2450,9 @@ msgid "Name=Debian Package Search"
 msgstr "Name=Debian Tuplamaların Ezläw"
 
 #: kcontrol/ebrowsing/plugins/ikws/searchproviders/deb.desktop:68
-msgid ""
-"Query=http://packages.debian.org/cgi-bin/search_packages.pl?keywords=\\\\{@}&sea"
-"rchon=names&subword=1&version=all&release=all"
-msgstr ""
-"Query=http://packages.debian.org/cgi-bin/search_packages.pl?keywords=\\\\{@}&sea"
-"rchon=names&subword=1&version=all&release=all"
+#, fuzzy
+msgid "Query=http://packages.debian.org/\\\\{@}"
+msgstr "Query=http://bugs.debian.org/\\\\{@}"
 
 #: kcontrol/ebrowsing/plugins/ikws/searchproviders/dmoz.desktop:4
 msgid "Name=Open Directory"
@@ -8376,6 +8373,9 @@ msgstr ""
 #: pics/wallpapers/triplegears.jpg.desktop:4
 msgid "Name=Triple Gears"
 msgstr "Name=Öçle Yoldızlar"
+
+#~ msgid "Query=http://packages.debian.org/cgi-bin/search_packages.pl?keywords=\\\\{@}&searchon=names&subword=1&version=all&release=all"
+#~ msgstr "Query=http://packages.debian.org/cgi-bin/search_packages.pl?keywords=\\\\{@}&searchon=names&subword=1&version=all&release=all"
 
 #~ msgid "Name=Serbia and Montenegro"
 #~ msgstr "Name=Serbia wä Montenegro"
