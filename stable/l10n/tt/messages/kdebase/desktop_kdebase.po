@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-09-13 23:18+0000\n"
+"POT-Creation-Date: 2007-09-14 23:18+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -465,7 +465,7 @@ msgstr "Name=Köçele Yaq"
 msgid "Name=Qt Assistant"
 msgstr "Name=Qt Assistant"
 
-#: kappfinder/apps/Development/assistant.desktop:61
+#: kappfinder/apps/Development/assistant.desktop:62
 msgid "GenericName=Document Browser"
 msgstr "GenericName=İstälek Küzätüçe"
 
@@ -1941,85 +1941,85 @@ msgstr "Name=KWrite"
 msgid "Comment=KDE Accessibility Tool"
 msgstr "Name=KDE'neñ Qulaylıq Qoralı"
 
-#: kcontrol/access/eventsrc:66
+#: kcontrol/access/eventsrc:65
 msgid "Name=A modifier key has become active"
 msgstr ""
 
-#: kcontrol/access/eventsrc:120
+#: kcontrol/access/eventsrc:119
 msgid ""
 "Comment=A modifier key (e.g. Shift or Ctrl) has changed its state and is now "
 "active"
 msgstr ""
 
-#: kcontrol/access/eventsrc:176
+#: kcontrol/access/eventsrc:175
 msgid "Name=A modifier key has become inactive"
 msgstr ""
 
-#: kcontrol/access/eventsrc:229
+#: kcontrol/access/eventsrc:228
 msgid ""
 "Comment=A modifier key (e.g. Shift or Ctrl) has changed its state and is now "
 "inactive"
 msgstr ""
 
-#: kcontrol/access/eventsrc:285
+#: kcontrol/access/eventsrc:284
 msgid "Name=A modifier key has been locked"
 msgstr ""
 
-#: kcontrol/access/eventsrc:338
+#: kcontrol/access/eventsrc:337
 msgid ""
 "Comment=A modifier key (e.g. Shift or Ctrl) has been locked and is now active "
 "for all of the following keypresses"
 msgstr ""
 
-#: kcontrol/access/eventsrc:394
+#: kcontrol/access/eventsrc:393
 msgid "Name=A lock key has been activated"
 msgstr ""
 
-#: kcontrol/access/eventsrc:447
+#: kcontrol/access/eventsrc:446
 msgid ""
 "Comment=A lock key (e.g. Caps Lock or Num Lock) has changed its state and is "
 "now active"
 msgstr ""
 
-#: kcontrol/access/eventsrc:503
+#: kcontrol/access/eventsrc:502
 msgid "Name=A lock key has been deactivated"
 msgstr ""
 
-#: kcontrol/access/eventsrc:556
+#: kcontrol/access/eventsrc:555
 msgid ""
 "Comment=A lock key (e.g. Caps Lock or Num Lock) has changed its state and is "
 "now inactive"
 msgstr ""
 
-#: kcontrol/access/eventsrc:612
+#: kcontrol/access/eventsrc:611
 msgid "Name=Sticky keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:664
+#: kcontrol/access/eventsrc:663
 msgid "Comment=Sticky keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:721
+#: kcontrol/access/eventsrc:720
 msgid "Name=Slow keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:773
+#: kcontrol/access/eventsrc:772
 msgid "Comment=Slow keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:830
+#: kcontrol/access/eventsrc:829
 msgid "Name=Bounce keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:881
+#: kcontrol/access/eventsrc:880
 msgid "Comment=Bounce keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:938
+#: kcontrol/access/eventsrc:937
 msgid "Name=Mouse keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:991
+#: kcontrol/access/eventsrc:990
 msgid "Comment=Mouse keys has been enabled or disabled"
 msgstr ""
 
@@ -5100,7 +5100,7 @@ msgstr "Name=Küräk Saqlağıç"
 msgid "Name=Tutorials"
 msgstr "Name=Austria"
 
-#: khelpcenter/plugins/Tutorials/.directory:41
+#: khelpcenter/plugins/Tutorials/.directory:43
 #, fuzzy
 msgid "Comment=Tutorial and introduction documents."
 msgstr "Comment=Yaraqsız boyırıq."
