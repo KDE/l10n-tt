@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kio\n"
-"POT-Creation-Date: 2007-09-08 01:12+0200\n"
+"POT-Creation-Date: 2007-09-26 01:12+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2332,41 +2332,41 @@ msgstr ""
 msgid "Could not find the program '%1'"
 msgstr "'%1' atlı yazılımnı tabıp bulmadı"
 
-#: kio/kfileitem.cpp:722
+#: kio/kfileitem.cpp:730
 msgid "Symbolic Link"
 msgstr "Yomşaq Bäy"
 
-#: kio/kfileitem.cpp:724
+#: kio/kfileitem.cpp:732
 msgid "%1 (Link)"
 msgstr "%1 (Läñker)"
 
 #: ../kioslave/http/kcookiejar/kcookiewin.cpp:270
 #: bookmarks/kbookmarkmenu.cc:791 kfile/kpropertiesdialog.cpp:3930
-#: kio/kfileitem.cpp:766
+#: kio/kfileitem.cpp:774
 msgid "Name:"
 msgstr "İsem:"
 
-#: kfile/kpropertiesdialog.cpp:927 kio/kfileitem.cpp:767
+#: kfile/kpropertiesdialog.cpp:927 kio/kfileitem.cpp:775
 msgid "Type:"
 msgstr "Töre:"
 
-#: kio/kfileitem.cpp:771
+#: kio/kfileitem.cpp:779
 msgid "Link to %1 (%2)"
 msgstr "%1 öçen bäy (%2)"
 
-#: kfile/kpropertiesdialog.cpp:977 kio/kfileitem.cpp:779
+#: kfile/kpropertiesdialog.cpp:977 kio/kfileitem.cpp:787
 msgid "Size:"
 msgstr "Ülçäm:"
 
-#: kfile/kpropertiesdialog.cpp:1045 kio/kfileitem.cpp:784
+#: kfile/kpropertiesdialog.cpp:1045 kio/kfileitem.cpp:792
 msgid "Modified:"
 msgstr "Üzgärelde:"
 
-#: kio/kfileitem.cpp:790
+#: kio/kfileitem.cpp:798
 msgid "Owner:"
 msgstr "İäse:"
 
-#: kio/kfileitem.cpp:791
+#: kio/kfileitem.cpp:799
 msgid "Permissions:"
 msgstr "Xoquqlar:"
 
