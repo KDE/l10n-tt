@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase konqueror\n"
-"POT-Creation-Date: 2007-08-11 01:13+0200\n"
+"POT-Creation-Date: 2007-10-05 01:13+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -622,15 +622,15 @@ msgstr ""
 
 #: konq_mainwindow.cc:1760 konq_mainwindow.cc:2582 konq_mainwindow.cc:2600
 #: konq_mainwindow.cc:2704 konq_mainwindow.cc:2720 konq_mainwindow.cc:2737
-#: konq_mainwindow.cc:2774 konq_mainwindow.cc:2807 konq_mainwindow.cc:5228
-#: konq_mainwindow.cc:5246 konq_viewmgr.cc:1165 konq_viewmgr.cc:1183
+#: konq_mainwindow.cc:2774 konq_mainwindow.cc:2807 konq_mainwindow.cc:5233
+#: konq_mainwindow.cc:5251 konq_viewmgr.cc:1165 konq_viewmgr.cc:1183
 msgid "Discard Changes?"
 msgstr "Üzgäreşne Yuğaltasımı?"
 
 #: konq_mainwindow.cc:1760 konq_mainwindow.cc:2582 konq_mainwindow.cc:2600
 #: konq_mainwindow.cc:2704 konq_mainwindow.cc:2720 konq_mainwindow.cc:2737
-#: konq_mainwindow.cc:2774 konq_mainwindow.cc:2807 konq_mainwindow.cc:5228
-#: konq_mainwindow.cc:5246 konq_viewmgr.cc:1165 konq_viewmgr.cc:1183
+#: konq_mainwindow.cc:2774 konq_mainwindow.cc:2807 konq_mainwindow.cc:5233
+#: konq_mainwindow.cc:5251 konq_viewmgr.cc:1165 konq_viewmgr.cc:1183
 msgid "&Discard Changes"
 msgstr "&Üzgärmäne Yuğaltası"
 
@@ -1166,29 +1166,29 @@ msgstr "&Yaña Tabaqta Aç"
 msgid "Open the document in a new tab"
 msgstr "İstälekne yaña tabaqta aç"
 
-#: konq_mainwindow.cc:4924
+#: konq_mainwindow.cc:4929
 #, c-format
 msgid "Open with %1"
 msgstr "Monı belän aç: %1"
 
-#: konq_mainwindow.cc:4981
+#: konq_mainwindow.cc:4986
 msgid "&View Mode"
 msgstr "&Küreneş Isulı"
 
-#: konq_mainwindow.cc:5191
+#: konq_mainwindow.cc:5196
 msgid ""
 "You have multiple tabs open in this window, are you sure you want to quit?"
 msgstr "Bu täräzädä berniçä tabaq açılğan bulğan. Çınlap ta çığasımı?"
 
-#: konq_mainwindow.cc:5193 konq_viewmgr.cc:1147
+#: konq_mainwindow.cc:5198 konq_viewmgr.cc:1147
 msgid "Confirmation"
 msgstr "Raslaw"
 
-#: konq_mainwindow.cc:5195
+#: konq_mainwindow.cc:5200
 msgid "C&lose Current Tab"
 msgstr "Biredäge Tabaqnı Ya&p"
 
-#: konq_mainwindow.cc:5227
+#: konq_mainwindow.cc:5232
 msgid ""
 "This tab contains changes that have not been submitted.\n"
 "Closing the window will discard these changes."
@@ -1196,7 +1196,7 @@ msgstr ""
 "Bu tabaqtağı üzgäreşlär saqlanmağan äle.\n"
 "Bu täräzä yabıla ikän, ul üzgäreşlär yuğalaçaq."
 
-#: konq_mainwindow.cc:5245
+#: konq_mainwindow.cc:5250
 msgid ""
 "This page contains changes that have not been submitted.\n"
 "Closing the window will discard these changes."
@@ -1204,20 +1204,20 @@ msgstr ""
 "Bu bittäge üzgäreşlär saqlanmağan äle.\n"
 "Bu täräzä yabıla ikän, ul üzgäreşlär yuğalaçaq."
 
-#: konq_mainwindow.cc:5337
+#: konq_mainwindow.cc:5342
 msgid ""
 "Your sidebar is not functional or unavailable. A new entry cannot be added."
 msgstr "Yantiräñ yä eşlämi, yä sünek tora. Yaña kerem östäp bulmí."
 
-#: konq_mainwindow.cc:5337 konq_mainwindow.cc:5344
+#: konq_mainwindow.cc:5342 konq_mainwindow.cc:5349
 msgid "Web Sidebar"
 msgstr "Web Yantiräse"
 
-#: konq_mainwindow.cc:5342
+#: konq_mainwindow.cc:5347
 msgid "Add new web extension \"%1\" to your sidebar?"
 msgstr "Yantirägä '%1' digän yaña web-quşılmanı östiseme?"
 
-#: konq_mainwindow.cc:5344
+#: konq_mainwindow.cc:5349
 msgid "Do Not Add"
 msgstr "Östämäskä"
 
