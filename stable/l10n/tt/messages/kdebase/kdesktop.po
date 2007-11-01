@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdesktop\n"
-"POT-Creation-Date: 2007-09-28 01:13+0200\n"
+"POT-Creation-Date: 2007-11-01 01:14+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -1070,16 +1070,23 @@ msgstr "Küräk saqlağıçın niçä sekundtan soñ cibäräsen bilgeli."
 #. i18n: file kdesktop.kcfg line 235
 #: rc.cpp:271
 #, no-c-format
-msgid "Disable screen saver during presentation or TV"
+msgid "Suspend screen saver when DPMS kicks in"
 msgstr ""
 
-#. i18n: file kdesktop.kcfg line 236
+#. i18n: file kdesktop.kcfg line 238
 #: rc.cpp:274
-#, fuzzy, no-c-format
+#, no-c-format
 msgid ""
-"Enable this option if you want to disable the screen saver while watching TV or "
-"movies."
-msgstr "Monı açıp, asyaq öçen bülenäçäk alxäter külämen çiklärgä bula."
+"Usually the screen saver is suspended when display power saving kicks in,\n"
+"       as nothing can be seen on the screen anyway, obviously. However, some "
+"screen savers\n"
+"       actually perform useful computations, so it is not desirable to suspend "
+"them."
+msgstr ""
+
+#, fuzzy
+#~ msgid "Enable this option if you want to disable the screen saver while watching TV or movies."
+#~ msgstr "Monı açıp, asyaq öçen bülenäçäk alxäter külämen çiklärgä bula."
 
 #~ msgid "Use this to disable the Autostart folder"
 #~ msgstr "Üzcibärelü törgägen sünderü öçen, monı qullanası"
