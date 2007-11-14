@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdesu\n"
-"POT-Creation-Date: 2006-10-06 02:34+0200\n"
+"POT-Creation-Date: 2007-11-14 01:15+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -76,34 +76,34 @@ msgstr "Bulışuçı"
 msgid "Original author"
 msgstr "Baş yazuçı"
 
-#: kdesu.cpp:128
+#: kdesu.cpp:131
 msgid "Command '%1' not found."
 msgstr "\"%1\" boyırığı tabılmadı."
 
-#: kdesu.cpp:204
+#: kdesu.cpp:207
 #, c-format
 msgid "Illegal priority: %1"
 msgstr "Yaraqsız östenlek: %1"
 
-#: kdesu.cpp:232
+#: kdesu.cpp:235
 msgid "No command specified."
 msgstr "Boyırıq birelmäde."
 
-#: kdesu.cpp:341
+#: kdesu.cpp:344
 msgid ""
 "Su returned with an error.\n"
 msgstr ""
 "Su ber xatanı belän qaytarttı.\n"
 
-#: kdesu.cpp:362
+#: kdesu.cpp:365
 msgid "Command:"
 msgstr "Boyırıq:"
 
-#: kdesu.cpp:367
+#: kdesu.cpp:370
 msgid "realtime: "
 msgstr "çınçaq: "
 
-#: kdesu.cpp:370
+#: kdesu.cpp:373
 msgid "Priority:"
 msgstr "Möhimlek:"
 
