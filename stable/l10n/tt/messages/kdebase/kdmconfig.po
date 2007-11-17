@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kdmconfig\n"
-"POT-Creation-Date: 2005-08-27 02:44+0200\n"
+"POT-Creation-Date: 2007-11-17 01:14+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -114,58 +114,58 @@ msgid ""
 "<em>center</em>."
 msgstr "Kerü täräzäseneñ <em>üzäk</em> urınlaşuın bonda %lap bilgeläp bula."
 
-#: kdm-appear.cpp:173 kdm-appear.cpp:185 kdm-users.cpp:84
+#: kdm-appear.cpp:173 kdm-appear.cpp:186 kdm-users.cpp:84
 msgid "<default>"
 msgstr "<ğädäti>"
 
-#: kdm-appear.cpp:175
+#: kdm-appear.cpp:176
 msgid "GUI s&tyle:"
 msgstr "GUI &tışlawı:"
 
-#: kdm-appear.cpp:179
+#: kdm-appear.cpp:180
 msgid "You can choose a basic GUI style here that will be used by KDM only."
 msgstr "Sistemgä kerü citäkçesendä qullanası bizäleşne bonda saylap bula."
 
-#: kdm-appear.cpp:187
+#: kdm-appear.cpp:189
 msgid "&Color scheme:"
 msgstr "&Tös köyläwe:"
 
-#: kdm-appear.cpp:191
+#: kdm-appear.cpp:193
 msgid "You can choose a basic Color Scheme here that will be used by KDM only."
 msgstr ""
 "Sistemgä kerü citäkçesendä qullanası töslär tözeleşen bonda saylap bula."
 
-#: kdm-appear.cpp:197
+#: kdm-appear.cpp:199
 msgid "No Echo"
 msgstr "Kürsätmäskä"
 
-#: kdm-appear.cpp:198
+#: kdm-appear.cpp:200
 msgid "One Star"
 msgstr "Ber Yöldız"
 
-#: kdm-appear.cpp:199
+#: kdm-appear.cpp:201
 msgid "Three Stars"
 msgstr "Öç Yoldız"
 
-#: kdm-appear.cpp:200
+#: kdm-appear.cpp:202
 msgid "Echo &mode:"
 msgstr "&Qaytawaz ısulı:"
 
-#: kdm-appear.cpp:204
+#: kdm-appear.cpp:206
 msgid ""
 "You can choose whether and how KDM shows your password when you type it."
 msgstr ""
 "Kertelgän sersüz kürsätü ısulın sistemgä kerü citäkçesenä bonda bilgeläp bula."
 
-#: kdm-appear.cpp:210
+#: kdm-appear.cpp:212
 msgid "Locale"
 msgstr "İlläşterü"
 
-#: kdm-appear.cpp:216
+#: kdm-appear.cpp:218
 msgid "Languag&e:"
 msgstr "T&el:"
 
-#: kdm-appear.cpp:221
+#: kdm-appear.cpp:223
 msgid ""
 "Here you can choose the language used by KDM. This setting does not affect a "
 "user's personal settings; that will take effect after login."
@@ -173,11 +173,11 @@ msgstr ""
 "Sistemgä kerü citäkçesendä qullanası tel saylaw. Bu köylämä kereş çağında ğına "
 "qullanıla, qullanuçılar caylawların üzgärtmi."
 
-#: kdm-appear.cpp:262
+#: kdm-appear.cpp:264
 msgid "without name"
 msgstr "isemsez"
 
-#: kdm-appear.cpp:403
+#: kdm-appear.cpp:405
 msgid ""
 "There was an error loading the image:\n"
 "%1\n"
@@ -187,12 +187,12 @@ msgstr ""
 "%1\n"
 "Ul saqlanmí qalaçaq."
 
-#: kdm-appear.cpp:443 kdm-appear.cpp:486
+#: kdm-appear.cpp:445 kdm-appear.cpp:488
 #, c-format
 msgid "Welcome to %s at %n"
 msgstr "%s Räxim di, %n "
 
-#: kdm-appear.cpp:502
+#: kdm-appear.cpp:504
 msgid ""
 "<h1>KDM - Appearance</h1> Here you can configure the basic appearance of the "
 "KDM login manager, i.e. a greeting string, an icon etc."
