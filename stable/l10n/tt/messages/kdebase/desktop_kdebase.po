@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-12-01 00:20+0000\n"
+"POT-Creation-Date: 2007-12-03 00:22+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2458,7 +2458,7 @@ msgstr "Query=http://bugs.debian.org/\\\\{@}"
 msgid "Name=Open Directory"
 msgstr "Name=Açıq Törgäk"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/dmoz.desktop:51
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/dmoz.desktop:50
 msgid "Query=http://search.dmoz.org/cgi-bin/search?search=\\\\{@}"
 msgstr "Query=http://search.dmoz.org/cgi-bin/search?search=\\\\{@}"
 
