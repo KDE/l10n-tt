@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmkio\n"
-"POT-Creation-Date: 2007-09-04 01:13+0200\n"
+"POT-Creation-Date: 2007-12-24 01:15+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -24,7 +24,7 @@ msgid ""
 "Your emails"
 msgstr "tatarish-l10n@gmail.com"
 
-#: cache.cpp:107
+#: cache.cpp:105
 msgid ""
 "<h1>Cache</h1>"
 "<p>This module lets you configure your cache settings.</p>"
