@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcontrol\n"
-"POT-Creation-Date: 2007-01-15 02:35+0100\n"
+"POT-Creation-Date: 2008-01-05 01:15+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -175,7 +175,7 @@ msgstr "KDE Beleşmä Üzäge"
 msgid "Current Maintainer"
 msgstr "Xäzerge Qatnaşuçı"
 
-#: modules.cpp:155
+#: modules.cpp:160
 msgid "<big>Loading...</big>"
 msgstr "<big>Yökläw...</big>"
 
