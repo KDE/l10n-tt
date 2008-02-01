@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-01-25 00:22+0000\n"
+"POT-Creation-Date: 2008-02-01 01:08+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -61,7 +61,7 @@ msgstr "Name=Sersüzlär"
 msgid "Comment=Configure password settings"
 msgstr "Comment=Sersüzlär caylaw"
 
-#: applnk/compat/passwords.desktop:172
+#: applnk/compat/passwords.desktop:173
 msgid "Keywords=Passwords,kdesu,Echo characters,Remember passwords,Timeout"
 msgstr "Keywords=Passwords,kdesu,Echo characters,Remember passwords,Timeout"
 
@@ -284,7 +284,7 @@ msgstr "Comment=KDE Web Östäl"
 msgid "Name=File"
 msgstr "Name=Çili"
 
-#: applnk/kde-utilities-file.directory:70
+#: applnk/kde-utilities-file.directory:71
 #, fuzzy
 msgid "Comment=File"
 msgstr "Comment=Çäçäklär"
@@ -457,7 +457,7 @@ msgstr "Comment=Ni qızğanıç, bu ımlawnı añlamadım."
 msgid "GenericName=Java IDE"
 msgstr "GenericName=Java IDE"
 
-#: kappfinder/apps/Development/Forte.desktop:54
+#: kappfinder/apps/Development/Forte.desktop:53
 msgid "Name=Forte"
 msgstr "Name=Köçele Yaq"
 
@@ -465,7 +465,7 @@ msgstr "Name=Köçele Yaq"
 msgid "Name=Qt Assistant"
 msgstr "Name=Qt Assistant"
 
-#: kappfinder/apps/Development/assistant.desktop:62
+#: kappfinder/apps/Development/assistant.desktop:61
 msgid "GenericName=Document Browser"
 msgstr "GenericName=İstälek Küzätüçe"
 
@@ -481,7 +481,7 @@ msgstr "Name=DDD"
 msgid "Name=Qt Designer"
 msgstr "Name=Qt Tözüçe"
 
-#: kappfinder/apps/Development/designer.desktop:56
+#: kappfinder/apps/Development/designer.desktop:55
 msgid "GenericName=Interface Designer"
 msgstr "GenericName=Yözara Tözegeç"
 
@@ -489,7 +489,7 @@ msgstr "GenericName=Yözara Tözegeç"
 msgid "Name=Qt DlgEdit"
 msgstr "Name=Qt DlgEdit"
 
-#: kappfinder/apps/Development/dlgedit.desktop:28
+#: kappfinder/apps/Development/dlgedit.desktop:27
 msgid "GenericName=Dialog Editor"
 msgstr "GenericName=Dialog Tözätkeç"
 
@@ -497,7 +497,7 @@ msgstr "GenericName=Dialog Tözätkeç"
 msgid "Name=Eclipse"
 msgstr "Name=Eclipse"
 
-#: kappfinder/apps/Development/eclipse.desktop:24
+#: kappfinder/apps/Development/eclipse.desktop:23
 msgid "GenericName=Eclipse IDE"
 msgstr "GenericName=Eclipse IDE"
 
@@ -517,7 +517,7 @@ msgstr "Name=J2ME"
 msgid "Name=Qt Linguist"
 msgstr "Name=Qt Telbelgeç"
 
-#: kappfinder/apps/Development/linguist.desktop:54
+#: kappfinder/apps/Development/linguist.desktop:53
 msgid "GenericName=Translation Tool"
 msgstr "GenericName=Tärcemäläw Qoralı"
 
@@ -545,15 +545,15 @@ msgstr "Name=Clanbomber"
 #: kappfinder/apps/Games/Arcade/GnobotsII.desktop:13
 #: kappfinder/apps/Games/Arcade/Mures.desktop:18
 #: kappfinder/apps/Games/Arcade/SuperMethaneBrothers.desktop:41
-#: kappfinder/apps/Games/Arcade/Trophy.desktop:33
-#: kappfinder/apps/Games/Arcade/XKobo.desktop:18
-#: kappfinder/apps/Games/Arcade/XSoldier.desktop:25
-#: kappfinder/apps/Games/Arcade/battalion.desktop:32
+#: kappfinder/apps/Games/Arcade/Trophy.desktop:32
+#: kappfinder/apps/Games/Arcade/XKobo.desktop:17
+#: kappfinder/apps/Games/Arcade/XSoldier.desktop:24
+#: kappfinder/apps/Games/Arcade/battalion.desktop:31
 #: kappfinder/apps/Games/Arcade/cxhextris.desktop:12
-#: kappfinder/apps/Games/Arcade/scavenger.desktop:22
+#: kappfinder/apps/Games/Arcade/scavenger.desktop:21
 #: kappfinder/apps/Games/Board/Gataxx.desktop:10
 #: kappfinder/apps/Games/Board/Gnotravex.desktop:11
-#: kappfinder/apps/Games/penguin-command.desktop:40
+#: kappfinder/apps/Games/penguin-command.desktop:39
 msgid "GenericName=Arcade Game"
 msgstr "GenericName=Arkad Uyını"
 
@@ -609,7 +609,7 @@ msgstr "Name=XSoldier"
 msgid "Name=Alephone"
 msgstr "Name=Alephone"
 
-#: kappfinder/apps/Games/Arcade/alephone-nogl.desktop:17
+#: kappfinder/apps/Games/Arcade/alephone-nogl.desktop:16
 msgid "Comment=An open source version of Marathon Infinity for SDL"
 msgstr "Comment=SDL öçen Marathon Infinity'nıñ açıqçığanaqlı söreme"
 
@@ -632,7 +632,7 @@ msgstr "Name=Batallion"
 msgid "Name=Battleball"
 msgstr "Name=Battleball"
 
-#: kappfinder/apps/Games/Arcade/battleball.desktop:23
+#: kappfinder/apps/Games/Arcade/battleball.desktop:22
 msgid "GenericName=Ball Game"
 msgstr "GenericName=Tup Uyını"
 
@@ -644,7 +644,7 @@ msgstr "Name=cxhextris"
 msgid "Name=Rocks n Diamonds"
 msgstr "Name=Rocks n Diamonds"
 
-#: kappfinder/apps/Games/Arcade/rocksndiamonds.desktop:42
+#: kappfinder/apps/Games/Arcade/rocksndiamonds.desktop:41
 #: kappfinder/apps/Games/Board/Glines.desktop:24
 msgid "GenericName=Tactical Game"
 msgstr "GenericName=Taktik Uyını"
@@ -689,7 +689,7 @@ msgstr "Name=Gnotravex"
 msgid "Name=Gnotski"
 msgstr "Name=Gnotski"
 
-#: kappfinder/apps/Games/Board/Gnotski.desktop:13
+#: kappfinder/apps/Games/Board/Gnotski.desktop:12
 msgid "GenericName=GNOME Klotski Game"
 msgstr "GenericName=GNOME Klotski Uyını"
 
@@ -728,7 +728,7 @@ msgid "Name=AisleRiot"
 msgstr "Name=AisleRiot"
 
 #: kappfinder/apps/Games/Card/AisleRiot.desktop:15
-#: kappfinder/apps/Games/Card/FreeCell.desktop:21
+#: kappfinder/apps/Games/Card/FreeCell.desktop:20
 #: kappfinder/apps/Games/Card/PySol.desktop:3
 #: kappfinder/apps/Games/Card/XPat2.desktop:15
 msgid "GenericName=Card Game"
@@ -738,7 +738,7 @@ msgstr "GenericName=Kard Uyını"
 msgid "Name=FreeCell"
 msgstr "Name=FreeCell"
 
-#: kappfinder/apps/Games/Card/PySol.desktop:86
+#: kappfinder/apps/Games/Card/PySol.desktop:85
 msgid "Name=PySol"
 msgstr "Name=PySol"
 
@@ -794,7 +794,7 @@ msgstr "Comment=Moria taba barıp Balrog'nı ciñ"
 msgid "Name=NetHack"
 msgstr "Name=NetHack"
 
-#: kappfinder/apps/Games/Roguelikes/nethack.desktop:17
+#: kappfinder/apps/Games/Roguelikes/nethack.desktop:16
 #: kappfinder/apps/Games/Roguelikes/tome.desktop:16
 msgid "GenericName=Quest Game"
 msgstr "GenericName=Tabu Uyını"
@@ -824,7 +824,7 @@ msgid "Name=Freeciv"
 msgstr "Name=Freeciv"
 
 #: kappfinder/apps/Games/TacticStrategy/freeciv.desktop:20
-#: kappfinder/apps/Games/xshipwars.desktop:26
+#: kappfinder/apps/Games/xshipwars.desktop:25
 msgid "GenericName=Strategy Game"
 msgstr "GenericName=Strategi Uyını"
 
@@ -832,7 +832,7 @@ msgstr "GenericName=Strategi Uyını"
 msgid "Name=FreeCiv Server"
 msgstr "Name=FreeCiv Servere"
 
-#: kappfinder/apps/Games/TacticStrategy/freecivserver.desktop:76
+#: kappfinder/apps/Games/TacticStrategy/freecivserver.desktop:77
 msgid "Comment=A server for Free Civ"
 msgstr "Comment=Free Civ öçen server"
 
@@ -852,7 +852,7 @@ msgstr "Name=X Küzlär"
 msgid "Name=Tux"
 msgstr "Name=Tux"
 
-#: kappfinder/apps/Games/Toys/xpinguin.desktop:17
+#: kappfinder/apps/Games/Toys/xpinguin.desktop:16
 msgid "GenericName=Linux Mascot"
 msgstr "GenericName=Linux Bötie"
 
@@ -860,7 +860,7 @@ msgstr "GenericName=Linux Bötie"
 msgid "Name=Defendguin"
 msgstr "Name=Defendguin"
 
-#: kappfinder/apps/Games/defendguin.desktop:20
+#: kappfinder/apps/Games/defendguin.desktop:19
 msgid "GenericName=Game"
 msgstr "GenericName=Uyın"
 
@@ -908,7 +908,7 @@ msgstr "GenericName=Sürät Browserı"
 msgid "Name=Sketch"
 msgstr "Name=Sketch"
 
-#: kappfinder/apps/Graphics/Sketch.desktop:24
+#: kappfinder/apps/Graphics/Sketch.desktop:23
 msgid "GenericName=Vector-based Drawing Program"
 msgstr "GenericName=Vektorlı Sızu Yazılımı"
 
@@ -932,7 +932,7 @@ msgstr "GenericName=Küräk Töşergeç Yazılım"
 msgid "Name=X Bitmap"
 msgstr "Name=X Bitmap"
 
-#: kappfinder/apps/Graphics/bitmap.desktop:31
+#: kappfinder/apps/Graphics/bitmap.desktop:30
 msgid "GenericName=Bitmap Creator"
 msgstr "GenericName=Bitmap Yasatqıç"
 
@@ -940,7 +940,7 @@ msgstr "GenericName=Bitmap Yasatqıç"
 msgid "Name=Blender"
 msgstr "Name=Blender"
 
-#: kappfinder/apps/Graphics/blender.desktop:20
+#: kappfinder/apps/Graphics/blender.desktop:19
 msgid "GenericName=3D Modeler/Renderer"
 msgstr "GenericName=3D Modeler/Renderer"
 
@@ -948,7 +948,7 @@ msgstr "GenericName=3D Modeler/Renderer"
 msgid "Name=GhostView"
 msgstr "Name=GhostView"
 
-#: kappfinder/apps/Graphics/ghostview.desktop:23
+#: kappfinder/apps/Graphics/ghostview.desktop:22
 msgid "GenericName=PostScript Viewer"
 msgstr "GenericName=PostScript Kürsätkeç"
 
@@ -994,7 +994,7 @@ msgstr "GenericName=Sızğıç Yazılım"
 msgid "Name=X DVI"
 msgstr "Name=X DVI"
 
-#: kappfinder/apps/Graphics/xdvi.desktop:20
+#: kappfinder/apps/Graphics/xdvi.desktop:19
 msgid "GenericName=DVI Viewer"
 msgstr "GenericName=DVI Kürsätkeç"
 
@@ -1006,7 +1006,7 @@ msgstr "Name=Xfig"
 msgid "Name=X Paint"
 msgstr "Name=X Paint"
 
-#: kappfinder/apps/Graphics/xpaint.desktop:33
+#: kappfinder/apps/Graphics/xpaint.desktop:32
 msgid "GenericName=Paint Program"
 msgstr "GenericName=Sürätläwçe Yazılım"
 
@@ -1032,7 +1032,7 @@ msgstr "Name=Dpsftp"
 
 #: kappfinder/apps/Internet/Dpsftp.desktop:9
 #: kappfinder/apps/Internet/gFTP.desktop:9
-#: kappfinder/apps/Internet/xftp.desktop:18
+#: kappfinder/apps/Internet/xftp.desktop:17
 msgid "GenericName=FTP Browser"
 msgstr "GenericName=FTP Browser"
 
@@ -1051,11 +1051,11 @@ msgstr "Name=Üseş"
 #: kappfinder/apps/Internet/Evolution.desktop:21
 #: kappfinder/apps/Internet/Netscapemessenger.desktop:34
 #: kappfinder/apps/Internet/Sylpheed.desktop:11
-#: kappfinder/apps/Internet/Terminal/mutt.desktop:14
-#: kappfinder/apps/Internet/Terminal/pine.desktop:19
-#: kappfinder/apps/Internet/balsa.desktop:13
+#: kappfinder/apps/Internet/Terminal/mutt.desktop:13
+#: kappfinder/apps/Internet/Terminal/pine.desktop:18
+#: kappfinder/apps/Internet/balsa.desktop:12
 #: kappfinder/apps/Internet/mozilla-thunderbird.desktop:18
-#: kappfinder/apps/Internet/xfmail.desktop:20
+#: kappfinder/apps/Internet/xfmail.desktop:19
 msgid "GenericName=Mail Client"
 msgstr "GenericName=Xat Kliente"
 
@@ -1064,8 +1064,8 @@ msgid "Name=Faces"
 msgstr "Name=Yözlär"
 
 #: kappfinder/apps/Internet/Faces.desktop:29
-#: kappfinder/apps/Internet/coolmail.desktop:21
-#: kappfinder/apps/Internet/xbiff.desktop:22
+#: kappfinder/apps/Internet/coolmail.desktop:20
+#: kappfinder/apps/Internet/xbiff.desktop:21
 msgid "GenericName=Mail Alert"
 msgstr "GenericName=Xat turında Beldergeç"
 
@@ -1094,13 +1094,13 @@ msgstr "Name=Galeon"
 #: kappfinder/apps/Internet/Terminal/Links.desktop:25
 #: kappfinder/apps/Internet/Terminal/Lynx.desktop:9
 #: kappfinder/apps/Internet/Terminal/w3m.desktop:10
-#: kappfinder/apps/Internet/arena.desktop:22
+#: kappfinder/apps/Internet/arena.desktop:21
 #: kappfinder/apps/Internet/epiphany.desktop:16
 #: kappfinder/apps/Internet/mozilla-firefox.desktop:18
-#: kappfinder/apps/Internet/mozilla.desktop:19
-#: kappfinder/apps/Internet/netscape.desktop:20
-#: kappfinder/apps/Internet/netscape6.desktop:29
-#: kappfinder/apps/Internet/opera.desktop:16 konqueror/konqbrowser.desktop:20
+#: kappfinder/apps/Internet/mozilla.desktop:18
+#: kappfinder/apps/Internet/netscape.desktop:19
+#: kappfinder/apps/Internet/netscape6.desktop:28
+#: kappfinder/apps/Internet/opera.desktop:15 konqueror/konqbrowser.desktop:19
 msgid "GenericName=Web Browser"
 msgstr "GenericName=Web Browser"
 
@@ -1129,8 +1129,8 @@ msgstr "GenericName=Port Ezläwçe"
 msgid "Name=Pan"
 msgstr "Name=Pan"
 
-#: kappfinder/apps/Internet/Pan.desktop:14
-#: kappfinder/apps/Internet/knews.desktop:26
+#: kappfinder/apps/Internet/Pan.desktop:13
+#: kappfinder/apps/Internet/knews.desktop:25
 msgid "GenericName=Usenet News Reader"
 msgstr "GenericName=Yañalıq Uqu öçen"
 
@@ -1151,7 +1151,7 @@ msgstr "Name=Lynx"
 msgid "GenericName=BitTorrent GUI"
 msgstr "GenericName=BitTorrent öçen Yözara"
 
-#: kappfinder/apps/Internet/Terminal/btdownloadcurses.desktop:54
+#: kappfinder/apps/Internet/Terminal/btdownloadcurses.desktop:55
 msgid "Name=BitTorrent Python Curses GUI"
 msgstr "Name=BitTorrent öçen Yözara (Python/Curses asılında)"
 
@@ -1204,7 +1204,7 @@ msgstr "Name=Arena"
 msgid "Name=Balsa"
 msgstr "Name=Balsa"
 
-#: kappfinder/apps/Internet/btdownloadgui.desktop:54
+#: kappfinder/apps/Internet/btdownloadgui.desktop:55
 msgid "Name=BitTorrent Python wxGTK GUI"
 msgstr "Name=BitTorrent öçen Yözara (wxGTK asılında)"
 
@@ -1224,7 +1224,7 @@ msgstr "GenericName=Direct Connect Qabatlaması"
 msgid "Name=eDonkey2000 GTK+ Core Controller"
 msgstr "Name=eDonkey2000 GTK+ öçen Töp İdärä"
 
-#: kappfinder/apps/Internet/ed2k_gui.desktop:58
+#: kappfinder/apps/Internet/ed2k_gui.desktop:59
 msgid "GenericName=eDonkey2000 GUI"
 msgstr "GenericName=eDonkey2000 Yözarası"
 
@@ -1236,7 +1236,7 @@ msgstr "Name=Epiphany"
 msgid "Name=Ethereal"
 msgstr "Name=Ethereal"
 
-#: kappfinder/apps/Internet/ethereal.desktop:14
+#: kappfinder/apps/Internet/ethereal.desktop:13
 #: kappfinder/apps/Internet/wireshark.desktop:8
 msgid "GenericName=Network Analyzer"
 msgstr "GenericName=Çeltär Centekläwçe"
@@ -1253,7 +1253,7 @@ msgstr "Name=Gaim"
 msgid "Name=GnomeMeeting"
 msgstr "Name=GnomeMeeting"
 
-#: kappfinder/apps/Internet/gnomemeeting.desktop:17
+#: kappfinder/apps/Internet/gnomemeeting.desktop:16
 msgid "GenericName=Video Conferencing"
 msgstr "GenericName=Video Bäxäsläşü"
 
@@ -1293,7 +1293,7 @@ msgstr "Name=Licq"
 msgid "Name=MLDonkey GTK+ Core Controller"
 msgstr "Name=MLDonkey GTK+ öçen Töp İdärä"
 
-#: kappfinder/apps/Internet/mldonkey_gui.desktop:52
+#: kappfinder/apps/Internet/mldonkey_gui.desktop:53
 msgid "GenericName=MLDonkey GUI"
 msgstr "GenericName=MLDonkey Yözarası"
 
@@ -1334,7 +1334,7 @@ msgstr "Name=X Biff"
 msgid "Name=XChat"
 msgstr "Name=XChat"
 
-#: kappfinder/apps/Internet/xchat.desktop:21
+#: kappfinder/apps/Internet/xchat.desktop:20
 msgid "GenericName=IRC Chat"
 msgstr "GenericName=IRC Çatı"
 
@@ -1370,7 +1370,7 @@ msgstr "Name=MP3 Info"
 msgid "Name=XMovie"
 msgstr "Name=XMovie"
 
-#: kappfinder/apps/Multimedia/XMovie.desktop:15
+#: kappfinder/apps/Multimedia/XMovie.desktop:14
 #: kappfinder/apps/Multimedia/mplayer.desktop:3
 #: kappfinder/apps/Multimedia/mtv.desktop:3
 #: kappfinder/apps/Multimedia/realplayer.desktop:3
@@ -1437,7 +1437,7 @@ msgstr "Name=GTV"
 msgid "Name=Jazz"
 msgstr "Name=Jazz"
 
-#: kappfinder/apps/Multimedia/jazz.desktop:13
+#: kappfinder/apps/Multimedia/jazz.desktop:12
 msgid "GenericName=Sound Processor"
 msgstr "GenericName=Tawış Prosessorı"
 
@@ -1489,7 +1489,7 @@ msgstr "Name=Sweep"
 msgid "GenericName=Watch TV!"
 msgstr "GenericName=Watch TV!"
 
-#: kappfinder/apps/Multimedia/xawtv.desktop:82
+#: kappfinder/apps/Multimedia/xawtv.desktop:81
 msgid "Name=XawTV"
 msgstr "Name=XawTV"
 
@@ -1525,7 +1525,7 @@ msgstr "Name=XMMS"
 msgid "Name=Applix"
 msgstr "Name=Applix"
 
-#: kappfinder/apps/Office/Applix.desktop:18
+#: kappfinder/apps/Office/Applix.desktop:17
 msgid "GenericName=Office Suite"
 msgstr "GenericName=Office Suite"
 
@@ -1533,7 +1533,7 @@ msgstr "GenericName=Office Suite"
 msgid "Name=Dia"
 msgstr "Name=Dia"
 
-#: kappfinder/apps/Office/Dia.desktop:11
+#: kappfinder/apps/Office/Dia.desktop:12
 #: kappfinder/apps/Office/Guppi.desktop:11
 msgid "GenericName=Program for Diagrams"
 msgstr "GenericName=Diagram Yazılımı"
@@ -1542,7 +1542,7 @@ msgstr "GenericName=Diagram Yazılımı"
 msgid "Name=GNOME-Cal"
 msgstr "Name=GNOME-Cal"
 
-#: kappfinder/apps/Office/Gnome-Cal.desktop:30
+#: kappfinder/apps/Office/Gnome-Cal.desktop:31
 msgid "GenericName=Personal Calendar"
 msgstr "GenericName=Şäxsi Täqwim"
 
@@ -1563,7 +1563,7 @@ msgid "Name=Gnumeric"
 msgstr "Name=Gnumeric"
 
 #: kappfinder/apps/Office/Gnumeric.desktop:12
-#: kappfinder/apps/Office/XsLite.desktop:19
+#: kappfinder/apps/Office/XsLite.desktop:18
 msgid "GenericName=Spread Sheet"
 msgstr "GenericName=İsäpläw Cäymäse"
 
@@ -1583,8 +1583,8 @@ msgstr "GenericName=Täqwim Yazılımı"
 msgid "Name=WordPerfect"
 msgstr "Name=WordPerfect"
 
-#: kappfinder/apps/Office/WordPerfect.desktop:27
-#: kappfinder/apps/Office/WordPerfect2000.desktop:27
+#: kappfinder/apps/Office/WordPerfect.desktop:26
+#: kappfinder/apps/Office/WordPerfect2000.desktop:26
 #: kappfinder/apps/Office/abiword.desktop:17
 #: kappfinder/apps/Office/lyx.desktop:10
 msgid "GenericName=Word Processor"
@@ -1614,8 +1614,8 @@ msgstr "Name=AbiWord"
 msgid "Name=Acrobat Reader"
 msgstr "Name=Acrobat Reader"
 
-#: kappfinder/apps/Office/acroread.desktop:35
-#: kappfinder/apps/Office/xpdf.desktop:15
+#: kappfinder/apps/Office/acroread.desktop:34
+#: kappfinder/apps/Office/xpdf.desktop:14
 msgid "GenericName=PDF Viewer"
 msgstr "GenericName=PDF Kürsätkeç"
 
@@ -1647,7 +1647,7 @@ msgstr "Name=Netscape Addressbook"
 msgid "Name=Plan"
 msgstr "Name=Plan"
 
-#: kappfinder/apps/Office/plan.desktop:33
+#: kappfinder/apps/Office/plan.desktop:32
 msgid "GenericName=Calendar Manager"
 msgstr "GenericName=Täqwimİdäräçe"
 
@@ -1677,7 +1677,7 @@ msgstr "Name=Terminal"
 
 #: kappfinder/apps/System/Terminal/aterm.desktop:51
 #: kappfinder/apps/Utilities/xutils/xterm.desktop:4
-#: konsole/konsole-script.desktop:46 konsole/konsole.desktop:46
+#: konsole/konsole-script.desktop:45 konsole/konsole.desktop:45
 msgid "GenericName=Terminal Program"
 msgstr "GenericName=Terminal Yazılımı"
 
@@ -1685,7 +1685,7 @@ msgstr "GenericName=Terminal Yazılımı"
 msgid "Name=Procinfo"
 msgstr "Name=Procinfo"
 
-#: kappfinder/apps/System/Terminal/procinfo.desktop:20
+#: kappfinder/apps/System/Terminal/procinfo.desktop:19
 msgid "GenericName=System Process Information"
 msgstr "GenericName=Sistem Prosessları Turında"
 
@@ -1701,7 +1701,7 @@ msgstr "Name=RXVT"
 msgid "Name=Vmstat"
 msgstr "Name=Vmstat"
 
-#: kappfinder/apps/System/Terminal/vmstat.desktop:15
+#: kappfinder/apps/System/Terminal/vmstat.desktop:14
 msgid "GenericName=Virtual Memory Statistics"
 msgstr "GenericName=Xıyalí Xäter Nöfüse"
 
@@ -1709,7 +1709,7 @@ msgstr "GenericName=Xıyalí Xäter Nöfüse"
 msgid "Name=Citrix ICA Client"
 msgstr "Name=Citrix ICA Client"
 
-#: kappfinder/apps/System/citrix_ica.desktop:75
+#: kappfinder/apps/System/citrix_ica.desktop:76
 msgid "GenericName=WTS Client"
 msgstr "GenericName=WTS Klient"
 
@@ -1737,7 +1737,7 @@ msgstr "GenericName=Windows Yızılımnarın Eşlätü"
 msgid "Name=X osview"
 msgstr "Name=X osview"
 
-#: kappfinder/apps/System/xosview.desktop:24
+#: kappfinder/apps/System/xosview.desktop:23
 msgid "GenericName=System Monitor"
 msgstr "GenericName=Sistem Küzätüçe"
 
@@ -1745,15 +1745,15 @@ msgstr "GenericName=Sistem Küzätüçe"
 msgid "Name=Emacs"
 msgstr "Name=Emacs"
 
-#: kappfinder/apps/Utilities/Editors/emacs.desktop:10
-#: kappfinder/apps/Utilities/Editors/gedit.desktop:18
-#: kappfinder/apps/Utilities/Editors/gvim.desktop:38
-#: kappfinder/apps/Utilities/Editors/lemacs.desktop:14
-#: kappfinder/apps/Utilities/Editors/nano.desktop:12
-#: kappfinder/apps/Utilities/Editors/nedit.desktop:14
-#: kappfinder/apps/Utilities/Editors/pico.desktop:13
+#: kappfinder/apps/Utilities/Editors/emacs.desktop:9
+#: kappfinder/apps/Utilities/Editors/gedit.desktop:17
+#: kappfinder/apps/Utilities/Editors/gvim.desktop:37
+#: kappfinder/apps/Utilities/Editors/lemacs.desktop:13
+#: kappfinder/apps/Utilities/Editors/nano.desktop:11
+#: kappfinder/apps/Utilities/Editors/nedit.desktop:13
+#: kappfinder/apps/Utilities/Editors/pico.desktop:12
 #: kappfinder/apps/Utilities/Editors/xedit.desktop:57
-#: kappfinder/apps/Utilities/Editors/xemacs.desktop:19
+#: kappfinder/apps/Utilities/Editors/xemacs.desktop:18
 #: kate/data/kwrite.desktop:3
 msgid "GenericName=Text Editor"
 msgstr "GenericName=Mäten Tözätkeçe"
@@ -1900,7 +1900,7 @@ msgstr "GenericName=Konsol Xäbärlären Kürsätkeç"
 msgid "Name=X Load"
 msgstr "Name=X Yöklänu"
 
-#: kappfinder/apps/Utilities/xutils/xload.desktop:54
+#: kappfinder/apps/Utilities/xutils/xload.desktop:53
 msgid "GenericName=Monitors System Load"
 msgstr "GenericName=Sistem Yöklänü Küzätkeçe"
 
@@ -1912,7 +1912,7 @@ msgstr "Name=X Ereräytkeç"
 msgid "GenericName=Desktop Magnifier"
 msgstr "GenericName=Östäl Ereräytkeç"
 
-#: kappfinder/apps/Utilities/xutils/xterm.desktop:82
+#: kappfinder/apps/Utilities/xutils/xterm.desktop:83
 msgid "Name=X Terminal"
 msgstr "Name=X Terminal"
 
@@ -1941,85 +1941,85 @@ msgstr "Name=KWrite"
 msgid "Comment=KDE Accessibility Tool"
 msgstr "Name=KDE'neñ Qulaylıq Qoralı"
 
-#: kcontrol/access/eventsrc:65
+#: kcontrol/access/eventsrc:66
 msgid "Name=A modifier key has become active"
 msgstr ""
 
-#: kcontrol/access/eventsrc:119
+#: kcontrol/access/eventsrc:121
 msgid ""
 "Comment=A modifier key (e.g. Shift or Ctrl) has changed its state and is now "
 "active"
 msgstr ""
 
-#: kcontrol/access/eventsrc:176
+#: kcontrol/access/eventsrc:179
 msgid "Name=A modifier key has become inactive"
 msgstr ""
 
-#: kcontrol/access/eventsrc:229
+#: kcontrol/access/eventsrc:233
 msgid ""
 "Comment=A modifier key (e.g. Shift or Ctrl) has changed its state and is now "
 "inactive"
 msgstr ""
 
-#: kcontrol/access/eventsrc:286
+#: kcontrol/access/eventsrc:291
 msgid "Name=A modifier key has been locked"
 msgstr ""
 
-#: kcontrol/access/eventsrc:339
+#: kcontrol/access/eventsrc:345
 msgid ""
 "Comment=A modifier key (e.g. Shift or Ctrl) has been locked and is now active "
 "for all of the following keypresses"
 msgstr ""
 
-#: kcontrol/access/eventsrc:396
+#: kcontrol/access/eventsrc:403
 msgid "Name=A lock key has been activated"
 msgstr ""
 
-#: kcontrol/access/eventsrc:449
+#: kcontrol/access/eventsrc:457
 msgid ""
 "Comment=A lock key (e.g. Caps Lock or Num Lock) has changed its state and is "
 "now active"
 msgstr ""
 
-#: kcontrol/access/eventsrc:506
+#: kcontrol/access/eventsrc:515
 msgid "Name=A lock key has been deactivated"
 msgstr ""
 
-#: kcontrol/access/eventsrc:559
+#: kcontrol/access/eventsrc:569
 msgid ""
 "Comment=A lock key (e.g. Caps Lock or Num Lock) has changed its state and is "
 "now inactive"
 msgstr ""
 
-#: kcontrol/access/eventsrc:616
+#: kcontrol/access/eventsrc:627
 msgid "Name=Sticky keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:668
+#: kcontrol/access/eventsrc:680
 msgid "Comment=Sticky keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:725
+#: kcontrol/access/eventsrc:738
 msgid "Name=Slow keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:777
+#: kcontrol/access/eventsrc:791
 msgid "Comment=Slow keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:834
+#: kcontrol/access/eventsrc:849
 msgid "Name=Bounce keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:885
+#: kcontrol/access/eventsrc:901
 msgid "Comment=Bounce keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:942
+#: kcontrol/access/eventsrc:959
 msgid "Name=Mouse keys has been enabled or disabled"
 msgstr ""
 
-#: kcontrol/access/eventsrc:995
+#: kcontrol/access/eventsrc:1013
 msgid "Comment=Mouse keys has been enabled or disabled"
 msgstr ""
 
@@ -2032,8 +2032,8 @@ msgstr "Name=KDE'neñ Qulaylıq Qoralı"
 msgid "Comment=Improve accessibility for disabled persons"
 msgstr "Comment=Ğäriplär öçen uñaylıqlar"
 
-#: kcontrol/access/kcmaccess.desktop:170
-#: kcontrol/accessibility/accessibility.desktop:169
+#: kcontrol/access/kcmaccess.desktop:171
+#: kcontrol/accessibility/accessibility.desktop:170
 msgid ""
 "Keywords=access,accessibility,deaf,impaired,bell,audible bell,visible "
 "bell,Keyboard,keys,sticky keys,bounce keys,slow keys,mouse navigation,num pad"
@@ -2049,7 +2049,7 @@ msgstr "Name=Tawış Sisteme"
 msgid "Comment=Sound System Configuration"
 msgstr "Comment=Tawış Sistemen Caylaw"
 
-#: kcontrol/arts/arts.desktop:169
+#: kcontrol/arts/arts.desktop:170
 msgid ""
 "Keywords=aRts,Sound Server,artsd,Audio,Sound,startup,network "
 "transparency,transparency,priority,duplex,full duplex,response "
@@ -2063,11 +2063,11 @@ msgstr ""
 msgid "Name=Background"
 msgstr "Name=Asyaq"
 
-#: kcontrol/background/background.desktop:92
+#: kcontrol/background/background.desktop:91
 msgid "Comment=Change the background settings"
 msgstr "Comment=Asyaq caylawın üzgärtü"
 
-#: kcontrol/background/background.desktop:170
+#: kcontrol/background/background.desktop:169
 msgid ""
 "Keywords=background,desktops,colors,colours,images,wallpapers,blending,balance,"
 "cache,multiple wallpapers,pixmap"
@@ -2115,7 +2115,7 @@ msgstr "Keywords=colors,colours,scheme,contrast,Widget colors,Color Scheme"
 msgid "Name=A nice name you have chosen for your interface"
 msgstr "Name=Üz yözara öçen saylanğan isem"
 
-#: kcontrol/componentchooser/EXAMPLE.desktop:76
+#: kcontrol/componentchooser/EXAMPLE.desktop:77
 msgid ""
 "Comment=A helpful description of the interface for the top right info box"
 msgstr "Comment=Yözara turında faydalı açıqlama öske uñ qırında"
@@ -2128,7 +2128,7 @@ msgstr "Name=Komponent Saylağıç"
 msgid "Comment=Choose the default components for various services"
 msgstr "Comment=Törle xezmätlär öçen töp öleşlärne saylaw"
 
-#: kcontrol/componentchooser/componentchooser.desktop:163
+#: kcontrol/componentchooser/componentchooser.desktop:164
 msgid ""
 "Keywords=components,component chooser,resources, email client, terminal "
 "emulator"
@@ -2148,7 +2148,7 @@ msgstr ""
 msgid "Name=Email Client"
 msgstr "Name=Email Klient"
 
-#: kcontrol/componentchooser/componentservices/kcm_kemail.desktop:80
+#: kcontrol/componentchooser/componentservices/kcm_kemail.desktop:81
 msgid ""
 "Comment=This service allows you to configure your default email client. All KDE "
 "applications which need access to an email client application should honor this "
@@ -2175,13 +2175,13 @@ msgstr ""
 msgid "Name=Crypto"
 msgstr "Name=Serläw"
 
-#: kcontrol/crypto/crypto.desktop:80
+#: kcontrol/crypto/crypto.desktop:79
 msgid ""
 "Comment=Configure SSL, manage certificates, and other cryptography settings"
 msgstr ""
 "Comment=SSL, tanıqlıqlar, şulay uq başqa serläw çaraların caylaw üzäge bu"
 
-#: kcontrol/crypto/crypto.desktop:158
+#: kcontrol/crypto/crypto.desktop:156
 msgid ""
 "Keywords=Crypto,Krypto,Cryptography,encryption,SSL,https,certificates,ciphers,"
 "TLS,secure,security"
@@ -2197,7 +2197,7 @@ msgstr "Name=Bizütabaq"
 msgid "Comment=Configure the stylesheets used to render web pages"
 msgstr "Comment=Web-bitlär eşkärtkändä qullanıla torğan tışlaw caylawları"
 
-#: kcontrol/css/kcmcss.desktop:161
+#: kcontrol/css/kcmcss.desktop:162
 msgid "Keywords=CSS,HTML,style,stylesheet,accessibility"
 msgstr "Keywords=CSS,HTML,style,stylesheet,accessibility"
 
@@ -2205,7 +2205,7 @@ msgstr "Keywords=CSS,HTML,style,stylesheet,accessibility"
 msgid "Name=Display"
 msgstr "Name=Kürsätü"
 
-#: kcontrol/display/display.desktop:79
+#: kcontrol/display/display.desktop:80
 msgid "Comment=Display Settings"
 msgstr "Comment=Küräk Caylaw"
 
@@ -2213,11 +2213,11 @@ msgstr "Comment=Küräk Caylaw"
 msgid "Comment=Configure service discovery"
 msgstr "Comment=Xezmätlär tabu caylawı"
 
-#: kcontrol/dnssd/kcm_kdnssd.desktop:69
+#: kcontrol/dnssd/kcm_kdnssd.desktop:70
 msgid "GenericName="
 msgstr "GenericName="
 
-#: kcontrol/dnssd/kcm_kdnssd.desktop:72
+#: kcontrol/dnssd/kcm_kdnssd.desktop:74
 msgid "Name=Service Discovery"
 msgstr "Name=Xezmätlär Tabu"
 
@@ -2225,11 +2225,11 @@ msgstr "Name=Xezmätlär Tabu"
 msgid "Name=Web Shortcuts"
 msgstr "Name=Web Qısqartmaları"
 
-#: kcontrol/ebrowsing/ebrowsing.desktop:90
+#: kcontrol/ebrowsing/ebrowsing.desktop:91
 msgid "Comment=Configure enhanced browsing"
 msgstr "Comment=Köçäytelgän gizü caylawı"
 
-#: kcontrol/ebrowsing/ebrowsing.desktop:166
+#: kcontrol/ebrowsing/ebrowsing.desktop:168
 msgid ""
 "Keywords=Enhanced Browsing,Browsing,WWW,Internet,Internet Keywords,Internet "
 "Filters,Network,Search Engines,Shortcuts"
@@ -2279,7 +2279,7 @@ msgstr "Query=http://info.alexa.com/data/details?url=\\\\{@}"
 msgid "Name=AllTheWeb fast"
 msgstr "Name=AllTheWeb"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/alltheweb.desktop:46
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/alltheweb.desktop:45
 msgid ""
 "Query=http://www.alltheweb.com/search?exec=FAST+Search&type=all&query=\\\\{@}&ca"
 "t=web"
@@ -2291,7 +2291,7 @@ msgstr ""
 msgid "Name=AltaVista"
 msgstr "Name=AltaVista"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/altavista.desktop:21
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/altavista.desktop:20
 msgid ""
 "Query=http://www.altavista.com/cgi-bin/query?pg=q&kl=XX&stype=stext&q=\\\\{@}"
 msgstr ""
@@ -2309,7 +2309,7 @@ msgstr "Query=http://www.allmusic.com/cg/amg.dll?p=amg&opt1=1&sql=\\\\{@}"
 msgid "Name=KDE App Search"
 msgstr "Name=KDE App Ezläw"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/appsy.desktop:81
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/appsy.desktop:82
 msgid ""
 "Query=http://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
 msgstr ""
@@ -2319,7 +2319,7 @@ msgstr ""
 msgid "Name=AustroNaut"
 msgstr "Name=AustroNaut"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/austronaut.desktop:18
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/austronaut.desktop:17
 msgid "Query=http://austronaut.at/page.php?begriff=\\{@}&wo=at"
 msgstr "Query=http://austronaut.at/page.php?begriff=\\{@}&wo=at"
 
@@ -2327,7 +2327,7 @@ msgstr "Query=http://austronaut.at/page.php?begriff=\\{@}&wo=at"
 msgid "Name=Debian Backports Search"
 msgstr "Name=Debian Portların Ezläw"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/backports.desktop:64
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/backports.desktop:65
 msgid "Query=http://www.backports.org/package.php?search=\\\\{@}"
 msgstr "Query=http://www.backports.org/package.php?search=\\\\{@}"
 
@@ -2355,7 +2355,7 @@ msgstr "Query=http://bugs.kde.org/show_bug.cgi?id=\\\\{@}"
 msgid "Name=QRZ.com Callsign Database"
 msgstr "Name=QRZ.com Imlaw-Biremlege"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/call.desktop:68
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/call.desktop:69
 msgid "Query=http://www.qrz.com/database?callsign=\\\\{@}"
 msgstr "Query=http://www.qrz.com/database?callsign=\\\\{@}"
 
@@ -2364,7 +2364,7 @@ msgstr "Query=http://www.qrz.com/database?callsign=\\\\{@}"
 msgid "Name=CIA World Factbook"
 msgstr "Name=Dönya Buldıqları Kitabı"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/cia.desktop:36
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/cia.desktop:37
 #, fuzzy
 msgid ""
 "Query=http://www.google.com/search?q=allintitle%3A\\\\{@}+world+factbook+site%3A"
@@ -2377,7 +2377,7 @@ msgstr ""
 msgid "Name=CiteSeer: Scientific Literature Digital Library"
 msgstr "Name=CiteSeer: Fänni Eşlär buyınça Online-Kitapxänä"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/citeseer.desktop:67
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/citeseer.desktop:68
 msgid ""
 "Query=http://citeseer.ist.psu.edu/cs?q=\\\\{@}&submit=Search+Documents&cs=1"
 msgstr ""
@@ -2411,7 +2411,7 @@ msgstr ""
 msgid "Name=CTAN Catalog"
 msgstr "Name=CTAN Törgäge"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/ctan_cat.desktop:73
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/ctan_cat.desktop:74
 msgid ""
 "Query=http://www.ctan.org/tools/cataloguesearch?action=/search/&catstring=\\\\{@"
 "}"
@@ -2423,7 +2423,7 @@ msgstr ""
 msgid "Name=Debian BTS Bug Search"
 msgstr "Name=Debian'nıñ BTS (Bet Tabu Sisteme)"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/dbug.desktop:65
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/dbug.desktop:66
 msgid "Query=http://bugs.debian.org/\\\\{@}"
 msgstr "Query=http://bugs.debian.org/\\\\{@}"
 
@@ -2431,8 +2431,8 @@ msgstr "Query=http://bugs.debian.org/\\\\{@}"
 msgid "Name=dict.cc Translation: German to English"
 msgstr "Name=dict.cc Tärcemä: Almança -› İnglizçä"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/de2en.desktop:65
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/en2de.desktop:68
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/de2en.desktop:66
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/en2de.desktop:69
 msgid "Query=http://www.dict.cc/?s=\\\\{@}"
 msgstr "Query=http://www.dict.cc/?s=\\\\{@}"
 
@@ -2440,8 +2440,8 @@ msgstr "Query=http://www.dict.cc/?s=\\\\{@}"
 msgid "Name=LEO - Translate Between German and French"
 msgstr "Name=LEO - Tärcemä: Almança -› Fransça"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/de2fr.desktop:69
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/fr2de.desktop:69
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/de2fr.desktop:70
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/fr2de.desktop:70
 msgid "Query=http://dict.leo.org/?lp=frde&search=\\\\{@}"
 msgstr "Query=http://dict.leo.org/?lp=frde&search=\\\\{@}"
 
@@ -2449,7 +2449,7 @@ msgstr "Query=http://dict.leo.org/?lp=frde&search=\\\\{@}"
 msgid "Name=Debian Package Search"
 msgstr "Name=Debian Tuplamaların Ezläw"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/deb.desktop:68
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/deb.desktop:69
 #, fuzzy
 msgid "Query=http://packages.debian.org/\\\\{@}"
 msgstr "Query=http://bugs.debian.org/\\\\{@}"
@@ -2466,7 +2466,7 @@ msgstr "Query=http://search.dmoz.org/cgi-bin/search?search=\\\\{@}"
 msgid "Name=DocBook - The Definitive Guide"
 msgstr "Name=DocBook - Tulı Qullanma"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/docbook.desktop:68
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/docbook.desktop:69
 msgid "Query=http://www.docbook.org/tdg/en/html/\\\\{1}.html"
 msgstr "Query=http://www.docbook.org/tdg/en/html/\\\\{1}.html"
 
@@ -2486,7 +2486,7 @@ msgstr "Name=dict.cc Tärcemä: İnglizçä -› Almança"
 msgid "Name=WordReference.com Translation: English to Spanish"
 msgstr "Name=WordReference.com Tärcemäse: İnglizçä -› İspança"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/en2es.desktop:72
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/en2es.desktop:73
 msgid "Query=http://www.wordreference.com/es/translation.asp?tranword=\\\\{@}"
 msgstr "Query=http://www.wordreference.com/es/translation.asp?tranword=\\\\{@}"
 
@@ -2494,7 +2494,7 @@ msgstr "Query=http://www.wordreference.com/es/translation.asp?tranword=\\\\{@}"
 msgid "Name=WordReference.com Translation: English to French"
 msgstr "Name=WordReference.com Tärcemäse: İnglizçä -› Fransça"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/en2fr.desktop:72
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/en2fr.desktop:73
 msgid "Query=http://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
 msgstr "Query=http://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
 
@@ -2502,7 +2502,7 @@ msgstr "Query=http://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
 msgid "Name=WordReference.com Translation: English to Italian"
 msgstr "Name=WordReference.com Tärcemäse: İnglizçä -› İtalça"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/en2it.desktop:72
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/en2it.desktop:73
 msgid "Query=http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
 msgstr "Query=http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
 
@@ -2510,7 +2510,7 @@ msgstr "Query=http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
 msgid "Name=WordReference.com Translation: Spanish to English"
 msgstr "Name=WordReference.com Tärcemäse: İspança -› İnglizçä"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/es2en.desktop:72
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/es2en.desktop:73
 msgid "Query=http://www.wordreference.com/es/en/translation.asp?spen=\\\\{@}"
 msgstr "Query=http://www.wordreference.com/es/en/translation.asp?spen=\\\\{@}"
 
@@ -2518,7 +2518,7 @@ msgstr "Query=http://www.wordreference.com/es/en/translation.asp?spen=\\\\{@}"
 msgid "Name=Excite"
 msgstr "Name=Excite"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/excite.desktop:23
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/excite.desktop:22
 msgid "Query=http://search.excite.com/search.gw?search=\\\\{@}"
 msgstr "Query=http://search.excite.com/search.gw?search=\\\\{@}"
 
@@ -2534,7 +2534,7 @@ msgstr "Query=http://www.feedster.com/search.php?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 msgid "Name=Free On-Line Dictionary of Computing"
 msgstr "Name=Sanaq Tarmağı buyınça On-Line Süzlek"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/foldoc.desktop:70
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/foldoc.desktop:71
 msgid "Query=http://foldoc.doc.ic.ac.uk/foldoc/foldoc.cgi?query=\\\\{@}"
 msgstr "Query=http://foldoc.doc.ic.ac.uk/foldoc/foldoc.cgi?query=\\\\{@}"
 
@@ -2546,7 +2546,7 @@ msgstr "Name=LEO - Tärcemä: Fransça -› Almança"
 msgid "Name=WordReference.com Translation: French to English"
 msgstr "Name=WordReference.com Tärcemäse: Fransça -› İnglizçä"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/fr2en.desktop:72
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/fr2en.desktop:73
 msgid "Query=http://www.wordreference.com/fr/en/translation.asp?fren=\\\\{@}"
 msgstr "Query=http://www.wordreference.com/fr/en/translation.asp?fren=\\\\{@}"
 
@@ -2562,7 +2562,7 @@ msgstr "Query=http://www.freedb.org/freedb_search.php?words=\\\\{@}"
 msgid "Name=Freshmeat"
 msgstr "Name=Freshmeat"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/freshmeat.desktop:21
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/freshmeat.desktop:20
 msgid "Query=http://freshmeat.net/search/?q=\\\\{@}"
 msgstr "Query=http://freshmeat.net/search/?q=\\\\{@}"
 
@@ -2578,7 +2578,7 @@ msgstr "Query=http://froogle.google.com/froogle?q=\\\\{@}"
 msgid "Name=FSF/UNESCO Free Software Directory"
 msgstr "Name=FSF/UNESCO'nıñ Buş Yazılımnar Törgäge"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/fsd.desktop:62
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/fsd.desktop:63
 msgid "Query=http://directory.fsf.org/search/fsd-search.py?q=\\\\{@}"
 msgstr "Query=http://directory.fsf.org/search/fsd-search.py?q=\\\\{@}"
 
@@ -2586,7 +2586,7 @@ msgstr "Query=http://directory.fsf.org/search/fsd-search.py?q=\\\\{@}"
 msgid "Name=Google"
 msgstr "Name=Google"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/google.desktop:19
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/google.desktop:18
 msgid "Query=http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 msgstr "Query=http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 
@@ -2630,7 +2630,7 @@ msgstr "Query=http://images.google.com/images?q=\\\\{@}"
 msgid "Name=Google (I'm Feeling Lucky)"
 msgstr "Name=Google (Yaqşı Sizämen!)"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/google_lucky.desktop:79
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/google_lucky.desktop:80
 msgid ""
 "Query=http://www.google.com/search?q=\\\\{@}&btnI=I%27m+Feeling+Lucky&ie=UTF-8&o"
 "e=UTF-8"
@@ -2642,7 +2642,7 @@ msgstr ""
 msgid "Name=Google Movies"
 msgstr "Name=Google Tasmaları"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/google_movie.desktop:62
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/google_movie.desktop:63
 msgid "Query=http://www.google.com/search?q=movie:\\{@}&ie=UTF-8&oe=UTF-8"
 msgstr "Query=http://www.google.com/search?q=movie:\\{@}&ie=UTF-8&oe=UTF-8"
 
@@ -2650,7 +2650,7 @@ msgstr "Query=http://www.google.com/search?q=movie:\\{@}&ie=UTF-8&oe=UTF-8"
 msgid "Name=Google News"
 msgstr "Name=Google Yañalıqları"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/google_news.desktop:71
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/google_news.desktop:72
 msgid "Query=http://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 msgstr "Query=http://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 
@@ -2667,7 +2667,7 @@ msgid ""
 "Name=Great Dictionary of the Catalan Language (GRan Enciclopèdia  Catalana)"
 msgstr "Name=Katalan Teleneñ Olı Süzlege"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/grec.desktop:63
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/grec.desktop:64
 msgid "Query=http://www.grec.net/cgibin/lexicx.pgm?GECART=\\\\{@}"
 msgstr "Query=http://www.grec.net/cgibin/lexicx.pgm?GECART=\\\\{@}"
 
@@ -2675,7 +2675,7 @@ msgstr "Query=http://www.grec.net/cgibin/lexicx.pgm?GECART=\\\\{@}"
 msgid "Name=Hotbot"
 msgstr "Name=Hotbot"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/hotbot.desktop:18
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/hotbot.desktop:17
 msgid "Query=http://hotbot.lycos.com/?MT=\\\\{@}&SM=MC&DV=0&LG=any&DC=10&DE=2"
 msgstr "Query=http://hotbot.lycos.com/?MT=\\\\{@}&SM=MC&DV=0&LG=any&DC=10&DE=2"
 
@@ -2691,7 +2691,7 @@ msgstr "Query=http://www.hyperdictionary.com/search.aspx?define=\\\\{@}"
 msgid "Name=HyperDictionary.com Thesaurus"
 msgstr "Name=HyperDictionary.com Süznämäse"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/hyperdictionary_thesaurus.desktop:62
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/hyperdictionary_thesaurus.desktop:63
 msgid "Query=http://www.hyperdictionary.com/search.aspx?Dict=T&define=\\\\{@}"
 msgstr "Query=http://www.hyperdictionary.com/search.aspx?Dict=T&define=\\\\{@}"
 
@@ -2699,7 +2699,7 @@ msgstr "Query=http://www.hyperdictionary.com/search.aspx?Dict=T&define=\\\\{@}"
 msgid "Name=Internet Movie Database"
 msgstr "Name=Päräwezdäge Tasmalar Biremlege"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/imdb.desktop:70
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/imdb.desktop:71
 msgid "Query=http://imdb.com/Find?\\\\{@}"
 msgstr "Query=http://imdb.com/Find?\\\\{@}"
 
@@ -2707,7 +2707,7 @@ msgstr "Query=http://imdb.com/Find?\\\\{@}"
 msgid "Name=WordReference.com Translation: Italian to English"
 msgstr "Name=WordReference.com Tärcemäse: İtalça -› İnglizçä"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/it2en.desktop:71
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/it2en.desktop:72
 msgid "Query=http://www.wordreference.com/it/en/translation.asp?iten=\\\\{@}"
 msgstr "Query=http://www.wordreference.com/it/en/translation.asp?iten=\\\\{@}"
 
@@ -2715,7 +2715,7 @@ msgstr "Query=http://www.wordreference.com/it/en/translation.asp?iten=\\\\{@}"
 msgid "Name=Ask Jeeves"
 msgstr "Name=Ask Jeeves"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/jeeves.desktop:31
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/jeeves.desktop:30
 msgid ""
 "Query=http://www.ask.com/main/askJeeves.asp?origin=0&qSource=4&site_name=Jeeves&"
 "metasearch=yes&ask=\\\\{@}"
@@ -2737,7 +2737,7 @@ msgstr ""
 msgid "Name=KDE API Documentation"
 msgstr "Name=KDE API Qullanması"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/kde.desktop:75
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/kde.desktop:76
 msgid ""
 "Query=http://developer.kde.org/documentation/library/classmapper.php?class=\\\\{"
 "@}"
@@ -2765,7 +2765,7 @@ msgstr "Query=http://dict.leo.org/?search=\\\\{@}"
 msgid "Name=Lycos"
 msgstr "Name=Lycos"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/lycos.desktop:18
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/lycos.desktop:17
 msgid "Query=http://www.lycos.com/cgi-bin/pursuit?cat=dir&query=\\\\{@}"
 msgstr "Query=http://www.lycos.com/cgi-bin/pursuit?cat=dir&query=\\\\{@}"
 
@@ -2782,7 +2782,7 @@ msgstr ""
 msgid "Name=MetaCrawler"
 msgstr "Name=MetaCrawler"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/metacrawler.desktop:22
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/metacrawler.desktop:21
 msgid ""
 "Query=http://search.metacrawler.com/crawler?general=\\\\{@}&method=0&cat=Web&tar"
 "get=metaworld&redirect=web&rpp=20&hpe=10&region=0&timeout=0&sort=0&format=beta99"
@@ -2818,7 +2818,7 @@ msgstr "Query=http://uptime.netcraft.com/up/graph?site=\\\\{@}"
 msgid "Name=Telephonebook Search Provider"
 msgstr "Name=Telefon Kitaplarında Ezläw"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/nl-telephone.desktop:70
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/nl-telephone.desktop:71
 msgid ""
 "Query=http://www.detelefoongids.nl/tginl.dll?action=white&type=search&resultsper"
 "page=25&pagestart=1&source=searchcategory&name2=\\\\{1}&name=&initials=&city="
@@ -2830,7 +2830,7 @@ msgstr ""
 msgid "Name=Teletekst Search Provider"
 msgstr "Name=Teletekst Ezläw"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/nl-teletekst.desktop:72
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/nl-teletekst.desktop:73
 msgid "Query=http://teletekst.nos.nl/gif/\\\\{@}-01.html"
 msgstr "Query=http://teletekst.nos.nl/gif/\\\\{@}-01.html"
 
@@ -2838,7 +2838,7 @@ msgstr "Query=http://teletekst.nos.nl/gif/\\\\{@}-01.html"
 msgid "Name=OpenPGP Key Search"
 msgstr "Name=OpenPGP Açqıç Ezläw"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/pgpkeys.desktop:77
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/pgpkeys.desktop:78
 msgid "Query=http://pgp.dtype.org:11371/pks/lookup?search=\\\\{@}&op=vindex"
 msgstr "Query=http://pgp.dtype.org:11371/pks/lookup?search=\\\\{@}&op=vindex"
 
@@ -2856,7 +2856,7 @@ msgstr ""
 msgid "Name=Python Reference Manual"
 msgstr "Name=Python Qullanması"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/python.desktop:75
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/python.desktop:76
 msgid ""
 "Query=http://www.google.com/search?sourceid=python-search&q=\\{@}&submit=Search&"
 "q=site%3Apython.org"
@@ -2868,7 +2868,7 @@ msgstr ""
 msgid "Name=Latest Qt Online Documentation"
 msgstr "Name=Qt'nıñ Online Qullanması"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/qt.desktop:74
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/qt.desktop:75
 msgid "Query=http://doc.trolltech.com/latest/\\\\{@}.html"
 msgstr "Query=http://doc.trolltech.com/latest/\\\\{@}.html"
 
@@ -2877,7 +2877,7 @@ msgstr "Query=http://doc.trolltech.com/latest/\\\\{@}.html"
 msgid "Name=Qt3 Online Documentation"
 msgstr "Name=Qt'nıñ Online Qullanması"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/qt3.desktop:66
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/qt3.desktop:67
 #, fuzzy
 msgid "Query=http://doc.trolltech.com/3.3/\\\\{@}.html"
 msgstr "Query=http://doc.trolltech.com/latest/\\\\{@}.html"
@@ -2886,7 +2886,7 @@ msgstr "Query=http://doc.trolltech.com/latest/\\\\{@}.html"
 msgid "Name=Dictionary of the Spanish Academy (RAE)"
 msgstr "Name=İspan Akademineñ Süzlege (RAE)"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/rae.desktop:73
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/rae.desktop:74
 msgid ""
 "Query=http://buscon.rae.es/draeI/SrvltGUIBusUsual?TIPO_HTML=2&LEMA=\\\\{@}&FORMA"
 "TO=ampliado"
@@ -2898,7 +2898,7 @@ msgstr ""
 msgid "Name=IETF Requests for Comments"
 msgstr "Name=IETF-Açıqlama Soraw"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/rfc.desktop:55
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/rfc.desktop:56
 msgid "Query=http://www.ietf.org/rfc/rfc\\\\{@}.txt"
 msgstr "Query=http://www.ietf.org/rfc/rfc\\\\{@}.txt"
 
@@ -2914,7 +2914,7 @@ msgstr "Query=http://www.rpmfind.net/linux/rpm2html/search.php?query=\\{@}"
 msgid "Name=Ruby Application Archive"
 msgstr "Name=Ruby Yazılımnar Turlaması"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/ruby_application_archive.desktop:72
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/ruby_application_archive.desktop:73
 #, fuzzy
 msgid "Query=http://raa.ruby-lang.org/search.rhtml?search=\\\\{@}"
 msgstr "Query=http://www.ruby-lang.org/en/raa-list.rhtml?name=\\\\{@}"
@@ -2957,7 +2957,7 @@ msgstr ""
 msgid "Name=Technorati Tags"
 msgstr "Name=Technorati Tags"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/technoratitags.desktop:51
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/technoratitags.desktop:52
 msgid "Query=http://technorati.com/tag/\\\\{@}?sourceid=kde-search"
 msgstr "Query=http://technorati.com/tag/\\\\{@}?sourceid=kde-search"
 
@@ -2984,7 +2984,7 @@ msgstr ""
 msgid "Name=U.S. Patent Database"
 msgstr "Name=AQŞ Patentlar Tuplaması"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/uspto.desktop:69
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/uspto.desktop:70
 msgid ""
 "Query=http://patft.uspto.gov/netacgi/nph-Parser?TERM1=\\\\{@}&Sect1=PTO1&Sect2=H"
 "ITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=0&f=S&l=50"
@@ -3008,7 +3008,7 @@ msgstr ""
 msgid "Name=Voila"
 msgstr "Name=Voila"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/voila.desktop:17
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/voila.desktop:16
 msgid ""
 "Query=http://search.ke.voila.fr/S/voila?lg=fr&profil=geeks&rtype=kw&bhv=web_mond"
 "ial&rdata=\\\\{@}"
@@ -3040,7 +3040,7 @@ msgstr ""
 msgid "Name=Wikipedia - The Free Encyclopedia"
 msgstr "Name=Wikipedia - Buşlay Ensiklopedia"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/wikipedia.desktop:76
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/wikipedia.desktop:77
 msgid "Query=http://en.wikipedia.org/wiki/Special:Search?search=\\{@}&go=Go"
 msgstr "Query=http://tt.wikipedia.org/wiki/Special:Search?search=\\{@}&go=Go"
 
@@ -3048,7 +3048,7 @@ msgstr "Query=http://tt.wikipedia.org/wiki/Special:Search?search=\\{@}&go=Go"
 msgid "Name=Wiktionary - The Free Dictionary"
 msgstr "Name=Wiktionary - Buşlay Süzlek"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/wiktionary.desktop:66
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/wiktionary.desktop:67
 msgid "Query=http://en.wiktionary.org/wiki/Special:Search?search=\\{@}&go=Go"
 msgstr "Query=http://tt.wiktionary.org/wiki/Special:Search?search=\\{@}&go=Go"
 
@@ -3056,7 +3056,7 @@ msgstr "Query=http://tt.wiktionary.org/wiki/Special:Search?search=\\{@}&go=Go"
 msgid "Name=WordReference.com English Dictionary"
 msgstr "Name=WordReference.com: İngliz Süzlege"
 
-#: kcontrol/ebrowsing/plugins/ikws/searchproviders/wordref.desktop:74
+#: kcontrol/ebrowsing/plugins/ikws/searchproviders/wordref.desktop:75
 msgid "Query=http://www.wordreference.com/english/definition.asp?en=\\\\{@}"
 msgstr "Query=http://www.wordreference.com/english/definition.asp?en=\\\\{@}"
 
@@ -3072,7 +3072,7 @@ msgstr "Name=Qısqa URI Sözgeç"
 msgid "Comment=Settings for display power management"
 msgstr "Comment=Küräk qüäten idäräläw caylawları"
 
-#: kcontrol/energy/energy.desktop:171
+#: kcontrol/energy/energy.desktop:172
 msgid ""
 "Keywords=energy,saver,apm,acpi,dpms,timeout,blanking,stand by,suspend,power"
 msgstr ""
@@ -3086,7 +3086,7 @@ msgstr "Name=Kiremnär Kileşterü"
 msgid "Comment=Configure file associations"
 msgstr "Comment=Biremnärne yazılımnarğa totaştırıp kileşterü"
 
-#: kcontrol/filetypes/filetypes.desktop:164
+#: kcontrol/filetypes/filetypes.desktop:165
 msgid ""
 "Keywords=Filetypes,File Associations,Mime Types,File Patterns,Files,Pattern"
 msgstr ""
@@ -3126,12 +3126,12 @@ msgstr "Keywords=icons,effects,size,hicolor,locolor"
 msgid "Name=CD-ROM Information"
 msgstr "Name=Beldermä"
 
-#: kcontrol/info/cdinfo.desktop:66
+#: kcontrol/info/cdinfo.desktop:67
 #, fuzzy
 msgid "Comment=CD/DVD Drive Capabilites"
 msgstr "Comment=DVD Video Disk"
 
-#: kcontrol/info/cdinfo.desktop:118
+#: kcontrol/info/cdinfo.desktop:119
 msgid "Keywords=CD-ROM Information,CD-ROM,CD,CD Drive,Writer Capabilities"
 msgstr ""
 
@@ -3209,7 +3209,7 @@ msgstr "Name=OpenGL"
 msgid "Comment=OpenGL information"
 msgstr "Comment=OpenGL turında"
 
-#: kcontrol/info/opengl.desktop:92
+#: kcontrol/info/opengl.desktop:93
 msgid ""
 "Keywords=OpenGL,DRI,GLX,3D,VideoCard,Hardware "
 "Acceleration,Graphics,X,X11,Xserver,X-Server,XFree86,Display"
@@ -3257,11 +3257,11 @@ msgstr "Keywords=Processor,CPU,FPU,MHz,System Information"
 msgid "Name=SCSI"
 msgstr "Name=SCSI"
 
-#: kcontrol/info/scsi.desktop:26
+#: kcontrol/info/scsi.desktop:25
 msgid "Comment=SCSI information"
 msgstr "Comment=SCSI turında"
 
-#: kcontrol/info/scsi.desktop:107
+#: kcontrol/info/scsi.desktop:106
 msgid "Keywords=SCSI,SCSI-Bus,System Information"
 msgstr "Keywords=SCSI,SCSI-Bus,System Information"
 
@@ -3319,7 +3319,7 @@ msgstr "Comment=Bar bulğan protokollar turında"
 msgid "Keywords=Protocol,IO slaves,Slaves,Network,Information,Timeout"
 msgstr "Keywords=Protocol,IO slaves,Slaves,Network,Information,Timeout"
 
-#: kcontrol/ioslaveinfo/ioslaveinfo.desktop:147
+#: kcontrol/ioslaveinfo/ioslaveinfo.desktop:146
 msgid "Name=Protocols"
 msgstr "Name=Protokollar"
 
@@ -3327,11 +3327,11 @@ msgstr "Name=Protokollar"
 msgid "Comment=joystick - a kcontrol module to test joysticks"
 msgstr "Comment=Joystik sınaw öçen kcontrol modulı"
 
-#: kcontrol/joystick/joystick.desktop:68
+#: kcontrol/joystick/joystick.desktop:69
 msgid "Keywords=joystick,gamepad"
 msgstr "Keywords=joystick,gamepad"
 
-#: kcontrol/joystick/joystick.desktop:114
+#: kcontrol/joystick/joystick.desktop:115
 msgid "Name=Joystick"
 msgstr "Name=Joystik"
 
@@ -3352,11 +3352,11 @@ msgstr "GenericName=Beleşmä Üzäge"
 msgid "Name=Service Manager"
 msgstr "Name=Xezmät İdäräçe"
 
-#: kcontrol/kded/kcmkded.desktop:87
+#: kcontrol/kded/kcmkded.desktop:88
 msgid "Comment=System Services Configuration"
 msgstr "Comment=Sistem Xezmätlären Caylawçı"
 
-#: kcontrol/kded/kcmkded.desktop:162
+#: kcontrol/kded/kcmkded.desktop:164
 msgid "Keywords=KDED,Daemon,Services"
 msgstr "Keywords=KDED,Daemon,Services"
 
@@ -3368,7 +3368,7 @@ msgstr "Name=Kerü İdäçese"
 msgid "Comment=Configure the login manager (KDM)"
 msgstr "Comment=Kerü idäräçen caylaw urını (KDM)"
 
-#: kcontrol/kdm/kdm.desktop:171
+#: kcontrol/kdm/kdm.desktop:172
 msgid ""
 "Keywords=kdm,display "
 "manager,xdm,users,login,greeting,Logo,styles,language,country,fonts,background,"
@@ -3390,11 +3390,11 @@ msgstr "Name=KDE üzeneken, 4 Üzgärtkeç Töymä öçen"
 msgid "Name=Keyboard Shortcuts"
 msgstr "Name=Töylek Qısqartmaları"
 
-#: kcontrol/keys/keys.desktop:90
+#: kcontrol/keys/keys.desktop:91
 msgid "Comment=Configuration of keybindings"
 msgstr "Comment=Töymä berläşmälären caylaw"
 
-#: kcontrol/keys/keys.desktop:167
+#: kcontrol/keys/keys.desktop:168
 msgid ""
 "Keywords=Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
 "shortcuts"
@@ -3479,12 +3479,12 @@ msgstr "Name=Urnaşılu"
 msgid "Comment=You can configure the arrangement of the panel here"
 msgstr "Comment=Taqta urnaşıluın köyläw urını"
 
-#: kcontrol/kicker/kicker_config.desktop:160
-#: kcontrol/kicker/kicker_config_appearance.desktop:166
-#: kcontrol/kicker/kicker_config_arrangement.desktop:149
-#: kcontrol/kicker/kicker_config_hiding.desktop:139
-#: kcontrol/kicker/kicker_config_menus.desktop:136
-#: kcontrol/kicker/panel.desktop:159
+#: kcontrol/kicker/kicker_config.desktop:161
+#: kcontrol/kicker/kicker_config_appearance.desktop:167
+#: kcontrol/kicker/kicker_config_arrangement.desktop:150
+#: kcontrol/kicker/kicker_config_hiding.desktop:140
+#: kcontrol/kicker/kicker_config_menus.desktop:137
+#: kcontrol/kicker/panel.desktop:160
 msgid ""
 "Keywords=kicker,panel,kpanel,taskbar,startbar,launchbar,location,size,auto "
 "hide,hide,buttons,animation,background,themes,menu "
@@ -3502,7 +3502,7 @@ msgstr ""
 msgid "Name=Appearance"
 msgstr "Name=Küreneş"
 
-#: kcontrol/kicker/kicker_config_appearance.desktop:89
+#: kcontrol/kicker/kicker_config_appearance.desktop:90
 msgid "Comment=You can configure the appearance of the panel here"
 msgstr "Comment=Taqta küreneşen köyläw urını"
 
@@ -3530,7 +3530,7 @@ msgstr "Comment=Taqtanıñ saylaqların caylaw urını"
 msgid "Name=Panels"
 msgstr "Name=Taqta"
 
-#: kcontrol/kicker/panel.desktop:89
+#: kcontrol/kicker/panel.desktop:90
 msgid "Comment=Configure the arrangement of the panel"
 msgstr "Comment=Taqta urınlaşuın caylaw"
 
@@ -3547,7 +3547,7 @@ msgstr "Name=Alxäter"
 msgid "Comment=Configure web cache settings"
 msgstr "Comment=Alxäter caylawı"
 
-#: kcontrol/kio/cache.desktop:148
+#: kcontrol/kio/cache.desktop:149
 msgid "Keywords=Cache,History,Browsing History,Ports,Size"
 msgstr "Keywords=Cache,History,Browsing History,Ports,Size"
 
@@ -3559,7 +3559,7 @@ msgstr "Name=Cookie"
 msgid "Comment=Configure the way cookies work"
 msgstr "Comment=Cookies caylawı"
 
-#: kcontrol/kio/cookies.desktop:143
+#: kcontrol/kio/cookies.desktop:144
 msgid "Keywords=Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr "Keywords=Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 
@@ -3567,11 +3567,11 @@ msgstr "Keywords=Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgid "Name=Local Network Browsing"
 msgstr "Name=Cirle Çeltärne Küzläw"
 
-#: kcontrol/kio/lanbrowser.desktop:88
+#: kcontrol/kio/lanbrowser.desktop:89
 msgid "Comment=Setup lisa, reslisa and the ioslaves"
 msgstr "Comment=lisa, reslisa, ioslaves caylawları"
 
-#: kcontrol/kio/lanbrowser.desktop:160
+#: kcontrol/kio/lanbrowser.desktop:162
 msgid "Keywords=samba,smb,windows,network"
 msgstr "Keywords=samba,smb,windows,network"
 
@@ -3742,11 +3742,11 @@ msgstr "Name=UADescription (Wget 1.5.3)"
 msgid "Name=Browser Identification"
 msgstr "Name=Browser Tanışması"
 
-#: kcontrol/kio/useragent.desktop:88
+#: kcontrol/kio/useragent.desktop:89
 msgid "Comment=Configure the way Konqueror reports itself"
 msgstr "Comment=Konqueror üz-üzen beldergän ısulın saylaw"
 
-#: kcontrol/kio/useragent.desktop:161
+#: kcontrol/kio/useragent.desktop:163
 msgid ""
 "Keywords=User Agent,Browser,Internet,WWW,Network,agent,bindings,server,login"
 msgstr ""
@@ -3768,11 +3768,11 @@ msgstr "Keywords=System sounds,Audio,Sound,Notify,Alerts,Notification"
 msgid "Name=Multiple Desktops"
 msgstr "Name=Östäl Sanı"
 
-#: kcontrol/konq/desktop.desktop:90
+#: kcontrol/konq/desktop.desktop:91
 msgid "Comment=You can configure how many virtual desktops there are."
 msgstr "Comment=Xıyalí östäl sanın caylaw."
 
-#: kcontrol/konq/desktop.desktop:164
+#: kcontrol/konq/desktop.desktop:166
 msgid "Keywords=desktop,desktops,number,virtual desktop"
 msgstr "Keywords=desktop,desktops,number,virtual desktop"
 
@@ -3781,12 +3781,12 @@ msgstr "Keywords=desktop,desktops,number,virtual desktop"
 msgid "Name=Behavior"
 msgstr "Name=Eşlise eş"
 
-#: kcontrol/konq/desktopbehavior.desktop:92
+#: kcontrol/konq/desktopbehavior.desktop:93
 msgid "Comment=You can configure how the desktop behaves here"
 msgstr "Comment=Östälneñ çağılışın caylaw"
 
-#: kcontrol/konq/desktopbehavior.desktop:166
-#: kcontrol/konq/webbehavior.desktop:166
+#: kcontrol/konq/desktopbehavior.desktop:168
+#: kcontrol/konq/webbehavior.desktop:168
 msgid ""
 "Keywords=konqueror,filemanager,kfm,tips,file tips,separate window,spawn "
 "windows,behavior,behaviour,memory usage,Home URL,"
@@ -3798,22 +3798,22 @@ msgstr ""
 msgid "Name=Paths"
 msgstr "Name=Yullar"
 
-#: kcontrol/konq/desktoppath.desktop:90
+#: kcontrol/konq/desktoppath.desktop:91
 msgid "Comment=Change the location important files are stored"
 msgstr "Comment=İñ kiräk biremnärneñ yullar tözätü"
 
-#: kcontrol/konq/desktoppath.desktop:163
+#: kcontrol/konq/desktoppath.desktop:165
 msgid "Keywords=konqueror,filemanager,paths,desktop,directories,autostart"
 msgstr "Keywords=konqueror,filemanager,paths,desktop,directories,autostart"
 
-#: kcontrol/konq/fileappearance.desktop:90
-#: kcontrol/konq/webappearance.desktop:90
+#: kcontrol/konq/fileappearance.desktop:91
+#: kcontrol/konq/webappearance.desktop:91
 msgid "Comment=You can configure how Konqueror looks as a file manager here"
 msgstr "Comment=Birem idäräçe bularaq eşläwçe Konqueror'nıñ küreneşen caylaw"
 
-#: kcontrol/konq/fileappearance.desktop:164
-#: kcontrol/konq/filebrowser.desktop:169
-#: kcontrol/konq/webappearance.desktop:164
+#: kcontrol/konq/fileappearance.desktop:166
+#: kcontrol/konq/filebrowser.desktop:170
+#: kcontrol/konq/webappearance.desktop:166
 msgid ""
 "Keywords=konqueror,filemanager,word "
 "wrap,wrap,underline,display,filesize,bytes,font,color,colour"
@@ -3821,11 +3821,11 @@ msgstr ""
 "Keywords=konqueror,filemanager,word "
 "wrap,wrap,underline,display,filesize,bytes,font,color,colour"
 
-#: kcontrol/konq/filebehavior.desktop:92 kcontrol/konq/webbehavior.desktop:92
+#: kcontrol/konq/filebehavior.desktop:93 kcontrol/konq/webbehavior.desktop:93
 msgid "Comment=You can configure how Konqueror behaves as a file manager here"
 msgstr "Comment=Birem idäräçe bularaq eşläwçe Konqueror'nıñ çağılışın caylaw"
 
-#: kcontrol/konq/filebehavior.desktop:166
+#: kcontrol/konq/filebehavior.desktop:168
 msgid ""
 "Keywords=konqueror,filemanager,kfm,tips,file tips,separate window,spawn "
 "windows,behavior,behaviour,memory usage,Home URL,network operations,progress "
@@ -3843,11 +3843,11 @@ msgstr "Comment=Konqueror'nıñ birem idäräçe bularaq eşläw ısulın caylaw
 msgid "Name=Previews & Meta-Data"
 msgstr "Name=Kürep Alu & Meta-Eçtälek"
 
-#: kcontrol/konq/filepreviews.desktop:83
+#: kcontrol/konq/filepreviews.desktop:84
 msgid "Comment=You can configure how Konqueror Previews & Meta-data work here"
 msgstr "Comment=Konqueror'dağı Kürsätkeç eşen caylaw"
 
-#: kcontrol/konq/filepreviews.desktop:149
+#: kcontrol/konq/filepreviews.desktop:151
 msgid "Keywords=konqueror,filemanager,previews,file previews,maximum size"
 msgstr "Keywords=konqueror,filemanager,previews,file previews,maximum size"
 
@@ -3855,11 +3855,11 @@ msgstr "Keywords=konqueror,filemanager,previews,file previews,maximum size"
 msgid "Name=Web Behavior"
 msgstr "Name=Web Çağılışı"
 
-#: kcontrol/konqhtml/khtml_behavior.desktop:84
+#: kcontrol/konqhtml/khtml_behavior.desktop:85
 msgid "Comment=Configure the browser behavior"
 msgstr "Comment=Girgeç çağılışın caylaw"
 
-#: kcontrol/konqhtml/khtml_behavior.desktop:159
+#: kcontrol/konqhtml/khtml_behavior.desktop:161
 msgid ""
 "Keywords=konqueror,kfm,browser,html,web,www,fonts,colours,colors,java,"
 "javascript,cursor,links,images,charsets,character sets,encoding"
@@ -3871,7 +3871,7 @@ msgstr ""
 msgid "Name=AdBlocK Filters"
 msgstr "Name=Reklam Sözgeçläre"
 
-#: kcontrol/konqhtml/khtml_filter.desktop:76
+#: kcontrol/konqhtml/khtml_filter.desktop:77
 msgid "Comment=Configure Konqueror AdBlocK filters"
 msgstr "Comment=Konqueror'dağı reklam kistergeçneñ caylaw"
 
@@ -3879,7 +3879,7 @@ msgstr "Comment=Konqueror'dağı reklam kistergeçneñ caylaw"
 msgid "Comment=Configure the fonts used on web pages"
 msgstr "Comment=Säxifä bitlärendä qullanası yazu törlären caylaw"
 
-#: kcontrol/konqhtml/khtml_fonts.desktop:161
+#: kcontrol/konqhtml/khtml_fonts.desktop:162
 msgid ""
 "Keywords=konqueror,kfm,browser,html,web,www,fonts,charsets,character "
 "sets,encoding"
@@ -3891,11 +3891,11 @@ msgstr ""
 msgid "Name=Java & JavaScript"
 msgstr "Name=Java belän JavaScript"
 
-#: kcontrol/konqhtml/khtml_java_js.desktop:67
+#: kcontrol/konqhtml/khtml_java_js.desktop:68
 msgid "Comment=Configure the behavior of Java and JavaScript"
 msgstr "Comment=Java belän JavaScript caylaw"
 
-#: kcontrol/konqhtml/khtml_java_js.desktop:142
+#: kcontrol/konqhtml/khtml_java_js.desktop:144
 msgid "Keywords=konqueror,kfm,browser,html,web,www,java,javascript"
 msgstr "Keywords=konqueror,kfm,browser,html,web,www,java,javascript"
 
@@ -3904,11 +3904,11 @@ msgstr "Keywords=konqueror,kfm,browser,html,web,www,java,javascript"
 msgid "Name=Konsole"
 msgstr "Name=Konsole"
 
-#: kcontrol/konsole/kcmkonsole.desktop:45
+#: kcontrol/konsole/kcmkonsole.desktop:44
 msgid "Comment=Konsole configuration module"
 msgstr "Comment=Konsol caylaw modulı"
 
-#: kcontrol/konsole/kcmkonsole.desktop:121
+#: kcontrol/konsole/kcmkonsole.desktop:119
 msgid ""
 "Keywords=konsole,schema,konsole background,colors,background,terminal "
 "application,terminal"
@@ -4032,11 +4032,11 @@ msgstr "Name=KDE Tışlaw quyu"
 msgid "Comment=Manage global KDE visual themes"
 msgstr "Comment=KDE'nıñ tışlaw törlären caylaw idäräse"
 
-#: kcontrol/kthememanager/kthememanager.desktop:70
+#: kcontrol/kthememanager/kthememanager.desktop:71
 msgid "Keywords=themes,look and feel"
 msgstr "Keywords=themes,look and feel"
 
-#: kcontrol/kthememanager/kthememanager.desktop:133
+#: kcontrol/kthememanager/kthememanager.desktop:134
 msgid "Name=Theme Manager"
 msgstr "Name=Tışlaw İdäräçe"
 
@@ -4048,11 +4048,11 @@ msgstr "Comment=KDE Tışlawı"
 msgid "Name=Launch Feedback"
 msgstr "Name=Cibärü Tärtibe"
 
-#: kcontrol/launch/kcmlaunch.desktop:86
+#: kcontrol/launch/kcmlaunch.desktop:87
 msgid "Comment=Choose application-launch feedback style"
 msgstr "Comment=Yazılım cibärgändä endtäşü tärtiben caylaw"
 
-#: kcontrol/launch/kcmlaunch.desktop:157
+#: kcontrol/launch/kcmlaunch.desktop:159
 msgid ""
 "Keywords=application,start,launch,busy,cursor,feedback,mouse,pointer,rotating,"
 "spinning,disk,startup,program,report"
@@ -4068,11 +4068,11 @@ msgstr "Name=AQŞ İnglizçäse"
 msgid "Name=Country/Region & Language"
 msgstr "Name=İl/Töbäk belän Tel"
 
-#: kcontrol/locale/language.desktop:90
+#: kcontrol/locale/language.desktop:91
 msgid "Comment=Language, numeric, and time settings for your particular region"
 msgstr "Comment=Töbägeñ öçen tel, san, waqıt caylawları"
 
-#: kcontrol/locale/language.desktop:167
+#: kcontrol/locale/language.desktop:168
 msgid ""
 "Keywords=language,translation,number "
 "format,currency,time,date,formats,locale,Country,charsets,character "
@@ -4090,7 +4090,7 @@ msgstr ""
 msgid "Name=Network Interfaces"
 msgstr "Name=Çeltär Yözaraları"
 
-#: kcontrol/nics/nic.desktop:91
+#: kcontrol/nics/nic.desktop:92
 msgid "Comment=Network interface information"
 msgstr "Comment=Çeltär yözaraları turında"
 
@@ -4098,11 +4098,11 @@ msgstr "Comment=Çeltär yözaraları turında"
 msgid "Name=Performance"
 msgstr "Name=Citezlek"
 
-#: kcontrol/performance/kcmkonqyperformance.desktop:80
+#: kcontrol/performance/kcmkonqyperformance.desktop:81
 msgid "Comment=Configure settings that can improve Konqueror performance"
 msgstr "Comment=Konqueror citezlegen arttıra ala torğan köyläwlär "
 
-#: kcontrol/performance/kcmkonqyperformance.desktop:149
+#: kcontrol/performance/kcmkonqyperformance.desktop:151
 msgid "Keywords=konqueror,reuse,preloading"
 msgstr "Keywords=konqueror,reuse,preloading"
 
@@ -4110,11 +4110,11 @@ msgstr "Keywords=konqueror,reuse,preloading"
 msgid "Name=KDE Performance"
 msgstr "Name=KDE Citezlege"
 
-#: kcontrol/performance/kcmperformance.desktop:82
+#: kcontrol/performance/kcmperformance.desktop:83
 msgid "Comment=Configure settings that can improve KDE performance"
 msgstr "Comment=KDE citezlegen arttıra ala torğan köyläwlär "
 
-#: kcontrol/performance/kcmperformance.desktop:151
+#: kcontrol/performance/kcmperformance.desktop:153
 msgid "Keywords=performance,speed,memory,improve"
 msgstr "Keywords=performance,speed,memory,improve"
 
@@ -4142,7 +4142,7 @@ msgstr "Name=KRandRTray"
 msgid "GenericName=Screen Resize & Rotate"
 msgstr "GenericName=Küräk Ülçäme & Borılışı"
 
-#: kcontrol/randr/krandrtray.desktop:73
+#: kcontrol/randr/krandrtray.desktop:74
 #, fuzzy
 msgid "Comment=Resize and rotate X screens."
 msgstr "Comment=Kürägeñneñ Ülçäme belän Borılışı"
@@ -4151,11 +4151,11 @@ msgstr "Comment=Kürägeñneñ Ülçäme belän Borılışı"
 msgid "Name=Size & Orientation"
 msgstr "Name=Ülçäm belän Yünälü"
 
-#: kcontrol/randr/randr.desktop:79
+#: kcontrol/randr/randr.desktop:80
 msgid "Comment=Resize and Rotate your display"
 msgstr "Comment=Kürägeñneñ Ülçäme belän Borılışı"
 
-#: kcontrol/randr/randr.desktop:148
+#: kcontrol/randr/randr.desktop:150
 msgid "Keywords=resize,rotate,display,color,depth,size,horizontal,vertical"
 msgstr "Keywords=resize,rotate,display,color,depth,size,horizontal,vertical"
 
@@ -4175,11 +4175,11 @@ msgstr "Keywords=SMB,SAMBA,Windows network,LAN,System Information"
 msgid "Name=Screen Saver"
 msgstr "Name=Küräk Saqlağıç"
 
-#: kcontrol/screensaver/screensaver.desktop:89
+#: kcontrol/screensaver/screensaver.desktop:90
 msgid "Comment=Screen Saver Settings"
 msgstr "Comment=Küräk Saqlağıçın Caylaw"
 
-#: kcontrol/screensaver/screensaver.desktop:167
+#: kcontrol/screensaver/screensaver.desktop:169
 msgid "Keywords=screensavers,Priority"
 msgstr "Keywords=screensavers,Priority"
 
@@ -4187,11 +4187,11 @@ msgstr "Keywords=screensavers,Priority"
 msgid "Name=Smartcards"
 msgstr "Name=Smartkard"
 
-#: kcontrol/smartcard/smartcard.desktop:71
+#: kcontrol/smartcard/smartcard.desktop:72
 msgid "Comment=Configure smartcard support"
 msgstr "Comment=Smartkard totıluın caylaw"
 
-#: kcontrol/smartcard/smartcard.desktop:145
+#: kcontrol/smartcard/smartcard.desktop:147
 msgid "Keywords=Smartcard,PKCS,SSL,reader,smart,card"
 msgstr "Keywords=Smartcard,PKCS,SSL,reader,smart,card"
 
@@ -4203,7 +4203,7 @@ msgstr "Name=Sessi İdäräçe"
 msgid "Comment=Configure the session manager and logout settings"
 msgstr "Comment=Sessi idäräçen belän kerü/çığu tärtiben caylaw"
 
-#: kcontrol/smserver/kcmsmserver.desktop:165
+#: kcontrol/smserver/kcmsmserver.desktop:166
 msgid "Keywords=ksmserver,session,logout,confirmation,save,restore"
 msgstr "Keywords=ksmserver,session,logout,confirmation,save,restore"
 
@@ -4215,7 +4215,7 @@ msgstr "Name=Yazma Döreslege"
 msgid "Comment=Configure the spell checker"
 msgstr "Comment=Döresyazu qoralın caylaw"
 
-#: kcontrol/spellchecking/spellchecking.desktop:161
+#: kcontrol/spellchecking/spellchecking.desktop:162
 msgid "Keywords=Spell"
 msgstr "Keywords=Spell"
 
@@ -4229,7 +4229,7 @@ msgid ""
 "KDE"
 msgstr "Comment=KDE yözara berämleklärneñ çağılışı belän küreneşe "
 
-#: kcontrol/style/style.desktop:163
+#: kcontrol/style/style.desktop:164
 msgid ""
 "Keywords=style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE "
 "applications"
@@ -4246,7 +4246,7 @@ msgstr "Name=Qoraltirä"
 msgid "Comment=Configure the panel taskbar"
 msgstr "Comment=Eşlärtirä taqtasın caylaw"
 
-#: kcontrol/taskbar/kcmtaskbar.desktop:158
+#: kcontrol/taskbar/kcmtaskbar.desktop:159
 msgid "Keywords=kicker,panel,kpanel,taskbar,startbar,launchbar,windows"
 msgstr "Keywords=kicker,panel,kpanel,taskbar,startbar,launchbar,windows"
 
@@ -4266,11 +4266,11 @@ msgstr "Keywords=USB,devices,viewer,control"
 msgid "Name=IEEE 1394 Devices"
 msgstr "Name=IEEE 1394 Cıhazları"
 
-#: kcontrol/view1394/kcmview1394.desktop:81
+#: kcontrol/view1394/kcmview1394.desktop:82
 msgid "Comment=View the IEEE 1394 devices attached to this computer"
 msgstr "Comment=Bu sanaqqa totaşqan IEEE 1394 cıhazlarnı qaraw"
 
-#: kcontrol/view1394/kcmview1394.desktop:151
+#: kcontrol/view1394/kcmview1394.desktop:153
 msgid "Keywords=1394,Firewire,devices,viewer,control"
 msgstr "Keywords=1394,Firewire,devices,viewer,control"
 
@@ -4278,11 +4278,11 @@ msgstr "Keywords=1394,Firewire,devices,viewer,control"
 msgid "Name=Multiple Monitors"
 msgstr "Name=Berniçä Küräk"
 
-#: kcontrol/xinerama/xinerama.desktop:78
+#: kcontrol/xinerama/xinerama.desktop:79
 msgid "Comment=Configure KDE for multiple monitors"
 msgstr "Comment=KDE'nıñ berniçä küräk belän eşläw caylawı"
 
-#: kcontrol/xinerama/xinerama.desktop:146
+#: kcontrol/xinerama/xinerama.desktop:148
 msgid "Keywords=Xinerama,dual head,multihead,monitor"
 msgstr "Keywords=Xinerama,dual head,multihead,monitor"
 
@@ -4290,14 +4290,14 @@ msgstr "Keywords=Xinerama,dual head,multihead,monitor"
 msgid "Name=Password & User Account"
 msgstr "Name=Sersüz & Qullanuçı Xisabı"
 
-#: kdepasswd/kcm/kcm_useraccount.desktop:78
+#: kdepasswd/kcm/kcm_useraccount.desktop:79
 #, fuzzy
 msgid ""
 "Keywords=password,email,name,organization,realname,login image,face,echo mode"
 msgstr ""
 "Keywords=password;email;name;organization;realname;login image;face; echo mode;"
 
-#: kdepasswd/kcm/kcm_useraccount.desktop:132
+#: kdepasswd/kcm/kcm_useraccount.desktop:133
 msgid "Comment=User information such as password, name and email"
 msgstr "Comment=Qullanuçı caylawı: sersüz, isem, email kebek närsälär"
 
@@ -4329,7 +4329,7 @@ msgstr "GenericName=Bastıru Eşläre"
 msgid "Name=KPrinter"
 msgstr "Name=KPrinter"
 
-#: kdeprint/kprinter/kprinter.desktop:32
+#: kdeprint/kprinter/kprinter.desktop:31
 msgid "GenericName=Printing Tool"
 msgstr "GenericName=Bastıru Qoralı"
 
@@ -4342,7 +4342,7 @@ msgid "Comment=Printing system configuration (printers, jobs, classes, ...)"
 msgstr ""
 "Comment=Bastıru sistemeneñ caylawı: basaqlar, eşlär, törlär kebek närsä"
 
-#: kdeprint/printmgr/printers.desktop:163
+#: kdeprint/printmgr/printers.desktop:162
 msgid "Keywords=print,printer,printing management"
 msgstr "Keywords=print,printer,printing management"
 
@@ -4375,7 +4375,7 @@ msgid "Comment=Printer Model"
 msgstr "Comment=Basaq Töre"
 
 #: kdesktop/init/Home.desktop:3
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1307
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1328
 #: konqueror/Home.desktop:8
 msgid "Name=Home"
 msgstr "Name=Anabit"
@@ -4400,7 +4400,7 @@ msgstr "Name=Çığar"
 msgid "Name=Folder..."
 msgstr "Name=Törgäk..."
 
-#: kdesktop/init/Templates/Directory.desktop:70
+#: kdesktop/init/Templates/Directory.desktop:71
 msgid "Comment=Enter folder name:"
 msgstr "Comment=Törgäk adın kert:"
 
@@ -4412,7 +4412,7 @@ msgstr "Name=Format"
 msgid "Name=HTML File..."
 msgstr "Name=HTML Birem..."
 
-#: kdesktop/init/Templates/HTMLFile.desktop:73
+#: kdesktop/init/Templates/HTMLFile.desktop:74
 msgid "Comment=Enter HTML filename:"
 msgstr "Comment=HTML-birem adın kert:"
 
@@ -4420,7 +4420,7 @@ msgstr "Comment=HTML-birem adın kert:"
 msgid "Name=Text File..."
 msgstr "Name=Mäten Bireme..."
 
-#: kdesktop/init/Templates/TextFile.desktop:73
+#: kdesktop/init/Templates/TextFile.desktop:74
 msgid "Comment=Enter text filename:"
 msgstr "Comment=Mäten-birem adın kert:"
 
@@ -4428,7 +4428,7 @@ msgstr "Comment=Mäten-birem adın kert:"
 msgid "Name=Camera Device..."
 msgstr "Name=kamera Cıhazı..."
 
-#: kdesktop/init/Templates/linkCAMERA.desktop:73
+#: kdesktop/init/Templates/linkCAMERA.desktop:74
 msgid "Comment=New camera"
 msgstr "Comment=Yaña kamera"
 
@@ -4436,7 +4436,7 @@ msgstr "Comment=Yaña kamera"
 msgid "Name=CD-ROM Device..."
 msgstr "Name=CD-ROM Cıhazı..."
 
-#: kdesktop/init/Templates/linkCDROM.desktop:73
+#: kdesktop/init/Templates/linkCDROM.desktop:74
 msgid "Comment=New CD-ROM Device"
 msgstr "Comment=Yaña CD-ROM Cıhazı"
 
@@ -4444,7 +4444,7 @@ msgstr "Comment=Yaña CD-ROM Cıhazı"
 msgid "Name=CDWRITER Device..."
 msgstr "Name=CD-Yazğıç Cıhazı..."
 
-#: kdesktop/init/Templates/linkCDWRITER.desktop:73
+#: kdesktop/init/Templates/linkCDWRITER.desktop:74
 msgid "Comment=New CDWRITER Device"
 msgstr "Comment=Yaña CD-Yazğıç Cıhazı"
 
@@ -4452,7 +4452,7 @@ msgstr "Comment=Yaña CD-Yazğıç Cıhazı"
 msgid "Name=DVD-ROM Device..."
 msgstr "Name=DVD-ROM Cıhazı..."
 
-#: kdesktop/init/Templates/linkDVDROM.desktop:73
+#: kdesktop/init/Templates/linkDVDROM.desktop:74
 msgid "Comment=New DVD-ROM Device"
 msgstr "Comment=Yaña DVD-ROM Cıhazı"
 
@@ -4460,7 +4460,7 @@ msgstr "Comment=Yaña DVD-ROM Cıhazı"
 msgid "Name=Floppy Device..."
 msgstr "Name=Floppy Cıhazı..."
 
-#: kdesktop/init/Templates/linkFloppy.desktop:73
+#: kdesktop/init/Templates/linkFloppy.desktop:74
 msgid "Comment=New Floppy Device"
 msgstr "Comment=Yaña Floppy Cıhazı"
 
@@ -4468,7 +4468,7 @@ msgstr "Comment=Yaña Floppy Cıhazı"
 msgid "Name=Hard Disc Device..."
 msgstr "Name=Eçke Disk Cıhazı..."
 
-#: kdesktop/init/Templates/linkHD.desktop:73
+#: kdesktop/init/Templates/linkHD.desktop:74
 msgid "Comment=New Hard Disc"
 msgstr "Comment=Yaña Qatı Disk"
 
@@ -4476,7 +4476,7 @@ msgstr "Comment=Yaña Qatı Disk"
 msgid "Name=MO Device..."
 msgstr "Name=MO Cıhazı..."
 
-#: kdesktop/init/Templates/linkMO.desktop:73
+#: kdesktop/init/Templates/linkMO.desktop:74
 msgid "Comment=New MO Device"
 msgstr "Comment=Yaña MO Cıhazı"
 
@@ -4492,7 +4492,7 @@ msgstr "Comment=NFS öçen Yaña Bäy"
 msgid "Name=Link to Application..."
 msgstr "Name=Yazılımğa Bäy..."
 
-#: kdesktop/init/Templates/linkProgram.desktop:72
+#: kdesktop/init/Templates/linkProgram.desktop:73
 msgid "Comment=New Link to Application"
 msgstr "Comment=Yazılım öçen Yaña Bäy"
 
@@ -4500,7 +4500,7 @@ msgstr "Comment=Yazılım öçen Yaña Bäy"
 msgid "Name=Link to Location (URL)..."
 msgstr "Name=Urınlaşu öçen Bäy (URL)..."
 
-#: kdesktop/init/Templates/linkURL.desktop:72
+#: kdesktop/init/Templates/linkURL.desktop:73
 msgid "Comment=Enter link to location (URL):"
 msgstr "Comment=Urınlaşu bäyen kertü (URL):"
 
@@ -4508,7 +4508,7 @@ msgstr "Comment=Urınlaşu bäyen kertü (URL):"
 msgid "Name=ZIP Device..."
 msgstr "Name=ZIP Cıhazı..."
 
-#: kdesktop/init/Templates/linkZIP.desktop:73
+#: kdesktop/init/Templates/linkZIP.desktop:74
 msgid "Comment=New ZIP Device"
 msgstr "Comment=Yaña ZIP Cıhazı"
 
@@ -4525,7 +4525,7 @@ msgstr "Name=Ürçetmä"
 msgid "Name=Trash"
 msgstr "Name=Çüplek"
 
-#: kdesktop/init/directory.trash:85
+#: kdesktop/init/directory.trash:84
 msgid "Comment=Contains removed files"
 msgstr "Comment=Beterelgän biremnär yatu urını"
 
@@ -4743,7 +4743,7 @@ msgstr "Comment=Windows 95 küreneşendä FVWM qabatlama"
 msgid "Name=GNOME"
 msgstr "Name=GNOME"
 
-#: kdm/kfrontend/sessions/gnome.desktop:15
+#: kdm/kfrontend/sessions/gnome.desktop:16
 msgid ""
 "Comment=The GNU Network Object Model Environment. A complete, free and "
 "easy-to-use desktop environment"
@@ -4771,7 +4771,7 @@ msgstr "Comment=Windows 95-OS/2-Motif küreneşendä täräzä-idäräçe"
 msgid "Name=Ion"
 msgstr "Name=Ion"
 
-#: kdm/kfrontend/sessions/ion.desktop:14
+#: kdm/kfrontend/sessions/ion.desktop:15
 msgid ""
 "Comment=A keyboard-friendly window manager with tiled windows, based on PWM"
 msgstr "Comment=Täräzä bülü belän töylek-söygän täräzä-idäräçe, PWM asılında"
@@ -4780,7 +4780,7 @@ msgstr "Comment=Täräzä bülü belän töylek-söygän täräzä-idäräçe, P
 msgid "Name=LarsWM"
 msgstr "Name=LarsWM"
 
-#: kdm/kfrontend/sessions/larswm.desktop:11
+#: kdm/kfrontend/sessions/larswm.desktop:12
 msgid "Comment=The Lars Window Manager, based on 9WM, supports tiled windows"
 msgstr "Comment=Lars Window Manager, 9WM asılında, bülengän täräzä tota"
 
@@ -4992,7 +4992,7 @@ msgstr "Comment=Holesterol Bulmağan Östäl Möxiteneñ 4. söreme. CDE kürene
 msgid "Name=Circles"
 msgstr "Name=Circles"
 
-#: kdm/kfrontend/themes/circles/GdmGreeterTheme.desktop:65
+#: kdm/kfrontend/themes/circles/GdmGreeterTheme.desktop:66
 msgid "Description=Theme with blue circles"
 msgstr "Description=Zäñgär tügäräklär belän tışlaw"
 
@@ -5024,11 +5024,11 @@ msgstr "Keywords=Help,HTML,Search,Index,htdig,htsearch,htmerge,Scope,Language"
 msgid "Name=Help Index"
 msgstr "Name=Yärdäm İsemlege"
 
-#: khelpcenter/kcmhelpcenter.desktop:90
+#: khelpcenter/kcmhelpcenter.desktop:91
 msgid "Comment=Help center search index configuration and generation"
 msgstr "Comment=Yärdäm üzägeneñ ezläw isemleklären caylaw/ürçetü"
 
-#: khelpcenter/kcmhelpcenter.desktop:163
+#: khelpcenter/kcmhelpcenter.desktop:165
 msgid "Keywords=khelpcenter,help,index,search"
 msgstr "Keywords=khelpcenter,help,index,search"
 
@@ -5100,7 +5100,7 @@ msgstr "Name=Küräk Saqlağıç"
 msgid "Name=Tutorials"
 msgstr "Name=Austria"
 
-#: khelpcenter/plugins/Tutorials/.directory:52
+#: khelpcenter/plugins/Tutorials/.directory:53
 #, fuzzy
 msgid "Comment=Tutorial and introduction documents."
 msgstr "Comment=Yaraqsız boyırıq."
@@ -5194,22 +5194,22 @@ msgstr "Name=Uyınnar"
 #: khotkeys/data/kde32b1.khotkeys:560 khotkeys/data/kde32b1.khotkeys:588
 #: khotkeys/data/kde32b1.khotkeys:613 khotkeys/data/kde32b1.khotkeys:641
 #: khotkeys/data/kde32b1.khotkeys:666 khotkeys/data/kde32b1.khotkeys:726
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:315
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:441
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:563
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:687
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:811
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:860
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:983
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1105
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1234
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1396
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1522
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1647
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1812
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1938
-#: khotkeys/data/printscreen.khotkeys:80
-#: khotkeys/data/printscreen.khotkeys:148
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:322
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:449
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:573
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:699
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:825
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:874
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:999
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1123
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1254
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1417
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1544
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1670
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1836
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1964
+#: khotkeys/data/printscreen.khotkeys:82
+#: khotkeys/data/printscreen.khotkeys:151
 #, fuzzy
 msgid "Comment="
 msgstr "Comment="
@@ -5238,7 +5238,7 @@ msgstr "Comment="
 #: khotkeys/data/kde32b1.khotkeys:102 khotkeys/data/kde32b1.khotkeys:154
 #: khotkeys/data/kde32b1.khotkeys:207 khotkeys/data/kde32b1.khotkeys:323
 #: khotkeys/data/kde32b1.khotkeys:409 khotkeys/data/kde32b1.khotkeys:730
-#: khotkeys/data/printscreen.khotkeys:152
+#: khotkeys/data/printscreen.khotkeys:155
 #, fuzzy
 msgid "Comment=Simple_action"
 msgstr "Comment=SCSI turında"
@@ -5365,58 +5365,58 @@ msgid "Name=Konqi Gestures"
 msgstr "Name=Konqui"
 
 #: khotkeys/data/kde32b1.khotkeys:450
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:87
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:89
 #, fuzzy
 msgid "Comment=Konqueror window"
 msgstr "Comment=Yana Täräzä"
 
 #: khotkeys/data/kde32b1.khotkeys:467 khotkeys/data/kde32b1.khotkeys:473
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:133
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:142
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:136
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:145
 #, fuzzy
 msgid "Comment=Konqueror"
 msgstr "Name=Konqueror"
 
 #: khotkeys/data/kde32b1.khotkeys:484
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:189
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:193
 #, fuzzy
 msgid "Name=Back"
 msgstr "Name=Blackbox"
 
 #: khotkeys/data/kde32b1.khotkeys:511 khotkeys/data/kde32b1.khotkeys:564
 #: khotkeys/data/kde32b1.khotkeys:617 khotkeys/data/kde32b1.khotkeys:670
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:319
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:445
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:567
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:691
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:815
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:864
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:987
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1109
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1238
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1400
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1526
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1651
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1816
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1942
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:326
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:453
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:577
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:703
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:829
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:878
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1003
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1127
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1258
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1421
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1548
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1674
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1840
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1968
 #, fuzzy
 msgid "Comment=Gesture_triggers"
 msgstr "Comment=UserAgent Sätirläre"
 
 #: khotkeys/data/kde32b1.khotkeys:537
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1182
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1201
 #, fuzzy
 msgid "Name=Forward"
 msgstr "Name=Xboard"
 
 #: khotkeys/data/kde32b1.khotkeys:590
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:389
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:397
 #, fuzzy
 msgid "Name=Up"
 msgstr "Name=UDE"
 
 #: khotkeys/data/kde32b1.khotkeys:643
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1886
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1911
 #, fuzzy
 msgid "Name=Reload"
 msgstr "Name=Redmond"
@@ -5438,122 +5438,122 @@ msgstr "Name=KDE WebSVN"
 msgid "Comment=Basic Konqueror gestures."
 msgstr "Comment=Konqueror cibärüen tizlätä"
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:45
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:46
 #, fuzzy
 msgid "Name=Konqueror Gestures"
 msgstr "Name=Konqueror Caybireme"
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:154
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:157
 msgid "Comment=Press, move left, release."
 msgstr ""
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:232
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:237
 msgid ""
 "Comment=Opera-style: Press, move up, release.\\nNOTE: Conflicts with 'New Tab', "
 "and as such is disabled by default."
 msgstr ""
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:265
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:271
 #, fuzzy
 msgid "Name=Stop Loading"
 msgstr "Name=İspania"
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:356
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:363
 msgid ""
 "Comment=Going up in URL/directory structure.\\nMozilla-style: Press, move up, "
 "move left, move up, release."
 msgstr ""
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:482
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:490
 msgid ""
 "Comment=Going up in URL/directory structure.\\nOpera-style: Press, move up, "
 "move left, move up, release.\\nNOTE: Conflicts with  \"Activate Previous Tab\", "
 "and as such is disabled by default."
 msgstr ""
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:513
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:522
 #, fuzzy
 msgid "Name=Up #2"
 msgstr "Name=KDE 2"
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:604
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:614
 msgid "Comment=Press, move up, move right, release."
 msgstr ""
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:638
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:649
 #, fuzzy
 msgid "Name=Activate Next Tab"
 msgstr "Name=Täräzä Eşçän İtü"
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:728
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:740
 msgid "Comment=Press, move up, move left, release."
 msgstr ""
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:762
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:775
 #, fuzzy
 msgid "Name=Activate Previous Tab"
 msgstr "Name=Täräzä Eşçän İtü"
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:901
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:915
 msgid "Comment=Press, move down, move up, move down, release."
 msgstr ""
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:935
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:950
 #, fuzzy
 msgid "Name=Duplicate Tab"
 msgstr "Name=Yazılım Utırtu Taqtası"
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1024
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1040
 msgid "Comment=Press, move down, move up, release."
 msgstr ""
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1058
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1075
 #, fuzzy
 msgid "Name=Duplicate Window"
 msgstr "Name=Täräzäne Beter"
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1146
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1164
 #, fuzzy
 msgid "Comment=Press, move right, release."
 msgstr "Comment=Basaqlar Törläre"
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1275
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1295
 msgid ""
 "Comment=Press, move down, move half up, move right, move down, "
 "release.\\n(Drawing a lowercase 'h'.)"
 msgstr ""
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1441
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1462
 msgid ""
 "Comment=Press, move right, move down, move right, release.\\nMozilla-style: "
 "Press, move down, move right, release."
 msgstr ""
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1472
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1493
 #, fuzzy
 msgid "Name=Close Tab"
 msgstr "Name=Töslär"
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1567
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1589
 msgid ""
 "Comment=Press, move up, release.\\nConflicts with Opera-style 'Up #2', which is "
 "disabled by default."
 msgstr ""
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1597
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1619
 #, fuzzy
 msgid "Name=New Tab"
 msgstr "Name=Yaña Dialog"
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1688
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1711
 msgid "Comment=Press, move down, release."
 msgstr ""
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1721 kwin/eventsrc:3029
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1745 kwin/eventsrc:3062
 msgid "Name=New Window"
 msgstr "Name=Yana Täräzä"
 
-#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1853
+#: khotkeys/data/konqueror_gestures_kde321.khotkeys:1877
 msgid "Comment=Press, move up, move down, release."
 msgstr ""
 
@@ -5561,16 +5561,16 @@ msgstr ""
 msgid "Comment=This group contains actions that are set up by default."
 msgstr ""
 
-#: khotkeys/data/printscreen.khotkeys:38
+#: khotkeys/data/printscreen.khotkeys:39
 #, fuzzy
 msgid "Name=Preset Actions"
 msgstr "Name=Ğämällär"
 
-#: khotkeys/data/printscreen.khotkeys:84
+#: khotkeys/data/printscreen.khotkeys:86
 msgid "Comment=Launches KSnapShot when PrintScrn is pressed."
 msgstr ""
 
-#: khotkeys/data/printscreen.khotkeys:116
+#: khotkeys/data/printscreen.khotkeys:119
 #, fuzzy
 msgid "Name=PrintScreen"
 msgstr "Name=Pitkairn"
@@ -5579,11 +5579,11 @@ msgstr "Name=Pitkairn"
 msgid "Name=Input Actions"
 msgstr "Name=Kertü Ğämälläre"
 
-#: khotkeys/kcontrol/khotkeys.desktop:75
+#: khotkeys/kcontrol/khotkeys.desktop:76
 msgid "Comment=Configure Hotkey settings"
 msgstr "Comment=Qaynar töymälärne caylaw"
 
-#: khotkeys/kcontrol/khotkeys.desktop:140
+#: khotkeys/kcontrol/khotkeys.desktop:142
 msgid "Keywords=Keys,Global key bindings,Key bindings,Gestures,Mouse gestures"
 msgstr "Keywords=Keys,Global key bindings,Key bindings,Gestures,Mouse gestures"
 
@@ -5600,7 +5600,7 @@ msgstr "Comment=Uqlı/sanlı säğät applete"
 msgid "Name=Quick Launcher"
 msgstr "Name=Tiz Cibärgeç"
 
-#: kicker/applets/launcher/quicklauncher.desktop:82
+#: kicker/applets/launcher/quicklauncher.desktop:81
 msgid "Comment=Directly access your frequently used applications"
 msgstr ""
 
@@ -5609,7 +5609,7 @@ msgstr ""
 msgid "Name=Lock/Logout Buttons"
 msgstr "Name=Kereş/Çığış Modulı"
 
-#: kicker/applets/lockout/lockout.desktop:64
+#: kicker/applets/lockout/lockout.desktop:65
 msgid "Comment=Adds buttons for locking screen and session logout"
 msgstr ""
 
@@ -5646,7 +5646,7 @@ msgstr ""
 msgid "Name=Runaway Process Catcher"
 msgstr "Name=Içqınğan Eşlänü Totqıç"
 
-#: kicker/applets/naughty/naughtyapplet.desktop:77
+#: kicker/applets/naughty/naughtyapplet.desktop:76
 msgid "Comment=Detect and end broken processes which consume too much CPU time"
 msgstr ""
 
@@ -5654,7 +5654,7 @@ msgstr ""
 msgid "Name=Run Command"
 msgstr "Name=Boyırıq Eşlätü"
 
-#: kicker/applets/run/runapplet.desktop:71
+#: kicker/applets/run/runapplet.desktop:72
 msgid "Comment=Launch single commands without a terminal window"
 msgstr ""
 
@@ -5712,7 +5712,7 @@ msgstr "Comment=Konqueror'nıñ küçü taqtasınıñ sıydırması"
 msgid "Name=External Taskbar"
 msgstr "Name=Tışqı Eşlärtirä"
 
-#: kicker/extensions/taskbar/taskbarextension.desktop:80
+#: kicker/extensions/taskbar/taskbarextension.desktop:79
 #, fuzzy
 msgid "Comment=External taskbar panel extension"
 msgstr "Comment=Tışqı yöktirä belän taqta östämäse"
@@ -5721,7 +5721,7 @@ msgstr "Comment=Tışqı yöktirä belän taqta östämäse"
 msgid "Name=Bookmarks Menu"
 msgstr "Name=Bitbilge Saylağı"
 
-#: kicker/kicker/buttons/bookmarks.desktop:66
+#: kicker/kicker/buttons/bookmarks.desktop:67
 msgid "Comment=Your Konqueror bookmarks"
 msgstr "Comment=Konqueror Bitbilgeläre"
 
@@ -5737,7 +5737,7 @@ msgstr "Comment=Berär törgäkneñ birem tezmäsen kürsätüçe saylaq"
 msgid "Name=Show Desktop"
 msgstr "Name=Östäl Kürsätü"
 
-#: kicker/kicker/buttons/desktop.desktop:66
+#: kicker/kicker/buttons/desktop.desktop:67
 msgid "Comment=A button that gives quick access to the desktop when pressed"
 msgstr "Comment=Östäl eçtälegenä tiz ireşergä birüçe töymä"
 
@@ -5745,7 +5745,7 @@ msgstr "Comment=Östäl eçtälegenä tiz ireşergä birüçe töymä"
 msgid "Name=Non-KDE Application Launcher"
 msgstr "Name=KDE-bulmağan Yazılım Cibärgeç"
 
-#: kicker/kicker/buttons/exec.desktop:63
+#: kicker/kicker/buttons/exec.desktop:64
 msgid "Comment=A launcher for programs not in the K Menu"
 msgstr "Comment=K-Saylaqta bulmağan yazılımnar cibärgeçe"
 
@@ -5753,7 +5753,7 @@ msgstr "Comment=K-Saylaqta bulmağan yazılımnar cibärgeçe"
 msgid "Name=K Menu"
 msgstr "Name=K-Saylaq"
 
-#: kicker/kicker/buttons/kmenu.desktop:66
+#: kicker/kicker/buttons/kmenu.desktop:67
 msgid "Comment=Applications and common actions"
 msgstr "Comment=Yazılımnar belän töp ğämällär"
 
@@ -5769,7 +5769,7 @@ msgstr "Comment=Bar açıq täräzä tezmäse belän saylaq"
 msgid "Name=Panel"
 msgstr "Name=Tirä"
 
-#: kicker/kicker/core/childpanelextension.desktop:62
+#: kicker/kicker/core/childpanelextension.desktop:63
 msgid "Comment=Child panel extension."
 msgstr "Comment=Bala taqta östämäse."
 
@@ -5821,7 +5821,7 @@ msgstr "Comment=Bastıru sistemenä ciñel ireşü"
 msgid "Name=Konqueror Profiles"
 msgstr "Name=Konqueror Caybireme"
 
-#: kicker/menuext/konq-profiles/konquerormenu.desktop:72
+#: kicker/menuext/konq-profiles/konquerormenu.desktop:73
 #, fuzzy
 msgid "Comment=Menu for accessing the Konqueror profiles"
 msgstr "Comment=Konqueror caybiremnärenä ciñel ireşü"
@@ -5830,7 +5830,7 @@ msgstr "Comment=Konqueror caybiremnärenä ciñel ireşü"
 msgid "Name=Terminal Sessions"
 msgstr "Name=Terminal Sessiläre"
 
-#: kicker/menuext/konsole/konsolemenu.desktop:79
+#: kicker/menuext/konsole/konsolemenu.desktop:80
 msgid ""
 "Comment=Menu for starting a terminal emulator with a session or bookmark"
 msgstr ""
@@ -5853,7 +5853,7 @@ msgstr "Comment=Soñğı arada qullanılğan istälekläreñ"
 msgid "Name=Network Folders"
 msgstr "Name=Çeltärle Törgäklär"
 
-#: kicker/menuext/remote/remotemenu.desktop:70
+#: kicker/menuext/remote/remotemenu.desktop:71
 #, fuzzy
 msgid "Comment=Menu of network folders"
 msgstr "Comment=Çeltärle törgäklärgä ciñel ireşü"
@@ -5880,11 +5880,11 @@ msgstr "Comment=Yökkä yünälgän saylaq sisteme"
 msgid "Name=CGI Scripts"
 msgstr "Name=CGI Ämerleklär"
 
-#: kioslave/cgi/kcmcgi/kcmcgi.desktop:85
+#: kioslave/cgi/kcmcgi/kcmcgi.desktop:86
 msgid "Comment=Configure the CGI KIO slave"
 msgstr "Comment=CGI KIO slave caylawı"
 
-#: kioslave/cgi/kcmcgi/kcmcgi.desktop:159
+#: kioslave/cgi/kcmcgi/kcmcgi.desktop:161
 msgid "Keywords=CGI,KIO,Slave,Paths"
 msgstr "Keywords=CGI,KIO,Slave,Paths"
 
@@ -5910,7 +5910,7 @@ msgstr "Description=MacOS HFS+ bülemnäre öçen birem sistemeneñ modulı"
 msgid "Comment=Embeddable Troff Viewer"
 msgstr "Comment=Quşılulı Troff-Kürsätkeç"
 
-#: kioslave/man/kmanpart.desktop:78
+#: kioslave/man/kmanpart.desktop:79
 msgid "Name=KManPart"
 msgstr "Name=KManPart"
 
@@ -5930,7 +5930,7 @@ msgstr "Name=Media Turında"
 msgid "Name=KDED Media Manager"
 msgstr "Name=KDED Media İdäräçe"
 
-#: kioslave/media/mediamanager/mediamanager.desktop:69
+#: kioslave/media/mediamanager/mediamanager.desktop:70
 msgid "Comment=Keep track of media activities and allow to (un)mount (media:/)"
 msgstr "Comment=Cıhazlarnıñ totaşuın/ayırıluın sizüçe närsä (media:/)"
 
@@ -6174,7 +6174,7 @@ msgstr "Name=Klipper"
 msgid "GenericName=Clipboard Tool"
 msgstr "GenericName=Kesä Qoralı"
 
-#: klipper/klipper.desktop:108
+#: klipper/klipper.desktop:109
 msgid "Comment=A cut & paste history utility"
 msgstr ""
 
@@ -6182,78 +6182,78 @@ msgstr ""
 msgid "Description=Jpeg-Image"
 msgstr "Description=Jpeg-Sürät"
 
-#: klipper/klipperrc.desktop:84
+#: klipper/klipperrc.desktop:85
 msgid "Description=Launch K&View"
 msgstr "Description=K&View Cibärü"
 
-#: klipper/klipperrc.desktop:161
+#: klipper/klipperrc.desktop:162
 msgid "Description=Web-URL"
 msgstr "Description=Web-URL"
 
-#: klipper/klipperrc.desktop:229 klipper/klipperrc.desktop:1598
+#: klipper/klipperrc.desktop:230 klipper/klipperrc.desktop:1609
 msgid "Description=Open with &Konqueror"
 msgstr "Description=&Konqueror belän Aç"
 
-#: klipper/klipperrc.desktop:311 klipper/klipperrc.desktop:1760
+#: klipper/klipperrc.desktop:313 klipper/klipperrc.desktop:1773
 msgid "Description=Open with &Mozilla"
 msgstr "Description=&Mozilla belän Aç"
 
-#: klipper/klipperrc.desktop:392 klipper/klipperrc.desktop:1162
-#: klipper/klipperrc.desktop:1379 klipper/klipperrc.desktop:1841
+#: klipper/klipperrc.desktop:395 klipper/klipperrc.desktop:1171
+#: klipper/klipperrc.desktop:1389 klipper/klipperrc.desktop:1855
 msgid "Description=Send &URL"
 msgstr "Description=&URL Künderü"
 
-#: klipper/klipperrc.desktop:471
+#: klipper/klipperrc.desktop:474
 #, fuzzy
 msgid "Description=Open with &Firefox"
 msgstr "Description=&Konqueror belän Aç"
 
-#: klipper/klipperrc.desktop:536
+#: klipper/klipperrc.desktop:540
 msgid "Description=Send &Page"
 msgstr "Description=&Bit Künderü"
 
-#: klipper/klipperrc.desktop:615
+#: klipper/klipperrc.desktop:620
 msgid "Description=Mail-URL"
 msgstr "Description=Xat-URL"
 
-#: klipper/klipperrc.desktop:688
+#: klipper/klipperrc.desktop:693
 msgid "Description=Launch &Kmail"
 msgstr "Description=&Kmail Cibärü"
 
-#: klipper/klipperrc.desktop:767
+#: klipper/klipperrc.desktop:773
 msgid "Description=Launch &mutt"
 msgstr "Description=&mutt Cibärü"
 
-#: klipper/klipperrc.desktop:845
+#: klipper/klipperrc.desktop:852
 msgid "Description=Text File"
 msgstr "Description=Mäten Bireme"
 
-#: klipper/klipperrc.desktop:927
+#: klipper/klipperrc.desktop:934
 msgid "Description=Launch K&Edit"
 msgstr "Description=K&Edit Cibärü"
 
-#: klipper/klipperrc.desktop:1005
+#: klipper/klipperrc.desktop:1012
 msgid "Description=Launch K&Write"
 msgstr "Description=K&Write Cibärü"
 
-#: klipper/klipperrc.desktop:1082
+#: klipper/klipperrc.desktop:1090
 msgid "Description=Local file URL"
 msgstr "Description=Cirle birem URLı"
 
-#: klipper/klipperrc.desktop:1240 klipper/klipperrc.desktop:1457
-#: klipper/klipperrc.desktop:1919
+#: klipper/klipperrc.desktop:1249 klipper/klipperrc.desktop:1467
+#: klipper/klipperrc.desktop:1933
 msgid "Description=Send &File"
 msgstr "Description=Bir&em Cibärü"
 
-#: klipper/klipperrc.desktop:1319
+#: klipper/klipperrc.desktop:1329
 msgid "Description=Gopher URL"
 msgstr "Description=Gopher URLı"
 
-#: klipper/klipperrc.desktop:1536
+#: klipper/klipperrc.desktop:1547
 msgid "Description=ftp URL"
 msgstr "Description=ftp URLı"
 
-#: klipper/klipperrc.desktop:1679
+#: klipper/klipperrc.desktop:1691
 msgid "Description=Open with &Netscape"
 msgstr "Description=&Netscape belän Aç"
 
@@ -6287,7 +6287,7 @@ msgstr "Name=Berniçä Asma belän"
 msgid "Name=Konqueror"
 msgstr "Name=Konqueror"
 
-#: konqueror/konqueror.desktop:18
+#: konqueror/konqueror.desktop:17
 msgid "Comment=KDE File Manager & Web Browser"
 msgstr "Comment=KDE Birem-İdäräçe & Web-Gizgeç"
 
@@ -6323,7 +6323,7 @@ msgstr "Name=Konqueror'nı Aldan uq Yökläw"
 msgid "Name=KDED Konqueror Preloader Module"
 msgstr "Name=Konqueror'nı Aldan uq Yökläw"
 
-#: konqueror/preloader/konqy_preloader.desktop:68
+#: konqueror/preloader/konqy_preloader.desktop:69
 msgid "Comment=Reduces Konqueror startup time"
 msgstr "Comment=Konqueror cibärüen tizlätä"
 
@@ -6381,7 +6381,7 @@ msgstr "Name=Bastıru..."
 msgid "Name=Remote Encoding Plugin"
 msgstr "Name=Remote Encoding Plugin"
 
-#: konqueror/remoteencodingplugin/kremoteencodingplugin.desktop:74
+#: konqueror/remoteencodingplugin/kremoteencodingplugin.desktop:75
 msgid "Comment=Remote Encoding Plugin for Konqueror"
 msgstr "Comment=Konqueror öçen Remote Encoding Plugin"
 
@@ -6389,7 +6389,7 @@ msgstr "Comment=Konqueror öçen Remote Encoding Plugin"
 msgid "Name=Shell Command Plugin"
 msgstr "Name=Qabıqqa Boyırıq birü Östämäse"
 
-#: konqueror/shellcmdplugin/kshellcmdplugin.desktop:74
+#: konqueror/shellcmdplugin/kshellcmdplugin.desktop:75
 msgid "Comment=Shell Command Plugin for Konqueror"
 msgstr "Comment=Konqueror öçen Qabıqqa Boyırıq birü Östämäse"
 
@@ -6405,11 +6405,11 @@ msgstr "Name=Sınaw"
 msgid "Name=History Sidebar"
 msgstr "Name=Taríx Yantiräse"
 
-#: konqueror/sidebar/trees/history_module/kcmhistory.desktop:85
+#: konqueror/sidebar/trees/history_module/kcmhistory.desktop:86
 msgid "Comment=Configure the history sidebar"
 msgstr "Comment=\"Uzğanı\" yantiräseneñ caylawı"
 
-#: konqueror/sidebar/trees/history_module/kcmhistory.desktop:159
+#: konqueror/sidebar/trees/history_module/kcmhistory.desktop:161
 msgid "Keywords=history,expire"
 msgstr "Keywords=history,expire"
 
@@ -6433,15 +6433,15 @@ msgstr "Name=Törgäk"
 msgid "Name=History"
 msgstr "Name=Taríx"
 
-#: konqueror/sidebar/trees/init/history.desktop:83
-#: konqueror/sidebar/trees/init/history_module.desktop:83
+#: konqueror/sidebar/trees/init/history.desktop:84
+#: konqueror/sidebar/trees/init/history_module.desktop:84
 msgid ""
 "Comment=This is the history of the URLs you have recently visited. You can sort "
 "them in many ways."
 msgstr ""
 "Comment=Soñğı arada qaralğan bulğan URL tezmäse. Anı törleçä tärtipläp bula."
 
-#: konqueror/sidebar/trees/init/home.desktop:77
+#: konqueror/sidebar/trees/init/home.desktop:78
 msgid "Comment=This folder contains your personal files"
 msgstr "Comment=Bu törgäktä şäxsi biremnäreñ yata"
 
@@ -6484,7 +6484,7 @@ msgstr "Name=KDE Eye Candy"
 msgid "Name=Root Folder"
 msgstr "Name=Töp Törgäk"
 
-#: konqueror/sidebar/trees/init/root.desktop:77
+#: konqueror/sidebar/trees/init/root.desktop:78
 msgid "Comment=This is the root of the filesystem"
 msgstr "Comment=Birem sistemeneñ töp törgäge bu"
 
@@ -6523,39 +6523,39 @@ msgstr "Comment=Konsole"
 msgid "Name=Bell in visible session"
 msgstr "Name=Kürengän sessidän zil"
 
-#: konsole/eventsrc:104
+#: konsole/eventsrc:105
 msgid "Comment=Bell emitted within a visible session"
 msgstr "Comment=Kürengän sessidän zil kilde"
 
-#: konsole/eventsrc:174
+#: konsole/eventsrc:176
 msgid "Name=Bell in non-visible session"
 msgstr "Name=Kürenmägän sessidän zil"
 
-#: konsole/eventsrc:242
+#: konsole/eventsrc:245
 msgid "Comment=Bell emitted within a non-visible session"
 msgstr "Comment=Kürenmägän sessidän zil kilde"
 
-#: konsole/eventsrc:312
+#: konsole/eventsrc:316
 msgid "Name=Activity in monitored session"
 msgstr "Name=Küzätelgän sessidä terelek"
 
-#: konsole/eventsrc:379
+#: konsole/eventsrc:384
 msgid "Comment=Activity detected in a monitored session"
 msgstr "Comment=Küzätelgän sessidä terelek küzätelä"
 
-#: konsole/eventsrc:448
+#: konsole/eventsrc:454
 msgid "Name=Silence in monitored session"
 msgstr "Name=Küzätelgän sessidä tınlıq"
 
-#: konsole/eventsrc:515
+#: konsole/eventsrc:522
 msgid "Comment=Silence detected in a monitored session"
 msgstr "Comment=Küzätelgän sessidä tınlıq küzätelä"
 
-#: konsole/eventsrc:584
+#: konsole/eventsrc:592
 msgid "Name=Session finished with non-zero status"
 msgstr "Name=Sessi buş bulmağan xäl belän tuqtadı"
 
-#: konsole/eventsrc:650
+#: konsole/eventsrc:659
 msgid "Comment=A session has exited with non-zero status"
 msgstr "Comment=Sessi buş bulmağan xäl belän tuqtadı"
 
@@ -6567,7 +6567,7 @@ msgstr "Name=Konsole"
 msgid "GenericName=All Konsole Settings"
 msgstr "GenericName=Bar Konsollar Caylawı"
 
-#: konsole/kcmkonsole.desktop:164
+#: konsole/kcmkonsole.desktop:163
 msgid "Keywords=konsole,console,terminal"
 msgstr "Keywords=konsole,console,terminal"
 
@@ -6575,7 +6575,7 @@ msgstr "Keywords=konsole,console,terminal"
 msgid "Comment=File to Open a Shell"
 msgstr "Comment=Qabıq Açu öçen Birem"
 
-#: konsole/konsolehere.desktop:45
+#: konsole/konsolehere.desktop:44
 msgid "Name=Open Terminal Here"
 msgstr "Name=Terminalnı Monda Açası"
 
@@ -6634,7 +6634,7 @@ msgstr "Comment=Yaña Root Qabığı"
 msgid "Name=Root Midnight Commander"
 msgstr "Name=Root Midnight Commander"
 
-#: konsole/other/sumc.desktop:64
+#: konsole/other/sumc.desktop:65
 msgid "Comment=New Root Midnight Commander"
 msgstr "Comment=Yaña Midnight Commander (root ısulı)"
 
@@ -6642,7 +6642,7 @@ msgstr "Comment=Yaña Midnight Commander (root ısulı)"
 msgid "Name=KPager"
 msgstr "Name=KPager"
 
-#: kpager/kpager.desktop:22
+#: kpager/kpager.desktop:23
 msgid "GenericName=Desktop Pager"
 msgstr "GenericName=Östäl Bitçese"
 
@@ -6662,7 +6662,7 @@ msgstr "Name=Caylaw..."
 msgid "Name=Display in Specified Window"
 msgstr "Name=Äytelgän Täräzädä Kürsät"
 
-#: kscreensaver/KBlankscreen.desktop:246 kscreensaver/KRandom.desktop:244
+#: kscreensaver/KBlankscreen.desktop:247 kscreensaver/KRandom.desktop:245
 msgid "Name=Display in Root Window"
 msgstr "Name=Root Täräzäsendä Kürsät"
 
@@ -6674,11 +6674,11 @@ msgstr "Name=Oçraqlı"
 msgid "Name=Splash Screen"
 msgstr "Name=Kürsätmä Täräzä"
 
-#: ksplashml/kcmksplash/ksplashthememgr.desktop:84
+#: ksplashml/kcmksplash/ksplashthememgr.desktop:85
 msgid "Comment=Manager for Splash Screen Themes"
 msgstr "Comment=Alsürät Tärzäse öçen Tışlaw İdäräçe"
 
-#: ksplashml/kcmksplash/ksplashthememgr.desktop:153
+#: ksplashml/kcmksplash/ksplashthememgr.desktop:155
 msgid "Keywords=splash screen,splash theme,startup"
 msgstr "Keywords=splash screen,splash theme,startup"
 
@@ -6712,15 +6712,15 @@ msgstr "Comment=KDE'nıñ Sistem Saqçısı"
 msgid "Name=pattern_match"
 msgstr "Name=pattern_match"
 
-#: ksysguard/example/eventsrc:124
+#: ksysguard/example/eventsrc:125
 msgid "Comment=Search pattern matched"
 msgstr "Comment=Ezlängäne belän kileşte"
 
-#: ksysguard/example/eventsrc:189
+#: ksysguard/example/eventsrc:191
 msgid "Name=sensor_alarm"
 msgstr "Name=sensor_alarm"
 
-#: ksysguard/example/eventsrc:228
+#: ksysguard/example/eventsrc:231
 msgid "Comment=Sensor exceeded critical limit"
 msgstr "Comment=Sizgeçneñ eşläw waqıtı ütte"
 
@@ -6728,7 +6728,7 @@ msgstr "Comment=Sizgeçneñ eşläw waqıtı ütte"
 msgid "Name=KSysGuard"
 msgstr "Name=KSysGuard"
 
-#: ksysguard/gui/ksysguard.desktop:32
+#: ksysguard/gui/ksysguard.desktop:31
 msgid "GenericName=Performance Monitor"
 msgstr "GenericName=Citezlek Küzätüçese"
 
@@ -6737,7 +6737,7 @@ msgstr "GenericName=Citezlek Küzätüçese"
 msgid "Name=System Guard"
 msgstr "Name=KSysGuard"
 
-#: ksysguard/gui/ksysguardapplet.desktop:62
+#: ksysguard/gui/ksysguardapplet.desktop:63
 msgid ""
 "Comment=An advanced system monitor which swallows KDE system guard displays"
 msgstr ""
@@ -6794,311 +6794,311 @@ msgstr "Name=1. Östälgä Küç"
 msgid "Comment=Virtual desktop one is selected"
 msgstr "Comment=Berençe xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:235
+#: kwin/eventsrc:236
 msgid "Name=Change to Desktop 2"
 msgstr "Name=2. Östälgä Küç"
 
-#: kwin/eventsrc:315
+#: kwin/eventsrc:316
 msgid "Comment=Virtual desktop two is selected"
 msgstr "Comment=İkençe xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:387
+#: kwin/eventsrc:389
 msgid "Name=Change to Desktop 3"
 msgstr "Name=3. Östälgä Küç"
 
-#: kwin/eventsrc:467
+#: kwin/eventsrc:469
 msgid "Comment=Virtual desktop three is selected"
 msgstr "Comment=Öçençe xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:539
+#: kwin/eventsrc:542
 msgid "Name=Change to Desktop 4"
 msgstr "Name=4. Östälgä Küç"
 
-#: kwin/eventsrc:619
+#: kwin/eventsrc:622
 msgid "Comment=Virtual desktop four is selected"
 msgstr "Comment=Dürtençe xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:691
+#: kwin/eventsrc:695
 msgid "Name=Change to Desktop 5"
 msgstr "Name=5. Östälgä Küç"
 
-#: kwin/eventsrc:771
+#: kwin/eventsrc:775
 msgid "Comment=Virtual desktop five is selected"
 msgstr "Comment=Bişençe xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:843
+#: kwin/eventsrc:848
 msgid "Name=Change to Desktop 6"
 msgstr "Name=6. Östälgä Küç"
 
-#: kwin/eventsrc:923
+#: kwin/eventsrc:928
 msgid "Comment=Virtual desktop six is selected"
 msgstr "Comment=Altınçı xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:995
+#: kwin/eventsrc:1001
 msgid "Name=Change to Desktop 7"
 msgstr "Name=7. Östälgä Küç"
 
-#: kwin/eventsrc:1075
+#: kwin/eventsrc:1081
 msgid "Comment=Virtual desktop seven is selected"
 msgstr "Comment=Cidençe xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:1147
+#: kwin/eventsrc:1154
 msgid "Name=Change to Desktop 8"
 msgstr "Name=8. Östälgä Küç"
 
-#: kwin/eventsrc:1227
+#: kwin/eventsrc:1234
 msgid "Comment=Virtual desktop eight is selected"
 msgstr "Comment=Sigezençe xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:1299
+#: kwin/eventsrc:1307
 msgid "Name=Change to Desktop 9"
 msgstr "Name=9. Östälgä Küç"
 
-#: kwin/eventsrc:1364
+#: kwin/eventsrc:1373
 msgid "Comment=Virtual desktop nine is selected"
 msgstr "Comment=Tuğızınçı xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:1430
+#: kwin/eventsrc:1440
 msgid "Name=Change to Desktop 10"
 msgstr "Name=10. Östälgä Küç"
 
-#: kwin/eventsrc:1495
+#: kwin/eventsrc:1506
 msgid "Comment=Virtual desktop ten is selected"
 msgstr "Comment=Unınçı xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:1562
+#: kwin/eventsrc:1574
 msgid "Name=Change to Desktop 11"
 msgstr "Name=11. Östälgä Küç"
 
-#: kwin/eventsrc:1627
+#: kwin/eventsrc:1640
 msgid "Comment=Virtual desktop eleven is selected"
 msgstr "Comment=Unberençe xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:1694
+#: kwin/eventsrc:1708
 msgid "Name=Change to Desktop 12"
 msgstr "Name=12. Östälgä Küç"
 
-#: kwin/eventsrc:1759
+#: kwin/eventsrc:1774
 msgid "Comment=Virtual desktop twelve is selected"
 msgstr "Comment=Unikençe xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:1825
+#: kwin/eventsrc:1841
 msgid "Name=Change to Desktop 13"
 msgstr "Name=13. Östälgä Küç"
 
-#: kwin/eventsrc:1890
+#: kwin/eventsrc:1907
 msgid "Comment=Virtual desktop thirteen is selected"
 msgstr "Comment=Unöçençe xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:1957
+#: kwin/eventsrc:1975
 msgid "Name=Change to Desktop 14"
 msgstr "Name=14. Östälgä Küç"
 
-#: kwin/eventsrc:2022
+#: kwin/eventsrc:2041
 msgid "Comment=Virtual desktop fourteen is selected"
 msgstr "Comment=Undürtençe xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:2089
+#: kwin/eventsrc:2109
 msgid "Name=Change to Desktop 15"
 msgstr "Name=15. Östälgä Küç"
 
-#: kwin/eventsrc:2154
+#: kwin/eventsrc:2175
 msgid "Comment=Virtual desktop fifteen is selected"
 msgstr "Comment=Unbişençe xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:2221
+#: kwin/eventsrc:2243
 msgid "Name=Change to Desktop 16"
 msgstr "Name=16. Östälgä Küç"
 
-#: kwin/eventsrc:2286
+#: kwin/eventsrc:2309
 msgid "Comment=Virtual desktop sixteen is selected"
 msgstr "Comment=Unaltınçı xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:2353
+#: kwin/eventsrc:2377
 msgid "Name=Change to Desktop 17"
 msgstr "Name=17. Östälgä Küç"
 
-#: kwin/eventsrc:2418
+#: kwin/eventsrc:2443
 msgid "Comment=Virtual desktop seventeen is selected"
 msgstr "Comment=Uncidençe xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:2485
+#: kwin/eventsrc:2511
 msgid "Name=Change to Desktop 18"
 msgstr "Name=18. Östälgä Küç"
 
-#: kwin/eventsrc:2550
+#: kwin/eventsrc:2577
 msgid "Comment=Virtual desktop eighteen is selected"
 msgstr "Comment=Unsigezençe xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:2617
+#: kwin/eventsrc:2645
 msgid "Name=Change to Desktop 19"
 msgstr "Name=19. Östälgä Küç"
 
-#: kwin/eventsrc:2682
+#: kwin/eventsrc:2711
 msgid "Comment=Virtual desktop nineteen is selected"
 msgstr "Comment=Untuğızınçı xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:2749
+#: kwin/eventsrc:2779
 msgid "Name=Change to Desktop 20"
 msgstr "Name=20. Östälgä Küç"
 
-#: kwin/eventsrc:2814
+#: kwin/eventsrc:2845
 msgid "Comment=Virtual desktop twenty is selected"
 msgstr "Comment=Yegermençe xıyalıy östäl saylandı"
 
-#: kwin/eventsrc:2881
+#: kwin/eventsrc:2913
 msgid "Name=Activate Window"
 msgstr "Name=Täräzä Eşçän İtü"
 
-#: kwin/eventsrc:2960
+#: kwin/eventsrc:2992
 msgid "Comment=Another window is activated"
 msgstr "Comment=Başqa täräzä terelände"
 
-#: kwin/eventsrc:3109
+#: kwin/eventsrc:3142
 msgid "Comment=New window"
 msgstr "Comment=Yana Täräzä"
 
-#: kwin/eventsrc:3182
+#: kwin/eventsrc:3216
 msgid "Name=Delete Window"
 msgstr "Name=Täräzäne Beter"
 
-#: kwin/eventsrc:3262
+#: kwin/eventsrc:3296
 msgid "Comment=Delete window"
 msgstr "Comment=Täräzäne beter"
 
-#: kwin/eventsrc:3332
+#: kwin/eventsrc:3367
 msgid "Name=Window Close"
 msgstr "Name=Täräzäne Yap"
 
-#: kwin/eventsrc:3412
+#: kwin/eventsrc:3447
 msgid "Comment=A window closes"
 msgstr "Comment=Täräzäne yabu"
 
-#: kwin/eventsrc:3484
+#: kwin/eventsrc:3520
 msgid "Name=Window Shade Up"
 msgstr "Name=Täräzäne Tasmağa Tör"
 
-#: kwin/eventsrc:3559
+#: kwin/eventsrc:3595
 msgid "Comment=A window is shaded up"
 msgstr "Comment=Täräzä tasmağa törelde"
 
-#: kwin/eventsrc:3627
+#: kwin/eventsrc:3664
 msgid "Name=Window Shade Down"
 msgstr "Name=Täräzäne Tasmadan Torğız"
 
-#: kwin/eventsrc:3702
+#: kwin/eventsrc:3739
 msgid "Comment=A window is shaded down"
 msgstr "Comment=Täräzä tasmadan torğızıldı"
 
-#: kwin/eventsrc:3770
+#: kwin/eventsrc:3808
 msgid "Name=Window Minimize"
 msgstr "Name=Täräzäne Törep quy"
 
-#: kwin/eventsrc:3841
+#: kwin/eventsrc:3880
 msgid "Comment=A window is minimized"
 msgstr "Comment=Täräzä törep quyıldı"
 
-#: kwin/eventsrc:3912
+#: kwin/eventsrc:3952
 msgid "Name=Window Unminimize"
 msgstr "Name=Täräzäne Torğız"
 
-#: kwin/eventsrc:3980
+#: kwin/eventsrc:4021
 msgid "Comment=A Window is restored"
 msgstr "Comment=Täräzä torğızıldı"
 
-#: kwin/eventsrc:4050
+#: kwin/eventsrc:4092
 msgid "Name=Window Maximize"
 msgstr "Name=Täräzäne Cäyep quy"
 
-#: kwin/eventsrc:4130
+#: kwin/eventsrc:4172
 msgid "Comment=A window is maximized"
 msgstr "Comment=Täräzä cäyelep quyıldı"
 
-#: kwin/eventsrc:4201
+#: kwin/eventsrc:4244
 msgid "Name=Window Unmaximize"
 msgstr "Name=Täräzä Ülçämen Torğız"
 
-#: kwin/eventsrc:4278
+#: kwin/eventsrc:4321
 msgid "Comment=A window loses maximization"
 msgstr "Comment=Cäyelgän täräzä ülçämen torğızu"
 
-#: kwin/eventsrc:4348
+#: kwin/eventsrc:4392
 msgid "Name=Window On All Desktops"
 msgstr "Name=Täräzäne Bar Öställärgä"
 
-#: kwin/eventsrc:4416
+#: kwin/eventsrc:4461
 msgid "Comment=A window is made visible on all desktops"
 msgstr "Comment=Täräzäne bar öställärdä dä kürenerlek itü"
 
-#: kwin/eventsrc:4484
+#: kwin/eventsrc:4529
 msgid "Name=Window Not On All Desktops"
 msgstr "Name=Täräzäne Bar Öställärgä tügel"
 
-#: kwin/eventsrc:4552
+#: kwin/eventsrc:4598
 msgid "Comment=A Window is no longer visible on all desktops"
 msgstr "Comment=Täräzäne bar öställärdä dä kürenerlek itmäw"
 
-#: kwin/eventsrc:4620
+#: kwin/eventsrc:4666
 msgid "Name=New Dialog"
 msgstr "Name=Yaña Dialog"
 
-#: kwin/eventsrc:4699
+#: kwin/eventsrc:4745
 msgid "Comment=Transient window (a dialog) appears"
 msgstr "Comment=Waqıtlı täräzä çığaru"
 
-#: kwin/eventsrc:4767
+#: kwin/eventsrc:4814
 msgid "Name=Delete Dialog"
 msgstr "Name=Beter Dialognı"
 
-#: kwin/eventsrc:4846
+#: kwin/eventsrc:4893
 msgid "Comment=Transient window (a dialog) is removed"
 msgstr "Comment=Waqıtlı täräzä beterelde"
 
-#: kwin/eventsrc:4914
+#: kwin/eventsrc:4962
 msgid "Name=Window Move Start"
 msgstr "Name=Täräzä Küçerü Başlaw"
 
-#: kwin/eventsrc:4991
+#: kwin/eventsrc:5039
 msgid "Comment=A window has begun moving"
 msgstr "Comment=Täräzä küçerelä başladı"
 
-#: kwin/eventsrc:5058
+#: kwin/eventsrc:5107
 msgid "Name=Window Move End"
 msgstr "Name=Täräzä Küçerü Tuqtatu"
 
-#: kwin/eventsrc:5135
+#: kwin/eventsrc:5184
 msgid "Comment=A window has completed its moving"
 msgstr "Comment=Täräzä küçerü tuqtaldı"
 
-#: kwin/eventsrc:5202
+#: kwin/eventsrc:5252
 msgid "Name=Window Resize Start"
 msgstr "Name=Täräzä Ülçämen Üzgärtü Başlaw"
 
-#: kwin/eventsrc:5278
+#: kwin/eventsrc:5328
 msgid "Comment=A window has begun resizing"
 msgstr "Comment=Täräzä ülçämen üzgärtü başlandı"
 
-#: kwin/eventsrc:5344
+#: kwin/eventsrc:5395
 msgid "Name=Window Resize End"
 msgstr "Name=Täräzä Ülçämen Üzgärtü Tuqtatu"
 
-#: kwin/eventsrc:5420
+#: kwin/eventsrc:5471
 msgid "Comment=A window has finished resizing"
 msgstr "Comment=Täräzä ülçämen üzgärtü tuqtadı"
 
-#: kwin/eventsrc:5486
+#: kwin/eventsrc:5538
 msgid "Name=Window On Current Desktop Demands Attention"
 msgstr "Name=Bu Östäldäge Täräzä İğtibar Birü Sorí"
 
-#: kwin/eventsrc:5544
+#: kwin/eventsrc:5597
 msgid "Comment=A window on the current virtual desktop demands attention"
 msgstr "Comment=Biredäge östäldä bulğan täräzä iğtibar birüne sorí"
 
-#: kwin/eventsrc:5603
+#: kwin/eventsrc:5657
 msgid "Name=Window On Other Desktop Demands Attention"
 msgstr "Name=Başqa Östäldäge Täräzä İğtibar Birü Sorí"
 
-#: kwin/eventsrc:5660
+#: kwin/eventsrc:5715
 msgid "Comment=A window on an inactive virtual desktop demands attention"
 msgstr "Comment=Başqa östäldä bulğan täräzä iğtibar birüne sorí"
 
@@ -7106,11 +7106,11 @@ msgstr "Comment=Başqa östäldä bulğan täräzä iğtibar birüne sorí"
 msgid "Name=Window Decorations"
 msgstr "Name=Täräzä Bizäge"
 
-#: kwin/kcmkwin/kwindecoration/kwindecoration.desktop:87
+#: kwin/kcmkwin/kwindecoration/kwindecoration.desktop:88
 msgid "Comment=Configure the look and feel of window titles"
 msgstr "Comment=Täräzä başlığınıñ küreneşen caylaw"
 
-#: kwin/kcmkwin/kwindecoration/kwindecoration.desktop:160
+#: kwin/kcmkwin/kwindecoration/kwindecoration.desktop:162
 msgid ""
 "Keywords=kwin,window,manager,border,style,theme,look,feel,layout,button,handle,"
 "edge,kwm,decoration"
@@ -7122,11 +7122,11 @@ msgstr ""
 msgid "Name=Actions"
 msgstr "Name=Ğämällär"
 
-#: kwin/kcmkwin/kwinoptions/kwinactions.desktop:89
+#: kwin/kcmkwin/kwinoptions/kwinactions.desktop:90
 msgid "Comment=Configure keyboard and mouse settings"
 msgstr "Comment=Töylek belän küse eşläwen caylaw"
 
-#: kwin/kcmkwin/kwinoptions/kwinactions.desktop:163
+#: kwin/kcmkwin/kwinoptions/kwinactions.desktop:165
 msgid ""
 "Keywords=shade,maximise,maximize,minimize,minimise,lower,operations "
 "menu,titlebar,resize"
@@ -7142,7 +7142,7 @@ msgstr "Name=Kiñäytep"
 msgid "Comment=Configure advanced window management features"
 msgstr "Comment=Täräzä idäräçeneñ östämä çaraların caylaw"
 
-#: kwin/kcmkwin/kwinoptions/kwinadvanced.desktop:164
+#: kwin/kcmkwin/kwinoptions/kwinadvanced.desktop:165
 msgid "Keywords=shading,border,hover,active borders"
 msgstr "Keywords=shading,border,hover,active borders"
 
@@ -7150,11 +7150,11 @@ msgstr "Keywords=shading,border,hover,active borders"
 msgid "Name=Focus"
 msgstr "Name=Eş Üzäge"
 
-#: kwin/kcmkwin/kwinoptions/kwinfocus.desktop:80
+#: kwin/kcmkwin/kwinoptions/kwinfocus.desktop:81
 msgid "Comment=Configure the window focus policy"
 msgstr "Comment=Täräzä terelätü tärtiben caylaw"
 
-#: kwin/kcmkwin/kwinoptions/kwinfocus.desktop:154
+#: kwin/kcmkwin/kwinoptions/kwinfocus.desktop:156
 msgid ""
 "Keywords=focus,placement,auto raise,raise,click raise,keyboard,CDE,alt-tab,all "
 "desktop"
@@ -7166,11 +7166,11 @@ msgstr ""
 msgid "Name=Moving"
 msgstr "Name=Küçerü"
 
-#: kwin/kcmkwin/kwinoptions/kwinmoving.desktop:88
+#: kwin/kcmkwin/kwinoptions/kwinmoving.desktop:89
 msgid "Comment=Configure the way that windows are moved"
 msgstr "Comment=Täräzä küçerü ısulın caylaw"
 
-#: kwin/kcmkwin/kwinoptions/kwinmoving.desktop:162
+#: kwin/kcmkwin/kwinoptions/kwinmoving.desktop:164
 msgid "Keywords=moving,smart,cascade,maximize,maximise,snap zone,snap,border"
 msgstr "Keywords=moving,smart,cascade,maximize,maximise,snap zone,snap,border"
 
@@ -7178,11 +7178,11 @@ msgstr "Keywords=moving,smart,cascade,maximize,maximise,snap zone,snap,border"
 msgid "Name=Window Behavior"
 msgstr "Name=Täräzä Çağılışı"
 
-#: kwin/kcmkwin/kwinoptions/kwinoptions.desktop:90
+#: kwin/kcmkwin/kwinoptions/kwinoptions.desktop:91
 msgid "Comment=Configure the window behavior"
 msgstr "Comment=Täräzä çağılışın caylaw"
 
-#: kwin/kcmkwin/kwinoptions/kwinoptions.desktop:158
+#: kwin/kcmkwin/kwinoptions/kwinoptions.desktop:160
 msgid ""
 "Keywords=focus,placement,window behavior,animation,raise,auto "
 "raise,windows,frame,titlebar,doubleclick"
@@ -7194,11 +7194,11 @@ msgstr ""
 msgid "Name=Translucency"
 msgstr "Name=Ütäkürenü"
 
-#: kwin/kcmkwin/kwinoptions/kwintranslucency.desktop:76
+#: kwin/kcmkwin/kwinoptions/kwintranslucency.desktop:77
 msgid "Comment=Configure window translucency and shadow management"
 msgstr "Comment=Täräzä ütäkürenüe belän külägäsen caylaw"
 
-#: kwin/kcmkwin/kwinoptions/kwintranslucency.desktop:138
+#: kwin/kcmkwin/kwinoptions/kwintranslucency.desktop:139
 msgid "Keywords=translucency,transparence,shadows"
 msgstr "Keywords=translucency,transparence,shadows"
 
@@ -7206,11 +7206,11 @@ msgstr "Keywords=translucency,transparence,shadows"
 msgid "Name=Window-Specific Settings"
 msgstr "Name=Täräzägä-Bäyle Caylawlar"
 
-#: kwin/kcmkwin/kwinrules/kwinrules.desktop:76
+#: kwin/kcmkwin/kwinrules/kwinrules.desktop:77
 msgid "Comment=Configure settings specifically for a window"
 msgstr "Comment=Täräzä öçen ayırım caylawlar"
 
-#: kwin/kcmkwin/kwinrules/kwinrules.desktop:142
+#: kwin/kcmkwin/kwinrules/kwinrules.desktop:144
 msgid ""
 "Keywords=size,position,state,window "
 "behavior,windows,specific,workarounds,remember,rules"
@@ -7236,11 +7236,11 @@ msgstr ""
 msgid "Name=Keyboard Layout"
 msgstr "Name=Töylek Caylawı"
 
-#: kxkb/keyboard_layout.desktop:91
+#: kxkb/keyboard_layout.desktop:92
 msgid "Comment=Keyboard Layout"
 msgstr "Comment=Töylek Caylawı"
 
-#: kxkb/keyboard_layout.desktop:166
+#: kxkb/keyboard_layout.desktop:168
 msgid "Keywords=Keyboard,Layout,International"
 msgstr "Keywords=Töylek,Caylaw,Telläşterü,İlläşterü"
 
