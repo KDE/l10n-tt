@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-02-20 00:53+0000\n"
+"POT-Creation-Date: 2008-02-21 00:43+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -6619,7 +6619,7 @@ msgstr "Comment=Yaña Screen-Sessi"
 msgid "Name=Shell"
 msgstr "Name=Qabıq"
 
-#: konsole/other/shell.desktop:64
+#: konsole/other/shell.desktop:65
 msgid "Comment=New Shell"
 msgstr "Comment=Yaña Qabıq"
 
@@ -6627,7 +6627,7 @@ msgstr "Comment=Yaña Qabıq"
 msgid "Name=Root Shell"
 msgstr "Name=Root Qabığı"
 
-#: konsole/other/su.desktop:61
+#: konsole/other/su.desktop:62
 msgid "Comment=New Root Shell"
 msgstr "Comment=Yaña Root Qabığı"
 
@@ -6635,7 +6635,7 @@ msgstr "Comment=Yaña Root Qabığı"
 msgid "Name=Root Midnight Commander"
 msgstr "Name=Root Midnight Commander"
 
-#: konsole/other/sumc.desktop:65
+#: konsole/other/sumc.desktop:66
 msgid "Comment=New Root Midnight Commander"
 msgstr "Comment=Yaña Midnight Commander (root ısulı)"
 
