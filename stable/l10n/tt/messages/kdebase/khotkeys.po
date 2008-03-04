@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase khotkeys\n"
-"POT-Creation-Date: 2007-12-14 01:14+0100\n"
+"POT-Creation-Date: 2008-03-04 01:40+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -611,8 +611,8 @@ msgstr "Törkemgä Östä"
 msgid "Ignore Group"
 msgstr "Törkemgä Qaramasqa"
 
-#: kcontrol/condition_list_widget.cpp:343
-#: kcontrol/condition_list_widget.cpp:366
+#: kcontrol/condition_list_widget.cpp:347
+#: kcontrol/condition_list_widget.cpp:370
 #: kcontrol/windowdef_list_widget.cpp:216
 msgid "Window Details"
 msgstr "Täräzä Turında"
