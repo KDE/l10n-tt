@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase khotkeys\n"
-"POT-Creation-Date: 2008-03-04 01:40+0100\n"
+"POT-Creation-Date: 2008-03-05 01:18+0100\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -611,8 +611,8 @@ msgstr "Törkemgä Östä"
 msgid "Ignore Group"
 msgstr "Törkemgä Qaramasqa"
 
-#: kcontrol/condition_list_widget.cpp:347
-#: kcontrol/condition_list_widget.cpp:370
+#: kcontrol/condition_list_widget.cpp:351
+#: kcontrol/condition_list_widget.cpp:374
 #: kcontrol/windowdef_list_widget.cpp:216
 msgid "Window Details"
 msgstr "Täräzä Turında"
@@ -829,7 +829,7 @@ msgstr "Täräzä Açtırğıçı..."
 msgid "Voice Trigger..."
 msgstr "Çaptırma Qabızğıçı..."
 
-#: kcontrol/triggers_tab.cpp:222
+#: kcontrol/triggers_tab.cpp:226
 msgid "Select keyboard shortcut:"
 msgstr "Töylek cptırmasın saylaw:"
 
