@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2008-03-21 01:21+0100\n"
+"POT-Creation-Date: 2008-04-02 01:35+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -866,9 +866,9 @@ msgstr "&Turında"
 msgid "Untitled"
 msgstr "Atalmadı"
 
-#: common_texts.cpp:67 kdecore/kapplication.cpp:1387
-#: kdecore/kapplication.cpp:2215 kdecore/kapplication.cpp:2250
-#: kdecore/kapplication.cpp:2521 kdecore/kapplication.cpp:2543
+#: common_texts.cpp:67 kdecore/kapplication.cpp:1414
+#: kdecore/kapplication.cpp:2242 kdecore/kapplication.cpp:2277
+#: kdecore/kapplication.cpp:2548 kdecore/kapplication.cpp:2570
 #: kdecore/kdebug.cpp:295 kdeui/kdialogbase.cpp:908 kdeui/kstdguiitem.cpp:99
 msgid "&OK"
 msgstr "&OK"
@@ -2748,7 +2748,7 @@ msgid ""
 "and Arabic) to get proper widget layout."
 msgstr "LTR"
 
-#: kdecore/kapplication.cpp:1374
+#: kdecore/kapplication.cpp:1401
 msgid ""
 "There was an error setting up inter-process communications for KDE. The message "
 "returned by the system was:\n"
@@ -2758,7 +2758,7 @@ msgstr ""
 "bondí:\n"
 "\n"
 
-#: kdecore/kapplication.cpp:1378
+#: kdecore/kapplication.cpp:1405
 msgid ""
 "\n"
 "\n"
@@ -2768,23 +2768,23 @@ msgstr ""
 "\n"
 "\"dcopserver\" yazılımı cibärelgän dip tamğala zinhar!"
 
-#: kdecore/kapplication.cpp:1385
+#: kdecore/kapplication.cpp:1412
 msgid "DCOP communications error (%1)"
 msgstr "DCOP totaşılu xatası (%1)"
 
-#: kdecore/kapplication.cpp:1403
+#: kdecore/kapplication.cpp:1430
 msgid "Use the X-server display 'displayname'"
 msgstr "X-serverneñ 'displayname' digän küräk qullanası"
 
-#: kdecore/kapplication.cpp:1405
+#: kdecore/kapplication.cpp:1432
 msgid "Use the QWS display 'displayname'"
 msgstr "QWS'nıñ 'displayname' kürägen qullanası"
 
-#: kdecore/kapplication.cpp:1407
+#: kdecore/kapplication.cpp:1434
 msgid "Restore the application for the given 'sessionId'"
 msgstr "Yazılımnı 'sessionId' buyınça tözätäse"
 
-#: kdecore/kapplication.cpp:1408
+#: kdecore/kapplication.cpp:1435
 msgid ""
 "Causes the application to install a private color\n"
 "map on an 8-bit display"
@@ -2792,7 +2792,7 @@ msgstr ""
 "8-bit küräk qullanılğan çaqta yazılım\n"
 "üz töslär caylawın quyaçaq"
 
-#: kdecore/kapplication.cpp:1409
+#: kdecore/kapplication.cpp:1436
 msgid ""
 "Limits the number of colors allocated in the color\n"
 "cube on an 8-bit display, if the application is\n"
@@ -2803,11 +2803,11 @@ msgstr ""
 "Bu yazılım QApplication::ManyColor ısulın \n"
 "qullansa ğına bu köylämä eşläyäçäk."
 
-#: kdecore/kapplication.cpp:1410
+#: kdecore/kapplication.cpp:1437
 msgid "tells Qt to never grab the mouse or the keyboard"
 msgstr "Qt'ğa küse belän töylekne berqayçan da sözmäskä di"
 
-#: kdecore/kapplication.cpp:1411
+#: kdecore/kapplication.cpp:1438
 msgid ""
 "running under a debugger can cause an implicit\n"
 "-nograb, use -dograb to override"
@@ -2815,15 +2815,15 @@ msgstr ""
 "betçedä cibärelgän çaqta anıqsız itep -nograb\n"
 "ısulı qullanıla, anı almaştıru öçen -dograb östise"
 
-#: kdecore/kapplication.cpp:1412
+#: kdecore/kapplication.cpp:1439
 msgid "switches to synchronous mode for debugging"
 msgstr "betsezläw öçen sinxron ısulın aça"
 
-#: kdecore/kapplication.cpp:1414
+#: kdecore/kapplication.cpp:1441
 msgid "defines the application font"
 msgstr "bu yazılım yazuın bilgeli"
 
-#: kdecore/kapplication.cpp:1416
+#: kdecore/kapplication.cpp:1443
 msgid ""
 "sets the default background color and an\n"
 "application palette (light and dark shades are\n"
@@ -2833,23 +2833,23 @@ msgstr ""
 "köyläwen bilgeli (yaqtı belän qaranğı külägälär\n"
 "sanalaçaq)"
 
-#: kdecore/kapplication.cpp:1418
+#: kdecore/kapplication.cpp:1445
 msgid "sets the default foreground color"
 msgstr "alyaq öçen töp tös bilgeli"
 
-#: kdecore/kapplication.cpp:1420
+#: kdecore/kapplication.cpp:1447
 msgid "sets the default button color"
 msgstr "töymä öçen töp tös bilgeli"
 
-#: kdecore/kapplication.cpp:1421
+#: kdecore/kapplication.cpp:1448
 msgid "sets the application name"
 msgstr "yazılım adın bilgeli"
 
-#: kdecore/kapplication.cpp:1422
+#: kdecore/kapplication.cpp:1449
 msgid "sets the application title (caption)"
 msgstr "yazılım başlığın bilgeli"
 
-#: kdecore/kapplication.cpp:1424
+#: kdecore/kapplication.cpp:1451
 msgid ""
 "forces the application to use a TrueColor visual on\n"
 "an 8-bit display"
@@ -2857,7 +2857,7 @@ msgstr ""
 "bu yazılımğa 8-bit küräk belän tulıtösle belän kebek\n"
 "eşlärgä quşa"
 
-#: kdecore/kapplication.cpp:1425
+#: kdecore/kapplication.cpp:1452
 msgid ""
 "sets XIM (X Input Method) input style. Possible\n"
 "values are onthespot, overthespot, offthespot and\n"
@@ -2866,77 +2866,77 @@ msgstr ""
 "XIM (X Input Method) kertü ısulın bilgeli. Qullanırlıq\n"
 "bäyälär: onthespot, overthespot, offthespot, root"
 
-#: kdecore/kapplication.cpp:1426
+#: kdecore/kapplication.cpp:1453
 msgid "set XIM server"
 msgstr "XIM server bilgeli"
 
-#: kdecore/kapplication.cpp:1427
+#: kdecore/kapplication.cpp:1454
 msgid "disable XIM"
 msgstr "XIM sünderü"
 
-#: kdecore/kapplication.cpp:1430
+#: kdecore/kapplication.cpp:1457
 msgid "forces the application to run as QWS Server"
 msgstr "yazılımğa QWS Server itep eşlärgä quşa"
 
-#: kdecore/kapplication.cpp:1432
+#: kdecore/kapplication.cpp:1459
 msgid "mirrors the whole layout of widgets"
 msgstr "widgetlärneñ urınlaşuın közgeli"
 
-#: kdecore/kapplication.cpp:1438
+#: kdecore/kapplication.cpp:1465
 msgid "Use 'caption' as name in the titlebar"
 msgstr "Bu başlıq adı itep 'caption' qullanası"
 
-#: kdecore/kapplication.cpp:1439
+#: kdecore/kapplication.cpp:1466
 msgid "Use 'icon' as the application icon"
 msgstr "Bu yazılım tamğası itep 'icon' qullanası"
 
-#: kdecore/kapplication.cpp:1440
+#: kdecore/kapplication.cpp:1467
 msgid "Use 'icon' as the icon in the titlebar"
 msgstr "Bu başlıq tamğası itep 'icon' qullanası"
 
-#: kdecore/kapplication.cpp:1441
+#: kdecore/kapplication.cpp:1468
 msgid "Use alternative configuration file"
 msgstr "Caylawnıñ almaştırma birem qullanası"
 
-#: kdecore/kapplication.cpp:1442
+#: kdecore/kapplication.cpp:1469
 msgid "Use the DCOP Server specified by 'server'"
 msgstr "'server' digän DCOP Server qullanası"
 
-#: kdecore/kapplication.cpp:1443
+#: kdecore/kapplication.cpp:1470
 msgid "Disable crash handler, to get core dumps"
 msgstr "Cimerelü totqıçın sünderep, core dump alası"
 
-#: kdecore/kapplication.cpp:1444
+#: kdecore/kapplication.cpp:1471
 msgid "Waits for a WM_NET compatible windowmanager"
 msgstr "WM_NET belän kileşkän täräzä-citäkçe kötäse"
 
-#: kdecore/kapplication.cpp:1445
+#: kdecore/kapplication.cpp:1472
 msgid "sets the application GUI style"
 msgstr "bu yazılımğa Sızımlı Yözara quya"
 
-#: kdecore/kapplication.cpp:1446
+#: kdecore/kapplication.cpp:1473
 msgid ""
 "sets the client geometry of the main widget - see man X for the argument format"
 msgstr ""
 "töp täräzäneñ urınlaşuı belän ülçämen bilgeli – ul köylämä tözeleşe turında man "
 "X qarísı"
 
-#: kdecore/kapplication.cpp:1486
+#: kdecore/kapplication.cpp:1513
 msgid ""
 "The style %1 was not found\n"
 msgstr ""
 "%1 digän bizäleş tabılmadı\n"
 
-#: kdecore/kapplication.cpp:1948 kstyles/klegacy/klegacystyle.cpp:3044
+#: kdecore/kapplication.cpp:1975 kstyles/klegacy/klegacystyle.cpp:3044
 #: kstyles/web/webstyle.cpp:1604
 msgid "modified"
 msgstr "üzgärelde"
 
-#: kdecore/kapplication.cpp:2214 kdecore/kapplication.cpp:2249
+#: kdecore/kapplication.cpp:2241 kdecore/kapplication.cpp:2276
 msgid "Could not Launch Help Center"
 msgstr "Yärdäm Üzägen Cibärep Bulmadı"
 
-#: kdecore/kapplication.cpp:2215 kdecore/kapplication.cpp:2250
+#: kdecore/kapplication.cpp:2242 kdecore/kapplication.cpp:2277
 #, c-format
 msgid ""
 "Could not launch the KDE Help Center:\n"
@@ -2947,11 +2947,11 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdecore/kapplication.cpp:2520
+#: kdecore/kapplication.cpp:2547
 msgid "Could not Launch Mail Client"
 msgstr "Xat Klienten Cibärep Bulmadı"
 
-#: kdecore/kapplication.cpp:2521
+#: kdecore/kapplication.cpp:2548
 #, c-format
 msgid ""
 "Could not launch the mail client:\n"
@@ -2962,11 +2962,11 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdecore/kapplication.cpp:2542
+#: kdecore/kapplication.cpp:2569
 msgid "Could not Launch Browser"
 msgstr "Gizgeç Cibärep Bulmadı"
 
-#: kdecore/kapplication.cpp:2543
+#: kdecore/kapplication.cpp:2570
 #, c-format
 msgid ""
 "Could not launch the browser:\n"
@@ -2977,13 +2977,13 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdecore/kapplication.cpp:2607
+#: kdecore/kapplication.cpp:2634
 msgid ""
 "Could not register with DCOP.\n"
 msgstr ""
 "DCOP belän terkäp bulmadı.\n"
 
-#: kdecore/kapplication.cpp:2642
+#: kdecore/kapplication.cpp:2669
 msgid ""
 "KLauncher could not be reached via DCOP.\n"
 msgstr ""
