@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs kdelibs\n"
-"POT-Creation-Date: 2008-04-02 01:35+0200\n"
+"POT-Creation-Date: 2008-04-16 01:20+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -9279,39 +9279,39 @@ msgstr "Çığart"
 msgid "Filter error"
 msgstr "Sözgeç xatası"
 
-#: kwallet/backend/kwalletbackend.cc:252
+#: kwallet/backend/kwalletbackend.cc:258
 msgid "Already open."
 msgstr "Açıq inde."
 
-#: kwallet/backend/kwalletbackend.cc:254
+#: kwallet/backend/kwalletbackend.cc:260
 msgid "Error opening file."
 msgstr "Birem açqanda qata"
 
-#: kwallet/backend/kwalletbackend.cc:256
+#: kwallet/backend/kwalletbackend.cc:262
 msgid "Not a wallet file."
 msgstr "Qalta bireme tügel."
 
-#: kwallet/backend/kwalletbackend.cc:258
+#: kwallet/backend/kwalletbackend.cc:264
 msgid "Unsupported file format revision."
 msgstr "Birem töre totılmağan söremdä."
 
-#: kwallet/backend/kwalletbackend.cc:260
+#: kwallet/backend/kwalletbackend.cc:266
 msgid "Unknown encryption scheme."
 msgstr "Serläw tözeleşe bilgesez."
 
-#: kwallet/backend/kwalletbackend.cc:262
+#: kwallet/backend/kwalletbackend.cc:268
 msgid "Corrupt file?"
 msgstr "Birem bizıqmı?"
 
-#: kwallet/backend/kwalletbackend.cc:264
+#: kwallet/backend/kwalletbackend.cc:270
 msgid "Error validating wallet integrity. Possibly corrupted."
 msgstr "Qalta tulılığın tikşerü xatası. Bozıq buluı bar."
 
-#: kwallet/backend/kwalletbackend.cc:268
+#: kwallet/backend/kwalletbackend.cc:274
 msgid "Read error - possibly incorrect password."
 msgstr "Uqu xatası - sersüzneñ yalğış buluı bar."
 
-#: kwallet/backend/kwalletbackend.cc:270
+#: kwallet/backend/kwalletbackend.cc:276
 msgid "Decryption error."
 msgstr "Serläw çişü xatası."
 
