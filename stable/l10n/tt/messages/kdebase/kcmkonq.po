@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmkonq\n"
-"POT-Creation-Date: 2006-09-24 02:35+0200\n"
+"POT-Creation-Date: 2008-06-08 01:37+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -198,7 +198,7 @@ msgstr "%1 östäl östen bonda atap bula"
 msgid "Mouse wheel over desktop background switches desktop"
 msgstr "Östälneñ artyağında küse tägärmäçen äyländeregändä östäl almaşına"
 
-#: desktop.cpp:248
+#: desktop.cpp:155
 #, c-format
 msgid "Desktop %1"
 msgstr "%1 Östäl"

@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase konqueror\n"
-"POT-Creation-Date: 2007-10-05 01:13+0200\n"
+"POT-Creation-Date: 2008-06-08 01:38+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -2704,11 +2704,11 @@ msgstr "Yaña Törgäk Yasa"
 msgid "Enter folder name:"
 msgstr "Törgäk adın kert:"
 
-#: sidebar/sidebar_widget.cpp:114
+#: sidebar/sidebar_widget.cpp:116
 msgid "Rollback to System Default"
 msgstr "Sistem Caylawına Qaytu"
 
-#: sidebar/sidebar_widget.cpp:120
+#: sidebar/sidebar_widget.cpp:122
 msgid ""
 "<qt>This removes all your entries from the sidebar and adds the system default "
 "ones.<BR><B>This procedure is irreversible</B><BR>Do you want to proceed?</qt>"
@@ -2718,55 +2718,55 @@ msgstr ""
 "<br/><b>Ul eşlänsä, anı kire alıp bulmí inde</b>"
 "<br/>Çınlap ta şulay eşliseme?</qt>"
 
-#: sidebar/sidebar_widget.cpp:275
+#: sidebar/sidebar_widget.cpp:277
 msgid "Add New"
 msgstr "Yañasın Östä"
 
-#: sidebar/sidebar_widget.cpp:277
+#: sidebar/sidebar_widget.cpp:278
 msgid "Multiple Views"
 msgstr "Küp Küreneş"
 
-#: sidebar/sidebar_widget.cpp:278
+#: sidebar/sidebar_widget.cpp:279
 msgid "Show Tabs Left"
 msgstr "Tabaqlarnı Sulda Kürsätäse"
 
-#: sidebar/sidebar_widget.cpp:279
+#: sidebar/sidebar_widget.cpp:280
 msgid "Show Configuration Button"
 msgstr "Caylaw Töymäsen Kürsätäse"
 
-#: sidebar/sidebar_widget.cpp:282
+#: sidebar/sidebar_widget.cpp:283
 msgid "Close Navigation Panel"
 msgstr "Küçü Tiräsen Yap"
 
-#: sidebar/sidebar_widget.cpp:334
+#: sidebar/sidebar_widget.cpp:346
 msgid "This entry already exists."
 msgstr "Andí kerem bar inde."
 
-#: sidebar/sidebar_widget.cpp:348 sidebar/web_module/web_module.cpp:210
+#: sidebar/sidebar_widget.cpp:360 sidebar/web_module/web_module.cpp:210
 msgid "Web SideBar Plugin"
 msgstr "Web Yantirä Quşılması"
 
-#: sidebar/sidebar_widget.cpp:494
+#: sidebar/sidebar_widget.cpp:506
 msgid "Enter a URL:"
 msgstr "URL'ın kert:"
 
-#: sidebar/sidebar_widget.cpp:502
+#: sidebar/sidebar_widget.cpp:514
 msgid "<qt><b>%1</b> does not exist</qt>"
 msgstr "<qt><b>%1</b> digäne barlıqta yuq</qt>"
 
-#: sidebar/sidebar_widget.cpp:519
+#: sidebar/sidebar_widget.cpp:531
 msgid "<qt>Do you really want to remove the <b>%1</b> tab?</qt>"
 msgstr "<qt><b>%1</b> tabağın çınlap ta beteräseme?</qt>"
 
-#: sidebar/sidebar_widget.cpp:534
+#: sidebar/sidebar_widget.cpp:546
 msgid "Set Name"
 msgstr "İsem Quşu"
 
-#: sidebar/sidebar_widget.cpp:534
+#: sidebar/sidebar_widget.cpp:546
 msgid "Enter the name:"
 msgstr "İsemen kert:"
 
-#: sidebar/sidebar_widget.cpp:622
+#: sidebar/sidebar_widget.cpp:634
 msgid ""
 "You have hidden the navigation panel configuration button. To make it visible "
 "again, click the right mouse button on any of the navigation panel buttons and "
@@ -2776,27 +2776,27 @@ msgstr ""
 "tirädäge berär töymäsenä uñ-çirtep, \"Caylaw Töymäsen Kürsätäse\" digänne "
 "saylísı."
 
-#: sidebar/sidebar_widget.cpp:713
+#: sidebar/sidebar_widget.cpp:733
 msgid "Configure Sidebar"
 msgstr "Yantirä Caylaw"
 
-#: sidebar/sidebar_widget.cpp:838
+#: sidebar/sidebar_widget.cpp:858
 msgid "Set Name..."
 msgstr "İsem Quşu..."
 
-#: sidebar/sidebar_widget.cpp:839
+#: sidebar/sidebar_widget.cpp:859
 msgid "Set URL..."
 msgstr "URL Quşu..."
 
-#: sidebar/sidebar_widget.cpp:840
+#: sidebar/sidebar_widget.cpp:860
 msgid "Set Icon..."
 msgstr "Tamğa Quşu..."
 
-#: sidebar/sidebar_widget.cpp:844
+#: sidebar/sidebar_widget.cpp:864
 msgid "Configure Navigation Panel"
 msgstr "Küçü Tiräsen Caylaw"
 
-#: sidebar/sidebar_widget.cpp:905
+#: sidebar/sidebar_widget.cpp:928
 msgid "Unknown"
 msgstr "Bilgesez"
 
