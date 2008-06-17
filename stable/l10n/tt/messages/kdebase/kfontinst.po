@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kfontinst\n"
-"POT-Creation-Date: 2006-04-20 03:55+0200\n"
+"POT-Creation-Date: 2008-06-16 02:37+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -335,26 +335,26 @@ msgstr "Awırlıq"
 msgid "Slant"
 msgstr "İelgän"
 
-#: kio/KioFonts.cpp:912 kio/KioFonts.cpp:2378
+#: kio/KioFonts.cpp:905 kio/KioFonts.cpp:2371
 msgid "Please specify \"%1\" or \"%2\"."
 msgstr "Zínhar \"%1\" yä ki \"%2\" bilgelä."
 
-#: kio/KioFonts.cpp:1108 kio/KioFonts.cpp:1160 kio/KioFonts.cpp:1175
-#: kio/KioFonts.cpp:1400 kio/KioFonts.cpp:1605 kio/KioFonts.cpp:1666
+#: kio/KioFonts.cpp:1101 kio/KioFonts.cpp:1153 kio/KioFonts.cpp:1168
+#: kio/KioFonts.cpp:1393 kio/KioFonts.cpp:1598 kio/KioFonts.cpp:1659
 msgid "Could not access \"%1\" folder."
 msgstr "\"%1\" törgägenä ireşep bulmadı."
 
-#: kio/KioFonts.cpp:1522
+#: kio/KioFonts.cpp:1515
 msgid "Sorry, fonts cannot be renamed."
 msgstr "Ğafu, şriftlarğa yaña isem birep bulmadı."
 
-#: kio/KioFonts.cpp:1927
+#: kio/KioFonts.cpp:1920
 msgid ""
 "Incorrect password.\n"
 msgstr ""
 "Yaraqsız sersüz.\n"
 
-#: kio/KioFonts.cpp:1970
+#: kio/KioFonts.cpp:1963
 msgid ""
 "Do you wish to install the font into \"%1\" (in which case the font will only "
 "be usable by you), or \"%2\" (the font will be usable by all users - but you "
@@ -363,19 +363,19 @@ msgstr ""
 "Şriftnı \"%1\" eçenä (şrift siña ğına yaraqlı bulır) yä ki \"%2\"gä (şrift bar "
 "kemgä dä yaraqlı bulır läkin sin idäräçe sersüzen belü kiräk) quyasımı?"
 
-#: kio/KioFonts.cpp:1975
+#: kio/KioFonts.cpp:1968
 msgid "Where to Install"
 msgstr "Qayda Quyası"
 
-#: kio/KioFonts.cpp:2074
+#: kio/KioFonts.cpp:2067
 msgid "Internal fontconfig error."
 msgstr "Şrift köyläwneñ eçke xata."
 
-#: kio/KioFonts.cpp:2109
+#: kio/KioFonts.cpp:2102
 msgid "Could not access \"%1\"."
 msgstr "\"%1\" biremenä ireşep bulmadı."
 
-#: kio/KioFonts.cpp:2153
+#: kio/KioFonts.cpp:2146
 msgid ""
 "<p>Only fonts may be installed.</p>"
 "<p>If installing a fonts package (*%1), then extract the components, and "
@@ -385,7 +385,7 @@ msgstr ""
 "<p> (*%1)Şrift tuplamasın quyğanda, başta tuplama eçtäleklären çığarıp, "
 "beräm-beräm quyası.</p>"
 
-#: kio/KioFonts.cpp:2316
+#: kio/KioFonts.cpp:2309
 msgid ""
 "<p>This font is located in a file alongside other fonts; in order to proceed "
 "with the moving they will all have to be moved. The other affected fonts "
@@ -400,7 +400,7 @@ msgstr ""
 "<p>\n"
 " Barısın da küçeräseme?</p>"
 
-#: kio/KioFonts.cpp:2321
+#: kio/KioFonts.cpp:2314
 msgid ""
 "<p>This font is located in a file alongside other fonts; in order to proceed "
 "with the copying they will all have to be copied. The other affected fonts "
@@ -415,7 +415,7 @@ msgstr ""
 "<p>\n"
 " Barısın da kübäytäseme?</p>"
 
-#: kio/KioFonts.cpp:2325
+#: kio/KioFonts.cpp:2318
 msgid ""
 "<p>This font is located in a file alongside other fonts; in order to proceed "
 "with the deleting they will all have to be deleted. The other affected fonts "
@@ -430,7 +430,7 @@ msgstr ""
 "<p>\n"
 " Barısın da taşlísımı?</p>"
 
-#: kio/KioFonts.cpp:2398
+#: kio/KioFonts.cpp:2391
 msgid ""
 "Sorry, you cannot rename, move, copy, or delete either \"%1\" or \"%2\"."
 msgstr ""
