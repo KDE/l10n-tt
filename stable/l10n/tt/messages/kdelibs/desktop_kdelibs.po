@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-06-22 23:31+0000\n"
+"POT-Creation-Date: 2008-06-29 23:57+0000\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: arts/kde/mcop-dcop/kmcop.desktop:4
+#: arts/kde/mcop-dcop/kmcop.desktop:3
 msgid "Name=KMCOP"
 msgstr "Name=KMCOP"
 
-#: arts/kde/mcop-dcop/kmcop.desktop:8
+#: arts/kde/mcop-dcop/kmcop.desktop:7
 msgid "Comment=KDE MCOP-DCOP Bridge"
 msgstr "Comment=KDE MCOP-DCOP Küpere"
 
-#: arts/knotify/knotify.desktop:4
+#: arts/knotify/knotify.desktop:3
 msgid "Name=KNotify"
 msgstr "Name=KNotify"
 
-#: arts/knotify/knotify.desktop:31
+#: arts/knotify/knotify.desktop:30
 msgid "Comment=KDE Notification Daemon"
 msgstr "Comment=KDE'nıñ Kisätü Xezmäte"
 
-#: interfaces/kimproxy/interface/dcopinstantmessenger.desktop:5
+#: interfaces/kimproxy/interface/dcopinstantmessenger.desktop:4
 msgid "Comment=Instant Messenger with a DCOP interface"
 msgstr "Comment=DCOP protokolı belän Aşığıç Xäbärçe"
 
@@ -42,20 +42,20 @@ msgstr ""
 "Comment=Bu aşığıç xäbärçe aşa keşe-törkemnär arasında ike-yaqlı aralaşu "
 "mömkinlegen birä."
 
-#: interfaces/kscript/sample/shellscript.desktop:3
+#: interfaces/kscript/sample/shellscript.desktop:2
 msgid "Name=Bash Shell Script Runner"
 msgstr "Name=Qabıqnıñ Bash Ämerlek Cibärgeçe"
 
-#: interfaces/kscript/sample/shellscript.desktop:78
+#: interfaces/kscript/sample/shellscript.desktop:77
 msgid "Comment=Runs bash shell scripts from inside the application."
 msgstr "Comment=Yazılım eçennän bash ämerleklär cibärä."
 
-#: interfaces/kscript/scriptinterface.desktop:5
+#: interfaces/kscript/scriptinterface.desktop:4
 msgid ""
 "Comment=This is a generic test script engine for testing the script interface."
 msgstr "Comment=Ämeklek yözarasın tikşerü öçen sınaw qoralı bu."
 
-#: interfaces/kspeech/dcoptexttospeech.desktop:5
+#: interfaces/kspeech/dcoptexttospeech.desktop:4
 msgid "Comment=Text-to-Speech Service with a DCOP interface"
 msgstr "Comment=DCOP protokolı aşa eşläwçe Mäten-Uquçı Xezmät"
 
@@ -72,121 +72,121 @@ msgstr ""
 "Comment=Mäten üzgärtü xezmäte törle yazılımnarnı mäten kürsätkeçe/üzgärtkeçe "
 "belän tä'min itä. Mäten üzgärtüçe KDE-yazılımnar bu xezmätne qullanırğa tieş."
 
-#: interfaces/ktexteditor/ktexteditor.desktop:6
+#: interfaces/ktexteditor/ktexteditor.desktop:5
 msgid "Comment=Embeddable Text Editor Component (with Doc/View Separation)"
 msgstr ""
 "Comment=Mäten Üzgärtüçe Quşılma-Komponent (İstälek/Küreneş ayıru belän)"
 
-#: interfaces/ktexteditor/ktexteditoreditor.desktop:6
+#: interfaces/ktexteditor/ktexteditoreditor.desktop:5
 msgid "Comment=Embeddable Text Editor Component (without Doc/View Separation)"
 msgstr ""
 "Comment=Mäten Üzgärtüçe Quşılma-Komponent (İstälek/Küreneş ayıru belän tügel)"
 
-#: interfaces/ktexteditor/ktexteditorplugin.desktop:6
+#: interfaces/ktexteditor/ktexteditorplugin.desktop:5
 msgid "Comment=KTextEditor Plugin"
 msgstr "Comment=KTextEditor Östämäse"
 
-#: kabc/formats/binary.desktop:3
+#: kabc/formats/binary.desktop:2
 msgid "Name=Binary"
 msgstr "Name=Binar"
 
-#: kabc/kab2kabc.desktop:4
+#: kabc/kab2kabc.desktop:3
 msgid "Name=kab2kabc"
 msgstr "Name=kab2kabc"
 
-#: kabc/kab2kabc.desktop:22
+#: kabc/kab2kabc.desktop:21
 msgid "Comment=libkab to libkabc conversion tool."
 msgstr "Comment=libkab-›libkabc äyländerü qoralı."
 
-#: kabc/kabc_manager.desktop:4
+#: kabc/kabc_manager.desktop:3
 msgid "Name=Contacts"
 msgstr "Name=Elemtälär"
 
-#: kabc/plugins/dir/dir.desktop:3
+#: kabc/plugins/dir/dir.desktop:2
 msgid "Name=Directory"
 msgstr "Name=Törgäk"
 
-#: kabc/plugins/evolution/evolution.desktop:3
+#: kabc/plugins/evolution/evolution.desktop:2
 msgid "Name=Evolution"
 msgstr "Name=Üseş"
 
-#: kabc/plugins/file/file.desktop:3
+#: kabc/plugins/file/file.desktop:2
 msgid "Name=File"
 msgstr "Name=Birem"
 
-#: kabc/plugins/ldapkio/ldapkio.desktop:3
+#: kabc/plugins/ldapkio/ldapkio.desktop:2
 msgid "Name=LDAP"
 msgstr "Name=LDAP"
 
-#: kabc/plugins/net/net.desktop:3
+#: kabc/plugins/net/net.desktop:2
 msgid "Name=Network"
 msgstr "Name=Çeltär"
 
-#: kabc/plugins/sql/sql.desktop:3
+#: kabc/plugins/sql/sql.desktop:2
 msgid "Name=SQL"
 msgstr "Name=SQL"
 
-#: kate/data/katepart.desktop:3
+#: kate/data/katepart.desktop:2
 msgid "Name=Embedded Advanced Text Editor"
 msgstr "Name=Mäten öçen Quşılma-Üzgärtkeç"
 
-#: kate/plugins/autobookmarker/ktexteditor_autobookmarker.desktop:3
+#: kate/plugins/autobookmarker/ktexteditor_autobookmarker.desktop:2
 msgid "Name=KTextEditor Autobookmarker"
 msgstr "Name=KTextEditor'nıñ Aqıllı Bitbilge"
 
-#: kate/plugins/autobookmarker/ktexteditor_autobookmarker.desktop:66
+#: kate/plugins/autobookmarker/ktexteditor_autobookmarker.desktop:65
 msgid ""
 "Comment=Set bookmarks on lines matching a pattern when documents are loaded"
 msgstr ""
 "Comment=İstälek açqan çaqta sözgeçkä kileşkän yullarına bitbilgelär quya"
 
-#: kate/plugins/insertfile/ktexteditor_insertfile.desktop:3
+#: kate/plugins/insertfile/ktexteditor_insertfile.desktop:2
 msgid "Name=KTextEditor Insert File Plugin"
 msgstr "Name=KTextEditor'nıñ Birem Tığu Quşılması"
 
-#: kate/plugins/insertfile/ktexteditor_insertfile.desktop:84
+#: kate/plugins/insertfile/ktexteditor_insertfile.desktop:83
 msgid "Comment=Insert any readable file at cursor position"
 msgstr "Comment=Kürsär urınına, uqıp bulğan birem eçtälegen tığıp östi"
 
-#: kate/plugins/isearch/ktexteditor_isearch.desktop:3
+#: kate/plugins/isearch/ktexteditor_isearch.desktop:2
 msgid "Name=KTextEditor Incremental Search Plugin"
 msgstr "Name=KTextEditor'nıñ Artıp Ezläw Quşılması"
 
-#: kate/plugins/isearch/ktexteditor_isearch.desktop:83
+#: kate/plugins/isearch/ktexteditor_isearch.desktop:82
 msgid "Comment=Also known as \"As you type search\""
 msgstr "Comment=Cıyılu belän beryulı ezli"
 
-#: kate/plugins/kdatatool/ktexteditor_kdatatool.desktop:3
+#: kate/plugins/kdatatool/ktexteditor_kdatatool.desktop:2
 msgid "Name=KTextEditor KDataTool Plugin"
 msgstr "Name=KTextEditor'nıñ Eşkärtü Quşılması"
 
-#: kate/plugins/kdatatool/ktexteditor_kdatatool.desktop:84
+#: kate/plugins/kdatatool/ktexteditor_kdatatool.desktop:83
 msgid "Comment=Enable data tools like thesaurus and spell check (if installed)"
 msgstr ""
 "Comment=Süznämä belän imla tikşerü kebek qorallar eşlätä (quyılğan bulsalar)"
 
-#: kate/plugins/wordcompletion/ktexteditor_docwordcompletion.desktop:3
+#: kate/plugins/wordcompletion/ktexteditor_docwordcompletion.desktop:2
 msgid "Name=KTextEditor Word Completion Plugin"
 msgstr "Name=KTextEditor'nıñ Süz Tulılandıru Östämäse"
 
-#: kate/plugins/wordcompletion/ktexteditor_docwordcompletion.desktop:71
+#: kate/plugins/wordcompletion/ktexteditor_docwordcompletion.desktop:70
 msgid ""
 "Comment=Directional or popup-based completion from words in the document"
 msgstr "Comment=İstälek süzlärenä azaqlarnı yözep çığarıp kürsätä torğan närsä"
 
-#: kate/scripts/jstest.desktop:3
+#: kate/scripts/jstest.desktop:2
 msgid "Name=Kate Part JavaScript Test"
 msgstr "Name=Kate Part JavaScript Sınaw"
 
-#: kate/scripts/jstest.desktop:59
+#: kate/scripts/jstest.desktop:58
 msgid "Comment=Script for testing kate part's scripting"
 msgstr "Comment=Kate Part'nıñ ämerleklären sınawçı qoral"
 
-#: kcert/kcertpart.desktop:4
+#: kcert/kcertpart.desktop:3
 msgid "Comment=Embeddable Personal Certificate Manager"
 msgstr "Comment=Şäxsi Tanıqlıqlar öçen Quşılma-İdäräçe"
 
-#: kcert/kcertpart.desktop:88
+#: kcert/kcertpart.desktop:87
 msgid "Name=KCertPart"
 msgstr "Name=KCertPart"
 
@@ -1052,15 +1052,15 @@ msgstr "Name=Soraw"
 msgid "Comment=A question is being asked"
 msgstr "Comment=Ber soraw birelde"
 
-#: kded/kdedmodule.desktop:5
+#: kded/kdedmodule.desktop:4
 msgid "Comment=KDED Module"
 msgstr "Comment=KDED Modulı"
 
-#: kded/test/test.desktop:12
+#: kded/test/test.desktop:11
 msgid "Name=KDED Test Module"
 msgstr "Name=KDED Sınaw Modulı"
 
-#: kded/test/test.desktop:93
+#: kded/test/test.desktop:92
 msgid "Comment=A Test Module for KDED"
 msgstr "Comment=KDED öçen Sınaw Modulı"
 
@@ -1193,11 +1193,11 @@ msgstr "Comment=Bit Saylaw/Täripläw Sözgeçe"
 msgid "Comment=Foomatic (CUPS, LPRng, PDQ)"
 msgstr "Comment=Foomatic (CUPS, LPRng, PDQ)"
 
-#: kdeprint/kdeprintd.desktop:12
+#: kdeprint/kdeprintd.desktop:11
 msgid "Name=KDE Print Daemon"
 msgstr "Name=KDE Bastıru Xezmäte"
 
-#: kdeprint/kdeprintd.desktop:94
+#: kdeprint/kdeprintd.desktop:93
 msgid "Comment=Print daemon for KDE"
 msgstr "Comment=KDE öçen bastıru xezmäte"
 
@@ -1273,39 +1273,39 @@ msgstr "Description=Biredäge istälekne fakslaw öçen ksendfax qullanu"
 msgid "Name=Advanced Faxing Tool (ksendfax)"
 msgstr "Name=Faks Cibärü Qoralı (ksendfax)"
 
-#: kdeprint/tools/escputil/escputil.desktop:3
+#: kdeprint/tools/escputil/escputil.desktop:2
 msgid "Name=EPSON InkJet"
 msgstr "Name=EPSON InkJet"
 
-#: kdeui/kdetrayproxy/kdetrayproxy.desktop:4
+#: kdeui/kdetrayproxy/kdetrayproxy.desktop:3
 msgid "Name=KDE Tray Proxy Module"
 msgstr "Name=KDE Tiräsenä Proxy Modulı"
 
-#: kdeui/kdetrayproxy/kdetrayproxy.desktop:67
+#: kdeui/kdetrayproxy/kdetrayproxy.desktop:66
 msgid "Comment=Proxy enabling KDE systray applications to work without KWin"
 msgstr "Comment=KWin'sız eşläwçe yazılımnar öçen KDE sistiräseneñ Proxy"
 
-#: khtml/java/kjavaappletviewer.desktop:3
+#: khtml/java/kjavaappletviewer.desktop:2
 msgid "Name=Embedded Java Applet Viewer"
 msgstr "Name=Java Applet öçen Quşılma-Kürsätkeç"
 
-#: khtml/khtml.desktop:4
+#: khtml/khtml.desktop:3
 msgid "Comment=Embeddable HTML viewing component"
 msgstr "Comment=HTML qaraw öçen quşılma komponent"
 
-#: khtml/khtml.desktop:89
+#: khtml/khtml.desktop:88
 msgid "Name=KHTML"
 msgstr "Name=KHTML"
 
-#: khtml/khtmlimage.desktop:4
+#: khtml/khtmlimage.desktop:3
 msgid "Comment=Embeddable Image Viewing Component"
 msgstr "Comment=Sürät Qaraw öçen Quşılma Komponent"
 
-#: khtml/khtmlimage.desktop:87
+#: khtml/khtmlimage.desktop:86
 msgid "Name=Embeddable Image Viewer"
 msgstr "Name=Sürät öçen Qusılma-Kürsätkeç"
 
-#: khtml/kmultipart/kmultipart.desktop:5
+#: khtml/kmultipart/kmultipart.desktop:4
 #, fuzzy
 msgid "Name=Embeddable Component for multipart/mixed"
 msgstr "Comment=Qıstırmalar öçen Quşılma Komponent"
@@ -1407,7 +1407,7 @@ msgstr "Name=X PixMap Süräte"
 msgid "Name=XView Image"
 msgstr "Name=XView Sürät"
 
-#: kio/application.desktop:5
+#: kio/application.desktop:4
 msgid "Name=Application"
 msgstr "Name=Yazılım"
 
@@ -1415,47 +1415,47 @@ msgstr "Name=Yazılım"
 msgid "Description=A kioslave for data URIs (rfc2397)"
 msgstr "Description=Biremle URI öçen kioslave (rfc2397)"
 
-#: kio/kcmodule.desktop:5
+#: kio/kcmodule.desktop:4
 msgid "Name=KDE Control Module"
 msgstr "Name=KDE İdärä Modulı"
 
-#: kio/kcomprfilter.desktop:5
+#: kio/kcomprfilter.desktop:4
 msgid "Name=KDE Compression Filter"
 msgstr "Name=KDE'nıñ Qısu Sözgeçe"
 
-#: kio/kdatatool.desktop:5
+#: kio/kdatatool.desktop:4
 msgid "Comment=KDE Data Tool"
 msgstr "Comment=KDE'nıñ Eşkärtü Qoralı"
 
-#: kio/kfile/kpropsdlgplugin.desktop:5
+#: kio/kfile/kpropsdlgplugin.desktop:4
 msgid "Comment=Plugin for the Properties Dialog"
 msgstr "Comment=Caylaw Dialogı öçen Östämä"
 
-#: kio/kfileplugin.desktop:5
+#: kio/kfileplugin.desktop:4
 msgid "Name=KFile Meta Data Plugin"
 msgstr "Name=KFile Meta-Bireme öçen Östämä"
 
-#: kio/kpasswdserver.desktop:4
+#: kio/kpasswdserver.desktop:3
 msgid "Name=KDED Password Module"
 msgstr "Name=KDED'nıñ Sersüz Modulı"
 
-#: kio/kpasswdserver.desktop:86
+#: kio/kpasswdserver.desktop:85
 msgid "Comment=Password caching support"
 msgstr "Comment=Sersüz alxäterläw totu"
 
-#: kio/kscan.desktop:5
+#: kio/kscan.desktop:4
 msgid "Name=KScan"
 msgstr "Name=KScan"
 
-#: kio/kurifilterplugin.desktop:5
+#: kio/kurifilterplugin.desktop:4
 msgid "Name=Enhanced Browsing Plugin"
 msgstr "Name=Kiñäytelgän Küsätü Östämäse"
 
-#: kio/misc/kio_uiserver.desktop:4
+#: kio/misc/kio_uiserver.desktop:3
 msgid "Name=kio_uiserver"
 msgstr "Name=kio_uiserver"
 
-#: kio/misc/kio_uiserver.desktop:17
+#: kio/misc/kio_uiserver.desktop:16
 msgid "Comment=KDE's Progress Info UI server"
 msgstr "Comment=KDE'nıñ Alğakiteşne Küzätü servere"
 
@@ -1487,27 +1487,27 @@ msgstr "Name=Ämerlek eçtälegen uqığanda xata çıqtı"
 msgid "Comment=There was an error executing the proxy configuration script"
 msgstr "Comment=Proxy caylaw ämerelegen eşlätkändä xata çıqtı"
 
-#: kio/misc/kpac/proxyscout.desktop:4
+#: kio/misc/kpac/proxyscout.desktop:3
 msgid "Name=Proxy Scout"
 msgstr "Name=Proxy Saqçısı"
 
-#: kio/misc/kpac/proxyscout.desktop:58
+#: kio/misc/kpac/proxyscout.desktop:57
 msgid "Comment=Automatic proxy configuration"
 msgstr "Comment=Proxy'nıñ üzzihenle caylanu"
 
-#: kio/misc/kssld/kssld.desktop:10
+#: kio/misc/kssld/kssld.desktop:9
 msgid "Name=KSSL Daemon Module"
 msgstr "Name=KSSL Xezmäteneñ Modulı"
 
-#: kio/misc/kssld/kssld.desktop:88
+#: kio/misc/kssld/kssld.desktop:87
 msgid "Comment=KSSL daemon module for KDED"
 msgstr "Comment=KDED öçen KSSL xezmät"
 
-#: kio/misc/kwalletd/kwalletd.desktop:10
+#: kio/misc/kwalletd/kwalletd.desktop:9
 msgid "Name=KWallet Daemon Module"
 msgstr "Name=KWallet Xezmäteneñ Modulı"
 
-#: kio/misc/kwalletd/kwalletd.desktop:83
+#: kio/misc/kwalletd/kwalletd.desktop:82
 msgid "Comment=KWallet daemon module for KDED"
 msgstr "Comment=KDED öçen KWallet xezmäteneñ modulı"
 
@@ -1515,59 +1515,59 @@ msgstr "Comment=KDED öçen KWallet xezmäteneñ modulı"
 msgid "Description=Microsoft Media Server Protocol"
 msgstr "Description=Microsoft Media Server Protokolı"
 
-#: kio/renamedlgplugin.desktop:5
+#: kio/renamedlgplugin.desktop:4
 msgid "Comment=Plugin for the Rename Dialog"
 msgstr "Comment=İsem Quşu Dialogı öçen Östämä"
 
-#: kio/tests/dummymeta.desktop:4
+#: kio/tests/dummymeta.desktop:3
 msgid "Name=Dummy Meta"
 msgstr "Name=Dummy Meta"
 
-#: kioslave/bzip2/kbzip2filter.desktop:4
+#: kioslave/bzip2/kbzip2filter.desktop:3
 msgid "Name=BZip2 Filter"
 msgstr "Name=BZip2 Sözgeçe"
 
-#: kioslave/gzip/kgzipfilter.desktop:4
+#: kioslave/gzip/kgzipfilter.desktop:3
 msgid "Name=GZip Filter"
 msgstr "Name=GZip Sözgeçe"
 
-#: kioslave/http/http_cache_cleaner.desktop:4
+#: kioslave/http/http_cache_cleaner.desktop:3
 msgid "Name=HTTP Cache Cleaner"
 msgstr "Name=HTTP Alxäteren Buşatqıç"
 
-#: kioslave/http/http_cache_cleaner.desktop:87
+#: kioslave/http/http_cache_cleaner.desktop:86
 msgid "Comment=Cleans up old entries from the HTTP cache"
 msgstr "Comment=HTTP alxäterendä bulğan iske keremnär beterä"
 
-#: kioslave/http/kcookiejar/kcookiejar.desktop:4
+#: kioslave/http/kcookiejar/kcookiejar.desktop:3
 msgid "Name=KDED Cookie Jar Module"
 msgstr "Name=KDED'nıñ Cookie Modulı"
 
-#: kioslave/http/kcookiejar/kcookiejar.desktop:82
+#: kioslave/http/kcookiejar/kcookiejar.desktop:81
 msgid "Comment=Keeps track of all cookies in the system"
 msgstr "Comment=Sistemdäge bar cookie'larnı küz astında tota"
 
-#: kparts/browserview.desktop:6
+#: kparts/browserview.desktop:5
 msgid "Name=Browser View"
 msgstr "Name=Browser Küreneşe"
 
-#: kparts/kpart.desktop:5 kparts/krop.desktop:6 kparts/krwp.desktop:6
+#: kparts/kpart.desktop:4 kparts/krop.desktop:5 kparts/krwp.desktop:5
 msgid "Comment=KDE Component"
 msgstr "Comment=KDE Öleşe"
 
-#: kparts/tests/notepad.desktop:3
+#: kparts/tests/notepad.desktop:2
 msgid "Name=Notepad (example)"
 msgstr "Name=Däftär (ürnäk)"
 
-#: kresources/kresources.desktop:13
+#: kresources/kresources.desktop:12
 msgid "Name=KDE Resources"
 msgstr "Name=KDE Resursları"
 
-#: kresources/kresources.desktop:83
+#: kresources/kresources.desktop:82
 msgid "Comment=Configure KDE Resources"
 msgstr "Comment=KDE Resursların Caylaw"
 
-#: kresources/kresources.desktop:154
+#: kresources/kresources.desktop:153
 msgid ""
 "Keywords=resources,konnector resource,contact resource,calendar resource,notes "
 "resource,imap"
@@ -1575,27 +1575,27 @@ msgstr ""
 "Keywords=resources,konnector resource,contact resource,calendar resource,notes "
 "resource,imap"
 
-#: kresources/kresources_manager.desktop:5
+#: kresources/kresources_manager.desktop:4
 msgid "Comment=KResource Manager"
 msgstr "Comment=KResource İdäräçese"
 
-#: kresources/kresources_plugin.desktop:5
+#: kresources/kresources_plugin.desktop:4
 msgid "Comment=KResource Framework Plugin"
 msgstr "Comment=KResource Eşçara Östämäse"
 
-#: kspell2/kspellclient.desktop:6
+#: kspell2/kspellclient.desktop:5
 msgid "Comment=KSpell Client"
 msgstr "Comment=KSpell Kliente"
 
-#: kspell2/plugins/aspell/kspell_aspell.desktop:15
+#: kspell2/plugins/aspell/kspell_aspell.desktop:14
 msgid "Name=ASpell"
 msgstr "Name=ASpell"
 
-#: kspell2/plugins/hspell/kspell_hspell.desktop:15
+#: kspell2/plugins/hspell/kspell_hspell.desktop:14
 msgid "Name=HSpell"
 msgstr "Name=HSpell"
 
-#: kspell2/plugins/ispell/kspell_ispell.desktop:15
+#: kspell2/plugins/ispell/kspell_ispell.desktop:14
 msgid "Name=ISpell"
 msgstr "Name=ISpell"
 
@@ -1748,15 +1748,15 @@ msgstr "Name=Web-tışlaw"
 msgid "Comment=Web widget style"
 msgstr "Comment=Web widget tışlawı"
 
-#: kutils/kplugininfo.desktop:5
+#: kutils/kplugininfo.desktop:4
 msgid "Name=KDE Plugin Information"
 msgstr "Name=KDE Östämäse Turında"
 
-#: mimetypes/all.desktop:5
+#: mimetypes/all.desktop:4
 msgid "Comment=All Files and Folders"
 msgstr "Comment=Bar Biremnär belän Törgäklär"
 
-#: mimetypes/allfiles.desktop:5
+#: mimetypes/allfiles.desktop:4
 msgid "Comment=All Files"
 msgstr "Comment=Bar Biremnär"
 
@@ -1765,16 +1765,16 @@ msgstr "Comment=Bar Biremnär"
 msgid "Comment=HTML Help Document"
 msgstr "Comment=HTML İstälek"
 
-#: mimetypes/application/fits.desktop:5
+#: mimetypes/application/fits.desktop:4
 #, fuzzy
 msgid "Comment=FITS Data"
 msgstr "Comment=KDE'nıñ Eşkärtü Qoralı"
 
-#: mimetypes/application/illustrator.desktop:7
+#: mimetypes/application/illustrator.desktop:6
 msgid "Comment=Adobe Illustrator Document"
 msgstr "Comment=Adobe Illustrator İstälege"
 
-#: mimetypes/application/java.desktop:6 mimetypes/application/x-java.desktop:7
+#: mimetypes/application/java.desktop:5 mimetypes/application/x-java.desktop:6
 msgid "Comment=Java Class"
 msgstr "Comment=Java Sıynıf"
 
@@ -1782,132 +1782,132 @@ msgstr "Comment=Java Sıynıf"
 msgid "Comment=MathML Document"
 msgstr "Comment=MathML İstälege"
 
-#: mimetypes/application/mbox.desktop:6
+#: mimetypes/application/mbox.desktop:5
 #, fuzzy
 msgid "Comment=MBOX Mail Folder"
 msgstr "Comment=Törgäk"
 
-#: mimetypes/application/msexcel.desktop:8
-#: mimetypes/application/vnd.ms-excel.desktop:6
+#: mimetypes/application/msexcel.desktop:7
+#: mimetypes/application/vnd.ms-excel.desktop:5
 msgid "Comment=Microsoft Excel Spreadsheet"
 msgstr "Comment=Microsoft Excel İsäpcäymäse"
 
-#: mimetypes/application/mspowerpoint.desktop:8
-#: mimetypes/application/vnd.ms-powerpoint.desktop:6
+#: mimetypes/application/mspowerpoint.desktop:7
+#: mimetypes/application/vnd.ms-powerpoint.desktop:5
 msgid "Comment=Microsoft PowerPoint Presentation"
 msgstr "Comment=Microsoft PowerPoint Täqbire"
 
-#: mimetypes/application/msword.desktop:9
-#: mimetypes/application/vnd.ms-word.desktop:6
+#: mimetypes/application/msword.desktop:8
+#: mimetypes/application/vnd.ms-word.desktop:5
 msgid "Comment=Microsoft Word Document"
 msgstr "Comment=Microsoft Word İstälege"
 
-#: mimetypes/application/octet-stream.desktop:5
+#: mimetypes/application/octet-stream.desktop:4
 msgid "Comment=Unknown"
 msgstr "Comment=Bilgesez"
 
-#: mimetypes/application/ogg.desktop:10 mimetypes/application/x-ogg.desktop:9
+#: mimetypes/application/ogg.desktop:9 mimetypes/application/x-ogg.desktop:8
 msgid "Comment=Ogg Multimedia"
 msgstr "Comment=Ogg Multimedia"
 
-#: mimetypes/application/pdf.desktop:8
+#: mimetypes/application/pdf.desktop:7
 msgid "Comment=PDF Document"
 msgstr "Comment=PDF İstälek"
 
-#: mimetypes/application/pgp-encrypted.desktop:7
+#: mimetypes/application/pgp-encrypted.desktop:6
 msgid "Comment=PGP/MIME Encrypted Message Header"
 msgstr "Comment=PGP/MIME belän Serlängän Xäbär Başlığı"
 
-#: mimetypes/application/pgp-keys.desktop:7
+#: mimetypes/application/pgp-keys.desktop:6
 msgid "Comment=OpenPGP Key Bundle"
 msgstr "Comment=OpenPGP Açqıç Bäyläme"
 
-#: mimetypes/application/pgp-signature.desktop:6
+#: mimetypes/application/pgp-signature.desktop:5
 msgid "Comment=Detached OpenPGP Signature"
 msgstr "Comment=Ayırılğan OpenPGP-İmza"
 
-#: mimetypes/application/pgp.desktop:6
+#: mimetypes/application/pgp.desktop:5
 msgid "Comment=PGP Encrypted or Signed Message"
 msgstr "Comment=PGP belän Serlängän yä İmzalanğan Xäbär"
 
-#: mimetypes/application/pkcs10.desktop:7
+#: mimetypes/application/pkcs10.desktop:6
 msgid "Comment=S/MIME Certification Request"
 msgstr "Comment=S/MIME Tanıqlıq Soraw"
 
-#: mimetypes/application/pkcs7-mime.desktop:7
+#: mimetypes/application/pkcs7-mime.desktop:6
 msgid "Comment=PKCS#7 (S/MIME) Formatted Data"
 msgstr "Comment=PKCS#7 (S/MIME) Qalıplı Birem"
 
-#: mimetypes/application/pkcs7-signature.desktop:7
+#: mimetypes/application/pkcs7-signature.desktop:6
 msgid "Comment=Detached S/MIME Signature"
 msgstr "Comment=Ayırılğan S/MIME-İmza"
 
-#: mimetypes/application/postscript.desktop:8
+#: mimetypes/application/postscript.desktop:7
 msgid "Comment=PostScript Document"
 msgstr "Comment=PostScript İstälek"
 
-#: mimetypes/application/relaxng.desktop:3
+#: mimetypes/application/relaxng.desktop:2
 msgid "Comment=RELAX NG"
 msgstr "Comment=RELAX NG"
 
-#: mimetypes/application/sieve.desktop:6
+#: mimetypes/application/sieve.desktop:5
 msgid "Comment=SIEVE Mail Filter Script"
 msgstr "Comment=Xäbär Sözüçe SIEVE-Ämerlek"
 
-#: mimetypes/application/smil.desktop:7
+#: mimetypes/application/smil.desktop:6
 msgid "Comment=Synchronized Multimedia Integration Language"
 msgstr "Comment=Synchronized Multimedia Integration Language"
 
-#: mimetypes/application/vnd.mozilla.xul+xml.desktop:8
+#: mimetypes/application/vnd.mozilla.xul+xml.desktop:7
 msgid "Comment=Mozilla XUL File"
 msgstr "Comment=Mozilla XUL Bireme"
 
-#: mimetypes/application/vnd.ms-asf.desktop:6
-#: mimetypes/video/x-ms-asf.desktop:8
+#: mimetypes/application/vnd.ms-asf.desktop:5
+#: mimetypes/video/x-ms-asf.desktop:7
 msgid "Comment=ASF Media"
 msgstr "Comment=ASF Media"
 
-#: mimetypes/application/vnd.oasis.opendocument.chart.desktop:7
+#: mimetypes/application/vnd.oasis.opendocument.chart.desktop:6
 msgid "Comment=OASIS OpenDocument Chart"
 msgstr "Comment=OASIS OpenDocument Grafiğı"
 
-#: mimetypes/application/vnd.oasis.opendocument.formula.desktop:7
+#: mimetypes/application/vnd.oasis.opendocument.formula.desktop:6
 msgid "Comment=OASIS OpenDocument Formula"
 msgstr "Comment=OASIS OpenDocument Formulı"
 
-#: mimetypes/application/vnd.oasis.opendocument.graphics-template.desktop:7
+#: mimetypes/application/vnd.oasis.opendocument.graphics-template.desktop:6
 msgid "Comment=OASIS OpenDocument Graphics Template"
 msgstr "Comment=OASIS OpenDocument Sızımı öçen Ürçetmä"
 
-#: mimetypes/application/vnd.oasis.opendocument.graphics.desktop:7
+#: mimetypes/application/vnd.oasis.opendocument.graphics.desktop:6
 msgid "Comment=OASIS OpenDocument Graphics"
 msgstr "Comment=OASIS OpenDocument Sızımı"
 
-#: mimetypes/application/vnd.oasis.opendocument.image.desktop:7
+#: mimetypes/application/vnd.oasis.opendocument.image.desktop:6
 msgid "Comment=OASIS OpenDocument Image"
 msgstr "Comment=OASIS OpenDocument Süräte"
 
-#: mimetypes/application/vnd.oasis.opendocument.presentation-template.desktop:7
+#: mimetypes/application/vnd.oasis.opendocument.presentation-template.desktop:6
 msgid "Comment=OASIS OpenDocument Presentation Template"
 msgstr "Comment=OASIS OpenDocument Täqbir Ürçetmäse"
 
-#: mimetypes/application/vnd.oasis.opendocument.presentation.desktop:7
+#: mimetypes/application/vnd.oasis.opendocument.presentation.desktop:6
 msgid "Comment=OASIS OpenDocument Presentation"
 msgstr "Comment=OASIS OpenDocument Täqbire"
 
-#: mimetypes/application/vnd.oasis.opendocument.spreadsheet-template.desktop:7
+#: mimetypes/application/vnd.oasis.opendocument.spreadsheet-template.desktop:6
 msgid "Comment=OASIS OpenDocument SpreadSheet Template"
 msgstr "Comment=OASIS OpenDocument İsäpcäymä Ürçetmäse"
 
-#: mimetypes/application/vnd.oasis.opendocument.spreadsheet.desktop:7
+#: mimetypes/application/vnd.oasis.opendocument.spreadsheet.desktop:6
 msgid "Comment=OASIS OpenDocument SpreadSheet"
 msgstr "Comment=OASIS OpenDocument İsäpcäymäse"
 
-#: mimetypes/application/vnd.oasis.opendocument.text-template.desktop:7
+#: mimetypes/application/vnd.oasis.opendocument.text-template.desktop:6
 msgid "Comment=OASIS OpenDocument Text Template"
 msgstr "Comment=OASIS OpenDocument Mäten Üzçetmäse"
 
-#: mimetypes/application/vnd.oasis.opendocument.text.desktop:7
+#: mimetypes/application/vnd.oasis.opendocument.text.desktop:6
 msgid "Comment=OASIS OpenDocument Text"
 msgstr "Comment=OASIS OpenDocument Mätene"
 
@@ -1915,159 +1915,159 @@ msgstr "Comment=OASIS OpenDocument Mätene"
 msgid "Comment=Palm Document"
 msgstr "Comment=Palm İstälege"
 
-#: mimetypes/application/vnd.rn-realmedia.desktop:7
+#: mimetypes/application/vnd.rn-realmedia.desktop:6
 msgid "Comment=RealMedia File"
 msgstr "Comment=RealMedia Bireme"
 
-#: mimetypes/application/vnd.stardivision.calc.desktop:7
+#: mimetypes/application/vnd.stardivision.calc.desktop:6
 msgid "Comment=StarOffice Calc Spreadsheet"
 msgstr "Comment=StarOffice Calc İsäpcäymäse"
 
-#: mimetypes/application/vnd.stardivision.chart.desktop:7
+#: mimetypes/application/vnd.stardivision.chart.desktop:6
 msgid "Comment=StarOffice Chart"
 msgstr "Comment=StarOffice Grafiğı"
 
-#: mimetypes/application/vnd.stardivision.draw.desktop:7
+#: mimetypes/application/vnd.stardivision.draw.desktop:6
 msgid "Comment=StarOffice Drawing"
 msgstr "Comment=StarOffice Sızımı"
 
-#: mimetypes/application/vnd.stardivision.impress.desktop:7
+#: mimetypes/application/vnd.stardivision.impress.desktop:6
 msgid "Comment=StarOffice Impress Presentation"
 msgstr "Comment=StarOffice Impress Täqbire"
 
-#: mimetypes/application/vnd.stardivision.math.desktop:7
+#: mimetypes/application/vnd.stardivision.math.desktop:6
 msgid "Comment=StarOffice Math Document"
 msgstr "Comment=StarOffice Math İstälege"
 
-#: mimetypes/application/vnd.stardivision.writer-global.desktop:7
+#: mimetypes/application/vnd.stardivision.writer-global.desktop:6
 msgid "Comment=StarOffice Writer Master Document"
 msgstr "Comment=StarOffice Writer'nıñ Master-İstälege"
 
-#: mimetypes/application/vnd.stardivision.writer.desktop:7
+#: mimetypes/application/vnd.stardivision.writer.desktop:6
 msgid "Comment=StarOffice Writer Document"
 msgstr "Comment=StarOffice Writer İstälege"
 
-#: mimetypes/application/vnd.sun.xml.base.desktop:3
+#: mimetypes/application/vnd.sun.xml.base.desktop:2
 msgid "Comment=OpenOffice.org Database"
 msgstr "Comment=OpenOffice.org Biremlege"
 
-#: mimetypes/application/vnd.sun.xml.calc.desktop:3
+#: mimetypes/application/vnd.sun.xml.calc.desktop:2
 msgid "Comment=OpenOffice.org Spreadsheet"
 msgstr "Comment=OpenOffice.org İsäpcäymäse"
 
-#: mimetypes/application/vnd.sun.xml.calc.template.desktop:3
+#: mimetypes/application/vnd.sun.xml.calc.template.desktop:2
 msgid "Comment=OpenOffice.org Spreadsheet Template"
 msgstr "Comment=OpenOffice.org İsäpcäymä Ürçetmäse"
 
-#: mimetypes/application/vnd.sun.xml.draw.desktop:3
+#: mimetypes/application/vnd.sun.xml.draw.desktop:2
 msgid "Comment=OpenOffice.org Drawing"
 msgstr "Comment=OpenOffice.org Sızımı"
 
-#: mimetypes/application/vnd.sun.xml.draw.template.desktop:3
+#: mimetypes/application/vnd.sun.xml.draw.template.desktop:2
 msgid "Comment=OpenOffice.org Drawing Template"
 msgstr "Comment=OpenOffice.org Sızımı öçen Ürçetmä"
 
-#: mimetypes/application/vnd.sun.xml.impress.desktop:3
+#: mimetypes/application/vnd.sun.xml.impress.desktop:2
 msgid "Comment=OpenOffice.org Presentation"
 msgstr "Comment=OpenOffice.org Täqbire"
 
-#: mimetypes/application/vnd.sun.xml.impress.template.desktop:3
+#: mimetypes/application/vnd.sun.xml.impress.template.desktop:2
 msgid "Comment=OpenOffice.org Presentation Template"
 msgstr "Comment=OpenOffice.org Täqbir Ürçetmäse"
 
-#: mimetypes/application/vnd.sun.xml.writer.desktop:3
+#: mimetypes/application/vnd.sun.xml.writer.desktop:2
 msgid "Comment=OpenOffice.org Text Document"
 msgstr "Comment=OpenOffice.org Mäten İstälege"
 
-#: mimetypes/application/vnd.sun.xml.writer.master.desktop:3
+#: mimetypes/application/vnd.sun.xml.writer.master.desktop:2
 msgid "Comment=OpenOffice.org Master Text Document"
 msgstr "Comment=OpenOffice.org'nıñ Master-İstälege"
 
-#: mimetypes/application/vnd.sun.xml.writer.template.desktop:3
+#: mimetypes/application/vnd.sun.xml.writer.template.desktop:2
 msgid "Comment=OpenOffice.org Text Document Template"
 msgstr "Comment=OpenOffice.org Mäten İstälege öçen Ürçetmä"
 
-#: mimetypes/application/wordperfect.desktop:7
+#: mimetypes/application/wordperfect.desktop:6
 msgid "Comment=WordPerfect Document"
 msgstr "Comment=WordPerfect İstälege"
 
-#: mimetypes/application/x-7z.desktop:7
+#: mimetypes/application/x-7z.desktop:6
 msgid "Comment=7-Zip Archive"
 msgstr "Comment=7-Zip Tuplama"
 
-#: mimetypes/application/x-abiword.desktop:5
+#: mimetypes/application/x-abiword.desktop:4
 msgid "Comment=AbiWord Document"
 msgstr "Comment=AbiWord İstälege"
 
-#: mimetypes/application/x-ace.desktop:7
+#: mimetypes/application/x-ace.desktop:6
 msgid "Comment=ACE Archive"
 msgstr "Comment=ACE Tuplama"
 
-#: mimetypes/application/x-afm.desktop:3
+#: mimetypes/application/x-afm.desktop:2
 msgid "Comment=PostScript Font Metrics"
 msgstr "Comment=PostScript Yazunıñ Ülçämnäre"
 
-#: mimetypes/application/x-amipro.desktop:7
+#: mimetypes/application/x-amipro.desktop:6
 msgid "Comment=Lotus AmiPro Document"
 msgstr "Comment=Lotus AmiPro İstälege"
 
-#: mimetypes/application/x-applixgraphics.desktop:7
+#: mimetypes/application/x-applixgraphics.desktop:6
 msgid "Comment=Applix Graphics Document"
 msgstr "Comment=Applix Sızma İstälege"
 
-#: mimetypes/application/x-applixspread.desktop:7
+#: mimetypes/application/x-applixspread.desktop:6
 msgid "Comment=Applix Spreadsheets Document"
 msgstr "Comment=Applix Spreadsheets İstälege"
 
-#: mimetypes/application/x-applixword.desktop:7
+#: mimetypes/application/x-applixword.desktop:6
 msgid "Comment=Applix Words Document"
 msgstr "Comment=Applix Words İstälege"
 
-#: mimetypes/application/x-arc.desktop:7
+#: mimetypes/application/x-arc.desktop:6
 msgid "Comment=ARC Archive"
 msgstr "Comment=ARC Tuplama"
 
-#: mimetypes/application/x-archive.desktop:4
+#: mimetypes/application/x-archive.desktop:3
 msgid "Comment=Ar Archive"
 msgstr "Comment=Ar Tuplama"
 
-#: mimetypes/application/x-arj.desktop:7
+#: mimetypes/application/x-arj.desktop:6
 msgid "Comment=ARJ Archive"
 msgstr "Comment=ARJ Tuplama"
 
-#: mimetypes/application/x-awk.desktop:3
+#: mimetypes/application/x-awk.desktop:2
 msgid "Comment=AWK Script"
 msgstr "Comment=AWK Ämerlege"
 
-#: mimetypes/application/x-bittorrent.desktop:3
+#: mimetypes/application/x-bittorrent.desktop:2
 msgid "Comment=BitTorrent Download"
 msgstr "Comment=BitTorrent İñdermäse"
 
-#: mimetypes/application/x-bz2dvi.desktop:3
+#: mimetypes/application/x-bz2dvi.desktop:2
 msgid "Comment=Bzip2 Compressed DVI File"
 msgstr "Comment=Bzip2'lı DVI Birem"
 
-#: mimetypes/application/x-bzip.desktop:4
+#: mimetypes/application/x-bzip.desktop:3
 msgid "Comment=Bzip File"
 msgstr "Comment=Bzip Bireme"
 
-#: mimetypes/application/x-bzip2.desktop:4
+#: mimetypes/application/x-bzip2.desktop:3
 msgid "Comment=Bzip2 File"
 msgstr "Comment=Bzip2 Bireme"
 
-#: mimetypes/application/x-cda.desktop:4
+#: mimetypes/application/x-cda.desktop:3
 msgid "Comment=CD Audio"
 msgstr "Comment=CD Tawış"
 
-#: mimetypes/application/x-compress.desktop:7
+#: mimetypes/application/x-compress.desktop:6
 msgid "Comment=UNIX Compressed File"
 msgstr "Comment=UNIX'nın Qısılğan Bireme"
 
-#: mimetypes/application/x-core.desktop:7
+#: mimetypes/application/x-core.desktop:6
 msgid "Comment=Program Crash Data"
 msgstr "Comment=Yazılım İşelü turında Birem"
 
-#: mimetypes/application/x-cpio.desktop:7
+#: mimetypes/application/x-cpio.desktop:6
 msgid "Comment=CPIO Archive"
 msgstr "Comment=CPIO Tuplama"
 
@@ -2075,104 +2075,104 @@ msgstr "Comment=CPIO Tuplama"
 msgid "Comment=CDRWIN Cue-Sheet"
 msgstr "Comment=CDRWIN Cue-Cäymäse"
 
-#: mimetypes/application/x-dbase.desktop:7
+#: mimetypes/application/x-dbase.desktop:6
 msgid "Comment=dBASE Document"
 msgstr "Comment=dBASE İstälege"
 
-#: mimetypes/application/x-deb.desktop:7
-#: mimetypes/application/x-debian-package.desktop:8
+#: mimetypes/application/x-deb.desktop:6
+#: mimetypes/application/x-debian-package.desktop:7
 msgid "Comment=Debian Package"
 msgstr "Comment=Debian Tuplaması"
 
-#: mimetypes/application/x-designer.desktop:3
+#: mimetypes/application/x-designer.desktop:2
 msgid "Comment=Qt Designer File"
 msgstr "Comment=Qt Tözegeçeneñ Bireme"
 
-#: mimetypes/application/x-desktop.desktop:3
+#: mimetypes/application/x-desktop.desktop:2
 msgid "Comment=Desktop Config File"
 msgstr "Comment=Östäl Caylaw Bireme"
 
-#: mimetypes/application/x-dvi.desktop:3
+#: mimetypes/application/x-dvi.desktop:2
 msgid "Comment=TeX Device Independent File"
 msgstr "Comment=TeX Biteme"
 
-#: mimetypes/application/x-egon.desktop:7
+#: mimetypes/application/x-egon.desktop:6
 msgid "Comment=Egon Animator"
 msgstr "Comment=Egon Animator"
 
-#: mimetypes/application/x-executable-script.desktop:3
+#: mimetypes/application/x-executable-script.desktop:2
 msgid "Comment=Script (possibly executable)"
 msgstr "Comment=Ämerlek (eşçän buluı bar)"
 
-#: mimetypes/application/x-executable.desktop:3
+#: mimetypes/application/x-executable.desktop:2
 msgid "Comment=Executable File"
 msgstr "Comment=Eşçän Birem"
 
-#: mimetypes/application/x-font-bdf.desktop:7
+#: mimetypes/application/x-font-bdf.desktop:6
 msgid "Comment=BDF Bitmap Font"
 msgstr "Comment=BDF Bitmap Yazu"
 
-#: mimetypes/application/x-font-ghostscript.desktop:7
+#: mimetypes/application/x-font-ghostscript.desktop:6
 msgid "Comment=Ghostscript Font"
 msgstr "Comment=Ghostscript Yazuı"
 
-#: mimetypes/application/x-font-otf.desktop:3
+#: mimetypes/application/x-font-otf.desktop:2
 msgid "Comment=OpenType Font"
 msgstr "Comment=OpenType Yazu"
 
-#: mimetypes/application/x-font-pcf.desktop:7
+#: mimetypes/application/x-font-pcf.desktop:6
 msgid "Comment=PCF Bitmap Font"
 msgstr "Comment=PCF Bitmap Yazu"
 
-#: mimetypes/application/x-font-snf.desktop:7
+#: mimetypes/application/x-font-snf.desktop:6
 msgid "Comment=SNF Bitmap Font"
 msgstr "Comment=SNF Bitmap Yazu"
 
-#: mimetypes/application/x-font-speedo.desktop:7
+#: mimetypes/application/x-font-speedo.desktop:6
 msgid "Comment=Speedo Font"
 msgstr "Comment=Speedo Yazuı"
 
-#: mimetypes/application/x-font-ttc.desktop:3
+#: mimetypes/application/x-font-ttc.desktop:2
 msgid "Comment=TrueType Font Collection"
 msgstr "Comment=TrueType Yazu Tuplaması"
 
-#: mimetypes/application/x-font-ttf.desktop:3
+#: mimetypes/application/x-font-ttf.desktop:2
 msgid "Comment=TrueType Font"
 msgstr "Comment=TrueType Yazu"
 
-#: mimetypes/application/x-font-type1.desktop:7
+#: mimetypes/application/x-font-type1.desktop:6
 msgid "Comment=PostScript Type1 Font"
 msgstr "Comment=PostScript Yazu"
 
-#: mimetypes/application/x-gettext.desktop:3
+#: mimetypes/application/x-gettext.desktop:2
 msgid "Comment=GNU Gettext Message Catalog"
 msgstr "Comment=GNU Gettext Yazmalar Tuplaması"
 
-#: mimetypes/application/x-gnumeric.desktop:7
+#: mimetypes/application/x-gnumeric.desktop:6
 msgid "Comment=GNUmeric Spreadsheet"
 msgstr "Comment=GNUmeric İsäpcäymäse"
 
-#: mimetypes/application/x-graphite.desktop:8
+#: mimetypes/application/x-graphite.desktop:7
 msgid "Comment=Graphite Scientific Graph"
 msgstr "Comment=Graphite Scientific Sızımı"
 
-#: mimetypes/application/x-gzdvi.desktop:3
+#: mimetypes/application/x-gzdvi.desktop:2
 msgid "Comment=Gzip Compressed DVI File"
 msgstr "Comment=Gzip'le DVI Birem"
 
-#: mimetypes/application/x-gzip.desktop:4
+#: mimetypes/application/x-gzip.desktop:3
 msgid "Comment=Gzip File"
 msgstr "Comment=Gzip Bireme"
 
-#: mimetypes/application/x-gzpostscript.desktop:3
+#: mimetypes/application/x-gzpostscript.desktop:2
 msgid "Comment=Gzipped PostScript File"
 msgstr "Comment=Gzip'lı PostScript Birem"
 
-#: mimetypes/application/x-hancomword.desktop:7
+#: mimetypes/application/x-hancomword.desktop:6
 msgid "Comment=HancomWord Document"
 msgstr "Comment=HancomWord İstälege"
 
-#: mimetypes/application/x-ica.desktop:4
+#: mimetypes/application/x-ica.desktop:3
 msgid "Comment=Citrix ICA Client Configuration"
 msgstr "Comment=Citrix ICA Klient Caylawı"
 
@@ -2180,15 +2180,15 @@ msgstr "Comment=Citrix ICA Klient Caylawı"
 msgid "Comment=ISO9660 Image File"
 msgstr "Comment=ISO9660 Sürät Bireme"
 
-#: mimetypes/application/x-jar.desktop:7
+#: mimetypes/application/x-jar.desktop:6
 msgid "Comment=Java Archive"
 msgstr "Comment=Java Tuplaması"
 
-#: mimetypes/application/x-java-applet.desktop:4
+#: mimetypes/application/x-java-applet.desktop:3
 msgid "Comment=Java Applet"
 msgstr "Comment=Java Modulı"
 
-#: mimetypes/application/x-java-jnlp-file.desktop:4
+#: mimetypes/application/x-java-jnlp-file.desktop:3
 msgid "Comment=Java Web Start application"
 msgstr "Comment=Java Web Start yazılımı"
 
@@ -2201,27 +2201,27 @@ msgstr "Comment=JavaScript Bireme"
 msgid "Comment=Karbon14 Document"
 msgstr "Comment=Karbon14 İstälege"
 
-#: mimetypes/application/x-kchart.desktop:7
+#: mimetypes/application/x-kchart.desktop:6
 msgid "Comment=KChart Document"
 msgstr "Comment=KChart İstälege"
 
-#: mimetypes/application/x-kcsrc.desktop:7
+#: mimetypes/application/x-kcsrc.desktop:6
 msgid "Comment=KDE Color Theme"
 msgstr "Comment=KDE'nıñ Tösle Tışlaw"
 
-#: mimetypes/application/x-kde-wallet.desktop:5
+#: mimetypes/application/x-kde-wallet.desktop:4
 msgid "Comment=KDE Wallet File"
 msgstr "Comment=KDE Wallet Bireme"
 
-#: mimetypes/application/x-kformula.desktop:7
+#: mimetypes/application/x-kformula.desktop:6
 msgid "Comment=KFormula Document"
 msgstr "Comment=KFormula İstälege"
 
-#: mimetypes/application/x-kivio.desktop:8
+#: mimetypes/application/x-kivio.desktop:7
 msgid "Comment=Kivio Document"
 msgstr "Comment=Kivio İstälege"
 
-#: mimetypes/application/x-kontour.desktop:5
+#: mimetypes/application/x-kontour.desktop:4
 msgid "Comment=Kontour Document"
 msgstr "Comment=Kontour İstälegeDocument"
 
@@ -2229,60 +2229,60 @@ msgstr "Comment=Kontour İstälegeDocument"
 msgid "Comment=KPovModeler File"
 msgstr "Comment=KPovModeler Bireme"
 
-#: mimetypes/application/x-kpresenter.desktop:8
+#: mimetypes/application/x-kpresenter.desktop:7
 msgid "Comment=KPresenter Document"
 msgstr "Comment=KPresenter İstälege"
 
-#: mimetypes/application/x-krita.desktop:8
+#: mimetypes/application/x-krita.desktop:7
 msgid "Comment=Krita Document"
 msgstr "Comment=Krita İstälege"
 
-#: mimetypes/application/x-kspread.desktop:8
+#: mimetypes/application/x-kspread.desktop:7
 msgid "Comment=KSpread Document"
 msgstr "Comment=KSpread İstälege"
 
-#: mimetypes/application/x-kudesigner.desktop:5
+#: mimetypes/application/x-kudesigner.desktop:4
 msgid "Comment=Kugar Report Template"
 msgstr "Comment=Kugar Yomğağı öçen Ürçetmä"
 
-#: mimetypes/application/x-kugar.desktop:7
+#: mimetypes/application/x-kugar.desktop:6
 msgid "Comment=Kugar Data File"
 msgstr "Comment=Kugar Bireme"
 
-#: mimetypes/application/x-kword.desktop:8
+#: mimetypes/application/x-kword.desktop:7
 msgid "Comment=KWord Document"
 msgstr "Comment=KWord İstälege"
 
-#: mimetypes/application/x-lha.desktop:4
+#: mimetypes/application/x-lha.desktop:3
 msgid "Comment=Lha Archive"
 msgstr "Comment=Lha Tuplama"
 
-#: mimetypes/application/x-linguist.desktop:7
+#: mimetypes/application/x-linguist.desktop:6
 msgid "Comment=Qt Translation Source File"
 msgstr "Comment=Qt Tärcemä Çığanağınıñ Bireme"
 
-#: mimetypes/application/x-lyx.desktop:3
+#: mimetypes/application/x-lyx.desktop:2
 msgid "Comment=LyX Document"
 msgstr "Comment=LyX İstälege"
 
-#: mimetypes/application/x-lzop.desktop:7
+#: mimetypes/application/x-lzop.desktop:6
 msgid "Comment=Lzopped File"
 msgstr "Comment=Lzopped Bireme"
 
-#: mimetypes/application/x-magicpoint.desktop:7
+#: mimetypes/application/x-magicpoint.desktop:6
 msgid "Comment=MagicPoint Presentation"
 msgstr "Comment=MagicPoint Täqbire"
 
-#: mimetypes/application/x-mimearchive.desktop:7
+#: mimetypes/application/x-mimearchive.desktop:6
 msgid "Comment=Mime Encapsulated Web Archive"
 msgstr "Comment=Web beteneñ Mime-Tuplaması"
 
-#: mimetypes/application/x-mplayer2.desktop:9
+#: mimetypes/application/x-mplayer2.desktop:8
 #, fuzzy
 msgid "Comment=Microsoft Media Format"
 msgstr "Comment=Microsoft AVI Video"
 
-#: mimetypes/application/x-msaccess.desktop:7
+#: mimetypes/application/x-msaccess.desktop:6
 msgid "Comment=Microsoft Access Database"
 msgstr "Comment=Microsoft Access Biremlege"
 
@@ -2290,609 +2290,609 @@ msgstr "Comment=Microsoft Access Biremlege"
 msgid "Comment=Windows Executable"
 msgstr "Comment=Windows Yazılımı"
 
-#: mimetypes/application/x-mswrite.desktop:7
+#: mimetypes/application/x-mswrite.desktop:6
 msgid "Comment=Microsoft Write Document"
 msgstr "Comment=Microsoft Write İstälege"
 
-#: mimetypes/application/x-object.desktop:7
+#: mimetypes/application/x-object.desktop:6
 msgid "Comment=Object Code"
 msgstr "Comment=Cisem Kodı"
 
-#: mimetypes/application/x-pak.desktop:7
+#: mimetypes/application/x-pak.desktop:6
 msgid "Comment=PAK File Archive"
 msgstr "Comment=PAK Tuplama"
 
-#: mimetypes/application/x-perl-module.desktop:3
+#: mimetypes/application/x-perl-module.desktop:2
 msgid "Comment=Perl Module"
 msgstr "Comment=Perl Modulı"
 
-#: mimetypes/application/x-perl.desktop:3
+#: mimetypes/application/x-perl.desktop:2
 msgid "Comment=Perl Program"
 msgstr "Comment=Perl Yazılım"
 
-#: mimetypes/application/x-php.desktop:3
+#: mimetypes/application/x-php.desktop:2
 msgid "Comment=PHP Script"
 msgstr "Comment=PHP Ämerlek"
 
-#: mimetypes/application/x-pkcs12.desktop:7
+#: mimetypes/application/x-pkcs12.desktop:6
 msgid "Comment=PKCS#12 Certificate Bundle"
 msgstr "Comment=PKCS#12 Tanıqlıqlar Bäyläme"
 
-#: mimetypes/application/x-pw.desktop:4
+#: mimetypes/application/x-pw.desktop:3
 msgid "Comment=Pathetic Writer Document"
 msgstr "Comment=Pathetic Writer İstälege"
 
-#: mimetypes/application/x-python-bytecode.desktop:7
+#: mimetypes/application/x-python-bytecode.desktop:6
 msgid "Comment=Python Bytecode"
 msgstr "Comment=Python Bayt-kodı"
 
-#: mimetypes/application/x-python.desktop:3 mimetypes/text/x-python.desktop:3
+#: mimetypes/application/x-python.desktop:2 mimetypes/text/x-python.desktop:2
 msgid "Comment=Python Program"
 msgstr "Comment=Python Yazılım"
 
-#: mimetypes/application/x-quattropro.desktop:7
+#: mimetypes/application/x-quattropro.desktop:6
 msgid "Comment=Quattro Pro Document"
 msgstr "Comment=Quattro Pro İstälege"
 
-#: mimetypes/application/x-rar-compressed.desktop:7
-#: mimetypes/application/x-rar.desktop:7
+#: mimetypes/application/x-rar-compressed.desktop:6
+#: mimetypes/application/x-rar.desktop:6
 msgid "Comment=Rar Archive"
 msgstr "Comment=Rar Tuplama"
 
-#: mimetypes/application/x-rpm.desktop:7
+#: mimetypes/application/x-rpm.desktop:6
 msgid "Comment=RPM Package File"
 msgstr "Comment=RPM Tuplama Bireme"
 
-#: mimetypes/application/x-ruby.desktop:3
+#: mimetypes/application/x-ruby.desktop:2
 msgid "Comment=Ruby Program"
 msgstr "Comment=Ruby Yazılım"
 
-#: mimetypes/application/x-sharedlib.desktop:3
+#: mimetypes/application/x-sharedlib.desktop:2
 msgid "Comment=Shared Library"
 msgstr "Comment=Urtaqlanğan Tuplama"
 
-#: mimetypes/application/x-shellscript.desktop:3
+#: mimetypes/application/x-shellscript.desktop:2
 msgid "Comment=Shell Script"
 msgstr "Comment=Qabıq Ämerlege"
 
-#: mimetypes/application/x-shockwave-flash.desktop:7
+#: mimetypes/application/x-shockwave-flash.desktop:6
 msgid "Comment=Shockwave Flash Media"
 msgstr "Comment=Shockwave Flash Bireme"
 
-#: mimetypes/application/x-siag.desktop:4
+#: mimetypes/application/x-siag.desktop:3
 msgid "Comment=Siag Spreadsheet"
 msgstr "Comment=Siag İsäpcäymäse"
 
-#: mimetypes/application/x-sqlite2.desktop:7
+#: mimetypes/application/x-sqlite2.desktop:6
 #, fuzzy
 msgid "Comment=SQLite2 Database File"
 msgstr "Comment=Qt Tözegeçeneñ Bireme"
 
-#: mimetypes/application/x-sqlite3.desktop:7
+#: mimetypes/application/x-sqlite3.desktop:6
 #, fuzzy
 msgid "Comment=SQLite3 Database File"
 msgstr "Comment=Qt Tözegeçeneñ Bireme"
 
-#: mimetypes/application/x-tar.desktop:7
+#: mimetypes/application/x-tar.desktop:6
 msgid "Comment=Tar Archive"
 msgstr "Comment=Tar Tuplama"
 
-#: mimetypes/application/x-tarz.desktop:4
+#: mimetypes/application/x-tarz.desktop:3
 msgid "Comment=Compressed Tar Archive"
 msgstr "Comment=Qısqan Tar Tuplama"
 
-#: mimetypes/application/x-tbz.desktop:3
+#: mimetypes/application/x-tbz.desktop:2
 #, fuzzy
 msgid "Comment=Bzip2-ed Tar Archive"
 msgstr "Comment=Bzip'le Tar Tuplama"
 
-#: mimetypes/application/x-tex-gf.desktop:3
+#: mimetypes/application/x-tex-gf.desktop:2
 msgid "Comment=Generic Font"
 msgstr "Comment=Yazu Şäkele"
 
-#: mimetypes/application/x-tex-pk.desktop:3
+#: mimetypes/application/x-tex-pk.desktop:2
 msgid "Comment=Packed Font"
 msgstr "Comment=Qısqan Yazu"
 
-#: mimetypes/application/x-tgif.desktop:3
+#: mimetypes/application/x-tgif.desktop:2
 msgid "Comment=TGIF Document"
 msgstr "Comment=TGIF İstälege"
 
-#: mimetypes/application/x-tgz.desktop:7
+#: mimetypes/application/x-tgz.desktop:6
 msgid "Comment=Gzipped Tar Archive"
 msgstr "Comment=Gzip'le Tar Tuplama"
 
-#: mimetypes/application/x-trash.desktop:7
+#: mimetypes/application/x-trash.desktop:6
 msgid "Comment=Backup File"
 msgstr "Comment=Kireçigü Bireme"
 
-#: mimetypes/application/x-troff-man.desktop:3
+#: mimetypes/application/x-troff-man.desktop:2
 msgid "Comment=Troff Document with Manpage Macros"
 msgstr "Comment=Troff İstälege, Manpage Makros belän"
 
-#: mimetypes/application/x-troff.desktop:3
+#: mimetypes/application/x-troff.desktop:2
 msgid "Comment=Troff Document"
 msgstr "Comment=Troff İstälege"
 
-#: mimetypes/application/x-tzo.desktop:4
+#: mimetypes/application/x-tzo.desktop:3
 msgid "Comment=Lzopped Tar Archive"
 msgstr "Comment=Lzop'lı Tar Tuplama"
 
-#: mimetypes/application/x-vnd.kde.kexi.desktop:8
+#: mimetypes/application/x-vnd.kde.kexi.desktop:7
 msgid "Comment=Kexi Project File"
 msgstr "Comment=Kexi Sölge Bireme"
 
-#: mimetypes/application/x-vnd.kde.kplato.desktop:5
+#: mimetypes/application/x-vnd.kde.kplato.desktop:4
 msgid "Comment=KPlato Project Management Document"
 msgstr "Comment=KPlato Sölge İdärä İstälege"
 
-#: mimetypes/application/x-vnd.kde.kugar.mixed.desktop:7
+#: mimetypes/application/x-vnd.kde.kugar.mixed.desktop:6
 msgid "Comment=Kugar Archive File"
 msgstr "Comment=Kugar Tuplama Bireme"
 
-#: mimetypes/application/x-webarchive.desktop:3
+#: mimetypes/application/x-webarchive.desktop:2
 msgid "Comment=Web Archive"
 msgstr "Comment=Web Tuplama"
 
-#: mimetypes/application/x-x509-ca-cert.desktop:7
+#: mimetypes/application/x-x509-ca-cert.desktop:6
 msgid "Comment=DER, PEM, or Netscape Encoded X.509 Certificate"
 msgstr "Comment=DER, PEM, yä Netscape Serlägän X.509 Tanıqlıq"
 
-#: mimetypes/application/x-xliff.desktop:7
+#: mimetypes/application/x-xliff.desktop:6
 msgid "Comment=XLIFF Translation File"
 msgstr "Comment=XLIFF Tärcemä Bireme"
 
-#: mimetypes/application/x-zerosize.desktop:3
+#: mimetypes/application/x-zerosize.desktop:2
 msgid "Comment=Empty Document"
 msgstr "Comment=Buş İstälek"
 
-#: mimetypes/application/x-zip-compressed.desktop:6
-#: mimetypes/application/x-zip.desktop:7
+#: mimetypes/application/x-zip-compressed.desktop:5
+#: mimetypes/application/x-zip.desktop:6
 msgid "Comment=Zip Archive"
 msgstr "Comment=Zip Tuplama"
 
-#: mimetypes/application/x-zoo.desktop:7
+#: mimetypes/application/x-zoo.desktop:6
 msgid "Comment=Zoo Archive"
 msgstr "Comment=Zoo Tuplama"
 
-#: mimetypes/application/xhtml+xml.desktop:3
+#: mimetypes/application/xhtml+xml.desktop:2
 msgid "Comment=XHTML Family Document"
 msgstr "Comment=XHTML Törendä İstälek"
 
-#: mimetypes/application/xml-dtd.desktop:3
+#: mimetypes/application/xml-dtd.desktop:2
 #, fuzzy
 msgid "Comment=XML DTD Document"
 msgstr "Comment=XML İstälek"
 
-#: mimetypes/application/xml.desktop:3 mimetypes/text/xml.desktop:3
+#: mimetypes/application/xml.desktop:2 mimetypes/text/xml.desktop:2
 msgid "Comment=XML Document"
 msgstr "Comment=XML İstälek"
 
-#: mimetypes/application/xsd.desktop:3
+#: mimetypes/application/xsd.desktop:2
 msgid "Comment=W3C XML Schema"
 msgstr "Comment=W3C XML Tözeleşe"
 
-#: mimetypes/audio/aac.desktop:7
+#: mimetypes/audio/aac.desktop:6
 msgid "Comment=AAC Sound"
 msgstr "Comment=AAC Tawış"
 
-#: mimetypes/audio/ac3.desktop:7
+#: mimetypes/audio/ac3.desktop:6
 msgid "Comment=Dolby AC3 Sound"
 msgstr "Comment=Dolby AC3 Tawış"
 
-#: mimetypes/audio/basic.desktop:4
+#: mimetypes/audio/basic.desktop:3
 msgid "Comment=ULAW (Sun) Audio"
 msgstr "Comment=ULAW Tawış (Sun)"
 
-#: mimetypes/audio/mp4.desktop:7
+#: mimetypes/audio/mp4.desktop:6
 msgid "Comment=MPEG-4 Audio"
 msgstr "Comment=MPEG4 Tawışı"
 
-#: mimetypes/audio/mpeg.desktop:9
+#: mimetypes/audio/mpeg.desktop:8
 msgid "Comment=MPEG Audio"
 msgstr "Comment=MPEG Tawış"
 
-#: mimetypes/audio/mpegurl.desktop:8 mimetypes/audio/x-mpegurl.desktop:6
+#: mimetypes/audio/mpegurl.desktop:7 mimetypes/audio/x-mpegurl.desktop:5
 msgid "Comment=Streaming MPEG Layer 3 Audio"
 msgstr "Comment=Ağımlı MPEG-3 Tawış"
 
-#: mimetypes/audio/prs.sid.desktop:7
+#: mimetypes/audio/prs.sid.desktop:6
 msgid "Comment=C64 SID Music"
 msgstr "Comment=C64 SID Köye"
 
-#: mimetypes/audio/vnd.rn-realaudio.desktop:8
-#: mimetypes/audio/x-pn-realaudio.desktop:6
+#: mimetypes/audio/vnd.rn-realaudio.desktop:7
+#: mimetypes/audio/x-pn-realaudio.desktop:5
 msgid "Comment=RealAudio File"
 msgstr "Comment=RealAudio Bireme"
 
-#: mimetypes/audio/vorbis.desktop:7 mimetypes/audio/x-vorbis.desktop:7
+#: mimetypes/audio/vorbis.desktop:6 mimetypes/audio/x-vorbis.desktop:6
 msgid "Comment=Ogg Vorbis Audio"
 msgstr "Comment=Ogg Vorbis Tawışı"
 
-#: mimetypes/audio/x-adpcm.desktop:4
+#: mimetypes/audio/x-adpcm.desktop:3
 msgid "Comment=PCM Audio"
 msgstr "Comment=PCM Tawış"
 
-#: mimetypes/audio/x-aiff.desktop:4
+#: mimetypes/audio/x-aiff.desktop:3
 msgid "Comment=AIFF/Amiga Audio"
 msgstr "Comment=AIFF/Amiga Tawış"
 
-#: mimetypes/audio/x-flac.desktop:4
+#: mimetypes/audio/x-flac.desktop:3
 msgid "Comment=FLAC Audio"
 msgstr "Comment=FLAC Tawış"
 
-#: mimetypes/audio/x-matroska.desktop:7
+#: mimetypes/audio/x-matroska.desktop:6
 msgid "Comment=Matroska Audio"
 msgstr "Comment=Matroska Tawış"
 
-#: mimetypes/audio/x-midi.desktop:7
+#: mimetypes/audio/x-midi.desktop:6
 msgid "Comment=MIDI Audio"
 msgstr "Comment=MIDI Tawış"
 
-#: mimetypes/audio/x-mod.desktop:7
+#: mimetypes/audio/x-mod.desktop:6
 msgid "Comment=Amiga Soundtracker Audio"
 msgstr "Comment=Amiga Soundtracker Tawışı"
 
-#: mimetypes/audio/x-mp2.desktop:8
+#: mimetypes/audio/x-mp2.desktop:7
 msgid "Comment=MPEG Layer 2 Audio"
 msgstr "Comment=MPEG-2 Tawış"
 
-#: mimetypes/audio/x-mp3.desktop:8
+#: mimetypes/audio/x-mp3.desktop:7
 msgid "Comment=MPEG Layer 3 Audio"
 msgstr "Comment=MPEG-3 Tawış"
 
-#: mimetypes/audio/x-ms-wma.desktop:7
+#: mimetypes/audio/x-ms-wma.desktop:6
 msgid "Comment=Windows Media Audio"
 msgstr "Comment=Windows Media Tawışı"
 
-#: mimetypes/audio/x-musepack.desktop:7
+#: mimetypes/audio/x-musepack.desktop:6
 msgid "Comment=Musepack Audio"
 msgstr "Comment=Musepack Tawışı"
 
-#: mimetypes/audio/x-oggflac.desktop:7
+#: mimetypes/audio/x-oggflac.desktop:6
 msgid "Comment=Ogg FLAC Audio"
 msgstr "Comment=Ogg FLAC Tawışı"
 
-#: mimetypes/audio/x-pn-realaudio-plugin.desktop:6
+#: mimetypes/audio/x-pn-realaudio-plugin.desktop:5
 #, fuzzy
 msgid "Comment=RealAudio Plugin File"
 msgstr "Comment=RealAudio Bireme"
 
-#: mimetypes/audio/x-scpls.desktop:5
+#: mimetypes/audio/x-scpls.desktop:4
 msgid "Comment=MP3 ShoutCast Playlist"
 msgstr "Comment=MP3 ShoutCast Uynawtezmäse"
 
-#: mimetypes/audio/x-speex.desktop:7
+#: mimetypes/audio/x-speex.desktop:6
 msgid "Comment=Speex Audio"
 msgstr "Comment=Speex Tawışı"
 
-#: mimetypes/audio/x-wav.desktop:7
+#: mimetypes/audio/x-wav.desktop:6
 msgid "Comment=WAV Audio"
 msgstr "Comment=WAV Tawış"
 
-#: mimetypes/image/cgm.desktop:7
+#: mimetypes/image/cgm.desktop:6
 msgid "Comment=Computer Graphics Metafile"
 msgstr "Comment=CGM-Birem"
 
-#: mimetypes/image/fax-g3.desktop:7
+#: mimetypes/image/fax-g3.desktop:6
 msgid "Comment=CCITT G3 Fax"
 msgstr "Comment=CCITT G3 Fax"
 
-#: mimetypes/image/fits.desktop:7
+#: mimetypes/image/fits.desktop:6
 #, fuzzy
 msgid "Comment=FITS Image"
 msgstr "Comment=GIF Sürät"
 
-#: mimetypes/image/gif.desktop:7
+#: mimetypes/image/gif.desktop:6
 msgid "Comment=GIF Image"
 msgstr "Comment=GIF Sürät"
 
-#: mimetypes/image/jp2.desktop:7
+#: mimetypes/image/jp2.desktop:6
 msgid "Comment=JPEG 2000 Image"
 msgstr "Comment=JPEG 2000 Sürät"
 
-#: mimetypes/image/jpeg.desktop:7 mimetypes/image/pjpeg.desktop:8
+#: mimetypes/image/jpeg.desktop:6 mimetypes/image/pjpeg.desktop:7
 msgid "Comment=JPEG Image"
 msgstr "Comment=JPEG Sürät"
 
-#: mimetypes/image/png.desktop:7
+#: mimetypes/image/png.desktop:6
 msgid "Comment=PNG Image"
 msgstr "Comment=PNG Sürät"
 
-#: mimetypes/image/svg+xml.desktop:8
+#: mimetypes/image/svg+xml.desktop:7
 msgid "Comment=Scalable Vector Graphics"
 msgstr "Comment=Suzıluçan Yünälmä-Sızım"
 
-#: mimetypes/image/tiff.desktop:7
+#: mimetypes/image/tiff.desktop:6
 msgid "Comment=TIFF Image"
 msgstr "Comment=TIFF Sürät"
 
-#: mimetypes/image/x-bmp.desktop:7
+#: mimetypes/image/x-bmp.desktop:6
 msgid "Comment=BMP Image"
 msgstr "Comment=BMP Sürät"
 
-#: mimetypes/image/x-dds.desktop:7
+#: mimetypes/image/x-dds.desktop:6
 msgid "Comment=DirectDraw Surface"
 msgstr "Comment=DirectDraw Öslege"
 
-#: mimetypes/image/x-djvu-2.desktop:7 mimetypes/image/x-djvu.desktop:7
+#: mimetypes/image/x-djvu-2.desktop:6 mimetypes/image/x-djvu.desktop:6
 msgid "Comment=DjVu Document"
 msgstr "Comment=DjVu İstälege"
 
-#: mimetypes/image/x-eps.desktop:7
+#: mimetypes/image/x-eps.desktop:6
 msgid "Comment=Encapsulated PostScript Image"
 msgstr "Comment=Quşılğan PostScript-Sürät"
 
-#: mimetypes/image/x-exr.desktop:7
+#: mimetypes/image/x-exr.desktop:6
 msgid "Comment=ILM EXR Image"
 msgstr "Comment=ILM EXR Süräte"
 
-#: mimetypes/image/x-hdr.desktop:7
+#: mimetypes/image/x-hdr.desktop:6
 msgid "Comment=High Dynamic Range Image"
 msgstr "Comment=Bik Tere Aralı Sürät"
 
-#: mimetypes/image/x-ico.desktop:7
+#: mimetypes/image/x-ico.desktop:6
 msgid "Comment=Windows Icon"
 msgstr "Comment=Windows İkonı"
 
-#: mimetypes/image/x-jng.desktop:7
+#: mimetypes/image/x-jng.desktop:6
 msgid "Comment=JNG Image"
 msgstr "Comment=JNG Sürät"
 
-#: mimetypes/image/x-msod.desktop:7
+#: mimetypes/image/x-msod.desktop:6
 msgid "Comment=Microsoft Office Drawing"
 msgstr "Comment=Microsoft Office Sızımı"
 
-#: mimetypes/image/x-pcx.desktop:7
+#: mimetypes/image/x-pcx.desktop:6
 msgid "Comment=PCX Image"
 msgstr "Comment=PCX Sürät"
 
-#: mimetypes/image/x-photo-cd.desktop:7
+#: mimetypes/image/x-photo-cd.desktop:6
 msgid "Comment=PhotoCD Image"
 msgstr "Comment=PhotoCD Sürät"
 
-#: mimetypes/image/x-portable-bitmap.desktop:7
+#: mimetypes/image/x-portable-bitmap.desktop:6
 msgid "Comment=Portable Bitmap Image"
 msgstr "Comment=Portable Bitmap Süräte"
 
-#: mimetypes/image/x-portable-greymap.desktop:7
+#: mimetypes/image/x-portable-greymap.desktop:6
 msgid "Comment=Portable Graymap Image"
 msgstr "Comment=Portable Graymap Süräte"
 
-#: mimetypes/image/x-portable-pixmap.desktop:7
+#: mimetypes/image/x-portable-pixmap.desktop:6
 msgid "Comment=Portable Pixmap Image"
 msgstr "Comment=Portable Pixmap Süräte"
 
-#: mimetypes/image/x-raw.desktop:7
+#: mimetypes/image/x-raw.desktop:6
 #, fuzzy
 msgid "Comment=RAW Camera Image"
 msgstr "Comment=C Başlığınıñ Bireme"
 
-#: mimetypes/image/x-rgb.desktop:7
+#: mimetypes/image/x-rgb.desktop:6
 msgid "Comment=SGI Image (RGB)"
 msgstr "Comment=SGI Sürät (RGB)"
 
-#: mimetypes/image/x-targa.desktop:7
+#: mimetypes/image/x-targa.desktop:6
 msgid "Comment=Truevision Targa Image"
 msgstr "Comment=Truevision Targa Süräte"
 
-#: mimetypes/image/x-vnd.adobe.photoshop.desktop:7
+#: mimetypes/image/x-vnd.adobe.photoshop.desktop:6
 msgid "Comment=Adobe Photoshop Image"
 msgstr "Comment=Adobe Photoshop Süräte"
 
-#: mimetypes/image/x-vnd.trolltech.qpicture.desktop:7
+#: mimetypes/image/x-vnd.trolltech.qpicture.desktop:6
 msgid "Comment=QPicture Metafile"
 msgstr "Comment=QPicture Metafile"
 
-#: mimetypes/image/x-wmf.desktop:7
+#: mimetypes/image/x-wmf.desktop:6
 msgid "Comment=Windows MetaFile"
 msgstr "Comment=Windows MetaFile"
 
-#: mimetypes/image/x-xbm.desktop:7
+#: mimetypes/image/x-xbm.desktop:6
 msgid "Comment=X BitMap Image"
 msgstr "Comment=X BitMap Sürät"
 
-#: mimetypes/image/x-xcf-gimp.desktop:3
+#: mimetypes/image/x-xcf-gimp.desktop:2
 msgid "Comment=GIMP Native Image Format"
 msgstr "Comment=GIMP Süräte"
 
-#: mimetypes/image/x-xcursor.desktop:6
+#: mimetypes/image/x-xcursor.desktop:5
 msgid "Comment=X11 Mouse Cursor"
 msgstr "Comment=X11 Küse Uğı"
 
-#: mimetypes/image/x-xfig.desktop:7
+#: mimetypes/image/x-xfig.desktop:6
 msgid "Comment=XFig File"
 msgstr "Comment=XFig Bireme"
 
-#: mimetypes/image/x-xpm.desktop:7
+#: mimetypes/image/x-xpm.desktop:6
 msgid "Comment=X PixMap Image"
 msgstr "Comment=X PixMap Süräte"
 
-#: mimetypes/inode/block.desktop:3
+#: mimetypes/inode/block.desktop:2
 msgid "Comment=Block Device"
 msgstr "Comment=Bloklı Cıhaz"
 
-#: mimetypes/inode/chardevice.desktop:3
+#: mimetypes/inode/chardevice.desktop:2
 msgid "Comment=Character Device"
 msgstr "Comment=Xärefle Cıhaz"
 
-#: mimetypes/inode/directory-locked.desktop:3
+#: mimetypes/inode/directory-locked.desktop:2
 msgid "Comment=Locked Folder"
 msgstr "Comment=Biklängän Törgäk"
 
-#: mimetypes/inode/directory.desktop:3
+#: mimetypes/inode/directory.desktop:2
 msgid "Comment=Folder"
 msgstr "Comment=Törgäk"
 
-#: mimetypes/inode/fifo.desktop:3
+#: mimetypes/inode/fifo.desktop:2
 msgid "Comment=Pipe"
 msgstr "Comment=Ağım"
 
-#: mimetypes/inode/socket.desktop:3
+#: mimetypes/inode/socket.desktop:2
 msgid "Comment=Socket"
 msgstr "Comment=Soket"
 
-#: mimetypes/message/news.desktop:7
+#: mimetypes/message/news.desktop:6
 msgid "Comment=Usenet News Message"
 msgstr "Comment=Usenet Yañalıq Xäbäre"
 
-#: mimetypes/message/rfc822.desktop:7
+#: mimetypes/message/rfc822.desktop:6
 msgid "Comment=Email Message"
 msgstr "Comment=Email Xäbär"
 
-#: mimetypes/model/vrml.desktop:6
+#: mimetypes/model/vrml.desktop:5
 msgid "Comment=VRML Model"
 msgstr "Comment=VRML Sölge"
 
-#: mimetypes/multipart/mixed.desktop:6
+#: mimetypes/multipart/mixed.desktop:5
 msgid "Comment=Compound Document"
 msgstr "Comment=Küpqatlı İstälek"
 
-#: mimetypes/multipart/x-mixed-replace.desktop:6
+#: mimetypes/multipart/x-mixed-replace.desktop:5
 msgid "Comment=Stream of Data (Server Push)"
 msgstr "Comment=Birem Ağımı (Server Cibärgän)"
 
-#: mimetypes/text/calendar.desktop:3
+#: mimetypes/text/calendar.desktop:2
 msgid "Comment=iCalendar File"
 msgstr "Comment=iCalendar Bireme"
 
-#: mimetypes/text/css.desktop:4
+#: mimetypes/text/css.desktop:3
 msgid "Comment=Cascading Style Sheet"
 msgstr "Comment=CSS-tışlaw Bireme"
 
-#: mimetypes/text/docbook.desktop:3
+#: mimetypes/text/docbook.desktop:2
 msgid "Comment=DocBook Document"
 msgstr "Comment=DocBook İstälege"
 
-#: mimetypes/text/enriched.desktop:4
+#: mimetypes/text/enriched.desktop:3
 msgid "Comment=Lightly Enriched Text Document"
 msgstr "Comment=Lightly Enriched İstälege"
 
-#: mimetypes/text/html.desktop:3
+#: mimetypes/text/html.desktop:2
 msgid "Comment=HTML Document"
 msgstr "Comment=HTML İstälek"
 
-#: mimetypes/text/plain.desktop:4
+#: mimetypes/text/plain.desktop:3
 msgid "Comment=Plain Text Document"
 msgstr "Comment=Taqır Mäten İstälege"
 
-#: mimetypes/text/rdf.desktop:4
+#: mimetypes/text/rdf.desktop:3
 msgid "Comment=Resource Description Framework File"
 msgstr "Comment=Resursnıñ Açıqlama-Bireme (RDF)"
 
-#: mimetypes/text/rss.desktop:4
+#: mimetypes/text/rss.desktop:3
 msgid "Comment=RDF Site Summary"
 msgstr "Comment=RDF Säxifä Yomğağı"
 
-#: mimetypes/text/rtf.desktop:4
+#: mimetypes/text/rtf.desktop:3
 msgid "Comment=RTF Document"
 msgstr "Comment=RTF İstälek"
 
-#: mimetypes/text/sgml.desktop:4
+#: mimetypes/text/sgml.desktop:3
 msgid "Comment=SGML Document"
 msgstr "Comment=SGML İstälek"
 
-#: mimetypes/text/vnd.abc.desktop:3
+#: mimetypes/text/vnd.abc.desktop:2
 msgid "Comment=ABC Music File"
 msgstr "Comment=ABC Köy Bireme"
 
-#: mimetypes/text/vnd.wap.wml.desktop:7
+#: mimetypes/text/vnd.wap.wml.desktop:6
 msgid "Comment=WML Document"
 msgstr "Comment=WML İstälek"
 
-#: mimetypes/text/x-adasrc.desktop:3
+#: mimetypes/text/x-adasrc.desktop:2
 msgid "Comment=Ada Source File"
 msgstr "Comment=Ada'nıñ Çığanaq Bireme"
 
-#: mimetypes/text/x-bibtex.desktop:3
+#: mimetypes/text/x-bibtex.desktop:2
 msgid "Comment=Bibliographic Data (Bibtex)"
 msgstr "Comment=Biblio-yazma Bireme (Bibtex)"
 
-#: mimetypes/text/x-c++hdr.desktop:3
+#: mimetypes/text/x-c++hdr.desktop:2
 msgid "Comment=C++ Header File"
 msgstr "Comment=C++ Başlığınıñ Bireme"
 
-#: mimetypes/text/x-c++src.desktop:3
+#: mimetypes/text/x-c++src.desktop:2
 msgid "Comment=C++ Source File"
 msgstr "Comment=C++'nıñ Çığanaq Bireme"
 
-#: mimetypes/text/x-chdr.desktop:3
+#: mimetypes/text/x-chdr.desktop:2
 msgid "Comment=C Header File"
 msgstr "Comment=C Başlığınıñ Bireme"
 
-#: mimetypes/text/x-csrc.desktop:3
+#: mimetypes/text/x-csrc.desktop:2
 msgid "Comment=C Source File"
 msgstr "Comment=C'nıñ Çığanaq Bireme"
 
-#: mimetypes/text/x-csv.desktop:8
+#: mimetypes/text/x-csv.desktop:7
 msgid "Comment=Text File with Comma Separated Values"
 msgstr "Comment=Mäten Bireme, Öter belän Ayırı Bäyä (CSV)"
 
-#: mimetypes/text/x-diff.desktop:4
+#: mimetypes/text/x-diff.desktop:3
 msgid "Comment=Differences Between Files"
 msgstr "Comment=Biremnär Arasında Ayırma"
 
-#: mimetypes/text/x-hex.desktop:8
+#: mimetypes/text/x-hex.desktop:7
 msgid "Comment=Intel® Hexadecimal Object File Format"
 msgstr "Comment=Intel® Cisemeneñ Bireme"
 
-#: mimetypes/text/x-java.desktop:3
+#: mimetypes/text/x-java.desktop:2
 msgid "Comment=Java Source File"
 msgstr "Comment=Java'nıñ Çığanaq Bireme"
 
-#: mimetypes/text/x-katefilelist.desktop:3
+#: mimetypes/text/x-katefilelist.desktop:2
 msgid "Comment=File List (for the Kate File List Loader Plugin)"
 msgstr "Comment=Birem Tezmäse (Kate'nıñ Birem Tezmäse Yökläwçe östämä öçen)"
 
-#: mimetypes/text/x-latex.desktop:3
+#: mimetypes/text/x-latex.desktop:2
 msgid "Comment=LaTeX Document"
 msgstr "Comment=LaTeX İstälege"
 
-#: mimetypes/text/x-ldif.desktop:3
+#: mimetypes/text/x-ldif.desktop:2
 msgid "Comment=LDAP Addressbook"
 msgstr "Comment=LDAP Adres Däftäre"
 
-#: mimetypes/text/x-log.desktop:4
+#: mimetypes/text/x-log.desktop:3
 msgid "Comment=Application Log File"
 msgstr "Comment=Yazılım Eşläw Köndälege"
 
-#: mimetypes/text/x-makefile.desktop:4
+#: mimetypes/text/x-makefile.desktop:3
 msgid "Comment=Makefile"
 msgstr "Comment=Makefile"
 
-#: mimetypes/text/x-moc.desktop:4
+#: mimetypes/text/x-moc.desktop:3
 msgid "Comment=Qt Meta Object File"
 msgstr "Comment=Qt'nıñ Meta Cisem Bireme"
 
-#: mimetypes/text/x-mswinurl.desktop:7
+#: mimetypes/text/x-mswinurl.desktop:6
 msgid "Comment=Internet Shortcut"
 msgstr "Comment=Internet Çaptırması"
 
-#: mimetypes/text/x-objchdr.desktop:4
+#: mimetypes/text/x-objchdr.desktop:3
 msgid "Comment=Objective-C Header File"
 msgstr "Comment=Objective-C Başlıqınıñ Bireme"
 
-#: mimetypes/text/x-objcsrc.desktop:4
+#: mimetypes/text/x-objcsrc.desktop:3
 msgid "Comment=Objective-C Source File"
 msgstr "Comment=Objective-C'nıñ Çığanaq Bireme"
 
-#: mimetypes/text/x-pascal.desktop:3
+#: mimetypes/text/x-pascal.desktop:2
 msgid "Comment=Pascal Source File"
 msgstr "Comment=Pascal'nıñ Çığanaq Bireme"
 
-#: mimetypes/text/x-tcl.desktop:3
+#: mimetypes/text/x-tcl.desktop:2
 msgid "Comment=Tcl File"
 msgstr "Comment=Tcl Bireme"
 
-#: mimetypes/text/x-tex.desktop:3
+#: mimetypes/text/x-tex.desktop:2
 msgid "Comment=TeX File"
 msgstr "Comment=TeX Bireme"
 
-#: mimetypes/text/x-vcalendar.desktop:3
+#: mimetypes/text/x-vcalendar.desktop:2
 msgid "Comment=vCalendar Interchange File"
 msgstr "Comment=vCalendar'nıñ Almaşınu Bireme"
 
-#: mimetypes/text/x-vcard.desktop:3
+#: mimetypes/text/x-vcard.desktop:2
 msgid "Comment=Electronic Business Card"
 msgstr "Comment=Elektron Busines Kard"
 
@@ -2904,71 +2904,71 @@ msgstr "Comment=XSL-tışlaw Bireme"
 msgid "Comment=XSLT Stylesheet File"
 msgstr "Comment=XSLT-tışlaw Bireme"
 
-#: mimetypes/uri/mms.desktop:6
+#: mimetypes/uri/mms.desktop:5
 msgid "Comment=mms: URIs"
 msgstr "Comment=mms: URI'lar"
 
-#: mimetypes/uri/mmst.desktop:6
+#: mimetypes/uri/mmst.desktop:5
 msgid "Comment=mmst: URIs"
 msgstr "Comment=mmst: URI'lar"
 
-#: mimetypes/uri/mmsu.desktop:6
+#: mimetypes/uri/mmsu.desktop:5
 msgid "Comment=mmsu: URIs"
 msgstr "Comment=mmsu: URI'lar"
 
-#: mimetypes/uri/pnm.desktop:6
+#: mimetypes/uri/pnm.desktop:5
 msgid "Comment=pnm: URIs"
 msgstr "Comment=pnm: URI'lar"
 
-#: mimetypes/uri/rtspt.desktop:6
+#: mimetypes/uri/rtspt.desktop:5
 msgid "Comment=rtspt: URIs"
 msgstr "Comment=rtspt: URI'lar"
 
-#: mimetypes/uri/rtspu.desktop:6
+#: mimetypes/uri/rtspu.desktop:5
 msgid "Comment=rtspu: URIs"
 msgstr "Comment=rtspu: URI'lar"
 
-#: mimetypes/video/avi.desktop:8 mimetypes/video/x-msvideo.desktop:7
+#: mimetypes/video/avi.desktop:7 mimetypes/video/x-msvideo.desktop:6
 msgid "Comment=Microsoft AVI Video"
 msgstr "Comment=Microsoft AVI Video"
 
-#: mimetypes/video/mp4.desktop:7
+#: mimetypes/video/mp4.desktop:6
 msgid "Comment=MPEG-4 Video"
 msgstr "Comment=MPEG-4 Video"
 
-#: mimetypes/video/mpeg.desktop:7
+#: mimetypes/video/mpeg.desktop:6
 msgid "Comment=MPEG Video"
 msgstr "Comment=MPEG Video"
 
-#: mimetypes/video/quicktime.desktop:7
+#: mimetypes/video/quicktime.desktop:6
 msgid "Comment=Quicktime Video"
 msgstr "Comment=Quicktime Video"
 
-#: mimetypes/video/vnd.rn-realvideo.desktop:7
+#: mimetypes/video/vnd.rn-realvideo.desktop:6
 msgid "Comment=RealVideo File"
 msgstr "Comment=RealVideo Bireme"
 
-#: mimetypes/video/x-flic.desktop:7
+#: mimetypes/video/x-flic.desktop:6
 msgid "Comment=Autodesk's FLIC File"
 msgstr "Comment=Autodesk'nıñ FLIC Bireme"
 
-#: mimetypes/video/x-matroska.desktop:7
+#: mimetypes/video/x-matroska.desktop:6
 msgid "Comment=Matroska Video"
 msgstr "Comment=Matroska Video"
 
-#: mimetypes/video/x-mng.desktop:7
+#: mimetypes/video/x-mng.desktop:6
 msgid "Comment=MNG Image"
 msgstr "Comment=MNG Sürät"
 
-#: mimetypes/video/x-ms-wmv.desktop:3
+#: mimetypes/video/x-ms-wmv.desktop:2
 msgid "Comment=Windows Media Video"
 msgstr "Comment=Windows Media Video"
 
-#: mimetypes/video/x-ogm.desktop:8
+#: mimetypes/video/x-ogm.desktop:7
 msgid "Comment=Ogg/Ogm Video"
 msgstr "Comment=Ogg/Ogm Video"
 
-#: mimetypes/video/x-theora.desktop:7
+#: mimetypes/video/x-theora.desktop:6
 msgid "Comment=Theora Video"
 msgstr "Comment=Theora Video"
 
