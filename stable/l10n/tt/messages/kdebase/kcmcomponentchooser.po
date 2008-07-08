@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kcmcomponentchooser\n"
-"POT-Creation-Date: 2005-12-21 03:07+0100\n"
+"POT-Creation-Date: 2008-07-08 01:18+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -71,37 +71,37 @@ msgid "(c), 2002 Joseph Wenninger"
 msgstr "(c), 2002 Joseph Wenninger"
 
 #. i18n: file browserconfig_ui.ui line 49
-#: rc.cpp:4
+#: rc.cpp:3
 #, no-c-format
 msgid "<qt>Open <b>http</b> and <b>https</b> URLs</qt>"
 msgstr "<qt><b>http</b> belän <b>https</b> URL'ların aç</qt>"
 
 #. i18n: file browserconfig_ui.ui line 57
-#: rc.cpp:7
+#: rc.cpp:6
 #, no-c-format
 msgid "in an application based on the contents of the URL"
 msgstr "URL eçtälegenä asılınğan yazılımda"
 
 #. i18n: file browserconfig_ui.ui line 68
-#: rc.cpp:10
+#: rc.cpp:9
 #, no-c-format
 msgid "in the following browser:"
 msgstr "kiläse gizgeçtä:"
 
 #. i18n: file browserconfig_ui.ui line 120
-#: rc.cpp:13 rc.cpp:43 rc.cpp:77
+#: rc.cpp:12 rc.cpp:39 rc.cpp:72
 #, no-c-format
 msgid "..."
 msgstr "..."
 
 #. i18n: file componentchooser_ui.ui line 43
-#: rc.cpp:16
+#: rc.cpp:15
 #, no-c-format
 msgid "Default Component"
 msgstr "Töp Komponent"
 
 #. i18n: file componentchooser_ui.ui line 46
-#: rc.cpp:19
+#: rc.cpp:18
 #, no-c-format
 msgid ""
 "Here you can change the component program. Components are programs that handle "
@@ -117,13 +117,13 @@ msgstr ""
 "tözätergä kiräk bula, ul çaqta şul komponentlar çaqırıla da."
 
 #. i18n: file componentchooser_ui.ui line 75
-#: rc.cpp:22
+#: rc.cpp:21
 #, no-c-format
 msgid "Component Description"
 msgstr "Komponent Açıqlaması"
 
 #. i18n: file componentchooser_ui.ui line 78
-#: rc.cpp:25
+#: rc.cpp:24
 #, no-c-format
 msgid ""
 "Here you can read a small description of the currently selected component. To "
@@ -135,7 +135,7 @@ msgstr ""
 "öçen, anı asqaraq saylísı."
 
 #. i18n: file componentchooser_ui.ui line 119
-#: rc.cpp:29
+#: rc.cpp:27
 #, no-c-format
 msgid ""
 "<qt>\n"
@@ -159,7 +159,7 @@ msgstr ""
 "</qt>"
 
 #. i18n: file emailclientconfig_ui.ui line 83
-#: rc.cpp:37
+#: rc.cpp:33
 #, no-c-format
 msgid ""
 "<ul> "
@@ -179,7 +179,7 @@ msgstr ""
 "<li>%A: Qıstırma </li> </ul>"
 
 #. i18n: file emailclientconfig_ui.ui line 86
-#: rc.cpp:40
+#: rc.cpp:36
 #, no-c-format
 msgid ""
 "Press this button to select your favorite email client. Please note that the "
@@ -208,19 +208,19 @@ msgstr ""
 "<li>%A: Qıstırma </li> </ul>"
 
 #. i18n: file emailclientconfig_ui.ui line 100
-#: rc.cpp:46
+#: rc.cpp:42
 #, no-c-format
 msgid "Click here to browse for the mail program file."
 msgstr "Bonda çirtep, bu xat yazılımınıñ biremen küzätep bula."
 
 #. i18n: file emailclientconfig_ui.ui line 113
-#: rc.cpp:49
+#: rc.cpp:45
 #, no-c-format
 msgid "&Run in terminal"
 msgstr "Terminalda &cibär"
 
 #. i18n: file emailclientconfig_ui.ui line 116
-#: rc.cpp:52
+#: rc.cpp:48
 #, no-c-format
 msgid ""
 "Activate this option if you want the selected email client to be executed in a "
@@ -230,44 +230,44 @@ msgstr ""
 "açası."
 
 #. i18n: file emailclientconfig_ui.ui line 141
-#: rc.cpp:55
+#: rc.cpp:51
 #, no-c-format
 msgid "&Use KMail as preferred email client"
 msgstr "Email yazılımı itep KMail &qullanası"
 
 #. i18n: file emailclientconfig_ui.ui line 144
-#: rc.cpp:58
+#: rc.cpp:54
 #, no-c-format
 msgid "Kmail is the standard Mail program for the KDE desktop."
 msgstr "Kmail digäne ul KDE östäleneñ xat cibärüçe standard yazılımı."
 
 #. i18n: file emailclientconfig_ui.ui line 152
-#: rc.cpp:61
+#: rc.cpp:57
 #, no-c-format
 msgid "Use a different &email client:"
 msgstr "&Email öçen başqa klient &qullanası:"
 
 #. i18n: file emailclientconfig_ui.ui line 155
-#: rc.cpp:64
+#: rc.cpp:60
 #, no-c-format
 msgid "Select this option if you want to use any other mail program."
 msgstr ""
 "Email yazılımınıñ başqa tören qullanası kilsä bu köylämäne yanıq itäse."
 
 #. i18n: file terminalemulatorconfig_ui.ui line 72
-#: rc.cpp:68
+#: rc.cpp:63
 #, no-c-format
 msgid "Use a different &terminal program:"
 msgstr "&Terminal öçen başqa klient qullanası:"
 
 #. i18n: file terminalemulatorconfig_ui.ui line 97
-#: rc.cpp:71
+#: rc.cpp:66
 #, no-c-format
 msgid "&Use Konsole as terminal application"
 msgstr "Terminal yazılımı itep Konsole &qullanası"
 
 #. i18n: file terminalemulatorconfig_ui.ui line 130
-#: rc.cpp:74
+#: rc.cpp:69
 #, no-c-format
 msgid ""
 "Press this button to select your favorite terminal client. Please note that the "
@@ -282,7 +282,7 @@ msgstr ""
 "yazılımın qullanğan yazılımnarnıñ qayberläre eşli almawın da istä totası."
 
 #. i18n: file terminalemulatorconfig_ui.ui line 152
-#: rc.cpp:80
+#: rc.cpp:75
 #, no-c-format
 msgid "Click here to browse for terminal program."
 msgstr "Bonda çirtep, terminal yazılımın saylap bula."
