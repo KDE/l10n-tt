@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kicker\n"
-"POT-Creation-Date: 2008-07-08 01:19+0200\n"
+"POT-Creation-Date: 2008-07-30 01:22+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -57,11 +57,11 @@ msgstr "Täräzä Tezmäse"
 msgid "Window list"
 msgstr "Täräzä tezmäse"
 
-#: core/applethandle.cpp:108
+#: core/applethandle.cpp:67
 msgid "%1 menu"
 msgstr "%1 saylağı"
 
-#: core/applethandle.cpp:111
+#: core/applethandle.cpp:70
 msgid "%1 applet handle"
 msgstr "%1 applet totqıçı"
 
@@ -171,7 +171,7 @@ msgstr "&Caylaw Bülmäse..."
 msgid "Un&lock Panels"
 msgstr "Tirälärne &Biksez İt"
 
-#: ui/addapplet.cpp:231
+#: ui/addapplet.cpp:234
 msgid "Add Applet"
 msgstr "Applet Östä"
 

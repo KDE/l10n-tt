@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase clockapplet\n"
-"POT-Creation-Date: 2008-07-08 01:19+0200\n"
+"POT-Creation-Date: 2008-07-30 01:22+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -20,335 +20,335 @@ msgstr "Caylaw - Säğät"
 msgid "General"
 msgstr "Töptän"
 
-#: clock.cpp:684
+#: clock.cpp:680
 msgid ""
 "_: hour\n"
 "one"
 msgstr "ber"
 
-#: clock.cpp:684
+#: clock.cpp:680
 msgid ""
 "_: hour\n"
 "two"
 msgstr "ike"
 
-#: clock.cpp:685
+#: clock.cpp:681
 msgid ""
 "_: hour\n"
 "three"
 msgstr "öç"
 
-#: clock.cpp:685
+#: clock.cpp:681
 msgid ""
 "_: hour\n"
 "four"
 msgstr "dürt"
 
-#: clock.cpp:685
+#: clock.cpp:681
 msgid ""
 "_: hour\n"
 "five"
 msgstr "biş"
 
-#: clock.cpp:686
+#: clock.cpp:682
 msgid ""
 "_: hour\n"
 "six"
 msgstr "altı"
 
-#: clock.cpp:686
+#: clock.cpp:682
 msgid ""
 "_: hour\n"
 "seven"
 msgstr "cide"
 
-#: clock.cpp:686
+#: clock.cpp:682
 msgid ""
 "_: hour\n"
 "eight"
 msgstr "sigez"
 
-#: clock.cpp:687
+#: clock.cpp:683
 msgid ""
 "_: hour\n"
 "nine"
 msgstr "tuğız"
 
-#: clock.cpp:687
+#: clock.cpp:683
 msgid ""
 "_: hour\n"
 "ten"
 msgstr "un"
 
-#: clock.cpp:687
+#: clock.cpp:683
 msgid ""
 "_: hour\n"
 "eleven"
 msgstr "unber"
 
-#: clock.cpp:688
+#: clock.cpp:684
 msgid ""
 "_: hour\n"
 "twelve"
 msgstr "unike"
 
-#: clock.cpp:691
+#: clock.cpp:687
 #, no-c-format
 msgid "%0 o'clock"
 msgstr "%0 säğät"
 
-#: clock.cpp:692
+#: clock.cpp:688
 #, no-c-format
 msgid "five past %0"
 msgstr "%0 tulıp biş"
 
-#: clock.cpp:693
+#: clock.cpp:689
 #, no-c-format
 msgid "ten past %0"
 msgstr "%0 tulıp un"
 
-#: clock.cpp:694
+#: clock.cpp:690
 #, no-c-format
 msgid "quarter past %0"
 msgstr "%0 tulıp unbiş"
 
-#: clock.cpp:695
+#: clock.cpp:691
 #, no-c-format
 msgid "twenty past %0"
 msgstr "%0 tulıp yegerme"
 
-#: clock.cpp:696
+#: clock.cpp:692
 #, no-c-format
 msgid "twenty five past %0"
 msgstr "%0 tulıp yegerme biş"
 
-#: clock.cpp:697
+#: clock.cpp:693
 #, no-c-format
 msgid "half past %0"
 msgstr "%0 tulıp yartı"
 
-#: clock.cpp:698
+#: clock.cpp:694
 #, no-c-format
 msgid "twenty five to %1"
 msgstr "%1 tularğa yegerme biş"
 
-#: clock.cpp:699
+#: clock.cpp:695
 #, no-c-format
 msgid "twenty to %1"
 msgstr "%1 tularğa yegerme"
 
-#: clock.cpp:700
+#: clock.cpp:696
 #, no-c-format
 msgid "quarter to %1"
 msgstr "%1 tularğa unbiş"
 
-#: clock.cpp:701
+#: clock.cpp:697
 #, no-c-format
 msgid "ten to %1"
 msgstr "%1 tularğa un"
 
-#: clock.cpp:702
+#: clock.cpp:698
 #, no-c-format
 msgid "five to %1"
 msgstr "%1 tularğa biş"
 
-#: clock.cpp:703
+#: clock.cpp:699
 #, no-c-format
 msgid "%1 o'clock"
 msgstr "tögäl %1"
 
-#: clock.cpp:706
+#: clock.cpp:702
 #, no-c-format
 msgid ""
 "_: one\n"
 "%0 o'clock"
 msgstr "%0 säğät"
 
-#: clock.cpp:707
+#: clock.cpp:703
 #, no-c-format
 msgid ""
 "_: one\n"
 "five past %0"
 msgstr "%0 tulıp biş %0"
 
-#: clock.cpp:708
+#: clock.cpp:704
 #, no-c-format
 msgid ""
 "_: one\n"
 "ten past %0"
 msgstr "%0 tulıp un %0"
 
-#: clock.cpp:709
+#: clock.cpp:705
 #, no-c-format
 msgid ""
 "_: one\n"
 "quarter past %0"
 msgstr "%0 tulıp unbiş %0"
 
-#: clock.cpp:710
+#: clock.cpp:706
 #, no-c-format
 msgid ""
 "_: one\n"
 "twenty past %0"
 msgstr "%0 tulıp yegerme %0"
 
-#: clock.cpp:711
+#: clock.cpp:707
 #, no-c-format
 msgid ""
 "_: one\n"
 "twenty five past %0"
 msgstr "%0 tulıp yegerme biş %0"
 
-#: clock.cpp:712
+#: clock.cpp:708
 #, no-c-format
 msgid ""
 "_: one\n"
 "half past %0"
 msgstr "%0 tulıp yartı %0"
 
-#: clock.cpp:713
+#: clock.cpp:709
 #, no-c-format
 msgid ""
 "_: one\n"
 "twenty five to %1"
 msgstr "%1 tularğa yegerme biş %1"
 
-#: clock.cpp:714
+#: clock.cpp:710
 #, no-c-format
 msgid ""
 "_: one\n"
 "twenty to %1"
 msgstr "%1 tularğa yegerme %1"
 
-#: clock.cpp:715
+#: clock.cpp:711
 #, no-c-format
 msgid ""
 "_: one\n"
 "quarter to %1"
 msgstr "%1 tularğa unbiş %1"
 
-#: clock.cpp:716
+#: clock.cpp:712
 #, no-c-format
 msgid ""
 "_: one\n"
 "ten to %1"
 msgstr "%1 tularğa un %1"
 
-#: clock.cpp:717
+#: clock.cpp:713
 #, no-c-format
 msgid ""
 "_: one\n"
 "five to %1"
 msgstr "%1 tularğa biş %1"
 
-#: clock.cpp:718
+#: clock.cpp:714
 #, no-c-format
 msgid ""
 "_: one\n"
 "%1 o'clock"
 msgstr "%1 säğät"
 
-#: clock.cpp:720
+#: clock.cpp:716
 msgid "Night"
 msgstr "Tön"
 
-#: clock.cpp:721
+#: clock.cpp:717
 msgid "Early morning"
 msgstr "Kön başı"
 
-#: clock.cpp:721
+#: clock.cpp:717
 msgid "Morning"
 msgstr "İrtä"
 
-#: clock.cpp:721
+#: clock.cpp:717
 msgid "Almost noon"
 msgstr "Töş citä"
 
-#: clock.cpp:722
+#: clock.cpp:718
 msgid "Noon"
 msgstr "Töş"
 
-#: clock.cpp:722
+#: clock.cpp:718
 msgid "Afternoon"
 msgstr "Töştän soñ"
 
-#: clock.cpp:722
+#: clock.cpp:718
 msgid "Evening"
 msgstr "Kiç"
 
-#: clock.cpp:723
+#: clock.cpp:719
 msgid "Late evening"
 msgstr "Qarañğı"
 
-#: clock.cpp:828
+#: clock.cpp:821
 msgid "Start of week"
 msgstr "Atna başı"
 
-#: clock.cpp:830
+#: clock.cpp:823
 msgid "Middle of week"
 msgstr "Atna urtası"
 
-#: clock.cpp:832
+#: clock.cpp:825
 msgid "End of week"
 msgstr "Atna azağı"
 
-#: clock.cpp:834
+#: clock.cpp:827
 msgid "Weekend!"
 msgstr "Atna azağı!"
 
-#: clock.cpp:1490
+#: clock.cpp:1479
 msgid "Clock"
 msgstr "Säğät"
 
-#: clock.cpp:1516 clock.cpp:1723
+#: clock.cpp:1505 clock.cpp:1712
 msgid "Local Timezone"
 msgstr "Cirle Waqıt Quşağı"
 
-#: clock.cpp:1525
+#: clock.cpp:1514
 msgid "&Configure Timezones..."
 msgstr "&Waqıt Quşağı..."
 
-#: clock.cpp:1529
+#: clock.cpp:1518
 msgid "&Plain"
 msgstr "&Ğadí"
 
-#: clock.cpp:1530
+#: clock.cpp:1519
 msgid "&Digital"
 msgstr "&Sanlı"
 
-#: clock.cpp:1531
+#: clock.cpp:1520
 msgid "&Analog"
 msgstr "&Uqlı"
 
-#: clock.cpp:1532
+#: clock.cpp:1521
 msgid "&Fuzzy"
 msgstr "&Aqıllı"
 
-#: clock.cpp:1535
+#: clock.cpp:1524
 msgid "&Type"
 msgstr "&Töre"
 
-#: clock.cpp:1536
+#: clock.cpp:1525
 msgid "Show Time&zone"
 msgstr "&Waqıt Quşağın Kürsätäse"
 
-#: clock.cpp:1539
+#: clock.cpp:1528
 msgid "&Adjust Date && Time..."
 msgstr "Waqıt/Zaman &Tözätü..."
 
-#: clock.cpp:1541
+#: clock.cpp:1530
 msgid "Date && Time &Format..."
 msgstr "Waqıt/Zaman &Küreneşe..."
 
-#: clock.cpp:1544
+#: clock.cpp:1533
 msgid "C&opy to Clipboard"
 msgstr "Alışu&kesä eçenä Al"
 
-#: clock.cpp:1548
+#: clock.cpp:1537
 msgid "&Configure Clock..."
 msgstr "Säğät &Caylaw..."
 
-#: clock.cpp:1805
+#: clock.cpp:1794
 #, c-format
 msgid "Showing time for %1"
 msgstr "%1 kürsätü tapqırı"
