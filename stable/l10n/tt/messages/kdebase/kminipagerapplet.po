@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase kminipagerapplet\n"
-"POT-Creation-Date: 2007-05-31 02:15+0200\n"
+"POT-Creation-Date: 2008-07-31 01:15+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,104 +12,104 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: pagerapplet.cpp:684
+#: pagerapplet.cpp:686
 msgid "&Launch Pager"
 msgstr "&KPager Cibärü"
 
-#: pagerapplet.cpp:687
+#: pagerapplet.cpp:689
 msgid "&Rename Desktop \"%1\""
 msgstr "\"%1\" Östäleneñ &Adı"
 
-#: pagerapplet.cpp:693
+#: pagerapplet.cpp:695
 msgid "Pager Layout"
 msgstr "Bitçe Urınlaşuı"
 
-#: pagerapplet.cpp:697
+#: pagerapplet.cpp:699
 msgid "&Automatic"
 msgstr "&Üzennän"
 
-#: pagerapplet.cpp:698
+#: pagerapplet.cpp:700
 msgid ""
 "_: one row or column\n"
 "&1"
 msgstr "&1"
 
-#: pagerapplet.cpp:699
+#: pagerapplet.cpp:701
 msgid ""
 "_: two rows or columns\n"
 "&2"
 msgstr "&2"
 
-#: pagerapplet.cpp:700
+#: pagerapplet.cpp:702
 msgid ""
 "_: three rows or columns\n"
 "&3"
 msgstr "&3"
 
-#: pagerapplet.cpp:702
+#: pagerapplet.cpp:704
 msgid "&Rows"
 msgstr "&Yul sanı"
 
-#: pagerapplet.cpp:703
+#: pagerapplet.cpp:705
 msgid "&Columns"
 msgstr "&Buy sanı"
 
-#: pagerapplet.cpp:706
+#: pagerapplet.cpp:708
 msgid "&Window Thumbnails"
 msgstr "&Täräzä Töymäsüräte"
 
-#: pagerapplet.cpp:707
+#: pagerapplet.cpp:709
 msgid "&Window Icons"
 msgstr "&Täräzä Tamğası"
 
-#: pagerapplet.cpp:709
+#: pagerapplet.cpp:711
 msgid "Text Label"
 msgstr "Yazma Bilgese"
 
-#: pagerapplet.cpp:710
+#: pagerapplet.cpp:712
 msgid "Desktop N&umber"
 msgstr "Östäl &Sanı"
 
-#: pagerapplet.cpp:712
+#: pagerapplet.cpp:714
 msgid "Desktop N&ame"
 msgstr "Östäl &Adı"
 
-#: pagerapplet.cpp:714
+#: pagerapplet.cpp:716
 msgid "N&o Label"
 msgstr "Yazma&sız"
 
-#: pagerapplet.cpp:717
+#: pagerapplet.cpp:719
 msgid "Background"
 msgstr "Asyaq"
 
-#: pagerapplet.cpp:718
+#: pagerapplet.cpp:720
 msgid "&Elegant"
 msgstr "&Elegant"
 
-#: pagerapplet.cpp:720
+#: pagerapplet.cpp:722
 msgid "&Transparent"
 msgstr "Ü&täkürenü"
 
-#: pagerapplet.cpp:722
+#: pagerapplet.cpp:724
 msgid "&Desktop Wallpaper"
 msgstr "&Östäl Cäymäse"
 
-#: pagerapplet.cpp:725
+#: pagerapplet.cpp:727
 msgid "&Pager Options"
 msgstr "&Bitçe Caylawı"
 
-#: pagerapplet.cpp:728
+#: pagerapplet.cpp:730
 msgid "&Configure Desktops..."
 msgstr "Öställär &Caylaw..."
 
-#: pagerbutton.cpp:801
+#: pagerbutton.cpp:777
 #, c-format
 msgid ""
 "_n: and 1 other\n"
 "and %n others"
 msgstr ""
 
-#: pagerbutton.cpp:809
+#: pagerbutton.cpp:785
 #, fuzzy, c-format
 msgid ""
 "_n: One window:\n"

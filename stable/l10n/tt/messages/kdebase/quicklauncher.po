@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase quicklauncher\n"
-"POT-Creation-Date: 2006-08-24 02:34+0200\n"
+"POT-Creation-Date: 2008-07-31 01:15+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -28,11 +28,11 @@ msgstr "tatarish-l10n@gmail.com"
 msgid "Automatic"
 msgstr "Üzennän"
 
-#: quickbutton.cpp:153 quicklauncher.cpp:165 quicklauncher.cpp:169
+#: quickbutton.cpp:148 quicklauncher.cpp:165 quicklauncher.cpp:169
 msgid "Add Application"
 msgstr "Yazılım Östäw"
 
-#: quickbutton.cpp:159
+#: quickbutton.cpp:154
 #, fuzzy
 msgid "Never Remove Automatically"
 msgstr "Üzennän berçaqta da betermäskä"
