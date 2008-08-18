@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase libtaskbar\n"
-"POT-Creation-Date: 2008-08-14 01:16+0200\n"
+"POT-Creation-Date: 2008-08-18 01:16+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -388,27 +388,27 @@ msgstr "Qoraltiräneñ Kiläse Kereme"
 msgid "Previous Taskbar Entry"
 msgstr "Yöktiräneñ Ütkän Kereme"
 
-#: taskcontainer.cpp:623 taskcontainer.cpp:1596
+#: taskcontainer.cpp:623 taskcontainer.cpp:1600
 msgid "modified"
 msgstr "üzgärelde"
 
-#: taskcontainer.cpp:1513
+#: taskcontainer.cpp:1517
 msgid "Loading application ..."
 msgstr "Yazılım yökläw..."
 
-#: taskcontainer.cpp:1577
+#: taskcontainer.cpp:1581
 msgid "On all desktops"
 msgstr "Bar östäldä dä"
 
-#: taskcontainer.cpp:1582
+#: taskcontainer.cpp:1586
 #, c-format
 msgid "On %1"
 msgstr "Açıq %1"
 
-#: taskcontainer.cpp:1588
+#: taskcontainer.cpp:1592
 msgid "Requesting attention"
 msgstr "Soraw birelde"
 
-#: taskcontainer.cpp:1594
+#: taskcontainer.cpp:1598
 msgid "Has unsaved changes"
 msgstr "Saqlanmağan üzgäreşlär bar"

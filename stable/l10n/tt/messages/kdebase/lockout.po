@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase lockout\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2008-08-18 01:16+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,30 +12,30 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: lockout.cpp:80
+#: lockout.cpp:77
 msgid "Lock the session"
 msgstr "Biklä bu sessine"
 
-#: lockout.cpp:81
+#: lockout.cpp:78
 msgid "Log out"
 msgstr "Çığu"
 
-#: lockout.cpp:212
+#: lockout.cpp:203
 msgid "Lock Session"
 msgstr "Sessine Biklä"
 
-#: lockout.cpp:215 lockout.cpp:236
+#: lockout.cpp:207
 msgid "&Transparent"
 msgstr "Ü&täkürenü"
 
-#: lockout.cpp:217
+#: lockout.cpp:210
 msgid "&Configure Screen Saver..."
 msgstr "Küräk Saqlağıçın &Caylaw..."
 
-#: lockout.cpp:233
+#: lockout.cpp:226
 msgid "&Log Out..."
 msgstr "Çığ&u..."
 
-#: lockout.cpp:238
+#: lockout.cpp:231
 msgid "&Configure Session Manager..."
 msgstr "Sessi İdäräçen &Caylaw..."
