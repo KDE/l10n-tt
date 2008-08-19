@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase naughtyapplet\n"
-"POT-Creation-Date: 2005-07-09 01:31+0200\n"
+"POT-Creation-Date: 2008-08-19 01:16+0200\n"
 "PO-Revision-Date: 2005-08-11 00:00+04\n"
 "Last-Translator: Tatarish L10n <tatarish.l10n@gmail.com>\n"
 "Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: NaughtyApplet.cpp:112
+#: NaughtyApplet.cpp:111
 msgid ""
 "A program called '%1' is slowing down the others on your machine. It may have a "
 "bug that is causing this, or it may just be busy.\n"
@@ -22,27 +22,27 @@ msgstr ""
 "bulıp çığuı bar, yä ki ul üzennän üze şulay eşli.\n"
 "Ul yazılımnı tuqtatıp qarísı kilmime?"
 
-#: NaughtyApplet.cpp:117
+#: NaughtyApplet.cpp:116
 msgid "Keep Running"
 msgstr "CIbärelgän Kileş Qaldır"
 
-#: NaughtyApplet.cpp:123
+#: NaughtyApplet.cpp:122
 msgid "In future, should busy programs called '%1' be ignored?"
 msgstr "Kiläçäktä '%1' atlı yazılımnıñ yökle buluına qaramasqamı?"
 
-#: NaughtyApplet.cpp:125
+#: NaughtyApplet.cpp:124
 msgid "Ignore"
 msgstr "Uzası"
 
-#: NaughtyApplet.cpp:125
+#: NaughtyApplet.cpp:124
 msgid "Do Not Ignore"
 msgstr "Ütmäskä"
 
-#: NaughtyApplet.cpp:163
+#: NaughtyApplet.cpp:162
 msgid "Naughty applet"
 msgstr "Şikle applet"
 
-#: NaughtyApplet.cpp:165
+#: NaughtyApplet.cpp:164
 msgid "Runaway process catcher"
 msgstr "Içqınğan eşlänü totqıç"
 
