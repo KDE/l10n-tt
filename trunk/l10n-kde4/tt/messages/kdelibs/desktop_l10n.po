@@ -1,10 +1,12 @@
 msgid ""
-msgstr "Project-Id-Version: desktop files\n"
+msgstr ""
+"Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-07 02:54+0000\n"
+"POT-Creation-Date: 2012-01-19 03:29+0000\n"
 "PO-Revision-Date: 2012-01-14 21:54+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <kde-i18n-doc@kde.org>\n"
+"Language: tt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -443,6 +445,11 @@ msgstr "Тай"
 msgctxt "Name"
 msgid "Turkish"
 msgstr "Төрек"
+
+#: tt/messages/entry.desktop:2
+msgctxt "Name"
+msgid "Tatar"
+msgstr ""
 
 #: ug/messages/entry.desktop:2
 msgctxt "Name"
