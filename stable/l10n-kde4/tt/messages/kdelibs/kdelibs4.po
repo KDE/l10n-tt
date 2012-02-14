@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-01-29 13:30+0100\n"
+"POT-Creation-Date: 2012-02-14 18:12+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -2378,27 +2378,6 @@ msgstr "%1'не яшерү"
 msgid "Show %1"
 msgstr "%1'не чагылдыру"
 
-#: kde3support/kdeui/k3listviewsearchline.cpp:287
-#: kdeui/itemviews/ktreewidgetsearchline.cpp:420
-msgid "Search Columns"
-msgstr "Эзләү баганалары"
-
-#: kde3support/kdeui/k3listviewsearchline.cpp:290
-#: kdeui/itemviews/ktreewidgetsearchline.cpp:422
-msgid "All Visible Columns"
-msgstr "Бар күрсәтелгән баганалар"
-
-#: kde3support/kdeui/k3listviewsearchline.cpp:307
-#, kde-format
-msgctxt "Column number %1"
-msgid "Column No. %1"
-msgstr "%1 номерлы багана"
-
-#: kde3support/kdeui/k3listviewsearchline.cpp:557
-#: kdeui/itemviews/ktreewidgetsearchline.cpp:601
-msgid "S&earch:"
-msgstr "&Эзләү:"
-
 #: kde3support/kdeui/k3sconfig.cpp:110
 msgctxt "@option:check"
 msgid "Do Spellchecking"
@@ -2604,60 +2583,6 @@ msgctxt "@item Spelling dictionary"
 msgid "<application>Hunspell</application> Default"
 msgstr "<application>Hunspell</application> үрнәкле"
 
-#: kde3support/kdeui/k3spell.cpp:1290
-msgid "You have to restart the dialog for changes to take effect"
-msgstr "Үзгәрешләр гамәлгә керсен өчен, диалогны яңача җибәрергә кирәк"
-
-#: kde3support/kdeui/k3spell.cpp:1526
-msgid "Spell Checker"
-msgstr "Дөрес язылышны тикшерү"
-
-#: kde3support/kdeui/k3spelldlg.cpp:49
-msgid "Check Spelling"
-msgstr "Дөрес язылышны тикшерү"
-
-#: kde3support/kdeui/k3spelldlg.cpp:53
-msgid "&Finished"
-msgstr "&Әзер"
-
-#: kde3support/kdeui/k3syntaxhighlighter.cpp:470
-#: kde3support/kdeui/k3syntaxhighlighter.cpp:576
-#: kdeui/sonnet/highlighter.cpp:242 kdeui/sonnet/highlighter.cpp:265
-msgid "As-you-type spell checking enabled."
-msgstr "Текст җыю вакытында дөрес язылышны тикшерү."
-
-#: kde3support/kdeui/k3syntaxhighlighter.cpp:472
-#: kdeui/sonnet/highlighter.cpp:267
-msgid "As-you-type spell checking disabled."
-msgstr "Текст җыю вакытында дөрес язылышны тикшермәү."
-
-#: kde3support/kdeui/k3syntaxhighlighter.cpp:519
-msgid "Incremental Spellcheck"
-msgstr "Текст җыю вакытында дөрес язылышны тикшерү."
-
-#: kde3support/kdeui/k3syntaxhighlighter.cpp:578
-#: kdeui/sonnet/highlighter.cpp:244
-msgid "Too many misspelled words. As-you-type spell checking disabled."
-msgstr ""
-"Хаталы сүз саны артык зур булганга күрә, текст җыю вакытында дөрес язылышның "
-"тикшерүе туктатылды."
-
-#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:493
-msgid "Check Spelling..."
-msgstr "Дөрес язылышны тикшерү..."
-
-#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:496
-msgid "Auto Spell Check"
-msgstr "Дөрес язылышны автоматик рәвештә тикшерү"
-
-#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:500
-msgid "Allow Tabulations"
-msgstr "Табуляцияне рөхсәт итү"
-
-#: kde3support/kdeui/k3textedit.cpp:348
-msgid "Spell Checking"
-msgstr "Дөрес язылышны тикшерү"
-
 #: kde3support/kdeui/k3wizard.cpp:48
 msgid "&Back"
 msgstr "&Кире кайту"
@@ -2666,6 +2591,55 @@ msgstr "&Кире кайту"
 msgctxt "Opposite to Back"
 msgid "&Next"
 msgstr "&Алга бару"
+
+#: kde3support/kdeui/k3command.cpp:389
+#, kde-format
+msgid "Undo: %1"
+msgstr "Кире кагу: %1"
+
+#: kde3support/kdeui/k3command.cpp:395
+#, kde-format
+msgid "Redo: %1"
+msgstr "Кабатлау: %1"
+
+#: kde3support/kdeui/k3command.cpp:422 kdeui/actions/kstandardaction_p.h:55
+msgid "&Undo"
+msgstr "Гамәлне кире кагу"
+
+#: kde3support/kdeui/k3command.cpp:422
+msgid "&Redo"
+msgstr "&Кире кагылган гамәлне кабатлау"
+
+#: kde3support/kdeui/k3command.cpp:427
+#, kde-format
+msgid "&Undo: %1"
+msgstr "&Кире кагу: %1"
+
+#: kde3support/kdeui/k3command.cpp:430
+#, kde-format
+msgid "&Redo: %1"
+msgstr "&Кабатлау: %1"
+
+#: kde3support/kdeui/k3listviewsearchline.cpp:287
+#: kdeui/itemviews/ktreewidgetsearchline.cpp:420
+msgid "Search Columns"
+msgstr "Эзләү баганалары"
+
+#: kde3support/kdeui/k3listviewsearchline.cpp:290
+#: kdeui/itemviews/ktreewidgetsearchline.cpp:422
+msgid "All Visible Columns"
+msgstr "Бар күрсәтелгән баганалар"
+
+#: kde3support/kdeui/k3listviewsearchline.cpp:307
+#, kde-format
+msgctxt "Column number %1"
+msgid "Column No. %1"
+msgstr "%1 номерлы багана"
+
+#: kde3support/kdeui/k3listviewsearchline.cpp:557
+#: kdeui/itemviews/ktreewidgetsearchline.cpp:601
+msgid "S&earch:"
+msgstr "&Эзләү:"
 
 #: kde3support/kdeui/k3passworddialog.cpp:358
 msgid "&Password:"
@@ -2744,33 +2718,59 @@ msgstr[1] "Серсүзнең озынлыгы %1 тамгадан зуррак 
 msgid "Passwords match"
 msgstr "Серсүзләр туры килә"
 
-#: kde3support/kdeui/k3command.cpp:389
-#, kde-format
-msgid "Undo: %1"
-msgstr "Кире кагу: %1"
+#: kde3support/kdeui/k3spell.cpp:1290
+msgid "You have to restart the dialog for changes to take effect"
+msgstr "Үзгәрешләр гамәлгә керсен өчен, диалогны яңача җибәрергә кирәк"
 
-#: kde3support/kdeui/k3command.cpp:395
-#, kde-format
-msgid "Redo: %1"
-msgstr "Кабатлау: %1"
+#: kde3support/kdeui/k3spell.cpp:1526
+msgid "Spell Checker"
+msgstr "Дөрес язылышны тикшерү"
 
-#: kde3support/kdeui/k3command.cpp:422 kdeui/actions/kstandardaction_p.h:55
-msgid "&Undo"
-msgstr "Гамәлне кире кагу"
+#: kde3support/kdeui/k3spelldlg.cpp:49
+msgid "Check Spelling"
+msgstr "Дөрес язылышны тикшерү"
 
-#: kde3support/kdeui/k3command.cpp:422
-msgid "&Redo"
-msgstr "&Кире кагылган гамәлне кабатлау"
+#: kde3support/kdeui/k3spelldlg.cpp:53
+msgid "&Finished"
+msgstr "&Әзер"
 
-#: kde3support/kdeui/k3command.cpp:427
-#, kde-format
-msgid "&Undo: %1"
-msgstr "&Кире кагу: %1"
+#: kde3support/kdeui/k3syntaxhighlighter.cpp:470
+#: kde3support/kdeui/k3syntaxhighlighter.cpp:576
+#: kdeui/sonnet/highlighter.cpp:242 kdeui/sonnet/highlighter.cpp:265
+msgid "As-you-type spell checking enabled."
+msgstr "Текст җыю вакытында дөрес язылышны тикшерү."
 
-#: kde3support/kdeui/k3command.cpp:430
-#, kde-format
-msgid "&Redo: %1"
-msgstr "&Кабатлау: %1"
+#: kde3support/kdeui/k3syntaxhighlighter.cpp:472
+#: kdeui/sonnet/highlighter.cpp:267
+msgid "As-you-type spell checking disabled."
+msgstr "Текст җыю вакытында дөрес язылышны тикшермәү."
+
+#: kde3support/kdeui/k3syntaxhighlighter.cpp:519
+msgid "Incremental Spellcheck"
+msgstr "Текст җыю вакытында дөрес язылышны тикшерү."
+
+#: kde3support/kdeui/k3syntaxhighlighter.cpp:578
+#: kdeui/sonnet/highlighter.cpp:244
+msgid "Too many misspelled words. As-you-type spell checking disabled."
+msgstr ""
+"Хаталы сүз саны артык зур булганга күрә, текст җыю вакытында дөрес язылышның "
+"тикшерүе туктатылды."
+
+#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:493
+msgid "Check Spelling..."
+msgstr "Дөрес язылышны тикшерү..."
+
+#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:496
+msgid "Auto Spell Check"
+msgstr "Дөрес язылышны автоматик рәвештә тикшерү"
+
+#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:500
+msgid "Allow Tabulations"
+msgstr "Табуляцияне рөхсәт итү"
+
+#: kde3support/kdeui/k3textedit.cpp:348
+msgid "Spell Checking"
+msgstr "Дөрес язылышны тикшерү"
 
 #: kde3support/kio/kfile/k3fileview.cpp:123
 msgid "Unknown View"
@@ -4701,60 +4701,6 @@ msgctxt "concatenation of date/time and time zone"
 msgid "%1 %2"
 msgstr "%1 %2"
 
-#: kdecore/network/k3resolver.cpp:545 kdecore/network/netsupp.cpp:891
-msgid "no error"
-msgstr "хатасыз"
-
-#: kdecore/network/k3resolver.cpp:546
-msgid "requested family not supported for this host name"
-msgstr "Күрсәтелгән сервер исеме өчен бу гаиләлек кабул ителми"
-
-#: kdecore/network/k3resolver.cpp:547 kdecore/network/netsupp.cpp:893
-msgid "temporary failure in name resolution"
-msgstr "исемнәрне билгеләгәндә вакытлы тоткарлык килеп чыкты"
-
-#: kdecore/network/k3resolver.cpp:548 kdecore/network/netsupp.cpp:895
-msgid "non-recoverable failure in name resolution"
-msgstr "Исемнернә билгеләгәндә тәнкыйть хата килеп чыкты"
-
-#: kdecore/network/k3resolver.cpp:549
-msgid "invalid flags"
-msgstr "хаталы әләмләр"
-
-#: kdecore/network/k3resolver.cpp:550 kdecore/network/netsupp.cpp:897
-msgid "memory allocation failure"
-msgstr "хәтер бирү хатасы"
-
-#: kdecore/network/k3resolver.cpp:551 kdecore/network/netsupp.cpp:899
-msgid "name or service not known"
-msgstr "исем яисә хезмәт билгесез"
-
-#: kdecore/network/k3resolver.cpp:552
-msgid "requested family not supported"
-msgstr "соралган гаиләлек тотылмый"
-
-#: kdecore/network/k3resolver.cpp:553
-msgid "requested service not supported for this socket type"
-msgstr "Бу сокет төре соралган хезмәтне тотмый"
-
-#: kdecore/network/k3resolver.cpp:554
-msgid "requested socket type not supported"
-msgstr "соралган сокетлар төре тотылмый"
-
-#: kdecore/network/k3resolver.cpp:555
-msgid "unknown error"
-msgstr "билгесез хата"
-
-#: kdecore/network/k3resolver.cpp:557
-#, kde-format
-msgctxt "1: the i18n'ed system error code, from errno"
-msgid "system error: %1"
-msgstr "системалы хата: %1"
-
-#: kdecore/network/k3resolver.cpp:568
-msgid "request was canceled"
-msgstr "сорау кире кагылгды"
-
 #: kdecore/network/k3socketaddress.cpp:623
 #, kde-format
 msgctxt "1: the unknown socket address family number"
@@ -4905,21 +4851,41 @@ msgstr "Сокетның билгесез хатасы."
 msgid "Operation not supported"
 msgstr "Гамәл тотылмый"
 
+#: kdecore/network/netsupp.cpp:891 kdecore/network/k3resolver.cpp:545
+msgid "no error"
+msgstr "хатасыз"
+
 #: kdecore/network/netsupp.cpp:892
 msgid "address family for nodename not supported"
 msgstr "бу nodename өчен адреслар гаиләлеге туры килми"
+
+#: kdecore/network/netsupp.cpp:893 kdecore/network/k3resolver.cpp:547
+msgid "temporary failure in name resolution"
+msgstr "исемнәрне билгеләгәндә вакытлы тоткарлык килеп чыкты"
 
 #: kdecore/network/netsupp.cpp:894
 msgid "invalid value for 'ai_flags'"
 msgstr "«ai_flags» өчен дөрес булмаган мәгънә"
 
+#: kdecore/network/netsupp.cpp:895 kdecore/network/k3resolver.cpp:548
+msgid "non-recoverable failure in name resolution"
+msgstr "Исемнернә билгеләгәндә тәнкыйть хата килеп чыкты"
+
 #: kdecore/network/netsupp.cpp:896
 msgid "'ai_family' not supported"
 msgstr "«ai_family» гаиләләге тотылмый"
 
+#: kdecore/network/netsupp.cpp:897 kdecore/network/k3resolver.cpp:550
+msgid "memory allocation failure"
+msgstr "хәтер бирү хатасы"
+
 #: kdecore/network/netsupp.cpp:898
 msgid "no address associated with nodename"
 msgstr "бу үзәк белән (nodename) бер адрес та бәйләнмәгән"
+
+#: kdecore/network/netsupp.cpp:899 kdecore/network/k3resolver.cpp:551
+msgid "name or service not known"
+msgstr "исем яисә хезмәт билгесез"
 
 #: kdecore/network/netsupp.cpp:900
 msgid "servname not supported for ai_socktype"
@@ -4945,6 +4911,40 @@ msgstr "Dante SOCKS клиенты"
 #: kdecore/network/ksocketfactory.cpp:106
 msgid "Timed out trying to connect to remote host"
 msgstr "Ерактагы үзәктән җавапны көтү вакыты үтте"
+
+#: kdecore/network/k3resolver.cpp:546
+msgid "requested family not supported for this host name"
+msgstr "Күрсәтелгән сервер исеме өчен бу гаиләлек кабул ителми"
+
+#: kdecore/network/k3resolver.cpp:549
+msgid "invalid flags"
+msgstr "хаталы әләмләр"
+
+#: kdecore/network/k3resolver.cpp:552
+msgid "requested family not supported"
+msgstr "соралган гаиләлек тотылмый"
+
+#: kdecore/network/k3resolver.cpp:553
+msgid "requested service not supported for this socket type"
+msgstr "Бу сокет төре соралган хезмәтне тотмый"
+
+#: kdecore/network/k3resolver.cpp:554
+msgid "requested socket type not supported"
+msgstr "соралган сокетлар төре тотылмый"
+
+#: kdecore/network/k3resolver.cpp:555
+msgid "unknown error"
+msgstr "билгесез хата"
+
+#: kdecore/network/k3resolver.cpp:557
+#, kde-format
+msgctxt "1: the i18n'ed system error code, from errno"
+msgid "system error: %1"
+msgstr "системалы хата: %1"
+
+#: kdecore/network/k3resolver.cpp:568
+msgid "request was canceled"
+msgstr "сорау кире кагылгды"
 
 #: kdecore/network/ktcpsocket.cpp:152
 msgctxt "SSL error"
@@ -5311,6 +5311,50 @@ msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "Автоматик рәвештә билгеләү"
 
+#: kdeui/actions/ktogglefullscreenaction.cpp:48
+#: kdeui/actions/ktogglefullscreenaction.cpp:55
+#: kdeui/actions/ktogglefullscreenaction.cpp:85
+#: kdeui/actions/kstandardaction_p.h:101
+msgid "F&ull Screen Mode"
+msgstr "&Тулы экранлы режим"
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:51
+#: kdeui/actions/ktogglefullscreenaction.cpp:58
+#: kdeui/actions/ktogglefullscreenaction.cpp:86
+msgid "Full Screen"
+msgstr "Тулы экран"
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:81
+msgid "Exit F&ull Screen Mode"
+msgstr "&Тулы экранлы режимнан чыгу"
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:82
+msgid "Exit Full Screen"
+msgstr "Тулы экраннан чыгу"
+
+#: kdeui/actions/kaction.cpp:122
+#, kde-format
+msgid ""
+"The key sequence '%1' is ambiguous. Use 'Configure Shortcuts'\n"
+"from the 'Settings' menu to solve the ambiguity.\n"
+"No action will be triggered."
+msgstr ""
+"Конфликт действий на комбинации клавиш «%1». Используйте пункт \n"
+"«Комбинации клавиш» меню «Настройка» чтобы исправить конфликт.\n"
+"Не выполнено ни одно из конфликтующих действий."
+
+#: kdeui/actions/kaction.cpp:126
+msgid "Ambiguous shortcut detected"
+msgstr "Гамәлләрнең бәрелеше"
+
+#: kdeui/actions/krecentfilesaction.cpp:81
+msgid "No Entries"
+msgstr "Язмасыз"
+
+#: kdeui/actions/krecentfilesaction.cpp:85
+msgid "Clear List"
+msgstr "Исемлекне чистарту"
+
 #: kdeui/actions/kstandardaction.cpp:93 kdeui/util/kstandardguiitem.cpp:210
 msgctxt "go back"
 msgid "&Back"
@@ -5356,50 +5400,6 @@ msgstr ""
 "Торыш юлын чагылдыру<p>Торыш юлы - кушымтаның тәрәзә астында урнашкан һәм "
 "аның эш-хәлен чагылдыручы буй.</p>"
 
-#: kdeui/actions/ktogglefullscreenaction.cpp:48
-#: kdeui/actions/ktogglefullscreenaction.cpp:55
-#: kdeui/actions/ktogglefullscreenaction.cpp:85
-#: kdeui/actions/kstandardaction_p.h:101
-msgid "F&ull Screen Mode"
-msgstr "&Тулы экранлы режим"
-
-#: kdeui/actions/ktogglefullscreenaction.cpp:51
-#: kdeui/actions/ktogglefullscreenaction.cpp:58
-#: kdeui/actions/ktogglefullscreenaction.cpp:86
-msgid "Full Screen"
-msgstr "Тулы экран"
-
-#: kdeui/actions/ktogglefullscreenaction.cpp:81
-msgid "Exit F&ull Screen Mode"
-msgstr "&Тулы экранлы режимнан чыгу"
-
-#: kdeui/actions/ktogglefullscreenaction.cpp:82
-msgid "Exit Full Screen"
-msgstr "Тулы экраннан чыгу"
-
-#: kdeui/actions/kaction.cpp:122
-#, kde-format
-msgid ""
-"The key sequence '%1' is ambiguous. Use 'Configure Shortcuts'\n"
-"from the 'Settings' menu to solve the ambiguity.\n"
-"No action will be triggered."
-msgstr ""
-"Конфликт действий на комбинации клавиш «%1». Используйте пункт \n"
-"«Комбинации клавиш» меню «Настройка» чтобы исправить конфликт.\n"
-"Не выполнено ни одно из конфликтующих действий."
-
-#: kdeui/actions/kaction.cpp:126
-msgid "Ambiguous shortcut detected"
-msgstr "Гамәлләрнең бәрелеше"
-
-#: kdeui/actions/krecentfilesaction.cpp:81
-msgid "No Entries"
-msgstr "Язмасыз"
-
-#: kdeui/actions/krecentfilesaction.cpp:85
-msgid "Clear List"
-msgstr "Исемлекне чистарту"
-
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:84
 msgid ""
 "<qt>No information available.<br />The supplied KAboutData object does not "
@@ -5435,6 +5435,70 @@ msgstr "Лицензия: %1"
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:312
 msgid "License Agreement"
 msgstr "Лицензион килешү"
+
+#: kdeui/dialogs/kpassworddialog.cpp:70
+msgid "Password"
+msgstr "Серсүз"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:127
+#: kdeui/widgets/kcharselectdata.cpp:685
+msgid "Unknown"
+msgstr "Билгесез"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:570
+#: kdeui/dialogs/kshortcutseditor.cpp:586
+msgid "Key Conflict"
+msgstr "Төймәләр бәрелештә"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:571
+#, kde-format
+msgid ""
+"The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
+"Do you want to reassign it from that action to the current one?"
+msgstr ""
+"%1 сырының рәвеше инде «%2» гамәленә бәйләнгән.\n"
+"Хәзерге гамәл белән бәйләргә телисезме?"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:575
+#: kdeui/dialogs/kshortcutseditor.cpp:591 kdeui/shortcuts/kglobalaccel.cpp:547
+#: kdeui/shortcuts/kglobalaccel.cpp:587
+#: kdeui/widgets/kkeysequencewidget.cpp:146
+#: kdeui/widgets/kkeysequencewidget.cpp:235
+#: kdeui/widgets/kkeysequencewidget.cpp:632
+msgid "Reassign"
+msgstr "Яңа белән бәйләү"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:587
+#, kde-format
+msgid ""
+"The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
+"Do you want to reassign it from that action to the current one?"
+msgstr ""
+"%1 сызучы сыны инде «%2» гамәленә бәйләнгән.\n"
+"Хәзерге гамәл белән бәйләргә телисезме?"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:630
+#, kde-format
+msgctxt "header for an applications shortcut list"
+msgid "Shortcuts for %1"
+msgstr "%1 өчен төймә тезмәсе"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:650
+msgid "Global:"
+msgstr "Глобаль:"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:665
+msgid "Action Name"
+msgstr "Гамәлнең исеме"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:669
+msgid "Shortcuts"
+msgstr "Төймә тезмәләре"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:673
+#: knewstuff/knewstuff2/ui/kdxstranslation.cpp:47
+msgid "Description"
+msgstr "Тасвирлама"
 
 #: kdeui/dialogs/kaboutkdedialog_p.cpp:42
 msgid "About KDE"
@@ -5670,37 +5734,64 @@ msgstr "%1"
 msgid "Change Icon"
 msgstr "Билгечекне үзгәртү"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:90
-msgid "Print Immediately"
-msgstr "Хәзер үк бастыру"
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:98
+msgid "Switch Application Language"
+msgstr "Кушымтаның телен үзгәртү"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:91
-msgid "Hold Indefinitely"
-msgstr "Киләсе күрсәтмәләргә кадәр тотып тору"
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:108
+msgid "Please choose the language which should be used for this application:"
+msgstr "Бу кушымтада кулланырга теләгән телне сайлагыз:"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:92
-msgid "Day (06:00 to 17:59)"
-msgstr "Көн (06:00 — 17:59)"
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:136
+msgid "Add Fallback Language"
+msgstr "Запас телне кушу:"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:93
-msgid "Night (18:00 to 05:59)"
-msgstr "Төн (18:00 — 05:59)"
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:137
+msgid ""
+"Adds one more language which will be used if other translations do not "
+"contain a proper translation."
+msgstr ""
+"Сезнең телегезгә тәрҗемә булмаган вакытта бер яисә берничә кулланыла торган "
+"телне күрсәтү."
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:94
-msgid "Second Shift (16:00 to 23:59)"
-msgstr "Икенче алмашу вакытында (16:00 — 23:59)"
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:227
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:255
+msgid ""
+"The language for this application has been changed. The change will take "
+"effect the next time the application is started."
+msgstr ""
+"Бу кушымтаның теле үзгәртелде. Үзгәрешләр кушымтаның яңадан җибәргән вакытта "
+"тормышка ашырылачак."
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:95
-msgid "Third Shift (00:00 to 07:59)"
-msgstr "Өченче алмашу вакытында (00:00 — 07:59)"
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:228
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:256
+msgid "Application Language Changed"
+msgstr "Кушымтаның теле үзгәрелде"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:96
-msgid "Weekend (Saturday to Sunday)"
-msgstr "Ял көне (шимбә һәм якшәмбе)"
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:323
+msgid "Primary language:"
+msgstr "Төп тел:"
 
-#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:97
-msgid "Specific Time"
-msgstr "Билгеләнгән вакытта"
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:323
+msgid "Fallback language:"
+msgstr "Запас язык:"
+
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:343
+#: kdeui/util/kstandardguiitem.cpp:291 kross/ui/view.cpp:329
+msgid "Remove"
+msgstr "Бетерү"
+
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:354
+msgid ""
+"This is the main application language which will be used first, before any "
+"other languages."
+msgstr "Бу төп тел, кушымта өчен ул башка телләрдән өстенрәк тора."
+
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:355
+msgid ""
+"This is the language which will be used if any previous languages do not "
+"contain a proper translation."
+msgstr "Сезнең телегезгә тәрҗемә булмаган вакытта бу тел кулланылачак."
 
 #: kdeui/dialogs/kcupsoptionspageswidget_p.cpp:167
 msgid "Left to Right, Top to Bottom"
@@ -5818,31 +5909,6 @@ msgctxt "@title:window"
 msgid "Print"
 msgstr "Бастыру"
 
-#: kdeui/dialogs/klinkdialog.cpp:49
-msgid "Manage Link"
-msgstr "Сылтама"
-
-#: kdeui/dialogs/klinkdialog.cpp:58
-msgid "Link Text:"
-msgstr "Сылтаманың тексты:"
-
-#: kdeui/dialogs/klinkdialog.cpp:61
-msgid "Link URL:"
-msgstr "Сылтаманың URL:"
-
-#: kdeui/dialogs/kpassworddialog.cpp:70
-msgid "Password"
-msgstr "Серсүз"
-
-#: kdeui/dialogs/kpixmapregionselectordialog.cpp:64
-msgid "Select Region of Image"
-msgstr "Сурәт өлкәсен сайлау"
-
-#: kdeui/dialogs/kpixmapregionselectordialog.cpp:68
-msgid "Please click and drag on the image to select the region of interest:"
-msgstr ""
-"Кирәкле өлкәне сайлау өчен тычканның төймәсенә басып күрсәткечкә күчерегез:"
-
 #: kdeui/dialogs/kshortcuteditwidget.cpp:59
 msgid "Default:"
 msgstr "Стандарт:"
@@ -5857,6 +5923,15 @@ msgstr "Юк"
 #: kdeui/dialogs/kshortcuteditwidget.cpp:66
 msgid "Custom:"
 msgstr "Кулдан:"
+
+#: kdeui/dialogs/kpixmapregionselectordialog.cpp:64
+msgid "Select Region of Image"
+msgstr "Сурәт өлкәсен сайлау"
+
+#: kdeui/dialogs/kpixmapregionselectordialog.cpp:68
+msgid "Please click and drag on the image to select the region of interest:"
+msgstr ""
+"Кирәкле өлкәне сайлау өчен тычканның төймәсенә басып күрсәткечкә күчерегез:"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:41
 msgid "Shortcut Schemes"
@@ -5937,131 +6012,6 @@ msgstr "Бастыру"
 msgid "Reset to Defaults"
 msgstr "Алдан куелган көйләүләр"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:127
-#: kdeui/widgets/kcharselectdata.cpp:685
-msgid "Unknown"
-msgstr "Билгесез"
-
-#: kdeui/dialogs/kshortcutseditor.cpp:570
-#: kdeui/dialogs/kshortcutseditor.cpp:586
-msgid "Key Conflict"
-msgstr "Төймәләр бәрелештә"
-
-#: kdeui/dialogs/kshortcutseditor.cpp:571
-#, kde-format
-msgid ""
-"The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
-"Do you want to reassign it from that action to the current one?"
-msgstr ""
-"%1 сырының рәвеше инде «%2» гамәленә бәйләнгән.\n"
-"Хәзерге гамәл белән бәйләргә телисезме?"
-
-#: kdeui/dialogs/kshortcutseditor.cpp:575
-#: kdeui/dialogs/kshortcutseditor.cpp:591 kdeui/shortcuts/kglobalaccel.cpp:547
-#: kdeui/shortcuts/kglobalaccel.cpp:587
-#: kdeui/widgets/kkeysequencewidget.cpp:146
-#: kdeui/widgets/kkeysequencewidget.cpp:235
-#: kdeui/widgets/kkeysequencewidget.cpp:632
-msgid "Reassign"
-msgstr "Яңа белән бәйләү"
-
-#: kdeui/dialogs/kshortcutseditor.cpp:587
-#, kde-format
-msgid ""
-"The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
-"Do you want to reassign it from that action to the current one?"
-msgstr ""
-"%1 сызучы сыны инде «%2» гамәленә бәйләнгән.\n"
-"Хәзерге гамәл белән бәйләргә телисезме?"
-
-#: kdeui/dialogs/kshortcutseditor.cpp:630
-#, kde-format
-msgctxt "header for an applications shortcut list"
-msgid "Shortcuts for %1"
-msgstr "%1 өчен төймә тезмәсе"
-
-#: kdeui/dialogs/kshortcutseditor.cpp:650
-msgid "Global:"
-msgstr "Глобаль:"
-
-#: kdeui/dialogs/kshortcutseditor.cpp:665
-msgid "Action Name"
-msgstr "Гамәлнең исеме"
-
-#: kdeui/dialogs/kshortcutseditor.cpp:669
-msgid "Shortcuts"
-msgstr "Төймә тезмәләре"
-
-#: kdeui/dialogs/kshortcutseditor.cpp:673
-#: knewstuff/knewstuff2/ui/kdxstranslation.cpp:47
-msgid "Description"
-msgstr "Тасвирлама"
-
-#: kdeui/dialogs/kshortcutseditoritem.cpp:45
-#, kde-format
-msgctxt "@item:intable Action name in shortcuts configuration"
-msgid "%1"
-msgstr "%1"
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:98
-msgid "Switch Application Language"
-msgstr "Кушымтаның телен үзгәртү"
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:108
-msgid "Please choose the language which should be used for this application:"
-msgstr "Бу кушымтада кулланырга теләгән телне сайлагыз:"
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:136
-msgid "Add Fallback Language"
-msgstr "Запас телне кушу:"
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:137
-msgid ""
-"Adds one more language which will be used if other translations do not "
-"contain a proper translation."
-msgstr ""
-"Сезнең телегезгә тәрҗемә булмаган вакытта бер яисә берничә кулланыла торган "
-"телне күрсәтү."
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:227
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:255
-msgid ""
-"The language for this application has been changed. The change will take "
-"effect the next time the application is started."
-msgstr ""
-"Бу кушымтаның теле үзгәртелде. Үзгәрешләр кушымтаның яңадан җибәргән вакытта "
-"тормышка ашырылачак."
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:228
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:256
-msgid "Application Language Changed"
-msgstr "Кушымтаның теле үзгәрелде"
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:323
-msgid "Primary language:"
-msgstr "Төп тел:"
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:323
-msgid "Fallback language:"
-msgstr "Запас язык:"
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:343
-#: kdeui/util/kstandardguiitem.cpp:291 kross/ui/view.cpp:329
-msgid "Remove"
-msgstr "Бетерү"
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:354
-msgid ""
-"This is the main application language which will be used first, before any "
-"other languages."
-msgstr "Бу төп тел, кушымта өчен ул башка телләрдән өстенрәк тора."
-
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:355
-msgid ""
-"This is the language which will be used if any previous languages do not "
-"contain a proper translation."
-msgstr "Сезнең телегезгә тәрҗемә булмаган вакытта бу тел кулланылачак."
-
 #: kdeui/dialogs/ktip.cpp:230
 msgid "Tip of the Day"
 msgstr "Бар монда бер киңәш..."
@@ -6078,6 +6028,12 @@ msgstr "&Җибәргәндә киңәшләрне чагылдыру"
 msgctxt "Opposite to Previous"
 msgid "&Next"
 msgstr "&Алга бару"
+
+#: kdeui/dialogs/kshortcutseditoritem.cpp:45
+#, kde-format
+msgctxt "@item:intable Action name in shortcuts configuration"
+msgid "%1"
+msgstr "%1"
 
 #: kdeui/dialogs/kaboutapplicationpersonmodel_p.cpp:205
 #, kde-format
@@ -6304,6 +6260,38 @@ msgstr ""
 msgid "Close Message"
 msgstr "Хәбәрне ябу"
 
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:90
+msgid "Print Immediately"
+msgstr "Хәзер үк бастыру"
+
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:91
+msgid "Hold Indefinitely"
+msgstr "Киләсе күрсәтмәләргә кадәр тотып тору"
+
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:92
+msgid "Day (06:00 to 17:59)"
+msgstr "Көн (06:00 — 17:59)"
+
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:93
+msgid "Night (18:00 to 05:59)"
+msgstr "Төн (18:00 — 05:59)"
+
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:94
+msgid "Second Shift (16:00 to 23:59)"
+msgstr "Икенче алмашу вакытында (16:00 — 23:59)"
+
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:95
+msgid "Third Shift (00:00 to 07:59)"
+msgstr "Өченче алмашу вакытында (00:00 — 07:59)"
+
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:96
+msgid "Weekend (Saturday to Sunday)"
+msgstr "Ял көне (шимбә һәм якшәмбе)"
+
+#: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:97
+msgid "Specific Time"
+msgstr "Билгеләнгән вакытта"
+
 #: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:60
 msgctxt "Action to send an email to a contributor"
 msgid "Email contributor"
@@ -6476,6 +6464,42 @@ msgstr "Алга бару"
 #: knewstuff/knewstuff3/uploaddialog.cpp:370
 msgid "Finish"
 msgstr "Тәмамлау"
+
+#: kdeui/dialogs/klinkdialog.cpp:49
+msgid "Manage Link"
+msgstr "Сылтама"
+
+#: kdeui/dialogs/klinkdialog.cpp:58
+msgid "Link Text:"
+msgstr "Сылтаманың тексты:"
+
+#: kdeui/dialogs/klinkdialog.cpp:61
+msgid "Link URL:"
+msgstr "Сылтаманың URL:"
+
+#: kdeui/findreplace/kreplacedialog.cpp:154
+#, kde-format
+msgid "Your replacement string is referencing a capture greater than '\\%1', "
+msgstr "Алыштыру юлы эләктереп алуга сылтама ясый, һәм ул '\\%1'дән күбрәк. "
+
+#: kdeui/findreplace/kreplacedialog.cpp:156
+#, kde-format
+msgid "but your pattern only defines 1 capture."
+msgid_plural "but your pattern only defines %1 captures."
+msgstr[0] "но шаблон определяет только %1 захват."
+msgstr[1] "но шаблон определяет только %1 захвата."
+
+#: kdeui/findreplace/kreplacedialog.cpp:158
+msgid "but your pattern defines no captures."
+msgstr "шаблоныгыз эләктереп алуны билгеләми."
+
+#: kdeui/findreplace/kreplacedialog.cpp:159
+msgid ""
+"\n"
+"Please correct."
+msgstr ""
+"\n"
+"Төзәтү кирәк."
 
 #: kdeui/findreplace/kfind.cpp:50
 msgid "Find Next"
@@ -6792,30 +6816,6 @@ msgctxt "@action:button Stop find & replace"
 msgid "Stop"
 msgstr "Туктату"
 
-#: kdeui/findreplace/kreplacedialog.cpp:154
-#, kde-format
-msgid "Your replacement string is referencing a capture greater than '\\%1', "
-msgstr "Алыштыру юлы эләктереп алуга сылтама ясый, һәм ул '\\%1'дән күбрәк. "
-
-#: kdeui/findreplace/kreplacedialog.cpp:156
-#, kde-format
-msgid "but your pattern only defines 1 capture."
-msgid_plural "but your pattern only defines %1 captures."
-msgstr[0] "но шаблон определяет только %1 захват."
-msgstr[1] "но шаблон определяет только %1 захвата."
-
-#: kdeui/findreplace/kreplacedialog.cpp:158
-msgid "but your pattern defines no captures."
-msgstr "шаблоныгыз эләктереп алуны билгеләми."
-
-#: kdeui/findreplace/kreplacedialog.cpp:159
-msgid ""
-"\n"
-"Please correct."
-msgstr ""
-"\n"
-"Төзәтү кирәк."
-
 #. i18n: Generic sans serif font presented in font choosers. When selected,
 #. the system will choose a real font, mandated by distro settings.
 #: kdeui/fonts/fonthelpers.cpp:32
@@ -6871,43 +6871,6 @@ msgstr "Җөмһүриятебездәге матурлыкларны үзебе
 msgctxt "Numeric IDs of scripts for font previews"
 msgid "1"
 msgstr "1"
-
-#: kdeui/fonts/kfontdialog.cpp:75
-msgid "Select Font"
-msgstr "Хәрефне сайлау"
-
-#: kdeui/fonts/kfontrequester.cpp:110
-msgid "Choose..."
-msgstr "Сайлау..."
-
-#: kdeui/fonts/kfontrequester.cpp:215
-msgid "Click to select a font"
-msgstr "Хәрефне сайлау өчен басыгыз"
-
-#: kdeui/fonts/kfontrequester.cpp:222
-msgid "Preview of the selected font"
-msgstr "Сайланган хәрефнең үрнәге"
-
-#: kdeui/fonts/kfontrequester.cpp:223
-msgid ""
-"This is a preview of the selected font. You can change it by clicking the "
-"\"Choose...\" button."
-msgstr ""
-"Бу сайланган хәрефнең үрнәге. Аны \"Сайлау...\" төймәсенә басып алыштырып "
-"була."
-
-#: kdeui/fonts/kfontrequester.cpp:228
-#, kde-format
-msgid "Preview of the \"%1\" font"
-msgstr "«%1» хәрефенең үрнәге"
-
-#: kdeui/fonts/kfontrequester.cpp:229
-#, kde-format
-msgid ""
-"This is a preview of the \"%1\" font. You can change it by clicking the "
-"\"Choose...\" button."
-msgstr ""
-"Бу «%1» хәрефенең үрнәге. Аны \"Сайлау...\" төймәсенә басып алыштырып була."
 
 #: kdeui/fonts/kfontchooser.cpp:162
 msgctxt "@info:whatsthis"
@@ -7069,6 +7032,43 @@ msgctxt "@item Font style"
 msgid "%1"
 msgstr "%1"
 
+#: kdeui/fonts/kfontdialog.cpp:75
+msgid "Select Font"
+msgstr "Хәрефне сайлау"
+
+#: kdeui/fonts/kfontrequester.cpp:110
+msgid "Choose..."
+msgstr "Сайлау..."
+
+#: kdeui/fonts/kfontrequester.cpp:215
+msgid "Click to select a font"
+msgstr "Хәрефне сайлау өчен басыгыз"
+
+#: kdeui/fonts/kfontrequester.cpp:222
+msgid "Preview of the selected font"
+msgstr "Сайланган хәрефнең үрнәге"
+
+#: kdeui/fonts/kfontrequester.cpp:223
+msgid ""
+"This is a preview of the selected font. You can change it by clicking the "
+"\"Choose...\" button."
+msgstr ""
+"Бу сайланган хәрефнең үрнәге. Аны \"Сайлау...\" төймәсенә басып алыштырып "
+"була."
+
+#: kdeui/fonts/kfontrequester.cpp:228
+#, kde-format
+msgid "Preview of the \"%1\" font"
+msgstr "«%1» хәрефенең үрнәге"
+
+#: kdeui/fonts/kfontrequester.cpp:229
+#, kde-format
+msgid ""
+"This is a preview of the \"%1\" font. You can change it by clicking the "
+"\"Choose...\" button."
+msgstr ""
+"Бу «%1» хәрефенең үрнәге. Аны \"Сайлау...\" төймәсенә басып алыштырып була."
+
 #: kdeui/itemviews/kfilterproxysearchline.cpp:73
 #: nepomuk/utils/searchwidget.cpp:142
 msgid "Search"
@@ -7224,31 +7224,31 @@ msgstr "Стиль «%1» не найден"
 msgid "Unknown Application"
 msgstr "Билгесез кушымта"
 
-#: kdeui/notifications/ksystemtrayicon.cpp:156
-msgid "Minimize"
-msgstr "Төрү"
-
-#: kdeui/notifications/ksystemtrayicon.cpp:215
 #: kdeui/notifications/kstatusnotifieritem.cpp:488
 #: kdeui/notifications/kstatusnotifieritem.cpp:926
+#: kdeui/notifications/ksystemtrayicon.cpp:215
 msgid "&Minimize"
 msgstr "&Төрү"
 
-#: kdeui/notifications/ksystemtrayicon.cpp:219
 #: kdeui/notifications/kstatusnotifieritem.cpp:924
+#: kdeui/notifications/ksystemtrayicon.cpp:219
 msgid "&Restore"
 msgstr "Тор&гызу"
 
-#: kdeui/notifications/ksystemtrayicon.cpp:239
 #: kdeui/notifications/kstatusnotifieritem.cpp:934
+#: kdeui/notifications/ksystemtrayicon.cpp:239
 #, kde-format
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>Сез чыннан да <b>%1</b>' чыгасыгыз киләме?</qt>"
 
-#: kdeui/notifications/ksystemtrayicon.cpp:242
 #: kdeui/notifications/kstatusnotifieritem.cpp:937
+#: kdeui/notifications/ksystemtrayicon.cpp:242
 msgid "Confirm Quit From System Tray"
 msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
+
+#: kdeui/notifications/ksystemtrayicon.cpp:156
+msgid "Minimize"
+msgstr "Төрү"
 
 #: kdeui/shortcuts/kcheckaccelerators.cpp:209
 msgctxt "@title:window"
@@ -7305,43 +7305,6 @@ msgctxt ""
 "button"
 msgid "Hold %1, then push %2"
 msgstr "%1 төймәсен тотып, %2 төймәсенә басу"
-
-#: kdeui/shortcuts/kglobalaccel.cpp:540
-msgid "Conflict with Global Shortcut"
-msgstr "Глобаль комбинация белән бәрелештә"
-
-#: kdeui/shortcuts/kglobalaccel.cpp:541
-#, kde-format
-msgid ""
-"The '%1' key combination has already been allocated to the global action "
-"\"%2\" in %3.\n"
-"Do you want to reassign it from that action to the current one?"
-msgstr ""
-"Комбинация клавиш %1 уже связана с глобальным действием «%2» в %3.\n"
-"Связать комбинацию с текущим действием?"
-
-#: kdeui/shortcuts/kglobalaccel.cpp:568
-#, kde-format
-msgid "The '%1' key combination is registered by application %2 for action %3:"
-msgstr "Клавиша «%1» уже назначена в приложении %2 на действие %3:"
-
-#: kdeui/shortcuts/kglobalaccel.cpp:575
-#, kde-format
-msgid "In context '%1' for action '%2'\n"
-msgstr "Контекст «%1» для действия «%2»\n"
-
-#: kdeui/shortcuts/kglobalaccel.cpp:579
-#, kde-format
-msgid ""
-"The '%1' key combination is registered by application %2.\n"
-"%3"
-msgstr ""
-"Клавиша «%1» уже назначена в приложении %2.\n"
-"%3"
-
-#: kdeui/shortcuts/kglobalaccel.cpp:585
-msgid "Conflict With Registered Global Shortcut"
-msgstr "Төймәләрнең глобаль тезмә бәрелеше"
 
 #: kdeui/shortcuts/kstandardshortcut.cpp:86
 msgctxt "@action"
@@ -7732,6 +7695,43 @@ msgstr "Кушымта турында"
 msgctxt "@action"
 msgid "About KDE"
 msgstr "KDE турында"
+
+#: kdeui/shortcuts/kglobalaccel.cpp:540
+msgid "Conflict with Global Shortcut"
+msgstr "Глобаль комбинация белән бәрелештә"
+
+#: kdeui/shortcuts/kglobalaccel.cpp:541
+#, kde-format
+msgid ""
+"The '%1' key combination has already been allocated to the global action "
+"\"%2\" in %3.\n"
+"Do you want to reassign it from that action to the current one?"
+msgstr ""
+"Комбинация клавиш %1 уже связана с глобальным действием «%2» в %3.\n"
+"Связать комбинацию с текущим действием?"
+
+#: kdeui/shortcuts/kglobalaccel.cpp:568
+#, kde-format
+msgid "The '%1' key combination is registered by application %2 for action %3:"
+msgstr "Клавиша «%1» уже назначена в приложении %2 на действие %3:"
+
+#: kdeui/shortcuts/kglobalaccel.cpp:575
+#, kde-format
+msgid "In context '%1' for action '%2'\n"
+msgstr "Контекст «%1» для действия «%2»\n"
+
+#: kdeui/shortcuts/kglobalaccel.cpp:579
+#, kde-format
+msgid ""
+"The '%1' key combination is registered by application %2.\n"
+"%3"
+msgstr ""
+"Клавиша «%1» уже назначена в приложении %2.\n"
+"%3"
+
+#: kdeui/shortcuts/kglobalaccel.cpp:585
+msgid "Conflict With Registered Global Shortcut"
+msgstr "Төймәләрнең глобаль тезмә бәрелеше"
 
 #: kdeui/sonnet/configdialog.cpp:51
 msgid "Spell Checking Configuration"
@@ -9208,14 +9208,6 @@ msgstr "Бүлгеч, кызыл юл"
 msgid "Separator, Space"
 msgstr "Бүлгеч, буш урын"
 
-#: kdeui/widgets/kcmodule.cpp:182
-msgid "You will be asked to authenticate before saving"
-msgstr "Перед сохранением настроек нужно будет подтвердить вход в систему"
-
-#: kdeui/widgets/kcmodule.cpp:186
-msgid "You are not allowed to save the configuration"
-msgstr "Бу үзгәрешләрне ясау өчен хокуклар юк."
-
 #: kdeui/widgets/kdatepicker.cpp:174
 #, kde-format
 msgid "Week %1"
@@ -9252,6 +9244,22 @@ msgstr "Елны сайлагыз"
 #: kdeui/widgets/kdatepicker.cpp:285
 msgid "Select the current day"
 msgstr "Агымдагы көнне сайлагыз"
+
+#: kdeui/widgets/keditlistbox.cpp:326 kdeui/widgets/keditlistwidget.cpp:305
+msgid "&Add"
+msgstr "&Өстәү"
+
+#: kdeui/widgets/keditlistbox.cpp:338 kdeui/widgets/keditlistwidget.cpp:317
+msgid "&Remove"
+msgstr "&Бетерү"
+
+#: kdeui/widgets/keditlistbox.cpp:350 kdeui/widgets/keditlistwidget.cpp:329
+msgid "Move &Up"
+msgstr "Өскәрәк &күчерү"
+
+#: kdeui/widgets/keditlistbox.cpp:355 kdeui/widgets/keditlistwidget.cpp:334
+msgid "Move &Down"
+msgstr "Аскарак &күчерү"
 
 #. i18n: Placeholder text in line edit widgets is the text appearing
 #. before any user input, briefly explaining to the user what to type
@@ -9312,22 +9320,6 @@ msgstr "Төшә торган исемлектән һәм автоматик р�
 msgctxt "@item:inmenu Text Completion"
 msgid "Default"
 msgstr "Үрнәкле"
-
-#: kdeui/widgets/keditlistbox.cpp:326 kdeui/widgets/keditlistwidget.cpp:305
-msgid "&Add"
-msgstr "&Өстәү"
-
-#: kdeui/widgets/keditlistbox.cpp:338 kdeui/widgets/keditlistwidget.cpp:317
-msgid "&Remove"
-msgstr "&Бетерү"
-
-#: kdeui/widgets/keditlistbox.cpp:350 kdeui/widgets/keditlistwidget.cpp:329
-msgid "Move &Up"
-msgstr "Өскәрәк &күчерү"
-
-#: kdeui/widgets/keditlistbox.cpp:355 kdeui/widgets/keditlistwidget.cpp:334
-msgid "Move &Down"
-msgstr "Аскарак &күчерү"
 
 #: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:936
 msgid "Clear &History"
@@ -9471,31 +9463,6 @@ msgstr "Төймә тотылмый"
 #: kdeui/widgets/klanguagebutton.cpp:177
 msgid "without name"
 msgstr "исемсез"
-
-#: kdeui/widgets/ktextedit.cpp:527
-msgid "Speak Text"
-msgstr "Текстны уку"
-
-#: kdeui/widgets/ktextedit.cpp:542
-msgid "Starting Jovie Text-to-Speech Service Failed"
-msgstr "Авазны синтазлаучы Jovie хезмәтен җибәреп булмады"
-
-#: kdeui/widgets/ktextedit.cpp:631
-#, kde-format
-msgid "No suggestions for %1"
-msgstr "%1 өчен вариантлар юк"
-
-#: kdeui/widgets/ktextedit.cpp:642
-msgid "Ignore"
-msgstr "Төшереп калдыру"
-
-#: kdeui/widgets/ktextedit.cpp:643
-msgid "Add to Dictionary"
-msgstr "Добавить в словарь"
-
-#: kdeui/widgets/ktextedit.cpp:788
-msgid "Nothing to spell check."
-msgstr "Нечего проверять."
 
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:195
 msgid "Image Operations"
@@ -9698,6 +9665,31 @@ msgstr "Өске индекс"
 msgid "&Copy Full Text"
 msgstr "&Бар текстның күчермәсен ясау"
 
+#: kdeui/widgets/ktextedit.cpp:527
+msgid "Speak Text"
+msgstr "Текстны уку"
+
+#: kdeui/widgets/ktextedit.cpp:542
+msgid "Starting Jovie Text-to-Speech Service Failed"
+msgstr "Авазны синтазлаучы Jovie хезмәтен җибәреп булмады"
+
+#: kdeui/widgets/ktextedit.cpp:631
+#, kde-format
+msgid "No suggestions for %1"
+msgstr "%1 өчен вариантлар юк"
+
+#: kdeui/widgets/ktextedit.cpp:642
+msgid "Ignore"
+msgstr "Төшереп калдыру"
+
+#: kdeui/widgets/ktextedit.cpp:643
+msgid "Add to Dictionary"
+msgstr "Добавить в словарь"
+
+#: kdeui/widgets/ktextedit.cpp:788
+msgid "Nothing to spell check."
+msgstr "Нечего проверять."
+
 #: kdeui/widgets/ktimecombobox.cpp:259
 msgctxt "@info"
 msgid "The time you entered is invalid"
@@ -9714,6 +9706,14 @@ msgstr "Вакыт моннан иртәрәк була алмый: %1"
 msgctxt "@info"
 msgid "Time cannot be later than %1"
 msgstr "Вакыт моннан соңрак була алмый: %1"
+
+#: kdeui/widgets/kcmodule.cpp:182
+msgid "You will be asked to authenticate before saving"
+msgstr "Перед сохранением настроек нужно будет подтвердить вход в систему"
+
+#: kdeui/widgets/kcmodule.cpp:186
+msgid "You are not allowed to save the configuration"
+msgstr "Бу үзгәрешләрне ясау өчен хокуклар юк."
 
 #: kdeui/widgets/ktimezonewidget.cpp:66
 msgctxt "Define an area in the time zone, like a town area"
@@ -9917,11 +9917,15 @@ msgstr "Введённые дата и время позже максималь�
 
 #: kdeui/windowmanagement/kwindowsystem_mac.cpp:563
 #: kdeui/windowmanagement/kwindowsystem_qws.cpp:176
-#: kdeui/windowmanagement/kwindowsystem_x11.cpp:896
 #: kdeui/windowmanagement/kwindowsystem_win.cpp:598
+#: kdeui/windowmanagement/kwindowsystem_x11.cpp:896
 #, kde-format
 msgid "Desktop %1"
 msgstr "%1 эш өстәле"
+
+#: kdeui/xmlgui/kxmlguibuilder.cpp:182 kdeui/xmlgui/kxmlguibuilder.cpp:349
+msgid "No text"
+msgstr "Текст юк"
 
 #: kdeui/xmlgui/kmenumenuhandler_p.cpp:48
 msgid "Add to Toolbar"
@@ -9934,10 +9938,6 @@ msgstr "Төймә тезмәләрен көйләү"
 #: kdeui/xmlgui/ktoolbarhandler.cpp:98
 msgid "Toolbars Shown"
 msgstr "Чагылдыручы корал панелләре"
-
-#: kdeui/xmlgui/kxmlguibuilder.cpp:182 kdeui/xmlgui/kxmlguibuilder.cpp:349
-msgid "No text"
-msgstr "Текст юк"
 
 #: kdewidgets/makekdewidgets.cpp:84
 msgid "Builds Qt widget plugins from an ini style description file."
@@ -9974,162 +9974,6 @@ msgstr "Ian Reinhart Geiser"
 #: kdewidgets/makekdewidgets.cpp:96
 msgid "Daniel Molkentin"
 msgstr "Daniel Molkentin"
-
-#: khtml/khtml_ext.cpp:418
-msgid "&Copy Text"
-msgstr "Тексттан &күчермә ясау"
-
-#: khtml/khtml_ext.cpp:432
-#, kde-format
-msgid "Open '%1'"
-msgstr "«%1» объектын ачу"
-
-#: khtml/khtml_ext.cpp:449
-msgid "&Copy Email Address"
-msgstr "E-Mail адресын күчерү"
-
-#: khtml/khtml_ext.cpp:454
-msgid "&Save Link As..."
-msgstr "Сылтаманы &саклау..."
-
-#: khtml/khtml_ext.cpp:459
-msgid "&Copy Link Address"
-msgstr "Веб-адресының күчермәсен ясау"
-
-#: khtml/khtml_ext.cpp:471
-msgctxt "@title:menu HTML frame/iframe"
-msgid "Frame"
-msgstr "Фрейм"
-
-#: khtml/khtml_ext.cpp:472
-msgid "Open in New &Window"
-msgstr "Яңа &тәрәзәдә ачу"
-
-#: khtml/khtml_ext.cpp:478
-msgid "Open in &This Window"
-msgstr "Агымдагы &тәрәзәдә ачу"
-
-#: khtml/khtml_ext.cpp:483
-msgid "Open in &New Tab"
-msgstr "Яңа &өстәмдә ачу"
-
-#: khtml/khtml_ext.cpp:493
-msgid "Reload Frame"
-msgstr "Фреймны яңарту"
-
-#: khtml/khtml_ext.cpp:498 khtml/khtml_part.cpp:421
-msgid "Print Frame..."
-msgstr "Фреймны бастыру..."
-
-#: khtml/khtml_ext.cpp:504 khtml/khtml_part.cpp:281
-msgid "Save &Frame As..."
-msgstr "Фреймны&саклау..."
-
-#: khtml/khtml_ext.cpp:509 khtml/khtml_part.cpp:258
-msgid "View Frame Source"
-msgstr "Фреймның чыганак текстын карап чыгу"
-
-#: khtml/khtml_ext.cpp:514
-msgid "View Frame Information"
-msgstr "Фрейм турында мәгълүмат"
-
-#: khtml/khtml_ext.cpp:524
-msgid "Block IFrame..."
-msgstr "IFrame'ны тыю..."
-
-#: khtml/khtml_ext.cpp:549
-msgid "Save Image As..."
-msgstr "Сурәтне саклау..."
-
-#: khtml/khtml_ext.cpp:554
-msgid "Send Image..."
-msgstr "Сурәтне тапшыру..."
-
-#: khtml/khtml_ext.cpp:560
-msgid "Copy Image"
-msgstr "Сурәтнең күчермәсен ясау"
-
-#: khtml/khtml_ext.cpp:568
-msgid "Copy Image Location"
-msgstr "Сүрәт сылтамасының күчермәсен ясау"
-
-#: khtml/khtml_ext.cpp:577
-#, kde-format
-msgid "View Image (%1)"
-msgstr "Сурәтне карап чыгу (%1)"
-
-#: khtml/khtml_ext.cpp:583
-msgid "Block Image..."
-msgstr "Сурәтне тыю..."
-
-#: khtml/khtml_ext.cpp:591
-#, kde-format
-msgid "Block Images From %1"
-msgstr "%1 объектыннан сурәтне тыю"
-
-#: khtml/khtml_ext.cpp:603
-msgid "Stop Animations"
-msgstr "Анимацияне туктату"
-
-#: khtml/khtml_ext.cpp:640
-#, kde-format
-msgid "Search for '%1' with %2"
-msgstr "%2'дә «%1»'не эзләү"
-
-#: khtml/khtml_ext.cpp:650
-#, kde-format
-msgid "Search for '%1' with"
-msgstr "Поиск «%1» в"
-
-#: khtml/khtml_ext.cpp:694
-msgid "Save Link As"
-msgstr "Ахыргы документ итеп саклау"
-
-#: khtml/khtml_ext.cpp:714
-msgid "Save Image As"
-msgstr "Сурәтне саклау..."
-
-#: khtml/khtml_ext.cpp:728 khtml/khtml_ext.cpp:741
-msgid "Add URL to Filter"
-msgstr "URL'ны сөзгеч исемлегенә өстәү"
-
-#: khtml/khtml_ext.cpp:729 khtml/khtml_ext.cpp:742
-msgid "Enter the URL:"
-msgstr "Веб адресын языгыз:"
-
-#: khtml/khtml_ext.cpp:879
-#, kde-format
-msgid ""
-"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
-msgstr "«%1» исемле файл инде бар. Алыштырыргамы?"
-
-#: khtml/khtml_ext.cpp:879
-msgid "Overwrite File?"
-msgstr "Файлны алыштырыргамы?"
-
-#: khtml/khtml_ext.cpp:879
-msgid "Overwrite"
-msgstr "Алыштыру"
-
-#: khtml/khtml_ext.cpp:940 kparts/browserrun.cpp:397
-#, kde-format
-msgid "The Download Manager (%1) could not be found in your $PATH "
-msgstr "$PATH юнәлешендә менеджер йөкләндерү программасын табып булмый (%1). "
-
-#: khtml/khtml_ext.cpp:941 kparts/browserrun.cpp:398
-msgid ""
-"Try to reinstall it  \n"
-"\n"
-"The integration with Konqueror will be disabled."
-msgstr ""
-"Кушымтаны яңадан урнаштырып карагыз.\n"
-"\n"
-"Konqueror белән бәйләнеш өзеләчәк."
-
-#: khtml/khtml_ext.cpp:1023
-#, no-c-format
-msgid "Default Font Size (100%)"
-msgstr "Хәрефнең стандарт зурлыгы (100%)"
 
 #: khtml/khtml_global.cpp:208
 msgid "KHTML"
@@ -10274,21 +10118,13 @@ msgstr "TestRegressionGui"
 msgid "GUI for the khtml regression tester"
 msgstr "Графический интерфейс для поиска регрессии в khtml"
 
-#: khtml/testkhtml.cpp:39
-msgid "URL to open"
-msgstr "Сылтаманы ачу"
-
-#: khtml/testkhtml.cpp:41
-msgid "Testkhtml"
-msgstr "Testkhtml"
-
-#: khtml/testkhtml.cpp:42
-msgid "a basic web browser using the KHTML library"
-msgstr "KHTML коралы ярдәмендә ясалган гади веб караучысы"
-
 #: khtml/khtml_part.cpp:251
 msgid "View Do&cument Source"
 msgstr "Документның чыганагын &карап чыгу"
+
+#: khtml/khtml_part.cpp:258 khtml/khtml_ext.cpp:509
+msgid "View Frame Source"
+msgstr "Фреймның чыганак текстын карап чыгу"
 
 #: khtml/khtml_part.cpp:265
 msgid "View Document Information"
@@ -10297,6 +10133,10 @@ msgstr "Документ турында мәгълүматны карап чыг
 #: khtml/khtml_part.cpp:272
 msgid "Save &Background Image As..."
 msgstr "Җирлек сурәтен &саклау..."
+
+#: khtml/khtml_part.cpp:281 khtml/khtml_ext.cpp:504
+msgid "Save &Frame As..."
+msgstr "Фреймны&саклау..."
 
 #: khtml/khtml_part.cpp:293 khtml/khtml_part.cpp:4027
 msgid "SSL"
@@ -10395,6 +10235,10 @@ msgid ""
 "This shortcut shows the find bar, and sets the option \"Find links only\"."
 msgstr ""
 "Эта комбинация клавиш вызывает панель для поиска ссылок на текущей странице."
+
+#: khtml/khtml_part.cpp:421 khtml/khtml_ext.cpp:498
+msgid "Print Frame..."
+msgstr "Фреймны бастыру..."
 
 #: khtml/khtml_part.cpp:425
 msgid ""
@@ -10754,6 +10598,150 @@ msgstr "Кире кагу"
 msgid "Filter error"
 msgstr "Сөзгечнең хатасы"
 
+#: khtml/khtml_ext.cpp:418
+msgid "&Copy Text"
+msgstr "Тексттан &күчермә ясау"
+
+#: khtml/khtml_ext.cpp:432
+#, kde-format
+msgid "Open '%1'"
+msgstr "«%1» объектын ачу"
+
+#: khtml/khtml_ext.cpp:449
+msgid "&Copy Email Address"
+msgstr "E-Mail адресын күчерү"
+
+#: khtml/khtml_ext.cpp:454
+msgid "&Save Link As..."
+msgstr "Сылтаманы &саклау..."
+
+#: khtml/khtml_ext.cpp:459
+msgid "&Copy Link Address"
+msgstr "Веб-адресының күчермәсен ясау"
+
+#: khtml/khtml_ext.cpp:471
+msgctxt "@title:menu HTML frame/iframe"
+msgid "Frame"
+msgstr "Фрейм"
+
+#: khtml/khtml_ext.cpp:472
+msgid "Open in New &Window"
+msgstr "Яңа &тәрәзәдә ачу"
+
+#: khtml/khtml_ext.cpp:478
+msgid "Open in &This Window"
+msgstr "Агымдагы &тәрәзәдә ачу"
+
+#: khtml/khtml_ext.cpp:483
+msgid "Open in &New Tab"
+msgstr "Яңа &өстәмдә ачу"
+
+#: khtml/khtml_ext.cpp:493
+msgid "Reload Frame"
+msgstr "Фреймны яңарту"
+
+#: khtml/khtml_ext.cpp:514
+msgid "View Frame Information"
+msgstr "Фрейм турында мәгълүмат"
+
+#: khtml/khtml_ext.cpp:524
+msgid "Block IFrame..."
+msgstr "IFrame'ны тыю..."
+
+#: khtml/khtml_ext.cpp:549
+msgid "Save Image As..."
+msgstr "Сурәтне саклау..."
+
+#: khtml/khtml_ext.cpp:554
+msgid "Send Image..."
+msgstr "Сурәтне тапшыру..."
+
+#: khtml/khtml_ext.cpp:560
+msgid "Copy Image"
+msgstr "Сурәтнең күчермәсен ясау"
+
+#: khtml/khtml_ext.cpp:568
+msgid "Copy Image Location"
+msgstr "Сүрәт сылтамасының күчермәсен ясау"
+
+#: khtml/khtml_ext.cpp:577
+#, kde-format
+msgid "View Image (%1)"
+msgstr "Сурәтне карап чыгу (%1)"
+
+#: khtml/khtml_ext.cpp:583
+msgid "Block Image..."
+msgstr "Сурәтне тыю..."
+
+#: khtml/khtml_ext.cpp:591
+#, kde-format
+msgid "Block Images From %1"
+msgstr "%1 объектыннан сурәтне тыю"
+
+#: khtml/khtml_ext.cpp:603
+msgid "Stop Animations"
+msgstr "Анимацияне туктату"
+
+#: khtml/khtml_ext.cpp:640
+#, kde-format
+msgid "Search for '%1' with %2"
+msgstr "%2'дә «%1»'не эзләү"
+
+#: khtml/khtml_ext.cpp:650
+#, kde-format
+msgid "Search for '%1' with"
+msgstr "Поиск «%1» в"
+
+#: khtml/khtml_ext.cpp:694
+msgid "Save Link As"
+msgstr "Ахыргы документ итеп саклау"
+
+#: khtml/khtml_ext.cpp:714
+msgid "Save Image As"
+msgstr "Сурәтне саклау..."
+
+#: khtml/khtml_ext.cpp:728 khtml/khtml_ext.cpp:741
+msgid "Add URL to Filter"
+msgstr "URL'ны сөзгеч исемлегенә өстәү"
+
+#: khtml/khtml_ext.cpp:729 khtml/khtml_ext.cpp:742
+msgid "Enter the URL:"
+msgstr "Веб адресын языгыз:"
+
+#: khtml/khtml_ext.cpp:879
+#, kde-format
+msgid ""
+"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr "«%1» исемле файл инде бар. Алыштырыргамы?"
+
+#: khtml/khtml_ext.cpp:879
+msgid "Overwrite File?"
+msgstr "Файлны алыштырыргамы?"
+
+#: khtml/khtml_ext.cpp:879
+msgid "Overwrite"
+msgstr "Алыштыру"
+
+#: khtml/khtml_ext.cpp:940 kparts/browserrun.cpp:397
+#, kde-format
+msgid "The Download Manager (%1) could not be found in your $PATH "
+msgstr "$PATH юнәлешендә менеджер йөкләндерү программасын табып булмый (%1). "
+
+#: khtml/khtml_ext.cpp:941 kparts/browserrun.cpp:398
+msgid ""
+"Try to reinstall it  \n"
+"\n"
+"The integration with Konqueror will be disabled."
+msgstr ""
+"Кушымтаны яңадан урнаштырып карагыз.\n"
+"\n"
+"Konqueror белән бәйләнеш өзеләчәк."
+
+#: khtml/khtml_ext.cpp:1023
+#, no-c-format
+msgid "Default Font Size (100%)"
+msgstr "Хәрефнең стандарт зурлыгы (100%)"
+
 #: khtml/test_regression.cpp:619
 msgid "Directory containing tests, basedir and output directories."
 msgstr ""
@@ -10858,6 +10846,18 @@ msgstr "Тикшерүне төшереп калганнардан бетерү.
 #: khtml/khtmlview.cpp:1842
 msgid "Access Keys activated"
 msgstr "Рөхсәт итү ачкычларын куллану эшли"
+
+#: khtml/testkhtml.cpp:39
+msgid "URL to open"
+msgstr "Сылтаманы ачу"
+
+#: khtml/testkhtml.cpp:41
+msgid "Testkhtml"
+msgstr "Testkhtml"
+
+#: khtml/testkhtml.cpp:42
+msgid "a basic web browser using the KHTML library"
+msgstr "KHTML коралы ярдәмендә ясалган гади веб караучысы"
 
 #: khtml/ecma/kjs_binding.cpp:185
 msgid ""
@@ -10969,6 +10969,34 @@ msgstr "Консоль"
 msgid "Enter"
 msgstr "Enter"
 
+#: khtml/ecma/debugger/errordlg.cpp:35
+msgid "JavaScript Error"
+msgstr "JavaScript хатасы"
+
+#: khtml/ecma/debugger/errordlg.cpp:49
+msgid "&Do not show this message again"
+msgstr "&Бу хәбәрне башка чыгармаска"
+
+#: khtml/ecma/debugger/localvariabledock.cpp:43
+msgid "Local Variables"
+msgstr "Локальные переменные"
+
+#: khtml/ecma/debugger/localvariabledock.cpp:51
+msgid "Reference"
+msgstr "Сылтама"
+
+#: khtml/ecma/debugger/callstackdock.cpp:37
+msgid "Call Stack"
+msgstr "Чакыру стегы"
+
+#: khtml/ecma/debugger/callstackdock.cpp:41
+msgid "Call"
+msgstr "Чакыру"
+
+#: khtml/ecma/debugger/callstackdock.cpp:41
+msgid "Line"
+msgstr "Юл"
+
 #: khtml/ecma/debugger/debugdocument.cpp:201
 msgid ""
 "Unable to find the Kate editor component;\n"
@@ -11056,58 +11084,9 @@ msgstr ""
 msgid "Evaluation threw an exception %1"
 msgstr "Появление исключения %1 при выполнении"
 
-#: khtml/ecma/debugger/errordlg.cpp:35
-msgid "JavaScript Error"
-msgstr "JavaScript хатасы"
-
-#: khtml/ecma/debugger/errordlg.cpp:49
-msgid "&Do not show this message again"
-msgstr "&Бу хәбәрне башка чыгармаска"
-
-#: khtml/ecma/debugger/localvariabledock.cpp:43
-msgid "Local Variables"
-msgstr "Локальные переменные"
-
-#: khtml/ecma/debugger/localvariabledock.cpp:51
-msgid "Reference"
-msgstr "Сылтама"
-
 #: khtml/ecma/debugger/scriptsdock.cpp:43
 msgid "Loaded Scripts"
 msgstr "Йөкләнгән скриптлар"
-
-#: khtml/ecma/debugger/callstackdock.cpp:37
-msgid "Call Stack"
-msgstr "Чакыру стегы"
-
-#: khtml/ecma/debugger/callstackdock.cpp:41
-msgid "Call"
-msgstr "Чакыру"
-
-#: khtml/ecma/debugger/callstackdock.cpp:41
-msgid "Line"
-msgstr "Юл"
-
-#: khtml/html/html_objectimpl.cpp:610
-#, kde-format
-msgid ""
-"No plugin found for '%1'.\n"
-"Do you want to download one from %2?"
-msgstr ""
-"'%1' өчен өстәмәлек табылмады.\n"
-"%2 адресыннан йөкләндерергәме аны?"
-
-#: khtml/html/html_objectimpl.cpp:611
-msgid "Missing Plugin"
-msgstr "Өстәлмә юк"
-
-#: khtml/html/html_objectimpl.cpp:611
-msgid "Download"
-msgstr "Кабул итү"
-
-#: khtml/html/html_objectimpl.cpp:611
-msgid "Do Not Download"
-msgstr "Кабул итмәү"
 
 #: khtml/html/htmlparser.cpp:1938
 msgid "This is a searchable index. Enter search keywords: "
@@ -11152,6 +11131,27 @@ msgstr[1] "&Файлларны тапшыру"
 msgid "Key Generator"
 msgstr "Ачкыч ясаткычы"
 
+#: khtml/html/html_objectimpl.cpp:610
+#, kde-format
+msgid ""
+"No plugin found for '%1'.\n"
+"Do you want to download one from %2?"
+msgstr ""
+"'%1' өчен өстәмәлек табылмады.\n"
+"%2 адресыннан йөкләндерергәме аны?"
+
+#: khtml/html/html_objectimpl.cpp:611
+msgid "Missing Plugin"
+msgstr "Өстәлмә юк"
+
+#: khtml/html/html_objectimpl.cpp:611
+msgid "Download"
+msgstr "Кабул итү"
+
+#: khtml/html/html_objectimpl.cpp:611
+msgid "Do Not Download"
+msgstr "Кабул итмәү"
+
 #: khtml/java/kjavaapplet.cpp:224
 #, kde-format
 msgid "Initializing Applet \"%1\"..."
@@ -11171,30 +11171,6 @@ msgstr "«%1» аплеты җибәрелде"
 #, kde-format
 msgid "Applet \"%1\" stopped"
 msgstr "«%1» аплеты туктатылды"
-
-#: khtml/java/kjavaappletviewer.cpp:129
-msgid "Applet Parameters"
-msgstr "Аплетның көйләүләре"
-
-#: khtml/java/kjavaappletviewer.cpp:139
-msgid "Parameter"
-msgstr "Көйләү"
-
-#: khtml/java/kjavaappletviewer.cpp:143
-msgid "Class"
-msgstr "Класс"
-
-#: khtml/java/kjavaappletviewer.cpp:149
-msgid "Base URL"
-msgstr "Нигез URL"
-
-#: khtml/java/kjavaappletviewer.cpp:155
-msgid "Archives"
-msgstr "Архивлар"
-
-#: khtml/java/kjavaappletviewer.cpp:475
-msgid "KDE Java Applet Plugin"
-msgstr "KDE чолганышының Java аплетларын тоту"
 
 #: khtml/java/kjavaappletserver.cpp:146
 msgid "Loading Applet"
@@ -11229,6 +11205,30 @@ msgstr "&Бөтенесен кире кагу"
 #: khtml/java/kjavaappletserver.cpp:820
 msgid "&Grant All"
 msgstr "&Бөтенесен кабул итү"
+
+#: khtml/java/kjavaappletviewer.cpp:129
+msgid "Applet Parameters"
+msgstr "Аплетның көйләүләре"
+
+#: khtml/java/kjavaappletviewer.cpp:139
+msgid "Parameter"
+msgstr "Көйләү"
+
+#: khtml/java/kjavaappletviewer.cpp:143
+msgid "Class"
+msgstr "Класс"
+
+#: khtml/java/kjavaappletviewer.cpp:149
+msgid "Base URL"
+msgstr "Нигез URL"
+
+#: khtml/java/kjavaappletviewer.cpp:155
+msgid "Archives"
+msgstr "Архивлар"
+
+#: khtml/java/kjavaappletviewer.cpp:475
+msgid "KDE Java Applet Plugin"
+msgstr "KDE чолганышының Java аплетларын тоту"
 
 #: khtml/kmultipart/kmultipart.cpp:41
 msgid "KMultiPart"
@@ -11351,14 +11351,6 @@ msgstr ""
 "'%1'да kdemain'ны табып булмады.\n"
 "%2"
 
-#: kinit/klauncher_main.cpp:62
-msgid ""
-"klauncher: This program is not supposed to be started manually.\n"
-"klauncher: It is started automatically by kdeinit4.\n"
-msgstr ""
-"klauncher: программа не должна запускаться вручную.\n"
-"klauncher: запускается автоматически из kdeinit4.\n"
-
 #: kinit/klauncher.cpp:564
 #, kde-format
 msgid "KDEInit could not launch '%1'."
@@ -11393,6 +11385,14 @@ msgstr "'%1' билгесез беркетмә.\n"
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "'%1' йөкләндерү хатасы:\n"
+
+#: kinit/klauncher_main.cpp:62
+msgid ""
+"klauncher: This program is not supposed to be started manually.\n"
+"klauncher: It is started automatically by kdeinit4.\n"
+msgstr ""
+"klauncher: программа не должна запускаться вручную.\n"
+"klauncher: запускается автоматически из kdeinit4.\n"
 
 #: kjs/object.cpp:554
 msgid "Evaluation error"
@@ -11658,11 +11658,6 @@ msgstr ""
 msgid "Exception calling '%1' slot from %2:%3:%4"
 msgstr "Возникло исключение при вызове слота «%1» из %2:%3:%4"
 
-#: knewstuff/knewstuff2/core/coreengine.cpp:428
-#, kde-format
-msgid "loading %1"
-msgstr "Загрузка %1"
-
 #: knewstuff/knewstuff2/core/providerhandler.cpp:154
 #: knewstuff/knewstuff2/core/providerhandler.cpp:174
 msgctxt "describes the feed of the latest posted entries"
@@ -11676,6 +11671,11 @@ msgstr "Иң югары рейтинг"
 #: knewstuff/knewstuff2/core/providerhandler.cpp:166
 msgid "Most Downloads"
 msgstr "Иң танылган"
+
+#: knewstuff/knewstuff2/core/coreengine.cpp:428
+#, kde-format
+msgid "loading %1"
+msgstr "Загрузка %1"
 
 #: knewstuff/knewstuff2/core/security.cpp:75
 #: knewstuff/knewstuff3/core/security.cpp:86
@@ -11727,6 +11727,72 @@ msgid ""
 msgstr ""
 "<qt><i>gpg</i> җибәреп һәм файлны имзалап булмый. Истә тотыгыз, <i>gpg</i> "
 "урнаштырылган, чөнки ресурсларны имзалап булмаячак.</qt>"
+
+#: knewstuff/knewstuff2/ui/kdxschanges.cpp:31
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:70
+msgid "Changelog"
+msgstr "Үзгәрешләр:"
+
+#: knewstuff/knewstuff2/ui/kdxschanges.cpp:53
+#, kde-format
+msgid "Version %1"
+msgstr "Юрама %1"
+
+#: knewstuff/knewstuff2/ui/kdxscomment.cpp:29
+msgid "Leave a comment"
+msgstr "Фикерне калдыру"
+
+#: knewstuff/knewstuff2/ui/kdxsrating.cpp:33
+msgid "Rate this entry"
+msgstr "Әсбапның бәясе"
+
+#: knewstuff/knewstuff2/ui/kdxstranslation.cpp:33
+msgid "Translate this entry"
+msgstr "Бү язманы тәрҗемә итү"
+
+#: knewstuff/knewstuff2/ui/kdxstranslation.cpp:48
+msgid "Payload"
+msgstr "Йөкләү дәрәҗәсе"
+
+#: knewstuff/knewstuff2/ui/knewstuffbutton.cpp:49
+#: knewstuff/knewstuff3/knewstuffbutton.cpp:48
+msgid "Download New Stuff..."
+msgstr "Әсбапларны кабул итү..."
+
+#: knewstuff/knewstuff2/ui/providerdialog.cpp:54
+msgid "Hot New Stuff Providers"
+msgstr "Әсбаплар белән тәэмин итүчеләр"
+
+#: knewstuff/knewstuff2/ui/providerdialog.cpp:64
+msgid "Please select one of the providers listed below:"
+msgstr "Тәэмин итүчене исемлектән сайлагыз:"
+
+#: knewstuff/knewstuff2/ui/providerdialog.cpp:95
+msgid "No provider selected."
+msgstr "Тәэмин итүче сайланмаган."
+
+#: knewstuff/knewstuff2/ui/uploaddialog.cpp:64
+#: knewstuff/knewstuff3/uploaddialog.cpp:389
+#, kde-format
+msgctxt "Program name followed by 'Add On Uploader'"
+msgid "%1 Add-On Uploader"
+msgstr "%1 объектының өстәлмәләрне бастыру кушымтасы"
+
+#: knewstuff/knewstuff2/ui/uploaddialog.cpp:91
+msgid "Please put in a name."
+msgstr "Исем кертегез."
+
+#: knewstuff/knewstuff2/ui/uploaddialog.cpp:159
+msgid "Old upload information found, fill out fields?"
+msgstr "Баштагы нәшер итүнең параметрлары табылды. Аларны кулланыргамы?"
+
+#: knewstuff/knewstuff2/ui/uploaddialog.cpp:161
+msgid "Fill Out"
+msgstr "Әйе"
+
+#: knewstuff/knewstuff2/ui/uploaddialog.cpp:162
+msgid "Do Not Fill Out"
+msgstr "Юк"
 
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:127
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:558
@@ -11865,11 +11931,6 @@ msgstr "Кече сүрәтне кабул итү..."
 msgid "Comments"
 msgstr "Фикерләр"
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:70
-#: knewstuff/knewstuff2/ui/kdxschanges.cpp:31
-msgid "Changelog"
-msgstr "Үзгәрешләр:"
-
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:73
 msgid "Switch version"
 msgstr "Юраманы үзгәртү"
@@ -11972,70 +12033,9 @@ msgstr "Яхшыртуда ярдәм"
 msgid "This operation requires authentication."
 msgstr "Гамәл тиңләштерүне таләп итә."
 
-#: knewstuff/knewstuff2/ui/kdxschanges.cpp:53
-#, kde-format
-msgid "Version %1"
-msgstr "Юрама %1"
-
-#: knewstuff/knewstuff2/ui/kdxscomment.cpp:29
-msgid "Leave a comment"
-msgstr "Фикерне калдыру"
-
 #: knewstuff/knewstuff2/ui/kdxscomments.cpp:32
 msgid "User comments"
 msgstr "Кулланучы фикерләре"
-
-#: knewstuff/knewstuff2/ui/kdxsrating.cpp:33
-msgid "Rate this entry"
-msgstr "Әсбапның бәясе"
-
-#: knewstuff/knewstuff2/ui/kdxstranslation.cpp:33
-msgid "Translate this entry"
-msgstr "Бү язманы тәрҗемә итү"
-
-#: knewstuff/knewstuff2/ui/kdxstranslation.cpp:48
-msgid "Payload"
-msgstr "Йөкләү дәрәҗәсе"
-
-#: knewstuff/knewstuff2/ui/knewstuffbutton.cpp:49
-#: knewstuff/knewstuff3/knewstuffbutton.cpp:48
-msgid "Download New Stuff..."
-msgstr "Әсбапларны кабул итү..."
-
-#: knewstuff/knewstuff2/ui/providerdialog.cpp:54
-msgid "Hot New Stuff Providers"
-msgstr "Әсбаплар белән тәэмин итүчеләр"
-
-#: knewstuff/knewstuff2/ui/providerdialog.cpp:64
-msgid "Please select one of the providers listed below:"
-msgstr "Тәэмин итүчене исемлектән сайлагыз:"
-
-#: knewstuff/knewstuff2/ui/providerdialog.cpp:95
-msgid "No provider selected."
-msgstr "Тәэмин итүче сайланмаган."
-
-#: knewstuff/knewstuff2/ui/uploaddialog.cpp:64
-#: knewstuff/knewstuff3/uploaddialog.cpp:389
-#, kde-format
-msgctxt "Program name followed by 'Add On Uploader'"
-msgid "%1 Add-On Uploader"
-msgstr "%1 объектының өстәлмәләрне бастыру кушымтасы"
-
-#: knewstuff/knewstuff2/ui/uploaddialog.cpp:91
-msgid "Please put in a name."
-msgstr "Исем кертегез."
-
-#: knewstuff/knewstuff2/ui/uploaddialog.cpp:159
-msgid "Old upload information found, fill out fields?"
-msgstr "Баштагы нәшер итүнең параметрлары табылды. Аларны кулланыргамы?"
-
-#: knewstuff/knewstuff2/ui/uploaddialog.cpp:161
-msgid "Fill Out"
-msgstr "Әйе"
-
-#: knewstuff/knewstuff2/ui/uploaddialog.cpp:162
-msgid "Do Not Fill Out"
-msgstr "Юк"
 
 #: knewstuff/knewstuff3/downloadwidget.cpp:241
 msgid "Icons view mode"
@@ -12291,6 +12291,35 @@ msgstr[1] "%1 кече сүрәтне кабул итү..."
 msgid "Installing"
 msgstr "Урнаштыру"
 
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:90
+#, kde-format
+msgid "Details for %1"
+msgstr "%1 турында мәгълумат"
+
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:110
+msgctxt "A link to the description of this Get Hot New Stuff item"
+msgid "Homepage"
+msgstr "Албит"
+
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:113
+msgctxt ""
+"A link to make a donation for a Get Hot New Stuff item (opens a web browser)"
+msgid "Make a donation"
+msgstr "Иганә ясау"
+
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:117
+#, kde-format
+msgctxt "A link to the knowledgebase (like a forum) (opens a web browser)"
+msgid "Knowledgebase (no entries)"
+msgid_plural "Knowledgebase (%1 entries)"
+msgstr[0] "Белү үзәге (язулар юк)"
+msgstr[1] "База знаний (%1 язу)"
+
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:120
+msgctxt "Tooltip for a link in a dialog"
+msgid "Opens in a browser window"
+msgstr "Браузерда ачу"
+
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:100
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:259
 #, kde-format
@@ -12335,35 +12364,6 @@ msgstr "Яңарту"
 msgid "Install Again"
 msgstr "Яңадан урнаштыру"
 
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:90
-#, kde-format
-msgid "Details for %1"
-msgstr "%1 турында мәгълумат"
-
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:110
-msgctxt "A link to the description of this Get Hot New Stuff item"
-msgid "Homepage"
-msgstr "Албит"
-
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:113
-msgctxt ""
-"A link to make a donation for a Get Hot New Stuff item (opens a web browser)"
-msgid "Make a donation"
-msgstr "Иганә ясау"
-
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:117
-#, kde-format
-msgctxt "A link to the knowledgebase (like a forum) (opens a web browser)"
-msgid "Knowledgebase (no entries)"
-msgid_plural "Knowledgebase (%1 entries)"
-msgstr[0] "Белү үзәге (язулар юк)"
-msgstr[1] "База знаний (%1 язу)"
-
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:120
-msgctxt "Tooltip for a link in a dialog"
-msgid "Opens in a browser window"
-msgstr "Браузерда ачу"
-
 #: knotify/config/knotifyconfigwidget.cpp:107
 msgid "Configure Notifications"
 msgstr "Белдерүләрне көйләү"
@@ -12382,45 +12382,6 @@ msgstr "Баш исем"
 msgctxt "Description of the notified event"
 msgid "Description"
 msgstr "Тасвирлама"
-
-#: kparts/browserextension.cpp:645
-#, kde-format
-msgid "<qt>Do you want to search the Internet for <b>%1</b>?</qt>"
-msgstr "<qt> <b>%1</b> соравын Интернетта эзләргәме?</qt>"
-
-#: kparts/browserextension.cpp:646
-msgid "Internet Search"
-msgstr "Интернетта эзләү"
-
-#: kparts/browserextension.cpp:646
-msgid "&Search"
-msgstr "&Эзләү"
-
-#: kparts/browserrun.cpp:335
-#, kde-format
-msgid "Do you really want to execute '%1'?"
-msgstr "«%1» объектын башкарырга телисезме?"
-
-#: kparts/browserrun.cpp:336
-msgid "Execute File?"
-msgstr "Файлны башкарыргамы?"
-
-#: kparts/part.cpp:815
-msgid "Untitled"
-msgstr "Документ"
-
-#: kparts/part.cpp:821
-#, kde-format
-msgid ""
-"The document \"%1\" has been modified.\n"
-"Do you want to save your changes or discard them?"
-msgstr ""
-"Документ \"%1\" үзгәртелгән иде.\n"
-"Саклауны калдырыргамы яки кире кагыргамы?"
-
-#: kparts/part.cpp:823
-msgid "Close Document"
-msgstr "Документны ябу"
 
 #: kparts/browseropenorsavequestion.cpp:110
 #: kparts/browseropenorsavequestion.cpp:339
@@ -12479,6 +12440,45 @@ msgstr "Файлның исеме: %1"
 msgctxt "@info:whatsthis"
 msgid "This is the file name suggested by the server"
 msgstr "Сервер белән тәкъдим ителгән файлның исеме."
+
+#: kparts/browserextension.cpp:644
+#, kde-format
+msgid "<qt>Do you want to search the Internet for <b>%1</b>?</qt>"
+msgstr "<qt> <b>%1</b> соравын Интернетта эзләргәме?</qt>"
+
+#: kparts/browserextension.cpp:645
+msgid "Internet Search"
+msgstr "Интернетта эзләү"
+
+#: kparts/browserextension.cpp:645
+msgid "&Search"
+msgstr "&Эзләү"
+
+#: kparts/browserrun.cpp:335
+#, kde-format
+msgid "Do you really want to execute '%1'?"
+msgstr "«%1» объектын башкарырга телисезме?"
+
+#: kparts/browserrun.cpp:336
+msgid "Execute File?"
+msgstr "Файлны башкарыргамы?"
+
+#: kparts/part.cpp:815
+msgid "Untitled"
+msgstr "Документ"
+
+#: kparts/part.cpp:821
+#, kde-format
+msgid ""
+"The document \"%1\" has been modified.\n"
+"Do you want to save your changes or discard them?"
+msgstr ""
+"Документ \"%1\" үзгәртелгән иде.\n"
+"Саклауны калдырыргамы яки кире кагыргамы?"
+
+#: kparts/part.cpp:823
+msgid "Close Document"
+msgstr "Документны ябу"
 
 #: kpty/kptydevice.cpp:322
 msgid "Error reading from PTY"
@@ -12692,18 +12692,6 @@ msgctxt "Argument is application name"
 msgid "This configuration section is already opened in %1"
 msgstr "Бу көйләү бүлеге %1"
 
-#: kutils/kcmultidialog.cpp:59
-msgid ""
-"The settings of the current module have changed.\n"
-"Do you want to apply the changes or discard them?"
-msgstr ""
-"Бу модульнең көйләүләре үзгәртелде.\n"
-"Сез бу үзгерешләрне кулланырга телисезме?"
-
-#: kutils/kcmultidialog.cpp:61
-msgid "Apply Settings"
-msgstr "Көйләүләрне куллану"
-
 #: kutils/kprintpreview.cpp:123
 msgid "Could not load print preview part"
 msgstr "Не удалось загрузить компонент предварительного просмотра"
@@ -12780,6 +12768,18 @@ msgstr "Өстәлмәләрне эзләү"
 msgctxt "Used only for plugins"
 msgid "About %1"
 msgstr "%1 турында"
+
+#: kutils/kcmultidialog.cpp:59
+msgid ""
+"The settings of the current module have changed.\n"
+"Do you want to apply the changes or discard them?"
+msgstr ""
+"Бу модульнең көйләүләре үзгәртелде.\n"
+"Сез бу үзгерешләрне кулланырга телисезме?"
+
+#: kutils/kcmultidialog.cpp:61
+msgid "Apply Settings"
+msgstr "Көйләүләрне куллану"
 
 #: kutils/ksettings/componentsdialog.cpp:53
 msgid "Select Components"
@@ -12937,25 +12937,6 @@ msgstr ""
 msgid "The ontology files containing the ontologies to be generated."
 msgstr "Файлы онтологий для генерируемой онтологии."
 
-#: nepomuk/ui/nepomukmassupdatejob.cpp:76
-msgid "Changing annotations"
-msgstr "Изменение аннотаций"
-
-#: nepomuk/ui/tagwidget.cpp:61
-msgctxt "@label"
-msgid "Show all tags..."
-msgstr "Бар тегларны чагылдыру..."
-
-#: nepomuk/ui/tagwidget.cpp:112
-msgctxt "@label"
-msgid "Add Tags..."
-msgstr "Тегларны өстәү..."
-
-#: nepomuk/ui/tagwidget.cpp:112
-msgctxt "@label"
-msgid "Change..."
-msgstr "Үзгәртү..."
-
 #: nepomuk/ui/kedittagsdialog.cpp:49
 msgctxt "@title:window"
 msgid "Change Tags"
@@ -13002,13 +12983,24 @@ msgctxt "@action:button"
 msgid "Cancel"
 msgstr "Үткәрмәү"
 
-#: nepomuk/utils/daterangeselectionwidget.cpp:201
-msgid "This Week"
-msgstr "Бу атна"
+#: nepomuk/ui/nepomukmassupdatejob.cpp:76
+msgid "Changing annotations"
+msgstr "Изменение аннотаций"
 
-#: nepomuk/utils/daterangeselectionwidget.cpp:206
-msgid "This Month"
-msgstr "Бу ай"
+#: nepomuk/ui/tagwidget.cpp:61
+msgctxt "@label"
+msgid "Show all tags..."
+msgstr "Бар тегларны чагылдыру..."
+
+#: nepomuk/ui/tagwidget.cpp:112
+msgctxt "@label"
+msgid "Add Tags..."
+msgstr "Тегларны өстәү..."
+
+#: nepomuk/ui/tagwidget.cpp:112
+msgctxt "@label"
+msgid "Change..."
+msgstr "Үзгәртү..."
 
 #: nepomuk/utils/dynamicresourcefacet.cpp:256
 msgctxt ""
@@ -13202,6 +13194,14 @@ msgstr "4 һәм артык"
 msgctxt "@option:radio A filter on the rating of a resource"
 msgid "Max Rating"
 msgstr "Иң зур бәя"
+
+#: nepomuk/utils/daterangeselectionwidget.cpp:201
+msgid "This Week"
+msgstr "Бу атна"
+
+#: nepomuk/utils/daterangeselectionwidget.cpp:206
+msgid "This Month"
+msgstr "Бу ай"
 
 #: kdeui/colors/kcolorcombo.cpp:352
 msgctxt "Custom color"
