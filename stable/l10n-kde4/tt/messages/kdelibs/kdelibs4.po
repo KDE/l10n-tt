@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-17 10:55+0100\n"
+"POT-Creation-Date: 2012-02-18 12:23+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -12814,7 +12814,7 @@ msgctxt "@title UDS_DISPLAY_NAME for a KIO directory listing."
 msgid "Query Results"
 msgstr "Таләпнең нәтиҗәләре"
 
-#: nepomuk/query/queryparser.cpp:539
+#: nepomuk/query/queryparser.cpp:544
 msgctxt ""
 "Boolean AND keyword in desktop search strings. You can add several variants "
 "separated by spaces, e.g. retain the English one alongside the translation; "
@@ -12823,7 +12823,7 @@ msgctxt ""
 msgid "and"
 msgstr "и"
 
-#: nepomuk/query/queryparser.cpp:548
+#: nepomuk/query/queryparser.cpp:553
 msgctxt ""
 "Boolean OR keyword in desktop search strings. You can add several variants "
 "separated by spaces, e.g. retain the English one alongside the translation; "
