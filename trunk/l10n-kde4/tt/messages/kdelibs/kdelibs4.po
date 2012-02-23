@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-21 05:33+0100\n"
+"POT-Creation-Date: 2012-02-23 04:49+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -5574,10 +5574,6 @@ msgstr "&KDE проектына кушылу"
 msgid "&Support KDE"
 msgstr "&KDE проектына ярдәм итү"
 
-#: kdeui/dialogs/kconfigdialog.cpp:69 kutils/kcmultidialog.cpp:208
-msgid "Configure"
-msgstr "Көйләү"
-
 #: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:60
 msgctxt "Action to send an email to a contributor"
 msgid "Email contributor"
@@ -5924,6 +5920,10 @@ msgstr "&Җибәргәндә киңәшләрне чагылдыру"
 msgctxt "Opposite to Previous"
 msgid "&Next"
 msgstr "&Алга бару"
+
+#: kdeui/dialogs/kconfigdialog.cpp:43 kutils/kcmultidialog.cpp:208
+msgid "Configure"
+msgstr "Көйләү"
 
 #: kdeui/dialogs/kshortcutseditoritem.cpp:45
 #, kde-format
@@ -9491,105 +9491,6 @@ msgctxt "@item:inmenu Text Completion"
 msgid "Default"
 msgstr "Үрнәкле"
 
-#: kdeui/widgets/ktoolbar.cpp:291
-msgctxt "@title:menu"
-msgid "Show Text"
-msgstr "Подписи кнопок"
-
-#: kdeui/widgets/ktoolbar.cpp:294
-msgctxt "@title:menu"
-msgid "Toolbar Settings"
-msgstr "Меню панели инструментов"
-
-#: kdeui/widgets/ktoolbar.cpp:296
-msgid "Orientation"
-msgstr "Урнашу"
-
-#: kdeui/widgets/ktoolbar.cpp:298
-msgctxt "toolbar position string"
-msgid "Top"
-msgstr "Өскә"
-
-#: kdeui/widgets/ktoolbar.cpp:300
-msgctxt "toolbar position string"
-msgid "Left"
-msgstr "Сул кыры буенча"
-
-#: kdeui/widgets/ktoolbar.cpp:301
-msgctxt "toolbar position string"
-msgid "Right"
-msgstr "Уң кыры буенча"
-
-#: kdeui/widgets/ktoolbar.cpp:302
-msgctxt "toolbar position string"
-msgid "Bottom"
-msgstr "Аска"
-
-#: kdeui/widgets/ktoolbar.cpp:310
-msgid "Text Position"
-msgstr "Текст урнашуы"
-
-#: kdeui/widgets/ktoolbar.cpp:312
-msgid "Icons Only"
-msgstr "Билгечекләр генә"
-
-#: kdeui/widgets/ktoolbar.cpp:313
-msgid "Text Only"
-msgstr "Текст кына"
-
-#: kdeui/widgets/ktoolbar.cpp:314
-msgid "Text Alongside Icons"
-msgstr "Имзалар билгечекләр янында"
-
-#: kdeui/widgets/ktoolbar.cpp:315
-msgid "Text Under Icons"
-msgstr "Имзалар билгечекләр астында"
-
-#: kdeui/widgets/ktoolbar.cpp:323
-msgid "Icon Size"
-msgstr "Билгечекләр зурлыгы"
-
-#: kdeui/widgets/ktoolbar.cpp:325
-msgctxt "@item:inmenu Icon size"
-msgid "Default"
-msgstr "Үрнәкле"
-
-#: kdeui/widgets/ktoolbar.cpp:342 kdeui/widgets/ktoolbar.cpp:362
-#, kde-format
-msgid "Small (%1x%2)"
-msgstr "Кече (%1x%2)"
-
-#: kdeui/widgets/ktoolbar.cpp:344 kdeui/widgets/ktoolbar.cpp:364
-#, kde-format
-msgid "Medium (%1x%2)"
-msgstr "Уртача (%1x%2)"
-
-#: kdeui/widgets/ktoolbar.cpp:346 kdeui/widgets/ktoolbar.cpp:366
-#, kde-format
-msgid "Large (%1x%2)"
-msgstr "Зур (%1x%2)"
-
-#: kdeui/widgets/ktoolbar.cpp:348 kdeui/widgets/ktoolbar.cpp:368
-#, kde-format
-msgid "Huge (%1x%2)"
-msgstr "Бик зур (%1x%2)"
-
-#: kdeui/widgets/ktoolbar.cpp:388
-msgid "Lock Toolbar Positions"
-msgstr "Корал панелен катыру"
-
-#: kdeui/widgets/ktoolbar.cpp:1291
-#, kde-format
-msgctxt "@action:intoolbar Text label of toolbar button"
-msgid "%1"
-msgstr "%1"
-
-#: kdeui/widgets/ktoolbar.cpp:1292
-#, kde-format
-msgctxt "@info:tooltip Tooltip of toolbar button"
-msgid "%1"
-msgstr "%1"
-
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:195
 msgid "Image Operations"
 msgstr "Сурәтләр белән операцияләр"
@@ -9791,6 +9692,105 @@ msgstr "Өске индекс"
 msgid "&Copy Full Text"
 msgstr "&Бар текстның күчермәсен ясау"
 
+#: kdeui/widgets/ktoolbar.cpp:292
+msgctxt "@title:menu"
+msgid "Show Text"
+msgstr "Подписи кнопок"
+
+#: kdeui/widgets/ktoolbar.cpp:295
+msgctxt "@title:menu"
+msgid "Toolbar Settings"
+msgstr "Меню панели инструментов"
+
+#: kdeui/widgets/ktoolbar.cpp:297
+msgid "Orientation"
+msgstr "Урнашу"
+
+#: kdeui/widgets/ktoolbar.cpp:299
+msgctxt "toolbar position string"
+msgid "Top"
+msgstr "Өскә"
+
+#: kdeui/widgets/ktoolbar.cpp:301
+msgctxt "toolbar position string"
+msgid "Left"
+msgstr "Сул кыры буенча"
+
+#: kdeui/widgets/ktoolbar.cpp:302
+msgctxt "toolbar position string"
+msgid "Right"
+msgstr "Уң кыры буенча"
+
+#: kdeui/widgets/ktoolbar.cpp:303
+msgctxt "toolbar position string"
+msgid "Bottom"
+msgstr "Аска"
+
+#: kdeui/widgets/ktoolbar.cpp:311
+msgid "Text Position"
+msgstr "Текст урнашуы"
+
+#: kdeui/widgets/ktoolbar.cpp:313
+msgid "Icons Only"
+msgstr "Билгечекләр генә"
+
+#: kdeui/widgets/ktoolbar.cpp:314
+msgid "Text Only"
+msgstr "Текст кына"
+
+#: kdeui/widgets/ktoolbar.cpp:315
+msgid "Text Alongside Icons"
+msgstr "Имзалар билгечекләр янында"
+
+#: kdeui/widgets/ktoolbar.cpp:316
+msgid "Text Under Icons"
+msgstr "Имзалар билгечекләр астында"
+
+#: kdeui/widgets/ktoolbar.cpp:324
+msgid "Icon Size"
+msgstr "Билгечекләр зурлыгы"
+
+#: kdeui/widgets/ktoolbar.cpp:326
+msgctxt "@item:inmenu Icon size"
+msgid "Default"
+msgstr "Үрнәкле"
+
+#: kdeui/widgets/ktoolbar.cpp:343 kdeui/widgets/ktoolbar.cpp:363
+#, kde-format
+msgid "Small (%1x%2)"
+msgstr "Кече (%1x%2)"
+
+#: kdeui/widgets/ktoolbar.cpp:345 kdeui/widgets/ktoolbar.cpp:365
+#, kde-format
+msgid "Medium (%1x%2)"
+msgstr "Уртача (%1x%2)"
+
+#: kdeui/widgets/ktoolbar.cpp:347 kdeui/widgets/ktoolbar.cpp:367
+#, kde-format
+msgid "Large (%1x%2)"
+msgstr "Зур (%1x%2)"
+
+#: kdeui/widgets/ktoolbar.cpp:349 kdeui/widgets/ktoolbar.cpp:369
+#, kde-format
+msgid "Huge (%1x%2)"
+msgstr "Бик зур (%1x%2)"
+
+#: kdeui/widgets/ktoolbar.cpp:389
+msgid "Lock Toolbar Positions"
+msgstr "Корал панелен катыру"
+
+#: kdeui/widgets/ktoolbar.cpp:1319
+#, kde-format
+msgctxt "@action:intoolbar Text label of toolbar button"
+msgid "%1"
+msgstr "%1"
+
+#: kdeui/widgets/ktoolbar.cpp:1320
+#, kde-format
+msgctxt "@info:tooltip Tooltip of toolbar button"
+msgid "%1"
+msgstr "%1"
+
 #: kdeui/widgets/ktimezonewidget.cpp:66
 msgctxt "Define an area in the time zone, like a town area"
 msgid "Area"
@@ -9917,10 +9917,6 @@ msgstr "Вакыт моннан соңрак була алмый: %1"
 msgid "Desktop %1"
 msgstr "%1 эш өстәле"
 
-#: kdeui/xmlgui/kxmlguibuilder.cpp:182 kdeui/xmlgui/kxmlguibuilder.cpp:349
-msgid "No text"
-msgstr "Текст юк"
-
 #: kdeui/xmlgui/kmenumenuhandler_p.cpp:48
 msgid "Add to Toolbar"
 msgstr "Корал панеленә өстәү"
@@ -9932,6 +9928,10 @@ msgstr "Төймә тезмәләрен көйләү"
 #: kdeui/xmlgui/ktoolbarhandler.cpp:98
 msgid "Toolbars Shown"
 msgstr "Чагылдыручы корал панелләре"
+
+#: kdeui/xmlgui/kxmlguibuilder.cpp:182 kdeui/xmlgui/kxmlguibuilder.cpp:349
+msgid "No text"
+msgstr "Текст юк"
 
 #: kdewidgets/makekdewidgets.cpp:84
 msgid "Builds Qt widget plugins from an ini style description file."
