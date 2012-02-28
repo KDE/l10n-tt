@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-24 11:23+0100\n"
+"POT-Creation-Date: 2012-02-28 17:39+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -7733,10 +7733,6 @@ msgstr ""
 msgid "Conflict With Registered Global Shortcut"
 msgstr "Төймәләрнең глобаль тезмә бәрелеше"
 
-#: kdeui/sonnet/configdialog.cpp:51
-msgid "Spell Checking Configuration"
-msgstr "Настройка проверки орфографии"
-
 #: kdeui/sonnet/dialog.cpp:103 kdeui/sonnet/dialog.cpp:224
 #: kdeui/sonnet/dialog.cpp:445
 msgctxt "@title:window"
@@ -7764,6 +7760,10 @@ msgstr "Дөрес язылыш тикшерүне кире кагу"
 #: kdeui/sonnet/dialog.cpp:441 kdeui/sonnet/dialog.cpp:445
 msgid "Spell check complete."
 msgstr "Дөрес язылыш тикшерелде"
+
+#: kdeui/sonnet/configdialog.cpp:51
+msgid "Spell Checking Configuration"
+msgstr "Настройка проверки орфографии"
 
 #: kdeui/util/kcompletion.cpp:693
 msgid ""
@@ -9464,6 +9464,31 @@ msgstr "Төймә тотылмый"
 msgid "without name"
 msgstr "исемсез"
 
+#: kdeui/widgets/ktextedit.cpp:527
+msgid "Speak Text"
+msgstr "Текстны уку"
+
+#: kdeui/widgets/ktextedit.cpp:542
+msgid "Starting Jovie Text-to-Speech Service Failed"
+msgstr "Авазны синтазлаучы Jovie хезмәтен җибәреп булмады"
+
+#: kdeui/widgets/ktextedit.cpp:631
+#, kde-format
+msgid "No suggestions for %1"
+msgstr "%1 өчен вариантлар юк"
+
+#: kdeui/widgets/ktextedit.cpp:642
+msgid "Ignore"
+msgstr "Төшереп калдыру"
+
+#: kdeui/widgets/ktextedit.cpp:643
+msgid "Add to Dictionary"
+msgstr "Добавить в словарь"
+
+#: kdeui/widgets/ktextedit.cpp:788
+msgid "Nothing to spell check."
+msgstr "Нечего проверять."
+
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:195
 msgid "Image Operations"
 msgstr "Сурәтләр белән операцияләр"
@@ -9664,31 +9689,6 @@ msgstr "Өске индекс"
 #: kdeui/widgets/ksqueezedtextlabel.cpp:165
 msgid "&Copy Full Text"
 msgstr "&Бар текстның күчермәсен ясау"
-
-#: kdeui/widgets/ktextedit.cpp:527
-msgid "Speak Text"
-msgstr "Текстны уку"
-
-#: kdeui/widgets/ktextedit.cpp:542
-msgid "Starting Jovie Text-to-Speech Service Failed"
-msgstr "Авазны синтазлаучы Jovie хезмәтен җибәреп булмады"
-
-#: kdeui/widgets/ktextedit.cpp:631
-#, kde-format
-msgid "No suggestions for %1"
-msgstr "%1 өчен вариантлар юк"
-
-#: kdeui/widgets/ktextedit.cpp:642
-msgid "Ignore"
-msgstr "Төшереп калдыру"
-
-#: kdeui/widgets/ktextedit.cpp:643
-msgid "Add to Dictionary"
-msgstr "Добавить в словарь"
-
-#: kdeui/widgets/ktextedit.cpp:788
-msgid "Nothing to spell check."
-msgstr "Нечего проверять."
 
 #: kdeui/widgets/ktimecombobox.cpp:259
 msgctxt "@info"
