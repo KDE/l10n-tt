@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-26 09:57+0000\n"
+"POT-Creation-Date: 2012-03-05 11:06+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1156,17 +1156,17 @@ msgctxt "Name"
 msgid "KScan"
 msgstr "KScan"
 
-#: kio/kssl/kcm/kcm_ssl.desktop:11
+#: kio/kssl/kcm/kcm_ssl.desktop:12
 msgctxt "Name"
 msgid "SSL Preferences"
 msgstr "SSL көйләүләре"
 
-#: kio/kssl/kcm/kcm_ssl.desktop:70
+#: kio/kssl/kcm/kcm_ssl.desktop:71
 msgctxt "Comment"
 msgid "SSL Versions and Certificates"
 msgstr "SSL версияләре һәм Таныклыклары"
 
-#: kio/kssl/kcm/kcm_ssl.desktop:129
+#: kio/kssl/kcm/kcm_ssl.desktop:130
 msgctxt "X-KDE-Keywords"
 msgid "SSL,Security,Network,Protocol,Certificates,Encryption,HTTPS"
 msgstr ""
