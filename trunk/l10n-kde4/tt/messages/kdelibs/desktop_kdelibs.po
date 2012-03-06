@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-01-21 04:16+0000\n"
+"POT-Creation-Date: 2012-03-06 09:48+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -921,97 +921,97 @@ msgctxt "Name"
 msgid "Uyghur"
 msgstr "Уйгур"
 
-#: kdecore/localization/all_languages.desktop:16295
+#: kdecore/localization/all_languages.desktop:16296
 msgctxt "Name"
 msgid "Ukrainian"
 msgstr "Украин"
 
-#: kdecore/localization/all_languages.desktop:16393
+#: kdecore/localization/all_languages.desktop:16394
 msgctxt "Name"
 msgid "Urdu"
 msgstr "Урду"
 
-#: kdecore/localization/all_languages.desktop:16491
+#: kdecore/localization/all_languages.desktop:16492
 msgctxt "Name"
 msgid "Uzbek"
 msgstr "Үзбәк"
 
-#: kdecore/localization/all_languages.desktop:16589
+#: kdecore/localization/all_languages.desktop:16590
 msgctxt "Name"
 msgid "Uzbek (Cyrillic)"
 msgstr "Үзбәк (кирилл)"
 
-#: kdecore/localization/all_languages.desktop:16675
+#: kdecore/localization/all_languages.desktop:16676
 msgctxt "Name"
 msgid "Venda"
 msgstr "Венда"
 
-#: kdecore/localization/all_languages.desktop:16772
+#: kdecore/localization/all_languages.desktop:16773
 msgctxt "Name"
 msgid "Vietnamese"
 msgstr "Вьетнам"
 
-#: kdecore/localization/all_languages.desktop:16870
+#: kdecore/localization/all_languages.desktop:16871
 msgctxt "Name"
 msgid "Volapük"
 msgstr "Волапюк"
 
-#: kdecore/localization/all_languages.desktop:16965
+#: kdecore/localization/all_languages.desktop:16966
 msgctxt "Name"
 msgid "Walloon"
 msgstr "Валлон"
 
-#: kdecore/localization/all_languages.desktop:17063
+#: kdecore/localization/all_languages.desktop:17064
 msgctxt "Name"
 msgid "Wolof"
 msgstr "Волофча"
 
-#: kdecore/localization/all_languages.desktop:17161
+#: kdecore/localization/all_languages.desktop:17162
 msgctxt "Name"
 msgid "Xhosa"
 msgstr "Коса"
 
-#: kdecore/localization/all_languages.desktop:17259
+#: kdecore/localization/all_languages.desktop:17260
 msgctxt "Name"
 msgid "KDE Test Language"
 msgstr "KDE тикшертү теле"
 
-#: kdecore/localization/all_languages.desktop:17320
+#: kdecore/localization/all_languages.desktop:17322
 msgctxt "Name"
 msgid "Yiddish"
 msgstr "Идиш"
 
-#: kdecore/localization/all_languages.desktop:17418
+#: kdecore/localization/all_languages.desktop:17420
 msgctxt "Name"
 msgid "Yoruba"
 msgstr "Йоруба"
 
-#: kdecore/localization/all_languages.desktop:17515
+#: kdecore/localization/all_languages.desktop:17517
 msgctxt "Name"
 msgid "Zhuang"
 msgstr "Зулча"
 
-#: kdecore/localization/all_languages.desktop:17611
+#: kdecore/localization/all_languages.desktop:17613
 msgctxt "Name"
 msgid "Chinese"
 msgstr "Кытайча"
 
-#: kdecore/localization/all_languages.desktop:17709
+#: kdecore/localization/all_languages.desktop:17711
 msgctxt "Name"
 msgid "Chinese Simplified"
 msgstr "Кытай (җиңел)"
 
-#: kdecore/localization/all_languages.desktop:17806
+#: kdecore/localization/all_languages.desktop:17808
 msgctxt "Name"
 msgid "Chinese (Hong Kong)"
 msgstr "Кытай (Гонконг)"
 
-#: kdecore/localization/all_languages.desktop:17901
+#: kdecore/localization/all_languages.desktop:17903
 msgctxt "Name"
 msgid "Chinese Traditional"
 msgstr "Кытай (гадәти)"
 
-#: kdecore/localization/all_languages.desktop:17998
+#: kdecore/localization/all_languages.desktop:18000
 msgctxt "Name"
 msgid "Zulu"
 msgstr "Зулусский"
@@ -1156,17 +1156,17 @@ msgctxt "Name"
 msgid "KScan"
 msgstr "KScan"
 
-#: kio/kssl/kcm/kcm_ssl.desktop:11
+#: kio/kssl/kcm/kcm_ssl.desktop:12
 msgctxt "Name"
 msgid "SSL Preferences"
 msgstr "SSL көйләүләре"
 
-#: kio/kssl/kcm/kcm_ssl.desktop:69
+#: kio/kssl/kcm/kcm_ssl.desktop:71
 msgctxt "Comment"
 msgid "SSL Versions and Certificates"
 msgstr "SSL версияләре һәм Таныклыклары"
 
-#: kio/kssl/kcm/kcm_ssl.desktop:127
+#: kio/kssl/kcm/kcm_ssl.desktop:130
 msgctxt "X-KDE-Keywords"
 msgid "SSL,Security,Network,Protocol,Certificates,Encryption,HTTPS"
 msgstr ""
@@ -1441,7 +1441,7 @@ msgctxt "Name"
 msgid "Test"
 msgstr "Тикшерү"
 
-#: plasma/tests/testcontainmentactionsplugin/plasma-containmentactions-test.desktop:64
+#: plasma/tests/testcontainmentactionsplugin/plasma-containmentactions-test.desktop:65
 msgctxt "Comment"
 msgid "A dummy plugin for testing"
 msgstr "Тикшертү өчен ялган өстәмә"
