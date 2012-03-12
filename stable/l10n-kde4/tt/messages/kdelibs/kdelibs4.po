@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-03-01 11:26+0100\n"
+"POT-Creation-Date: 2012-03-12 11:15+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -10110,6 +10110,14 @@ msgstr "Сурәт - %1x%2 пикселов"
 msgid "Done."
 msgstr "Әзер."
 
+#: khtml/test_regression_gui_main.cpp:34
+msgid "TestRegressionGui"
+msgstr "TestRegressionGui"
+
+#: khtml/test_regression_gui_main.cpp:35
+msgid "GUI for the khtml regression tester"
+msgstr "Графический интерфейс для поиска регрессии в khtml"
+
 #: khtml/khtml_ext.cpp:418
 msgid "&Copy Text"
 msgstr "Тексттан &күчермә ясау"
@@ -10265,14 +10273,6 @@ msgstr ""
 #, no-c-format
 msgid "Default Font Size (100%)"
 msgstr "Хәрефнең стандарт зурлыгы (100%)"
-
-#: khtml/test_regression_gui_main.cpp:34
-msgid "TestRegressionGui"
-msgstr "TestRegressionGui"
-
-#: khtml/test_regression_gui_main.cpp:35
-msgid "GUI for the khtml regression tester"
-msgstr "Графический интерфейс для поиска регрессии в khtml"
 
 #: khtml/khtml_part.cpp:251
 msgid "View Do&cument Source"
@@ -10730,11 +10730,11 @@ msgstr "&Тыелып куелган тәрәзәләр турында хәбә�
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "&JavaScript'ның яңа тәрәзәләре өчен кагыйдәләрне көйләү..."
 
-#: khtml/khtml_settings.cpp:235
+#: khtml/khtml_settings.cpp:235 kparts/htmlextension.cpp:117
 msgid "Accept"
 msgstr "Рөхсәт итү"
 
-#: khtml/khtml_settings.cpp:236
+#: khtml/khtml_settings.cpp:236 kparts/htmlextension.cpp:119
 msgid "Reject"
 msgstr "Кире кагу"
 
