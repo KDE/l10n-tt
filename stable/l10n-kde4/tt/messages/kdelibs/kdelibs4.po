@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-03-20 18:10+0100\n"
+"POT-Creation-Date: 2012-03-26 11:40+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -2179,15 +2179,15 @@ msgstr "Порт"
 msgid "i18n() takes at least one argument"
 msgstr "i18n() функциясе бер аргумент булса да таләп итә"
 
-#: experimental/libkdeclarative/bindings/i18n.cpp:51
+#: experimental/libkdeclarative/bindings/i18n.cpp:52
 msgid "i18nc() takes at least two arguments"
 msgstr "i18nс() функциясе ике аргумент булса да таләп итә"
 
-#: experimental/libkdeclarative/bindings/i18n.cpp:71
+#: experimental/libkdeclarative/bindings/i18n.cpp:72
 msgid "i18np() takes at least two arguments"
 msgstr "i18nз() функциясе ике аргумент булса да таләп итә"
 
-#: experimental/libkdeclarative/bindings/i18n.cpp:96
+#: experimental/libkdeclarative/bindings/i18n.cpp:97
 msgid "i18ncp() takes at least three arguments"
 msgstr "i18nсз() функциясе өч аргумент булса да таләп итә"
 
