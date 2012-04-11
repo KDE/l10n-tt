@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-04-03 18:40+0200\n"
+"POT-Creation-Date: 2012-04-11 11:37+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -10730,15 +10730,15 @@ msgstr "&Тыелып куелган тәрәзәләр турында хәбә�
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "&JavaScript'ның яңа тәрәзәләре өчен кагыйдәләрне көйләү..."
 
-#: khtml/khtml_settings.cpp:235 kparts/htmlextension.cpp:117
+#: khtml/khtml_settings.cpp:238 kparts/htmlextension.cpp:117
 msgid "Accept"
 msgstr "Рөхсәт итү"
 
-#: khtml/khtml_settings.cpp:236 kparts/htmlextension.cpp:119
+#: khtml/khtml_settings.cpp:239 kparts/htmlextension.cpp:119
 msgid "Reject"
 msgstr "Кире кагу"
 
-#: khtml/khtml_settings.cpp:916
+#: khtml/khtml_settings.cpp:919
 msgid "Filter error"
 msgstr "Сөзгечнең хатасы"
 
