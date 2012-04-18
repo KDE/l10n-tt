@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-04-12 12:14+0200\n"
+"POT-Creation-Date: 2012-04-18 11:32+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -13337,7 +13337,7 @@ msgstr "-исемсез-"
 msgid "No service matching the requirements was found"
 msgstr "Служба, соответствующая требованиям, не найдена"
 
-#: kdecore/services/kservice.h:555
+#: kdecore/services/kservice.h:561
 #, kde-format
 msgid "The service '%1' does not provide an interface '%2' with keyword '%3'"
 msgstr "Служба «%1» не предоставляет интерфейс «%2» с ключевыми словами «%3»."
