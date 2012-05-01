@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-04-23 12:02+0200\n"
+"POT-Creation-Date: 2012-05-01 19:10+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -6305,7 +6305,7 @@ msgstr "Канташучыга эл. почта аша хат тапшыру"
 msgid "Visit contributor's homepage"
 msgstr "Катнашучының веб-сәхифәсенә күчү"
 
-#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:126
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:127
 #, kde-format
 msgctxt "Action to send an email to a contributor"
 msgid ""
@@ -6315,8 +6315,8 @@ msgstr ""
 "Канташучыга эл. почта аша хат тапшыру:\n"
 "%1"
 
-#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:131
-#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:168
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:133
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:170
 #, kde-format
 msgid ""
 "Visit contributor's homepage\n"
@@ -6325,8 +6325,8 @@ msgstr ""
 "Катнашучының веб-сәхифәсенә күчү:\n"
 "%1"
 
-#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:138
-#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:172
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:140
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:174
 #, kde-format
 msgid ""
 "Visit contributor's profile on %1\n"
@@ -6335,7 +6335,7 @@ msgstr ""
 "Посетить страницу профиля помощника на %1\n"
 "%2"
 
-#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:160
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:162
 #, kde-format
 msgid ""
 "Visit contributor's page\n"
@@ -6344,7 +6344,7 @@ msgstr ""
 "Посетить страницу помощника\n"
 "%1"
 
-#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:164
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:166
 #, kde-format
 msgid ""
 "Visit contributor's blog\n"
@@ -6353,7 +6353,7 @@ msgstr ""
 "Катнашучының блогына күчү:\n"
 "%1"
 
-#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:266
+#: kdeui/dialogs/kaboutapplicationpersonlistdelegate_p.cpp:268
 #, kde-format
 msgctxt "@item Contributor name in about dialog."
 msgid "%1"
@@ -10734,15 +10734,7 @@ msgstr "&Тыелып куелган тәрәзәләр турында хәбә�
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "&JavaScript'ның яңа тәрәзәләре өчен кагыйдәләрне көйләү..."
 
-#: khtml/khtml_settings.cpp:238 kparts/htmlextension.cpp:117
-msgid "Accept"
-msgstr "Рөхсәт итү"
-
-#: khtml/khtml_settings.cpp:239 kparts/htmlextension.cpp:119
-msgid "Reject"
-msgstr "Кире кагу"
-
-#: khtml/khtml_settings.cpp:923
+#: khtml/khtml_settings.cpp:888
 msgid "Filter error"
 msgstr "Сөзгечнең хатасы"
 
@@ -12484,6 +12476,14 @@ msgstr ""
 #: kparts/part.cpp:823
 msgid "Close Document"
 msgstr "Документны ябу"
+
+#: kparts/htmlextension.cpp:117
+msgid "Accept"
+msgstr "Рөхсәт итү"
+
+#: kparts/htmlextension.cpp:119
+msgid "Reject"
+msgstr "Кире кагу"
 
 #: kpty/kptydevice.cpp:322
 msgid "Error reading from PTY"
