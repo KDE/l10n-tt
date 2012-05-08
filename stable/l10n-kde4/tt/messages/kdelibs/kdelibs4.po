@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-05-05 12:43+0200\n"
+"POT-Creation-Date: 2012-05-08 18:30+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -6441,7 +6441,7 @@ msgid "Warning"
 msgstr "Кисәтү"
 
 #: kdeui/dialogs/kmessagebox.cpp:841 kdeui/dialogs/kmessagebox.cpp:871
-#: khtml/rendering/render_form.cpp:806 kjs/object.cpp:553
+#: khtml/rendering/render_form.cpp:818 kjs/object.cpp:553
 #: knewstuff/knewstuff3/uploaddialog.cpp:528
 msgid "Error"
 msgstr "Хата"
@@ -9325,7 +9325,7 @@ msgctxt "@item:inmenu Text Completion"
 msgid "Default"
 msgstr "Үрнәкле"
 
-#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:929
+#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:941
 msgid "Clear &History"
 msgstr "Тарихны &чистарту"
 
@@ -11243,28 +11243,28 @@ msgstr "© David Faure <email>faure@kde.org</email>, 2001-2011"
 msgid "No handler found for %1."
 msgstr "%1 өчен эшкәрткеч табылмады."
 
-#: khtml/rendering/render_form.cpp:785
+#: khtml/rendering/render_form.cpp:797
 msgid "New Web Shortcut"
 msgstr "Новое сокращение Веб"
 
-#: khtml/rendering/render_form.cpp:806
+#: khtml/rendering/render_form.cpp:818
 #, kde-format
 msgid "%1 is already assigned to %2"
 msgstr "%1 уже назначено для %2"
 
-#: khtml/rendering/render_form.cpp:851
+#: khtml/rendering/render_form.cpp:863
 msgid "Search &provider name:"
 msgstr "&Название поисковой системы:"
 
-#: khtml/rendering/render_form.cpp:853
+#: khtml/rendering/render_form.cpp:865
 msgid "New search provider"
 msgstr "Яңа эзләү системасы"
 
-#: khtml/rendering/render_form.cpp:858
+#: khtml/rendering/render_form.cpp:870
 msgid "UR&I shortcuts:"
 msgstr "&Кыскартмалар:"
 
-#: khtml/rendering/render_form.cpp:944
+#: khtml/rendering/render_form.cpp:956
 msgid "Create Web Shortcut"
 msgstr "Создать сокращение Веб"
 
