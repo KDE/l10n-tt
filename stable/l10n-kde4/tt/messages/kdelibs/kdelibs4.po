@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-06-02 11:46+0200\n"
+"POT-Creation-Date: 2012-06-05 19:05+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -12830,7 +12830,7 @@ msgstr "Элемтә хатасы"
 msgid "Invalid type in Database"
 msgstr "Мәгълумат базасында хаталы төр"
 
-#: nepomuk/query/query.cpp:696
+#: nepomuk/query/query.cpp:687
 #, kde-format
 msgctxt ""
 "@title UDS_DISPLAY_NAME for a KIO directory listing. %1 is the query the "
@@ -12838,7 +12838,7 @@ msgctxt ""
 msgid "Query Results from '%1'"
 msgstr "Результаты поиска «%1»"
 
-#: nepomuk/query/query.cpp:702
+#: nepomuk/query/query.cpp:693
 msgctxt "@title UDS_DISPLAY_NAME for a KIO directory listing."
 msgid "Query Results"
 msgstr "Таләпнең нәтиҗәләре"
