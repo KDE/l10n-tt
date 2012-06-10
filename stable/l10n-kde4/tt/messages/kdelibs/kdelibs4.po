@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-06-05 19:05+0200\n"
+"POT-Creation-Date: 2012-06-10 12:22+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -13358,6 +13358,12 @@ msgstr "-алданук билгеләнгәнчә-"
 #: kdeui/colors/kcolordialog.cpp:1658
 msgid "-unnamed-"
 msgstr "-исемсез-"
+
+#: interfaces/terminal/example/main.cc:32
+#, fuzzy
+#| msgid "Test"
+msgid "TETest"
+msgstr "Тикшерү"
 
 #: kdecore/services/kmimetypetrader.h:136
 #: kdecore/services/kmimetypetrader.h:169
