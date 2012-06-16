@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-06-12 18:48+0200\n"
+"POT-Creation-Date: 2012-06-16 14:13+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -5952,6 +5952,10 @@ msgid "Please click and drag on the image to select the region of interest:"
 msgstr ""
 "Кирәкле өлкәне сайлау өчен тычканның төймәсенә басып күрсәткечкә күчерегез:"
 
+#: kdeui/dialogs/kconfigdialog.cpp:43 kutils/kcmultidialog.cpp:208
+msgid "Configure"
+msgstr "Көйләү"
+
 #: kdeui/dialogs/kshortcutsdialog.cpp:67
 msgid ""
 "The current shortcut scheme is modified. Save before switching to the new "
@@ -5988,10 +5992,6 @@ msgstr "&Җибәргәндә киңәшләрне чагылдыру"
 msgctxt "Opposite to Previous"
 msgid "&Next"
 msgstr "&Алга бару"
-
-#: kdeui/dialogs/kconfigdialog.cpp:43 kutils/kcmultidialog.cpp:208
-msgid "Configure"
-msgstr "Көйләү"
 
 #: kdeui/dialogs/kshortcutseditoritem.cpp:45
 #, kde-format
