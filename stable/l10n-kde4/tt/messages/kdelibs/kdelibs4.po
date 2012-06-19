@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-06-18 11:58+0200\n"
+"POT-Creation-Date: 2012-06-19 19:42+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1530,7 +1530,7 @@ msgstr "Яңа әсбап"
 
 #. i18n: file: knewstuff/knewstuff3/uploaddialog.ui:207
 #. i18n: ectx: property (text), widget (QLabel, label_8)
-#: rc.cpp:841 khtml/khtml_part.cpp:1855
+#: rc.cpp:841 khtml/khtml_part.cpp:1869
 msgid "Description:"
 msgstr "Тасвирлама:"
 
@@ -3430,7 +3430,7 @@ msgstr "KDE кушымтасы"
 msgid "Qt"
 msgstr "Qt"
 
-#: kdecore/kernel/kcmdlineargs.cpp:496 khtml/khtml_part.cpp:4819
+#: kdecore/kernel/kcmdlineargs.cpp:496 khtml/khtml_part.cpp:4833
 msgid "KDE"
 msgstr "KDE"
 
@@ -10100,8 +10100,8 @@ msgstr "Сурәтләрне бастыру"
 msgid "Print header"
 msgstr "Баш исемен бастыру"
 
-#: khtml/khtml_run.cpp:104 khtml/khtml_part.cpp:3716 khtml/khtml_part.cpp:3945
-#: khtml/khtml_part.cpp:4366 kparts/browserrun.cpp:426
+#: khtml/khtml_run.cpp:104 khtml/khtml_part.cpp:3730 khtml/khtml_part.cpp:3959
+#: khtml/khtml_part.cpp:4380 kparts/browserrun.cpp:426
 msgid "Save As"
 msgstr "... итеп саклау"
 
@@ -10132,6 +10132,474 @@ msgstr "Сурәт - %1x%2 пикселов"
 #: khtml/khtmlimage.cpp:217
 msgid "Done."
 msgstr "Әзер."
+
+#: khtml/khtml_part.cpp:252
+msgid "View Do&cument Source"
+msgstr "Документның чыганагын &карап чыгу"
+
+#: khtml/khtml_part.cpp:259 khtml/khtml_ext.cpp:509
+msgid "View Frame Source"
+msgstr "Фреймның чыганак текстын карап чыгу"
+
+#: khtml/khtml_part.cpp:266
+msgid "View Document Information"
+msgstr "Документ турында мәгълүматны карап чыгу"
+
+#: khtml/khtml_part.cpp:273
+msgid "Save &Background Image As..."
+msgstr "Җирлек сурәтен &саклау..."
+
+#: khtml/khtml_part.cpp:282 khtml/khtml_ext.cpp:504
+msgid "Save &Frame As..."
+msgstr "Фреймны&саклау..."
+
+#: khtml/khtml_part.cpp:294 khtml/khtml_part.cpp:4041
+msgid "SSL"
+msgstr "SSL"
+
+#: khtml/khtml_part.cpp:298
+msgid "Print Rendering Tree to STDOUT"
+msgstr "Сурәтләү агачын STDOUT'ка чыгару"
+
+#: khtml/khtml_part.cpp:302
+msgid "Print DOM Tree to STDOUT"
+msgstr "DOM агачын STDOUT'ка чыгару"
+
+#: khtml/khtml_part.cpp:306
+msgid "Print frame tree to STDOUT"
+msgstr "Вывести дерево фреймов на STDOUT"
+
+#: khtml/khtml_part.cpp:310
+msgid "Stop Animated Images"
+msgstr "Рәсемнәр анимациясен туктату"
+
+#: khtml/khtml_part.cpp:314
+msgid "Set &Encoding"
+msgstr "&Кодлашу..."
+
+#: khtml/khtml_part.cpp:353
+msgid "Use S&tylesheet"
+msgstr "Стильләр җәдвәлен &куллану"
+
+#: khtml/khtml_part.cpp:358
+msgid "Enlarge Font"
+msgstr "Хәрефне зурайту"
+
+#: khtml/khtml_part.cpp:361
+msgid ""
+"<qt>Enlarge Font<br /><br />Make the font in this window bigger. Click and "
+"hold down the mouse button for a menu with all available font sizes.</qt>"
+msgstr ""
+"<qt>Увеличить шрифт<br /><br />Увеличить шрифт в этом окне. Нажмите и "
+"удерживайте кнопку мыши для показа меню с доступными размерами шрифта.</qt>"
+
+#: khtml/khtml_part.cpp:365
+msgid "Shrink Font"
+msgstr "Хәрефне кечерәйтү"
+
+#: khtml/khtml_part.cpp:368
+msgid ""
+"<qt>Shrink Font<br /><br />Make the font in this window smaller. Click and "
+"hold down the mouse button for a menu with all available font sizes.</qt>"
+msgstr ""
+"<qt>Уменьшить шрифт<br /><br />Уменьшить шрифт в этом окне. Нажмите и "
+"удерживайте кнопку мыши для показа меню с доступными размерами шрифта.</qt>"
+
+#: khtml/khtml_part.cpp:383
+msgid ""
+"<qt>Find text<br /><br />Shows a dialog that allows you to find text on the "
+"displayed page.</qt>"
+msgstr ""
+"<qt>Найти текст<br /><br />Диалог поиска текста на текущей странице.</qt>"
+
+#: khtml/khtml_part.cpp:387
+msgid ""
+"<qt>Find next<br /><br />Find the next occurrence of the text that you have "
+"found using the <b>Find Text</b> function.</qt>"
+msgstr ""
+"<qt>Найти далее<br /><br />Поиск следующего вхождения текста, указанного в "
+"поле <b>Найти текст</b>.</qt>"
+
+#: khtml/khtml_part.cpp:393
+msgid ""
+"<qt>Find previous<br /><br />Find the previous occurrence of the text that "
+"you have found using the <b>Find Text</b> function.</qt>"
+msgstr ""
+"<qt>Найти предыдущее<br /><br />Поиск предыдущего вхождения текста, "
+"указанного в поле <b>Найти текст</b>.</qt>"
+
+#: khtml/khtml_part.cpp:398
+msgid "Find Text as You Type"
+msgstr "Җыеп бару белән текстны эзләү"
+
+#: khtml/khtml_part.cpp:401
+msgid ""
+"This shortcut shows the find bar, for finding text in the displayed page. It "
+"cancels the effect of \"Find Links as You Type\", which sets the \"Find "
+"links only\" option."
+msgstr ""
+"Эта комбинация клавиш вызывает панель для поиска текста на текущей странице. "
+"Это отключит функцию поиска ссылок по набору."
+
+#: khtml/khtml_part.cpp:404
+msgid "Find Links as You Type"
+msgstr "Җыеп бару белән сылтамаларны эзләү"
+
+#: khtml/khtml_part.cpp:410
+msgid ""
+"This shortcut shows the find bar, and sets the option \"Find links only\"."
+msgstr ""
+"Эта комбинация клавиш вызывает панель для поиска ссылок на текущей странице."
+
+#: khtml/khtml_part.cpp:422 khtml/khtml_ext.cpp:498
+msgid "Print Frame..."
+msgstr "Фреймны бастыру..."
+
+#: khtml/khtml_part.cpp:426
+msgid ""
+"<qt>Print Frame<br /><br />Some pages have several frames. To print only a "
+"single frame, click on it and then use this function.</qt>"
+msgstr ""
+"<qt>Печать фрейма<br /><br />Некоторые страницы могут содержать несколько "
+"фреймов. Чтобы напечатать только один фрейм, нажмите на нем и используйте "
+"эту функцию.</qt>"
+
+#: khtml/khtml_part.cpp:440
+msgid "Toggle Caret Mode"
+msgstr "Кертү/алыштыру режимын к&үчерү"
+
+#: khtml/khtml_part.cpp:714
+#, kde-format
+msgid "The fake user-agent '%1' is in use."
+msgstr "'%1' бпраузерның астынкы идентификаторы кулланыла."
+
+#: khtml/khtml_part.cpp:1211
+msgid "This web page contains coding errors."
+msgstr "Бу веб-бит кодлаштыру хаталарын тәшкил итә."
+
+#: khtml/khtml_part.cpp:1253
+msgid "&Hide Errors"
+msgstr "&Хаталарны яшерү"
+
+#: khtml/khtml_part.cpp:1254
+msgid "&Disable Error Reporting"
+msgstr "&Хаталар турында хәбәрләрне тыю"
+
+#: khtml/khtml_part.cpp:1298
+#, kde-format
+msgid "<qt><b>Error</b>: %1: %2</qt>"
+msgstr "<qt><b>Хата</b>: %1: %2</qt>"
+
+#: khtml/khtml_part.cpp:1347
+#, kde-format
+msgid "<qt><b>Error</b>: node %1: %2</qt>"
+msgstr "<qt><b>Ошибка</b>: узел %1: %2</qt>"
+
+#: khtml/khtml_part.cpp:1463
+msgid "Display Images on Page"
+msgstr "Биттә сурәтне чагылдыру"
+
+#: khtml/khtml_part.cpp:1840
+#, kde-format
+msgid "Error: %1 - %2"
+msgstr "Хата: %1 - %2"
+
+#: khtml/khtml_part.cpp:1845
+msgid "The requested operation could not be completed"
+msgstr "Чакырылган операция тәмамлана алмый"
+
+#: khtml/khtml_part.cpp:1851
+msgid "Technical Reason: "
+msgstr "Техник сәбәп: "
+
+#: khtml/khtml_part.cpp:1857
+msgid "Details of the Request:"
+msgstr "Сорауның төгәллекләре:"
+
+#: khtml/khtml_part.cpp:1859
+#, kde-format
+msgid "URL: %1"
+msgstr "URL: %1"
+
+#: khtml/khtml_part.cpp:1862
+#, kde-format
+msgid "Protocol: %1"
+msgstr "Беркетмә: %1"
+
+#: khtml/khtml_part.cpp:1865
+#, kde-format
+msgid "Date and Time: %1"
+msgstr "Дата һәм вакыт: %1"
+
+#: khtml/khtml_part.cpp:1867
+#, kde-format
+msgid "Additional Information: %1"
+msgstr "Өстәмә мәгълүмат: %1"
+
+#: khtml/khtml_part.cpp:1875
+msgid "Possible Causes:"
+msgstr "Мөмкинле нәтиҗәләр:"
+
+#: khtml/khtml_part.cpp:1882
+msgid "Possible Solutions:"
+msgstr "Мөмкинле карарлар:"
+
+#: khtml/khtml_part.cpp:2300
+msgid "Page loaded."
+msgstr "Бит йөкләндерелгән."
+
+#: khtml/khtml_part.cpp:2302
+#, kde-format
+msgid "%1 Image of %2 loaded."
+msgid_plural "%1 Images of %2 loaded."
+msgstr[0] "Загружено изображений: %1 из %2"
+msgstr[1] "Загружено изображений: %1 из %2"
+
+#: khtml/khtml_part.cpp:2477
+msgid "Automatic Detection"
+msgstr "Автоматик билгеләү"
+
+#: khtml/khtml_part.cpp:3539 khtml/khtml_part.cpp:3626
+#: khtml/khtml_part.cpp:3637
+msgid " (In new window)"
+msgstr " (Яңа тәрәзәдә)"
+
+#: khtml/khtml_part.cpp:3578
+msgid "Symbolic Link"
+msgstr "Символик сылтама"
+
+#: khtml/khtml_part.cpp:3580
+#, kde-format
+msgid "%1 (Link)"
+msgstr "%1 (Сылтама)"
+
+#: khtml/khtml_part.cpp:3600
+#, kde-format
+msgid "%2 (%1 byte)"
+msgid_plural "%2 (%1 bytes)"
+msgstr[0] "%2 (%1 байт)"
+msgstr[1] "%2 (%1 байта)"
+
+#: khtml/khtml_part.cpp:3604
+#, kde-format
+msgid "%2 (%1 K)"
+msgstr "%2 (%1 К)"
+
+#: khtml/khtml_part.cpp:3639
+msgid " (In other frame)"
+msgstr " (Башка фреймда)"
+
+#: khtml/khtml_part.cpp:3644
+msgid "Email to: "
+msgstr "Хат язу: "
+
+#: khtml/khtml_part.cpp:3650
+msgid " - Subject: "
+msgstr " - Тема: "
+
+#: khtml/khtml_part.cpp:3652
+msgid " - CC: "
+msgstr " - Күчермә: "
+
+#: khtml/khtml_part.cpp:3654
+msgid " - BCC: "
+msgstr " - BCC: "
+
+#: khtml/khtml_part.cpp:3735
+#, kde-format
+msgid ""
+"<qt>This untrusted page links to<br /><b>%1</b>.<br />Do you want to follow "
+"the link?</qt>"
+msgstr ""
+"<qt>Данная непроверенная страница содержит ссылку <br /><b>%1</b>.<br /"
+">Перейти по ссылке?</qt>"
+
+#: khtml/khtml_part.cpp:3736
+msgid "Follow"
+msgstr "Күчү"
+
+#: khtml/khtml_part.cpp:3837
+msgid "Frame Information"
+msgstr "Фрейм турфндагы мәгълүмат"
+
+#: khtml/khtml_part.cpp:3843
+#, kde-format
+msgid "   <a href=\"%1\">[Properties]</a>"
+msgstr "   <a href=\"%1\">[Сыйфатлар]</a>"
+
+#: khtml/khtml_part.cpp:3869
+msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
+msgid "Quirks"
+msgstr "Туры килү ысулы"
+
+#: khtml/khtml_part.cpp:3872
+msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
+msgid "Almost standards"
+msgstr "Стандартларга туры килә диярлек"
+
+#: khtml/khtml_part.cpp:3876
+msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
+msgid "Strict"
+msgstr "Стандартларга катгый рәвештә туры килү"
+
+#: khtml/khtml_part.cpp:3947
+msgid "Save Background Image As"
+msgstr "Җирлек сурәтен саклау..."
+
+#: khtml/khtml_part.cpp:4039
+msgid "The peer SSL certificate chain appears to be corrupt."
+msgstr "Ихтимал, SSL таныклыкларның чылбыры ватык."
+
+#: khtml/khtml_part.cpp:4058
+msgid "Save Frame As"
+msgstr "Фреймны саклау..."
+
+#: khtml/khtml_part.cpp:4102
+msgid "&Find in Frame..."
+msgstr "&Фреймда эзләү..."
+
+#: khtml/khtml_part.cpp:4104 kdeui/actions/kstandardaction_p.h:64
+msgid "&Find..."
+msgstr "&Табу..."
+
+#: khtml/khtml_part.cpp:4721
+msgid ""
+"Warning:  This is a secure form but it is attempting to send your data back "
+"unencrypted.\n"
+"A third party may be able to intercept and view this information.\n"
+"Are you sure you wish to continue?"
+msgstr ""
+"Игътибар: Бу фраза саклангычта, әмма ул сезнең мәгълүматларыгызны кире "
+"шифрсыз күренешендәкайтармакчы була.\n"
+"Кырыйдан кем дә булса бу мәгълүматны алып карый ала.\n"
+"Дәвам иттерергәме?"
+
+#: khtml/khtml_part.cpp:4724 khtml/khtml_part.cpp:4733
+#: khtml/khtml_part.cpp:4757
+msgid "Network Transmission"
+msgstr "Челтәрдән тапшыру"
+
+#: khtml/khtml_part.cpp:4724 khtml/khtml_part.cpp:4734
+msgid "&Send Unencrypted"
+msgstr "&Шифрлаусыз тапшыру"
+
+#: khtml/khtml_part.cpp:4731
+msgid ""
+"Warning: Your data is about to be transmitted across the network "
+"unencrypted.\n"
+"Are you sure you wish to continue?"
+msgstr ""
+"Игътибар: Мәгълүматларыгыз челтәр буенча саклангычсыз тапшырылачак.\n"
+"Дәвам иттерергәме?"
+
+#: khtml/khtml_part.cpp:4755
+msgid ""
+"This site is attempting to submit form data via email.\n"
+"Do you want to continue?"
+msgstr ""
+"Форманың мәгълүматлар сайтка электрон почта тапшырып каралган.\n"
+"Чыннан да дәвам иттерергәме?"
+
+#: khtml/khtml_part.cpp:4758
+msgid "&Send Email"
+msgstr "&Е-mail тапшыру"
+
+#: khtml/khtml_part.cpp:4779
+#, kde-format
+msgid ""
+"<qt>The form will be submitted to <br /><b>%1</b><br />on your local "
+"filesystem.<br />Do you want to submit the form?</qt>"
+msgstr ""
+"<qt>Форма будет передана файлу <br /><b>%1</b><br /> на локальной файловой "
+"системе.<br />Отправить данные формы?</qt>"
+
+#: khtml/khtml_part.cpp:4780 khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839
+#: khtml/html/html_formimpl.cpp:1641 khtml/html/html_formimpl.cpp:1853
+msgid "Submit"
+msgstr "Бәяләмә өчен тапшыру"
+
+#: khtml/khtml_part.cpp:4833
+msgid ""
+"This site attempted to attach a file from your computer in the form "
+"submission. The attachment was removed for your protection."
+msgstr ""
+"Сайтка тапшыру өчен форма мәгълүматларына локаль файл кыстырып каралган. "
+"Сезнең иминлегегез өчен кушылган файл сөртелде."
+
+#: khtml/khtml_part.cpp:5904
+#, kde-format
+msgid "(%1/s)"
+msgstr "(%1/с)"
+
+#: khtml/khtml_part.cpp:6816
+msgid "Security Warning"
+msgstr "Иминлек кисәтүе"
+
+#: khtml/khtml_part.cpp:6825
+#, kde-format
+msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
+msgstr ""
+"<qt>Доступ с ненадёжной страницы на <br /><b>%1</b><br /> запрещён.</qt>"
+
+#: khtml/khtml_part.cpp:6826 khtml/java/kjavaappletserver.cpp:794
+msgid "Security Alert"
+msgstr "Иминлек системасының хәбәре"
+
+#: khtml/khtml_part.cpp:7174
+#, kde-format
+msgid "The wallet '%1' is open and being used for form data and passwords."
+msgstr ""
+"'%1' куенчык ачык һәм мәгълүматларны һәм парольләрне кертү өчен кулланыла."
+
+#: khtml/khtml_part.cpp:7234
+msgid "&Close Wallet"
+msgstr "&Куенчыкны ябу"
+
+#: khtml/khtml_part.cpp:7237
+msgid "&Allow storing passwords for this site"
+msgstr "&Позволить сохранять пароли для этого сайта"
+
+#: khtml/khtml_part.cpp:7242
+#, kde-format
+msgid "Remove password for form %1"
+msgstr "%1 рәвешенең серсүзен бетерү"
+
+#: khtml/khtml_part.cpp:7347
+msgid "JavaScript &Debugger"
+msgstr "&JavaScript төзәткече"
+
+#: khtml/khtml_part.cpp:7379
+msgid "This page was prevented from opening a new window via JavaScript."
+msgstr "Сайт Javascript ярдәмендә яңа тәрәзә ачырга тырыша."
+
+#: khtml/khtml_part.cpp:7385
+msgid "Popup Window Blocked"
+msgstr "Йөзеп чыга торган тәрәзә тыелды"
+
+#: khtml/khtml_part.cpp:7385
+msgid ""
+"This page has attempted to open a popup window but was blocked.\n"
+"You can click on this icon in the status bar to control this behavior\n"
+"or to open the popup."
+msgstr ""
+"Йөзеп чыга торган тәрәзә тыеп куелган, һәм аны тәрәзә ачарга тырышты.\n"
+"Бу функция белән идарә итеп була, моның өчен торыш юлына чиертергә кирәк,\n"
+"һәм шуның белән йөзеп чыга торган тәрәзәгә рөхсәт бирелә яки тыела."
+
+#: khtml/khtml_part.cpp:7398
+#, kde-format
+msgid "&Show Blocked Popup Window"
+msgid_plural "&Show %1 Blocked Popup Windows"
+msgstr[0] "По&казать %1 заблокированное всплывающее окно"
+msgstr[1] "По&казать %1 заблокированных всплывающих окна"
+
+#: khtml/khtml_part.cpp:7399
+msgid "Show Blocked Window Passive Popup &Notification"
+msgstr "&Тыелып куелган тәрәзәләр турында хәбәрләштерү"
+
+#: khtml/khtml_part.cpp:7401
+msgid "&Configure JavaScript New Window Policies..."
+msgstr "&JavaScript'ның яңа тәрәзәләре өчен кагыйдәләрне көйләү..."
 
 #: khtml/test_regression_gui_main.cpp:34
 msgid "TestRegressionGui"
@@ -10182,18 +10650,6 @@ msgstr "Яңа &өстәмдә ачу"
 #: khtml/khtml_ext.cpp:493
 msgid "Reload Frame"
 msgstr "Фреймны яңарту"
-
-#: khtml/khtml_ext.cpp:498 khtml/khtml_part.cpp:421
-msgid "Print Frame..."
-msgstr "Фреймны бастыру..."
-
-#: khtml/khtml_ext.cpp:504 khtml/khtml_part.cpp:281
-msgid "Save &Frame As..."
-msgstr "Фреймны&саклау..."
-
-#: khtml/khtml_ext.cpp:509 khtml/khtml_part.cpp:258
-msgid "View Frame Source"
-msgstr "Фреймның чыганак текстын карап чыгу"
 
 #: khtml/khtml_ext.cpp:514
 msgid "View Frame Information"
@@ -10296,462 +10752,6 @@ msgstr ""
 #, no-c-format
 msgid "Default Font Size (100%)"
 msgstr "Хәрефнең стандарт зурлыгы (100%)"
-
-#: khtml/khtml_part.cpp:251
-msgid "View Do&cument Source"
-msgstr "Документның чыганагын &карап чыгу"
-
-#: khtml/khtml_part.cpp:265
-msgid "View Document Information"
-msgstr "Документ турында мәгълүматны карап чыгу"
-
-#: khtml/khtml_part.cpp:272
-msgid "Save &Background Image As..."
-msgstr "Җирлек сурәтен &саклау..."
-
-#: khtml/khtml_part.cpp:293 khtml/khtml_part.cpp:4027
-msgid "SSL"
-msgstr "SSL"
-
-#: khtml/khtml_part.cpp:297
-msgid "Print Rendering Tree to STDOUT"
-msgstr "Сурәтләү агачын STDOUT'ка чыгару"
-
-#: khtml/khtml_part.cpp:301
-msgid "Print DOM Tree to STDOUT"
-msgstr "DOM агачын STDOUT'ка чыгару"
-
-#: khtml/khtml_part.cpp:305
-msgid "Print frame tree to STDOUT"
-msgstr "Вывести дерево фреймов на STDOUT"
-
-#: khtml/khtml_part.cpp:309
-msgid "Stop Animated Images"
-msgstr "Рәсемнәр анимациясен туктату"
-
-#: khtml/khtml_part.cpp:313
-msgid "Set &Encoding"
-msgstr "&Кодлашу..."
-
-#: khtml/khtml_part.cpp:352
-msgid "Use S&tylesheet"
-msgstr "Стильләр җәдвәлен &куллану"
-
-#: khtml/khtml_part.cpp:357
-msgid "Enlarge Font"
-msgstr "Хәрефне зурайту"
-
-#: khtml/khtml_part.cpp:360
-msgid ""
-"<qt>Enlarge Font<br /><br />Make the font in this window bigger. Click and "
-"hold down the mouse button for a menu with all available font sizes.</qt>"
-msgstr ""
-"<qt>Увеличить шрифт<br /><br />Увеличить шрифт в этом окне. Нажмите и "
-"удерживайте кнопку мыши для показа меню с доступными размерами шрифта.</qt>"
-
-#: khtml/khtml_part.cpp:364
-msgid "Shrink Font"
-msgstr "Хәрефне кечерәйтү"
-
-#: khtml/khtml_part.cpp:367
-msgid ""
-"<qt>Shrink Font<br /><br />Make the font in this window smaller. Click and "
-"hold down the mouse button for a menu with all available font sizes.</qt>"
-msgstr ""
-"<qt>Уменьшить шрифт<br /><br />Уменьшить шрифт в этом окне. Нажмите и "
-"удерживайте кнопку мыши для показа меню с доступными размерами шрифта.</qt>"
-
-#: khtml/khtml_part.cpp:382
-msgid ""
-"<qt>Find text<br /><br />Shows a dialog that allows you to find text on the "
-"displayed page.</qt>"
-msgstr ""
-"<qt>Найти текст<br /><br />Диалог поиска текста на текущей странице.</qt>"
-
-#: khtml/khtml_part.cpp:386
-msgid ""
-"<qt>Find next<br /><br />Find the next occurrence of the text that you have "
-"found using the <b>Find Text</b> function.</qt>"
-msgstr ""
-"<qt>Найти далее<br /><br />Поиск следующего вхождения текста, указанного в "
-"поле <b>Найти текст</b>.</qt>"
-
-#: khtml/khtml_part.cpp:392
-msgid ""
-"<qt>Find previous<br /><br />Find the previous occurrence of the text that "
-"you have found using the <b>Find Text</b> function.</qt>"
-msgstr ""
-"<qt>Найти предыдущее<br /><br />Поиск предыдущего вхождения текста, "
-"указанного в поле <b>Найти текст</b>.</qt>"
-
-#: khtml/khtml_part.cpp:397
-msgid "Find Text as You Type"
-msgstr "Җыеп бару белән текстны эзләү"
-
-#: khtml/khtml_part.cpp:400
-msgid ""
-"This shortcut shows the find bar, for finding text in the displayed page. It "
-"cancels the effect of \"Find Links as You Type\", which sets the \"Find "
-"links only\" option."
-msgstr ""
-"Эта комбинация клавиш вызывает панель для поиска текста на текущей странице. "
-"Это отключит функцию поиска ссылок по набору."
-
-#: khtml/khtml_part.cpp:403
-msgid "Find Links as You Type"
-msgstr "Җыеп бару белән сылтамаларны эзләү"
-
-#: khtml/khtml_part.cpp:409
-msgid ""
-"This shortcut shows the find bar, and sets the option \"Find links only\"."
-msgstr ""
-"Эта комбинация клавиш вызывает панель для поиска ссылок на текущей странице."
-
-#: khtml/khtml_part.cpp:425
-msgid ""
-"<qt>Print Frame<br /><br />Some pages have several frames. To print only a "
-"single frame, click on it and then use this function.</qt>"
-msgstr ""
-"<qt>Печать фрейма<br /><br />Некоторые страницы могут содержать несколько "
-"фреймов. Чтобы напечатать только один фрейм, нажмите на нем и используйте "
-"эту функцию.</qt>"
-
-#: khtml/khtml_part.cpp:439
-msgid "Toggle Caret Mode"
-msgstr "Кертү/алыштыру режимын к&үчерү"
-
-#: khtml/khtml_part.cpp:700
-#, kde-format
-msgid "The fake user-agent '%1' is in use."
-msgstr "'%1' бпраузерның астынкы идентификаторы кулланыла."
-
-#: khtml/khtml_part.cpp:1197
-msgid "This web page contains coding errors."
-msgstr "Бу веб-бит кодлаштыру хаталарын тәшкил итә."
-
-#: khtml/khtml_part.cpp:1239
-msgid "&Hide Errors"
-msgstr "&Хаталарны яшерү"
-
-#: khtml/khtml_part.cpp:1240
-msgid "&Disable Error Reporting"
-msgstr "&Хаталар турында хәбәрләрне тыю"
-
-#: khtml/khtml_part.cpp:1284
-#, kde-format
-msgid "<qt><b>Error</b>: %1: %2</qt>"
-msgstr "<qt><b>Хата</b>: %1: %2</qt>"
-
-#: khtml/khtml_part.cpp:1333
-#, kde-format
-msgid "<qt><b>Error</b>: node %1: %2</qt>"
-msgstr "<qt><b>Ошибка</b>: узел %1: %2</qt>"
-
-#: khtml/khtml_part.cpp:1449
-msgid "Display Images on Page"
-msgstr "Биттә сурәтне чагылдыру"
-
-#: khtml/khtml_part.cpp:1826
-#, kde-format
-msgid "Error: %1 - %2"
-msgstr "Хата: %1 - %2"
-
-#: khtml/khtml_part.cpp:1831
-msgid "The requested operation could not be completed"
-msgstr "Чакырылган операция тәмамлана алмый"
-
-#: khtml/khtml_part.cpp:1837
-msgid "Technical Reason: "
-msgstr "Техник сәбәп: "
-
-#: khtml/khtml_part.cpp:1843
-msgid "Details of the Request:"
-msgstr "Сорауның төгәллекләре:"
-
-#: khtml/khtml_part.cpp:1845
-#, kde-format
-msgid "URL: %1"
-msgstr "URL: %1"
-
-#: khtml/khtml_part.cpp:1848
-#, kde-format
-msgid "Protocol: %1"
-msgstr "Беркетмә: %1"
-
-#: khtml/khtml_part.cpp:1851
-#, kde-format
-msgid "Date and Time: %1"
-msgstr "Дата һәм вакыт: %1"
-
-#: khtml/khtml_part.cpp:1853
-#, kde-format
-msgid "Additional Information: %1"
-msgstr "Өстәмә мәгълүмат: %1"
-
-#: khtml/khtml_part.cpp:1861
-msgid "Possible Causes:"
-msgstr "Мөмкинле нәтиҗәләр:"
-
-#: khtml/khtml_part.cpp:1868
-msgid "Possible Solutions:"
-msgstr "Мөмкинле карарлар:"
-
-#: khtml/khtml_part.cpp:2286
-msgid "Page loaded."
-msgstr "Бит йөкләндерелгән."
-
-#: khtml/khtml_part.cpp:2288
-#, kde-format
-msgid "%1 Image of %2 loaded."
-msgid_plural "%1 Images of %2 loaded."
-msgstr[0] "Загружено изображений: %1 из %2"
-msgstr[1] "Загружено изображений: %1 из %2"
-
-#: khtml/khtml_part.cpp:2463
-msgid "Automatic Detection"
-msgstr "Автоматик билгеләү"
-
-#: khtml/khtml_part.cpp:3525 khtml/khtml_part.cpp:3612
-#: khtml/khtml_part.cpp:3623
-msgid " (In new window)"
-msgstr " (Яңа тәрәзәдә)"
-
-#: khtml/khtml_part.cpp:3564
-msgid "Symbolic Link"
-msgstr "Символик сылтама"
-
-#: khtml/khtml_part.cpp:3566
-#, kde-format
-msgid "%1 (Link)"
-msgstr "%1 (Сылтама)"
-
-#: khtml/khtml_part.cpp:3586
-#, kde-format
-msgid "%2 (%1 byte)"
-msgid_plural "%2 (%1 bytes)"
-msgstr[0] "%2 (%1 байт)"
-msgstr[1] "%2 (%1 байта)"
-
-#: khtml/khtml_part.cpp:3590
-#, kde-format
-msgid "%2 (%1 K)"
-msgstr "%2 (%1 К)"
-
-#: khtml/khtml_part.cpp:3625
-msgid " (In other frame)"
-msgstr " (Башка фреймда)"
-
-#: khtml/khtml_part.cpp:3630
-msgid "Email to: "
-msgstr "Хат язу: "
-
-#: khtml/khtml_part.cpp:3636
-msgid " - Subject: "
-msgstr " - Тема: "
-
-#: khtml/khtml_part.cpp:3638
-msgid " - CC: "
-msgstr " - Күчермә: "
-
-#: khtml/khtml_part.cpp:3640
-msgid " - BCC: "
-msgstr " - BCC: "
-
-#: khtml/khtml_part.cpp:3721
-#, kde-format
-msgid ""
-"<qt>This untrusted page links to<br /><b>%1</b>.<br />Do you want to follow "
-"the link?</qt>"
-msgstr ""
-"<qt>Данная непроверенная страница содержит ссылку <br /><b>%1</b>.<br /"
-">Перейти по ссылке?</qt>"
-
-#: khtml/khtml_part.cpp:3722
-msgid "Follow"
-msgstr "Күчү"
-
-#: khtml/khtml_part.cpp:3823
-msgid "Frame Information"
-msgstr "Фрейм турфндагы мәгълүмат"
-
-#: khtml/khtml_part.cpp:3829
-#, kde-format
-msgid "   <a href=\"%1\">[Properties]</a>"
-msgstr "   <a href=\"%1\">[Сыйфатлар]</a>"
-
-#: khtml/khtml_part.cpp:3855
-msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
-msgid "Quirks"
-msgstr "Туры килү ысулы"
-
-#: khtml/khtml_part.cpp:3858
-msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
-msgid "Almost standards"
-msgstr "Стандартларга туры килә диярлек"
-
-#: khtml/khtml_part.cpp:3862
-msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
-msgid "Strict"
-msgstr "Стандартларга катгый рәвештә туры килү"
-
-#: khtml/khtml_part.cpp:3933
-msgid "Save Background Image As"
-msgstr "Җирлек сурәтен саклау..."
-
-#: khtml/khtml_part.cpp:4025
-msgid "The peer SSL certificate chain appears to be corrupt."
-msgstr "Ихтимал, SSL таныклыкларның чылбыры ватык."
-
-#: khtml/khtml_part.cpp:4044
-msgid "Save Frame As"
-msgstr "Фреймны саклау..."
-
-#: khtml/khtml_part.cpp:4088
-msgid "&Find in Frame..."
-msgstr "&Фреймда эзләү..."
-
-#: khtml/khtml_part.cpp:4090 kdeui/actions/kstandardaction_p.h:64
-msgid "&Find..."
-msgstr "&Табу..."
-
-#: khtml/khtml_part.cpp:4707
-msgid ""
-"Warning:  This is a secure form but it is attempting to send your data back "
-"unencrypted.\n"
-"A third party may be able to intercept and view this information.\n"
-"Are you sure you wish to continue?"
-msgstr ""
-"Игътибар: Бу фраза саклангычта, әмма ул сезнең мәгълүматларыгызны кире "
-"шифрсыз күренешендәкайтармакчы була.\n"
-"Кырыйдан кем дә булса бу мәгълүматны алып карый ала.\n"
-"Дәвам иттерергәме?"
-
-#: khtml/khtml_part.cpp:4710 khtml/khtml_part.cpp:4719
-#: khtml/khtml_part.cpp:4743
-msgid "Network Transmission"
-msgstr "Челтәрдән тапшыру"
-
-#: khtml/khtml_part.cpp:4710 khtml/khtml_part.cpp:4720
-msgid "&Send Unencrypted"
-msgstr "&Шифрлаусыз тапшыру"
-
-#: khtml/khtml_part.cpp:4717
-msgid ""
-"Warning: Your data is about to be transmitted across the network "
-"unencrypted.\n"
-"Are you sure you wish to continue?"
-msgstr ""
-"Игътибар: Мәгълүматларыгыз челтәр буенча саклангычсыз тапшырылачак.\n"
-"Дәвам иттерергәме?"
-
-#: khtml/khtml_part.cpp:4741
-msgid ""
-"This site is attempting to submit form data via email.\n"
-"Do you want to continue?"
-msgstr ""
-"Форманың мәгълүматлар сайтка электрон почта тапшырып каралган.\n"
-"Чыннан да дәвам иттерергәме?"
-
-#: khtml/khtml_part.cpp:4744
-msgid "&Send Email"
-msgstr "&Е-mail тапшыру"
-
-#: khtml/khtml_part.cpp:4765
-#, kde-format
-msgid ""
-"<qt>The form will be submitted to <br /><b>%1</b><br />on your local "
-"filesystem.<br />Do you want to submit the form?</qt>"
-msgstr ""
-"<qt>Форма будет передана файлу <br /><b>%1</b><br /> на локальной файловой "
-"системе.<br />Отправить данные формы?</qt>"
-
-#: khtml/khtml_part.cpp:4766 khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839
-#: khtml/html/html_formimpl.cpp:1641 khtml/html/html_formimpl.cpp:1853
-msgid "Submit"
-msgstr "Бәяләмә өчен тапшыру"
-
-#: khtml/khtml_part.cpp:4819
-msgid ""
-"This site attempted to attach a file from your computer in the form "
-"submission. The attachment was removed for your protection."
-msgstr ""
-"Сайтка тапшыру өчен форма мәгълүматларына локаль файл кыстырып каралган. "
-"Сезнең иминлегегез өчен кушылган файл сөртелде."
-
-#: khtml/khtml_part.cpp:5890
-#, kde-format
-msgid "(%1/s)"
-msgstr "(%1/с)"
-
-#: khtml/khtml_part.cpp:6802
-msgid "Security Warning"
-msgstr "Иминлек кисәтүе"
-
-#: khtml/khtml_part.cpp:6811
-#, kde-format
-msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
-msgstr ""
-"<qt>Доступ с ненадёжной страницы на <br /><b>%1</b><br /> запрещён.</qt>"
-
-#: khtml/khtml_part.cpp:6812 khtml/java/kjavaappletserver.cpp:794
-msgid "Security Alert"
-msgstr "Иминлек системасының хәбәре"
-
-#: khtml/khtml_part.cpp:7160
-#, kde-format
-msgid "The wallet '%1' is open and being used for form data and passwords."
-msgstr ""
-"'%1' куенчык ачык һәм мәгълүматларны һәм парольләрне кертү өчен кулланыла."
-
-#: khtml/khtml_part.cpp:7220
-msgid "&Close Wallet"
-msgstr "&Куенчыкны ябу"
-
-#: khtml/khtml_part.cpp:7223
-msgid "&Allow storing passwords for this site"
-msgstr "&Позволить сохранять пароли для этого сайта"
-
-#: khtml/khtml_part.cpp:7228
-#, kde-format
-msgid "Remove password for form %1"
-msgstr "%1 рәвешенең серсүзен бетерү"
-
-#: khtml/khtml_part.cpp:7333
-msgid "JavaScript &Debugger"
-msgstr "&JavaScript төзәткече"
-
-#: khtml/khtml_part.cpp:7365
-msgid "This page was prevented from opening a new window via JavaScript."
-msgstr "Сайт Javascript ярдәмендә яңа тәрәзә ачырга тырыша."
-
-#: khtml/khtml_part.cpp:7371
-msgid "Popup Window Blocked"
-msgstr "Йөзеп чыга торган тәрәзә тыелды"
-
-#: khtml/khtml_part.cpp:7371
-msgid ""
-"This page has attempted to open a popup window but was blocked.\n"
-"You can click on this icon in the status bar to control this behavior\n"
-"or to open the popup."
-msgstr ""
-"Йөзеп чыга торган тәрәзә тыеп куелган, һәм аны тәрәзә ачарга тырышты.\n"
-"Бу функция белән идарә итеп була, моның өчен торыш юлына чиертергә кирәк,\n"
-"һәм шуның белән йөзеп чыга торган тәрәзәгә рөхсәт бирелә яки тыела."
-
-#: khtml/khtml_part.cpp:7384
-#, kde-format
-msgid "&Show Blocked Popup Window"
-msgid_plural "&Show %1 Blocked Popup Windows"
-msgstr[0] "По&казать %1 заблокированное всплывающее окно"
-msgstr[1] "По&казать %1 заблокированных всплывающих окна"
-
-#: khtml/khtml_part.cpp:7385
-msgid "Show Blocked Window Passive Popup &Notification"
-msgstr "&Тыелып куелган тәрәзәләр турында хәбәрләштерү"
-
-#: khtml/khtml_part.cpp:7387
-msgid "&Configure JavaScript New Window Policies..."
-msgstr "&JavaScript'ның яңа тәрәзәләре өчен кагыйдәләрне көйләү..."
 
 #: khtml/khtml_settings.cpp:888
 msgid "Filter error"
@@ -10892,71 +10892,11 @@ msgstr "JavaScript"
 msgid "&Stop Script"
 msgstr "&Cкриптны туктату"
 
-#: khtml/ecma/kjs_window.cpp:1650 khtml/ecma/kjs_html.cpp:2162
+#: khtml/ecma/kjs_html.cpp:2166 khtml/ecma/kjs_window.cpp:1660
 msgid "Confirmation: JavaScript Popup"
 msgstr "Раслау: Javascript'ның йөзеп чыга торган тәрәзәсе"
 
-#: khtml/ecma/kjs_window.cpp:1653
-msgid ""
-"This site is requesting to open up a new browser window via JavaScript.\n"
-"Do you want to allow this?"
-msgstr ""
-"Бу сайт Javascript'ны кулланып яңа тәрәзә ачмакчы була.\n"
-"Тәрәзәне ачарга рөхсәт итәргәме?"
-
-#: khtml/ecma/kjs_window.cpp:1656
-#, kde-format
-msgid ""
-"<qt>This site is requesting to open<p>%1</p>in a new browser window via "
-"JavaScript.<br />Do you want to allow this?</qt>"
-msgstr ""
-"<qt>Бу сайт JavaScript ярдәмендә яңа браузер тәрәзәсендә <p>%1</p>'ны ачарга "
-"тырыша.<br />Рөхсәт итәргәме?</qt>"
-
-#: khtml/ecma/kjs_window.cpp:1658 khtml/ecma/kjs_html.cpp:2169
-msgid "Allow"
-msgstr "Рөхсәт итәргә"
-
-#: khtml/ecma/kjs_window.cpp:1658 khtml/ecma/kjs_html.cpp:2169
-msgid "Do Not Allow"
-msgstr "Тыю"
-
-#: khtml/ecma/kjs_window.cpp:1971
-msgid "Close window?"
-msgstr "Тәрәзәне ябаргамы?"
-
-#: khtml/ecma/kjs_window.cpp:1971
-msgid "Confirmation Required"
-msgstr "Раслау таләп ителә"
-
-#: khtml/ecma/kjs_window.cpp:2874
-#, kde-format
-msgid ""
-"Do you want a bookmark pointing to the location \"%1\" to be added to your "
-"collection?"
-msgstr "Коллекциягезнең \"%1\" адресына кыстыргыч өстәргәме?"
-
-#: khtml/ecma/kjs_window.cpp:2877
-#, kde-format
-msgid ""
-"Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
-"added to your collection?"
-msgstr ""
-"Коллекциягезнең \"%1\" адресына \"%2\" баш исеме белән кыстыргыч өстәргәме?"
-
-#: khtml/ecma/kjs_window.cpp:2885
-msgid "JavaScript Attempted Bookmark Insert"
-msgstr "JavaScript кыстыргыч өстәргә тырыша"
-
-#: khtml/ecma/kjs_window.cpp:2889
-msgid "Insert"
-msgstr "Insert"
-
-#: khtml/ecma/kjs_window.cpp:2889
-msgid "Disallow"
-msgstr "Тыю"
-
-#: khtml/ecma/kjs_html.cpp:2164
+#: khtml/ecma/kjs_html.cpp:2168
 msgid ""
 "This site is submitting a form which will open up a new browser window via "
 "JavaScript.\n"
@@ -10966,7 +10906,7 @@ msgstr ""
 "(JavaScript аша).\n"
 "Моны рөхсәт итәргәме?"
 
-#: khtml/ecma/kjs_html.cpp:2167
+#: khtml/ecma/kjs_html.cpp:2171
 #, kde-format
 msgid ""
 "<qt>This site is submitting a form which will open <p>%1</p> in a new "
@@ -10975,6 +10915,66 @@ msgid ""
 msgstr ""
 "<qt>Бу сайт форма тапшырырга тырыша, бу күзәтүченең яңа тәрәзәдә <p>%1</p> "
 "ачылышына китерә(JavaScript аша).<br />Рөхсәт итәргәме?</qt>"
+
+#: khtml/ecma/kjs_html.cpp:2173 khtml/ecma/kjs_window.cpp:1668
+msgid "Allow"
+msgstr "Рөхсәт итәргә"
+
+#: khtml/ecma/kjs_html.cpp:2173 khtml/ecma/kjs_window.cpp:1668
+msgid "Do Not Allow"
+msgstr "Тыю"
+
+#: khtml/ecma/kjs_window.cpp:1663
+msgid ""
+"This site is requesting to open up a new browser window via JavaScript.\n"
+"Do you want to allow this?"
+msgstr ""
+"Бу сайт Javascript'ны кулланып яңа тәрәзә ачмакчы була.\n"
+"Тәрәзәне ачарга рөхсәт итәргәме?"
+
+#: khtml/ecma/kjs_window.cpp:1666
+#, kde-format
+msgid ""
+"<qt>This site is requesting to open<p>%1</p>in a new browser window via "
+"JavaScript.<br />Do you want to allow this?</qt>"
+msgstr ""
+"<qt>Бу сайт JavaScript ярдәмендә яңа браузер тәрәзәсендә <p>%1</p>'ны ачарга "
+"тырыша.<br />Рөхсәт итәргәме?</qt>"
+
+#: khtml/ecma/kjs_window.cpp:1981
+msgid "Close window?"
+msgstr "Тәрәзәне ябаргамы?"
+
+#: khtml/ecma/kjs_window.cpp:1981
+msgid "Confirmation Required"
+msgstr "Раслау таләп ителә"
+
+#: khtml/ecma/kjs_window.cpp:2884
+#, kde-format
+msgid ""
+"Do you want a bookmark pointing to the location \"%1\" to be added to your "
+"collection?"
+msgstr "Коллекциягезнең \"%1\" адресына кыстыргыч өстәргәме?"
+
+#: khtml/ecma/kjs_window.cpp:2887
+#, kde-format
+msgid ""
+"Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
+"added to your collection?"
+msgstr ""
+"Коллекциягезнең \"%1\" адресына \"%2\" баш исеме белән кыстыргыч өстәргәме?"
+
+#: khtml/ecma/kjs_window.cpp:2895
+msgid "JavaScript Attempted Bookmark Insert"
+msgstr "JavaScript кыстыргыч өстәргә тырыша"
+
+#: khtml/ecma/kjs_window.cpp:2899
+msgid "Insert"
+msgstr "Insert"
+
+#: khtml/ecma/kjs_window.cpp:2899
+msgid "Disallow"
+msgstr "Тыю"
 
 #: khtml/ecma/debugger/consoledock.cpp:220
 msgid "Console"
