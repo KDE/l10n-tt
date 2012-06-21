@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-06-20 13:07+0200\n"
+"POT-Creation-Date: 2012-06-21 12:47+0200\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -46,7 +46,7 @@ msgstr "Билгесез"
 msgid "Unknown Widget"
 msgstr "Билгесез виджет"
 
-#: applet.cpp:864 applet.cpp:2385 applet.cpp:2386
+#: applet.cpp:864 applet.cpp:2396 applet.cpp:2397
 msgctxt "misc category"
 msgid "Miscellaneous"
 msgstr "Башкалар"
@@ -92,106 +92,106 @@ msgstr "Виджетны бетеру"
 msgid "Run the Associated Application"
 msgstr "Тиешле кушымтаны башлап җибәрү"
 
-#: applet.cpp:1917
+#: applet.cpp:1928
 msgid "Settings"
 msgstr "Көйләүләр"
 
-#: applet.cpp:1917
+#: applet.cpp:1928
 #, kde-format
 msgid "%1 Settings"
 msgstr "%1 виджетын көйләү"
 
-#: applet.cpp:2002
+#: applet.cpp:2013
 #, kde-format
 msgctxt "@title:window"
 msgid "%1 Settings"
 msgstr "%1 виджетын көйләү"
 
-#: applet.cpp:2010
+#: applet.cpp:2021
 msgid "Accessibility"
 msgstr "Махсус мөмкинлекләр"
 
-#: applet.cpp:2011
+#: applet.cpp:2022
 msgid "Application Launchers"
 msgstr "Кушымталарны җибәрүчеләр"
 
-#: applet.cpp:2012
+#: applet.cpp:2023
 msgid "Astronomy"
 msgstr "Астрономия"
 
-#: applet.cpp:2013
+#: applet.cpp:2024
 msgid "Date and Time"
 msgstr "Көн һәм вакыт"
 
-#: applet.cpp:2014
+#: applet.cpp:2025
 msgid "Development Tools"
 msgstr "Кушымталарны ясау кораулары"
 
-#: applet.cpp:2015
+#: applet.cpp:2026
 msgid "Education"
 msgstr "Мәгариф"
 
-#: applet.cpp:2016
+#: applet.cpp:2027
 msgid "Environment and Weather"
 msgstr "Һава торышы"
 
-#: applet.cpp:2017
+#: applet.cpp:2028
 msgid "Examples"
 msgstr "Үрнәкләр"
 
-#: applet.cpp:2018
+#: applet.cpp:2029
 msgid "File System"
 msgstr "Файл системасы"
 
-#: applet.cpp:2019
+#: applet.cpp:2030
 msgid "Fun and Games"
 msgstr "Уен һәм күңел ачу"
 
-#: applet.cpp:2020
+#: applet.cpp:2031
 msgid "Graphics"
 msgstr "Графика"
 
-#: applet.cpp:2021
+#: applet.cpp:2032
 msgid "Language"
 msgstr "Тел"
 
-#: applet.cpp:2022
+#: applet.cpp:2033
 msgid "Mapping"
 msgstr "Картография"
 
-#: applet.cpp:2023
+#: applet.cpp:2034
 msgid "Miscellaneous"
 msgstr "Башкалар"
 
-#: applet.cpp:2024
+#: applet.cpp:2035
 msgid "Multimedia"
 msgstr "Мультимедиа"
 
-#: applet.cpp:2025
+#: applet.cpp:2036
 msgid "Online Services"
 msgstr "Онлайн-хезмәтләр"
 
-#: applet.cpp:2026
+#: applet.cpp:2037
 msgid "Productivity"
 msgstr "Офис"
 
-#: applet.cpp:2027
+#: applet.cpp:2038
 msgid "System Information"
 msgstr "Система турында мәгълумат"
 
-#: applet.cpp:2028
+#: applet.cpp:2039
 msgid "Utilities"
 msgstr "Кораллар"
 
-#: applet.cpp:2029
+#: applet.cpp:2040
 msgid "Windows and Tasks"
 msgstr "Тәрәзәләр һәм мәсьәләләр"
 
-#: applet.cpp:2073
+#: applet.cpp:2084
 msgid "Keyboard Shortcut"
 msgstr "Такта төймәсе тезмәләре"
 
-#: applet.cpp:2092 applet.cpp:2131 package.cpp:782
+#: applet.cpp:2103 applet.cpp:2142 package.cpp:782
 #, kde-format
 msgctxt ""
 "%1 is the name of a plasmoid, %2 the name of the machine that plasmoid is "
@@ -199,46 +199,46 @@ msgctxt ""
 msgid "%1 on %2"
 msgstr "%1'не %2'гә"
 
-#: applet.cpp:2101
+#: applet.cpp:2112
 msgid "Share"
 msgstr "Ерактан керү"
 
-#: applet.cpp:2733 containment.cpp:179
+#: applet.cpp:2744 containment.cpp:179
 #, kde-format
 msgctxt "%1 is the name of the applet"
 msgid "Remove this %1"
 msgstr "%1 виджетын бетерү"
 
-#: applet.cpp:2738 containment.cpp:184
+#: applet.cpp:2749 containment.cpp:184
 #, kde-format
 msgctxt "%1 is the name of the applet"
 msgid "%1 Settings"
 msgstr "%1 виджетын көйләү"
 
-#: applet.cpp:2779
+#: applet.cpp:2790
 #, kde-format
 msgctxt "Package file, name of the widget"
 msgid "Could not locate the %1 package required for the %2 widget."
 msgstr "%2 виджетына мөһим булган %1 төргәге табылмады"
 
-#: applet.cpp:2799
+#: applet.cpp:2810
 #, kde-format
 msgctxt ""
 "API or programming language the widget was written in, name of the widget"
 msgid "Could not create a %1 ScriptEngine for the %2 widget."
 msgstr "%2 виджетына мөһим булган %1 коралын төзеп булмады"
 
-#: applet.cpp:2804
+#: applet.cpp:2815
 #, kde-format
 msgctxt "Package file, name of the widget"
 msgid "Could not open the %1 package required for the %2 widget."
 msgstr "%2 виджетына мөһим булган %1 төргәген ачып булмады"
 
-#: applet.cpp:2959
+#: applet.cpp:2970
 msgid "This object could not be created."
 msgstr "Бу объектны төзеп булмады."
 
-#: applet.cpp:2961
+#: applet.cpp:2972
 #, kde-format
 msgid ""
 "This object could not be created for the following reason:<p><b>%1</b></p>"
