@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-06-19 19:42+0200\n"
+"POT-Creation-Date: 2012-06-24 12:03+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -4855,54 +4855,6 @@ msgstr "Сокетның билгесез хатасы."
 msgid "Operation not supported"
 msgstr "Гамәл тотылмый"
 
-#: kdecore/network/netsupp.cpp:891 kdecore/network/k3resolver.cpp:545
-msgid "no error"
-msgstr "хатасыз"
-
-#: kdecore/network/netsupp.cpp:892
-msgid "address family for nodename not supported"
-msgstr "бу nodename өчен адреслар гаиләлеге туры килми"
-
-#: kdecore/network/netsupp.cpp:893 kdecore/network/k3resolver.cpp:547
-msgid "temporary failure in name resolution"
-msgstr "исемнәрне билгеләгәндә вакытлы тоткарлык килеп чыкты"
-
-#: kdecore/network/netsupp.cpp:894
-msgid "invalid value for 'ai_flags'"
-msgstr "«ai_flags» өчен дөрес булмаган мәгънә"
-
-#: kdecore/network/netsupp.cpp:895 kdecore/network/k3resolver.cpp:548
-msgid "non-recoverable failure in name resolution"
-msgstr "Исемнернә билгеләгәндә тәнкыйть хата килеп чыкты"
-
-#: kdecore/network/netsupp.cpp:896
-msgid "'ai_family' not supported"
-msgstr "«ai_family» гаиләләге тотылмый"
-
-#: kdecore/network/netsupp.cpp:897 kdecore/network/k3resolver.cpp:550
-msgid "memory allocation failure"
-msgstr "хәтер бирү хатасы"
-
-#: kdecore/network/netsupp.cpp:898
-msgid "no address associated with nodename"
-msgstr "бу үзәк белән (nodename) бер адрес та бәйләнмәгән"
-
-#: kdecore/network/netsupp.cpp:899 kdecore/network/k3resolver.cpp:551
-msgid "name or service not known"
-msgstr "исем яисә хезмәт билгесез"
-
-#: kdecore/network/netsupp.cpp:900
-msgid "servname not supported for ai_socktype"
-msgstr "ai_socktype төренең servname тотылмый"
-
-#: kdecore/network/netsupp.cpp:901
-msgid "'ai_socktype' not supported"
-msgstr "«ai_socktype» төре тотылмый"
-
-#: kdecore/network/netsupp.cpp:902
-msgid "system error"
-msgstr "системалы хата"
-
 #: kdecore/network/k3socks.cpp:137
 msgid "NEC SOCKS client"
 msgstr "NEC SOCKS клиенты"
@@ -4916,13 +4868,33 @@ msgstr "Dante SOCKS клиенты"
 msgid "Timed out trying to connect to remote host"
 msgstr "Ерактагы үзәктән җавапны көтү вакыты үтте"
 
+#: kdecore/network/k3resolver.cpp:545 kdecore/network/netsupp.cpp:894
+msgid "no error"
+msgstr "хатасыз"
+
 #: kdecore/network/k3resolver.cpp:546
 msgid "requested family not supported for this host name"
 msgstr "Күрсәтелгән сервер исеме өчен бу гаиләлек кабул ителми"
 
+#: kdecore/network/k3resolver.cpp:547 kdecore/network/netsupp.cpp:896
+msgid "temporary failure in name resolution"
+msgstr "исемнәрне билгеләгәндә вакытлы тоткарлык килеп чыкты"
+
+#: kdecore/network/k3resolver.cpp:548 kdecore/network/netsupp.cpp:898
+msgid "non-recoverable failure in name resolution"
+msgstr "Исемнернә билгеләгәндә тәнкыйть хата килеп чыкты"
+
 #: kdecore/network/k3resolver.cpp:549
 msgid "invalid flags"
 msgstr "хаталы әләмләр"
+
+#: kdecore/network/k3resolver.cpp:550 kdecore/network/netsupp.cpp:900
+msgid "memory allocation failure"
+msgstr "хәтер бирү хатасы"
+
+#: kdecore/network/k3resolver.cpp:551 kdecore/network/netsupp.cpp:902
+msgid "name or service not known"
+msgstr "исем яисә хезмәт билгесез"
 
 #: kdecore/network/k3resolver.cpp:552
 msgid "requested family not supported"
@@ -5022,6 +4994,34 @@ msgstr "Таныклыклар чылбыр артык озын"
 msgctxt "SSL error"
 msgid "Unknown error"
 msgstr "Билгесез хата"
+
+#: kdecore/network/netsupp.cpp:895
+msgid "address family for nodename not supported"
+msgstr "бу nodename өчен адреслар гаиләлеге туры килми"
+
+#: kdecore/network/netsupp.cpp:897
+msgid "invalid value for 'ai_flags'"
+msgstr "«ai_flags» өчен дөрес булмаган мәгънә"
+
+#: kdecore/network/netsupp.cpp:899
+msgid "'ai_family' not supported"
+msgstr "«ai_family» гаиләләге тотылмый"
+
+#: kdecore/network/netsupp.cpp:901
+msgid "no address associated with nodename"
+msgstr "бу үзәк белән (nodename) бер адрес та бәйләнмәгән"
+
+#: kdecore/network/netsupp.cpp:903
+msgid "servname not supported for ai_socktype"
+msgstr "ai_socktype төренең servname тотылмый"
+
+#: kdecore/network/netsupp.cpp:904
+msgid "'ai_socktype' not supported"
+msgstr "«ai_socktype» төре тотылмый"
+
+#: kdecore/network/netsupp.cpp:905
+msgid "system error"
+msgstr "системалы хата"
 
 #: kdecore/services/kmimetyperepository.cpp:611
 #, kde-format
@@ -5315,21 +5315,6 @@ msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "Автоматик рәвештә билгеләү"
 
-#: kdeui/actions/kaction.cpp:122
-#, kde-format
-msgid ""
-"The key sequence '%1' is ambiguous. Use 'Configure Shortcuts'\n"
-"from the 'Settings' menu to solve the ambiguity.\n"
-"No action will be triggered."
-msgstr ""
-"Конфликт действий на комбинации клавиш «%1». Используйте пункт \n"
-"«Комбинации клавиш» меню «Настройка» чтобы исправить конфликт.\n"
-"Не выполнено ни одно из конфликтующих действий."
-
-#: kdeui/actions/kaction.cpp:126
-msgid "Ambiguous shortcut detected"
-msgstr "Гамәлләрнең бәрелеше"
-
 #: kdeui/actions/krecentfilesaction.cpp:81
 msgid "No Entries"
 msgstr "Язмасыз"
@@ -5422,6 +5407,21 @@ msgstr "Тулы экран"
 msgctxt "@info:tooltip"
 msgid "Display the window in full screen"
 msgstr ""
+
+#: kdeui/actions/kaction.cpp:122
+#, kde-format
+msgid ""
+"The key sequence '%1' is ambiguous. Use 'Configure Shortcuts'\n"
+"from the 'Settings' menu to solve the ambiguity.\n"
+"No action will be triggered."
+msgstr ""
+"Конфликт действий на комбинации клавиш «%1». Используйте пункт \n"
+"«Комбинации клавиш» меню «Настройка» чтобы исправить конфликт.\n"
+"Не выполнено ни одно из конфликтующих действий."
+
+#: kdeui/actions/kaction.cpp:126
+msgid "Ambiguous shortcut detected"
+msgstr "Гамәлләрнең бәрелеше"
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:84
 msgid ""
