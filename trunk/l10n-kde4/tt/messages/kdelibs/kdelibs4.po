@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-07-04 04:54+0200\n"
+"POT-Creation-Date: 2012-07-18 04:43+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -5363,21 +5363,6 @@ msgctxt "@info:tooltip"
 msgid "Display the window in full screen"
 msgstr ""
 
-#: kdeui/actions/kaction.cpp:122
-#, kde-format
-msgid ""
-"The key sequence '%1' is ambiguous. Use 'Configure Shortcuts'\n"
-"from the 'Settings' menu to solve the ambiguity.\n"
-"No action will be triggered."
-msgstr ""
-"Конфликт действий на комбинации клавиш «%1». Используйте пункт \n"
-"«Комбинации клавиш» меню «Настройка» чтобы исправить конфликт.\n"
-"Не выполнено ни одно из конфликтующих действий."
-
-#: kdeui/actions/kaction.cpp:126
-msgid "Ambiguous shortcut detected"
-msgstr "Гамәлләрнең бәрелеше"
-
 #: kdeui/actions/kstandardaction.cpp:93 kdeui/util/kstandardguiitem.cpp:210
 msgctxt "go back"
 msgid "&Back"
@@ -5422,6 +5407,21 @@ msgid ""
 msgstr ""
 "Торыш юлын чагылдыру<p>Торыш юлы - кушымтаның тәрәзә астында урнашкан һәм "
 "аның эш-хәлен чагылдыручы буй.</p>"
+
+#: kdeui/actions/kaction.cpp:122
+#, kde-format
+msgid ""
+"The key sequence '%1' is ambiguous. Use 'Configure Shortcuts'\n"
+"from the 'Settings' menu to solve the ambiguity.\n"
+"No action will be triggered."
+msgstr ""
+"Конфликт действий на комбинации клавиш «%1». Используйте пункт \n"
+"«Комбинации клавиш» меню «Настройка» чтобы исправить конфликт.\n"
+"Не выполнено ни одно из конфликтующих действий."
+
+#: kdeui/actions/kaction.cpp:126
+msgid "Ambiguous shortcut detected"
+msgstr "Гамәлләрнең бәрелеше"
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:84
 msgid ""
