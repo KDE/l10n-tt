@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-07 21:42+0200\n"
+"POT-Creation-Date: 2012-08-18 17:05+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1264,7 +1264,7 @@ msgstr "Алдагы юлга кадәр башкару..."
 #. i18n: file: threadweaver/Examples/Jobs/JobsBase.ui:87
 #. i18n: ectx: property (text), widget (QPushButton, pbStop)
 #: rc.cpp:700 rc.cpp:1130 kdeui/jobs/kstatusbarjobtracker.cpp:160
-#: kdeui/util/kkeyserver_x11.cpp:103 kdeui/util/kstandardguiitem.cpp:281
+#: kdeui/util/kstandardguiitem.cpp:281 kdeui/util/kkeyserver_x11.cpp:103
 #: kross/ui/view.cpp:308
 msgid "Stop"
 msgstr "Туктату"
@@ -7808,70 +7808,6 @@ msgstr ""
 msgid "There is no matching item available.\n"
 msgstr "Туры килгән элементлар юк.\n"
 
-#: kdeui/util/kkeyserver_x11.cpp:95
-msgid "Backspace"
-msgstr "Клавиша Backspace"
-
-#: kdeui/util/kkeyserver_x11.cpp:96
-msgid "SysReq"
-msgstr "SysReq"
-
-#: kdeui/util/kkeyserver_x11.cpp:97
-msgid "CapsLock"
-msgstr "CapsLock"
-
-#: kdeui/util/kkeyserver_x11.cpp:98
-msgid "NumLock"
-msgstr "NumLock"
-
-#: kdeui/util/kkeyserver_x11.cpp:99
-msgid "ScrollLock"
-msgstr "ScrollLock"
-
-#: kdeui/util/kkeyserver_x11.cpp:100
-msgid "PageUp"
-msgstr "PageUp"
-
-#: kdeui/util/kkeyserver_x11.cpp:101
-msgid "PageDown"
-msgstr "PageDown"
-
-#: kdeui/util/kkeyserver_x11.cpp:104
-msgid "Again"
-msgstr "Яңадан"
-
-#: kdeui/util/kkeyserver_x11.cpp:105
-msgid "Props"
-msgstr "Сыйфатлар"
-
-#: kdeui/util/kkeyserver_x11.cpp:106 kdeui/util/kundostack.cpp:67
-msgid "Undo"
-msgstr "Кире кагу"
-
-#: kdeui/util/kkeyserver_x11.cpp:107
-msgid "Front"
-msgstr "Фронт"
-
-#: kdeui/util/kkeyserver_x11.cpp:108
-msgid "Copy"
-msgstr "Күчереп язу"
-
-#: kdeui/util/kkeyserver_x11.cpp:109
-msgid "Open"
-msgstr "Ачу"
-
-#: kdeui/util/kkeyserver_x11.cpp:110
-msgid "Paste"
-msgstr "Кую"
-
-#: kdeui/util/kkeyserver_x11.cpp:111
-msgid "Find"
-msgstr "Эзләү"
-
-#: kdeui/util/kkeyserver_x11.cpp:112
-msgid "Cut"
-msgstr "Кисү"
-
 #: kdeui/util/kstandardguiitem.cpp:109
 msgid "&OK"
 msgstr "ОК"
@@ -8093,6 +8029,70 @@ msgstr "&Алыштыру"
 #: kdeui/util/kundostack.cpp:48
 msgid "Redo"
 msgstr "Кабатлау"
+
+#: kdeui/util/kundostack.cpp:67 kdeui/util/kkeyserver_x11.cpp:106
+msgid "Undo"
+msgstr "Кире кагу"
+
+#: kdeui/util/kkeyserver_x11.cpp:95
+msgid "Backspace"
+msgstr "Клавиша Backspace"
+
+#: kdeui/util/kkeyserver_x11.cpp:96
+msgid "SysReq"
+msgstr "SysReq"
+
+#: kdeui/util/kkeyserver_x11.cpp:97
+msgid "CapsLock"
+msgstr "CapsLock"
+
+#: kdeui/util/kkeyserver_x11.cpp:98
+msgid "NumLock"
+msgstr "NumLock"
+
+#: kdeui/util/kkeyserver_x11.cpp:99
+msgid "ScrollLock"
+msgstr "ScrollLock"
+
+#: kdeui/util/kkeyserver_x11.cpp:100
+msgid "PageUp"
+msgstr "PageUp"
+
+#: kdeui/util/kkeyserver_x11.cpp:101
+msgid "PageDown"
+msgstr "PageDown"
+
+#: kdeui/util/kkeyserver_x11.cpp:104
+msgid "Again"
+msgstr "Яңадан"
+
+#: kdeui/util/kkeyserver_x11.cpp:105
+msgid "Props"
+msgstr "Сыйфатлар"
+
+#: kdeui/util/kkeyserver_x11.cpp:107
+msgid "Front"
+msgstr "Фронт"
+
+#: kdeui/util/kkeyserver_x11.cpp:108
+msgid "Copy"
+msgstr "Күчереп язу"
+
+#: kdeui/util/kkeyserver_x11.cpp:109
+msgid "Open"
+msgstr "Ачу"
+
+#: kdeui/util/kkeyserver_x11.cpp:110
+msgid "Paste"
+msgstr "Кую"
+
+#: kdeui/util/kkeyserver_x11.cpp:111
+msgid "Find"
+msgstr "Эзләү"
+
+#: kdeui/util/kkeyserver_x11.cpp:112
+msgid "Cut"
+msgstr "Кисү"
 
 #: kdeui/widgets/kactionselector.cpp:100
 msgid "&Available:"
