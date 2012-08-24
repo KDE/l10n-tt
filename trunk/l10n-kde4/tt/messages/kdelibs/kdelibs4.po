@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-23 10:29+0200\n"
+"POT-Creation-Date: 2012-08-24 04:57+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -12328,11 +12328,11 @@ msgstr "Рөхсәт итү"
 msgid "Reject"
 msgstr "Кире кагу"
 
-#: kparts/part.cpp:815
+#: kparts/part.cpp:816
 msgid "Untitled"
 msgstr "Документ"
 
-#: kparts/part.cpp:821
+#: kparts/part.cpp:822
 #, kde-format
 msgid ""
 "The document \"%1\" has been modified.\n"
@@ -12341,7 +12341,7 @@ msgstr ""
 "Документ \"%1\" үзгәртелгән иде.\n"
 "Саклауны калдырыргамы яки кире кагыргамы?"
 
-#: kparts/part.cpp:823
+#: kparts/part.cpp:824
 msgid "Close Document"
 msgstr "Документны ябу"
 
