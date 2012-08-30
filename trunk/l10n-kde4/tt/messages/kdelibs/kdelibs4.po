@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-25 06:15+0200\n"
+"POT-Creation-Date: 2012-08-30 04:28+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -5868,122 +5868,122 @@ msgctxt "@item Font name [foundry]"
 msgid "%1 [%2]"
 msgstr "%1 [%2]"
 
-#: kdeui/fonts/kfontchooser.cpp:162
+#: kdeui/fonts/kfontchooser.cpp:165
 msgctxt "@info:whatsthis"
 msgid "Here you can choose the font to be used."
 msgstr "Монда хәрефне сайлап була."
 
-#: kdeui/fonts/kfontchooser.cpp:184
+#: kdeui/fonts/kfontchooser.cpp:187
 msgid "Requested Font"
 msgstr "Соралган хәреф"
 
-#: kdeui/fonts/kfontchooser.cpp:203
+#: kdeui/fonts/kfontchooser.cpp:206
 msgctxt "@option:check"
 msgid "Font"
 msgstr "Хәреф"
 
-#: kdeui/fonts/kfontchooser.cpp:207
+#: kdeui/fonts/kfontchooser.cpp:210
 msgctxt "@info:whatsthis"
 msgid "Enable this checkbox to change the font family settings."
 msgstr "Хәрефнең гарнитурасын үзгәртү өчен билге куегыз."
 
-#: kdeui/fonts/kfontchooser.cpp:208
+#: kdeui/fonts/kfontchooser.cpp:211
 msgctxt "@info:tooltip"
 msgid "Change font family?"
 msgstr "Хәрефнең гарнитурасын алыштырыргамы?"
 
-#: kdeui/fonts/kfontchooser.cpp:212
+#: kdeui/fonts/kfontchooser.cpp:215
 msgctxt "@label"
 msgid "Font:"
 msgstr "Хәреф:"
 
-#: kdeui/fonts/kfontchooser.cpp:219
+#: kdeui/fonts/kfontchooser.cpp:222
 msgctxt "@option:check"
 msgid "Font style"
 msgstr "Хәреф стиле"
 
-#: kdeui/fonts/kfontchooser.cpp:223
+#: kdeui/fonts/kfontchooser.cpp:226
 msgctxt "@info:whatsthis"
 msgid "Enable this checkbox to change the font style settings."
 msgstr "Хәрефнең стилен үзгәртү өчен билге куегыз."
 
-#: kdeui/fonts/kfontchooser.cpp:224
+#: kdeui/fonts/kfontchooser.cpp:227
 msgctxt "@info:tooltip"
 msgid "Change font style?"
 msgstr "Хәреф стилен үзгәртергәме?"
 
-#: kdeui/fonts/kfontchooser.cpp:228
+#: kdeui/fonts/kfontchooser.cpp:231
 msgid "Font style:"
 msgstr "Хәреф стиле:"
 
-#: kdeui/fonts/kfontchooser.cpp:236
+#: kdeui/fonts/kfontchooser.cpp:239
 msgctxt "@option:check"
 msgid "Size"
 msgstr "Зурлык"
 
-#: kdeui/fonts/kfontchooser.cpp:240
+#: kdeui/fonts/kfontchooser.cpp:243
 msgctxt "@info:whatsthis"
 msgid "Enable this checkbox to change the font size settings."
 msgstr "Хәрефләрнең зурлыгын үзгәртер өчен билге куегыз"
 
-#: kdeui/fonts/kfontchooser.cpp:241
+#: kdeui/fonts/kfontchooser.cpp:244
 msgctxt "@info:tooltip"
 msgid "Change font size?"
 msgstr "Шрифт зурлыгын үзгәртергәме?"
 
-#: kdeui/fonts/kfontchooser.cpp:245
+#: kdeui/fonts/kfontchooser.cpp:248
 msgctxt "@label:listbox Font size"
 msgid "Size:"
 msgstr "Зурлык:"
 
-#: kdeui/fonts/kfontchooser.cpp:261
+#: kdeui/fonts/kfontchooser.cpp:264
 msgctxt "@info:whatsthis"
 msgid "Here you can choose the font family to be used."
 msgstr "Монда хәреф гарнитурасын сайлап була."
 
-#: kdeui/fonts/kfontchooser.cpp:287
+#: kdeui/fonts/kfontchooser.cpp:290
 msgctxt "@info:whatsthis"
 msgid "Here you can choose the font style to be used."
 msgstr "Монда хәреф стилен сайлап була."
 
-#: kdeui/fonts/kfontchooser.cpp:295 kdeui/fonts/kfontchooser.cpp:623
-#: kdeui/fonts/kfontchooser.cpp:640
+#: kdeui/fonts/kfontchooser.cpp:298 kdeui/fonts/kfontchooser.cpp:629
+#: kdeui/fonts/kfontchooser.cpp:647
 msgctxt "@item font"
 msgid "Regular"
 msgstr ""
 
-#: kdeui/fonts/kfontchooser.cpp:296 kdeui/fonts/kfontchooser.cpp:644
+#: kdeui/fonts/kfontchooser.cpp:299 kdeui/fonts/kfontchooser.cpp:651
 msgctxt "@item font"
 msgid "Italic"
 msgstr "Курсив"
 
-#: kdeui/fonts/kfontchooser.cpp:297 kdeui/fonts/kfontchooser.cpp:645
+#: kdeui/fonts/kfontchooser.cpp:300 kdeui/fonts/kfontchooser.cpp:652
 msgctxt "@item font"
 msgid "Oblique"
 msgstr "Авыш"
 
-#: kdeui/fonts/kfontchooser.cpp:298
+#: kdeui/fonts/kfontchooser.cpp:301
 msgctxt "@item font"
 msgid "Bold"
 msgstr "Калын"
 
-#: kdeui/fonts/kfontchooser.cpp:299
+#: kdeui/fonts/kfontchooser.cpp:302
 msgctxt "@item font"
 msgid "Bold Italic"
 msgstr "Калын курсив"
 
-#: kdeui/fonts/kfontchooser.cpp:320
+#: kdeui/fonts/kfontchooser.cpp:323
 msgctxt "@item font size"
 msgid "Relative"
 msgstr "Чагыштырма"
 
-#: kdeui/fonts/kfontchooser.cpp:322
+#: kdeui/fonts/kfontchooser.cpp:325
 msgid "Font size<br /><i>fixed</i> or <i>relative</i><br />to environment"
 msgstr ""
 "Размер шрифта<br /><i>фиксированный</i> или <i>относительный</i><br /> к "
 "среде"
 
-#: kdeui/fonts/kfontchooser.cpp:324
+#: kdeui/fonts/kfontchooser.cpp:327
 msgid ""
 "Here you can switch between fixed font size and font size to be calculated "
 "dynamically and adjusted to changing environment (e.g. widget dimensions, "
@@ -5993,7 +5993,7 @@ msgstr ""
 "зурлыкларыарасында күчеп йөреп була һәм шуңа караган мохит үзгәрешләре дә "
 "(Тәрәзә элементларызурлыгы, кәгазь зурлыгы һ.б.)."
 
-#: kdeui/fonts/kfontchooser.cpp:349
+#: kdeui/fonts/kfontchooser.cpp:352
 msgid "Here you can choose the font size to be used."
 msgstr "Монда шрифт зурлыгын сайлап була."
 
@@ -6001,11 +6001,11 @@ msgstr "Монда шрифт зурлыгын сайлап була."
 #. Replace it with a sample text in your language, such that it is
 #. representative of language's writing system.
 #. If you wish, you can input several lines of text separated by \n.
-#: kdeui/fonts/kfontchooser.cpp:387
+#: kdeui/fonts/kfontchooser.cpp:390
 msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgstr "Җөмһүриятебездәге матурлыкларны үзебез дә яратабыз да без, иптәшләр!"
 
-#: kdeui/fonts/kfontchooser.cpp:390
+#: kdeui/fonts/kfontchooser.cpp:393
 msgid ""
 "This sample text illustrates the current settings. You may edit it to test "
 "special characters."
@@ -6013,7 +6013,7 @@ msgstr ""
 "Бу текст агымдагы параметрларны сурәтли. Аның корректлыгын тикшерү "
 "өченмахсус символларның чагылуын үзгәртегез."
 
-#: kdeui/fonts/kfontchooser.cpp:406 kdeui/fonts/kfontchooser.cpp:417
+#: kdeui/fonts/kfontchooser.cpp:409 kdeui/fonts/kfontchooser.cpp:420
 msgid "Actual Font"
 msgstr "Рөхсәт ителгән шрифт"
 
@@ -6022,7 +6022,7 @@ msgstr "Рөхсәт ителгән шрифт"
 #. noun-adjective congruence wrt. gender of the family name).
 #. The message provides the dynamic context 'family', which is
 #. the family name to which the style string corresponds.
-#: kdeui/fonts/kfontchooser.cpp:630
+#: kdeui/fonts/kfontchooser.cpp:636
 #, kde-format
 msgctxt "@item Font style"
 msgid "%1"
