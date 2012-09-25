@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-09-24 04:53+0200\n"
+"POT-Creation-Date: 2012-09-25 06:57+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -918,15 +918,15 @@ msgstr ""
 "Хаталы сүз саны артык зур булганга күрә, текст җыю вакытында дөрес язылышның "
 "тикшерүе туктатылды."
 
-#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:493
+#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:495
 msgid "Check Spelling..."
 msgstr "Дөрес язылышны тикшерү..."
 
-#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:496
+#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:498
 msgid "Auto Spell Check"
 msgstr "Дөрес язылышны автоматик рәвештә тикшерү"
 
-#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:501
+#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:503
 msgid "Allow Tabulations"
 msgstr "Табуляцияне рөхсәт итү"
 
@@ -8550,7 +8550,7 @@ msgstr "исемсез"
 #. (e.g. "Enter search pattern").
 #. By default the text is set in italic, which may not be appropriate
 #. for some languages and scripts (e.g. for CJK ideographs).
-#: kdeui/widgets/klineedit.cpp:87 kdeui/widgets/ktextedit.cpp:80
+#: kdeui/widgets/klineedit.cpp:87 kdeui/widgets/ktextedit.cpp:81
 msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
 msgid "1"
 msgstr "1"
@@ -8811,28 +8811,28 @@ msgstr "Өске индекс"
 msgid "&Copy Full Text"
 msgstr "&Бар текстның күчермәсен ясау"
 
-#: kdeui/widgets/ktextedit.cpp:529
+#: kdeui/widgets/ktextedit.cpp:531
 msgid "Speak Text"
 msgstr "Текстны уку"
 
-#: kdeui/widgets/ktextedit.cpp:544
+#: kdeui/widgets/ktextedit.cpp:546
 msgid "Starting Jovie Text-to-Speech Service Failed"
 msgstr "Авазны синтазлаучы Jovie хезмәтен җибәреп булмады"
 
-#: kdeui/widgets/ktextedit.cpp:633
+#: kdeui/widgets/ktextedit.cpp:635
 #, kde-format
 msgid "No suggestions for %1"
 msgstr "%1 өчен вариантлар юк"
 
-#: kdeui/widgets/ktextedit.cpp:645
+#: kdeui/widgets/ktextedit.cpp:647
 msgid "Ignore"
 msgstr "Төшереп калдыру"
 
-#: kdeui/widgets/ktextedit.cpp:646
+#: kdeui/widgets/ktextedit.cpp:648
 msgid "Add to Dictionary"
 msgstr "Добавить в словарь"
 
-#: kdeui/widgets/ktextedit.cpp:791
+#: kdeui/widgets/ktextedit.cpp:793
 msgid "Nothing to spell check."
 msgstr "Нечего проверять."
 
