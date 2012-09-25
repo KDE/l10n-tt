@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-19 15:39+0200\n"
+"POT-Creation-Date: 2012-09-25 21:19+0200\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -393,7 +393,7 @@ msgstr "Керү тыела"
 msgid "Unknown error."
 msgstr "Билгесез ялгыш."
 
-#: private/packages.cpp:53 private/packages.cpp:229
+#: private/packages.cpp:53 private/packages.cpp:283
 msgid "Images"
 msgstr "Изображения"
 
@@ -434,7 +434,7 @@ msgstr "Төп скриптның файлы"
 msgid "Default configuration"
 msgstr "Үрнәкле көйләүләр"
 
-#: private/packages.cpp:79 private/packages.cpp:166
+#: private/packages.cpp:79 private/packages.cpp:172
 msgid "Animation scripts"
 msgstr "Анимация скриптлары"
 
@@ -446,107 +446,107 @@ msgstr "Хезмәтләр тасвирламалары"
 msgid "Images for dialogs"
 msgstr "Диалоглар өчен рәсемнәр"
 
-#: private/packages.cpp:161
+#: private/packages.cpp:162 private/packages.cpp:164
 msgid "Generic dialog background"
 msgstr "Стандарт диалогның арты"
 
-#: private/packages.cpp:163
+#: private/packages.cpp:167 private/packages.cpp:169
 msgid "Theme for the logout dialog"
 msgstr "Системадан чыгу диалогы тышы"
 
-#: private/packages.cpp:165
+#: private/packages.cpp:171
 msgid "Wallpaper packages"
 msgstr "Обойлар төргәге"
 
-#: private/packages.cpp:168 private/packages.cpp:199
+#: private/packages.cpp:174 private/packages.cpp:238
 msgid "Images for widgets"
 msgstr "Виджетлар өчен рәсемнәр"
 
-#: private/packages.cpp:170
+#: private/packages.cpp:177 private/packages.cpp:179
 msgid "Background image for widgets"
 msgstr "Виджетлар өчен җирлек рәсемнәре"
 
-#: private/packages.cpp:172
+#: private/packages.cpp:182 private/packages.cpp:184
 msgid "Analog clock face"
 msgstr "Телле сәгатнең битлеге"
 
-#: private/packages.cpp:174
+#: private/packages.cpp:187 private/packages.cpp:189
 msgid "Background image for panels"
 msgstr "Панель өчен җирлек рәсеме"
 
-#: private/packages.cpp:176
+#: private/packages.cpp:192 private/packages.cpp:194
 msgid "Background for graphing widgets"
 msgstr "Диаграммалар өчен җирлек"
 
-#: private/packages.cpp:178
+#: private/packages.cpp:197 private/packages.cpp:199
 msgid "Background image for tooltips"
 msgstr "Күрсәтүче өчен җирлек рәсеме"
 
-#: private/packages.cpp:180
+#: private/packages.cpp:201
 msgid "Opaque images for dialogs"
 msgstr "Диалоглар өчен үтә күренмәле булмаган рәсем"
 
-#: private/packages.cpp:182
+#: private/packages.cpp:204 private/packages.cpp:206
 msgid "Opaque generic dialog background"
 msgstr "Үрнәкле диалоглар өчен үтә күренмәле булмаган җирлек"
 
-#: private/packages.cpp:184
+#: private/packages.cpp:209 private/packages.cpp:211
 msgid "Opaque theme for the logout dialog"
 msgstr "Системадан чыгу диалогы өчен үтә күренмәле булмаган тыш"
 
-#: private/packages.cpp:186
+#: private/packages.cpp:213
 msgid "Opaque images for widgets"
 msgstr "Виджет өчен үтә күренмәле булмаган рәсем"
 
-#: private/packages.cpp:188
+#: private/packages.cpp:216 private/packages.cpp:218
 msgid "Opaque background image for panels"
 msgstr "Панельләр өчен үтә күренмәле булмаган җирлек рәсеме"
 
-#: private/packages.cpp:190
+#: private/packages.cpp:221 private/packages.cpp:223
 msgid "Opaque background image for tooltips"
 msgstr "Күрсәтүче өчен үтә күренмәле булмаган җирлек рәсеме"
 
-#: private/packages.cpp:193
+#: private/packages.cpp:226
 msgid "Low color images for dialogs"
 msgstr "Диалоглар өчен аз төсле булган рәсемнәр"
 
-#: private/packages.cpp:195
+#: private/packages.cpp:229 private/packages.cpp:231
 msgid "Low color generic dialog background"
 msgstr "Үрнәкле диалог өчен аз төсле булган җирлек"
 
-#: private/packages.cpp:197
+#: private/packages.cpp:234 private/packages.cpp:236
 msgid "Low color theme for the logout dialog"
 msgstr "Системадан чыгу диалогы өчен аз төсле булган тыш"
 
-#: private/packages.cpp:201
+#: private/packages.cpp:241 private/packages.cpp:243
 msgid "Low color background image for widgets"
 msgstr "Виджет өчен аз төсле булган җирлек рәсеме"
 
-#: private/packages.cpp:203
+#: private/packages.cpp:246 private/packages.cpp:248
 msgid "Low color analog clock face"
 msgstr "Телле сәгатнең аз төсле битлеге"
 
-#: private/packages.cpp:205
+#: private/packages.cpp:251 private/packages.cpp:253
 msgid "Low color background image for panels"
 msgstr "Панель өчен аз төсле булган җирлек рәсеме"
 
-#: private/packages.cpp:207
+#: private/packages.cpp:256 private/packages.cpp:258
 msgid "Low color background for graphing widgets"
 msgstr "Диаграммалар өчен аз төсле булган җирлек"
 
-#: private/packages.cpp:209
+#: private/packages.cpp:261 private/packages.cpp:263
 msgid "Low color background image for tooltips"
 msgstr "Күрсәтүче өчен аз төсле булган җирлек рәсеме"
 
-#: private/packages.cpp:211
+#: private/packages.cpp:265
 msgid "KColorScheme configuration file"
 msgstr "KColorScheme кушымтаның көйләү файлы"
 
-#: private/packages.cpp:231
+#: private/packages.cpp:285
 msgid "Screenshot"
 msgstr "Экранны төшерү"
 
-#: private/packages.cpp:275 private/packages.cpp:327
+#: private/packages.cpp:329 private/packages.cpp:381
 msgid "Recommended wallpaper file"
 msgstr "Тәкъдим ителгән обойлар"
 
