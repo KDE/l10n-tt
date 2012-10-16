@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-10-07 04:35+0200\n"
+"POT-Creation-Date: 2012-10-16 06:41+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -100,31 +100,31 @@ msgstr "Тикшерү"
 msgid "Only local files are supported."
 msgstr "Урынлы файллар гына эшли ала."
 
-#: kconf_update/kconf_update.cpp:965
+#: kconf_update/kconf_update.cpp:967
 msgid "Keep output results from scripts"
 msgstr "Скриптлардан чыгу кодларын саклау"
 
-#: kconf_update/kconf_update.cpp:966
+#: kconf_update/kconf_update.cpp:968
 msgid "Check whether config file itself requires updating"
 msgstr "Конфигурация файлы яңартуны таләп итә икәнен тикшерү"
 
-#: kconf_update/kconf_update.cpp:967
+#: kconf_update/kconf_update.cpp:969
 msgid "File to read update instructions from"
 msgstr "Файлдан яңарту турында кулланманы уку"
 
-#: kconf_update/kconf_update.cpp:969
+#: kconf_update/kconf_update.cpp:971
 msgid "KConf Update"
 msgstr "KConf Update"
 
-#: kconf_update/kconf_update.cpp:971
+#: kconf_update/kconf_update.cpp:973
 msgid "KDE Tool for updating user configuration files"
 msgstr "Кулланучыларның көйләү файлларын яңартучы KDE коралы"
 
-#: kconf_update/kconf_update.cpp:973
+#: kconf_update/kconf_update.cpp:975
 msgid "(c) 2001, Waldo Bastian"
 msgstr "© Waldo Bastian, 2001"
 
-#: kconf_update/kconf_update.cpp:975 kded/kbuildsycoca.cpp:639
+#: kconf_update/kconf_update.cpp:977 kded/kbuildsycoca.cpp:639
 #: khtml/khtml_global.cpp:213
 msgid "Waldo Bastian"
 msgstr "~Waldo Bastian"
