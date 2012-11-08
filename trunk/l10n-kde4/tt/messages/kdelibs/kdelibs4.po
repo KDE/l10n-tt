@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-11-06 03:33+0100\n"
+"POT-Creation-Date: 2012-11-08 02:52+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -9654,12 +9654,12 @@ msgstr "Файлны алыштырыргамы?"
 msgid "Overwrite"
 msgstr "Алыштыру"
 
-#: khtml/khtml_ext.cpp:940 kparts/browserrun.cpp:396
+#: khtml/khtml_ext.cpp:940 kparts/browserrun.cpp:399
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "$PATH юнәлешендә менеджер йөкләндерү программасын табып булмый (%1). "
 
-#: khtml/khtml_ext.cpp:941 kparts/browserrun.cpp:397
+#: khtml/khtml_ext.cpp:941 kparts/browserrun.cpp:400
 msgid ""
 "Try to reinstall it  \n"
 "\n"
@@ -9980,7 +9980,7 @@ msgid " - BCC: "
 msgstr " - BCC: "
 
 #: khtml/khtml_part.cpp:3730 khtml/khtml_part.cpp:3959
-#: khtml/khtml_part.cpp:4380 khtml/khtml_run.cpp:104 kparts/browserrun.cpp:425
+#: khtml/khtml_part.cpp:4380 khtml/khtml_run.cpp:104 kparts/browserrun.cpp:428
 msgid "Save As"
 msgstr "... итеп саклау"
 
@@ -10801,7 +10801,7 @@ msgid "<h1>KJSEmbed Documentation Viewer</h1>"
 msgstr "<h1>KJSEmbed документларын карау</h1>"
 
 #. i18n: ectx: property (text), widget (QPushButton, mExecute)
-#: kjsembed/examples/kjsconsole/jsconsole.ui:106 kparts/browserrun.cpp:335
+#: kjsembed/examples/kjsconsole/jsconsole.ui:106 kparts/browserrun.cpp:338
 msgid "Execute"
 msgstr "Башкару"
 
@@ -12312,12 +12312,12 @@ msgctxt "@info:whatsthis"
 msgid "This is the file name suggested by the server"
 msgstr "Сервер белән тәкъдим ителгән файлның исеме."
 
-#: kparts/browserrun.cpp:334
+#: kparts/browserrun.cpp:337
 #, kde-format
 msgid "Do you really want to execute '%1'?"
 msgstr "«%1» объектын башкарырга телисезме?"
 
-#: kparts/browserrun.cpp:335
+#: kparts/browserrun.cpp:338
 msgid "Execute File?"
 msgstr "Файлны башкарыргамы?"
 
