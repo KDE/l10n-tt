@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-12-06 02:58+0100\n"
+"POT-Creation-Date: 2012-12-15 03:06+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -182,7 +182,7 @@ msgid "&Thanks To"
 msgstr "&Рәхмәтләр"
 
 #: kde3support/kdeui/k3aboutapplication.cpp:164
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:287
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:288
 msgid "T&ranslation"
 msgstr "&Тәрҗемә итү"
 
@@ -4208,7 +4208,7 @@ msgstr ""
 msgid "License: %1"
 msgstr "Лицензия: %1"
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:315
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:316
 msgid "License Agreement"
 msgstr "Лицензион килешү"
 
