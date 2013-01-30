@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-01-22 17:44+0100\n"
+"POT-Creation-Date: 2013-01-30 13:34+0100\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -191,7 +191,7 @@ msgstr "Тәрәзәләр һәм мәсьәләләр"
 msgid "Keyboard Shortcut"
 msgstr "Такта төймәсе тезмәләре"
 
-#: applet.cpp:2116 applet.cpp:2155 package.cpp:782
+#: applet.cpp:2116 applet.cpp:2155 package.cpp:804
 #, kde-format
 msgctxt ""
 "%1 is the name of a plasmoid, %2 the name of the machine that plasmoid is "
@@ -217,28 +217,22 @@ msgstr "%1 виджетын көйләү"
 
 #: applet.cpp:2803
 #, kde-format
-msgctxt "Package file, name of the widget"
-msgid "Could not locate the %1 package required for the %2 widget."
-msgstr "%2 виджетына мөһим булган %1 төргәге табылмады"
-
-#: applet.cpp:2823
-#, kde-format
 msgctxt ""
 "API or programming language the widget was written in, name of the widget"
 msgid "Could not create a %1 ScriptEngine for the %2 widget."
 msgstr "%2 виджетына мөһим булган %1 коралын төзеп булмады"
 
-#: applet.cpp:2828
+#: applet.cpp:2808
 #, kde-format
 msgctxt "Package file, name of the widget"
 msgid "Could not open the %1 package required for the %2 widget."
 msgstr "%2 виджетына мөһим булган %1 төргәген ачып булмады"
 
-#: applet.cpp:2983
+#: applet.cpp:2962
 msgid "This object could not be created."
 msgstr "Бу объектны төзеп булмады."
 
-#: applet.cpp:2987
+#: applet.cpp:2966
 #, kde-format
 msgid ""
 "This object could not be created for the following reason:<p><b>%1</b></p>"
@@ -734,3 +728,7 @@ msgstr "Эзләү соравы"
 #: wallpaper.cpp:245
 msgid "Unknown Wallpaper"
 msgstr "Билгесез обой"
+
+#~ msgctxt "Package file, name of the widget"
+#~ msgid "Could not locate the %1 package required for the %2 widget."
+#~ msgstr "%2 виджетына мөһим булган %1 төргәге табылмады"
