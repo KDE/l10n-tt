@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-02-14 10:42+0100\n"
+"POT-Creation-Date: 2013-02-15 10:44+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -13082,23 +13082,23 @@ msgctxt "@info"
 msgid "Delete tag"
 msgstr "Тегны бетерү"
 
-#: nepomuk/ui/kedittagsdialog.cpp:216
+#: nepomuk/ui/kedittagsdialog.cpp:221
 #, kde-format
 msgctxt "@info"
 msgid "Should the tag <resource>%1</resource> really be deleted for all files?"
 msgstr "Убрать метку <resource>%1</resource> со всех файлов?"
 
-#: nepomuk/ui/kedittagsdialog.cpp:218
+#: nepomuk/ui/kedittagsdialog.cpp:223
 msgctxt "@title"
 msgid "Delete tag"
 msgstr "Тегны бетерү"
 
-#: nepomuk/ui/kedittagsdialog.cpp:219
+#: nepomuk/ui/kedittagsdialog.cpp:224
 msgctxt "@action:button"
 msgid "Delete"
 msgstr "Бетерү"
 
-#: nepomuk/ui/kedittagsdialog.cpp:220
+#: nepomuk/ui/kedittagsdialog.cpp:225
 msgctxt "@action:button"
 msgid "Cancel"
 msgstr "Үткәрмәү"
