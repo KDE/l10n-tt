@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-03-12 04:39+0100\n"
+"POT-Creation-Date: 2013-03-15 04:40+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -9469,7 +9469,7 @@ msgstr "Имза (чынлык: %1)"
 msgid "Certificate (validation: %1)"
 msgstr "Таныклык (чынлык: %1)"
 
-#: khtml/java/kjavaappletserver.cpp:794 khtml/khtml_part.cpp:6830
+#: khtml/java/kjavaappletserver.cpp:794 khtml/khtml_part.cpp:6833
 msgid "Security Alert"
 msgstr "Иминлек системасының хәбәре"
 
@@ -10096,53 +10096,53 @@ msgstr ""
 "Сайтка тапшыру өчен форма мәгълүматларына локаль файл кыстырып каралган. "
 "Сезнең иминлегегез өчен кушылган файл сөртелде."
 
-#: khtml/khtml_part.cpp:5908
+#: khtml/khtml_part.cpp:5911
 #, kde-format
 msgid "(%1/s)"
 msgstr "(%1/с)"
 
-#: khtml/khtml_part.cpp:6820
+#: khtml/khtml_part.cpp:6823
 msgid "Security Warning"
 msgstr "Иминлек кисәтүе"
 
-#: khtml/khtml_part.cpp:6829
+#: khtml/khtml_part.cpp:6832
 #, kde-format
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
 msgstr ""
 "<qt>Доступ с ненадёжной страницы на <br /><b>%1</b><br /> запрещён.</qt>"
 
-#: khtml/khtml_part.cpp:7178
+#: khtml/khtml_part.cpp:7181
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 "'%1' куенчык ачык һәм мәгълүматларны һәм парольләрне кертү өчен кулланыла."
 
-#: khtml/khtml_part.cpp:7238
+#: khtml/khtml_part.cpp:7241
 msgid "&Close Wallet"
 msgstr "&Куенчыкны ябу"
 
-#: khtml/khtml_part.cpp:7241
+#: khtml/khtml_part.cpp:7244
 msgid "&Allow storing passwords for this site"
 msgstr "&Позволить сохранять пароли для этого сайта"
 
-#: khtml/khtml_part.cpp:7246
+#: khtml/khtml_part.cpp:7249
 #, kde-format
 msgid "Remove password for form %1"
 msgstr "%1 рәвешенең серсүзен бетерү"
 
-#: khtml/khtml_part.cpp:7351
+#: khtml/khtml_part.cpp:7354
 msgid "JavaScript &Debugger"
 msgstr "&JavaScript төзәткече"
 
-#: khtml/khtml_part.cpp:7383
+#: khtml/khtml_part.cpp:7386
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr "Сайт Javascript ярдәмендә яңа тәрәзә ачырга тырыша."
 
-#: khtml/khtml_part.cpp:7389
+#: khtml/khtml_part.cpp:7392
 msgid "Popup Window Blocked"
 msgstr "Йөзеп чыга торган тәрәзә тыелды"
 
-#: khtml/khtml_part.cpp:7389
+#: khtml/khtml_part.cpp:7392
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
@@ -10152,18 +10152,18 @@ msgstr ""
 "Бу функция белән идарә итеп була, моның өчен торыш юлына чиертергә кирәк,\n"
 "һәм шуның белән йөзеп чыга торган тәрәзәгә рөхсәт бирелә яки тыела."
 
-#: khtml/khtml_part.cpp:7402
+#: khtml/khtml_part.cpp:7405
 #, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
 msgstr[0] "По&казать %1 заблокированное всплывающее окно"
 msgstr[1] "По&казать %1 заблокированных всплывающих окна"
 
-#: khtml/khtml_part.cpp:7403
+#: khtml/khtml_part.cpp:7406
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr "&Тыелып куелган тәрәзәләр турында хәбәрләштерү"
 
-#: khtml/khtml_part.cpp:7405
+#: khtml/khtml_part.cpp:7408
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "&JavaScript'ның яңа тәрәзәләре өчен кагыйдәләрне көйләү..."
 
