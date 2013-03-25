@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-03-22 03:51+0100\n"
+"POT-Creation-Date: 2013-03-25 03:38+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -4423,13 +4423,13 @@ msgid "&Support KDE"
 msgstr "&KDE проектына ярдәм итү"
 
 #: kdeui/dialogs/kassistantdialog.cpp:94
-#: knewstuff/knewstuff3/uploaddialog.cpp:411
+#: knewstuff/knewstuff3/uploaddialog.cpp:422
 msgctxt "Opposite to Back"
 msgid "Next"
 msgstr "Алга бару"
 
 #: kdeui/dialogs/kassistantdialog.cpp:95
-#: knewstuff/knewstuff3/uploaddialog.cpp:413
+#: knewstuff/knewstuff3/uploaddialog.cpp:424
 msgid "Finish"
 msgstr "Тәмамлау"
 
@@ -4498,7 +4498,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #: kdeui/dialogs/kbugreport.cpp:195 knewstuff/knewstuff2/ui/UploadDialog.ui:59
-#: knewstuff/knewstuff3/uploaddialog.ui:233
+#: knewstuff/knewstuff3/uploaddialog.ui:240
 msgid "Version:"
 msgstr "Юрама:"
 
@@ -5124,7 +5124,7 @@ msgstr "Кисәтү"
 
 #: kdeui/dialogs/kmessagebox.cpp:841 kdeui/dialogs/kmessagebox.cpp:871
 #: khtml/rendering/render_form.cpp:870 kjs/object.cpp:553
-#: knewstuff/knewstuff3/uploaddialog.cpp:535
+#: knewstuff/knewstuff3/uploaddialog.cpp:546
 msgid "Error"
 msgstr "Хата"
 
@@ -9402,7 +9402,7 @@ msgstr "Веб адресы:"
 
 #. i18n: ectx: property (text), widget (QLabel, titleLabel)
 #. i18n: ectx: property (text), widget (QLabel, label_4)
-#: khtml/htmlpageinfo.ui:112 knewstuff/knewstuff3/uploaddialog.ui:275
+#: khtml/htmlpageinfo.ui:112 knewstuff/knewstuff3/uploaddialog.ui:282
 msgid "Title:"
 msgstr "Исем:"
 
@@ -9906,7 +9906,7 @@ msgid "Additional Information: %1"
 msgstr "Өстәмә мәгълүмат: %1"
 
 #. i18n: ectx: property (text), widget (QLabel, label_8)
-#: khtml/khtml_part.cpp:1869 knewstuff/knewstuff3/uploaddialog.ui:207
+#: khtml/khtml_part.cpp:1869 knewstuff/knewstuff3/uploaddialog.ui:214
 msgid "Description:"
 msgstr "Тасвирлама:"
 
@@ -11375,7 +11375,7 @@ msgstr "<p>Кабул итү саны: %1</p>\n"
 #: knewstuff/knewstuff3/downloadwidget.ui:567
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:330
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:124
-#: knewstuff/knewstuff3/uploaddialog.ui:164
+#: knewstuff/knewstuff3/uploaddialog.ui:171
 msgid "Update"
 msgstr "Яңарту"
 
@@ -11550,13 +11550,13 @@ msgstr "Тәэмин итүче сайланмаган."
 #. i18n: ectx: property (windowTitle), widget (QWidget, UploadDialog)
 #: knewstuff/knewstuff2/ui/uploaddialog.cpp:58
 #: knewstuff/knewstuff2/ui/UploadDialog.ui:14
-#: knewstuff/knewstuff3/uploaddialog.cpp:406
+#: knewstuff/knewstuff3/uploaddialog.cpp:417
 #: knewstuff/knewstuff3/uploaddialog.ui:14
 msgid "Share Hot New Stuff"
 msgstr "Әсбапны нәшер итү"
 
 #: knewstuff/knewstuff2/ui/uploaddialog.cpp:64
-#: knewstuff/knewstuff3/uploaddialog.cpp:432
+#: knewstuff/knewstuff3/uploaddialog.cpp:443
 #, kde-format
 msgctxt "Program name followed by 'Add On Uploader'"
 msgid "%1 Add-On Uploader"
@@ -11591,25 +11591,25 @@ msgstr "E-Mail адресы:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #: knewstuff/knewstuff2/ui/UploadDialog.ui:72
-#: knewstuff/knewstuff3/uploaddialog.ui:246
+#: knewstuff/knewstuff3/uploaddialog.ui:253
 msgid "License:"
 msgstr "Лицензия:"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, mLicenseCombo)
 #: knewstuff/knewstuff2/ui/UploadDialog.ui:86
-#: knewstuff/knewstuff3/uploaddialog.ui:189
+#: knewstuff/knewstuff3/uploaddialog.ui:196
 msgid "GPL"
 msgstr "GPL"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, mLicenseCombo)
 #: knewstuff/knewstuff2/ui/UploadDialog.ui:91
-#: knewstuff/knewstuff3/uploaddialog.ui:194
+#: knewstuff/knewstuff3/uploaddialog.ui:201
 msgid "LGPL"
 msgstr "LGPL"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, mLicenseCombo)
 #: knewstuff/knewstuff2/ui/UploadDialog.ui:96
-#: knewstuff/knewstuff3/uploaddialog.ui:199
+#: knewstuff/knewstuff3/uploaddialog.ui:206
 msgid "BSD"
 msgstr "BSD"
 
@@ -11822,7 +11822,7 @@ msgstr "Тәэмин итүче:"
 #. i18n: ectx: property (text), widget (QLabel, m_categoryLabel)
 #. i18n: ectx: property (text), widget (QLabel, mCategoryLabel)
 #: knewstuff/knewstuff3/downloadwidget.ui:71
-#: knewstuff/knewstuff3/uploaddialog.ui:297
+#: knewstuff/knewstuff3/uploaddialog.ui:304
 msgid "Category:"
 msgstr "Төркем:"
 
@@ -11873,7 +11873,7 @@ msgstr "%1 турында мәгълумат"
 
 #. i18n: ectx: property (text), widget (QLabel, priceLabel_2)
 #: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:104
-#: knewstuff/knewstuff3/uploaddialog.ui:223
+#: knewstuff/knewstuff3/uploaddialog.ui:230
 msgid "Changelog:"
 msgstr "Үзгәрешләр:"
 
@@ -11945,53 +11945,57 @@ msgstr "Яңарту"
 msgid "Install Again"
 msgstr "Яңадан урнаштыру"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:151
+#: knewstuff/knewstuff3/uploaddialog.cpp:155
 msgid "Fetching license data from server..."
 msgstr "Сервердан лицензияне кабул итү..."
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:158
+#: knewstuff/knewstuff3/uploaddialog.cpp:162
 msgid "Fetching content data from server..."
 msgstr "Сервердан мәгълуматны кабул итү..."
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:274
+#: knewstuff/knewstuff3/uploaddialog.cpp:260
+msgid "Register a new account"
+msgstr ""
+
+#: knewstuff/knewstuff3/uploaddialog.cpp:285
 msgid "Checking login..."
 msgstr "Кереп карау..."
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:296
+#: knewstuff/knewstuff3/uploaddialog.cpp:307
 msgid "Fetching your previously updated content..."
 msgstr "Элегрәк яңартылган эчтәлекне кабул итү..."
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:299
+#: knewstuff/knewstuff3/uploaddialog.cpp:310
 msgid "Could not verify login, please try again."
 msgstr "Теркәлү мәгълуматын тикшереп булмады. Соңрак кереп карагыз."
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:318
+#: knewstuff/knewstuff3/uploaddialog.cpp:329
 msgid "Fetching your previously updated content finished."
 msgstr "Элегрәк яңартылган эчтәлекне кабул итүе тәмамланды."
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:336
+#: knewstuff/knewstuff3/uploaddialog.cpp:347
 msgid "Fetching content data from server finished."
 msgstr "Сервердан эчтәлекне кабул итүе тәмамланды..."
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:359
-#: knewstuff/knewstuff3/uploaddialog.cpp:777
+#: knewstuff/knewstuff3/uploaddialog.cpp:370
+#: knewstuff/knewstuff3/uploaddialog.cpp:792
 msgctxt "A link to the website where the get hot new stuff upload can be seen"
 msgid "Visit website"
 msgstr "Веб сәхифәсенә кереп чыгу"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:452
-#: knewstuff/knewstuff3/uploaddialog.cpp:703
+#: knewstuff/knewstuff3/uploaddialog.cpp:463
+#: knewstuff/knewstuff3/uploaddialog.cpp:718
 #, kde-format
 msgid "File not found: %1"
 msgstr "%1 файлы табылмады."
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:452
-#: knewstuff/knewstuff3/uploaddialog.cpp:578
-#: knewstuff/knewstuff3/uploaddialog.cpp:703
+#: knewstuff/knewstuff3/uploaddialog.cpp:463
+#: knewstuff/knewstuff3/uploaddialog.cpp:589
+#: knewstuff/knewstuff3/uploaddialog.cpp:718
 msgid "Upload Failed"
 msgstr "Файлны серверга тапшырганда хата килеп чыкты."
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:532
+#: knewstuff/knewstuff3/uploaddialog.cpp:543
 #, kde-format
 msgid ""
 "The server does not recognize the category %2 to which you are trying to "
@@ -12008,135 +12012,135 @@ msgstr[1] ""
 "выполнить загрузку.Сервер не поддерживает категорию (%2), в которую вы "
 "хотите выполнить загрузку."
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:578
+#: knewstuff/knewstuff3/uploaddialog.cpp:589
 #, kde-format
 msgid "The selected category \"%1\" is invalid."
 msgstr "«%1» исемле хаталы төркем сайланды."
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:626
-#: knewstuff/knewstuff3/uploaddialog.cpp:635
-#: knewstuff/knewstuff3/uploaddialog.cpp:643
+#: knewstuff/knewstuff3/uploaddialog.cpp:637
+#: knewstuff/knewstuff3/uploaddialog.cpp:646
+#: knewstuff/knewstuff3/uploaddialog.cpp:654
 msgid "Select preview image"
 msgstr "Кече сүрәт өчен рәсем сайлау"
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:653
+#: knewstuff/knewstuff3/uploaddialog.cpp:664
 msgid "There was a network error."
 msgstr "Челтәр хатасы килеп чыкты."
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:653
-#: knewstuff/knewstuff3/uploaddialog.cpp:658
+#: knewstuff/knewstuff3/uploaddialog.cpp:664
+#: knewstuff/knewstuff3/uploaddialog.cpp:669
 msgid "Uploading Failed"
 msgstr "Файлны серверга тапшырып булмады."
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:658
+#: knewstuff/knewstuff3/uploaddialog.cpp:669
 msgid "Authentication error."
 msgstr "Тиңләштерү хатасы килеп чыкты."
 
-#: knewstuff/knewstuff3/uploaddialog.cpp:667
+#: knewstuff/knewstuff3/uploaddialog.cpp:678
 #, kde-format
 msgid "Upload failed: %1"
 msgstr "Серверга тапшырып булмады: %1"
 
 #. i18n: ectx: property (text), widget (QLabel, uploadFileLabel)
-#: knewstuff/knewstuff3/uploaddialog.ui:141
+#: knewstuff/knewstuff3/uploaddialog.ui:148
 msgid "File to upload:"
 msgstr "Бастырылучы файл:"
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioNewUpload)
-#: knewstuff/knewstuff3/uploaddialog.ui:151
+#: knewstuff/knewstuff3/uploaddialog.ui:158
 msgid "New Upload"
 msgstr "Яңа әсбап"
 
 #. i18n: ectx: property (text), widget (QLabel, label_12)
-#: knewstuff/knewstuff3/uploaddialog.ui:259
+#: knewstuff/knewstuff3/uploaddialog.ui:266
 msgid "Please fill out the information about your upload in English."
 msgstr "Бастырып чыгаручы әсбапны инглизчә тасвирлагыз."
 
 #. i18n: ectx: property (toolTip), widget (KLineEdit, mNameEdit)
-#: knewstuff/knewstuff3/uploaddialog.ui:310
+#: knewstuff/knewstuff3/uploaddialog.ui:317
 msgid "Name of the file as it will appear on the website"
 msgstr "Сайтта чагылдыручы файл исеме"
 
 #. i18n: ectx: property (whatsThis), widget (KLineEdit, mNameEdit)
-#: knewstuff/knewstuff3/uploaddialog.ui:313
+#: knewstuff/knewstuff3/uploaddialog.ui:320
 msgid ""
 "This should clearly describe the file content. It can be the same text as "
 "the title of the kvtml file."
 msgstr "Файлның исеме аның эчтәлеген ачык тасвирларга тиеш."
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
-#: knewstuff/knewstuff3/uploaddialog.ui:327
+#: knewstuff/knewstuff3/uploaddialog.ui:334
 msgid "Preview Images"
 msgstr "Кечерәйтелгән күчермә"
 
 #. i18n: ectx: property (text), widget (QPushButton, changePreview1Button)
 #. i18n: ectx: property (text), widget (QPushButton, changePreview3Button)
 #. i18n: ectx: property (text), widget (QPushButton, changePreview2Button)
-#: knewstuff/knewstuff3/uploaddialog.ui:336
 #: knewstuff/knewstuff3/uploaddialog.ui:343
 #: knewstuff/knewstuff3/uploaddialog.ui:350
+#: knewstuff/knewstuff3/uploaddialog.ui:357
 msgid "Select Preview..."
 msgstr "Сайлау..."
 
 #. i18n: ectx: property (text), widget (QCheckBox, priceCheckBox)
-#: knewstuff/knewstuff3/uploaddialog.ui:426
+#: knewstuff/knewstuff3/uploaddialog.ui:433
 msgid "Set a price for this item"
 msgstr "Бәяне билгеләү"
 
 #. i18n: ectx: property (title), widget (QGroupBox, priceGroupBox)
-#: knewstuff/knewstuff3/uploaddialog.ui:436
+#: knewstuff/knewstuff3/uploaddialog.ui:443
 msgid "Price"
 msgstr "Бәя"
 
 #. i18n: ectx: property (text), widget (QLabel, priceLabel)
-#: knewstuff/knewstuff3/uploaddialog.ui:445
+#: knewstuff/knewstuff3/uploaddialog.ui:452
 msgid "Price:"
 msgstr "Бәя:"
 
 #. i18n: ectx: property (text), widget (QLabel, priceReasonLabel)
-#: knewstuff/knewstuff3/uploaddialog.ui:472
+#: knewstuff/knewstuff3/uploaddialog.ui:479
 msgid "Reason for price:"
 msgstr "Бәяне дәлилләү:"
 
 #. i18n: ectx: property (text), widget (QLabel, contentWebsiteLinkLabel)
-#: knewstuff/knewstuff3/uploaddialog.ui:589
+#: knewstuff/knewstuff3/uploaddialog.ui:596
 msgid "Fetch content link from server"
 msgstr "Әсбапның сылтамасын сервердан кабул итү"
 
 #. i18n: ectx: property (text), widget (QLabel, creatingContentLabel)
-#: knewstuff/knewstuff3/uploaddialog.ui:602
+#: knewstuff/knewstuff3/uploaddialog.ui:609
 msgid "Create content on server"
 msgstr "Әсбапларны серверда ясау"
 
 #. i18n: ectx: property (text), widget (QLabel, creatingContentLabel_2)
-#: knewstuff/knewstuff3/uploaddialog.ui:615
+#: knewstuff/knewstuff3/uploaddialog.ui:622
 msgid "Upload content"
 msgstr "Әсбапларны серверга тапшыру"
 
 #. i18n: ectx: property (text), widget (QLabel, uploadPreview1Label)
-#: knewstuff/knewstuff3/uploaddialog.ui:628
+#: knewstuff/knewstuff3/uploaddialog.ui:635
 msgid "Upload first preview"
 msgstr "Кече сүрәтнең беренчесен серверга тапшыру"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
-#: knewstuff/knewstuff3/uploaddialog.ui:658
+#: knewstuff/knewstuff3/uploaddialog.ui:665
 msgid "Note: You can edit, update and delete your content on the website."
 msgstr ""
 "Искәрмә: сез веб сәхифәсендә үзегезнең әсбапыгызны үзгәртә, яңарта, бетерә "
 "аласыз."
 
 #. i18n: ectx: property (text), widget (QLabel, uploadPreview2Label)
-#: knewstuff/knewstuff3/uploaddialog.ui:674
+#: knewstuff/knewstuff3/uploaddialog.ui:681
 msgid "Upload second preview"
 msgstr "Кече сүрәтнең икенчесен серверга тапшыру"
 
 #. i18n: ectx: property (text), widget (QLabel, uploadPreview3Label)
-#: knewstuff/knewstuff3/uploaddialog.ui:687
+#: knewstuff/knewstuff3/uploaddialog.ui:694
 msgid "Upload third preview"
 msgstr "Кече сүрәтнең өченчесен серверга тапшыру"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
-#: knewstuff/knewstuff3/uploaddialog.ui:732
+#: knewstuff/knewstuff3/uploaddialog.ui:739
 msgid ""
 "I ensure that this content does not violate any existing copyright, law or "
 "trademark. I agree for my IP address to be logged. (Distributing content "
@@ -12147,7 +12151,7 @@ msgstr ""
 "тотучының рөхсәтеннән кала әсбапларны тарату канунсыз.)"
 
 #. i18n: ectx: property (text), widget (QPushButton, uploadButton)
-#: knewstuff/knewstuff3/uploaddialog.ui:757
+#: knewstuff/knewstuff3/uploaddialog.ui:764
 msgid "Start Upload"
 msgstr "Тапшыруны башлау"
 
