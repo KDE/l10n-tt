@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-03-27 03:33+0100\n"
+"POT-Creation-Date: 2013-03-31 04:32+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -5123,7 +5123,7 @@ msgid "Warning"
 msgstr "Кисәтү"
 
 #: kdeui/dialogs/kmessagebox.cpp:841 kdeui/dialogs/kmessagebox.cpp:871
-#: khtml/rendering/render_form.cpp:870 kjs/object.cpp:553
+#: khtml/rendering/render_form.cpp:870 kjs/object.cpp:751
 #: knewstuff/knewstuff3/uploaddialog.cpp:546
 msgid "Error"
 msgstr "Хата"
@@ -9231,7 +9231,7 @@ msgstr "JavaScript"
 msgid "&Stop Script"
 msgstr "&Cкриптны туктату"
 
-#: khtml/ecma/kjs_html.cpp:2166 khtml/ecma/kjs_window.cpp:1660
+#: khtml/ecma/kjs_html.cpp:2166 khtml/ecma/kjs_window.cpp:1873
 msgid "Confirmation: JavaScript Popup"
 msgstr "Раслау: Javascript'ның йөзеп чыга торган тәрәзәсе"
 
@@ -9255,15 +9255,15 @@ msgstr ""
 "<qt>Бу сайт форма тапшырырга тырыша, бу күзәтүченең яңа тәрәзәдә <p>%1</p> "
 "ачылышына китерә(JavaScript аша).<br />Рөхсәт итәргәме?</qt>"
 
-#: khtml/ecma/kjs_html.cpp:2173 khtml/ecma/kjs_window.cpp:1668
+#: khtml/ecma/kjs_html.cpp:2173 khtml/ecma/kjs_window.cpp:1881
 msgid "Allow"
 msgstr "Рөхсәт итәргә"
 
-#: khtml/ecma/kjs_html.cpp:2173 khtml/ecma/kjs_window.cpp:1668
+#: khtml/ecma/kjs_html.cpp:2173 khtml/ecma/kjs_window.cpp:1881
 msgid "Do Not Allow"
 msgstr "Тыю"
 
-#: khtml/ecma/kjs_window.cpp:1663
+#: khtml/ecma/kjs_window.cpp:1876
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
@@ -9271,7 +9271,7 @@ msgstr ""
 "Бу сайт Javascript'ны кулланып яңа тәрәзә ачмакчы була.\n"
 "Тәрәзәне ачарга рөхсәт итәргәме?"
 
-#: khtml/ecma/kjs_window.cpp:1666
+#: khtml/ecma/kjs_window.cpp:1879
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
@@ -9280,22 +9280,22 @@ msgstr ""
 "<qt>Бу сайт JavaScript ярдәмендә яңа браузер тәрәзәсендә <p>%1</p>'ны ачарга "
 "тырыша.<br />Рөхсәт итәргәме?</qt>"
 
-#: khtml/ecma/kjs_window.cpp:1981
+#: khtml/ecma/kjs_window.cpp:2194
 msgid "Close window?"
 msgstr "Тәрәзәне ябаргамы?"
 
-#: khtml/ecma/kjs_window.cpp:1981
+#: khtml/ecma/kjs_window.cpp:2194
 msgid "Confirmation Required"
 msgstr "Раслау таләп ителә"
 
-#: khtml/ecma/kjs_window.cpp:2884
+#: khtml/ecma/kjs_window.cpp:3097
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Коллекциягезнең \"%1\" адресына кыстыргыч өстәргәме?"
 
-#: khtml/ecma/kjs_window.cpp:2887
+#: khtml/ecma/kjs_window.cpp:3100
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
@@ -9303,15 +9303,15 @@ msgid ""
 msgstr ""
 "Коллекциягезнең \"%1\" адресына \"%2\" баш исеме белән кыстыргыч өстәргәме?"
 
-#: khtml/ecma/kjs_window.cpp:2895
+#: khtml/ecma/kjs_window.cpp:3108
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript кыстыргыч өстәргә тырыша"
 
-#: khtml/ecma/kjs_window.cpp:2899
+#: khtml/ecma/kjs_window.cpp:3112
 msgid "Insert"
 msgstr "Insert"
 
-#: khtml/ecma/kjs_window.cpp:2899
+#: khtml/ecma/kjs_window.cpp:3112
 msgid "Disallow"
 msgstr "Тыю"
 
@@ -10711,27 +10711,27 @@ msgstr ""
 "klauncher: программа не должна запускаться вручную.\n"
 "klauncher: запускается автоматически из kdeinit4.\n"
 
-#: kjs/object.cpp:554
+#: kjs/object.cpp:752
 msgid "Evaluation error"
 msgstr "Исәпләү хатасы"
 
-#: kjs/object.cpp:555
+#: kjs/object.cpp:753
 msgid "Range error"
 msgstr "Чик хатасы"
 
-#: kjs/object.cpp:556
+#: kjs/object.cpp:754
 msgid "Reference error"
 msgstr "Сылтама хатасы"
 
-#: kjs/object.cpp:557
+#: kjs/object.cpp:755
 msgid "Syntax error"
 msgstr "Синтаксик хата"
 
-#: kjs/object.cpp:558
+#: kjs/object.cpp:756
 msgid "Type error"
 msgstr "Төр хатасы"
 
-#: kjs/object.cpp:559
+#: kjs/object.cpp:757
 msgid "URI error"
 msgstr "URI хатасы"
 
