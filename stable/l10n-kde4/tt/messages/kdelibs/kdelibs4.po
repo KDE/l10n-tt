@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-04-05 10:15+0200\n"
+"POT-Creation-Date: 2013-04-10 10:16+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -3501,16 +3501,16 @@ msgstr "Меню ясау тикшерүен гына башкару"
 msgid "Track menu id for debug purposes"
 msgstr "Төзәткечнең идентификатор менюсын күзәтү"
 
-#: kded/kded.cpp:859
+#: kded/kded.cpp:860
 msgid "KDE Daemon"
 msgstr "KDE хезмәте"
 
-#: kded/kded.cpp:861
+#: kded/kded.cpp:862
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
 msgstr ""
 "KDE хезмәте - Sycoca мәгълүмат базасын яңартуын кирәк булганда гына җибәрә"
 
-#: kded/kded.cpp:864
+#: kded/kded.cpp:865
 msgid "Check Sycoca database only once"
 msgstr "Sycoca хезмәтенең мәгълүмат базасын бер генә тапкыр тикшерү"
 
