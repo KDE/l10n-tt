@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-04-10 10:16+0200\n"
+"POT-Creation-Date: 2013-04-13 11:48+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1016,27 +1016,27 @@ msgstr "am"
 msgid "pm"
 msgstr "pm"
 
-#: kdecore/io/ksavefile.cpp:83
+#: kdecore/io/ksavefile.cpp:89
 msgid "No target filename has been given."
 msgstr "Максатлы файл күрсәтелмәгән."
 
-#: kdecore/io/ksavefile.cpp:90
+#: kdecore/io/ksavefile.cpp:96
 msgid "Already opened."
 msgstr "Файл инде ачылган."
 
-#: kdecore/io/ksavefile.cpp:100
+#: kdecore/io/ksavefile.cpp:106
 msgid "Insufficient permissions in target directory."
 msgstr "Максатлы каталогка язу рөхсәте юк."
 
-#: kdecore/io/ksavefile.cpp:120
+#: kdecore/io/ksavefile.cpp:127
 msgid "Unable to open temporary file."
 msgstr "Вакытлы файлны ачып булмады."
 
-#: kdecore/io/ksavefile.cpp:226
+#: kdecore/io/ksavefile.cpp:235
 msgid "Synchronization to disk failed"
 msgstr "Дискка сихронизлаштырылган вакытта хата килеп чыкты"
 
-#: kdecore/io/ksavefile.cpp:251
+#: kdecore/io/ksavefile.cpp:260
 msgid "Error during rename."
 msgstr "Исемне узгәрткәндә хата киелп чыкты."
 
