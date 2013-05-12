@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-05-10 12:56+0200\n"
+"POT-Creation-Date: 2013-05-12 10:29+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -5123,7 +5123,7 @@ msgid "Warning"
 msgstr "Кисәтү"
 
 #: kdeui/dialogs/kmessagebox.cpp:841 kdeui/dialogs/kmessagebox.cpp:871
-#: khtml/rendering/render_form.cpp:869 kjs/object.cpp:553
+#: khtml/rendering/render_form.cpp:883 kjs/object.cpp:553
 #: knewstuff/knewstuff3/uploaddialog.cpp:535
 msgid "Error"
 msgstr "Хата"
@@ -8398,7 +8398,7 @@ msgstr "Аскарак &күчерү"
 msgid "&Help"
 msgstr "Белешмә"
 
-#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:992
+#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:1006
 msgid "Clear &History"
 msgstr "Тарихны &чистарту"
 
@@ -9231,11 +9231,11 @@ msgstr "JavaScript"
 msgid "&Stop Script"
 msgstr "&Cкриптны туктату"
 
-#: khtml/ecma/kjs_html.cpp:2166 khtml/ecma/kjs_window.cpp:1660
+#: khtml/ecma/kjs_html.cpp:2171 khtml/ecma/kjs_window.cpp:1660
 msgid "Confirmation: JavaScript Popup"
 msgstr "Раслау: Javascript'ның йөзеп чыга торган тәрәзәсе"
 
-#: khtml/ecma/kjs_html.cpp:2168
+#: khtml/ecma/kjs_html.cpp:2173
 msgid ""
 "This site is submitting a form which will open up a new browser window via "
 "JavaScript.\n"
@@ -9245,7 +9245,7 @@ msgstr ""
 "(JavaScript аша).\n"
 "Моны рөхсәт итәргәме?"
 
-#: khtml/ecma/kjs_html.cpp:2171
+#: khtml/ecma/kjs_html.cpp:2176
 #, kde-format
 msgid ""
 "<qt>This site is submitting a form which will open <p>%1</p> in a new "
@@ -9255,11 +9255,11 @@ msgstr ""
 "<qt>Бу сайт форма тапшырырга тырыша, бу күзәтүченең яңа тәрәзәдә <p>%1</p> "
 "ачылышына китерә(JavaScript аша).<br />Рөхсәт итәргәме?</qt>"
 
-#: khtml/ecma/kjs_html.cpp:2173 khtml/ecma/kjs_window.cpp:1668
+#: khtml/ecma/kjs_html.cpp:2178 khtml/ecma/kjs_window.cpp:1668
 msgid "Allow"
 msgstr "Рөхсәт итәргә"
 
-#: khtml/ecma/kjs_html.cpp:2173 khtml/ecma/kjs_window.cpp:1668
+#: khtml/ecma/kjs_html.cpp:2178 khtml/ecma/kjs_window.cpp:1668
 msgid "Do Not Allow"
 msgstr "Тыю"
 
@@ -10315,28 +10315,28 @@ msgstr "Уйнату"
 msgid "Pause"
 msgstr "Тыналыш"
 
-#: khtml/rendering/render_form.cpp:848
+#: khtml/rendering/render_form.cpp:862
 msgid "New Web Shortcut"
 msgstr "Новое сокращение Веб"
 
-#: khtml/rendering/render_form.cpp:869
+#: khtml/rendering/render_form.cpp:883
 #, kde-format
 msgid "%1 is already assigned to %2"
 msgstr "%1 уже назначено для %2"
 
-#: khtml/rendering/render_form.cpp:914
+#: khtml/rendering/render_form.cpp:928
 msgid "Search &provider name:"
 msgstr "&Название поисковой системы:"
 
-#: khtml/rendering/render_form.cpp:916
+#: khtml/rendering/render_form.cpp:930
 msgid "New search provider"
 msgstr "Яңа эзләү системасы"
 
-#: khtml/rendering/render_form.cpp:921
+#: khtml/rendering/render_form.cpp:935
 msgid "UR&I shortcuts:"
 msgstr "&Кыскартмалар:"
 
-#: khtml/rendering/render_form.cpp:1007
+#: khtml/rendering/render_form.cpp:1021
 msgid "Create Web Shortcut"
 msgstr "Создать сокращение Веб"
 
