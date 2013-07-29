@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-07-24 05:25+0000\n"
+"POT-Creation-Date: 2013-07-29 05:15+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -8255,68 +8255,68 @@ msgstr "Перед сохранением настроек нужно будет
 msgid "You are not allowed to save the configuration"
 msgstr "Бу үзгәрешләрне ясау өчен хокуклар юк."
 
-#: kdeui/widgets/kdatecombobox.cpp:149
+#: kdeui/widgets/kdatecombobox.cpp:150
 msgctxt "@option next year"
 msgid "Next Year"
 msgstr "Киләсе ел"
 
-#: kdeui/widgets/kdatecombobox.cpp:150
+#: kdeui/widgets/kdatecombobox.cpp:151
 msgctxt "@option next month"
 msgid "Next Month"
 msgstr "Киләсе ай"
 
-#: kdeui/widgets/kdatecombobox.cpp:151
+#: kdeui/widgets/kdatecombobox.cpp:152
 msgctxt "@option next week"
 msgid "Next Week"
 msgstr "Следующая неделя"
 
-#: kdeui/widgets/kdatecombobox.cpp:152
+#: kdeui/widgets/kdatecombobox.cpp:153
 msgctxt "@option tomorrow"
 msgid "Tomorrow"
 msgstr "Иртәгә"
 
-#: kdeui/widgets/kdatecombobox.cpp:153
+#: kdeui/widgets/kdatecombobox.cpp:154
 msgctxt "@option today"
 msgid "Today"
 msgstr "Бүген"
 
-#: kdeui/widgets/kdatecombobox.cpp:154
+#: kdeui/widgets/kdatecombobox.cpp:155
 msgctxt "@option yesterday"
 msgid "Yesterday"
 msgstr "Кичә"
 
-#: kdeui/widgets/kdatecombobox.cpp:155
+#: kdeui/widgets/kdatecombobox.cpp:156
 msgctxt "@option last week"
 msgid "Last Week"
 msgstr "Ахыргы атна"
 
-#: kdeui/widgets/kdatecombobox.cpp:156
+#: kdeui/widgets/kdatecombobox.cpp:157
 msgctxt "@option last month"
 msgid "Last Month"
 msgstr "Ахыргы ай"
 
-#: kdeui/widgets/kdatecombobox.cpp:157
+#: kdeui/widgets/kdatecombobox.cpp:158
 msgctxt "@option last year"
 msgid "Last Year"
 msgstr "Ахыргы ел"
 
-#: kdeui/widgets/kdatecombobox.cpp:159
+#: kdeui/widgets/kdatecombobox.cpp:160
 msgctxt "@option do not specify a date"
 msgid "No Date"
 msgstr "Нет даты"
 
-#: kdeui/widgets/kdatecombobox.cpp:255
+#: kdeui/widgets/kdatecombobox.cpp:256
 msgctxt "@info"
 msgid "The date you entered is invalid"
 msgstr "Хаталы вакыт кертелгән"
 
-#: kdeui/widgets/kdatecombobox.cpp:258
+#: kdeui/widgets/kdatecombobox.cpp:259
 #, kde-format
 msgctxt "@info"
 msgid "Date cannot be earlier than %1"
 msgstr "Көн моннан иртәрәк була алмый: %1"
 
-#: kdeui/widgets/kdatecombobox.cpp:265
+#: kdeui/widgets/kdatecombobox.cpp:266
 #, kde-format
 msgctxt "@info"
 msgid "Date cannot be later than %1"
