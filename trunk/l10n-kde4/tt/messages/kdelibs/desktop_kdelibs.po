@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-07-19 01:51+0000\n"
+"POT-Creation-Date: 2013-09-09 02:00+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1201,27 +1201,27 @@ msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Прокси скриптында хата"
 
-#: kio/misc/kpac/proxyscout.notifyrc:158
+#: kio/misc/kpac/proxyscout.notifyrc:159
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "Кабул ителгән прокси көйләүченең скрипты бозык"
 
-#: kio/misc/kpac/proxyscout.notifyrc:254
+#: kio/misc/kpac/proxyscout.notifyrc:255
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Бирелгән скрипта хата"
 
-#: kio/misc/kpac/proxyscout.notifyrc:341
+#: kio/misc/kpac/proxyscout.notifyrc:343
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "Прокси көйләүченең скриптын кабыл итеп булмый"
 
-#: kio/misc/kpac/proxyscout.notifyrc:437
+#: kio/misc/kpac/proxyscout.notifyrc:440
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Скрипт эчтәлегендә хата"
 
-#: kio/misc/kpac/proxyscout.notifyrc:522
+#: kio/misc/kpac/proxyscout.notifyrc:526
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Прокси көйләүченең скриптын җибәргәндә ялгыш килеп чыкты"
