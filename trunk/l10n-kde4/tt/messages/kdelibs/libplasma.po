@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-05-08 22:51+0000\n"
+"POT-Creation-Date: 2013-12-14 01:32+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -305,15 +305,15 @@ msgstr "Бу өстәмәне көйләү мөһим"
 msgid "Unknown ContainmentActions"
 msgstr "Билгесез ContainmentActions"
 
-#: corona.cpp:680 corona.cpp:820
+#: corona.cpp:683 corona.cpp:823
 msgid "Lock Widgets"
 msgstr "Виджетларны катыру"
 
-#: corona.cpp:680
+#: corona.cpp:683
 msgid "Unlock Widgets"
 msgstr "Виджетларны эретү"
 
-#: corona.cpp:832
+#: corona.cpp:835
 msgid "Shortcut Settings"
 msgstr "Такта төймәсе тезмәләрен көйләү"
 
