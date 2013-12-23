@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-12-21 05:01+0000\n"
+"POT-Creation-Date: 2013-12-23 05:09+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -9240,11 +9240,11 @@ msgstr "JavaScript"
 msgid "&Stop Script"
 msgstr "&Cкриптны туктату"
 
-#: khtml/ecma/kjs_html.cpp:2171 khtml/ecma/kjs_window.cpp:1873
+#: khtml/ecma/kjs_html.cpp:2183 khtml/ecma/kjs_window.cpp:1873
 msgid "Confirmation: JavaScript Popup"
 msgstr "Раслау: Javascript'ның йөзеп чыга торган тәрәзәсе"
 
-#: khtml/ecma/kjs_html.cpp:2173
+#: khtml/ecma/kjs_html.cpp:2185
 msgid ""
 "This site is submitting a form which will open up a new browser window via "
 "JavaScript.\n"
@@ -9254,7 +9254,7 @@ msgstr ""
 "(JavaScript аша).\n"
 "Моны рөхсәт итәргәме?"
 
-#: khtml/ecma/kjs_html.cpp:2176
+#: khtml/ecma/kjs_html.cpp:2188
 #, kde-format
 msgid ""
 "<qt>This site is submitting a form which will open <p>%1</p> in a new "
@@ -9264,11 +9264,11 @@ msgstr ""
 "<qt>Бу сайт форма тапшырырга тырыша, бу күзәтүченең яңа тәрәзәдә <p>%1</p> "
 "ачылышына китерә(JavaScript аша).<br />Рөхсәт итәргәме?</qt>"
 
-#: khtml/ecma/kjs_html.cpp:2178 khtml/ecma/kjs_window.cpp:1881
+#: khtml/ecma/kjs_html.cpp:2190 khtml/ecma/kjs_window.cpp:1881
 msgid "Allow"
 msgstr "Рөхсәт итәргә"
 
-#: khtml/ecma/kjs_html.cpp:2178 khtml/ecma/kjs_window.cpp:1881
+#: khtml/ecma/kjs_html.cpp:2190 khtml/ecma/kjs_window.cpp:1881
 msgid "Do Not Allow"
 msgstr "Тыю"
 
@@ -9297,14 +9297,14 @@ msgstr "Тәрәзәне ябаргамы?"
 msgid "Confirmation Required"
 msgstr "Раслау таләп ителә"
 
-#: khtml/ecma/kjs_window.cpp:3095
+#: khtml/ecma/kjs_window.cpp:3100
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Коллекциягезнең \"%1\" адресына кыстыргыч өстәргәме?"
 
-#: khtml/ecma/kjs_window.cpp:3098
+#: khtml/ecma/kjs_window.cpp:3103
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
@@ -9312,15 +9312,15 @@ msgid ""
 msgstr ""
 "Коллекциягезнең \"%1\" адресына \"%2\" баш исеме белән кыстыргыч өстәргәме?"
 
-#: khtml/ecma/kjs_window.cpp:3106
+#: khtml/ecma/kjs_window.cpp:3111
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript кыстыргыч өстәргә тырыша"
 
-#: khtml/ecma/kjs_window.cpp:3110
+#: khtml/ecma/kjs_window.cpp:3115
 msgid "Insert"
 msgstr "Insert"
 
-#: khtml/ecma/kjs_window.cpp:3110
+#: khtml/ecma/kjs_window.cpp:3115
 msgid "Disallow"
 msgstr "Тыю"
 
