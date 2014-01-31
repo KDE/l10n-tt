@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-11-09 05:12+0000\n"
+"POT-Creation-Date: 2014-01-31 05:52+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -264,40 +264,40 @@ msgctxt "%1 is the name of the containment"
 msgid "%1 Options"
 msgstr "%1 виджетын көйләү"
 
-#: containment.cpp:1342
+#: containment.cpp:1341
 msgid "Fetching file type..."
 msgstr "Файлның төрен алу"
 
-#: containment.cpp:1533
+#: containment.cpp:1532
 msgid "Widgets"
 msgstr "Виджетлар"
 
-#: containment.cpp:1546
+#: containment.cpp:1545
 msgid "Icon"
 msgstr "Билгечек"
 
-#: containment.cpp:1550
+#: containment.cpp:1549
 msgid "Wallpaper"
 msgstr "Обойлар"
 
-#: containment.cpp:2112
+#: containment.cpp:2111
 #, kde-format
 msgctxt "@title:window %1 is the name of the containment"
 msgid "Remove %1"
 msgstr "%1 виджетын бетерү"
 
-#: containment.cpp:2116
+#: containment.cpp:2115
 #, kde-format
 msgctxt "%1 is the name of the containment"
 msgid "Do you really want to remove this %1?"
 msgstr "Сез чынлап та %1 виджетын бетерергә телисезме?"
 
-#: containment.cpp:2230
+#: containment.cpp:2229
 #, kde-format
 msgid "Could not find requested component: %1"
 msgstr "%1 компонентын табып булмый."
 
-#: containment.cpp:2409
+#: containment.cpp:2408
 msgid "This plugin needs to be configured"
 msgstr "Бу өстәмәне көйләү мөһим"
 
@@ -305,15 +305,15 @@ msgstr "Бу өстәмәне көйләү мөһим"
 msgid "Unknown ContainmentActions"
 msgstr "Билгесез ContainmentActions"
 
-#: corona.cpp:680 corona.cpp:820
+#: corona.cpp:683 corona.cpp:823
 msgid "Lock Widgets"
 msgstr "Виджетларны катыру"
 
-#: corona.cpp:680
+#: corona.cpp:683
 msgid "Unlock Widgets"
 msgstr "Виджетларны эретү"
 
-#: corona.cpp:832
+#: corona.cpp:835
 msgid "Shortcut Settings"
 msgstr "Такта төймәсе тезмәләрен көйләү"
 
