@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-01-30 01:50+0000\n"
+"POT-Creation-Date: 2014-02-02 01:57+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -19,7 +19,7 @@ msgctxt "Name"
 msgid "Oxygen"
 msgstr ""
 
-#: autotests/icons/oxygen/index.theme:20
+#: autotests/icons/oxygen/index.theme:21
 msgctxt "Comment"
 msgid "Oxygen Team"
 msgstr ""
