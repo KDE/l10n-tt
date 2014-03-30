@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-03-29 02:15+0000\n"
+"POT-Creation-Date: 2014-03-30 02:24+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -104,7 +104,7 @@ msgctxt "Name"
 msgid "Password Caching"
 msgstr ""
 
-#: src/kpasswdserver/kpasswdserver.desktop:13
+#: src/kpasswdserver/kpasswdserver.desktop:17
 msgctxt "Comment"
 msgid "Temporary password caching"
 msgstr ""
