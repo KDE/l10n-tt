@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-02 01:41+0000\n"
+"POT-Creation-Date: 2014-04-03 01:41+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -104,6 +104,11 @@ msgstr "Ruby интепретаторының иминлек дәрәҗәсе"
 #: modules/form.cpp:328
 msgid "Cancel?"
 msgstr "Үткәрмәскәме?"
+
+#: qts/values_p.h:75
+#, kde-format
+msgid "No such function \"%1\""
+msgstr "«%1» функциясе юк."
 
 #: ui/actioncollectionview.cpp:175
 msgid "Name:"
@@ -9127,9 +9132,6 @@ msgstr "Төп"
 
 #~ msgid "Scriptfile"
 #~ msgstr "Скрипт"
-
-#~ msgid "No such function \"%1\""
-#~ msgstr "«%1» функциясе юк."
 
 #~ msgid "The module %1 could not be found."
 #~ msgstr "%1 модуле табылмады."
