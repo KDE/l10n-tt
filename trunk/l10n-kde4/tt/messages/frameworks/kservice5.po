@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-02 01:41+0000\n"
+"POT-Creation-Date: 2014-04-06 01:53+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -206,11 +206,11 @@ msgstr "«%2» кушымтасының «%1» өстәлмәсе табылма
 msgid "The library %1 does not offer a KPluginFactory."
 msgstr "%1 китапханәсе KDE4 чолганышына туры килүче компонентларын ясый алмый."
 
-#: services/kservice.cpp:1014
+#: services/kservice.cpp:1028
 msgid "The provided service is not valid"
 msgstr "Ялгышлы хезмәт күрсәтелде"
 
-#: services/kservice.cpp:1018
+#: services/kservice.cpp:1032
 #, fuzzy, kde-format
 #| msgid ""
 #| "The service '%1' provides no library or the Library key is missing in "
