@@ -80,7 +80,7 @@ msgstr "Тәмамлау"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "European Alphabets"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "European Alphabets"
 msgstr "Аурупа"
 
@@ -88,7 +88,7 @@ msgstr "Аурупа"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "African Scripts"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "African Scripts"
 msgstr "Африка"
 
@@ -96,7 +96,7 @@ msgstr "Африка"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "Middle Eastern Scripts"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "Middle Eastern Scripts"
 msgstr "Якын көнчыгыш"
 
@@ -104,7 +104,7 @@ msgstr "Якын көнчыгыш"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "South Asian Scripts"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "South Asian Scripts"
 msgstr "Көньяк Азия"
 
@@ -112,7 +112,7 @@ msgstr "Көньяк Азия"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "Philippine Scripts"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "Philippine Scripts"
 msgstr "Филиппин"
 
@@ -120,7 +120,7 @@ msgstr "Филиппин"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "South East Asian Scripts"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "South East Asian Scripts"
 msgstr "Көньяк-көнчыгыш Азия"
 
@@ -128,7 +128,7 @@ msgstr "Көньяк-көнчыгыш Азия"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "East Asian Scripts"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "East Asian Scripts"
 msgstr "Көнчыгыш Азия"
 
@@ -136,7 +136,7 @@ msgstr "Көнчыгыш Азия"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "Central Asian Scripts"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "Central Asian Scripts"
 msgstr "Урта Азия"
 
@@ -144,7 +144,7 @@ msgstr "Урта Азия"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "Other Scripts"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "Other Scripts"
 msgstr "Башка"
 
@@ -152,7 +152,7 @@ msgstr "Башка"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "Symbols"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "Symbols"
 msgstr "Тамгалар"
 
@@ -160,7 +160,7 @@ msgstr "Тамгалар"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "Mathematical Symbols"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "Mathematical Symbols"
 msgstr "Математик тамгалар"
 
@@ -168,15 +168,16 @@ msgstr "Математик тамгалар"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "Phonetic Symbols"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "Phonetic Symbols"
 msgstr "Фонетик тамгалар"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:35
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:647
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "Combining Diacritical Marks"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "Combining Diacritical Marks"
 msgstr "Тулыландыручы диакритик тамгалары"
 
@@ -184,7 +185,7 @@ msgstr "Тулыландыручы диакритик тамгалары"
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Other"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "Other"
 msgstr "Башкалар"
 
@@ -192,7 +193,7 @@ msgstr "Башкалар"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Basic Latin"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Basic Latin"
 msgstr "Төп латин"
 
@@ -200,7 +201,7 @@ msgstr "Төп латин"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Latin-1 Supplement"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Latin-1 Supplement"
 msgstr "Латин әлибасына өстәлмә 1"
 
@@ -208,7 +209,7 @@ msgstr "Латин әлибасына өстәлмә 1"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Latin Extended-A"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Latin Extended-A"
 msgstr "Киңәйтелгән латин әлифбасы-A"
 
@@ -216,7 +217,7 @@ msgstr "Киңәйтелгән латин әлифбасы-A"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Latin Extended-B"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Latin Extended-B"
 msgstr "Киңәйтелгән латин әлифбасы-B"
 
@@ -224,7 +225,7 @@ msgstr "Киңәйтелгән латин әлифбасы-B"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "IPA Extensions"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "IPA Extensions"
 msgstr "Фонетик тамгалар"
 
@@ -232,7 +233,7 @@ msgstr "Фонетик тамгалар"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Spacing Modifier Letters"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Spacing Modifier Letters"
 msgstr "Символы изменения пробела"
 
@@ -240,7 +241,7 @@ msgstr "Символы изменения пробела"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "Combining Diacritical Marks"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Combining Diacritical Marks"
 msgstr "Тулыландыручы диакритик тамгалары"
 
@@ -248,7 +249,7 @@ msgstr "Тулыландыручы диакритик тамгалары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Greek and Coptic"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Greek and Coptic"
 msgstr "Грек и копт әлифбасы"
 
@@ -256,7 +257,7 @@ msgstr "Грек и копт әлифбасы"
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Cyrillic"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Cyrillic"
 msgstr "Кирилл"
 
@@ -264,7 +265,7 @@ msgstr "Кирилл"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Cyrillic Supplement"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Cyrillic Supplement"
 msgstr "Кирилл әлифбасының өстәмә тамгалары"
 
@@ -272,7 +273,7 @@ msgstr "Кирилл әлифбасының өстәмә тамгалары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Armenian"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Armenian"
 msgstr "Әрмән"
 
@@ -280,7 +281,7 @@ msgstr "Әрмән"
 #, fuzzy
 #| msgctxt "@item Spelling dictionary"
 #| msgid "Hebrew"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Hebrew"
 msgstr "Иврит"
 
@@ -288,7 +289,7 @@ msgstr "Иврит"
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Arabic"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Arabic"
 msgstr "Гарәп"
 
@@ -296,7 +297,7 @@ msgstr "Гарәп"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Syriac"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Syriac"
 msgstr "Сирия"
 
@@ -304,7 +305,7 @@ msgstr "Сирия"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Arabic Supplement"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Arabic Supplement"
 msgstr "Гарәп язмасының өстәмә тамгалары"
 
@@ -312,7 +313,7 @@ msgstr "Гарәп язмасының өстәмә тамгалары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Thaana"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Thaana"
 msgstr "Тхаана"
 
@@ -320,7 +321,7 @@ msgstr "Тхаана"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "NKo"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "NKo"
 msgstr "Нко"
 
@@ -328,12 +329,12 @@ msgstr "Нко"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Samaritan"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Samaritan"
 msgstr "Самаритян язмасы"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:55
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Mandaic"
 msgstr ""
 
@@ -341,7 +342,7 @@ msgstr ""
 #, fuzzy
 #| msgctxt "digit set"
 #| msgid "Devanagari"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Devanagari"
 msgstr "Деванагари"
 
@@ -349,7 +350,7 @@ msgstr "Деванагари"
 #, fuzzy
 #| msgctxt "digit set"
 #| msgid "Bengali"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Bengali"
 msgstr "Бенгаль"
 
@@ -357,7 +358,7 @@ msgstr "Бенгаль"
 #, fuzzy
 #| msgctxt "digit set"
 #| msgid "Gurmukhi"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Gurmukhi"
 msgstr "Гурмуки"
 
@@ -365,7 +366,7 @@ msgstr "Гурмуки"
 #, fuzzy
 #| msgctxt "digit set"
 #| msgid "Gujarati"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Gujarati"
 msgstr "Гөҗәрәти"
 
@@ -373,7 +374,7 @@ msgstr "Гөҗәрәти"
 #, fuzzy
 #| msgctxt "digit set"
 #| msgid "Oriya"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Oriya"
 msgstr "Ория"
 
@@ -381,7 +382,7 @@ msgstr "Ория"
 #, fuzzy
 #| msgctxt "digit set"
 #| msgid "Tamil"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Tamil"
 msgstr "Тамиль"
 
@@ -389,7 +390,7 @@ msgstr "Тамиль"
 #, fuzzy
 #| msgctxt "digit set"
 #| msgid "Telugu"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Telugu"
 msgstr "Телугу"
 
@@ -397,7 +398,7 @@ msgstr "Телугу"
 #, fuzzy
 #| msgctxt "digit set"
 #| msgid "Kannada"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Kannada"
 msgstr "Каннада"
 
@@ -405,7 +406,7 @@ msgstr "Каннада"
 #, fuzzy
 #| msgctxt "digit set"
 #| msgid "Malayalam"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Malayalam"
 msgstr "Малаялам"
 
@@ -413,7 +414,7 @@ msgstr "Малаялам"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Sinhala"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Sinhala"
 msgstr "Сингал"
 
@@ -421,7 +422,7 @@ msgstr "Сингал"
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Thai"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Thai"
 msgstr "Тай"
 
@@ -429,7 +430,7 @@ msgstr "Тай"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Lao"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Lao"
 msgstr "Лаос"
 
@@ -437,7 +438,7 @@ msgstr "Лаос"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Tibetan"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Tibetan"
 msgstr "Тибет"
 
@@ -445,7 +446,7 @@ msgstr "Тибет"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Myanmar"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Myanmar"
 msgstr "Бирма (Мьянма)"
 
@@ -453,7 +454,7 @@ msgstr "Бирма (Мьянма)"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Georgian"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Georgian"
 msgstr "Грузин"
 
@@ -461,7 +462,7 @@ msgstr "Грузин"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Hangul Jamo"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Hangul Jamo"
 msgstr "Хангыл"
 
@@ -469,7 +470,7 @@ msgstr "Хангыл"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Ethiopic"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Ethiopic"
 msgstr "Эфиоп"
 
@@ -477,7 +478,7 @@ msgstr "Эфиоп"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Ethiopic Supplement"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Ethiopic Supplement"
 msgstr "Эфиоп язмасының өстәмә тамгалары"
 
@@ -485,7 +486,7 @@ msgstr "Эфиоп язмасының өстәмә тамгалары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Cherokee"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Cherokee"
 msgstr "Чероки"
 
@@ -493,7 +494,7 @@ msgstr "Чероки"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Unified Canadian Aboriginal Syllabics"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Unified Canadian Aboriginal Syllabics"
 msgstr "Канаданың иҗекле язмасы"
 
@@ -501,7 +502,7 @@ msgstr "Канаданың иҗекле язмасы"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Ogham"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Ogham"
 msgstr "Огхам"
 
@@ -509,7 +510,7 @@ msgstr "Огхам"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Runic"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Runic"
 msgstr "Руналы"
 
@@ -517,7 +518,7 @@ msgstr "Руналы"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Tagalog"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Tagalog"
 msgstr "Тагал"
 
@@ -525,7 +526,7 @@ msgstr "Тагал"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Hanunoo"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Hanunoo"
 msgstr "Хануну"
 
@@ -533,7 +534,7 @@ msgstr "Хануну"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Buhid"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Buhid"
 msgstr "Бухид"
 
@@ -541,7 +542,7 @@ msgstr "Бухид"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Tagbanwa"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Tagbanwa"
 msgstr "Тагбанва"
 
@@ -549,7 +550,7 @@ msgstr "Тагбанва"
 #, fuzzy
 #| msgctxt "digit set"
 #| msgid "Khmer"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Khmer"
 msgstr "Кхмер"
 
@@ -557,7 +558,7 @@ msgstr "Кхмер"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Mongolian"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Mongolian"
 msgstr "Монгол"
 
@@ -565,7 +566,7 @@ msgstr "Монгол"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Unified Canadian Aboriginal Syllabics Extended"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Unified Canadian Aboriginal Syllabics Extended"
 msgstr "Канаданың иҗекле язмасының киңәйтмәсе"
 
@@ -573,7 +574,7 @@ msgstr "Канаданың иҗекле язмасының киңәйтмәсе"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Limbu"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Limbu"
 msgstr "Лимбу"
 
@@ -581,7 +582,7 @@ msgstr "Лимбу"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Tai Le"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Tai Le"
 msgstr "Тай Лы"
 
@@ -589,7 +590,7 @@ msgstr "Тай Лы"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "New Tai Lue"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "New Tai Lue"
 msgstr "Яңа Тай Лы"
 
@@ -597,7 +598,7 @@ msgstr "Яңа Тай Лы"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Khmer Symbols"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Khmer Symbols"
 msgstr "Кхмер тамгалары"
 
@@ -605,7 +606,7 @@ msgstr "Кхмер тамгалары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Buginese"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Buginese"
 msgstr "Буги язмасы"
 
@@ -613,7 +614,7 @@ msgstr "Буги язмасы"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Tai Tham"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Tai Tham"
 msgstr "Тай Там"
 
@@ -621,7 +622,7 @@ msgstr "Тай Там"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Balinese"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Balinese"
 msgstr "Балинес"
 
@@ -629,7 +630,7 @@ msgstr "Балинес"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Sundanese"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Sundanese"
 msgstr "Сунданез"
 
@@ -637,7 +638,7 @@ msgstr "Сунданез"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Katakana"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Batak"
 msgstr "Катакана"
 
@@ -645,7 +646,7 @@ msgstr "Катакана"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Lepcha"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Lepcha"
 msgstr "Леп"
 
@@ -653,7 +654,7 @@ msgstr "Леп"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Ol Chiki"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Ol Chiki"
 msgstr "Ол Чики"
 
@@ -661,7 +662,7 @@ msgstr "Ол Чики"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Vedic Extensions"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Vedic Extensions"
 msgstr "Ведалы санскритның киңәйтмәсе"
 
@@ -669,7 +670,7 @@ msgstr "Ведалы санскритның киңәйтмәсе"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Phonetic Extensions"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Phonetic Extensions"
 msgstr "Фонетик киңәйтмәләр"
 
@@ -677,7 +678,7 @@ msgstr "Фонетик киңәйтмәләр"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Phonetic Extensions Supplement"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Phonetic Extensions Supplement"
 msgstr "Өстәмә фонетик киңәйтмәләре"
 
@@ -685,7 +686,7 @@ msgstr "Өстәмә фонетик киңәйтмәләре"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Combining Diacritical Marks Supplement"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Combining Diacritical Marks Supplement"
 msgstr "Дополнительные комбинируемые диакритические знаки для символов"
 
@@ -693,7 +694,7 @@ msgstr "Дополнительные комбинируемые диакрити
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Latin Extended Additional"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Latin Extended Additional"
 msgstr "Киңәйтелгән латин әлифбасының өстәлмәсе"
 
@@ -701,7 +702,7 @@ msgstr "Киңәйтелгән латин әлифбасының өстәлмә�
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Greek Extended"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Greek Extended"
 msgstr "Киңәйтелгән грек"
 
@@ -709,7 +710,7 @@ msgstr "Киңәйтелгән грек"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "General Punctuation"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "General Punctuation"
 msgstr "Пунктуация тамгалары"
 
@@ -717,7 +718,7 @@ msgstr "Пунктуация тамгалары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Superscripts and Subscripts"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Superscripts and Subscripts"
 msgstr "Аскы һәм өске индекслар"
 
@@ -725,7 +726,7 @@ msgstr "Аскы һәм өске индекслар"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Currency Symbols"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Currency Symbols"
 msgstr "Акча тамгалары"
 
@@ -733,7 +734,7 @@ msgstr "Акча тамгалары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Combining Diacritical Marks for Symbols"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Combining Diacritical Marks for Symbols"
 msgstr "Комбинируемые диакритические знаки для символов"
 
@@ -741,7 +742,7 @@ msgstr "Комбинируемые диакритические знаки дл�
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Letterlike Symbols"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Letterlike Symbols"
 msgstr "Хәрефсыман тамгалар"
 
@@ -749,7 +750,7 @@ msgstr "Хәрефсыман тамгалар"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Number Forms"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Number Forms"
 msgstr "Санлы рәвешләр"
 
@@ -757,7 +758,7 @@ msgstr "Санлы рәвешләр"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Arrows"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Arrows"
 msgstr "Телләр"
 
@@ -765,7 +766,7 @@ msgstr "Телләр"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Mathematical Operators"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Mathematical Operators"
 msgstr "Математик операторлар"
 
@@ -773,7 +774,7 @@ msgstr "Математик операторлар"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Miscellaneous Technical"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Miscellaneous Technical"
 msgstr "Техник тамгалар"
 
@@ -781,7 +782,7 @@ msgstr "Техник тамгалар"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Control Pictures"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Control Pictures"
 msgstr "Значки управляющих кодов"
 
@@ -789,7 +790,7 @@ msgstr "Значки управляющих кодов"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Optical Character Recognition"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Optical Character Recognition"
 msgstr "Оптическое распознавание символов"
 
@@ -797,7 +798,7 @@ msgstr "Оптическое распознавание символов"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Enclosed Alphanumerics"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Enclosed Alphanumerics"
 msgstr "Вложенные буквы и цифры"
 
@@ -805,7 +806,7 @@ msgstr "Вложенные буквы и цифры"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Box Drawing"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Box Drawing"
 msgstr "Кырларны сүрәтләү тамгалары"
 
@@ -813,7 +814,7 @@ msgstr "Кырларны сүрәтләү тамгалары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Block Elements"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Block Elements"
 msgstr "Символы заполнения"
 
@@ -821,7 +822,7 @@ msgstr "Символы заполнения"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Geometric Shapes"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Geometric Shapes"
 msgstr "Геометрик фигуралар"
 
@@ -829,7 +830,7 @@ msgstr "Геометрик фигуралар"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Miscellaneous Symbols"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Miscellaneous Symbols"
 msgstr "Төрле рәвештәге билгечекләр"
 
@@ -837,7 +838,7 @@ msgstr "Төрле рәвештәге билгечекләр"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Dingbats"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Dingbats"
 msgstr "Dingbats билгечекләре"
 
@@ -845,7 +846,7 @@ msgstr "Dingbats билгечекләре"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Miscellaneous Mathematical Symbols-A"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Miscellaneous Mathematical Symbols-A"
 msgstr "Төрле рәвештәге математик тамгалар-A"
 
@@ -853,7 +854,7 @@ msgstr "Төрле рәвештәге математик тамгалар-A"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Supplemental Arrows-A"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Supplemental Arrows-A"
 msgstr "Өстәмә уклар - A"
 
@@ -861,7 +862,7 @@ msgstr "Өстәмә уклар - A"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Braille Patterns"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Braille Patterns"
 msgstr "Брайль калыплары"
 
@@ -869,7 +870,7 @@ msgstr "Брайль калыплары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Supplemental Arrows-B"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Supplemental Arrows-B"
 msgstr "Өстәмә уклар - B"
 
@@ -877,7 +878,7 @@ msgstr "Өстәмә уклар - B"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Miscellaneous Mathematical Symbols-B"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Miscellaneous Mathematical Symbols-B"
 msgstr "Төрле рәвештәге математик тамгалар-B"
 
@@ -885,7 +886,7 @@ msgstr "Төрле рәвештәге математик тамгалар-B"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Supplemental Mathematical Operators"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Supplemental Mathematical Operators"
 msgstr "Өстәмә матиматик операторлары"
 
@@ -893,7 +894,7 @@ msgstr "Өстәмә матиматик операторлары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Miscellaneous Symbols and Arrows"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Miscellaneous Symbols and Arrows"
 msgstr "Төәрле рәвештәге тамгалар һәм уклар"
 
@@ -901,7 +902,7 @@ msgstr "Төәрле рәвештәге тамгалар һәм уклар"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Glagolitic"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Glagolitic"
 msgstr "Глаголица"
 
@@ -909,7 +910,7 @@ msgstr "Глаголица"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Latin Extended-C"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Latin Extended-C"
 msgstr "Киңәйтелгән латин әлифбасы-C"
 
@@ -917,7 +918,7 @@ msgstr "Киңәйтелгән латин әлифбасы-C"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Coptic"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Coptic"
 msgstr "Копт тамгалары"
 
@@ -925,7 +926,7 @@ msgstr "Копт тамгалары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Georgian Supplement"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Georgian Supplement"
 msgstr "Грузин әлифбасының өстәмә төймәләре"
 
@@ -933,7 +934,7 @@ msgstr "Грузин әлифбасының өстәмә төймәләре"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Tifinagh"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Tifinagh"
 msgstr "Тифинаг"
 
@@ -941,7 +942,7 @@ msgstr "Тифинаг"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Ethiopic Extended"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Ethiopic Extended"
 msgstr "Расширенный набор символов эфиопского письма"
 
@@ -949,7 +950,7 @@ msgstr "Расширенный набор символов эфиопского 
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Cyrillic Extended-A"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Cyrillic Extended-A"
 msgstr "Кириллица (расширение A)"
 
@@ -957,7 +958,7 @@ msgstr "Кириллица (расширение A)"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Supplemental Punctuation"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Supplemental Punctuation"
 msgstr "Пунктуациянең өстәмә тамгалары"
 
@@ -965,7 +966,7 @@ msgstr "Пунктуациянең өстәмә тамгалары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "CJK Radicals Supplement"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "CJK Radicals Supplement"
 msgstr "Дополнительные иероглифические ключи ККЯ"
 
@@ -973,7 +974,7 @@ msgstr "Дополнительные иероглифические ключи �
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Kangxi Radicals"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Kangxi Radicals"
 msgstr "Канси сүзлегенең иероглифик ачкычлары"
 
@@ -981,7 +982,7 @@ msgstr "Канси сүзлегенең иероглифик ачкычлары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Ideographic Description Characters"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Ideographic Description Characters"
 msgstr "Символы идеографического описания"
 
@@ -989,7 +990,7 @@ msgstr "Символы идеографического описания"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "CJK Symbols and Punctuation"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "CJK Symbols and Punctuation"
 msgstr "Символы и пунктуация ККЯ"
 
@@ -997,7 +998,7 @@ msgstr "Символы и пунктуация ККЯ"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Hiragana"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Hiragana"
 msgstr "Хирагана"
 
@@ -1005,7 +1006,7 @@ msgstr "Хирагана"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Katakana"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Katakana"
 msgstr "Катакана"
 
@@ -1013,7 +1014,7 @@ msgstr "Катакана"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Bopomofo"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Bopomofo"
 msgstr "Бопомофо"
 
@@ -1021,7 +1022,7 @@ msgstr "Бопомофо"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Hangul Compatibility Jamo"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Hangul Compatibility Jamo"
 msgstr "Җамо белән туры килүче һангыл"
 
@@ -1029,7 +1030,7 @@ msgstr "Җамо белән туры килүче һангыл"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Kanbun"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Kanbun"
 msgstr "Камбун"
 
@@ -1037,7 +1038,7 @@ msgstr "Камбун"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Bopomofo Extended"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Bopomofo Extended"
 msgstr "Киңәйтелгән бопомофо (Кытай)"
 
@@ -1045,7 +1046,7 @@ msgstr "Киңәйтелгән бопомофо (Кытай)"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "CJK Strokes"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "CJK Strokes"
 msgstr "ККЯ сызымнары"
 
@@ -1053,7 +1054,7 @@ msgstr "ККЯ сызымнары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Katakana Phonetic Extensions"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Katakana Phonetic Extensions"
 msgstr "Катакананың фонетик киңәйтмәләре"
 
@@ -1061,7 +1062,7 @@ msgstr "Катакананың фонетик киңәйтмәләре"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Enclosed CJK Letters and Months"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Enclosed CJK Letters and Months"
 msgstr "Вложенные буквы и месяцы ККЯ"
 
@@ -1069,7 +1070,7 @@ msgstr "Вложенные буквы и месяцы ККЯ"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "CJK Compatibility"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "CJK Compatibility"
 msgstr "CJK - туры килүче тамгалары"
 
@@ -1077,7 +1078,7 @@ msgstr "CJK - туры килүче тамгалары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "CJK Unified Ideographs Extension A"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "CJK Unified Ideographs Extension A"
 msgstr "Бердәйләштергән ККЯ тамгалары (А киңәйтмәсе)"
 
@@ -1085,7 +1086,7 @@ msgstr "Бердәйләштергән ККЯ тамгалары (А киңәй�
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Yijing Hexagram Symbols"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Yijing Hexagram Symbols"
 msgstr "Ицзин гексаграммалары"
 
@@ -1093,7 +1094,7 @@ msgstr "Ицзин гексаграммалары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "CJK Unified Ideographs"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "CJK Unified Ideographs"
 msgstr "CJK - бердәйләштергән иероглифлар"
 
@@ -1101,7 +1102,7 @@ msgstr "CJK - бердәйләштергән иероглифлар"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Yi Syllables"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Yi Syllables"
 msgstr "«И» язмасының иҗекләре"
 
@@ -1109,7 +1110,7 @@ msgstr "«И» язмасының иҗекләре"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Yi Radicals"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Yi Radicals"
 msgstr "«И» язмасының иероглиф ачкычлары"
 
@@ -1117,7 +1118,7 @@ msgstr "«И» язмасының иероглиф ачкычлары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Lisu"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Lisu"
 msgstr "Лису язмасы"
 
@@ -1125,7 +1126,7 @@ msgstr "Лису язмасы"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Vai"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Vai"
 msgstr "Ваи язмасы"
 
@@ -1133,7 +1134,7 @@ msgstr "Ваи язмасы"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Cyrillic Extended-B"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Cyrillic Extended-B"
 msgstr "Кирилл әлифбасы (B киңәйтмәсе)"
 
@@ -1141,7 +1142,7 @@ msgstr "Кирилл әлифбасы (B киңәйтмәсе)"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Bamum"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Bamum"
 msgstr "Бамум язмасы"
 
@@ -1149,7 +1150,7 @@ msgstr "Бамум язмасы"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Modifier Tone Letters"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Modifier Tone Letters"
 msgstr "Тон үзгәрү тамгалары"
 
@@ -1157,7 +1158,7 @@ msgstr "Тон үзгәрү тамгалары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Latin Extended-D"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Latin Extended-D"
 msgstr "Киңәйтелгән латин әлифбасы-D"
 
@@ -1165,7 +1166,7 @@ msgstr "Киңәйтелгән латин әлифбасы-D"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Syloti Nagri"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Syloti Nagri"
 msgstr "Силоти Нагри"
 
@@ -1173,7 +1174,7 @@ msgstr "Силоти Нагри"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Common Indic Number Forms"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Common Indic Number Forms"
 msgstr "Һинд сан тамгалары"
 
@@ -1181,7 +1182,7 @@ msgstr "Һинд сан тамгалары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Phags-pa"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Phags-pa"
 msgstr "Шакмаклы Пагба-ламы язмасы"
 
@@ -1189,7 +1190,7 @@ msgstr "Шакмаклы Пагба-ламы язмасы"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Saurashtra"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Saurashtra"
 msgstr "Саураштра язмасы"
 
@@ -1197,7 +1198,7 @@ msgstr "Саураштра язмасы"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Devanagari Extended"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Devanagari Extended"
 msgstr "Деванагари киңәйтмәсе"
 
@@ -1205,7 +1206,7 @@ msgstr "Деванагари киңәйтмәсе"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Kayah Li"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Kayah Li"
 msgstr "Кайя Ли язмасы"
 
@@ -1213,7 +1214,7 @@ msgstr "Кайя Ли язмасы"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Rejang"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Rejang"
 msgstr "Реҗәнг язмасы"
 
@@ -1221,7 +1222,7 @@ msgstr "Реҗәнг язмасы"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Hangul Jamo Extended-A"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Hangul Jamo Extended-A"
 msgstr "Һангыл (A киңәйтмәсе)"
 
@@ -1229,7 +1230,7 @@ msgstr "Һангыл (A киңәйтмәсе)"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Javanese"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Javanese"
 msgstr "Яван язмасы"
 
@@ -1237,7 +1238,7 @@ msgstr "Яван язмасы"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Cham"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Cham"
 msgstr "Чам язмасы"
 
@@ -1245,7 +1246,7 @@ msgstr "Чам язмасы"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Myanmar Extended-A"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Myanmar Extended-A"
 msgstr "Мьянма язмасы (A киңәйтмәсе)"
 
@@ -1253,7 +1254,7 @@ msgstr "Мьянма язмасы (A киңәйтмәсе)"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Tai Viet"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Tai Viet"
 msgstr "Тай Вьет язмасы"
 
@@ -1261,7 +1262,7 @@ msgstr "Тай Вьет язмасы"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Ethiopic Extended"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Ethiopic Extended-A"
 msgstr "Расширенный набор символов эфиопского письма"
 
@@ -1269,7 +1270,7 @@ msgstr "Расширенный набор символов эфиопского 
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Meetei Mayek"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Meetei Mayek"
 msgstr "Манипури язмасы"
 
@@ -1277,7 +1278,7 @@ msgstr "Манипури язмасы"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Hangul Syllables"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Hangul Syllables"
 msgstr "Һангыл иҗекләре"
 
@@ -1285,7 +1286,7 @@ msgstr "Һангыл иҗекләре"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Hangul Jamo Extended-B"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Hangul Jamo Extended-B"
 msgstr "Һангыл (B киңәйтмәсе)"
 
@@ -1293,7 +1294,7 @@ msgstr "Һангыл (B киңәйтмәсе)"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "High Surrogates"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "High Surrogates"
 msgstr "Верхняя часть суррогатных пар"
 
@@ -1301,7 +1302,7 @@ msgstr "Верхняя часть суррогатных пар"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "High Private Use Surrogates"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "High Private Use Surrogates"
 msgstr "Верхняя часть суррогатных пар для частного использования"
 
@@ -1309,7 +1310,7 @@ msgstr "Верхняя часть суррогатных пар для част�
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Low Surrogates"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Low Surrogates"
 msgstr "Нижняя часть суррогатных пар"
 
@@ -1317,7 +1318,7 @@ msgstr "Нижняя часть суррогатных пар"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Private Use Area"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Private Use Area"
 msgstr "Шәхси тамгаларның өлкәсе"
 
@@ -1325,7 +1326,7 @@ msgstr "Шәхси тамгаларның өлкәсе"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "CJK Compatibility Ideographs"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "CJK Compatibility Ideographs"
 msgstr "ККЯ - туры килүче иероглифлар"
 
@@ -1333,7 +1334,7 @@ msgstr "ККЯ - туры килүче иероглифлар"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Alphabetic Presentation Forms"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Alphabetic Presentation Forms"
 msgstr "Декоративные варианты букв"
 
@@ -1341,7 +1342,7 @@ msgstr "Декоративные варианты букв"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Arabic Presentation Forms-A"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Arabic Presentation Forms-A"
 msgstr "Гарәп декоратив-A"
 
@@ -1349,7 +1350,7 @@ msgstr "Гарәп декоратив-A"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Variation Selectors"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Variation Selectors"
 msgstr "Селекторы вариантов начертания"
 
@@ -1357,7 +1358,7 @@ msgstr "Селекторы вариантов начертания"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Vertical Forms"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Vertical Forms"
 msgstr "Вертикальные формы"
 
@@ -1365,7 +1366,7 @@ msgstr "Вертикальные формы"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Combining Half Marks"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Combining Half Marks"
 msgstr "Дополняющие половинки"
 
@@ -1373,7 +1374,7 @@ msgstr "Дополняющие половинки"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "CJK Compatibility Forms"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "CJK Compatibility Forms"
 msgstr "ККЯ - туры килү төрләре"
 
@@ -1381,7 +1382,7 @@ msgstr "ККЯ - туры килү төрләре"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Small Form Variants"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Small Form Variants"
 msgstr "Кече зурлык вариантлары"
 
@@ -1389,7 +1390,7 @@ msgstr "Кече зурлык вариантлары"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Arabic Presentation Forms-B"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Arabic Presentation Forms-B"
 msgstr "Гарәп декоратив-B"
 
@@ -1397,7 +1398,7 @@ msgstr "Гарәп декоратив-B"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Halfwidth and Fullwidth Forms"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Halfwidth and Fullwidth Forms"
 msgstr "Полуширинные и полноширинные формы"
 
@@ -1405,7 +1406,7 @@ msgstr "Полуширинные и полноширинные формы"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Specials"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Specials"
 msgstr "Махсус тамгалар"
 
@@ -1680,267 +1681,259 @@ msgctxt "KCharSelectItemModel|Character"
 msgid "In decimal"
 msgstr "Унлы сүрәт:"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:278
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:274
 #, fuzzy
 #| msgid "<Non Private Use High Surrogate>"
 msgctxt "KCharSelectData|"
 msgid "<Non Private Use High Surrogate>"
 msgstr "<заменитель в верхнем регистре>"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:280
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:276
 #, fuzzy
 #| msgid "<Private Use High Surrogate>"
 msgctxt "KCharSelectData|"
 msgid "<Private Use High Surrogate>"
 msgstr "<пользовательский заменитель в верхнем регистре>"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:282
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:278
 #, fuzzy
 #| msgid "<Low Surrogate>"
 msgctxt "KCharSelectData|"
 msgid "<Low Surrogate>"
 msgstr "<заменитель в нижнем регистре>"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:284
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:280
 #, fuzzy
 #| msgid "<Private Use>"
 msgctxt "KCharSelectData|"
 msgid "<Private Use>"
 msgstr "<пользовательский символ>"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:315
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:311
 #, fuzzy
 #| msgid "<not assigned>"
 msgctxt "KCharSelectData|"
 msgid "<not assigned>"
 msgstr "<не присвоен>"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:651
-#, fuzzy
-#| msgctxt "KCharSelect section name"
-#| msgid "Combining Diacritical Marks"
-msgctxt "KCharSelectData|KCharSelect section name"
-msgid "Combining Diacritical Marks"
-msgstr "Тулыландыручы диакритик тамгалары"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:660
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:656
 #, fuzzy
 #| msgid "Non-printable"
 msgctxt "KCharSelectData|"
 msgid "Non-printable"
 msgstr "Басылмый торган"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:693
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:689
 #, fuzzy
 #| msgid "Other, Control"
 msgctxt "KCharSelectData|"
 msgid "Other, Control"
 msgstr "Төрле, идарә итүче"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:694
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:690
 #, fuzzy
 #| msgid "Other, Format"
 msgctxt "KCharSelectData|"
 msgid "Other, Format"
 msgstr "Төрле, форматлаучы"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:695
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:691
 #, fuzzy
 #| msgid "Other, Not Assigned"
 msgctxt "KCharSelectData|"
 msgid "Other, Not Assigned"
 msgstr "Төрле, бәйләнмәгән"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:696
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:692
 #, fuzzy
 #| msgid "Other, Private Use"
 msgctxt "KCharSelectData|"
 msgid "Other, Private Use"
 msgstr "Төрле, кулланучыныкы"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:697
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:693
 #, fuzzy
 #| msgid "Other, Surrogate"
 msgctxt "KCharSelectData|"
 msgid "Other, Surrogate"
 msgstr "Төрле, алмаштыручу"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:698
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:694
 #, fuzzy
 #| msgid "Letter, Lowercase"
 msgctxt "KCharSelectData|"
 msgid "Letter, Lowercase"
 msgstr "Хәреф, аскы регистр"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:699
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:695
 #, fuzzy
 #| msgid "Letter, Modifier"
 msgctxt "KCharSelectData|"
 msgid "Letter, Modifier"
 msgstr "Хәреф, модификатор"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:700
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:696
 #, fuzzy
 #| msgid "Letter, Other"
 msgctxt "KCharSelectData|"
 msgid "Letter, Other"
 msgstr "Хәреф, төрле"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:701
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:697
 #, fuzzy
 #| msgid "Letter, Titlecase"
 msgctxt "KCharSelectData|"
 msgid "Letter, Titlecase"
 msgstr "Хәреф, баш исем өчен"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:702
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:698
 #, fuzzy
 #| msgid "Letter, Uppercase"
 msgctxt "KCharSelectData|"
 msgid "Letter, Uppercase"
 msgstr "Хәреф, өске регистр"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:703
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:699
 #, fuzzy
 #| msgid "Mark, Spacing Combining"
 msgctxt "KCharSelectData|"
 msgid "Mark, Spacing Combining"
 msgstr "Билге, ара"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:704
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:700
 #, fuzzy
 #| msgid "Mark, Enclosing"
 msgctxt "KCharSelectData|"
 msgid "Mark, Enclosing"
 msgstr "Билге, ңәя эчендәге тамга"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:705
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:701
 #, fuzzy
 #| msgid "Mark, Non-Spacing"
 msgctxt "KCharSelectData|"
 msgid "Mark, Non-Spacing"
 msgstr "Билге, араларсыз"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:706
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:702
 #, fuzzy
 #| msgid "Number, Decimal Digit"
 msgctxt "KCharSelectData|"
 msgid "Number, Decimal Digit"
 msgstr "Сан, унлы"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:707
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:703
 #, fuzzy
 #| msgid "Number, Letter"
 msgctxt "KCharSelectData|"
 msgid "Number, Letter"
 msgstr "Сан, хәреф"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:708
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:704
 #, fuzzy
 #| msgid "Number, Other"
 msgctxt "KCharSelectData|"
 msgid "Number, Other"
 msgstr "Сан, төрле"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:709
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:705
 #, fuzzy
 #| msgid "Punctuation, Connector"
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Connector"
 msgstr "Пунктуация тамгасы, тоташтыручы"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:710
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:706
 #, fuzzy
 #| msgid "Punctuation, Dash"
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Dash"
 msgstr "Пунктуация тамгасы, озынсызык"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:711
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:707
 #, fuzzy
 #| msgid "Punctuation, Close"
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Close"
 msgstr "Пунктуация тамгасы, ябучы"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:712
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:708
 #, fuzzy
 #| msgid "Punctuation, Final Quote"
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Final Quote"
 msgstr "Пунктуация тамгасы, ябучы куштырнак"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:713
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:709
 #, fuzzy
 #| msgid "Punctuation, Initial Quote"
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Initial Quote"
 msgstr "Пунктуация тамгасы, ачучы куштырнак"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:714
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:710
 #, fuzzy
 #| msgid "Punctuation, Other"
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Other"
 msgstr "Пунктуация тамгасы, төрле"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:715
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:711
 #, fuzzy
 #| msgid "Punctuation, Open"
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Open"
 msgstr "Пунктуация тамгасы, ачучы"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:716
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:712
 #, fuzzy
 #| msgid "Symbol, Currency"
 msgctxt "KCharSelectData|"
 msgid "Symbol, Currency"
 msgstr "Тамга, валюта"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:717
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:713
 #, fuzzy
 #| msgid "Symbol, Modifier"
 msgctxt "KCharSelectData|"
 msgid "Symbol, Modifier"
 msgstr "Тамга, модификатор"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:718
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:714
 #, fuzzy
 #| msgid "Symbol, Math"
 msgctxt "KCharSelectData|"
 msgid "Symbol, Math"
 msgstr "Тамга, математик"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:719
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:715
 #, fuzzy
 #| msgid "Symbol, Other"
 msgctxt "KCharSelectData|"
 msgid "Symbol, Other"
 msgstr "Тамга, төрле"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:720
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:716
 #, fuzzy
 #| msgid "Separator, Line"
 msgctxt "KCharSelectData|"
 msgid "Separator, Line"
 msgstr "Бүлгеч, юл"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:721
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:717
 #, fuzzy
 #| msgid "Separator, Paragraph"
 msgctxt "KCharSelectData|"
 msgid "Separator, Paragraph"
 msgstr "Бүлгеч, кызыл юл"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:722
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:718
 #, fuzzy
 #| msgid "Separator, Space"
 msgctxt "KCharSelectData|"
 msgid "Separator, Space"
 msgstr "Бүлгеч, буш урын"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:723
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:719
 #, fuzzy
 #| msgid "Unknown"
 msgctxt "KCharSelectData|"
@@ -2771,6 +2764,13 @@ msgstr "Тулы экран"
 msgctxt "KToggleFullScreenAction|@info:tooltip"
 msgid "Display the window in full screen"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "KCharSelect section name"
+#~| msgid "Combining Diacritical Marks"
+#~ msgctxt "KSharSelect|KCharselect unicode block name"
+#~ msgid "Combining Diacritical Marks"
+#~ msgstr "Тулыландыручы диакритик тамгалары"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
