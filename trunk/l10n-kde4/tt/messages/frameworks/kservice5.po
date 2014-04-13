@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-06 01:53+0000\n"
+"POT-Creation-Date: 2014-04-13 01:46+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -195,17 +195,6 @@ msgstr "Терминал клиентын җибәреп булмый"
 msgid "No service implementing %1"
 msgstr ""
 
-#: plugin/kpluginloader.cpp:53
-#, kde-format
-msgid "Could not find plugin '%1' for application '%2'"
-msgstr "«%2» кушымтасының «%1» өстәлмәсе табылмады"
-
-#: plugin/kpluginloader.cpp:224
-#, fuzzy, kde-format
-#| msgid "The library %1 does not offer a KDE 4 compatible factory."
-msgid "The library %1 does not offer a KPluginFactory."
-msgstr "%1 китапханәсе KDE4 чолганышына туры килүче компонентларын ясый алмый."
-
 #: services/kservice.cpp:1028
 msgid "The provided service is not valid"
 msgstr "Ялгышлы хезмәт күрсәтелде"
@@ -217,6 +206,15 @@ msgstr "Ялгышлы хезмәт күрсәтелде"
 msgid "The service '%1' provides no library or the Library key is missing"
 msgstr ""
 "«%1» хезмәте китапханә белән тәэмин итә алмады яисә «Library» язуы табылмады "
+
+#~ msgid "Could not find plugin '%1' for application '%2'"
+#~ msgstr "«%2» кушымтасының «%1» өстәлмәсе табылмады"
+
+#, fuzzy
+#~| msgid "The library %1 does not offer a KDE 4 compatible factory."
+#~ msgid "The library %1 does not offer a KPluginFactory."
+#~ msgstr ""
+#~ "%1 китапханәсе KDE4 чолганышына туры килүче компонентларын ясый алмый."
 
 #~ msgid "Name"
 #~ msgstr "Исем"
