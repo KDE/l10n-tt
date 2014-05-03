@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-28 10:17+0000\n"
+"POT-Creation-Date: 2014-05-03 08:04+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -29,7 +29,7 @@ msgctxt "Comment"
 msgid "Embeddable HTML viewing component"
 msgstr "HTML карау өчен кушымта компоненты"
 
-#: src/khtml.desktop:8
+#: src/khtml.desktop:9
 msgctxt "Name"
 msgid "KHTML"
 msgstr "KHTML"
@@ -39,7 +39,7 @@ msgctxt "Comment"
 msgid "Embeddable Image Viewing Component"
 msgstr "Рәсем караү өчен кушымта компоненты"
 
-#: src/khtmlimage.desktop:7
+#: src/khtmlimage.desktop:8
 msgctxt "Name"
 msgid "Embeddable Image Viewer"
 msgstr "Сурәт өчен кушымта компоненты"
