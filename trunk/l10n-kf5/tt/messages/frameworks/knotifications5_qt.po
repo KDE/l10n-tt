@@ -120,7 +120,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ "KDEPIM/Kontact төргәген урнаштырыгыз."
 
 #, fuzzy
-#~| msgid "Test"
 #~ msgid "TETest"
 #~ msgstr "Тикшерү"
 
@@ -812,7 +811,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "Максатлы каталогка язу рөхсәте юк."
 
 #, fuzzy
-#~| msgid "Unable to open temporary file."
 #~ msgid "Unable to open temporary file. Error was: %1."
 #~ msgstr "Вакытлы файлны ачып булмады."
 
@@ -2511,8 +2509,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "Ялгышлы хезмәт күрсәтелде"
 
 #, fuzzy
-#~| msgid ""
-#~| "The service '%1' provides no library or the Library key is missing in "
 #~ msgid "The service '%1' provides no library or the Library key is missing"
 #~ msgstr ""
 #~ "«%1» хезмәте китапханә белән тәэмин итә алмады яисә «Library» язуы "
@@ -2625,9 +2621,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "Торыш юлын ч&агылдыру"
 
 #, fuzzy
-#~| msgid ""
-#~| "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
-#~| "the window used for status information.</p>"
 #~ msgid ""
 #~ "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
 #~ "the window used for status information.</p>"
@@ -2639,8 +2632,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "&Новый"
 
 #, fuzzy
-#~| msgctxt "@label"
-#~| msgid "Create new tag:"
 #~ msgid "Create new document"
 #~ msgstr "Яңа тег:"
 
@@ -2654,7 +2645,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "&Саклау"
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgid "Save document"
 #~ msgstr "Документны ябу"
 
@@ -2668,7 +2658,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "&Ябу"
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgid "Close document"
 #~ msgstr "Документны ябу"
 
@@ -2676,8 +2665,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "Бас&тыру..."
 
 #, fuzzy
-#~| msgctxt "keyboard-key-name"
-#~| msgid "PrintScreen"
 #~ msgid "Print document"
 #~ msgstr "PrintScreen"
 
@@ -2697,10 +2684,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "&Кабатлау"
 
 #, fuzzy
-#~| msgctxt ""
-#~| "A link to make a donation for a Get Hot New Stuff item (opens a web "
-#~| "browser)"
-#~| msgid "Make a donation"
 #~ msgid "Redo last undone action"
 #~ msgstr "Иганә ясау"
 
@@ -2714,7 +2697,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "&Кертеп кую"
 
 #, fuzzy
-#~| msgid "Upload content"
 #~ msgid "Paste clipboard content"
 #~ msgstr "Әсбапларны серверга тапшыру"
 
@@ -2761,7 +2743,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "&Масштаб..."
 
 #, fuzzy
-#~| msgid "Select a week"
 #~ msgid "Select zoom level"
 #~ msgstr "Атнаны сайлагыз"
 
@@ -2769,7 +2750,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "Сурәтне &яңарту"
 
 #, fuzzy
-#~| msgid "&Redisplay"
 #~ msgid "Redisplay document"
 #~ msgstr "Сурәтне &яңарту"
 
@@ -2780,7 +2760,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "&Алдынгы бит"
 
 #, fuzzy
-#~| msgid "&Previous Page"
 #~ msgid "Go to previous page"
 #~ msgstr "&Алдынгы бит"
 
@@ -2788,8 +2767,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "&Киләсе бит"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Go to Line"
 #~ msgid "Go to next page"
 #~ msgstr "Юлга күчү"
 
@@ -2806,8 +2783,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "Бер&енче бит"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Go to Line"
 #~ msgid "Go to first page"
 #~ msgstr "Юлга күчү"
 
@@ -2815,23 +2790,18 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "Соңгы &бит"
 
 #, fuzzy
-#~| msgid "&Go to Page..."
 #~ msgid "Go to last page"
 #~ msgstr "Биткә &күчү..."
 
 #, fuzzy
-#~| msgid "&Back in the Document"
 #~ msgid "Go back in document"
 #~ msgstr "&Документы буенча артка кайту"
 
 #, fuzzy
-#~| msgctxt "go forward"
-#~| msgid "&Forward"
 #~ msgid "&Forward"
 #~ msgstr "&Алга бару"
 
 #, fuzzy
-#~| msgid "&Forward in the Document"
 #~ msgid "Go forward in document"
 #~ msgstr "&Документ буенча алга бару"
 
@@ -2845,12 +2815,10 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "&Дөрес язылышны тикшерү..."
 
 #, fuzzy
-#~| msgid "Check Spelling"
 #~ msgid "Check spelling in document"
 #~ msgstr "Дөрес язылышны тикшерү"
 
 #, fuzzy
-#~| msgid "Show &Menubar"
 #~ msgid "Show or hide menubar"
 #~ msgstr "Менюны &чагылдыру"
 
@@ -2858,14 +2826,10 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "Кораллар панелен &күрсәтү"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Show Toolbar"
 #~ msgid "Show or hide toolbar"
 #~ msgstr "Кораллар панелен күрсәтү"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Show Statusbar"
 #~ msgid "Show or hide statusbar"
 #~ msgstr "Торыш юлын күрсәтү"
 
@@ -2909,31 +2873,26 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "KDE &турында"
 
 #, fuzzy
-#~| msgid "Exit F&ull Screen Mode"
 #~ msgctxt "@action:inmenu"
 #~ msgid "Exit F&ull Screen Mode"
 #~ msgstr "&Тулы экранлы режимнан чыгу"
 
 #, fuzzy
-#~| msgid "Exit Full Screen"
 #~ msgctxt "@action:intoolbar"
 #~ msgid "Exit Full Screen"
 #~ msgstr "Тулы экраннан чыгу"
 
 #, fuzzy
-#~| msgid "Exit F&ull Screen Mode"
 #~ msgctxt "@info:tooltip"
 #~ msgid "Exit full screen mode"
 #~ msgstr "&Тулы экранлы режимнан чыгу"
 
 #, fuzzy
-#~| msgid "F&ull Screen Mode"
 #~ msgctxt "@action:inmenu"
 #~ msgid "F&ull Screen Mode"
 #~ msgstr "&Тулы экранлы режим"
 
 #, fuzzy
-#~| msgid "Full Screen"
 #~ msgctxt "@action:intoolbar"
 #~ msgid "Full Screen"
 #~ msgstr "Тулы экран"
@@ -3767,7 +3726,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "Кулланучы исемен һәм серсүзен җыегыз."
 
 #, fuzzy
-#~| msgid "&Keep password"
 #~ msgid "Use this password:"
 #~ msgstr "Серсүзне сак&лау"
 
@@ -5489,8 +5447,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "Сунданез"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Katakana"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Batak"
 #~ msgstr "Катакана"
@@ -5804,8 +5760,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "Тай Вьет язмасы"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Ethiopic Extended"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Ethiopic Extended-A"
 #~ msgstr "Расширенный набор символов эфиопского письма"
@@ -6590,7 +6544,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "Меню панели инструментов"
 
 #, fuzzy
-#~| msgid "Orientation"
 #~ msgctxt "Toolbar orientation"
 #~ msgid "Orientation"
 #~ msgstr "Урнашу"
@@ -7915,7 +7868,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ "%2"
 
 #, fuzzy
-#~| msgid "KDEInit could not launch '%1'."
 #~ msgid "KDEInit could not launch '%1'"
 #~ msgstr "KDEInit '%1 кушымтасын җибәрә алмый."
 
@@ -8527,11 +8479,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "Үзегез турында мәгълүмат бирегез."
 
 #, fuzzy
-#~| msgctxt ""
-#~| "the price of a download item, parameter 1 is the currency, 2 is the price"
-#~| msgid ""
-#~| "This items costs %1 %2.\n"
-#~| "Do you want to buy it?"
 #~ msgctxt ""
 #~ "the price of a download item, parameter 1 is the currency, 2 is the price"
 #~ msgid ""
@@ -8634,7 +8581,6 @@ msgstr "Хәбәр итү өлкәсеннән чыгуны раслагыз"
 #~ msgstr "Булган файлны алыштырыргамы?"
 
 #, fuzzy
-#~| msgid "Download File:"
 #~ msgid "Download File"
 #~ msgstr "Файлны кабул итү: "
 

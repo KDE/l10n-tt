@@ -27,115 +27,96 @@ msgid "Desktop %1"
 msgstr "%1 эш өстәле"
 
 #, fuzzy
-#~| msgid "Desktop %1"
 #~ msgctxt "QObject|"
 #~ msgid "Desktop %1"
 #~ msgstr "%1 эш өстәле"
 
 #, fuzzy
-#~| msgid "Backspace"
 #~ msgctxt "KKeyServer|"
 #~ msgid "Backspace"
 #~ msgstr "Клавиша Backspace"
 
 #, fuzzy
-#~| msgid "SysReq"
 #~ msgctxt "KKeyServer|"
 #~ msgid "SysReq"
 #~ msgstr "SysReq"
 
 #, fuzzy
-#~| msgid "CapsLock"
 #~ msgctxt "KKeyServer|"
 #~ msgid "CapsLock"
 #~ msgstr "CapsLock"
 
 #, fuzzy
-#~| msgid "NumLock"
 #~ msgctxt "KKeyServer|"
 #~ msgid "NumLock"
 #~ msgstr "NumLock"
 
 #, fuzzy
-#~| msgid "ScrollLock"
 #~ msgctxt "KKeyServer|"
 #~ msgid "ScrollLock"
 #~ msgstr "ScrollLock"
 
 #, fuzzy
-#~| msgid "PageUp"
 #~ msgctxt "KKeyServer|"
 #~ msgid "PageUp"
 #~ msgstr "PageUp"
 
 #, fuzzy
-#~| msgid "PageDown"
 #~ msgctxt "KKeyServer|"
 #~ msgid "PageDown"
 #~ msgstr "PageDown"
 
 #, fuzzy
-#~| msgid "Stop"
 #~ msgctxt "KKeyServer|"
 #~ msgid "Stop"
 #~ msgstr "Туктату"
 
 #, fuzzy
-#~| msgid "Again"
 #~ msgctxt "KKeyServer|"
 #~ msgid "Again"
 #~ msgstr "Яңадан"
 
 #, fuzzy
-#~| msgid "Props"
 #~ msgctxt "KKeyServer|"
 #~ msgid "Props"
 #~ msgstr "Сыйфатлар"
 
 #, fuzzy
-#~| msgid "Undo"
 #~ msgctxt "KKeyServer|"
 #~ msgid "Undo"
 #~ msgstr "Кире кагу"
 
 #, fuzzy
-#~| msgid "Front"
 #~ msgctxt "KKeyServer|"
 #~ msgid "Front"
 #~ msgstr "Фронт"
 
 #, fuzzy
-#~| msgid "Copy"
 #~ msgctxt "KKeyServer|"
 #~ msgid "Copy"
 #~ msgstr "Күчереп язу"
 
 #, fuzzy
-#~| msgid "Open"
 #~ msgctxt "KKeyServer|"
 #~ msgid "Open"
 #~ msgstr "Ачу"
 
 #, fuzzy
-#~| msgid "Paste"
 #~ msgctxt "KKeyServer|"
 #~ msgid "Paste"
 #~ msgstr "Кую"
 
 #, fuzzy
-#~| msgid "Find"
 #~ msgctxt "KKeyServer|"
 #~ msgid "Find"
 #~ msgstr "Эзләү"
 
 #, fuzzy
-#~| msgid "Cut"
 #~ msgctxt "KKeyServer|"
 #~ msgid "Cut"
 #~ msgstr "Кисү"
 
 #, fuzzy
-#~| msgid "Print"
 #~ msgctxt "KKeyServer|"
 #~ msgid "Print"
 #~ msgstr "Бастыру"
@@ -200,7 +181,6 @@ msgstr "%1 эш өстәле"
 #~ "KDEPIM/Kontact төргәген урнаштырыгыз."
 
 #, fuzzy
-#~| msgid "Test"
 #~ msgid "TETest"
 #~ msgstr "Тикшерү"
 
@@ -892,7 +872,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "Максатлы каталогка язу рөхсәте юк."
 
 #, fuzzy
-#~| msgid "Unable to open temporary file."
 #~ msgid "Unable to open temporary file. Error was: %1."
 #~ msgstr "Вакытлы файлны ачып булмады."
 
@@ -2591,8 +2570,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "Ялгышлы хезмәт күрсәтелде"
 
 #, fuzzy
-#~| msgid ""
-#~| "The service '%1' provides no library or the Library key is missing in "
 #~ msgid "The service '%1' provides no library or the Library key is missing"
 #~ msgstr ""
 #~ "«%1» хезмәте китапханә белән тәэмин итә алмады яисә «Library» язуы "
@@ -2705,9 +2682,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "Торыш юлын ч&агылдыру"
 
 #, fuzzy
-#~| msgid ""
-#~| "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
-#~| "the window used for status information.</p>"
 #~ msgid ""
 #~ "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
 #~ "the window used for status information.</p>"
@@ -2719,8 +2693,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "&Новый"
 
 #, fuzzy
-#~| msgctxt "@label"
-#~| msgid "Create new tag:"
 #~ msgid "Create new document"
 #~ msgstr "Яңа тег:"
 
@@ -2734,7 +2706,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "&Саклау"
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgid "Save document"
 #~ msgstr "Документны ябу"
 
@@ -2748,7 +2719,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "&Ябу"
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgid "Close document"
 #~ msgstr "Документны ябу"
 
@@ -2756,8 +2726,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "Бас&тыру..."
 
 #, fuzzy
-#~| msgctxt "keyboard-key-name"
-#~| msgid "PrintScreen"
 #~ msgid "Print document"
 #~ msgstr "PrintScreen"
 
@@ -2777,10 +2745,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "&Кабатлау"
 
 #, fuzzy
-#~| msgctxt ""
-#~| "A link to make a donation for a Get Hot New Stuff item (opens a web "
-#~| "browser)"
-#~| msgid "Make a donation"
 #~ msgid "Redo last undone action"
 #~ msgstr "Иганә ясау"
 
@@ -2794,7 +2758,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "&Кертеп кую"
 
 #, fuzzy
-#~| msgid "Upload content"
 #~ msgid "Paste clipboard content"
 #~ msgstr "Әсбапларны серверга тапшыру"
 
@@ -2841,7 +2804,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "&Масштаб..."
 
 #, fuzzy
-#~| msgid "Select a week"
 #~ msgid "Select zoom level"
 #~ msgstr "Атнаны сайлагыз"
 
@@ -2849,7 +2811,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "Сурәтне &яңарту"
 
 #, fuzzy
-#~| msgid "&Redisplay"
 #~ msgid "Redisplay document"
 #~ msgstr "Сурәтне &яңарту"
 
@@ -2860,7 +2821,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "&Алдынгы бит"
 
 #, fuzzy
-#~| msgid "&Previous Page"
 #~ msgid "Go to previous page"
 #~ msgstr "&Алдынгы бит"
 
@@ -2868,8 +2828,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "&Киләсе бит"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Go to Line"
 #~ msgid "Go to next page"
 #~ msgstr "Юлга күчү"
 
@@ -2886,8 +2844,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "Бер&енче бит"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Go to Line"
 #~ msgid "Go to first page"
 #~ msgstr "Юлга күчү"
 
@@ -2895,23 +2851,18 @@ msgstr "%1 эш өстәле"
 #~ msgstr "Соңгы &бит"
 
 #, fuzzy
-#~| msgid "&Go to Page..."
 #~ msgid "Go to last page"
 #~ msgstr "Биткә &күчү..."
 
 #, fuzzy
-#~| msgid "&Back in the Document"
 #~ msgid "Go back in document"
 #~ msgstr "&Документы буенча артка кайту"
 
 #, fuzzy
-#~| msgctxt "go forward"
-#~| msgid "&Forward"
 #~ msgid "&Forward"
 #~ msgstr "&Алга бару"
 
 #, fuzzy
-#~| msgid "&Forward in the Document"
 #~ msgid "Go forward in document"
 #~ msgstr "&Документ буенча алга бару"
 
@@ -2925,12 +2876,10 @@ msgstr "%1 эш өстәле"
 #~ msgstr "&Дөрес язылышны тикшерү..."
 
 #, fuzzy
-#~| msgid "Check Spelling"
 #~ msgid "Check spelling in document"
 #~ msgstr "Дөрес язылышны тикшерү"
 
 #, fuzzy
-#~| msgid "Show &Menubar"
 #~ msgid "Show or hide menubar"
 #~ msgstr "Менюны &чагылдыру"
 
@@ -2938,14 +2887,10 @@ msgstr "%1 эш өстәле"
 #~ msgstr "Кораллар панелен &күрсәтү"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Show Toolbar"
 #~ msgid "Show or hide toolbar"
 #~ msgstr "Кораллар панелен күрсәтү"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Show Statusbar"
 #~ msgid "Show or hide statusbar"
 #~ msgstr "Торыш юлын күрсәтү"
 
@@ -2989,31 +2934,26 @@ msgstr "%1 эш өстәле"
 #~ msgstr "KDE &турында"
 
 #, fuzzy
-#~| msgid "Exit F&ull Screen Mode"
 #~ msgctxt "@action:inmenu"
 #~ msgid "Exit F&ull Screen Mode"
 #~ msgstr "&Тулы экранлы режимнан чыгу"
 
 #, fuzzy
-#~| msgid "Exit Full Screen"
 #~ msgctxt "@action:intoolbar"
 #~ msgid "Exit Full Screen"
 #~ msgstr "Тулы экраннан чыгу"
 
 #, fuzzy
-#~| msgid "Exit F&ull Screen Mode"
 #~ msgctxt "@info:tooltip"
 #~ msgid "Exit full screen mode"
 #~ msgstr "&Тулы экранлы режимнан чыгу"
 
 #, fuzzy
-#~| msgid "F&ull Screen Mode"
 #~ msgctxt "@action:inmenu"
 #~ msgid "F&ull Screen Mode"
 #~ msgstr "&Тулы экранлы режим"
 
 #, fuzzy
-#~| msgid "Full Screen"
 #~ msgctxt "@action:intoolbar"
 #~ msgid "Full Screen"
 #~ msgstr "Тулы экран"
@@ -3847,7 +3787,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "Кулланучы исемен һәм серсүзен җыегыз."
 
 #, fuzzy
-#~| msgid "&Keep password"
 #~ msgid "Use this password:"
 #~ msgstr "Серсүзне сак&лау"
 
@@ -5530,8 +5469,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "Сунданез"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Katakana"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Batak"
 #~ msgstr "Катакана"
@@ -5845,8 +5782,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "Тай Вьет язмасы"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Ethiopic Extended"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Ethiopic Extended-A"
 #~ msgstr "Расширенный набор символов эфиопского письма"
@@ -6631,7 +6566,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "Меню панели инструментов"
 
 #, fuzzy
-#~| msgid "Orientation"
 #~ msgctxt "Toolbar orientation"
 #~ msgid "Orientation"
 #~ msgstr "Урнашу"
@@ -7953,7 +7887,6 @@ msgstr "%1 эш өстәле"
 #~ "%2"
 
 #, fuzzy
-#~| msgid "KDEInit could not launch '%1'."
 #~ msgid "KDEInit could not launch '%1'"
 #~ msgstr "KDEInit '%1 кушымтасын җибәрә алмый."
 
@@ -8568,11 +8501,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "Үзегез турында мәгълүмат бирегез."
 
 #, fuzzy
-#~| msgctxt ""
-#~| "the price of a download item, parameter 1 is the currency, 2 is the price"
-#~| msgid ""
-#~| "This items costs %1 %2.\n"
-#~| "Do you want to buy it?"
 #~ msgctxt ""
 #~ "the price of a download item, parameter 1 is the currency, 2 is the price"
 #~ msgid ""
@@ -8675,7 +8603,6 @@ msgstr "%1 эш өстәле"
 #~ msgstr "Булган файлны алыштырыргамы?"
 
 #, fuzzy
-#~| msgid "Download File:"
 #~ msgid "Download File"
 #~ msgstr "Файлны кабул итү: "
 
