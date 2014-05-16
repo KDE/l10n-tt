@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-05-14 08:07+0000\n"
+"POT-Creation-Date: 2014-05-16 07:59+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -10733,7 +10733,7 @@ msgstr "Аңлатма өстәргә"
 msgid "Device name"
 msgstr ""
 
-#: kio/kdirselectdialog.cpp:132
+#: kio/kdirselectdialog.cpp:135
 #, fuzzy
 #| msgid "%1 folder"
 #| msgid_plural "%1 folders"
@@ -10741,7 +10741,7 @@ msgctxt "folder name"
 msgid "New Folder"
 msgstr "%1 каталогы"
 
-#: kio/kdirselectdialog.cpp:137
+#: kio/kdirselectdialog.cpp:140
 #, fuzzy
 #| msgid "%1 folder"
 #| msgid_plural "%1 folders"
@@ -10749,7 +10749,7 @@ msgctxt "@title:window"
 msgid "New Folder"
 msgstr "%1 каталогы"
 
-#: kio/kdirselectdialog.cpp:138
+#: kio/kdirselectdialog.cpp:141
 #, fuzzy, kde-format
 #| msgctxt "@label"
 #| msgid "Create new tag:"
@@ -10759,53 +10759,53 @@ msgid ""
 "%1"
 msgstr "Яңа тег:"
 
-#: kio/kdirselectdialog.cpp:168
+#: kio/kdirselectdialog.cpp:171
 #, fuzzy, kde-format
 #| msgid "A scheme with this name already exists."
 msgid "A file or folder named %1 already exists."
 msgstr "Мондый исемле схема инде бар."
 
-#: kio/kdirselectdialog.cpp:171
+#: kio/kdirselectdialog.cpp:174
 msgid "You do not have permission to create that folder."
 msgstr ""
 
-#: kio/kdirselectdialog.cpp:286
+#: kio/kdirselectdialog.cpp:289
 #, fuzzy
 #| msgid "Select Color"
 msgctxt "@title:window"
 msgid "Select Folder"
 msgstr "Төсне сайлагыз"
 
-#: kio/kdirselectdialog.cpp:295
+#: kio/kdirselectdialog.cpp:298
 msgctxt "@action:button"
 msgid "New Folder..."
 msgstr ""
 
-#: kio/kdirselectdialog.cpp:341
+#: kio/kdirselectdialog.cpp:344
 msgctxt "@action:inmenu"
 msgid "New Folder..."
 msgstr ""
 
-#: kio/kdirselectdialog.cpp:348
+#: kio/kdirselectdialog.cpp:351
 msgctxt "@action:inmenu"
 msgid "Move to Trash"
 msgstr ""
 
-#: kio/kdirselectdialog.cpp:355
+#: kio/kdirselectdialog.cpp:358
 #, fuzzy
 #| msgid "Delete"
 msgctxt "@action:inmenu"
 msgid "Delete"
 msgstr "Бетерү"
 
-#: kio/kdirselectdialog.cpp:364
+#: kio/kdirselectdialog.cpp:367
 #, fuzzy
 #| msgid "Show hidden files"
 msgctxt "@option:check"
 msgid "Show Hidden Folders"
 msgstr "Качырылган файлларны чагылдыру"
 
-#: kio/kdirselectdialog.cpp:371
+#: kio/kdirselectdialog.cpp:374
 #, fuzzy
 #| msgid "Properties"
 msgctxt "@action:inmenu"
