@@ -2481,7 +2481,7 @@ msgctxt "KMessageWidget|"
 msgid "Close message"
 msgstr "Хәбәрне ябу"
 
-#: knewpassworddialog.cpp:69
+#: knewpassworddialog.cpp:73
 #, fuzzy
 #| msgid ""
 #| "The password strength meter gives an indication of the security of the "
@@ -2505,14 +2505,14 @@ msgstr ""
 "- хәрефләрдән тыш анда саннар һәм махсус билгеләр (мәс. %, ?...) керергә "
 "тиеш."
 
-#: knewpassworddialog.cpp:157
+#: knewpassworddialog.cpp:161
 #, fuzzy
 #| msgid "Password is empty"
 msgctxt "KNewPasswordDialog|"
 msgid "Password is empty"
 msgstr "Серсүз буш"
 
-#: knewpassworddialog.cpp:163
+#: knewpassworddialog.cpp:167
 #, fuzzy, qt-format
 #| msgid "Password must be at least 1 character long"
 #| msgid_plural "Password must be at least %1 characters long"
@@ -2522,35 +2522,35 @@ msgid_plural "Password must be at least %n character(s) long"
 msgstr[0] "Серсүзнең озынлыгы 1 тамгадан зуррак булырга тиеш."
 msgstr[1] "Серсүзнең озынлыгы 1 тамгадан зуррак булырга тиеш."
 
-#: knewpassworddialog.cpp:166
+#: knewpassworddialog.cpp:170
 #, fuzzy
 #| msgid "Passwords match"
 msgctxt "KNewPasswordDialog|"
 msgid "Passwords match"
 msgstr "Серсүзләр туры килә"
 
-#: knewpassworddialog.cpp:167 knewpassworddialog.ui:112
+#: knewpassworddialog.cpp:171 knewpassworddialog.ui:112
 #, fuzzy
 #| msgid "Passwords do not match"
 msgctxt "KNewPasswordDialog|"
 msgid "Passwords do not match"
 msgstr "Серсүзләр туры килми"
 
-#: knewpassworddialog.cpp:222
+#: knewpassworddialog.cpp:226
 #, fuzzy
 #| msgid "You entered two different passwords. Please try again."
 msgctxt "KNewPasswordDialog|"
 msgid "You entered two different passwords. Please try again."
 msgstr "Кертелгән серсүзләр туры килми. Тагын бер мәртәбә җыеп карагыз."
 
-#: knewpassworddialog.cpp:232
+#: knewpassworddialog.cpp:236
 #, fuzzy
 #| msgid "Low Password Strength"
 msgctxt "KNewPasswordDialog|"
 msgid "Low Password Strength"
 msgstr "Бик ышанычлы серсүз түгел"
 
-#: knewpassworddialog.cpp:233
+#: knewpassworddialog.cpp:237
 #, fuzzy
 #| msgid ""
 #| "The password you have entered has a low strength. To improve the strength "
@@ -2599,7 +2599,7 @@ msgctxt "KNewPasswordDialog|"
 msgid "Password strength meter:"
 msgstr "Серсүзнең көче:"
 
-#: kpassworddialog.cpp:64
+#: kpassworddialog.cpp:65
 #, fuzzy
 #| msgid "Password"
 msgctxt "KPasswordDialog|"
