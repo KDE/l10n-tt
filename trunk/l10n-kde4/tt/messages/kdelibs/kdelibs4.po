@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-06-03 01:44+0000\n"
+"POT-Creation-Date: 2014-06-19 01:42+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -998,7 +998,7 @@ msgid "DBus Backend error: received corrupt data from helper %1 %2"
 msgstr ""
 "DBus хезмәтенең эчке хатасы: эшкәртүчедән ватык мәгълумат кабул ителде. %1 %2"
 
-#: kdecore/config/kconfig.cpp:833
+#: kdecore/config/kconfig.cpp:837
 msgid "Please contact your system administrator."
 msgstr "Системаның администраторы белән элемтәгә керегез."
 
