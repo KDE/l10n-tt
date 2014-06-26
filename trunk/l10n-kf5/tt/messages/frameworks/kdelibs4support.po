@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-05-16 07:59+0000\n"
+"POT-Creation-Date: 2014-06-26 08:07+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1140,17 +1140,6 @@ msgid "YellowGreen"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "@item font"
-#| msgid "Italic"
-msgctxt "color"
-msgid "alice"
-msgstr "Курсив"
-
-msgctxt "color"
-msgid "antique"
-msgstr ""
-
-#, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Samaritan"
 msgctxt "color"
@@ -1222,10 +1211,6 @@ msgid "black"
 msgstr ""
 
 msgctxt "color"
-msgid "blanched"
-msgstr ""
-
-msgctxt "color"
 msgid "blue"
 msgstr ""
 
@@ -1283,10 +1268,6 @@ msgstr ""
 
 msgctxt "color"
 msgid "burlywood4"
-msgstr ""
-
-msgctxt "color"
-msgid "cadet"
 msgstr ""
 
 msgctxt "color"
@@ -1350,10 +1331,6 @@ msgid "coral4"
 msgstr ""
 
 msgctxt "color"
-msgid "cornflower"
-msgstr ""
-
-msgctxt "color"
 msgid "cornsilk"
 msgstr ""
 
@@ -1394,25 +1371,6 @@ msgid "cyan4"
 msgstr ""
 
 msgctxt "color"
-msgid "dark"
-msgstr ""
-
-msgctxt "color"
-msgid "deep"
-msgstr ""
-
-#, fuzzy
-#| msgctxt "dictionary variant"
-#| msgid "medium"
-msgctxt "color"
-msgid "dim"
-msgstr "уртак"
-
-msgctxt "color"
-msgid "dodger"
-msgstr ""
-
-msgctxt "color"
 msgid "firebrick"
 msgstr ""
 
@@ -1433,21 +1391,7 @@ msgid "firebrick4"
 msgstr ""
 
 msgctxt "color"
-msgid "floral"
-msgstr ""
-
-#, fuzzy
-#| msgid "Before"
-msgctxt "color"
-msgid "forest"
-msgstr "Моңа кадәр"
-
-msgctxt "color"
 msgid "gainsboro"
-msgstr ""
-
-msgctxt "color"
-msgid "ghost"
 msgstr ""
 
 msgctxt "color"
@@ -1541,14 +1485,6 @@ msgid "honeydew4"
 msgstr ""
 
 msgctxt "color"
-msgid "hot"
-msgstr ""
-
-msgctxt "color"
-msgid "indian"
-msgstr ""
-
-msgctxt "color"
 msgid "ivory"
 msgstr ""
 
@@ -1590,25 +1526,6 @@ msgstr ""
 
 msgctxt "color"
 msgid "lavender"
-msgstr ""
-
-msgctxt "color"
-msgid "lawn"
-msgstr ""
-
-msgctxt "color"
-msgid "lemon"
-msgstr ""
-
-#, fuzzy
-#| msgctxt "keyboard-key-name"
-#| msgid "Right"
-msgctxt "color"
-msgid "light"
-msgstr "Уң кыры буенча"
-
-msgctxt "color"
-msgid "lime"
 msgstr ""
 
 #, fuzzy
@@ -1660,49 +1577,12 @@ msgctxt "color"
 msgid "maroon4"
 msgstr ""
 
-#, fuzzy
-#| msgctxt "dictionary variant"
-#| msgid "medium"
-msgctxt "color"
-msgid "medium"
-msgstr "уртак"
-
-#, fuzzy
-#| msgctxt "keyboard-key-name"
-#| msgid "Right"
-msgctxt "color"
-msgid "midnight"
-msgstr "Уң кыры буенча"
-
-msgctxt "color"
-msgid "mint"
-msgstr ""
-
-msgctxt "color"
-msgid "misty"
-msgstr ""
-
 msgctxt "color"
 msgid "moccasin"
 msgstr ""
 
 msgctxt "color"
-msgid "navajo"
-msgstr ""
-
-msgctxt "color"
 msgid "navy"
-msgstr ""
-
-#, fuzzy
-#| msgctxt "@item font"
-#| msgid "Bold"
-msgctxt "color"
-msgid "old"
-msgstr "Калын"
-
-msgctxt "color"
-msgid "olive"
 msgstr ""
 
 msgctxt "color"
@@ -1743,18 +1623,6 @@ msgstr ""
 
 msgctxt "color"
 msgid "orchid4"
-msgstr ""
-
-msgctxt "color"
-msgid "pale"
-msgstr ""
-
-msgctxt "color"
-msgid "papaya"
-msgstr ""
-
-msgctxt "color"
-msgid "peach"
 msgstr ""
 
 msgctxt "color"
@@ -1802,10 +1670,6 @@ msgid "plum4"
 msgstr ""
 
 msgctxt "color"
-msgid "powder"
-msgstr ""
-
-msgctxt "color"
 msgid "purple"
 msgstr ""
 
@@ -1846,18 +1710,6 @@ msgid "red4"
 msgstr ""
 
 msgctxt "color"
-msgid "rosy"
-msgstr ""
-
-msgctxt "color"
-msgid "royal"
-msgstr ""
-
-msgctxt "color"
-msgid "saddle"
-msgstr ""
-
-msgctxt "color"
 msgid "salmon"
 msgstr ""
 
@@ -1875,14 +1727,6 @@ msgstr ""
 
 msgctxt "color"
 msgid "salmon4"
-msgstr ""
-
-msgctxt "color"
-msgid "sandy"
-msgstr ""
-
-msgctxt "color"
-msgid "sea"
 msgstr ""
 
 msgctxt "color"
@@ -1926,16 +1770,6 @@ msgid "sienna4"
 msgstr ""
 
 msgctxt "color"
-msgid "sky"
-msgstr ""
-
-#, fuzzy
-#| msgid "Translate"
-msgctxt "color"
-msgid "slate"
-msgstr "Тәрҗемә итү"
-
-msgctxt "color"
 msgid "snow"
 msgstr ""
 
@@ -1953,14 +1787,6 @@ msgstr ""
 
 msgctxt "color"
 msgid "snow4"
-msgstr ""
-
-msgctxt "color"
-msgid "spring"
-msgstr ""
-
-msgctxt "color"
-msgid "steel"
 msgstr ""
 
 #, fuzzy
@@ -12014,6 +11840,60 @@ msgstr "Элемтә кире кагылды"
 #: solid-networkstatus/tests/networkingserviceview.ui:123
 msgid "Perform Change"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "@item font"
+#~| msgid "Italic"
+#~ msgctxt "color"
+#~ msgid "alice"
+#~ msgstr "Курсив"
+
+#, fuzzy
+#~| msgctxt "dictionary variant"
+#~| msgid "medium"
+#~ msgctxt "color"
+#~ msgid "dim"
+#~ msgstr "уртак"
+
+#, fuzzy
+#~| msgid "Before"
+#~ msgctxt "color"
+#~ msgid "forest"
+#~ msgstr "Моңа кадәр"
+
+#, fuzzy
+#~| msgctxt "keyboard-key-name"
+#~| msgid "Right"
+#~ msgctxt "color"
+#~ msgid "light"
+#~ msgstr "Уң кыры буенча"
+
+#, fuzzy
+#~| msgctxt "dictionary variant"
+#~| msgid "medium"
+#~ msgctxt "color"
+#~ msgid "medium"
+#~ msgstr "уртак"
+
+#, fuzzy
+#~| msgctxt "keyboard-key-name"
+#~| msgid "Right"
+#~ msgctxt "color"
+#~ msgid "midnight"
+#~ msgstr "Уң кыры буенча"
+
+#, fuzzy
+#~| msgctxt "@item font"
+#~| msgid "Bold"
+#~ msgctxt "color"
+#~ msgid "old"
+#~ msgstr "Калын"
+
+#, fuzzy
+#~| msgid "Translate"
+#~ msgctxt "color"
+#~ msgid "slate"
+#~ msgstr "Тәрҗемә итү"
 
 #~ msgid "Name"
 #~ msgstr "Исем"
