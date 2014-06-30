@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-06-20 02:00+0000\n"
+"POT-Creation-Date: 2014-06-30 01:58+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -10702,12 +10702,12 @@ msgstr "'%1' хезмәте дөрес булмаган форматка ия."
 msgid "Launching %1"
 msgstr "%1 җибәрелә"
 
-#: kinit/klauncher.cpp:1151
+#: kinit/klauncher.cpp:1158
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "'%1' билгесез беркетмә.\n"
 
-#: kinit/klauncher.cpp:1219
+#: kinit/klauncher.cpp:1226
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "'%1' йөкләндерү хатасы:\n"
