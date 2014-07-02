@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-06-13 08:34+0000\n"
+"POT-Creation-Date: 2014-07-02 08:08+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -76,7 +76,7 @@ msgstr ""
 "проверьте эти пункты и удалите перечисленные выше модули. Если ошибка "
 "повторяется, обратитесь к поставщику пакетов.</p></qt>"
 
-#: kcmoduleproxy.cpp:161
+#: kcmoduleproxy.cpp:162
 #, kde-format
 msgctxt "Argument is application name"
 msgid "This configuration section is already opened in %1"
