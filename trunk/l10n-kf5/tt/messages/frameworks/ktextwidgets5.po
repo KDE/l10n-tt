@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-03 08:00+0000\n"
+"POT-Creation-Date: 2014-07-04 08:27+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -136,15 +136,15 @@ msgstr "&Сайланган текст"
 msgid "&Prompt on replace"
 msgstr "&Алыштырганда сорау"
 
-#: findreplace/kfinddialog.cpp:201
+#: findreplace/kfinddialog.cpp:200
 msgid "&Replace"
 msgstr "&Алыштыру"
 
-#: findreplace/kfinddialog.cpp:202
+#: findreplace/kfinddialog.cpp:201
 msgid "Start replace"
 msgstr "Алыштыруны башлау"
 
-#: findreplace/kfinddialog.cpp:203
+#: findreplace/kfinddialog.cpp:202
 msgid ""
 "<qt>If you press the <b>Replace</b> button, the text you entered above is "
 "searched for within the document and any occurrence is replaced with the "
@@ -153,15 +153,15 @@ msgstr ""
 "<qt>Әгәр сез <b> төймәсенә бассагыз </b> алыштыру, сезнең сайланган "
 "гыйбарәгезкертелә, һәм аннары шул сайланганнарның һәрберсен алыштыра</qt>"
 
-#: findreplace/kfinddialog.cpp:207
+#: findreplace/kfinddialog.cpp:206
 msgid "&Find"
 msgstr "&Эзләү"
 
-#: findreplace/kfinddialog.cpp:208
+#: findreplace/kfinddialog.cpp:207
 msgid "Start searching"
 msgstr "Эзләүне башлау"
 
-#: findreplace/kfinddialog.cpp:209
+#: findreplace/kfinddialog.cpp:208
 msgid ""
 "<qt>If you press the <b>Find</b> button, the text you entered above is "
 "searched for within the document.</qt>"
@@ -169,26 +169,26 @@ msgstr ""
 "<qt>Әгәр сез Эзләү <b> төймәсен бассагыз</b>, бөтен текст буенча сездән "
 "кертелгәнгыйбарә эзләнелә.</qt>"
 
-#: findreplace/kfinddialog.cpp:215
+#: findreplace/kfinddialog.cpp:214
 msgid ""
 "Enter a pattern to search for, or select a previous pattern from the list."
 msgstr "Эзләү өчен калыпны кертегез яки исемлектән алдынгы калыпны сайлагыз."
 
-#: findreplace/kfinddialog.cpp:218
+#: findreplace/kfinddialog.cpp:217
 msgid "If enabled, search for a regular expression."
 msgstr "Эшләсә, регуляр гыйбарә эзләнә."
 
-#: findreplace/kfinddialog.cpp:220
+#: findreplace/kfinddialog.cpp:219
 msgid "Click here to edit your regular expression using a graphical editor."
 msgstr ""
 "Басыгыз, әгәр регуляр гыйбарәгезне график мөхәррир ярдәмендә "
 "үзгәртәсәгезкилсә."
 
-#: findreplace/kfinddialog.cpp:222
+#: findreplace/kfinddialog.cpp:221
 msgid "Enter a replacement string, or select a previous one from the list."
 msgstr "Алыштыру өчен юл кертегез, яки алдынгысын исемлектән сайлагыз."
 
-#: findreplace/kfinddialog.cpp:224
+#: findreplace/kfinddialog.cpp:223
 msgid ""
 "<qt>If enabled, any occurrence of <code><b>\\N</b></code>, where <code><b>N</"
 "b></code> is an integer number, will be replaced with the corresponding "
@@ -204,23 +204,23 @@ msgstr ""
 "поместите перед ней экранированную обратную косую черту: <code><b>\\\\N</b></"
 "code>.</p></qt>"
 
-#: findreplace/kfinddialog.cpp:231
+#: findreplace/kfinddialog.cpp:230
 msgid "Click for a menu of available captures."
 msgstr "Рөхсәтле булган эләктереп алу менюсын чакыру өчен басыгыз."
 
-#: findreplace/kfinddialog.cpp:233
+#: findreplace/kfinddialog.cpp:232
 msgid "Require word boundaries in both ends of a match to succeed."
 msgstr "Тиңләшү ике яктан да сүзләр белән тәмамланырга тиешле."
 
-#: findreplace/kfinddialog.cpp:235
+#: findreplace/kfinddialog.cpp:234
 msgid "Start searching at the current cursor location rather than at the top."
 msgstr "Эзләүне курсор позициясеннән башлау, ә документ башыннан түгел."
 
-#: findreplace/kfinddialog.cpp:237
+#: findreplace/kfinddialog.cpp:236
 msgid "Only search within the current selection."
 msgstr "Билгеләнгән өзектән генә эзләү."
 
-#: findreplace/kfinddialog.cpp:239
+#: findreplace/kfinddialog.cpp:238
 msgid ""
 "Perform a case sensitive search: entering the pattern 'Joe' will not match "
 "'joe' or 'JOE', only 'Joe'."
@@ -228,80 +228,80 @@ msgstr ""
 "Регистрны искә алып эзләү. Бу очракта 'Joe' юлын эзләгәндә'joe' яки 'JOE' "
 "сүзләре табыла, яки 'Joe' гына."
 
-#: findreplace/kfinddialog.cpp:242
+#: findreplace/kfinddialog.cpp:241
 msgid "Search backwards."
 msgstr "Артка кайтып эзләү."
 
-#: findreplace/kfinddialog.cpp:244
+#: findreplace/kfinddialog.cpp:243
 msgid "Ask before replacing each match found."
 msgstr "Һәр алыштыруда раслауны сорау."
 
-#: findreplace/kfinddialog.cpp:456
+#: findreplace/kfinddialog.cpp:455
 msgid "Any Character"
 msgstr "Теләсә нинди тамга"
 
-#: findreplace/kfinddialog.cpp:457
+#: findreplace/kfinddialog.cpp:456
 msgid "Start of Line"
 msgstr "Юлның башы"
 
-#: findreplace/kfinddialog.cpp:458
+#: findreplace/kfinddialog.cpp:457
 msgid "End of Line"
 msgstr "Юлның ахыры"
 
-#: findreplace/kfinddialog.cpp:459
+#: findreplace/kfinddialog.cpp:458
 msgid "Set of Characters"
 msgstr "Тамгаларның җыентыгы"
 
-#: findreplace/kfinddialog.cpp:460
+#: findreplace/kfinddialog.cpp:459
 msgid "Repeats, Zero or More Times"
 msgstr "Кабатлаулар, нуль яисә аннан күбрәк мәртәбә"
 
-#: findreplace/kfinddialog.cpp:461
+#: findreplace/kfinddialog.cpp:460
 msgid "Repeats, One or More Times"
 msgstr "Кабатлаулар, бер яисә аннан күбрәк мәртәбә"
 
-#: findreplace/kfinddialog.cpp:462
+#: findreplace/kfinddialog.cpp:461
 msgid "Optional"
 msgstr "Өстәмәләр"
 
-#: findreplace/kfinddialog.cpp:463
+#: findreplace/kfinddialog.cpp:462
 msgid "Escape"
 msgstr "Escape"
 
-#: findreplace/kfinddialog.cpp:464
+#: findreplace/kfinddialog.cpp:463
 msgid "TAB"
 msgstr "Табульләштерү"
 
-#: findreplace/kfinddialog.cpp:465
+#: findreplace/kfinddialog.cpp:464
 msgid "Newline"
 msgstr "Юлны күчерү"
 
-#: findreplace/kfinddialog.cpp:466
+#: findreplace/kfinddialog.cpp:465
 msgid "Carriage Return"
 msgstr "Каретканы кайтару"
 
-#: findreplace/kfinddialog.cpp:467
+#: findreplace/kfinddialog.cpp:466
 msgid "White Space"
 msgstr "Буш урын"
 
-#: findreplace/kfinddialog.cpp:468
+#: findreplace/kfinddialog.cpp:467
 msgid "Digit"
 msgstr "Сан"
 
-#: findreplace/kfinddialog.cpp:570
+#: findreplace/kfinddialog.cpp:569
 msgid "Complete Match"
 msgstr "Тулы тәңгәл"
 
-#: findreplace/kfinddialog.cpp:575
+#: findreplace/kfinddialog.cpp:574
 #, kde-format
 msgid "Captured Text (%1)"
 msgstr "Эләктереп алынган текст (%1)"
 
-#: findreplace/kfinddialog.cpp:583
+#: findreplace/kfinddialog.cpp:582
 msgid "You must enter some text to search for."
 msgstr "Эзләү өчен текст кертергә кирәк."
 
-#: findreplace/kfinddialog.cpp:592
+#: findreplace/kfinddialog.cpp:591
 msgid "Invalid regular expression."
 msgstr "Дөрес булмаган регуляр гыйбарә."
 
