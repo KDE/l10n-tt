@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-07 08:10+0000\n"
+"POT-Creation-Date: 2014-07-24 08:50+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -421,152 +421,152 @@ msgctxt "@action"
 msgid "&Strike Out"
 msgstr "Сыз&ылган"
 
-#: widgets/krichtextwidget.cpp:329
+#: widgets/krichtextwidget.cpp:332
 msgctxt "@action"
 msgid "Align &Left"
 msgstr "Сул кыры б&уенча"
 
-#: widgets/krichtextwidget.cpp:330
+#: widgets/krichtextwidget.cpp:333
 msgctxt "@label left justify"
 msgid "Left"
 msgstr "Сул кыры буенча"
 
-#: widgets/krichtextwidget.cpp:337
+#: widgets/krichtextwidget.cpp:340
 msgctxt "@action"
 msgid "Align &Center"
 msgstr "Ү&зәк буенча"
 
-#: widgets/krichtextwidget.cpp:338
+#: widgets/krichtextwidget.cpp:341
 msgctxt "@label center justify"
 msgid "Center"
 msgstr "Үзәк буенча"
 
-#: widgets/krichtextwidget.cpp:345
+#: widgets/krichtextwidget.cpp:348
 msgctxt "@action"
 msgid "Align &Right"
 msgstr "Уң кы&ры буенча"
 
-#: widgets/krichtextwidget.cpp:346
+#: widgets/krichtextwidget.cpp:349
 msgctxt "@label right justify"
 msgid "Right"
 msgstr "Уң кыры буенча"
 
-#: widgets/krichtextwidget.cpp:353
+#: widgets/krichtextwidget.cpp:356
 msgctxt "@action"
 msgid "&Justify"
 msgstr "Киңл&ек буенча"
 
-#: widgets/krichtextwidget.cpp:354
+#: widgets/krichtextwidget.cpp:357
 msgctxt "@label justify fill"
 msgid "Justify"
 msgstr "Киңлек буенча"
 
-#: widgets/krichtextwidget.cpp:374
+#: widgets/krichtextwidget.cpp:377
 msgctxt "@action"
 msgid "Left-to-Right"
 msgstr "Сулдан уңга"
 
-#: widgets/krichtextwidget.cpp:375
+#: widgets/krichtextwidget.cpp:378
 msgctxt "@label left-to-right"
 msgid "Left-to-Right"
 msgstr "Сулдан уңга"
 
-#: widgets/krichtextwidget.cpp:382
+#: widgets/krichtextwidget.cpp:385
 msgctxt "@action"
 msgid "Right-to-Left"
 msgstr "Уңнан сулга"
 
-#: widgets/krichtextwidget.cpp:383
+#: widgets/krichtextwidget.cpp:386
 msgctxt "@label right-to-left"
 msgid "Right-to-Left"
 msgstr "Уңнан сулга"
 
-#: widgets/krichtextwidget.cpp:399
+#: widgets/krichtextwidget.cpp:402
 msgctxt "@title:menu"
 msgid "List Style"
 msgstr "Исемлекнең стиле"
 
-#: widgets/krichtextwidget.cpp:401
+#: widgets/krichtextwidget.cpp:404
 msgctxt "@item:inmenu no list style"
 msgid "None"
 msgstr "Юк"
 
-#: widgets/krichtextwidget.cpp:402
+#: widgets/krichtextwidget.cpp:405
 msgctxt "@item:inmenu disc list style"
 msgid "Disc"
 msgstr "Диск"
 
-#: widgets/krichtextwidget.cpp:403
+#: widgets/krichtextwidget.cpp:406
 msgctxt "@item:inmenu circle list style"
 msgid "Circle"
 msgstr "Түгәрәк"
 
-#: widgets/krichtextwidget.cpp:404
+#: widgets/krichtextwidget.cpp:407
 msgctxt "@item:inmenu square list style"
 msgid "Square"
 msgstr "Квадрат"
 
-#: widgets/krichtextwidget.cpp:405
+#: widgets/krichtextwidget.cpp:408
 msgctxt "@item:inmenu numbered lists"
 msgid "123"
 msgstr "123"
 
-#: widgets/krichtextwidget.cpp:406
+#: widgets/krichtextwidget.cpp:409
 msgctxt "@item:inmenu lowercase abc lists"
 msgid "abc"
 msgstr "abc"
 
-#: widgets/krichtextwidget.cpp:407
+#: widgets/krichtextwidget.cpp:410
 msgctxt "@item:inmenu uppercase abc lists"
 msgid "ABC"
 msgstr "ABC"
 
-#: widgets/krichtextwidget.cpp:408
+#: widgets/krichtextwidget.cpp:411
 msgctxt "@item:inmenu lower case roman numerals"
 msgid "i ii iii"
 msgstr ""
 
-#: widgets/krichtextwidget.cpp:409
+#: widgets/krichtextwidget.cpp:412
 msgctxt "@item:inmenu upper case roman numerals"
 msgid "I II III"
 msgstr ""
 
-#: widgets/krichtextwidget.cpp:425
+#: widgets/krichtextwidget.cpp:428
 msgctxt "@action"
 msgid "Increase Indent"
 msgstr "Аралыкны зурайту"
 
-#: widgets/krichtextwidget.cpp:438
+#: widgets/krichtextwidget.cpp:441
 msgctxt "@action"
 msgid "Decrease Indent"
 msgstr "Араклыкны кечерәйтү"
 
-#: widgets/krichtextwidget.cpp:451
+#: widgets/krichtextwidget.cpp:454
 msgctxt "@action"
 msgid "Insert Rule Line"
 msgstr "Горизонталь сызыкны өстәү"
 
-#: widgets/krichtextwidget.cpp:462
+#: widgets/krichtextwidget.cpp:465
 msgctxt "@action"
 msgid "Link"
 msgstr "Сылтама"
 
-#: widgets/krichtextwidget.cpp:473
+#: widgets/krichtextwidget.cpp:476
 msgctxt "@action"
 msgid "Format Painter"
 msgstr "Форматлы текстка әверелдерү"
 
-#: widgets/krichtextwidget.cpp:483
+#: widgets/krichtextwidget.cpp:486
 msgctxt "@action"
 msgid "To Plain Text"
 msgstr "Гади текстка әверелдерү"
 
-#: widgets/krichtextwidget.cpp:494
+#: widgets/krichtextwidget.cpp:497
 msgctxt "@action"
 msgid "Subscript"
 msgstr "Аскы индекс"
 
-#: widgets/krichtextwidget.cpp:501
+#: widgets/krichtextwidget.cpp:504
 msgctxt "@action"
 msgid "Superscript"
 msgstr "Өске индекс"
