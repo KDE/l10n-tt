@@ -17,14 +17,14 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 1.2\n"
 
-#: backends/dbus/DBusHelperProxy.cpp:76
+#: backends/dbus/DBusHelperProxy.cpp:80
 #, fuzzy
 #| msgid "DBus Backend error: connection to helper failed. %1"
 msgctxt "KAuth::DBusHelperProxy|"
 msgid "DBus Backend error: connection to helper failed. "
 msgstr "DBus хезмәтенең эчке хатасы: эшкәртүчегә тоташып булмады. %1"
 
-#: backends/dbus/DBusHelperProxy.cpp:94
+#: backends/dbus/DBusHelperProxy.cpp:98
 #, fuzzy
 #| msgid ""
 #| "DBus Backend error: could not contact the helper. Connection error: %1. "
@@ -35,7 +35,7 @@ msgstr ""
 "DBus хезмәтенең эчке хатасы: эшкәртүчегә тоташып булмады. Элемтә хатасы: %1. "
 "Хата турындагы хәбәр: %2"
 
-#: backends/dbus/DBusHelperProxy.cpp:95
+#: backends/dbus/DBusHelperProxy.cpp:99
 #, fuzzy
 #| msgctxt "1: the i18n'ed system error code, from errno"
 #| msgid "system error: %1"
