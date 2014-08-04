@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-03 08:21+0000\n"
+"POT-Creation-Date: 2014-08-04 08:30+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -59,12 +59,12 @@ msgctxt "Name"
 msgid "Web Shortcuts"
 msgstr ""
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:82
+#: src/kcms/webshortcuts/webshortcuts.desktop:83
 msgctxt "Comment"
 msgid "Configure web shortcuts"
 msgstr ""
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:99
+#: src/kcms/webshortcuts/webshortcuts.desktop:101
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,"
