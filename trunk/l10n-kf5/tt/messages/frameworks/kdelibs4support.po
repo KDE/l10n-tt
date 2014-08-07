@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-01 12:09+0000\n"
+"POT-Creation-Date: 2014-08-07 07:59+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1978,62 +1978,6 @@ msgstr ""
 msgid "None"
 msgstr "Юк"
 
-#. i18n: ectx: property (title), widget (QGroupBox, pInfoGroup)
-#: kdebugdialog/kdebugdialog.ui:48
-msgid "Information"
-msgstr "Мәгълумат"
-
-#. i18n: ectx: property (text), widget (QLabel, label_2)
-#. i18n: ectx: property (text), widget (QLabel, label_8)
-#. i18n: ectx: property (text), widget (QLabel, label_4)
-#. i18n: ectx: property (text), widget (QLabel, label_6)
-#: kdebugdialog/kdebugdialog.ui:54 kdebugdialog/kdebugdialog.ui:89
-#: kdebugdialog/kdebugdialog.ui:151 kdebugdialog/kdebugdialog.ui:186
-#, fuzzy
-#| msgid "Output to File..."
-msgid "Output to:"
-msgstr "Файлга саклау..."
-
-#. i18n: ectx: property (text), widget (QLabel, label_3)
-#. i18n: ectx: property (text), widget (QLabel, label_9)
-#. i18n: ectx: property (text), widget (QLabel, label_5)
-#. i18n: ectx: property (text), widget (QLabel, label_7)
-#: kdebugdialog/kdebugdialog.ui:67 kdebugdialog/kdebugdialog.ui:102
-#: kdebugdialog/kdebugdialog.ui:164 kdebugdialog/kdebugdialog.ui:199
-#, fuzzy
-#| msgid "File:"
-msgid "Filename:"
-msgstr "Файл:"
-
-#. i18n: ectx: property (title), widget (QGroupBox, pErrorGroup)
-#: kdebugdialog/kdebugdialog.ui:83
-msgid "Error"
-msgstr "Хата"
-
-#. i18n: ectx: property (text), widget (QCheckBox, pAbortFatal)
-#: kdebugdialog/kdebugdialog.ui:118
-msgid "Abort on fatal errors"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, m_disableAll2)
-#: kdebugdialog/kdebugdialog.ui:138 kdebugdialog/klistdebugdialog.cpp:77
-#, fuzzy
-#| msgid "Do not suppress debug output"
-msgid "Disable all debug output"
-msgstr "Төзәткечнең чыгышын чагылдыру"
-
-#. i18n: ectx: property (title), widget (QGroupBox, pWarnGroup)
-#: kdebugdialog/kdebugdialog.ui:145
-msgid "Warning"
-msgstr "Кисәтү"
-
-#. i18n: ectx: property (title), widget (QGroupBox, pFatalGroup)
-#: kdebugdialog/kdebugdialog.ui:180
-#, fuzzy
-#| msgid "Error"
-msgid "Fatal Error"
-msgstr "Хата"
-
 #: kdebugdialog/klistdebugdialog.cpp:68
 #, fuzzy
 #| msgctxt "@action"
@@ -2047,6 +1991,12 @@ msgstr "Барысын сайлау"
 #| msgid "Select All"
 msgid "&Deselect All"
 msgstr "Барысын сайлау"
+
+#: kdebugdialog/klistdebugdialog.cpp:77
+#, fuzzy
+#| msgid "Do not suppress debug output"
+msgid "Disable all debug output"
+msgstr "Төзәткечнең чыгышын чагылдыру"
 
 #: kdebugdialog/main.cpp:99
 msgid "KDebugDialog"
@@ -11283,46 +11233,6 @@ msgstr ""
 msgid "No metainfo for %1"
 msgstr "%1 өчен вариантлар юк"
 
-#. i18n: ectx: property (text), widget (QTreeWidget, treeWidget)
-#: kssl/kcm/cacertificates.ui:24
-msgid "Organization / Common Name"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QTreeWidget, treeWidget)
-#: kssl/kcm/cacertificates.ui:29
-msgid "Organizational Unit"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, displaySelection)
-#: kssl/kcm/cacertificates.ui:42
-#, fuzzy
-#| msgid "&Redisplay"
-msgid "Display..."
-msgstr "Сурәтне &яңарту"
-
-#. i18n: ectx: property (text), widget (QPushButton, disableSelection)
-#: kssl/kcm/cacertificates.ui:68
-#, fuzzy
-#| msgctxt "@item Text character set"
-#| msgid "Disabled"
-msgid "Disable"
-msgstr "Сүндерелгән"
-
-#. i18n: ectx: property (text), widget (QPushButton, enableSelection)
-#: kssl/kcm/cacertificates.ui:78
-msgid "Enable"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, removeSelection)
-#: kssl/kcm/cacertificates.ui:104
-msgid "Remove"
-msgstr "Бетерү"
-
-#. i18n: ectx: property (text), widget (QPushButton, add)
-#: kssl/kcm/cacertificates.ui:111
-msgid "Add..."
-msgstr "Өстәү..."
-
 #: kssl/kcm/cacertificatespage.cpp:140
 #, fuzzy
 #| msgctxt "SSL error"
@@ -11336,48 +11246,6 @@ msgstr ""
 
 #: kssl/kcm/cacertificatespage.cpp:302
 msgid "Pick Certificates"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, subjectHeading)
-#: kssl/kcm/displaycert.ui:23
-#, fuzzy
-#| msgid "Document Information"
-msgid "<b>Subject Information</b>"
-msgstr "Документ турында мәгълумат"
-
-#. i18n: ectx: property (text), widget (QLabel, issuerHeading)
-#: kssl/kcm/displaycert.ui:39
-#, fuzzy
-#| msgid "Document Information"
-msgid "<b>Issuer Information</b>"
-msgstr "Документ турында мәгълумат"
-
-#. i18n: ectx: property (text), widget (QLabel, label)
-#: kssl/kcm/displaycert.ui:55
-#, fuzzy
-#| msgctxt "@shortcut/rich"
-#| msgid "<b>%1</b>"
-msgid "<b>Other</b>"
-msgstr "<b>%1</b>"
-
-#. i18n: ectx: property (text), widget (QLabel, validityPeriodLabel)
-#: kssl/kcm/displaycert.ui:64
-msgid "Validity period"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, serialNumberLabel)
-#: kssl/kcm/displaycert.ui:78
-msgid "Serial number"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, md5DigestLabel)
-#: kssl/kcm/displaycert.ui:92
-msgid "MD5 digest"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, sha1DigestLabel)
-#: kssl/kcm/displaycert.ui:106
-msgid "SHA1 digest"
 msgstr ""
 
 #: kssl/kcm/displaycertdialog.cpp:73
@@ -11745,6 +11613,63 @@ msgstr "Таныклык хаталы"
 #: kssl/ksslutils.cpp:90
 msgid "GMT"
 msgstr ""
+
+#~ msgid "Information"
+#~ msgstr "Мәгълумат"
+
+#, fuzzy
+#~| msgid "Output to File..."
+#~ msgid "Output to:"
+#~ msgstr "Файлга саклау..."
+
+#, fuzzy
+#~| msgid "File:"
+#~ msgid "Filename:"
+#~ msgstr "Файл:"
+
+#~ msgid "Error"
+#~ msgstr "Хата"
+
+#~ msgid "Warning"
+#~ msgstr "Кисәтү"
+
+#, fuzzy
+#~| msgid "Error"
+#~ msgid "Fatal Error"
+#~ msgstr "Хата"
+
+#, fuzzy
+#~| msgid "&Redisplay"
+#~ msgid "Display..."
+#~ msgstr "Сурәтне &яңарту"
+
+#, fuzzy
+#~| msgctxt "@item Text character set"
+#~| msgid "Disabled"
+#~ msgid "Disable"
+#~ msgstr "Сүндерелгән"
+
+#~ msgid "Remove"
+#~ msgstr "Бетерү"
+
+#~ msgid "Add..."
+#~ msgstr "Өстәү..."
+
+#, fuzzy
+#~| msgid "Document Information"
+#~ msgid "<b>Subject Information</b>"
+#~ msgstr "Документ турында мәгълумат"
+
+#, fuzzy
+#~| msgid "Document Information"
+#~ msgid "<b>Issuer Information</b>"
+#~ msgstr "Документ турында мәгълумат"
+
+#, fuzzy
+#~| msgctxt "@shortcut/rich"
+#~| msgid "<b>%1</b>"
+#~ msgid "<b>Other</b>"
+#~ msgstr "<b>%1</b>"
 
 #, fuzzy
 #~| msgid "(C) 2000 Stephan Kulow"

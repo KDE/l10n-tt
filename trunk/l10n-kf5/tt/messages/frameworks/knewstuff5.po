@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-05 10:34+0000\n"
+"POT-Creation-Date: 2014-08-07 07:59+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -279,95 +279,12 @@ msgstr "Булган тәэмин итүчеләр"
 msgid "All Categories"
 msgstr "Барлык төркемнәр"
 
-#. i18n: ectx: property (text), widget (QLabel, label_9)
-#. i18n: ectx: property (text), widget (QLabel, m_providerLabel)
-#: downloadwidget.ui:54 uploaddialog.ui:127
-msgid "Provider:"
-msgstr "Тәэмин итүче:"
-
-#. i18n: ectx: property (text), widget (QLabel, mCategoryLabel)
-#. i18n: ectx: property (text), widget (QLabel, m_categoryLabel)
-#: downloadwidget.ui:71 uploaddialog.ui:304
-msgid "Category:"
-msgstr "Төркем:"
-
-#. i18n: ectx: property (text), widget (QRadioButton, newestRadio)
-#: downloadwidget.ui:90
-msgid "Newest"
-msgstr "Иң яңалары"
-
-#. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
-#: downloadwidget.ui:103
-msgid "Rating"
-msgstr "Бәяләү буенча"
-
-#. i18n: ectx: property (text), widget (QRadioButton, mostDownloadsRadio)
-#: downloadwidget.ui:110
-msgid "Most downloads"
-msgstr "Иң таныклы"
-
-#. i18n: ectx: property (text), widget (QRadioButton, installedRadio)
-#: downloadwidget.ui:117
-msgid "Installed"
-msgstr "Урнаштырылган"
-
-#. i18n: ectx: property (text), widget (QLabel, orderLabel)
-#: downloadwidget.ui:175
-msgid "Order by:"
-msgstr "Өстәрәк урнаштыру:"
-
-#. i18n: ectx: property (text), widget (QLabel, label_4)
-#: downloadwidget.ui:185
-msgid "Search:"
-msgstr "Эзләү:"
-
-#. i18n: ectx: property (placeholderText), widget (KLineEdit, m_searchEdit)
-#: downloadwidget.ui:211
-msgid "Enter search phrase here"
-msgstr "Эзли торган текстны языгыз"
-
-#. i18n: ectx: property (text), widget (QLabel, label)
-#: downloadwidget.ui:366
-msgid "Author:"
-msgstr "Автор:"
-
-#. i18n: ectx: property (text), widget (QLabel, homepageLabel)
-#: downloadwidget.ui:391
-msgid "<a href=\"http://opendesktop.org\">Homepage</a>"
-msgstr "<a href=\"http://opendesktop.org\">Албит</a>"
-
-#. i18n: ectx: property (text), widget (QRadioButton, radioUpdate)
-#. i18n: ectx: property (text), widget (QPushButton, updateButton)
-#: downloadwidget.ui:567 ui/itemsgridviewdelegate.cpp:329
-#: ui/itemsviewdelegate.cpp:123 uploaddialog.ui:171
-msgid "Update"
-msgstr "Яңарту"
-
-#. i18n: ectx: property (text), widget (QPushButton, uninstallButton)
-#: downloadwidget.ui:577 ui/itemsgridviewdelegate.cpp:325
-#: ui/itemsviewdelegate.cpp:119
-msgid "Uninstall"
-msgstr "Бетерү"
-
-#. i18n: ectx: property (text), widget (QPushButton, becomeFanButton)
-#: downloadwidget.ui:584
-msgid "Become a Fan"
-msgstr "Яратучы булу"
-
-#. i18n: ectx: property (text), widget (QPushButton, installButton)
-#: downloadwidget.ui:591 ui/itemsgridviewdelegate.cpp:344
-#: ui/itemsgridviewdelegate.cpp:354 ui/itemsviewdelegate.cpp:138
-#: ui/itemsviewdelegate.cpp:148
-msgid "Install"
-msgstr "Урнаштыру"
-
 #: ui/entrydetailsdialog.cpp:91
 #, kde-format
 msgid "Details for %1"
 msgstr "%1 турында мәгълумат"
 
-#. i18n: ectx: property (text), widget (QLabel, priceLabel_2)
-#: ui/entrydetailsdialog.cpp:105 uploaddialog.ui:230
+#: ui/entrydetailsdialog.cpp:105
 msgid "Changelog:"
 msgstr "Үзгәрешләр:"
 
@@ -431,9 +348,22 @@ msgstr "Кече сүрәтне кабул итү..."
 msgid "Details"
 msgstr "Өстәмә"
 
+#: ui/itemsgridviewdelegate.cpp:325 ui/itemsviewdelegate.cpp:119
+msgid "Uninstall"
+msgstr "Бетерү"
+
+#: ui/itemsgridviewdelegate.cpp:329 ui/itemsviewdelegate.cpp:123
+msgid "Update"
+msgstr "Яңарту"
+
 #: ui/itemsgridviewdelegate.cpp:339 ui/itemsviewdelegate.cpp:133
 msgid "Updating"
 msgstr "Яңарту"
+
+#: ui/itemsgridviewdelegate.cpp:344 ui/itemsgridviewdelegate.cpp:354
+#: ui/itemsviewdelegate.cpp:138 ui/itemsviewdelegate.cpp:148
+msgid "Install"
+msgstr "Урнаштыру"
 
 #: ui/itemsgridviewdelegate.cpp:349 ui/itemsviewdelegate.cpp:143
 msgid "Install Again"
@@ -485,8 +415,7 @@ msgctxt "A link to the website where the get hot new stuff upload can be seen"
 msgid "Visit website"
 msgstr "Веб сәхифәсенә кереп чыгу"
 
-#. i18n: ectx: property (windowTitle), widget (QWidget, UploadDialog)
-#: uploaddialog.cpp:441 uploaddialog.ui:14
+#: uploaddialog.cpp:441
 msgid "Share Hot New Stuff"
 msgstr "Әсбапны нәшер итү"
 
@@ -552,162 +481,138 @@ msgstr "Тиңләштерү хатасы килеп чыкты."
 msgid "Upload failed: %1"
 msgstr "Серверга тапшырып булмады: %1"
 
-#. i18n: ectx: property (text), widget (QLabel, label_11)
-#: uploaddialog.ui:89
-msgid "Password:"
-msgstr "Серсүз:"
+#~ msgid "Provider:"
+#~ msgstr "Тәэмин итүче:"
 
-#. i18n: ectx: property (text), widget (QLabel, label_10)
-#: uploaddialog.ui:105
-msgid "Username:"
-msgstr "Кулланучының исеме:"
+#~ msgid "Category:"
+#~ msgstr "Төркем:"
 
-#. i18n: ectx: property (text), widget (QLabel, uploadFileLabel)
-#: uploaddialog.ui:148
-msgid "File to upload:"
-msgstr "Бастырылучы файл:"
+#~ msgid "Newest"
+#~ msgstr "Иң яңалары"
 
-#. i18n: ectx: property (text), widget (QRadioButton, radioNewUpload)
-#: uploaddialog.ui:158
-msgid "New Upload"
-msgstr "Яңа әсбап"
+#~ msgid "Rating"
+#~ msgstr "Бәяләү буенча"
 
-#. i18n: ectx: property (text), item, widget (KComboBox, mLicenseCombo)
-#: uploaddialog.ui:196
-msgid "GPL"
-msgstr "GPL"
+#~ msgid "Most downloads"
+#~ msgstr "Иң таныклы"
 
-#. i18n: ectx: property (text), item, widget (KComboBox, mLicenseCombo)
-#: uploaddialog.ui:201
-msgid "LGPL"
-msgstr "LGPL"
+#~ msgid "Installed"
+#~ msgstr "Урнаштырылган"
 
-#. i18n: ectx: property (text), item, widget (KComboBox, mLicenseCombo)
-#: uploaddialog.ui:206
-msgid "BSD"
-msgstr "BSD"
+#~ msgid "Order by:"
+#~ msgstr "Өстәрәк урнаштыру:"
 
-#. i18n: ectx: property (text), widget (QLabel, label_8)
-#: uploaddialog.ui:214
-msgid "Description:"
-msgstr "Тасвирлама:"
+#~ msgid "Search:"
+#~ msgstr "Эзләү:"
 
-#. i18n: ectx: property (text), widget (QLabel, label_5)
-#: uploaddialog.ui:240
-msgid "Version:"
-msgstr "Юрама:"
+#~ msgid "Enter search phrase here"
+#~ msgstr "Эзли торган текстны языгыз"
 
-#. i18n: ectx: property (text), widget (QLabel, label_6)
-#: uploaddialog.ui:253
-msgid "License:"
-msgstr "Лицензия:"
+#~ msgid "Author:"
+#~ msgstr "Автор:"
 
-#. i18n: ectx: property (text), widget (QLabel, label_12)
-#: uploaddialog.ui:266
-msgid "Please fill out the information about your upload in English."
-msgstr "Бастырып чыгаручы әсбапны инглизчә тасвирлагыз."
+#~ msgid "<a href=\"http://opendesktop.org\">Homepage</a>"
+#~ msgstr "<a href=\"http://opendesktop.org\">Албит</a>"
 
-#. i18n: ectx: property (text), widget (QLabel, label_4)
-#: uploaddialog.ui:282
-msgid "Title:"
-msgstr "Исем:"
+#~ msgid "Become a Fan"
+#~ msgstr "Яратучы булу"
 
-#. i18n: ectx: property (toolTip), widget (QLineEdit, mNameEdit)
-#: uploaddialog.ui:317
-msgid "Name of the file as it will appear on the website"
-msgstr "Сайтта чагылдыручы файл исеме"
+#~ msgid "Password:"
+#~ msgstr "Серсүз:"
 
-#. i18n: ectx: property (whatsThis), widget (QLineEdit, mNameEdit)
-#: uploaddialog.ui:320
-msgid ""
-"This should clearly describe the file content. It can be the same text as "
-"the title of the kvtml file."
-msgstr "Файлның исеме аның эчтәлеген ачык тасвирларга тиеш."
+#~ msgid "Username:"
+#~ msgstr "Кулланучының исеме:"
 
-#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
-#: uploaddialog.ui:334
-msgid "Preview Images"
-msgstr "Кечерәйтелгән күчермә"
+#~ msgid "File to upload:"
+#~ msgstr "Бастырылучы файл:"
 
-#. i18n: ectx: property (text), widget (QPushButton, changePreview1Button)
-#. i18n: ectx: property (text), widget (QPushButton, changePreview3Button)
-#. i18n: ectx: property (text), widget (QPushButton, changePreview2Button)
-#: uploaddialog.ui:343 uploaddialog.ui:350 uploaddialog.ui:357
-msgid "Select Preview..."
-msgstr "Сайлау..."
+#~ msgid "New Upload"
+#~ msgstr "Яңа әсбап"
 
-#. i18n: ectx: property (text), widget (QCheckBox, priceCheckBox)
-#: uploaddialog.ui:433
-msgid "Set a price for this item"
-msgstr "Бәяне билгеләү"
+#~ msgid "GPL"
+#~ msgstr "GPL"
 
-#. i18n: ectx: property (title), widget (QGroupBox, priceGroupBox)
-#: uploaddialog.ui:443
-msgid "Price"
-msgstr "Бәя"
+#~ msgid "LGPL"
+#~ msgstr "LGPL"
 
-#. i18n: ectx: property (text), widget (QLabel, priceLabel)
-#: uploaddialog.ui:452
-msgid "Price:"
-msgstr "Бәя:"
+#~ msgid "BSD"
+#~ msgstr "BSD"
 
-#. i18n: ectx: property (text), widget (QLabel, priceReasonLabel)
-#: uploaddialog.ui:479
-msgid "Reason for price:"
-msgstr "Бәяне дәлилләү:"
+#~ msgid "Description:"
+#~ msgstr "Тасвирлама:"
 
-#. i18n: ectx: property (text), widget (QLabel, contentWebsiteLinkLabel)
-#: uploaddialog.ui:596
-msgid "Fetch content link from server"
-msgstr "Әсбапның сылтамасын сервердан кабул итү"
+#~ msgid "Version:"
+#~ msgstr "Юрама:"
 
-#. i18n: ectx: property (text), widget (QLabel, creatingContentLabel)
-#: uploaddialog.ui:609
-msgid "Create content on server"
-msgstr "Әсбапларны серверда ясау"
+#~ msgid "License:"
+#~ msgstr "Лицензия:"
 
-#. i18n: ectx: property (text), widget (QLabel, creatingContentLabel_2)
-#: uploaddialog.ui:622
-msgid "Upload content"
-msgstr "Әсбапларны серверга тапшыру"
+#~ msgid "Please fill out the information about your upload in English."
+#~ msgstr "Бастырып чыгаручы әсбапны инглизчә тасвирлагыз."
 
-#. i18n: ectx: property (text), widget (QLabel, uploadPreview1Label)
-#: uploaddialog.ui:635
-msgid "Upload first preview"
-msgstr "Кече сүрәтнең беренчесен серверга тапшыру"
+#~ msgid "Title:"
+#~ msgstr "Исем:"
 
-#. i18n: ectx: property (text), widget (QLabel, label_2)
-#: uploaddialog.ui:665
-msgid "Note: You can edit, update and delete your content on the website."
-msgstr ""
-"Искәрмә: сез веб сәхифәсендә үзегезнең әсбапыгызны үзгәртә, яңарта, бетерә "
-"аласыз."
+#~ msgid "Name of the file as it will appear on the website"
+#~ msgstr "Сайтта чагылдыручы файл исеме"
 
-#. i18n: ectx: property (text), widget (QLabel, uploadPreview2Label)
-#: uploaddialog.ui:681
-msgid "Upload second preview"
-msgstr "Кече сүрәтнең икенчесен серверга тапшыру"
+#~ msgid ""
+#~ "This should clearly describe the file content. It can be the same text as "
+#~ "the title of the kvtml file."
+#~ msgstr "Файлның исеме аның эчтәлеген ачык тасвирларга тиеш."
 
-#. i18n: ectx: property (text), widget (QLabel, uploadPreview3Label)
-#: uploaddialog.ui:694
-msgid "Upload third preview"
-msgstr "Кече сүрәтнең өченчесен серверга тапшыру"
+#~ msgid "Preview Images"
+#~ msgstr "Кечерәйтелгән күчермә"
 
-#. i18n: ectx: property (text), widget (QLabel, label)
-#: uploaddialog.ui:739
-msgid ""
-"I ensure that this content does not violate any existing copyright, law or "
-"trademark. I agree for my IP address to be logged. (Distributing content "
-"without the permission of the copyright holder is illegal.)"
-msgstr ""
-"Бу әсбапларның бастыруы бернинди автор хакын, канун һәм сәүдә маркасын "
-"бозмавын раслыйм. Үземнең IP-адресын язып калдырырга рөхсәт итәм. (Хак "
-"тотучының рөхсәтеннән кала әсбапларны тарату канунсыз.)"
+#~ msgid "Select Preview..."
+#~ msgstr "Сайлау..."
 
-#. i18n: ectx: property (text), widget (QPushButton, uploadButton)
-#: uploaddialog.ui:764
-msgid "Start Upload"
-msgstr "Тапшыруны башлау"
+#~ msgid "Set a price for this item"
+#~ msgstr "Бәяне билгеләү"
+
+#~ msgid "Price"
+#~ msgstr "Бәя"
+
+#~ msgid "Price:"
+#~ msgstr "Бәя:"
+
+#~ msgid "Reason for price:"
+#~ msgstr "Бәяне дәлилләү:"
+
+#~ msgid "Fetch content link from server"
+#~ msgstr "Әсбапның сылтамасын сервердан кабул итү"
+
+#~ msgid "Create content on server"
+#~ msgstr "Әсбапларны серверда ясау"
+
+#~ msgid "Upload content"
+#~ msgstr "Әсбапларны серверга тапшыру"
+
+#~ msgid "Upload first preview"
+#~ msgstr "Кече сүрәтнең беренчесен серверга тапшыру"
+
+#~ msgid "Note: You can edit, update and delete your content on the website."
+#~ msgstr ""
+#~ "Искәрмә: сез веб сәхифәсендә үзегезнең әсбапыгызны үзгәртә, яңарта, "
+#~ "бетерә аласыз."
+
+#~ msgid "Upload second preview"
+#~ msgstr "Кече сүрәтнең икенчесен серверга тапшыру"
+
+#~ msgid "Upload third preview"
+#~ msgstr "Кече сүрәтнең өченчесен серверга тапшыру"
+
+#~ msgid ""
+#~ "I ensure that this content does not violate any existing copyright, law "
+#~ "or trademark. I agree for my IP address to be logged. (Distributing "
+#~ "content without the permission of the copyright holder is illegal.)"
+#~ msgstr ""
+#~ "Бу әсбапларның бастыруы бернинди автор хакын, канун һәм сәүдә маркасын "
+#~ "бозмавын раслыйм. Үземнең IP-адресын язып калдырырга рөхсәт итәм. (Хак "
+#~ "тотучының рөхсәтеннән кала әсбапларны тарату канунсыз.)"
+
+#~ msgid "Start Upload"
+#~ msgstr "Тапшыруны башлау"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
