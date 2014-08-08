@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-07 07:58+0000\n"
+"POT-Creation-Date: 2014-08-08 08:33+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -98,6 +98,254 @@ msgstr "Көйләүләрне куллану"
 msgid "Configure"
 msgstr "Көйләү"
 
+#. i18n: ectx: label, entry, group (DesktopIcons)
+#: kdeglobals.kcfg:9
+msgid "Distance between desktop icons"
+msgstr "Эш өстәлендәге билгечекләрнең арасы"
+
+#. i18n: ectx: whatsthis, entry, group (DesktopIcons)
+#: kdeglobals.kcfg:10
+msgid "The distance between icons specified in pixels."
+msgstr "Нокталар саны аша билгеләүче билгечекләрнең арасы."
+
+#. i18n: ectx: label, entry, group (General)
+#: kdeglobals.kcfg:23
+msgid "Widget style to use"
+msgstr "Виджетның кыяфәте"
+
+#. i18n: ectx: whatsthis, entry, group (General)
+#: kdeglobals.kcfg:24
+msgid ""
+"The name of the widget style, for example \"keramik\" or \"plastik\". "
+"Without quotes."
+msgstr ""
+"Виджет кыяфәтенең исеме, мәсәлән, «keramik» яки «plastik» (куш тырнаксыз)."
+
+#. i18n: ectx: label, entry, group (General)
+#: kdeglobals.kcfg:30
+msgid "Use the PC speaker"
+msgstr "ПК динамигы белән куллану"
+
+#. i18n: ectx: whatsthis, entry, group (General)
+#: kdeglobals.kcfg:31
+msgid ""
+"Whether the ordinary PC speaker should be used instead of KDE's own "
+"notifications system."
+msgstr "KDE белдерү системасы урынына ПК динамигы белән куллану"
+
+#. i18n: ectx: label, entry, group (General)
+#: kdeglobals.kcfg:35
+msgid "What terminal application to use"
+msgstr "Терминалҗ кушымтаны билгеләү"
+
+#. i18n: ectx: whatsthis, entry, group (General)
+#: kdeglobals.kcfg:37
+msgid ""
+"Whenever a terminal application is launched this terminal emulator program "
+"will be used.\n"
+msgstr "Терминал өчен нинди кушымта белән кулланырга\n"
+
+#. i18n: ectx: label, entry, group (General)
+#: kdeglobals.kcfg:41
+msgid "Fixed width font"
+msgstr "Бер киңлектәге хәреф"
+
+#. i18n: ectx: whatsthis, entry, group (General)
+#: kdeglobals.kcfg:43
+msgid ""
+"This font is used when a fixed font is needed. A fixed font has a constant "
+"width.\n"
+msgstr "Бу хәреф бер киңлектәге хәреф белән язылган текст өчен кулланылачак.\n"
+
+#. i18n: ectx: label, entry, group (General)
+#: kdeglobals.kcfg:46
+msgid "System wide font"
+msgstr "Система хәрефе"
+
+#. i18n: ectx: label, entry, group (General)
+#: kdeglobals.kcfg:49
+msgid "Font for menus"
+msgstr "Менюның хәрефе"
+
+#. i18n: ectx: whatsthis, entry, group (General)
+#: kdeglobals.kcfg:50
+msgid "What font to use for menus in applications."
+msgstr "Менюларда кулланылучы хәреф"
+
+#. i18n: ectx: label, entry, group (General)
+#: kdeglobals.kcfg:53
+msgid "Color for links"
+msgstr "Сылтаманың төсе"
+
+#. i18n: ectx: whatsthis, entry, group (General)
+#: kdeglobals.kcfg:54
+msgid "What color links should be that have not yet been clicked on"
+msgstr "Басылмаган сылтаманың төсе"
+
+#. i18n: ectx: label, entry, group (General)
+#: kdeglobals.kcfg:57
+msgid "Color for visited links"
+msgstr "Басылган сылтаманың төсе"
+
+#. i18n: ectx: label, entry, group (General)
+#: kdeglobals.kcfg:60
+msgid "Font for the taskbar"
+msgstr "Мәсьәлә панеленең хәрефе"
+
+#. i18n: ectx: whatsthis, entry, group (General)
+#: kdeglobals.kcfg:61
+msgid ""
+"What font to use for the panel at the bottom of the screen, where the "
+"currently running applications are."
+msgstr "Җибәрелгән кушымталарның исемлеге панеле өчен хәреф"
+
+#. i18n: ectx: label, entry, group (General)
+#: kdeglobals.kcfg:64
+msgid "Fonts for toolbars"
+msgstr "Корал панеленең хәрефе"
+
+#. i18n: ectx: label, entry (Desktop Screenshot), group (Global Shortcuts)
+#: kdeglobals.kcfg:73
+msgid "Shortcut for taking screenshot"
+msgstr "Экран сүрәтен ясаучы төймә тезмәсе"
+
+#. i18n: ectx: label, entry (Enable/Disable Clipboard Actions), group (Global Shortcuts)
+#: kdeglobals.kcfg:78
+msgid "Shortcut for toggling Clipboard Actions on and off"
+msgstr "Алыштуру буферы элементларын эшкә китерүче төймә тезмәсе"
+
+#. i18n: ectx: label, entry (Halt without Confirmation), group (Global Shortcuts)
+#: kdeglobals.kcfg:83
+msgid "Shortcut for shutting down the computer without confirmation"
+msgstr "Компьютерны раслаусыз сүндерүче төймә тезмәсе"
+
+#. i18n: ectx: label, entry (Sort directories first), group (KFileDialog Settings)
+#: kdeglobals.kcfg:380
+msgid "Show directories first"
+msgstr "Каталоглар баштан"
+
+#. i18n: ectx: whatsthis, entry (Sort directories first), group (KFileDialog Settings)
+#: kdeglobals.kcfg:381
+msgid "Whether directories should be placed at the top when displaying files"
+msgstr "Каталогларны файллар алдыннан урнаштыру."
+
+#. i18n: ectx: label, entry (Recent URLs), group (KFileDialog Settings)
+#: kdeglobals.kcfg:389
+msgid "The URLs recently visited"
+msgstr "Басылган сылтамалар"
+
+#. i18n: ectx: whatsthis, entry (Recent URLs), group (KFileDialog Settings)
+#: kdeglobals.kcfg:390
+msgid "Used for auto-completion in file dialogs, for example"
+msgstr "Мәсәлән, диалогта сүзне автоматик рәвештә тәмам итү өчен кулланыла"
+
+#. i18n: ectx: label, entry (Show Preview), group (KFileDialog Settings)
+#: kdeglobals.kcfg:394
+msgid "Show file preview in file dialog"
+msgstr "Файл сайлау диалогында кече сүрәтне чагылдыру"
+
+#. i18n: ectx: label, entry (Show hidden files), group (KFileDialog Settings)
+#: kdeglobals.kcfg:399
+msgid "Show hidden files"
+msgstr "Качырылган файлларны чагылдыру"
+
+#. i18n: ectx: whatsthis, entry (Show hidden files), group (KFileDialog Settings)
+#: kdeglobals.kcfg:400
+msgid ""
+"Whether files starting with a dot (convention for hidden files) should be "
+"shown"
+msgstr ""
+"Бу көйләүне гамәл иткәндә качырылган (исеме ноктадан башланган) файлларны "
+"чагылдыра"
+
+#. i18n: ectx: label, entry (Show Speedbar), group (KFileDialog Settings)
+#: kdeglobals.kcfg:405
+msgid "Show speedbar"
+msgstr "Тизләткеч панелен чагылдыру"
+
+#. i18n: ectx: whatsthis, entry (Show Speedbar), group (KFileDialog Settings)
+#: kdeglobals.kcfg:406
+msgid ""
+"Whether the shortcut icons to the left in the file dialog should be shown"
+msgstr "Файл сайлау диалогының сул ягында тизләткеч панелен күрсәтү"
+
+#. i18n: ectx: label, entry, group (Locale)
+#: kdeglobals.kcfg:425
+msgid "What country"
+msgstr "Ил"
+
+#. i18n: ectx: whatsthis, entry, group (Locale)
+#: kdeglobals.kcfg:426
+msgid ""
+"Used to determine how to display numbers, currency and time/date, for example"
+msgstr ""
+"Сан, акча җәмгысы, көн һәм вакытны күрсәтү форматын билгеләүдә кулланыла"
+
+#. i18n: ectx: label, entry, group (Locale)
+#: kdeglobals.kcfg:430
+msgid "What language to use to display text"
+msgstr "Текстның теле"
+
+#. i18n: ectx: label, entry, group (Locale)
+#: kdeglobals.kcfg:433
+msgid "Character used for indicating positive numbers"
+msgstr "Уңай санны күрсәтүче тамга"
+
+#. i18n: ectx: whatsthis, entry, group (Locale)
+#: kdeglobals.kcfg:434
+msgid "Most countries have no character for this"
+msgstr "Күпчелек ил бу тамганы кулланмый"
+
+#. i18n: ectx: label, entry, group (Paths)
+#: kdeglobals.kcfg:439
+msgid "Path to the autostart directory"
+msgstr "Автоматик рәвештә җибәрү каталогын билгеләү"
+
+#. i18n: ectx: whatsthis, entry, group (Paths)
+#: kdeglobals.kcfg:440
+msgid "Path to the directory containing executables to be run on session login"
+msgstr "KDE сеансын башлаганда җибәрелә торган кушымталар каталогын күрсәтү"
+
+#. i18n: ectx: label, entry, group (Socks)
+#: kdeglobals.kcfg:487
+msgid "Enable SOCKS support"
+msgstr "SOCKS коралын тоту"
+
+#. i18n: ectx: whatsthis, entry, group (Socks)
+#: kdeglobals.kcfg:488
+msgid "Whether SOCKS version 4 and 5 should be enabled in KDE's sub systems"
+msgstr "KDE чолгалынышында SOCKS коралының 4 һәм 5 юрамасын куллану"
+
+#. i18n: ectx: label, entry, group (Socks)
+#: kdeglobals.kcfg:492
+msgid "Path to custom SOCKS library"
+msgstr "SOCKS китапханәсен билгеләү"
+
+#. i18n: ectx: label, entry, group (Toolbar style)
+#: kdeglobals.kcfg:498
+msgid "Highlight toolbar buttons on mouse over"
+msgstr "Тычкан угы юнәлткән кораллар панелендәге төймәне яктырту"
+
+#. i18n: ectx: label, entry, group (Toolbar style)
+#: kdeglobals.kcfg:502
+msgid "Show text on toolbar icons "
+msgstr "Кораллар панелендәге текст белән билгечекләрне күрсәтү "
+
+#. i18n: ectx: whatsthis, entry, group (Toolbar style)
+#: kdeglobals.kcfg:503
+msgid "Whether text should be shown in addition to icons on toolbar icons"
+msgstr "Өстәмә булып корал панеленең билгечекләре янына аның язуын чагылдыру"
+
+#. i18n: ectx: label, entry (EchoMode), group (Passwords)
+#: kdeglobals.kcfg:524
+msgid "Password echo type"
+msgstr "Серсүзне керткәндә аны чагылдыру"
+
+#. i18n: ectx: label, entry (Dialog Size), group (KKeyDialog Settings)
+#: kdeglobals.kcfg:534
+msgid "The size of the dialog"
+msgstr "Диалогның зурлыгы"
+
 #: kpluginselector.cpp:139
 msgid ""
 "Automatic changes have been performed due to plugin dependencies. Click here "
@@ -174,167 +422,6 @@ msgstr "Компонентларны сайлагыз"
 #: ksettings/dialog.cpp:231
 msgid "Enable component"
 msgstr "Компонентны эшләтү"
-
-#~ msgid "Distance between desktop icons"
-#~ msgstr "Эш өстәлендәге билгечекләрнең арасы"
-
-#~ msgid "The distance between icons specified in pixels."
-#~ msgstr "Нокталар саны аша билгеләүче билгечекләрнең арасы."
-
-#~ msgid "Widget style to use"
-#~ msgstr "Виджетның кыяфәте"
-
-#~ msgid ""
-#~ "The name of the widget style, for example \"keramik\" or \"plastik\". "
-#~ "Without quotes."
-#~ msgstr ""
-#~ "Виджет кыяфәтенең исеме, мәсәлән, «keramik» яки «plastik» (куш тырнаксыз)."
-
-#~ msgid "Use the PC speaker"
-#~ msgstr "ПК динамигы белән куллану"
-
-#~ msgid ""
-#~ "Whether the ordinary PC speaker should be used instead of KDE's own "
-#~ "notifications system."
-#~ msgstr "KDE белдерү системасы урынына ПК динамигы белән куллану"
-
-#~ msgid "What terminal application to use"
-#~ msgstr "Терминалҗ кушымтаны билгеләү"
-
-#~ msgid ""
-#~ "Whenever a terminal application is launched this terminal emulator "
-#~ "program will be used.\n"
-#~ msgstr "Терминал өчен нинди кушымта белән кулланырга\n"
-
-#~ msgid "Fixed width font"
-#~ msgstr "Бер киңлектәге хәреф"
-
-#~ msgid ""
-#~ "This font is used when a fixed font is needed. A fixed font has a "
-#~ "constant width.\n"
-#~ msgstr ""
-#~ "Бу хәреф бер киңлектәге хәреф белән язылган текст өчен кулланылачак.\n"
-
-#~ msgid "System wide font"
-#~ msgstr "Система хәрефе"
-
-#~ msgid "Font for menus"
-#~ msgstr "Менюның хәрефе"
-
-#~ msgid "What font to use for menus in applications."
-#~ msgstr "Менюларда кулланылучы хәреф"
-
-#~ msgid "Color for links"
-#~ msgstr "Сылтаманың төсе"
-
-#~ msgid "What color links should be that have not yet been clicked on"
-#~ msgstr "Басылмаган сылтаманың төсе"
-
-#~ msgid "Color for visited links"
-#~ msgstr "Басылган сылтаманың төсе"
-
-#~ msgid "Font for the taskbar"
-#~ msgstr "Мәсьәлә панеленең хәрефе"
-
-#~ msgid ""
-#~ "What font to use for the panel at the bottom of the screen, where the "
-#~ "currently running applications are."
-#~ msgstr "Җибәрелгән кушымталарның исемлеге панеле өчен хәреф"
-
-#~ msgid "Fonts for toolbars"
-#~ msgstr "Корал панеленең хәрефе"
-
-#~ msgid "Shortcut for taking screenshot"
-#~ msgstr "Экран сүрәтен ясаучы төймә тезмәсе"
-
-#~ msgid "Shortcut for toggling Clipboard Actions on and off"
-#~ msgstr "Алыштуру буферы элементларын эшкә китерүче төймә тезмәсе"
-
-#~ msgid "Shortcut for shutting down the computer without confirmation"
-#~ msgstr "Компьютерны раслаусыз сүндерүче төймә тезмәсе"
-
-#~ msgid "Show directories first"
-#~ msgstr "Каталоглар баштан"
-
-#~ msgid ""
-#~ "Whether directories should be placed at the top when displaying files"
-#~ msgstr "Каталогларны файллар алдыннан урнаштыру."
-
-#~ msgid "The URLs recently visited"
-#~ msgstr "Басылган сылтамалар"
-
-#~ msgid "Used for auto-completion in file dialogs, for example"
-#~ msgstr "Мәсәлән, диалогта сүзне автоматик рәвештә тәмам итү өчен кулланыла"
-
-#~ msgid "Show file preview in file dialog"
-#~ msgstr "Файл сайлау диалогында кече сүрәтне чагылдыру"
-
-#~ msgid "Show hidden files"
-#~ msgstr "Качырылган файлларны чагылдыру"
-
-#~ msgid ""
-#~ "Whether files starting with a dot (convention for hidden files) should be "
-#~ "shown"
-#~ msgstr ""
-#~ "Бу көйләүне гамәл иткәндә качырылган (исеме ноктадан башланган) файлларны "
-#~ "чагылдыра"
-
-#~ msgid "Show speedbar"
-#~ msgstr "Тизләткеч панелен чагылдыру"
-
-#~ msgid ""
-#~ "Whether the shortcut icons to the left in the file dialog should be shown"
-#~ msgstr "Файл сайлау диалогының сул ягында тизләткеч панелен күрсәтү"
-
-#~ msgid "What country"
-#~ msgstr "Ил"
-
-#~ msgid ""
-#~ "Used to determine how to display numbers, currency and time/date, for "
-#~ "example"
-#~ msgstr ""
-#~ "Сан, акча җәмгысы, көн һәм вакытны күрсәтү форматын билгеләүдә кулланыла"
-
-#~ msgid "What language to use to display text"
-#~ msgstr "Текстның теле"
-
-#~ msgid "Character used for indicating positive numbers"
-#~ msgstr "Уңай санны күрсәтүче тамга"
-
-#~ msgid "Most countries have no character for this"
-#~ msgstr "Күпчелек ил бу тамганы кулланмый"
-
-#~ msgid "Path to the autostart directory"
-#~ msgstr "Автоматик рәвештә җибәрү каталогын билгеләү"
-
-#~ msgid ""
-#~ "Path to the directory containing executables to be run on session login"
-#~ msgstr "KDE сеансын башлаганда җибәрелә торган кушымталар каталогын күрсәтү"
-
-#~ msgid "Enable SOCKS support"
-#~ msgstr "SOCKS коралын тоту"
-
-#~ msgid "Whether SOCKS version 4 and 5 should be enabled in KDE's sub systems"
-#~ msgstr "KDE чолгалынышында SOCKS коралының 4 һәм 5 юрамасын куллану"
-
-#~ msgid "Path to custom SOCKS library"
-#~ msgstr "SOCKS китапханәсен билгеләү"
-
-#~ msgid "Highlight toolbar buttons on mouse over"
-#~ msgstr "Тычкан угы юнәлткән кораллар панелендәге төймәне яктырту"
-
-#~ msgid "Show text on toolbar icons "
-#~ msgstr "Кораллар панелендәге текст белән билгечекләрне күрсәтү "
-
-#~ msgid "Whether text should be shown in addition to icons on toolbar icons"
-#~ msgstr ""
-#~ "Өстәмә булып корал панеленең билгечекләре янына аның язуын чагылдыру"
-
-#~ msgid "Password echo type"
-#~ msgstr "Серсүзне керткәндә аны чагылдыру"
-
-#~ msgid "The size of the dialog"
-#~ msgstr "Диалогның зурлыгы"
 
 #~ msgid "Name"
 #~ msgstr "Исем"
