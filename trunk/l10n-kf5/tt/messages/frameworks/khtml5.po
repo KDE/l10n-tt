@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-08 08:34+0000\n"
+"POT-Creation-Date: 2014-08-22 08:13+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1365,7 +1365,9 @@ msgid "Embeddable component for multipart/mixed"
 msgstr "multipart/mixed өчен кертелә торган компонент"
 
 #: kmultipart/kmultipart.cpp:44
-msgid "Copyright 2001-2011, David Faure <email>faure@kde.org</email>"
+#, fuzzy
+#| msgid "Copyright 2001-2011, David Faure <email>faure@kde.org</email>"
+msgid "Copyright 2001-2011, David Faure <faure@kde.org>"
 msgstr "© David Faure <email>faure@kde.org</email>, 2001-2011"
 
 #: kmultipart/kmultipart.cpp:337
