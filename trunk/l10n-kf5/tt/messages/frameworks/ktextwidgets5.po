@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-24 08:50+0000\n"
+"POT-Creation-Date: 2014-09-06 08:12+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -21,11 +21,11 @@ msgstr ""
 msgid "Manage Link"
 msgstr "Сылтама"
 
-#: dialogs/klinkdialog.cpp:59
+#: dialogs/klinkdialog.cpp:60
 msgid "Link Text:"
 msgstr "Сылтаманың тексты:"
 
-#: dialogs/klinkdialog.cpp:62
+#: dialogs/klinkdialog.cpp:63
 msgid "Link URL:"
 msgstr "Сылтаманың URL:"
 
