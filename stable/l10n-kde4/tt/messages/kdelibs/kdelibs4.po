@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-16 06:53+0000\n"
+"POT-Creation-Date: 2014-09-21 05:36+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -8967,13 +8967,13 @@ msgstr "Бик зур (%1x%2)"
 msgid "Lock Toolbar Positions"
 msgstr "Корал панелен катыру"
 
-#: kdeui/widgets/ktoolbar.cpp:1326
+#: kdeui/widgets/ktoolbar.cpp:1328
 #, kde-format
 msgctxt "@action:intoolbar Text label of toolbar button"
 msgid "%1"
 msgstr "%1"
 
-#: kdeui/widgets/ktoolbar.cpp:1327
+#: kdeui/widgets/ktoolbar.cpp:1329
 #, kde-format
 msgctxt "@info:tooltip Tooltip of toolbar button"
 msgid "%1"
