@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-09-20 08:11+0000\n"
+"POT-Creation-Date: 2014-09-21 08:11+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1144,7 +1144,7 @@ msgctxt "Name"
 msgid "Qwant"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant.desktop:20
+#: src/urifilters/ikws/searchproviders/qwant.desktop:24
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&source=web"
 msgstr ""
@@ -1154,7 +1154,7 @@ msgctxt "Name"
 msgid "Qwant Images"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:20
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:24
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=images"
 msgstr ""
@@ -1164,7 +1164,7 @@ msgctxt "Name"
 msgid "Qwant News"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:20
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:24
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=news"
 msgstr ""
@@ -1174,7 +1174,7 @@ msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:20
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:24
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=shopping"
 msgstr ""
@@ -1184,7 +1184,7 @@ msgctxt "Name"
 msgid "Qwant Social"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:19
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:23
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=social"
 msgstr ""
@@ -1194,7 +1194,7 @@ msgctxt "Name"
 msgid "Qwant Videos"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:20
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:24
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=videos"
 msgstr ""
