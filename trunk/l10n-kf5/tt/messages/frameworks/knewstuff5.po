@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-09-29 07:45+0000\n"
+"POT-Creation-Date: 2014-10-07 10:10+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -448,6 +448,12 @@ msgstr "Алга бару"
 msgid "Finish"
 msgstr "Тәмамлау"
 
+#: uploaddialog.cpp:173
+#, fuzzy
+#| msgid "Loading provider information"
+msgid "Fetching provider information..."
+msgstr "Сервер турында мәгълуматны кабул итү"
+
 #: uploaddialog.cpp:180
 msgid "Fetching license data from server..."
 msgstr "Сервердан лицензияне кабул итү..."
@@ -455,6 +461,12 @@ msgstr "Сервердан лицензияне кабул итү..."
 #: uploaddialog.cpp:187
 msgid "Fetching content data from server..."
 msgstr "Сервердан мәгълуматны кабул итү..."
+
+#: uploaddialog.cpp:262
+#, fuzzy
+#| msgid "Loading provider information"
+msgid "Could not fetch provider information."
+msgstr "Сервер турында мәгълуматны кабул итү"
 
 #: uploaddialog.cpp:286
 msgid "Register a new account"
