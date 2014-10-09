@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-10-07 10:10+0000\n"
+"POT-Creation-Date: 2014-10-09 07:54+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -69,7 +69,7 @@ msgstr ""
 msgid "Unknown Open Collaboration Service API error. (%1)"
 msgstr "Open Collaboration Service хезмәтенең хатасы. (%1)"
 
-#: button.cpp:47
+#: button.cpp:49
 msgid "Download New Stuff..."
 msgstr "Әсбапларны кабул итү..."
 
@@ -439,85 +439,85 @@ msgstr "Яңарту"
 msgid "Install Again"
 msgstr "Яңадан урнаштыру"
 
-#: uploaddialog.cpp:62
+#: uploaddialog.cpp:63
 msgctxt "Opposite to Back"
 msgid "Next"
 msgstr "Алга бару"
 
-#: uploaddialog.cpp:67
+#: uploaddialog.cpp:68
 msgid "Finish"
 msgstr "Тәмамлау"
 
-#: uploaddialog.cpp:173
+#: uploaddialog.cpp:174
 #, fuzzy
 #| msgid "Loading provider information"
 msgid "Fetching provider information..."
 msgstr "Сервер турында мәгълуматны кабул итү"
 
-#: uploaddialog.cpp:180
+#: uploaddialog.cpp:181
 msgid "Fetching license data from server..."
 msgstr "Сервердан лицензияне кабул итү..."
 
-#: uploaddialog.cpp:187
+#: uploaddialog.cpp:188
 msgid "Fetching content data from server..."
 msgstr "Сервердан мәгълуматны кабул итү..."
 
-#: uploaddialog.cpp:262
+#: uploaddialog.cpp:263
 #, fuzzy
 #| msgid "Loading provider information"
 msgid "Could not fetch provider information."
 msgstr "Сервер турында мәгълуматны кабул итү"
 
-#: uploaddialog.cpp:286
+#: uploaddialog.cpp:287
 msgid "Register a new account"
 msgstr ""
 
-#: uploaddialog.cpp:310
+#: uploaddialog.cpp:311
 msgid "Checking login..."
 msgstr "Кереп карау..."
 
-#: uploaddialog.cpp:332
+#: uploaddialog.cpp:333
 msgid "Fetching your previously updated content..."
 msgstr "Элегрәк яңартылган эчтәлекне кабул итү..."
 
-#: uploaddialog.cpp:335
+#: uploaddialog.cpp:336
 msgid "Could not verify login, please try again."
 msgstr "Теркәлү мәгълуматын тикшереп булмады. Соңрак кереп карагыз."
 
-#: uploaddialog.cpp:354
+#: uploaddialog.cpp:355
 msgid "Fetching your previously updated content finished."
 msgstr "Элегрәк яңартылган эчтәлекне кабул итүе тәмамланды."
 
-#: uploaddialog.cpp:372
+#: uploaddialog.cpp:373
 msgid "Fetching content data from server finished."
 msgstr "Сервердан эчтәлекне кабул итүе тәмамланды..."
 
-#: uploaddialog.cpp:395 uploaddialog.cpp:831
+#: uploaddialog.cpp:396 uploaddialog.cpp:835
 msgctxt "A link to the website where the get hot new stuff upload can be seen"
 msgid "Visit website"
 msgstr "Веб сәхифәсенә кереп чыгу"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, UploadDialog)
-#: uploaddialog.cpp:441 uploaddialog.ui:14
+#: uploaddialog.cpp:442 uploaddialog.ui:14
 msgid "Share Hot New Stuff"
 msgstr "Әсбапны нәшер итү"
 
-#: uploaddialog.cpp:464
+#: uploaddialog.cpp:465
 #, kde-format
 msgctxt "Program name followed by 'Add On Uploader'"
 msgid "%1 Add-On Uploader"
 msgstr "%1 объектының өстәлмәләрне бастыру кушымтасы"
 
-#: uploaddialog.cpp:484 uploaddialog.cpp:756
+#: uploaddialog.cpp:485 uploaddialog.cpp:760
 #, kde-format
 msgid "File not found: %1"
 msgstr "%1 файлы табылмады."
 
-#: uploaddialog.cpp:484 uploaddialog.cpp:610 uploaddialog.cpp:756
+#: uploaddialog.cpp:485 uploaddialog.cpp:611 uploaddialog.cpp:760
 msgid "Upload Failed"
 msgstr "Файлны серверга тапшырганда хата килеп чыкты."
 
-#: uploaddialog.cpp:564
+#: uploaddialog.cpp:565
 #, kde-format
 msgid ""
 "The server does not recognize the category %2 to which you are trying to "
@@ -534,32 +534,32 @@ msgstr[1] ""
 "выполнить загрузку.Сервер не поддерживает категорию (%2), в которую вы "
 "хотите выполнить загрузку."
 
-#: uploaddialog.cpp:567
+#: uploaddialog.cpp:568
 msgid "Error"
 msgstr "Хата"
 
-#: uploaddialog.cpp:610
+#: uploaddialog.cpp:611
 #, kde-format
 msgid "The selected category \"%1\" is invalid."
 msgstr "«%1» исемле хаталы төркем сайланды."
 
-#: uploaddialog.cpp:659 uploaddialog.cpp:673 uploaddialog.cpp:686
+#: uploaddialog.cpp:660 uploaddialog.cpp:675 uploaddialog.cpp:689
 msgid "Select preview image"
 msgstr "Кече сүрәт өчен рәсем сайлау"
 
-#: uploaddialog.cpp:700
+#: uploaddialog.cpp:704
 msgid "There was a network error."
 msgstr "Челтәр хатасы килеп чыкты."
 
-#: uploaddialog.cpp:700 uploaddialog.cpp:705
+#: uploaddialog.cpp:704 uploaddialog.cpp:709
 msgid "Uploading Failed"
 msgstr "Файлны серверга тапшырып булмады."
 
-#: uploaddialog.cpp:705
+#: uploaddialog.cpp:709
 msgid "Authentication error."
 msgstr "Тиңләштерү хатасы килеп чыкты."
 
-#: uploaddialog.cpp:715
+#: uploaddialog.cpp:719
 #, kde-format
 msgid "Upload failed: %1"
 msgstr "Серверга тапшырып булмады: %1"
