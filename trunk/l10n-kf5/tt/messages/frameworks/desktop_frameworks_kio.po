@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-10-09 08:05+0000\n"
+"POT-Creation-Date: 2014-10-11 08:21+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -19,7 +19,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr "HTTP кешын бушату"
 
-#: src/ioslaves/http/http_cache_cleaner.desktop:45
+#: src/ioslaves/http/http_cache_cleaner.desktop:46
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "HTTP кэшенда булган иске керемнәрне бетерү"
@@ -29,7 +29,7 @@ msgctxt "Name"
 msgid "Cookie Jar"
 msgstr "Cookie Jar"
 
-#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:40
+#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:41
 msgctxt "Comment"
 msgid "Stores network cookies"
 msgstr "Челтәрле cookies'ны саклау"
@@ -90,7 +90,7 @@ msgctxt "Comment"
 msgid "Configure web shortcuts"
 msgstr ""
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:122
+#: src/kcms/webshortcuts/webshortcuts.desktop:123
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,"
@@ -102,7 +102,7 @@ msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "Челтәрнең прокси көйләнеше"
 
-#: src/kpac/proxyscout.desktop:40
+#: src/kpac/proxyscout.desktop:41
 msgctxt "Comment"
 msgid "Automatic proxy configuration"
 msgstr "Проксины автоматик рәвештә көйләү"
@@ -112,32 +112,32 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "Челтәрнең прокси көйләнеше"
 
-#: src/kpac/proxyscout.notifyrc:42
+#: src/kpac/proxyscout.notifyrc:43
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Прокси скриптында хата"
 
-#: src/kpac/proxyscout.notifyrc:81
+#: src/kpac/proxyscout.notifyrc:83
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "Кабул ителгән прокси көйләүченең скрипты бозык"
 
-#: src/kpac/proxyscout.notifyrc:124
+#: src/kpac/proxyscout.notifyrc:127
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Бирелгән скрипта хата"
 
-#: src/kpac/proxyscout.notifyrc:163
+#: src/kpac/proxyscout.notifyrc:167
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "Прокси көйләүченең скриптын кабыл итеп булмый"
 
-#: src/kpac/proxyscout.notifyrc:207
+#: src/kpac/proxyscout.notifyrc:212
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Скрипт эчтәлегендә хата"
 
-#: src/kpac/proxyscout.notifyrc:244
+#: src/kpac/proxyscout.notifyrc:250
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Прокси көйләүченең скриптын җибәргәндә ялгыш килеп чыкты"
@@ -157,7 +157,7 @@ msgctxt "Name"
 msgid "SSL Certificate Policy"
 msgstr "SSL Таныклыкларның Күрсәтмәсе"
 
-#: src/kssld/kssld.desktop:45
+#: src/kssld/kssld.desktop:46
 msgctxt "Comment"
 msgid "Provides SSL certificate policy to applications"
 msgstr "Кушылмалар өчен SSL таныклыкларның күрсәтмәсе"
@@ -1170,7 +1170,7 @@ msgctxt "Name"
 msgid "Qwant"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant.desktop:28
+#: src/urifilters/ikws/searchproviders/qwant.desktop:29
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&source=web"
 msgstr ""
@@ -1180,7 +1180,7 @@ msgctxt "Name"
 msgid "Qwant Images"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:28
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:29
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=images"
 msgstr ""
@@ -1190,7 +1190,7 @@ msgctxt "Name"
 msgid "Qwant News"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:28
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:29
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=news"
 msgstr ""
@@ -1200,7 +1200,7 @@ msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:28
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:29
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=shopping"
 msgstr ""
@@ -1210,7 +1210,7 @@ msgctxt "Name"
 msgid "Qwant Social"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:28
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:29
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=social"
 msgstr ""
@@ -1220,7 +1220,7 @@ msgctxt "Name"
 msgid "Qwant Videos"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:28
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:29
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=videos"
 msgstr ""
