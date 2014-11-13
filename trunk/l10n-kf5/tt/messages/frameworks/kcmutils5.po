@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-08 08:33+0000\n"
+"POT-Creation-Date: 2014-11-13 07:46+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -346,7 +346,7 @@ msgstr "Серсүзне керткәндә аны чагылдыру"
 msgid "The size of the dialog"
 msgstr "Диалогның зурлыгы"
 
-#: kpluginselector.cpp:139
+#: kpluginselector.cpp:140
 msgid ""
 "Automatic changes have been performed due to plugin dependencies. Click here "
 "for further information"
@@ -355,7 +355,7 @@ msgstr ""
 "автоматические изменения. Нажмите здесь для получения дополнительной "
 "информации"
 
-#: kpluginselector.cpp:208
+#: kpluginselector.cpp:209
 msgid ""
 "Automatic changes have been performed in order to satisfy plugin "
 "dependencies:\n"
@@ -363,7 +363,7 @@ msgstr ""
 "Для удовлетворения зависимости расширения будут предприняты следующие "
 "автоматические изменения:\n"
 
-#: kpluginselector.cpp:211
+#: kpluginselector.cpp:212
 #, kde-format
 msgid ""
 "\n"
@@ -373,7 +373,7 @@ msgstr ""
 "\n"
 "    Расширение %1 будет выбрано, так как от него зависит расширение %2"
 
-#: kpluginselector.cpp:213
+#: kpluginselector.cpp:214
 #, kde-format
 msgid ""
 "\n"
@@ -383,33 +383,33 @@ msgstr ""
 "\n"
 "    Расширение %1 не будет выбрано, так как зависит от расширения %2"
 
-#: kpluginselector.cpp:216
+#: kpluginselector.cpp:217
 msgid "Dependency Check"
 msgstr "Буйсынучыларга тикшерү"
 
-#: kpluginselector.cpp:233
+#: kpluginselector.cpp:234
 #, kde-format
 msgid "%1 plugin automatically added due to plugin dependencies"
 msgid_plural "%1 plugins automatically added due to plugin dependencies"
 msgstr[0] "%1 расширение автоматически добавлено при проверке зависимостей"
 msgstr[1] "%1 расширения автоматически добавлены при проверке зависимостей"
 
-#: kpluginselector.cpp:237
+#: kpluginselector.cpp:238
 msgid ", "
 msgstr ", "
 
-#: kpluginselector.cpp:241
+#: kpluginselector.cpp:242
 #, kde-format
 msgid "%1 plugin automatically removed due to plugin dependencies"
 msgid_plural "%1 plugins automatically removed due to plugin dependencies"
 msgstr[0] "%1 расширение автоматически удалено при проверке зависимостей"
 msgstr[1] "%1 расширения автоматически удалены при проверке зависимостей"
 
-#: kpluginselector.cpp:262
+#: kpluginselector.cpp:263
 msgid "Search Plugins"
 msgstr "Өстәлмәләрне эзләү"
 
-#: kpluginselector.cpp:785
+#: kpluginselector.cpp:786
 #, kde-format
 msgctxt "Used only for plugins"
 msgid "About %1"
