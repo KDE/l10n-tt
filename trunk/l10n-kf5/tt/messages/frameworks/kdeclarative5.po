@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-27 20:57+0000\n"
+"POT-Creation-Date: 2015-01-15 07:48+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -80,6 +80,44 @@ msgstr "Басылган төймә Qt коралы белән тотылмый.
 #: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:407
 msgid "Unsupported Key"
 msgstr "Төймә тотылмый"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:37
+msgid "Undo"
+msgstr "Кире кагу"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:45
+msgid "Redo"
+msgstr "Кабатлау"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:54
+msgid "Cut"
+msgstr "Кисү"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:62
+msgid "Copy"
+msgstr "Күчереп язу"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:70
+msgid "Paste"
+msgstr "Кую"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:78
+msgid "Delete"
+msgstr "Бетерү"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:91
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Clear"
+msgid "Clear"
+msgstr "Чистарту"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:100
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Select All"
+msgid "Select All"
+msgstr "Барысын сайлау"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
@@ -3824,9 +3862,6 @@ msgstr "Төймә тотылмый"
 #~ msgid "New..."
 #~ msgstr "Яңа..."
 
-#~ msgid "Delete"
-#~ msgstr "Бетерү"
-
 #~ msgid "More Actions"
 #~ msgstr "Башка гамәлләр"
 
@@ -4710,10 +4745,6 @@ msgstr "Төймә тотылмый"
 #~ msgstr "Билгеләүне кертеп кую"
 
 #~ msgctxt "@action"
-#~ msgid "Select All"
-#~ msgstr "Барысын сайлау"
-
-#~ msgctxt "@action"
 #~ msgid "Deselect"
 #~ msgstr "Сайлауны кире кагу"
 
@@ -4876,10 +4907,6 @@ msgstr "Төймә тотылмый"
 #~ msgctxt "@action"
 #~ msgid "Mail"
 #~ msgstr "Почта"
-
-#~ msgctxt "@action"
-#~ msgid "Clear"
-#~ msgstr "Чистарту"
 
 #~ msgctxt "@action"
 #~ msgid "Actual Size"
@@ -5062,26 +5089,14 @@ msgstr "Төймә тотылмый"
 #~ msgid "Props"
 #~ msgstr "Сыйфатлар"
 
-#~ msgid "Undo"
-#~ msgstr "Кире кагу"
-
 #~ msgid "Front"
 #~ msgstr "Фронт"
-
-#~ msgid "Copy"
-#~ msgstr "Күчереп язу"
 
 #~ msgid "Open"
 #~ msgstr "Ачу"
 
-#~ msgid "Paste"
-#~ msgstr "Кую"
-
 #~ msgid "Find"
 #~ msgstr "Эзләү"
-
-#~ msgid "Cut"
-#~ msgstr "Кисү"
 
 #~ msgid "&OK"
 #~ msgstr "ОК"
@@ -5231,9 +5246,6 @@ msgstr "Төймә тотылмый"
 
 #~ msgid "&Overwrite"
 #~ msgstr "&Алыштыру"
-
-#~ msgid "Redo"
-#~ msgstr "Кабатлау"
 
 #~ msgid "&Available:"
 #~ msgstr "&Булган:"
