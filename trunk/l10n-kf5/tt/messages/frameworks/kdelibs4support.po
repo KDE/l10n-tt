@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-18 08:05+0000\n"
+"POT-Creation-Date: 2015-01-23 08:22+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -6410,15 +6410,15 @@ msgctxt ""
 msgid "%Ey %EC"
 msgstr ""
 
-#: kdecore/kcmdlineargs.cpp:277
+#: kdecore/kcmdlineargs.cpp:278
 msgid "Use the X-server display 'displayname'"
 msgstr "X серверының «displayname» экранын куллану"
 
-#: kdecore/kcmdlineargs.cpp:280
+#: kdecore/kcmdlineargs.cpp:281
 msgid "Restore the application for the given 'sessionId'"
 msgstr "«sessionId» ачкычы аша кушымтаның сеансын торгызу"
 
-#: kdecore/kcmdlineargs.cpp:281
+#: kdecore/kcmdlineargs.cpp:282
 msgid ""
 "Causes the application to install a private color\n"
 "map on an 8-bit display"
@@ -6426,7 +6426,7 @@ msgstr ""
 "8-битлы экран очрагында кушымта\n"
 "үзенең төсләр җәдвәлен кулланачак"
 
-#: kdecore/kcmdlineargs.cpp:282
+#: kdecore/kcmdlineargs.cpp:283
 msgid ""
 "Limits the number of colors allocated in the color\n"
 "cube on an 8-bit display, if the application is\n"
@@ -6439,11 +6439,11 @@ msgstr ""
 "режимын куллана торган \n"
 "кушымталарда гына эшли"
 
-#: kdecore/kcmdlineargs.cpp:283
+#: kdecore/kcmdlineargs.cpp:284
 msgid "tells Qt to never grab the mouse or the keyboard"
 msgstr "qt коралына тычкан һәм клавиатураны тотып алуны тыя"
 
-#: kdecore/kcmdlineargs.cpp:284
+#: kdecore/kcmdlineargs.cpp:285
 msgid ""
 "running under a debugger can cause an implicit\n"
 "-nograb, use -dograb to override"
@@ -6451,15 +6451,15 @@ msgstr ""
 "көйләүчене -nograb ачкычы белән җибәрү.\n"
 "Бу алымны ачыклы рәвештә җибәрү өчен -dograb ачкычы белән кулланыгыз"
 
-#: kdecore/kcmdlineargs.cpp:285
+#: kdecore/kcmdlineargs.cpp:286
 msgid "switches to synchronous mode for debugging"
 msgstr "Көйләү өчен синхрон режимын җибәрә"
 
-#: kdecore/kcmdlineargs.cpp:287
+#: kdecore/kcmdlineargs.cpp:288
 msgid "defines the application font"
 msgstr "кушымтаның хәрефен билгели"
 
-#: kdecore/kcmdlineargs.cpp:289
+#: kdecore/kcmdlineargs.cpp:290
 msgid ""
 "sets the default background color and an\n"
 "application palette (light and dark shades are\n"
@@ -6469,27 +6469,27 @@ msgstr ""
 "һәм палитрасын билгели (ачык һәм кара\n"
 "күләгәләр санала)."
 
-#: kdecore/kcmdlineargs.cpp:291
+#: kdecore/kcmdlineargs.cpp:292
 msgid "sets the default foreground color"
 msgstr "текстның стандарт төсен билгели"
 
-#: kdecore/kcmdlineargs.cpp:293
+#: kdecore/kcmdlineargs.cpp:294
 msgid "sets the default button color"
 msgstr "Төймәләрнең стандарт төсен билгели"
 
-#: kdecore/kcmdlineargs.cpp:294
+#: kdecore/kcmdlineargs.cpp:295
 msgid "sets the application name"
 msgstr "кушымтаның исемен билгели"
 
-#: kdecore/kcmdlineargs.cpp:295
+#: kdecore/kcmdlineargs.cpp:296
 msgid "sets the application title (caption)"
 msgstr "кушымтаның баш исемен билгели"
 
-#: kdecore/kcmdlineargs.cpp:296
+#: kdecore/kcmdlineargs.cpp:297
 msgid "load the testability framework"
 msgstr ""
 
-#: kdecore/kcmdlineargs.cpp:298
+#: kdecore/kcmdlineargs.cpp:299
 msgid ""
 "forces the application to use a TrueColor visual on\n"
 "an 8-bit display"
@@ -6497,7 +6497,7 @@ msgstr ""
 "Кушымта 8-битлы экран белән тулы төсле\n"
 "экранда эшләгән кебек эшли."
 
-#: kdecore/kcmdlineargs.cpp:299
+#: kdecore/kcmdlineargs.cpp:300
 msgid ""
 "sets XIM (X Input Method) input style. Possible\n"
 "values are onthespot, overthespot, offthespot and\n"
@@ -6507,67 +6507,67 @@ msgstr ""
 "Мөмкин булган мәгънәләр: onthespot, overthespot, offthespot һәм\n"
 "root."
 
-#: kdecore/kcmdlineargs.cpp:300
+#: kdecore/kcmdlineargs.cpp:301
 msgid "set XIM server"
 msgstr "XIM серверын урнаштыра"
 
-#: kdecore/kcmdlineargs.cpp:301
+#: kdecore/kcmdlineargs.cpp:302
 msgid "disable XIM"
 msgstr "XIM серверын тыю"
 
-#: kdecore/kcmdlineargs.cpp:303
+#: kdecore/kcmdlineargs.cpp:304
 msgid "mirrors the whole layout of widgets"
 msgstr "виджетларның урнашуын кире чагылдыру"
 
-#: kdecore/kcmdlineargs.cpp:304
+#: kdecore/kcmdlineargs.cpp:305
 msgid "applies the Qt stylesheet to the application widgets"
 msgstr "Кушмытаның график элементларын Qt стиленә китерә"
 
-#: kdecore/kcmdlineargs.cpp:305
+#: kdecore/kcmdlineargs.cpp:306
 msgid ""
 "use a different graphics system instead of the default one, options are "
 "raster and opengl (experimental)"
 msgstr ""
 "эффектны җибәрү өчен күрсәтелгән график алымын куллану: raster яки opengl"
 
-#: kdecore/kcmdlineargs.cpp:306
+#: kdecore/kcmdlineargs.cpp:307
 msgid ""
 "QML JS debugger information. Application must be\n"
 "built with -DQT_DECLARATIVE_DEBUG for the debugger to be\n"
 "enabled"
 msgstr ""
 
-#: kdecore/kcmdlineargs.cpp:307
+#: kdecore/kcmdlineargs.cpp:308
 msgid "The windowing system platform (e.g. xcb or wayland)"
 msgstr ""
 
-#: kdecore/kcmdlineargs.cpp:309
+#: kdecore/kcmdlineargs.cpp:310
 msgid "Use 'caption' as name in the titlebar"
 msgstr "«caption» исемен баш исемдә куллану"
 
-#: kdecore/kcmdlineargs.cpp:310
+#: kdecore/kcmdlineargs.cpp:311
 msgid "Use 'icon' as the application icon"
 msgstr "«icon»ны кушымта билгечеге буларак куллану"
 
-#: kdecore/kcmdlineargs.cpp:311
+#: kdecore/kcmdlineargs.cpp:312
 msgid "Use alternative configuration file"
 msgstr "Альтернатив көйләү файлын куллану"
 
-#: kdecore/kcmdlineargs.cpp:312
+#: kdecore/kcmdlineargs.cpp:313
 msgid "Disable crash handler, to get core dumps"
 msgstr ""
 "Тоткарлыклар тикшерүен өзү. Бу көйләү тоткарлык очрагында core dump "
 "файлларын алу мөмкинлеген бирә."
 
-#: kdecore/kcmdlineargs.cpp:314
+#: kdecore/kcmdlineargs.cpp:315
 msgid "Waits for a WM_NET compatible windowmanager"
 msgstr "WM_NET белән туры килә торган тәрәзә мөһәррирен җибәрелүен көтү"
 
-#: kdecore/kcmdlineargs.cpp:316
+#: kdecore/kcmdlineargs.cpp:317
 msgid "sets the application GUI style"
 msgstr "кушымтаның график интерфейс стилен урнаштыра"
 
-#: kdecore/kcmdlineargs.cpp:317
+#: kdecore/kcmdlineargs.cpp:318
 msgid ""
 "sets the client geometry of the main widget - see man X for the argument "
 "format (usually WidthxHeight+XPos+YPos)"
@@ -6575,19 +6575,19 @@ msgstr ""
 "Кушымтаның баш тәрәзә урынын һәм зурлыгын билгели - аргументның рәвешен man "
 "X белешмәсе аша белеп була (гадәттә ул КИҢЛЕК×БИЕКЛЕК+X+Y)"
 
-#: kdecore/kcmdlineargs.cpp:435
+#: kdecore/kcmdlineargs.cpp:436
 msgid "KDE Application"
 msgstr "KDE кушымтасы"
 
-#: kdecore/kcmdlineargs.cpp:496
+#: kdecore/kcmdlineargs.cpp:497
 msgid "Qt"
 msgstr "Qt"
 
-#: kdecore/kcmdlineargs.cpp:499
+#: kdecore/kcmdlineargs.cpp:500
 msgid "KDE"
 msgstr "KDE"
 
-#: kdecore/kcmdlineargs.cpp:840
+#: kdecore/kcmdlineargs.cpp:841
 #, kde-format
 msgctxt "@info:shell %1 is cmdoption name"
 msgid "'%1' missing."
@@ -6607,7 +6607,7 @@ msgstr ""
 "KDE Программалаштыру Платформасы: %2\n"
 "%3: %4\n"
 
-#: kdecore/kcmdlineargs.cpp:919
+#: kdecore/kcmdlineargs.cpp:921
 #, kde-format
 msgctxt "the 2nd argument is a list of name+address, one on each line"
 msgid ""
@@ -6617,11 +6617,11 @@ msgstr ""
 "%1 яздылар:\n"
 "%2"
 
-#: kdecore/kcmdlineargs.cpp:1578
+#: kdecore/kcmdlineargs.cpp:1580
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr "Кушымтада ачылган бар файллар яки URL кулланудан соң бетереләчәк"
 
-#: kdecore/kcmdlineargs.cpp:1579
+#: kdecore/kcmdlineargs.cpp:1581
 msgid "KDE-tempfile"
 msgstr "KDE-tempfile"
 
