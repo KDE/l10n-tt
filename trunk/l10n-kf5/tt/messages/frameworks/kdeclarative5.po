@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-15 07:48+0000\n"
+"POT-Creation-Date: 2015-01-31 08:03+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -81,43 +81,35 @@ msgstr "Басылган төймә Qt коралы белән тотылмый.
 msgid "Unsupported Key"
 msgstr "Төймә тотылмый"
 
-#: qmlcontrols/kquickcontrols/private/TextMenu.qml:37
-msgid "Undo"
-msgstr "Кире кагу"
+#~ msgid "Undo"
+#~ msgstr "Кире кагу"
 
-#: qmlcontrols/kquickcontrols/private/TextMenu.qml:45
-msgid "Redo"
-msgstr "Кабатлау"
+#~ msgid "Redo"
+#~ msgstr "Кабатлау"
 
-#: qmlcontrols/kquickcontrols/private/TextMenu.qml:54
-msgid "Cut"
-msgstr "Кисү"
+#~ msgid "Cut"
+#~ msgstr "Кисү"
 
-#: qmlcontrols/kquickcontrols/private/TextMenu.qml:62
-msgid "Copy"
-msgstr "Күчереп язу"
+#~ msgid "Copy"
+#~ msgstr "Күчереп язу"
 
-#: qmlcontrols/kquickcontrols/private/TextMenu.qml:70
-msgid "Paste"
-msgstr "Кую"
+#~ msgid "Paste"
+#~ msgstr "Кую"
 
-#: qmlcontrols/kquickcontrols/private/TextMenu.qml:78
-msgid "Delete"
-msgstr "Бетерү"
+#~ msgid "Delete"
+#~ msgstr "Бетерү"
 
-#: qmlcontrols/kquickcontrols/private/TextMenu.qml:91
 #, fuzzy
-#| msgctxt "@action"
-#| msgid "Clear"
-msgid "Clear"
-msgstr "Чистарту"
+#~| msgctxt "@action"
+#~| msgid "Clear"
+#~ msgid "Clear"
+#~ msgstr "Чистарту"
 
-#: qmlcontrols/kquickcontrols/private/TextMenu.qml:100
 #, fuzzy
-#| msgctxt "@action"
-#| msgid "Select All"
-msgid "Select All"
-msgstr "Барысын сайлау"
+#~| msgctxt "@action"
+#~| msgid "Select All"
+#~ msgid "Select All"
+#~ msgstr "Барысын сайлау"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
