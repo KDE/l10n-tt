@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-31 08:03+0000\n"
+"POT-Creation-Date: 2015-02-10 09:59+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -42,6 +42,13 @@ msgstr "Үрнәкле"
 msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "Автоматик рәвештә билгеләү"
+
+#: kconfigdialog.cpp:45
+#, fuzzy
+#| msgid "Configure"
+msgctxt "@title:window"
+msgid "Configure"
+msgstr "Көйләү"
 
 #: klanguagebutton.cpp:194
 msgid "without name"
@@ -528,6 +535,41 @@ msgstr "«%1» &турында"
 #: kstandardaction_p.h:115
 msgid "About &KDE"
 msgstr "KDE &турында"
+
+#: ktipdialog.cpp:239
+#, fuzzy
+#| msgid "Tip of the Day"
+msgctxt "@title:window"
+msgid "Tip of the Day"
+msgstr "Бар монда бер киңәш..."
+
+#: ktipdialog.cpp:255
+#, fuzzy
+#| msgid "Did you know...?\n"
+msgctxt "@title"
+msgid "Did you know...?\n"
+msgstr "А сез беләсезме?\n"
+
+#: ktipdialog.cpp:307
+#, fuzzy
+#| msgid "&Show tips on startup"
+msgctxt "@option:check"
+msgid "&Show tips on startup"
+msgstr "&Җибәргәндә киңәшләрне чагылдыру"
+
+#: ktipdialog.cpp:312
+#, fuzzy
+#| msgid "&Previous"
+msgctxt "@action:button Goes to previous tip"
+msgid "&Previous"
+msgstr "&Кире кайту"
+
+#: ktipdialog.cpp:317
+#, fuzzy
+#| msgid "&Next"
+msgctxt "@action:button Goes to next tip, opposite to previous"
+msgid "&Next"
+msgstr "&Алга бару"
 
 #~ msgid "Name"
 #~ msgstr "Исем"
@@ -3559,9 +3601,6 @@ msgstr "KDE &турында"
 #~ msgid "Close Message"
 #~ msgstr "Хәбәрне ябу"
 
-#~ msgid "Configure"
-#~ msgstr "Көйләү"
-
 #~ msgid "Job"
 #~ msgstr "Эш"
 
@@ -4121,18 +4160,6 @@ msgstr "KDE &турында"
 #~ "This is the language which will be used if any previous languages do not "
 #~ "contain a proper translation."
 #~ msgstr "Сезнең телегезгә тәрҗемә булмаган вакытта бу тел кулланылачак."
-
-#~ msgid "Tip of the Day"
-#~ msgstr "Бар монда бер киңәш..."
-
-#~ msgid "Did you know...?\n"
-#~ msgstr "А сез беләсезме?\n"
-
-#~ msgid "&Show tips on startup"
-#~ msgstr "&Җибәргәндә киңәшләрне чагылдыру"
-
-#~ msgid "&Previous"
-#~ msgstr "&Кире кайту"
 
 #~ msgctxt "Opposite to Previous"
 #~ msgid "&Next"
@@ -7980,9 +8007,6 @@ msgstr "KDE &турында"
 
 #~ msgid "F&ind:"
 #~ msgstr "Э&зләү"
-
-#~ msgid "&Next"
-#~ msgstr "&Алга бару"
 
 #~ msgid "Opt&ions"
 #~ msgstr "Пар&аметрлар"
