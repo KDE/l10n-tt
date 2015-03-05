@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-31 08:03+0000\n"
+"POT-Creation-Date: 2015-03-05 09:24+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -16,6 +16,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 1.2\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Ainur Shakirov"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ainur.shakirov.tt@gmail.com"
+
+#: kpackagelauncherqml/main.cpp:42
+msgid "KPackage QML application shell"
+msgstr ""
+
+#: kpackagelauncherqml/main.cpp:50
+#, fuzzy
+#| msgid "defines the application font"
+msgid "The unique name of the application (mandatory)"
+msgstr "кушымтаның хәрефен билгели"
 
 #: qmlcontrols/kquickcontrols/KeySequenceItem.qml:38
 #, fuzzy
@@ -110,14 +128,6 @@ msgstr "Төймә тотылмый"
 #~| msgid "Select All"
 #~ msgid "Select All"
 #~ msgstr "Барысын сайлау"
-
-#~ msgctxt "NAME OF TRANSLATORS"
-#~ msgid "Your names"
-#~ msgstr "Ainur Shakirov"
-
-#~ msgctxt "EMAIL OF TRANSLATORS"
-#~ msgid "Your emails"
-#~ msgstr "ainur.shakirov.tt@gmail.com"
 
 #~ msgid "Name"
 #~ msgstr "Исем"
@@ -1154,9 +1164,6 @@ msgstr "Төймә тотылмый"
 
 #~ msgid "switches to synchronous mode for debugging"
 #~ msgstr "Көйләү өчен синхрон режимын җибәрә"
-
-#~ msgid "defines the application font"
-#~ msgstr "кушымтаның хәрефен билгели"
 
 #~ msgid ""
 #~ "sets the default background color and an\n"
