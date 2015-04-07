@@ -18,6 +18,33 @@ msgstr ""
 "X-Generator: Lokalize 1.2\n"
 "X-Qt-Contexts: true\n"
 
+#. Generic sans serif font presented in font choosers. When selected, the system will choose a real font, mandated by distro settings.
+#: fonthelpers.cpp:32
+#, fuzzy
+#| msgctxt "@item Font name"
+#| msgid "Sans Serif"
+msgctxt "FontHelpers|@item Font name"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#. Generic serif font presented in font choosers. When selected, the system will choose a real font, mandated by distro settings.
+#: fonthelpers.cpp:35
+#, fuzzy
+#| msgctxt "@item Font name"
+#| msgid "Serif"
+msgctxt "FontHelpers|@item Font name"
+msgid "Serif"
+msgstr "Киртек"
+
+#. Generic monospace font presented in font choosers. When selected, the system will choose a real font, mandated by distro settings.
+#: fonthelpers.cpp:38
+#, fuzzy
+#| msgctxt "@item Font name"
+#| msgid "Monospace"
+msgctxt "FontHelpers|@item Font name"
+msgid "Monospace"
+msgstr "Берара"
+
 #: fonthelpers.cpp:81
 #, fuzzy, qt-format
 #| msgctxt "@application/plain"
@@ -2478,6 +2505,79 @@ msgctxt "KLed|Accessible name of a Led whose state is off"
 msgid "LED off"
 msgstr ""
 
+#. Called after the button texts in standard message dialogs have been filtered by the messages above. Not visible to user.
+#: kmessagebox.cpp:77
+#, fuzzy
+#| msgctxt "@action:button post-filter"
+#| msgid "."
+msgctxt "KMessageBox|@action:button post-filter"
+msgid "."
+msgstr "."
+
+#: kmessagebox.cpp:180 kmessagebox.cpp:816 kmessagebox.cpp:865
+#, fuzzy
+#| msgid "&Details"
+msgctxt "KMessageBox|"
+msgid "&Details"
+msgstr "&Өстәмәләр"
+
+#: kmessagebox.cpp:317
+#, fuzzy
+#| msgid "Details"
+msgctxt "KMessageBox|"
+msgid "Details"
+msgstr "Өстәмә"
+
+#: kmessagebox.cpp:480 kmessagebox.cpp:534
+#, fuzzy
+#| msgid "Question"
+msgctxt "KMessageBox|"
+msgid "Question"
+msgstr "Сорау"
+
+#: kmessagebox.cpp:492 kmessagebox.cpp:548 kmessagebox.cpp:619
+#: kmessagebox.cpp:682 kmessagebox.cpp:751
+#, fuzzy
+#| msgid "Do not ask again"
+msgctxt "KMessageBox|"
+msgid "Do not ask again"
+msgstr "Башка бу сорауны бирмәү"
+
+#: kmessagebox.cpp:607 kmessagebox.cpp:670 kmessagebox.cpp:738
+#, fuzzy
+#| msgid "Warning"
+msgctxt "KMessageBox|"
+msgid "Warning"
+msgstr "Кисәтү"
+
+#: kmessagebox.cpp:790 kmessagebox.cpp:811
+#, fuzzy
+#| msgid "Error"
+msgctxt "KMessageBox|"
+msgid "Error"
+msgstr "Хата"
+
+#: kmessagebox.cpp:839 kmessagebox.cpp:860 kmessagebox.cpp:1123
+#, fuzzy
+#| msgid "Sorry"
+msgctxt "KMessageBox|"
+msgid "Sorry"
+msgstr "Ялгыш"
+
+#: kmessagebox.cpp:899
+#, fuzzy
+#| msgid "Information"
+msgctxt "KMessageBox|"
+msgid "Information"
+msgstr "Мәгълумат"
+
+#: kmessagebox.cpp:910
+#, fuzzy
+#| msgid "Do not show this message again"
+msgctxt "KMessageBox|"
+msgid "Do not show this message again"
+msgstr "Бу хәбәрне башка күрсәтмәү"
+
 #: kmessagewidget.cpp:90
 #, fuzzy
 #| msgid "&Close"
@@ -2491,6 +2591,40 @@ msgstr "&Ябу"
 msgctxt "KMessageWidget|"
 msgid "Close message"
 msgstr "Хәбәрне ябу"
+
+#: kmimetypechooser.cpp:89
+#, fuzzy
+#| msgid "Mime types"
+msgctxt "KMimeTypeChooser|"
+msgid "Mime Type"
+msgstr "MIME төрләре"
+
+#: kmimetypechooser.cpp:92
+#, fuzzy
+#| msgid "Comment"
+msgctxt "KMimeTypeChooser|"
+msgid "Comment"
+msgstr "Комментарий"
+
+#: kmimetypechooser.cpp:95
+#, fuzzy
+#| msgctxt "KCharselect unicode block name"
+#| msgid "Braille Patterns"
+msgctxt "KMimeTypeChooser|"
+msgid "Patterns"
+msgstr "Брайль калыплары"
+
+#: kmimetypechooser.cpp:108
+#, fuzzy
+#| msgid "&Edit..."
+msgctxt "KMimeTypeChooser|"
+msgid "&Edit..."
+msgstr "&Үзгәртү..."
+
+#: kmimetypechooser.cpp:118
+msgctxt "KMimeTypeChooser|"
+msgid "Click this button to display the familiar KDE mime type editor."
+msgstr ""
 
 #: knewpassworddialog.cpp:73
 #, fuzzy
@@ -3998,9 +4132,6 @@ msgstr ""
 
 #~ msgid "Translation files for KLocale"
 #~ msgstr "KLocale өчен тәрҗемә итү файллары"
-
-#~ msgid "Mime types"
-#~ msgstr "MIME төрләре"
 
 #~ msgid "Loadable modules"
 #~ msgstr "Йөкләнелә торган киңәйтмәләр"
@@ -6520,9 +6651,6 @@ msgstr ""
 #~ msgid " – "
 #~ msgstr " — "
 
-#~ msgid "&Details"
-#~ msgstr "&Өстәмәләр"
-
 #~ msgid "Get help..."
 #~ msgstr "Белешмә алу..."
 
@@ -6628,34 +6756,6 @@ msgstr ""
 #~ msgctxt "@action:button filter-cancel"
 #~ msgid "%1"
 #~ msgstr "%1"
-
-#~ msgctxt "@action:button post-filter"
-#~ msgid "."
-#~ msgstr "."
-
-#~ msgid "Details"
-#~ msgstr "Өстәмә"
-
-#~ msgid "Question"
-#~ msgstr "Сорау"
-
-#~ msgid "Do not ask again"
-#~ msgstr "Башка бу сорауны бирмәү"
-
-#~ msgid "Warning"
-#~ msgstr "Кисәтү"
-
-#~ msgid "Error"
-#~ msgstr "Хата"
-
-#~ msgid "Sorry"
-#~ msgstr "Ялгыш"
-
-#~ msgid "Information"
-#~ msgstr "Мәгълумат"
-
-#~ msgid "Do not show this message again"
-#~ msgstr "Бу хәбәрне башка күрсәтмәү"
 
 #~ msgid "Default:"
 #~ msgstr "Стандарт:"
@@ -6912,9 +7012,6 @@ msgstr ""
 #~ msgid "Regular e&xpression"
 #~ msgstr "&Регуляр гыйбарә"
 
-#~ msgid "&Edit..."
-#~ msgstr "&Үзгәртү..."
-
 #~ msgid "Replace With"
 #~ msgstr "Алыштыру"
 
@@ -7132,18 +7229,6 @@ msgstr ""
 #~ msgstr ""
 #~ "\n"
 #~ "Төзәтү кирәк."
-
-#~ msgctxt "@item Font name"
-#~ msgid "Sans Serif"
-#~ msgstr "Sans Serif"
-
-#~ msgctxt "@item Font name"
-#~ msgid "Serif"
-#~ msgstr "Киртек"
-
-#~ msgctxt "@item Font name"
-#~ msgid "Monospace"
-#~ msgstr "Берара"
 
 #~ msgctxt "@item Font name"
 #~ msgid "%1"
@@ -8206,9 +8291,6 @@ msgstr ""
 #~ msgctxt "Time zone"
 #~ msgid "Region"
 #~ msgstr "Өлкә"
-
-#~ msgid "Comment"
-#~ msgstr "Комментарий"
 
 #~ msgctxt "@title:menu"
 #~ msgid "Show Text"
