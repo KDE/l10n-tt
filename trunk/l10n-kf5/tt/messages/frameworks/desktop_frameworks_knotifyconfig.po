@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-12-15 07:57+0000\n"
+"POT-Creation-Date: 2015-04-08 08:38+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -19,32 +19,32 @@ msgctxt "Comment"
 msgid "Test for Knotify"
 msgstr "Knotify өчен тикшертү"
 
-#: tests/knotifytest.notifyrc:92
+#: tests/knotifytest.notifyrc:91
 msgctxt "Name"
 msgid "Group"
 msgstr "Группа"
 
-#: tests/knotifytest.notifyrc:183
+#: tests/knotifytest.notifyrc:181
 msgctxt "Comment"
 msgid "The group"
 msgstr "Төркем"
 
-#: tests/knotifytest.notifyrc:273
+#: tests/knotifytest.notifyrc:270
 msgctxt "Name"
 msgid "Online"
 msgstr "Онлайн"
 
-#: tests/knotifytest.notifyrc:363
+#: tests/knotifytest.notifyrc:359
 msgctxt "Comment"
 msgid "The contact is now connected"
 msgstr "Бу контакт тоташты"
 
-#: tests/knotifytest.notifyrc:455
+#: tests/knotifytest.notifyrc:450
 msgctxt "Name"
 msgid "Message Received"
 msgstr "Хәбәр кабул ителде"
 
-#: tests/knotifytest.notifyrc:543
+#: tests/knotifytest.notifyrc:537
 msgctxt "Comment"
 msgid "A Message has been received"
 msgstr "Хәбәр кабул ителгән иде"
