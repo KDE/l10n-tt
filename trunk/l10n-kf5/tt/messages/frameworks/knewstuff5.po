@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-11-12 07:56+0000\n"
+"POT-Creation-Date: 2015-04-16 08:32+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -360,6 +360,118 @@ msgstr "Яратучы булу"
 #: ui/itemsviewdelegate.cpp:148
 msgid "Install"
 msgstr "Урнаштыру"
+
+#: kmoretools/kmoretools.cpp:590
+#, fuzzy
+#| msgctxt ""
+#| "@option:check An item in a list of resources that allows to query for "
+#| "more resources to put in the list"
+#| msgid "More..."
+msgctxt "@action:inmenu"
+msgid "More"
+msgstr "Е~щё..."
+
+#: kmoretools/kmoretools.cpp:605
+#, fuzzy
+#| msgid "Installed"
+msgctxt "@action:inmenu"
+msgid "Not installed:"
+msgstr "Урнаштырылган"
+
+#: kmoretools/kmoretools.cpp:641
+#, fuzzy
+#| msgid "Confi&gure..."
+msgctxt "@action:inmenu"
+msgid "Configure..."
+msgstr "&Көйләү..."
+
+#: kmoretools/kmoretools_p.h:370
+#, fuzzy
+#| msgid "Visit contributor's homepage"
+msgctxt "@action:inmenu"
+msgid "Visit homepage"
+msgstr "Катнашучының веб-сәхифәсенә күчү"
+
+#: kmoretools/kmoretools_p.h:377
+#, fuzzy
+#| msgid "There is no matching item available.\n"
+msgctxt "@action:inmenu"
+msgid "No further information available."
+msgstr "Туры килгән элементлар юк.\n"
+
+#: kmoretools/kmoretoolsconfigdialog_p.cpp:191
+#, fuzzy
+#| msgid "Configure"
+msgid "Configure menu"
+msgstr "Көйләү"
+
+#: kmoretools/kmoretoolsconfigdialog_p.cpp:193
+#, fuzzy, kde-format
+#| msgid "&Configure %1..."
+msgid "Configure menu - %1"
+msgstr "%1 &көйләүләре..."
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbMainSection)
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:25
+#, fuzzy
+#| msgid "Maintainer"
+msgid "Main section"
+msgstr "Алып баручы"
+
+#. i18n: ectx: property (text), widget (QToolButton, buttonMoveDown)
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:58
+#, fuzzy
+#| msgid "Move &Down"
+msgid "Move down"
+msgstr "Аскарак &күчерү"
+
+#. i18n: ectx: property (text), widget (QToolButton, buttonMoveUp)
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:79
+#, fuzzy
+#| msgid "Move &Up"
+msgid "Move up"
+msgstr "Өскәрәк &күчерү"
+
+#. i18n: ectx: property (text), widget (QToolButton, buttonMoveToMain)
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:100
+msgid "Move to Main section"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QToolButton, buttonMoveToMore)
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:121
+#, fuzzy
+#| msgid "More Actions"
+msgid "Move to More section"
+msgstr "Башка гамәлләр"
+
+#. i18n: ectx: property (text), widget (QPushButton, buttonReset)
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:142
+msgid "Reset"
+msgstr "Кайтару"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbMoreSection)
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:161
+#, fuzzy
+#| msgid "More Actions"
+msgid "More section"
+msgstr "Башка гамәлләр"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:213
+msgid ""
+"For this menu there are some more tools suggested which are currently not "
+"installed:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, buttonNotInstalledTools)
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:223
+#, fuzzy
+#| msgctxt ""
+#| "@option:check An item in a list of resources that allows to query for "
+#| "more resources to put in the list"
+#| msgid "More..."
+msgid "More tools..."
+msgstr "Е~щё..."
 
 #: ui/entrydetailsdialog.cpp:91
 #, kde-format
@@ -3539,9 +3651,6 @@ msgstr "Тапшыруны башлау"
 #~ msgid "Configure S&hortcuts..."
 #~ msgstr "&Төймәләр тезмәләре..."
 
-#~ msgid "&Configure %1..."
-#~ msgstr "%1 &көйләүләре..."
-
 #~ msgid "Configure Tool&bars..."
 #~ msgstr "Кораллар &панеле көйләүләре..."
 
@@ -3735,9 +3844,6 @@ msgstr "Тапшыруны башлау"
 #~ msgctxt "Action to send an email to a contributor"
 #~ msgid "Email contributor"
 #~ msgstr "Канташучыга эл. почта аша хат тапшыру"
-
-#~ msgid "Visit contributor's homepage"
-#~ msgstr "Катнашучының веб-сәхифәсенә күчү"
 
 #~ msgctxt "Action to send an email to a contributor"
 #~ msgid ""
@@ -4079,9 +4185,6 @@ msgstr "Тапшыруны башлау"
 #~ msgid "Close Message"
 #~ msgstr "Хәбәрне ябу"
 
-#~ msgid "Configure"
-#~ msgstr "Көйләү"
-
 #~ msgid "Job"
 #~ msgstr "Эш"
 
@@ -4302,9 +4405,6 @@ msgstr "Тапшыруны башлау"
 #~ msgid "Reset Toolbars"
 #~ msgstr "Кораллар панелен торгызу"
 
-#~ msgid "Reset"
-#~ msgstr "Кайтару"
-
 #~ msgid "&Toolbar:"
 #~ msgstr "&Кораллар панеле:"
 
@@ -4448,9 +4548,6 @@ msgstr "Тапшыруны башлау"
 
 #~ msgid "Delete"
 #~ msgstr "Бетерү"
-
-#~ msgid "More Actions"
-#~ msgstr "Башка гамәлләр"
 
 #~ msgid "Save as Scheme Defaults"
 #~ msgstr "Үрнәкле схема итеп саклау"
@@ -5657,9 +5754,6 @@ msgstr "Тапшыруны башлау"
 #~ "Тәмамлау бермәгънәле түгел, бер варианттан\n"
 #~ "артыграк була.\n"
 
-#~ msgid "There is no matching item available.\n"
-#~ msgstr "Туры килгән элементлар юк.\n"
-
 #~ msgid "Backspace"
 #~ msgstr "Клавиша Backspace"
 
@@ -5841,9 +5935,6 @@ msgstr "Тапшыруны башлау"
 #~ msgctxt "Verb"
 #~ msgid "&Insert"
 #~ msgstr "&Кертелеш"
-
-#~ msgid "Confi&gure..."
-#~ msgstr "&Көйләү..."
 
 #~ msgid "Add"
 #~ msgstr "Өстәү"
@@ -6862,12 +6953,6 @@ msgstr "Тапшыруны башлау"
 
 #~ msgid "&Remove"
 #~ msgstr "&Бетерү"
-
-#~ msgid "Move &Up"
-#~ msgstr "Өскәрәк &күчерү"
-
-#~ msgid "Move &Down"
-#~ msgstr "Аскарак &күчерү"
 
 #~ msgid "&Help"
 #~ msgstr "Белешмә"
@@ -9643,9 +9728,6 @@ msgstr "Тапшыруны башлау"
 #~ msgid "Sebastian Trüg"
 #~ msgstr "Sebastian Trüg"
 
-#~ msgid "Maintainer"
-#~ msgstr "Алып баручы"
-
 #~ msgid "Tobias Koenig"
 #~ msgstr "Tobias Koenig"
 
@@ -9846,12 +9928,6 @@ msgstr "Тапшыруны башлау"
 
 #~ msgid "After"
 #~ msgstr "Моннан соң"
-
-#~ msgctxt ""
-#~ "@option:check An item in a list of resources that allows to query for "
-#~ "more resources to put in the list"
-#~ msgid "More..."
-#~ msgstr "Е~щё..."
 
 #~ msgctxt "@option:check A filter on file type"
 #~ msgid "Documents"
