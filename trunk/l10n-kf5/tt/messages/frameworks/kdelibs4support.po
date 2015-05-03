@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-30 08:12+0000\n"
+"POT-Creation-Date: 2015-05-03 08:52+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -2393,7 +2393,7 @@ msgctxt "@item Calendar system"
 msgid "Invalid Calendar Type"
 msgstr ""
 
-#: kdecore/kcalendarsystem.cpp:1494
+#: kdecore/kcalendarsystem.cpp:1495
 #, fuzzy
 #| msgctxt "subtraction"
 #| msgid "-"
@@ -2401,12 +2401,12 @@ msgctxt "Negative symbol as used for year numbers, e.g. -5 = 5 BC"
 msgid "-"
 msgstr "-"
 
-#: kdecore/kcalendarsystem.cpp:1531 kdecore/klocale_kde.cpp:2208
+#: kdecore/kcalendarsystem.cpp:1532 kdecore/klocale_kde.cpp:2208
 #: kio/kfilemetadataprovider.cpp:199
 msgid "Today"
 msgstr "Бүген"
 
-#: kdecore/kcalendarsystem.cpp:1533 kdecore/klocale_kde.cpp:2211
+#: kdecore/kcalendarsystem.cpp:1534 kdecore/klocale_kde.cpp:2211
 #: kio/kfilemetadataprovider.cpp:202
 msgid "Yesterday"
 msgstr "Кичә"
