@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-05-03 08:53+0000\n"
+"POT-Creation-Date: 2015-05-05 12:18+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -385,14 +385,14 @@ msgctxt "@action:inmenu"
 msgid "Configure..."
 msgstr "&Көйләү..."
 
-#: kmoretools/kmoretools_p.h:366
+#: kmoretools/kmoretools_p.h:382
 #, fuzzy
 #| msgid "Visit contributor's homepage"
 msgctxt "@action:inmenu"
 msgid "Visit homepage"
 msgstr "Катнашучының веб-сәхифәсенә күчү"
 
-#: kmoretools/kmoretools_p.h:373
+#: kmoretools/kmoretools_p.h:389
 #, fuzzy
 #| msgid "There is no matching item available.\n"
 msgctxt "@action:inmenu"
