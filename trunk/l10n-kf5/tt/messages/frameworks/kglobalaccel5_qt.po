@@ -82,6 +82,18 @@ msgctxt "KGlobalAccel|"
 msgid "Conflict With Registered Global Shortcut"
 msgstr "Төймәләрнең глобаль тезмә бәрелеше"
 
+#: runtime/main.cpp:61 runtime/main.cpp:63
+msgctxt "QObject|"
+msgid "KDE Global Shortcuts Service"
+msgstr ""
+
+#: runtime/main.cpp:66 runtime/main.cpp:67
+#, fuzzy
+#| msgid "Maintainer"
+msgctxt "QObject|"
+msgid "Maintainer"
+msgstr "Алып баручы"
+
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
 #~ msgstr "Ainur Shakirov"
@@ -9396,9 +9408,6 @@ msgstr "Төймәләрнең глобаль тезмә бәрелеше"
 
 #~ msgid "Sebastian Trüg"
 #~ msgstr "Sebastian Trüg"
-
-#~ msgid "Maintainer"
-#~ msgstr "Алып баручы"
 
 #~ msgid "Tobias Koenig"
 #~ msgstr "Tobias Koenig"
