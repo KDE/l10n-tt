@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-05-15 08:50+0000\n"
+"POT-Creation-Date: 2015-06-10 09:04+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -571,23 +571,23 @@ msgctxt "@action"
 msgid "Superscript"
 msgstr "Өске индекс"
 
-#: widgets/ktextedit.cpp:167
+#: widgets/ktextedit.cpp:164
 msgid "Nothing to spell check."
 msgstr "Нечего проверять."
 
-#: widgets/ktextedit.cpp:562
+#: widgets/ktextedit.cpp:559
 msgid "Check Spelling..."
 msgstr "Дөрес язылышны тикшерү..."
 
-#: widgets/ktextedit.cpp:566
+#: widgets/ktextedit.cpp:563
 msgid "Auto Spell Check"
 msgstr "Дөрес язылышны автоматик рәвештә тикшерү"
 
-#: widgets/ktextedit.cpp:571
+#: widgets/ktextedit.cpp:568
 msgid "Allow Tabulations"
 msgstr "Табуляцияне рөхсәт итү"
 
-#: widgets/ktextedit.cpp:604
+#: widgets/ktextedit.cpp:601
 msgid "Speak Text"
 msgstr "Текстны уку"
 
