@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-05-24 08:52+0000\n"
+"POT-Creation-Date: 2015-07-05 08:27+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -361,7 +361,7 @@ msgstr "Яратучы булу"
 msgid "Install"
 msgstr "Урнаштыру"
 
-#: kmoretools/kmoretools.cpp:637
+#: kmoretools/kmoretools.cpp:638
 #, fuzzy
 #| msgctxt ""
 #| "@option:check An item in a list of resources that allows to query for "
@@ -371,14 +371,14 @@ msgctxt "@action:inmenu"
 msgid "More"
 msgstr "Е~щё..."
 
-#: kmoretools/kmoretools.cpp:652
+#: kmoretools/kmoretools.cpp:653
 #, fuzzy
 #| msgid "Installed"
 msgctxt "@action:inmenu"
 msgid "Not installed:"
 msgstr "Урнаштырылган"
 
-#: kmoretools/kmoretools.cpp:688
+#: kmoretools/kmoretools.cpp:689
 #, fuzzy
 #| msgid "Confi&gure..."
 msgctxt "@action:inmenu"
