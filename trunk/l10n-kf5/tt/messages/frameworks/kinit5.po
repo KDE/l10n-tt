@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-02-04 07:44+0000\n"
+"POT-Creation-Date: 2015-08-03 08:07+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -58,44 +58,44 @@ msgstr ""
 "'%1'да kdemain'ны табып булмады.\n"
 "%2"
 
-#: klauncher/klauncher.cpp:490
+#: klauncher/klauncher.cpp:495
 #, fuzzy, kde-format
 #| msgid "KDEInit could not launch '%1'."
 msgid "KDEInit could not launch '%1'"
 msgstr "KDEInit '%1 кушымтасын җибәрә алмый."
 
-#: klauncher/klauncher.cpp:683 klauncher/klauncher.cpp:697
+#: klauncher/klauncher.cpp:688 klauncher/klauncher.cpp:702
 #, kde-format
 msgid "Could not find service '%1'."
 msgstr "'%1' хезмәтен табып булмый."
 
-#: klauncher/klauncher.cpp:715
+#: klauncher/klauncher.cpp:720
 #, kde-format
 msgid "Service '%1' must be executable to run."
 msgstr "Служба «%1» должна быть сделана выполняемой для запуска."
 
-#: klauncher/klauncher.cpp:717 klauncher/klauncher.cpp:758
+#: klauncher/klauncher.cpp:722 klauncher/klauncher.cpp:763
 #, kde-format
 msgid "Service '%1' is malformatted."
 msgstr "'%1' хезмәте дөрес булмаган форматка ия."
 
-#: klauncher/klauncher.cpp:852
+#: klauncher/klauncher.cpp:857
 #, kde-format
 msgid "Launching %1"
 msgstr "%1 җибәрелә"
 
-#: klauncher/klauncher.cpp:1054
+#: klauncher/klauncher.cpp:1059
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "'%1' билгесез беркетмә.\n"
 
-#: klauncher/klauncher.cpp:1060
+#: klauncher/klauncher.cpp:1065
 #, fuzzy, kde-format
 #| msgid "Could not find service '%1'."
 msgid "Could not find the '%1' plugin.\n"
 msgstr "'%1' хезмәтен табып булмый."
 
-#: klauncher/klauncher.cpp:1126
+#: klauncher/klauncher.cpp:1131
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "'%1' йөкләндерү хатасы:\n"
