@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-10 09:06+0000\n"
+"POT-Creation-Date: 2015-09-13 08:12+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -25,96 +25,98 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "ainur.shakirov.tt@gmail.com"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:61
+#: kbuildsycoca/kbuildsycoca_main.cpp:58
 #, fuzzy
 #| msgid "KBuildSycoca"
 msgctxt "application name"
 msgid "KBuildSycoca"
 msgstr "KBuildSycoca"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:63
+#: kbuildsycoca/kbuildsycoca_main.cpp:60
 #, fuzzy
 #| msgid "Rebuilds the system configuration cache."
 msgctxt "application description"
 msgid "Rebuilds the system configuration cache."
 msgstr "Система конфигурациясенең кэшын яңача ясау."
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:65
+#: kbuildsycoca/kbuildsycoca_main.cpp:62
 #, fuzzy
 #| msgid "(c) 1999-2002 KDE Developers"
 msgctxt "@info:credit"
 msgid "Copyright 1999-2014 KDE Developers"
 msgstr "© KDE чолганышы ясаучылары, 1999-2002"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:66
+#: kbuildsycoca/kbuildsycoca_main.cpp:63
 #, fuzzy
 #| msgid "David Faure"
 msgctxt "@info:credit"
 msgid "David Faure"
 msgstr "David Faure"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:67 kbuildsycoca/kbuildsycoca_main.cpp:70
+#: kbuildsycoca/kbuildsycoca_main.cpp:64 kbuildsycoca/kbuildsycoca_main.cpp:67
 #, fuzzy
 #| msgid "Author"
 msgctxt "@info:credit"
 msgid "Author"
 msgstr "Автор"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:69
+#: kbuildsycoca/kbuildsycoca_main.cpp:66
 #, fuzzy
 #| msgid "Waldo Bastian"
 msgctxt "@info:credit"
 msgid "Waldo Bastian"
 msgstr "~Waldo Bastian"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:80
+#: kbuildsycoca/kbuildsycoca_main.cpp:77
 #, fuzzy
-#| msgid "Do not signal applications to update"
+#| msgid "Disable checking files (dangerous)"
 msgctxt "@info:shell command-line option"
-msgid "Do not signal applications to update"
-msgstr "Кушымталарга яңарту сигналын тапшырмау"
+msgid ""
+"Do not signal applications to update (deprecated, no longer having any "
+"effect)"
+msgstr "Файллар тикшерүен өзү (игьтибар булыгыз - имин түгел)"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:83
+#: kbuildsycoca/kbuildsycoca_main.cpp:80
 #, fuzzy
 #| msgid "Disable incremental update, re-read everything"
 msgctxt "@info:shell command-line option"
 msgid "Disable incremental update, re-read everything"
 msgstr "Инкремент яңартуны өзү, бөтенесен укып чыгу"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:86
+#: kbuildsycoca/kbuildsycoca_main.cpp:83
 msgctxt "@info:shell command-line option"
 msgid "Check file timestamps (deprecated, no longer having any effect)"
 msgstr ""
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:89
+#: kbuildsycoca/kbuildsycoca_main.cpp:86
 #, fuzzy
 #| msgid "Disable checking files (dangerous)"
 msgctxt "@info:shell command-line option"
 msgid "Disable checking files (deprecated, no longer having any effect)"
 msgstr "Файллар тикшерүен өзү (игьтибар булыгыз - имин түгел)"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:92
+#: kbuildsycoca/kbuildsycoca_main.cpp:89
 #, fuzzy
 #| msgid "Create global database"
 msgctxt "@info:shell command-line option"
 msgid "Create global database"
 msgstr "Глобаль базаны ясау"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:95
+#: kbuildsycoca/kbuildsycoca_main.cpp:92
 #, fuzzy
 #| msgid "Perform menu generation test run only"
 msgctxt "@info:shell command-line option"
 msgid "Perform menu generation test run only"
 msgstr "Меню ясау тикшерүен гына башкару"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:98
+#: kbuildsycoca/kbuildsycoca_main.cpp:95
 #, fuzzy
 #| msgid "Track menu id for debug purposes"
 msgctxt "@info:shell command-line option"
 msgid "Track menu id for debug purposes"
 msgstr "Төзәткечнең идентификатор менюсын күзәтү"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:102
+#: kbuildsycoca/kbuildsycoca_main.cpp:99
 msgctxt "@info:shell command-line option"
 msgid "Switch QStandardPaths to test mode, for unit tests only"
 msgstr ""
@@ -204,6 +206,12 @@ msgstr "Ялгышлы хезмәт күрсәтелде"
 msgid "The service '%1' provides no library or the Library key is missing"
 msgstr ""
 "«%1» хезмәте китапханә белән тәэмин итә алмады яисә «Library» язуы табылмады "
+
+#, fuzzy
+#~| msgid "Do not signal applications to update"
+#~ msgctxt "@info:shell command-line option"
+#~ msgid "Do not signal applications to update"
+#~ msgstr "Кушымталарга яңарту сигналын тапшырмау"
 
 #, fuzzy
 #~| msgid "Check file timestamps"
