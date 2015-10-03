@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-02 05:35+0000\n"
+"POT-Creation-Date: 2015-10-03 05:48+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1026,7 +1026,7 @@ msgctxt "Name"
 msgid "SSL Certificate Policy"
 msgstr "SSL Таныклыкларның Күрсәтмәсе"
 
-#: kdecore/network/kssld/kssld.desktop:74
+#: kdecore/network/kssld/kssld.desktop:73
 msgctxt "Comment"
 msgid "Provides SSL certificate policy to applications"
 msgstr "Кушылмалар өчен SSL таныклыкларның күрсәтмәсе"
@@ -1186,7 +1186,7 @@ msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "Челтәрнең прокси көйләнеше"
 
-#: kio/misc/kpac/proxyscout.desktop:68
+#: kio/misc/kpac/proxyscout.desktop:67
 msgctxt "Comment"
 msgid "Automatic proxy configuration"
 msgstr "Проксины автоматик рәвештә көйләү"
@@ -1256,7 +1256,7 @@ msgctxt "Name"
 msgid "Cookie Jar"
 msgstr "Cookie Jar"
 
-#: kioslave/http/kcookiejar/kcookiejar.desktop:67
+#: kioslave/http/kcookiejar/kcookiejar.desktop:66
 msgctxt "Comment"
 msgid "Stores network cookies"
 msgstr "Челтәрле cookies'ны саклау"
