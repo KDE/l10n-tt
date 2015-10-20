@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-22 09:57+0000\n"
+"POT-Creation-Date: 2015-10-20 10:05+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -863,11 +863,11 @@ msgctxt "No shortcut defined"
 msgid "None"
 msgstr "Юк"
 
-#: kkeysequencewidget.cpp:706
+#: kkeysequencewidget.cpp:712
 msgid "The key you just pressed is not supported by Qt."
 msgstr "Басылган төймә Qt коралы белән тотылмый."
 
-#: kkeysequencewidget.cpp:707
+#: kkeysequencewidget.cpp:713
 msgid "Unsupported Key"
 msgstr "Төймә тотылмый"
 
