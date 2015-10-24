@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-20 09:13+0000\n"
+"POT-Creation-Date: 2015-10-24 08:56+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -24,7 +24,7 @@ msgctxt "Name"
 msgid "NSA Plugin"
 msgstr ""
 
-#: autotests/fakeplugin.desktop:46
+#: autotests/fakeplugin.desktop:47
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "KTextEditor Plugin"
@@ -32,12 +32,12 @@ msgctxt "Comment"
 msgid "Test Plugin Spy"
 msgstr "KTextEditor өстәмәсе"
 
-#: autotests/fakeplugin.desktop:107
+#: autotests/fakeplugin.desktop:109
 msgctxt "Keywords"
 msgid "word1;word2"
 msgstr ""
 
-#: autotests/fakeplugin.desktop:138
+#: autotests/fakeplugin.desktop:141
 msgctxt "X-KDE-Keywords"
 msgid "word3,word4"
 msgstr ""
@@ -47,7 +47,7 @@ msgctxt "Name"
 msgid "No Plugin"
 msgstr ""
 
-#: autotests/noplugin.desktop:44
+#: autotests/noplugin.desktop:45
 msgctxt "Comment"
 msgid "This does not have a library"
 msgstr ""
