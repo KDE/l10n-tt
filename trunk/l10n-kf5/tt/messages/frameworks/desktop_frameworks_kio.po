@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-24 08:53+0000\n"
+"POT-Creation-Date: 2015-11-30 08:34+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -430,7 +430,7 @@ msgctxt "Name"
 msgid "Folder..."
 msgstr ""
 
-#: src/new_file_templates/Directory.desktop:77
+#: src/new_file_templates/Directory.desktop:78
 msgctxt "Comment"
 msgid "Enter folder name:"
 msgstr ""
@@ -460,7 +460,7 @@ msgctxt "Name"
 msgid "Link to Application..."
 msgstr ""
 
-#: src/new_file_templates/linkProgram.desktop:73
+#: src/new_file_templates/linkProgram.desktop:74
 msgctxt "Comment"
 msgid "New Link to Application"
 msgstr ""
@@ -470,7 +470,7 @@ msgctxt "Name"
 msgid "Link to Location (URL)..."
 msgstr ""
 
-#: src/new_file_templates/linkURL.desktop:76
+#: src/new_file_templates/linkURL.desktop:77
 msgctxt "Comment"
 msgid "Enter link to location (URL):"
 msgstr ""

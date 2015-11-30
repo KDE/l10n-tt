@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-28 07:24+0000\n"
+"POT-Creation-Date: 2015-11-30 08:04+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -2048,37 +2048,37 @@ msgstr "Барысын сайлау"
 msgid "&Deselect All"
 msgstr "Барысын сайлау"
 
-#: kdebugdialog/main.cpp:104
+#: kdebugdialog/main.cpp:100
 msgid "KDebugDialog"
 msgstr ""
 
-#: kdebugdialog/main.cpp:105
+#: kdebugdialog/main.cpp:101
 msgid "A dialog box for setting preferences for debug output"
 msgstr ""
 
-#: kdebugdialog/main.cpp:106
+#: kdebugdialog/main.cpp:102
 #, fuzzy
 #| msgid "Copyright 2001-2011, David Faure <email>faure@kde.org</email>"
 msgid "Copyright 1999-2009, David Faure <faure@kde.org>"
 msgstr "© David Faure <email>faure@kde.org</email>, 2001-2011"
 
-#: kdebugdialog/main.cpp:107
+#: kdebugdialog/main.cpp:103
 msgid "David Faure"
 msgstr "David Faure"
 
-#: kdebugdialog/main.cpp:107
+#: kdebugdialog/main.cpp:103
 msgid "Maintainer"
 msgstr "Алып баручы"
 
-#: kdebugdialog/main.cpp:112
+#: kdebugdialog/main.cpp:108
 msgid "Show the fully-fledged dialog instead of the default list dialog"
 msgstr ""
 
-#: kdebugdialog/main.cpp:113
+#: kdebugdialog/main.cpp:109
 msgid "Turn area on"
 msgstr ""
 
-#: kdebugdialog/main.cpp:114
+#: kdebugdialog/main.cpp:110
 msgid "Turn area off"
 msgstr ""
 
@@ -2221,6 +2221,21 @@ msgstr "Билгесез яисә көтелмәгән хата килеп чы�
 msgctxt "Socket error code RemotelyDisconnected"
 msgid "remote host closed connection"
 msgstr "ерактагы үзәк элемтәне өзде"
+
+#: kdecore/k4aboutdata.cpp:267
+msgid ""
+"No licensing terms for this program have been specified.\n"
+"Please check the documentation or the source for any\n"
+"licensing terms.\n"
+msgstr ""
+"Бу кушымтада лицензия күрсәтелмәгән.\n"
+"Бәлки, ул кушымтаның документациясендә яки чыганаклы текстларында "
+"күрсәтелгәндер.\n"
+
+#: kdecore/k4aboutdata.cpp:273
+#, kde-format
+msgid "This program is distributed under the terms of the %1."
+msgstr "Кушымта %1 шартларында таратыла."
 
 #: kdecore/k4aboutdata.cpp:297
 msgctxt "@item license (short name)"
@@ -6629,6 +6644,104 @@ msgstr ""
 "%1 яздылар:\n"
 "%2"
 
+#: kdecore/kcmdlineargs.cpp:924
+msgid "This application was written by somebody who wants to remain anonymous."
+msgstr "Кушымтаның авторы билгесез булып калырга теләде."
+
+#: kdecore/kcmdlineargs.cpp:929
+msgid "Please use http://bugs.kde.org to report bugs.\n"
+msgstr "Хаталар турында хәбәрләр өчен http://bugs.kde.org белән кулланыгыз.\n"
+
+#: kdecore/kcmdlineargs.cpp:931
+#, kde-format
+msgid "Please report bugs to %1.\n"
+msgstr "Хаталар турында хәбәрләр өчен %1 белән кулланыгыз.\n"
+
+#: kdecore/kcmdlineargs.cpp:961
+#, kde-format
+msgid "Unexpected argument '%1'."
+msgstr "'%1' аргументы хаталы."
+
+#: kdecore/kcmdlineargs.cpp:1074
+msgid "Use --help to get a list of available command line options."
+msgstr "Рөхсәт булган исемлеген чагылдыру өчен --help ачкычын кулланыгыз."
+
+#: kdecore/kcmdlineargs.cpp:1096
+msgid "[options] "
+msgstr "[параметрлар] "
+
+#: kdecore/kcmdlineargs.cpp:1101
+#, kde-format
+msgid "[%1-options]"
+msgstr "[%1 параметрлары]"
+
+#: kdecore/kcmdlineargs.cpp:1122
+#, kde-format
+msgid "Usage: %1 %2\n"
+msgstr "Кулланыш: %1 %2\n"
+
+#: kdecore/kcmdlineargs.cpp:1125
+msgid ""
+"\n"
+"Generic options:\n"
+msgstr ""
+"\n"
+"Гомумән көйләү:\n"
+
+#: kdecore/kcmdlineargs.cpp:1127
+msgid "Show help about options"
+msgstr "Параметрлар турында белешмәне күрсәтү"
+
+#: kdecore/kcmdlineargs.cpp:1133
+#, kde-format
+msgid "Show %1 specific options"
+msgstr "%1 специфик параметрларын күрсәтү"
+
+#: kdecore/kcmdlineargs.cpp:1140
+msgid "Show all options"
+msgstr "Бөтен параметрларны күрсәтү"
+
+#: kdecore/kcmdlineargs.cpp:1141
+msgid "Show author information"
+msgstr "Автор турында мәгълүматны күрсәтү"
+
+#: kdecore/kcmdlineargs.cpp:1142
+msgid "Show version information"
+msgstr "Юрама турында мәгълүматны күрсәтү"
+
+#: kdecore/kcmdlineargs.cpp:1143
+msgid "Show license information"
+msgstr "Лицензия турында мәгълүматны күрсәтү"
+
+#: kdecore/kcmdlineargs.cpp:1144
+msgid "End of options"
+msgstr "Параметрлар ахыры"
+
+#: kdecore/kcmdlineargs.cpp:1164
+#, kde-format
+msgid ""
+"\n"
+"%1 options:\n"
+msgstr ""
+"\n"
+"%1 көйләве:\n"
+
+#: kdecore/kcmdlineargs.cpp:1166
+msgid ""
+"\n"
+"Options:\n"
+msgstr ""
+"\n"
+"Параметрлар:\n"
+
+#: kdecore/kcmdlineargs.cpp:1219
+msgid ""
+"\n"
+"Arguments:\n"
+msgstr ""
+"\n"
+"&Аргументлар:\n"
+
 #: kdecore/kcmdlineargs.cpp:1580
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr "Кушымтада ачылган бар файллар яки URL кулланудан соң бетереләчәк"
@@ -7035,6 +7148,32 @@ msgstr "%1 %2"
 msgctxt "concatenation of date/time and time zone"
 msgid "%1 %2"
 msgstr "%1 %2"
+
+#: kdecore/ksavefile.cpp:99
+msgid "No target filename has been given."
+msgstr "Максатлы файл күрсәтелмәгән."
+
+#: kdecore/ksavefile.cpp:106
+msgid "Already opened."
+msgstr "Файл инде ачылган."
+
+#: kdecore/ksavefile.cpp:135
+msgid "Insufficient permissions in target directory."
+msgstr "Максатлы каталогка язу рөхсәте юк."
+
+#: kdecore/ksavefile.cpp:139
+#, fuzzy
+#| msgid "Unable to open temporary file."
+msgid "Unable to open temporary file."
+msgstr "Вакытлы файлны ачып булмады."
+
+#: kdecore/ksavefile.cpp:249
+msgid "Synchronization to disk failed"
+msgstr "Дискка сихронизлаштырылган вакытта хата килеп чыкты"
+
+#: kdecore/ksavefile.cpp:280
+msgid "Error during rename."
+msgstr "Исемне узгәрткәндә хата киелп чыкты."
 
 #: kdecore/ksocketfactory.cpp:92 kdecore/ksocketfactory.cpp:106
 msgid "Timed out trying to connect to remote host"
@@ -12569,26 +12708,6 @@ msgstr ""
 #~ msgid "Configuration file \"%1\" not writable.\n"
 #~ msgstr "«%1» конфигурация файлына язу гамәле рөхсәт ителми.\n"
 
-#~ msgid "No target filename has been given."
-#~ msgstr "Максатлы файл күрсәтелмәгән."
-
-#~ msgid "Already opened."
-#~ msgstr "Файл инде ачылган."
-
-#~ msgid "Insufficient permissions in target directory."
-#~ msgstr "Максатлы каталогка язу рөхсәте юк."
-
-#, fuzzy
-#~| msgid "Unable to open temporary file."
-#~ msgid "Unable to open temporary file. Error was: %1."
-#~ msgstr "Вакытлы файлны ачып булмады."
-
-#~ msgid "Synchronization to disk failed"
-#~ msgstr "Дискка сихронизлаштырылган вакытта хата килеп чыкты"
-
-#~ msgid "Error during rename."
-#~ msgstr "Исемне узгәрткәндә хата киелп чыкты."
-
 #~ msgid "kde4-config"
 #~ msgstr "(C) 2005 Jeroen Wijnhout"
 
@@ -12733,98 +12852,11 @@ msgstr ""
 #~ msgid "%1 - unknown type of userpath\n"
 #~ msgstr "%1 - билгесез төр яки юл\n"
 
-#~ msgid ""
-#~ "No licensing terms for this program have been specified.\n"
-#~ "Please check the documentation or the source for any\n"
-#~ "licensing terms.\n"
-#~ msgstr ""
-#~ "Бу кушымтада лицензия күрсәтелмәгән.\n"
-#~ "Бәлки, ул кушымтаның документациясендә яки чыганаклы текстларында "
-#~ "күрсәтелгәндер.\n"
-
-#~ msgid "This program is distributed under the terms of the %1."
-#~ msgstr "Кушымта %1 шартларында таратыла."
-
 #~ msgid "Use the QWS display 'displayname'"
 #~ msgstr "QWS «displayname» экранын куллану"
 
 #~ msgid "forces the application to run as QWS Server"
 #~ msgstr "Кушымтаны QWS серверы шикелле эшләтә"
-
-#~ msgid ""
-#~ "This application was written by somebody who wants to remain anonymous."
-#~ msgstr "Кушымтаның авторы билгесез булып калырга теләде."
-
-#~ msgid "Please use http://bugs.kde.org to report bugs.\n"
-#~ msgstr ""
-#~ "Хаталар турында хәбәрләр өчен http://bugs.kde.org белән кулланыгыз.\n"
-
-#~ msgid "Please report bugs to %1.\n"
-#~ msgstr "Хаталар турында хәбәрләр өчен %1 белән кулланыгыз.\n"
-
-#~ msgid "Unexpected argument '%1'."
-#~ msgstr "'%1' аргументы хаталы."
-
-#~ msgid "Use --help to get a list of available command line options."
-#~ msgstr "Рөхсәт булган исемлеген чагылдыру өчен --help ачкычын кулланыгыз."
-
-#~ msgid "[options] "
-#~ msgstr "[параметрлар] "
-
-#~ msgid "[%1-options]"
-#~ msgstr "[%1 параметрлары]"
-
-#~ msgid "Usage: %1 %2\n"
-#~ msgstr "Кулланыш: %1 %2\n"
-
-#~ msgid ""
-#~ "\n"
-#~ "Generic options:\n"
-#~ msgstr ""
-#~ "\n"
-#~ "Гомумән көйләү:\n"
-
-#~ msgid "Show help about options"
-#~ msgstr "Параметрлар турында белешмәне күрсәтү"
-
-#~ msgid "Show %1 specific options"
-#~ msgstr "%1 специфик параметрларын күрсәтү"
-
-#~ msgid "Show all options"
-#~ msgstr "Бөтен параметрларны күрсәтү"
-
-#~ msgid "Show author information"
-#~ msgstr "Автор турында мәгълүматны күрсәтү"
-
-#~ msgid "Show version information"
-#~ msgstr "Юрама турында мәгълүматны күрсәтү"
-
-#~ msgid "Show license information"
-#~ msgstr "Лицензия турында мәгълүматны күрсәтү"
-
-#~ msgid "End of options"
-#~ msgstr "Параметрлар ахыры"
-
-#~ msgid ""
-#~ "\n"
-#~ "%1 options:\n"
-#~ msgstr ""
-#~ "\n"
-#~ "%1 көйләве:\n"
-
-#~ msgid ""
-#~ "\n"
-#~ "Options:\n"
-#~ msgstr ""
-#~ "\n"
-#~ "Параметрлар:\n"
-
-#~ msgid ""
-#~ "\n"
-#~ "Arguments:\n"
-#~ msgstr ""
-#~ "\n"
-#~ "&Аргументлар:\n"
 
 #~ msgid "Function must be called from the main thread."
 #~ msgstr "Функция процессның төп агымыннан чакырылырга тиеш."
