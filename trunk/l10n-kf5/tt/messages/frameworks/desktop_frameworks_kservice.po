@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-05 10:00+0000\n"
+"POT-Creation-Date: 2016-01-13 08:00+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -14,44 +14,6 @@ msgstr ""
 "X-Generator: Lokalize 1.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: autotests/fakekdedmodule.desktop:5
-msgctxt "Comment"
-msgid "KDED Module"
-msgstr "KDED модуле"
-
-#: autotests/fakeplugin.desktop:2
-msgctxt "Name"
-msgid "NSA Plugin"
-msgstr ""
-
-#: autotests/fakeplugin.desktop:47
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "KTextEditor Plugin"
-msgctxt "Comment"
-msgid "Test Plugin Spy"
-msgstr "KTextEditor өстәмәсе"
-
-#: autotests/fakeplugin.desktop:109
-msgctxt "Keywords"
-msgid "word1;word2"
-msgstr ""
-
-#: autotests/fakeplugin.desktop:144
-msgctxt "X-KDE-Keywords"
-msgid "word3,word4"
-msgstr ""
-
-#: autotests/noplugin.desktop:2
-msgctxt "Name"
-msgid "No Plugin"
-msgstr ""
-
-#: autotests/noplugin.desktop:46
-msgctxt "Comment"
-msgid "This does not have a library"
-msgstr ""
-
 #: src/services/application.desktop:4
 msgctxt "Name"
 msgid "Application"
@@ -61,6 +23,17 @@ msgstr "Кушымта"
 msgctxt "Name"
 msgid "KDE Plugin Information"
 msgstr "Name=KDE өстәмәсе турында мәгълүмат"
+
+#~ msgctxt "Comment"
+#~ msgid "KDED Module"
+#~ msgstr "KDED модуле"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "KTextEditor Plugin"
+#~ msgctxt "Comment"
+#~ msgid "Test Plugin Spy"
+#~ msgstr "KTextEditor өстәмәсе"
 
 #, fuzzy
 #~| msgctxt "Name"
