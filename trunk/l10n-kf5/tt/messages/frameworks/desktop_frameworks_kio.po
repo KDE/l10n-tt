@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-12-16 07:30+0000\n"
+"POT-Creation-Date: 2016-02-01 07:44+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -400,27 +400,27 @@ msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Прокси скриптында хата"
 
-#: src/kpac/proxyscout.notifyrc:97
+#: src/kpac/proxyscout.notifyrc:98
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "Кабул ителгән прокси көйләүченең скрипты бозык"
 
-#: src/kpac/proxyscout.notifyrc:147
+#: src/kpac/proxyscout.notifyrc:149
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Бирелгән скрипта хата"
 
-#: src/kpac/proxyscout.notifyrc:193
+#: src/kpac/proxyscout.notifyrc:196
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "Прокси көйләүченең скриптын кабыл итеп булмый"
 
-#: src/kpac/proxyscout.notifyrc:244
+#: src/kpac/proxyscout.notifyrc:248
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Скрипт эчтәлегендә хата"
 
-#: src/kpac/proxyscout.notifyrc:288
+#: src/kpac/proxyscout.notifyrc:292
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Прокси көйләүченең скриптын җибәргәндә ялгыш килеп чыкты"
@@ -558,7 +558,7 @@ msgctxt "Name"
 msgid "All Music Guide"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/amg.desktop:90
+#: src/urifilters/ikws/searchproviders/amg.desktop:91
 msgctxt "Query"
 msgid "http://www.allmusic.com/search/all/\\\\{@}"
 msgstr ""
@@ -568,7 +568,7 @@ msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:36
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:37
 msgctxt "Query"
 msgid "http://www.archlinux.org/packages/?q=\\\\{@}"
 msgstr ""
@@ -600,7 +600,7 @@ msgctxt "Name"
 msgid "Beolingus Online Dictionary"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/beolingus.desktop:72
+#: src/urifilters/ikws/searchproviders/beolingus.desktop:73
 msgctxt "Query"
 msgid ""
 "http://dict.tu-chemnitz.de/dings.cgi?"
@@ -1669,7 +1669,7 @@ msgctxt "Name"
 msgid "Urban Dictionary"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/urbandictionary.desktop:72
+#: src/urifilters/ikws/searchproviders/urbandictionary.desktop:73
 msgctxt "Query"
 msgid "http://www.urbandictionary.com/define.php?term=\\\\{@}"
 msgstr ""
@@ -1784,7 +1784,7 @@ msgctxt "Name"
 msgid "Yahoo Images"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yahoo_image.desktop:73
+#: src/urifilters/ikws/searchproviders/yahoo_image.desktop:74
 msgctxt "Query"
 msgid ""
 "http://images.search.yahoo.com/search/images;_ylt=A0geuy0K6JZLsVkB4m1XNyoA?"
@@ -1796,7 +1796,7 @@ msgctxt "Name"
 msgid "Yahoo Local"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yahoo_local.desktop:72
+#: src/urifilters/ikws/searchproviders/yahoo_local.desktop:73
 msgctxt "Query"
 msgid ""
 "http://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-img"
@@ -1807,7 +1807,7 @@ msgctxt "Name"
 msgid "Yahoo Shopping"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yahoo_shopping.desktop:72
+#: src/urifilters/ikws/searchproviders/yahoo_shopping.desktop:73
 msgctxt "Query"
 msgid ""
 "http://shopping.yahoo.com/search;_ylt=A0SO8ZgG65ZLyX8AsLX7w8QF;"
@@ -1820,7 +1820,7 @@ msgctxt "Name"
 msgid "Yahoo Video"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yahoo_video.desktop:72
+#: src/urifilters/ikws/searchproviders/yahoo_video.desktop:73
 msgctxt "Query"
 msgid ""
 "http://video.search.yahoo.com/search/video;_ylt=A0WTb_3a6JZLSHwAK7.JzbkF?"
