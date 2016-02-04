@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-27 03:25+0000\n"
+"POT-Creation-Date: 2016-02-04 07:18+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -715,12 +715,12 @@ msgstr "%1 төймәсен тотып, %2 төймәсенә басу"
 msgid "&Help"
 msgstr "Белешмә"
 
-#: kkeysequencewidget.cpp:128
+#: kkeysequencewidget.cpp:133
 #, kde-format
 msgid "Shortcut '%1' in Application %2 for action %3\n"
 msgstr "Комбинация клавиш «%1» в приложении %2 для действия «%3»\n"
 
-#: kkeysequencewidget.cpp:138
+#: kkeysequencewidget.cpp:143
 #, kde-format
 msgctxt ""
 "%1 is the number of conflicts (hidden), %2 is the key sequence of the "
@@ -735,32 +735,32 @@ msgstr[1] ""
 "Комбинация клавиш «%2» конфликтует со следующими комбинациями клавиш:\n"
 "Комбинация клавиш «%2» конфликтует со следующей комбинацией клавиш:\n"
 
-#: kkeysequencewidget.cpp:144
+#: kkeysequencewidget.cpp:149
 msgctxt "%1 is the number of shortcuts with which there is a conflict"
 msgid "Conflict with Registered Global Shortcut"
 msgid_plural "Conflict with Registered Global Shortcuts"
 msgstr[0] "Конфликт с глобальными комбинациями клавиш"
 msgstr[1] "Конфликт с глобальными комбинациями клавиш"
 
-#: kkeysequencewidget.cpp:146 kkeysequencewidget.cpp:233
-#: kkeysequencewidget.cpp:619 kshortcutseditor.cpp:624
-#: kshortcutseditor.cpp:642
+#: kkeysequencewidget.cpp:151 kkeysequencewidget.cpp:239
+#: kkeysequencewidget.cpp:630 kshortcutseditor.cpp:635
+#: kshortcutseditor.cpp:653
 msgid "Reassign"
 msgstr "Яңа белән бәйләү"
 
-#: kkeysequencewidget.cpp:214
+#: kkeysequencewidget.cpp:220
 msgctxt "%1 is the number of conflicts"
 msgid "Shortcut Conflict"
 msgid_plural "Shortcut Conflicts"
 msgstr[0] "Конфликты комбинаций клавиш"
 msgstr[1] "Конфликты комбинаций клавиш"
 
-#: kkeysequencewidget.cpp:218
+#: kkeysequencewidget.cpp:224
 #, kde-format
 msgid "Shortcut '%1' for action '%2'\n"
 msgstr "Комбинация клавиш «%1» для действия «%2»\n"
 
-#: kkeysequencewidget.cpp:223
+#: kkeysequencewidget.cpp:229
 #, kde-format
 msgctxt "%1 is the number of ambigious shortcut clashes (hidden)"
 msgid ""
@@ -789,11 +789,11 @@ msgstr[1] ""
 "\n"
 "%3"
 
-#: kkeysequencewidget.cpp:242
+#: kkeysequencewidget.cpp:248
 msgid "Shortcut conflict"
 msgstr "Төймә тезмәләре бәрелештә"
 
-#: kkeysequencewidget.cpp:243
+#: kkeysequencewidget.cpp:249
 #, kde-format
 msgid ""
 "<qt>The '%1' key combination is already used by the <b>%2</b> action."
@@ -802,7 +802,7 @@ msgstr ""
 "<qt>Комбинация клавиш %1 уже связана с действием <b>%2</b>.<br>Выберите "
 "уникальную комбинацию клавиш.</qt>"
 
-#: kkeysequencewidget.cpp:273
+#: kkeysequencewidget.cpp:279
 #, fuzzy
 #| msgid ""
 #| "Click on the button, then enter the shortcut like you would in the "
@@ -815,11 +815,11 @@ msgstr ""
 "Нажмите на кнопке и введите комбинацию клавиш.\n"
 "Например, для комбинации клавиш Ctrl+A зажмите клавишу Ctrl и нажмите A."
 
-#: kkeysequencewidget.cpp:465
+#: kkeysequencewidget.cpp:471
 msgid "Reserved Shortcut"
 msgstr "Зарезервированная комбинация клавиш"
 
-#: kkeysequencewidget.cpp:466
+#: kkeysequencewidget.cpp:472
 msgid ""
 "The F12 key is reserved on Windows, so cannot be used for a global "
 "shortcut.\n"
@@ -829,11 +829,11 @@ msgstr ""
 "глобальных комбинациях клавиш.\n"
 "Выберите другую комбинацию клавиш."
 
-#: kkeysequencewidget.cpp:613
+#: kkeysequencewidget.cpp:624
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Стандартлы төймә функциясе белән конфликт"
 
-#: kkeysequencewidget.cpp:614
+#: kkeysequencewidget.cpp:625
 #, kde-format
 msgid ""
 "The '%1' key combination is also used for the standard action \"%2\" that "
@@ -844,22 +844,22 @@ msgstr ""
 "во многих программах.\n"
 "Вы действительно хотите использовать эту комбинацию как глобальную?"
 
-#: kkeysequencewidget.cpp:659
+#: kkeysequencewidget.cpp:670
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "Кертү"
 
-#: kkeysequencewidget.cpp:666 kshortcuteditwidget.cpp:63
-#: kshortcuteditwidget.cpp:66
+#: kkeysequencewidget.cpp:677 kshortcuteditwidget.cpp:66
+#: kshortcuteditwidget.cpp:69
 msgctxt "No shortcut defined"
 msgid "None"
 msgstr "Юк"
 
-#: kkeysequencewidget.cpp:712
+#: kkeysequencewidget.cpp:723
 msgid "The key you just pressed is not supported by Qt."
 msgstr "Басылган төймә Qt коралы белән тотылмый."
 
-#: kkeysequencewidget.cpp:713
+#: kkeysequencewidget.cpp:724
 msgid "Unsupported Key"
 msgstr "Төймә тотылмый"
 
@@ -927,11 +927,11 @@ msgstr "Диалогның зурлыгы"
 msgid "The email address to send the bug report to."
 msgstr "Хата турында хисапны тапшыру өчен почта адресы."
 
-#: kshortcuteditwidget.cpp:62
+#: kshortcuteditwidget.cpp:65
 msgid "Default:"
 msgstr "Стандарт:"
 
-#: kshortcuteditwidget.cpp:70
+#: kshortcuteditwidget.cpp:73
 msgid "Custom:"
 msgstr "Кулдан:"
 
@@ -1082,11 +1082,11 @@ msgstr "Тычканның ишарә төймәсе"
 msgid "Mouse Shape Gesture"
 msgstr "Тычканның ишарә сыны"
 
-#: kshortcutseditor.cpp:619 kshortcutseditor.cpp:637
+#: kshortcutseditor.cpp:630 kshortcutseditor.cpp:648
 msgid "Key Conflict"
 msgstr "Төймәләр бәрелештә"
 
-#: kshortcutseditor.cpp:620
+#: kshortcutseditor.cpp:631
 #, kde-format
 msgid ""
 "The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
@@ -1095,7 +1095,7 @@ msgstr ""
 "%1 сырының рәвеше инде «%2» гамәленә бәйләнгән.\n"
 "Хәзерге гамәл белән бәйләргә телисезме?"
 
-#: kshortcutseditor.cpp:638
+#: kshortcutseditor.cpp:649
 #, kde-format
 msgid ""
 "The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
@@ -1104,45 +1104,45 @@ msgstr ""
 "%1 сызучы сыны инде «%2» гамәленә бәйләнгән.\n"
 "Хәзерге гамәл белән бәйләргә телисезме?"
 
-#: kshortcutseditor.cpp:685
+#: kshortcutseditor.cpp:696
 #, kde-format
 msgctxt "header for an applications shortcut list"
 msgid "Shortcuts for %1"
 msgstr "%1 өчен төймә тезмәсе"
 
 #. i18n: ectx: property (text), widget (QLabel, priLabel)
-#: kshortcutseditor.cpp:703 kshortcutwidget.ui:22
+#: kshortcutseditor.cpp:714 kshortcutwidget.ui:22
 msgid "Main:"
 msgstr "Баш:"
 
 #. i18n: ectx: property (text), widget (QLabel, altLabel)
-#: kshortcutseditor.cpp:704 kshortcutwidget.ui:52
+#: kshortcutseditor.cpp:715 kshortcutwidget.ui:52
 msgid "Alternate:"
 msgstr "Өстәмә:"
 
-#: kshortcutseditor.cpp:705
+#: kshortcutseditor.cpp:716
 msgid "Global:"
 msgstr "Глобаль:"
 
-#: kshortcutseditor.cpp:706
+#: kshortcutseditor.cpp:717
 #, fuzzy
 #| msgid "Global Alternate"
 msgid "Global alternate:"
 msgstr "Глобаль өстәмә"
 
-#: kshortcutseditor.cpp:721
+#: kshortcutseditor.cpp:732
 msgid "Action Name"
 msgstr "Гамәлнең исеме"
 
-#: kshortcutseditor.cpp:725
+#: kshortcutseditor.cpp:736
 msgid "Shortcuts"
 msgstr "Төймә тезмәләре"
 
-#: kshortcutseditor.cpp:729
+#: kshortcutseditor.cpp:740
 msgid "Description"
 msgstr "Тасвирлама"
 
-#: kshortcutseditoritem.cpp:51
+#: kshortcutseditoritem.cpp:54
 #, kde-format
 msgctxt "@item:intable Action name in shortcuts configuration"
 msgid "%1"
