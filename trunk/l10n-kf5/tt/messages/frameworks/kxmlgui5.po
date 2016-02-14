@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-10 07:26+0000\n"
+"POT-Creation-Date: 2016-02-14 07:17+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -715,12 +715,12 @@ msgstr "%1 төймәсен тотып, %2 төймәсенә басу"
 msgid "&Help"
 msgstr "Белешмә"
 
-#: kkeysequencewidget.cpp:133
+#: kkeysequencewidget.cpp:135
 #, kde-format
 msgid "Shortcut '%1' in Application %2 for action %3\n"
 msgstr "Комбинация клавиш «%1» в приложении %2 для действия «%3»\n"
 
-#: kkeysequencewidget.cpp:143
+#: kkeysequencewidget.cpp:145
 #, kde-format
 msgctxt ""
 "%1 is the number of conflicts (hidden), %2 is the key sequence of the "
@@ -735,32 +735,32 @@ msgstr[1] ""
 "Комбинация клавиш «%2» конфликтует со следующими комбинациями клавиш:\n"
 "Комбинация клавиш «%2» конфликтует со следующей комбинацией клавиш:\n"
 
-#: kkeysequencewidget.cpp:149
+#: kkeysequencewidget.cpp:151
 msgctxt "%1 is the number of shortcuts with which there is a conflict"
 msgid "Conflict with Registered Global Shortcut"
 msgid_plural "Conflict with Registered Global Shortcuts"
 msgstr[0] "Конфликт с глобальными комбинациями клавиш"
 msgstr[1] "Конфликт с глобальными комбинациями клавиш"
 
-#: kkeysequencewidget.cpp:151 kkeysequencewidget.cpp:239
-#: kkeysequencewidget.cpp:630 kshortcutseditor.cpp:635
+#: kkeysequencewidget.cpp:153 kkeysequencewidget.cpp:241
+#: kkeysequencewidget.cpp:632 kshortcutseditor.cpp:635
 #: kshortcutseditor.cpp:653
 msgid "Reassign"
 msgstr "Яңа белән бәйләү"
 
-#: kkeysequencewidget.cpp:220
+#: kkeysequencewidget.cpp:222
 msgctxt "%1 is the number of conflicts"
 msgid "Shortcut Conflict"
 msgid_plural "Shortcut Conflicts"
 msgstr[0] "Конфликты комбинаций клавиш"
 msgstr[1] "Конфликты комбинаций клавиш"
 
-#: kkeysequencewidget.cpp:224
+#: kkeysequencewidget.cpp:226
 #, kde-format
 msgid "Shortcut '%1' for action '%2'\n"
 msgstr "Комбинация клавиш «%1» для действия «%2»\n"
 
-#: kkeysequencewidget.cpp:229
+#: kkeysequencewidget.cpp:231
 #, kde-format
 msgctxt "%1 is the number of ambigious shortcut clashes (hidden)"
 msgid ""
@@ -789,11 +789,11 @@ msgstr[1] ""
 "\n"
 "%3"
 
-#: kkeysequencewidget.cpp:248
+#: kkeysequencewidget.cpp:250
 msgid "Shortcut conflict"
 msgstr "Төймә тезмәләре бәрелештә"
 
-#: kkeysequencewidget.cpp:249
+#: kkeysequencewidget.cpp:251
 #, kde-format
 msgid ""
 "<qt>The '%1' key combination is already used by the <b>%2</b> action."
@@ -802,7 +802,7 @@ msgstr ""
 "<qt>Комбинация клавиш %1 уже связана с действием <b>%2</b>.<br>Выберите "
 "уникальную комбинацию клавиш.</qt>"
 
-#: kkeysequencewidget.cpp:279
+#: kkeysequencewidget.cpp:281
 #, fuzzy
 #| msgid ""
 #| "Click on the button, then enter the shortcut like you would in the "
@@ -815,11 +815,11 @@ msgstr ""
 "Нажмите на кнопке и введите комбинацию клавиш.\n"
 "Например, для комбинации клавиш Ctrl+A зажмите клавишу Ctrl и нажмите A."
 
-#: kkeysequencewidget.cpp:471
+#: kkeysequencewidget.cpp:473
 msgid "Reserved Shortcut"
 msgstr "Зарезервированная комбинация клавиш"
 
-#: kkeysequencewidget.cpp:472
+#: kkeysequencewidget.cpp:474
 msgid ""
 "The F12 key is reserved on Windows, so cannot be used for a global "
 "shortcut.\n"
@@ -829,11 +829,11 @@ msgstr ""
 "глобальных комбинациях клавиш.\n"
 "Выберите другую комбинацию клавиш."
 
-#: kkeysequencewidget.cpp:624
+#: kkeysequencewidget.cpp:626
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Стандартлы төймә функциясе белән конфликт"
 
-#: kkeysequencewidget.cpp:625
+#: kkeysequencewidget.cpp:627
 #, kde-format
 msgid ""
 "The '%1' key combination is also used for the standard action \"%2\" that "
@@ -844,22 +844,22 @@ msgstr ""
 "во многих программах.\n"
 "Вы действительно хотите использовать эту комбинацию как глобальную?"
 
-#: kkeysequencewidget.cpp:670
+#: kkeysequencewidget.cpp:672
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "Кертү"
 
-#: kkeysequencewidget.cpp:677 kshortcuteditwidget.cpp:66
+#: kkeysequencewidget.cpp:679 kshortcuteditwidget.cpp:66
 #: kshortcuteditwidget.cpp:69
 msgctxt "No shortcut defined"
 msgid "None"
 msgstr "Юк"
 
-#: kkeysequencewidget.cpp:723
+#: kkeysequencewidget.cpp:725
 msgid "The key you just pressed is not supported by Qt."
 msgstr "Басылган төймә Qt коралы белән тотылмый."
 
-#: kkeysequencewidget.cpp:724
+#: kkeysequencewidget.cpp:726
 msgid "Unsupported Key"
 msgstr "Төймә тотылмый"
 
@@ -935,81 +935,93 @@ msgstr "Стандарт:"
 msgid "Custom:"
 msgstr "Кулдан:"
 
-#: kshortcutschemeseditor.cpp:43
+#: kshortcutschemeseditor.cpp:44
 msgid "Shortcut Schemes"
 msgstr "Бәйләнү схемалары"
 
-#: kshortcutschemeseditor.cpp:62
+#: kshortcutschemeseditor.cpp:65
 msgid "Current scheme:"
 msgstr "Хәзерге схема:"
 
-#: kshortcutschemeseditor.cpp:72
+#: kshortcutschemeseditor.cpp:81
 msgid "New..."
 msgstr "Яңа..."
 
-#: kshortcutschemeseditor.cpp:75
+#: kshortcutschemeseditor.cpp:84
 msgid "Delete"
 msgstr "Бетерү"
 
-#: kshortcutschemeseditor.cpp:78
+#: kshortcutschemeseditor.cpp:87
 msgid "More Actions"
 msgstr "Башка гамәлләр"
 
-#: kshortcutschemeseditor.cpp:82
-msgid "Save as Scheme Defaults"
-msgstr "Үрнәкле схема итеп саклау"
+#: kshortcutschemeseditor.cpp:91
+#, fuzzy
+#| msgid "Shortcut Schemes"
+msgid "Save shortcuts to scheme"
+msgstr "Бәйләнү схемалары"
 
-#: kshortcutschemeseditor.cpp:84
+#: kshortcutschemeseditor.cpp:93
 msgid "Export Scheme..."
 msgstr "Схеманы чыгару..."
 
-#: kshortcutschemeseditor.cpp:86
+#: kshortcutschemeseditor.cpp:95
 #, fuzzy
 #| msgid "Export Scheme..."
 msgid "Import Scheme..."
 msgstr "Схеманы чыгару..."
 
-#: kshortcutschemeseditor.cpp:102
+#: kshortcutschemeseditor.cpp:111
 msgid "Name for New Scheme"
 msgstr "Яңа схеманың исеме"
 
-#: kshortcutschemeseditor.cpp:103
+#: kshortcutschemeseditor.cpp:112
 msgid "Name for new scheme:"
 msgstr "Яңа схеманың исеме:"
 
-#: kshortcutschemeseditor.cpp:103
+#: kshortcutschemeseditor.cpp:112
 msgid "New Scheme"
 msgstr "Яңа схема"
 
-#: kshortcutschemeseditor.cpp:109
+#: kshortcutschemeseditor.cpp:118
 msgid "A scheme with this name already exists."
 msgstr "Мондый исемле схема инде бар."
 
-#: kshortcutschemeseditor.cpp:138
+#: kshortcutschemeseditor.cpp:148
 #, kde-format
 msgid ""
 "Do you really want to delete the scheme %1?\n"
 "Note that this will not remove any system wide shortcut schemes."
 msgstr "«%1» схемасын бетерергәме?"
 
-#: kshortcutschemeseditor.cpp:168
+#: kshortcutschemeseditor.cpp:178
 #, fuzzy
 #| msgid "Shortcuts"
 msgid "Export Shortcuts"
 msgstr "Төймә тезмәләре"
 
-#: kshortcutschemeseditor.cpp:168 kshortcutschemeseditor.cpp:179
+#: kshortcutschemeseditor.cpp:178 kshortcutschemeseditor.cpp:189
 #, fuzzy
 #| msgctxt "header for an applications shortcut list"
 #| msgid "Shortcuts for %1"
 msgid "Shortcuts (*.shortcuts)"
 msgstr "%1 өчен төймә тезмәсе"
 
-#: kshortcutschemeseditor.cpp:179
+#: kshortcutschemeseditor.cpp:189
 #, fuzzy
 #| msgid "Shortcuts"
 msgid "Import Shortcuts"
 msgstr "Төймә тезмәләре"
+
+#: kshortcutschemeseditor.cpp:200
+#, fuzzy
+#| msgid "The removal request was successfully registered."
+msgid "Shortcut scheme successfully saved."
+msgstr "Бетерүгә таләп теркәлде."
+
+#: kshortcutschemeseditor.cpp:203
+msgid "Error saving the shortcut scheme."
+msgstr ""
 
 #: kshortcutsdialog.cpp:85
 msgid ""
@@ -1019,11 +1031,13 @@ msgstr ""
 "Схемаларның хәзерге бәйләнүе үзгәртелде. Икенче схемага күчүгә кадәр "
 "үзгәрешләрне сакларгамы?"
 
-#: kshortcutsdialog.cpp:130 kshortcutsdialog.cpp:165
-msgid "&Details"
-msgstr "&Өстәмәләр"
+#: kshortcutsdialog.cpp:135
+#, fuzzy
+#| msgid "New Scheme"
+msgid "Manage &Schemes"
+msgstr "Яңа схема"
 
-#: kshortcutsdialog.cpp:149
+#: kshortcutsdialog.cpp:154
 msgid "Configure Shortcuts"
 msgstr "Төймәләр тезмәсен көйләү"
 
@@ -1372,6 +1386,12 @@ msgstr "&Көйләүләр"
 #: ui_standards.rc:194
 msgid "Main Toolbar"
 msgstr "Баш кораллар панеле"
+
+#~ msgid "Save as Scheme Defaults"
+#~ msgstr "Үрнәкле схема итеп саклау"
+
+#~ msgid "&Details"
+#~ msgstr "&Өстәмәләр"
 
 #~ msgid "Export to Location"
 #~ msgstr "Каталогка чыгару"
@@ -8763,9 +8783,6 @@ msgstr "Баш кораллар панеле"
 
 #~ msgid "Version: %1"
 #~ msgstr "Юрама: %1"
-
-#~ msgid "The removal request was successfully registered."
-#~ msgstr "Бетерүгә таләп теркәлде."
 
 #~ msgid "Removal of entry"
 #~ msgstr "Язманы бетерү"
