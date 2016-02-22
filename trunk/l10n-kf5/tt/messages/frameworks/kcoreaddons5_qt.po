@@ -228,7 +228,7 @@ msgstr "Кушымтаның авторы билгесез булып калыр
 #| "%1 was written by\n"
 #| "%2"
 msgctxt "KAboutData CLI|"
-msgid "%s was written by:\n"
+msgid "%s was written by:"
 msgstr ""
 "%1 яздылар:\n"
 "%2"
@@ -244,7 +244,7 @@ msgstr "Хаталар турында хәбәрләр өчен http://bugs.kde.
 #, fuzzy
 #| msgid "Please report bugs to %1.\n"
 msgctxt "KAboutData CLI|"
-msgid "Please report bugs to %s.\n"
+msgid "Please report bugs to %s."
 msgstr "Хаталар турында хәбәрләр өчен %1 белән кулланыгыз.\n"
 
 #: lib/plugin/kpluginloader.cpp:122
