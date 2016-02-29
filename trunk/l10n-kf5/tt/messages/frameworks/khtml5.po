@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-28 07:19+0000\n"
+"POT-Creation-Date: 2016-02-29 08:48+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -304,11 +304,11 @@ msgstr[0] "&Файлны тапшыру"
 msgstr[1] "&Файлларны тапшыру"
 
 #: html/html_formimpl.cpp:1687 html/html_formimpl.cpp:1908 khtml_part.cpp:4967
-#: khtmlview.cpp:2879 khtmlview.cpp:2923
+#: khtmlview.cpp:2877 khtmlview.cpp:2921
 msgid "Submit"
 msgstr "Бәяләмә өчен тапшыру"
 
-#: html/html_formimpl.cpp:1900 khtmlview.cpp:2894 khtmlview.cpp:2929
+#: html/html_formimpl.cpp:1900 khtmlview.cpp:2892 khtmlview.cpp:2927
 msgid "Reset"
 msgstr "Кайтару"
 
@@ -1319,7 +1319,7 @@ msgstr "Сурәт - %1x%2 пикселов"
 msgid "Done."
 msgstr "Әзер."
 
-#: khtmlview.cpp:1902
+#: khtmlview.cpp:1900
 msgid "Access Keys activated"
 msgstr "Рөхсәт итү ачкычларын куллану эшли"
 
