@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-01-24 05:16+0000\n"
+"POT-Creation-Date: 2016-03-28 05:48+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -40,7 +40,7 @@ msgctxt "Name|standard desktop component"
 msgid "Embedded Text Editor"
 msgstr "Кертелгән Текст Үзгәртүчесе"
 
-#: interfaces/ktexteditor/kcm_ktexteditor.desktop:77
+#: interfaces/ktexteditor/kcm_ktexteditor.desktop:78
 msgctxt "Comment"
 msgid ""
 "The text editor service provides applications with a text viewer and editor. "
