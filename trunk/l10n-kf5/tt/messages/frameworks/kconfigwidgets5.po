@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-26 07:54+0000\n"
+"POT-Creation-Date: 2016-06-01 07:19+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -62,40 +62,32 @@ msgstr "Язмасыз"
 msgid "Clear List"
 msgstr "Исемлекне чистарту"
 
-#: kstandardaction.cpp:90
+#: kstandardaction.cpp:88
 msgctxt "go back"
 msgid "&Back"
 msgstr "&Кире кайту"
 
-#: kstandardaction.cpp:97
+#: kstandardaction.cpp:95
 msgctxt "go forward"
 msgid "&Forward"
 msgstr "&Алга бару"
 
-#: kstandardaction.cpp:104
+#: kstandardaction.cpp:102
 msgctxt "home page"
 msgid "&Home"
 msgstr "&Башына күчү"
 
-#: kstandardaction.cpp:107
+#: kstandardaction.cpp:105
 msgctxt "show help"
 msgid "&Help"
 msgstr "Белешмә"
 
-#: kstandardaction.cpp:526 kstandardaction_p.h:96
-msgid "Show &Menubar"
-msgstr "Менюны &чагылдыру"
-
-#: kstandardaction.cpp:534
+#: kstandardaction.cpp:141
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr ""
 "Менюны чагылдыру<p>Качырылганнан соң менюны тагын бер тапкыр чагылдыру</p>"
 
-#: kstandardaction.cpp:552 kstandardaction_p.h:98
-msgid "Show St&atusbar"
-msgstr "Торыш юлын ч&агылдыру"
-
-#: kstandardaction.cpp:555
+#: kstandardaction.cpp:151
 #, fuzzy
 #| msgid ""
 #| "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
@@ -458,6 +450,10 @@ msgid "Check spelling in document"
 msgstr "Дөрес язылышны тикшерү"
 
 #: kstandardaction_p.h:96
+msgid "Show &Menubar"
+msgstr "Менюны &чагылдыру"
+
+#: kstandardaction_p.h:96
 #, fuzzy
 #| msgid "Show &Menubar"
 msgid "Show or hide menubar"
@@ -473,6 +469,10 @@ msgstr "Кораллар панелен &күрсәтү"
 #| msgid "Show Toolbar"
 msgid "Show or hide toolbar"
 msgstr "Кораллар панелен күрсәтү"
+
+#: kstandardaction_p.h:98
+msgid "Show St&atusbar"
+msgstr "Торыш юлын ч&агылдыру"
 
 #: kstandardaction_p.h:98
 #, fuzzy
