@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-06-27 08:16+0000\n"
+"POT-Creation-Date: 2016-07-03 07:26+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -97,7 +97,7 @@ msgstr "«%1» интерпретаторы билгесез."
 msgid "Failed to create script for interpreter \"%1\""
 msgstr "«%1» интепретаторының скриптын ясап булмады"
 
-#: core/manager.cpp:136
+#: core/manager.cpp:141
 msgid "Level of safety of the Ruby interpreter"
 msgstr "Ruby интепретаторының иминлек дәрәҗәсе"
 
