@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-07-05 08:03+0000\n"
+"POT-Creation-Date: 2016-07-20 07:58+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -625,7 +625,7 @@ msgstr "Элегрәк яңартылган эчтәлекне кабул итү
 msgid "Fetching content data from server finished."
 msgstr "Сервердан эчтәлекне кабул итүе тәмамланды..."
 
-#: uploaddialog.cpp:397 uploaddialog.cpp:836
+#: uploaddialog.cpp:397 uploaddialog.cpp:837
 msgctxt "A link to the website where the get hot new stuff upload can be seen"
 msgid "Visit website"
 msgstr "Веб сәхифәсенә кереп чыгу"
@@ -641,12 +641,12 @@ msgctxt "Program name followed by 'Add On Uploader'"
 msgid "%1 Add-On Uploader"
 msgstr "%1 объектының өстәлмәләрне бастыру кушымтасы"
 
-#: uploaddialog.cpp:486 uploaddialog.cpp:761
+#: uploaddialog.cpp:486 uploaddialog.cpp:762
 #, kde-format
 msgid "File not found: %1"
 msgstr "%1 файлы табылмады."
 
-#: uploaddialog.cpp:486 uploaddialog.cpp:612 uploaddialog.cpp:761
+#: uploaddialog.cpp:486 uploaddialog.cpp:613 uploaddialog.cpp:762
 msgid "Upload Failed"
 msgstr "Файлны серверга тапшырганда хата килеп чыкты."
 
@@ -671,28 +671,28 @@ msgstr[1] ""
 msgid "Error"
 msgstr "Хата"
 
-#: uploaddialog.cpp:612
+#: uploaddialog.cpp:613
 #, kde-format
 msgid "The selected category \"%1\" is invalid."
 msgstr "«%1» исемле хаталы төркем сайланды."
 
-#: uploaddialog.cpp:661 uploaddialog.cpp:676 uploaddialog.cpp:690
+#: uploaddialog.cpp:662 uploaddialog.cpp:677 uploaddialog.cpp:691
 msgid "Select preview image"
 msgstr "Кече сүрәт өчен рәсем сайлау"
 
-#: uploaddialog.cpp:705
+#: uploaddialog.cpp:706
 msgid "There was a network error."
 msgstr "Челтәр хатасы килеп чыкты."
 
-#: uploaddialog.cpp:705 uploaddialog.cpp:710
+#: uploaddialog.cpp:706 uploaddialog.cpp:711
 msgid "Uploading Failed"
 msgstr "Файлны серверга тапшырып булмады."
 
-#: uploaddialog.cpp:710
+#: uploaddialog.cpp:711
 msgid "Authentication error."
 msgstr "Тиңләштерү хатасы килеп чыкты."
 
-#: uploaddialog.cpp:720
+#: uploaddialog.cpp:721
 #, kde-format
 msgid "Upload failed: %1"
 msgstr "Серверга тапшырып булмады: %1"
