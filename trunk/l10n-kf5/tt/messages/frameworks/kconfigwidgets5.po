@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-08-01 07:32+0000\n"
+"POT-Creation-Date: 2016-08-17 06:33+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -551,6 +551,10 @@ msgstr "&Файлны тапшыру"
 
 #: kstandardaction_p.h:118
 msgid "&Move to Trash"
+msgstr ""
+
+#: kstandardaction_p.h:119
+msgid "&Donate"
 msgstr ""
 
 #: ktipdialog.cpp:238
