@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-04-17 07:24+0000\n"
+"POT-Creation-Date: 2016-09-07 06:58+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -93,25 +93,25 @@ msgctxt "@info:whatsthis"
 msgid "This is the file name suggested by the server"
 msgstr "Сервер белән тәкъдим ителгән файлның исеме."
 
-#: browserrun.cpp:344
+#: browserrun.cpp:346
 #, kde-format
 msgid "Do you really want to execute '%1'?"
 msgstr "«%1» объектын башкарырга телисезме?"
 
-#: browserrun.cpp:345
+#: browserrun.cpp:347
 msgid "Execute File?"
 msgstr "Файлны башкарыргамы?"
 
-#: browserrun.cpp:345
+#: browserrun.cpp:347
 msgid "Execute"
 msgstr "Башкару"
 
-#: browserrun.cpp:403
+#: browserrun.cpp:405
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "$PATH юнәлешендә менеджер йөкләндерү программасын табып булмый (%1). "
 
-#: browserrun.cpp:404
+#: browserrun.cpp:406
 msgid ""
 "Try to reinstall it  \n"
 "\n"
@@ -121,7 +121,7 @@ msgstr ""
 "\n"
 "Konqueror белән бәйләнеш өзеләчәк."
 
-#: browserrun.cpp:430
+#: browserrun.cpp:432
 msgid "Save As"
 msgstr "... итеп саклау"
 
