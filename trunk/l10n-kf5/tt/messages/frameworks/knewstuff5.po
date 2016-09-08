@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-08-30 07:42+0000\n"
+"POT-Creation-Date: 2016-09-08 07:29+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -75,7 +75,7 @@ msgstr ""
 msgid "Unknown Open Collaboration Service API error. (%1)"
 msgstr "Open Collaboration Service хезмәтенең хатасы. (%1)"
 
-#: button.cpp:49
+#: button.cpp:51
 msgid "Download New Stuff..."
 msgstr "Әсбапларны кабул итү..."
 
@@ -227,11 +227,11 @@ msgstr ""
 "<qt><i>gpg</i> җибәреп һәм файлны имзалап булмый. Истә тотыгыз, <i>gpg</i> "
 "урнаштырылган, чөнки ресурсларны имзалап булмаячак.</qt>"
 
-#: downloaddialog.cpp:80 downloadwidget.cpp:207
+#: downloaddialog.cpp:82 downloadwidget.cpp:207
 msgid "Get Hot New Stuff"
 msgstr "Алу"
 
-#: downloaddialog.cpp:92
+#: downloaddialog.cpp:94
 #, kde-format
 msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
