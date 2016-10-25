@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-09-08 07:29+0000\n"
+"POT-Creation-Date: 2016-10-25 07:39+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -23,7 +23,7 @@ msgstr ""
 msgid "All categories are missing"
 msgstr "Барлык төркемнәр"
 
-#: attica/atticaprovider.cpp:308
+#: attica/atticaprovider.cpp:309
 #, fuzzy, kde-format
 #| msgctxt ""
 #| "the price of a download item, parameter 1 is the currency, 2 is the price"
@@ -39,7 +39,7 @@ msgstr ""
 "Әсбапның бәясе %1 %2.\n"
 "Сатыа аласыгыз киләме?"
 
-#: attica/atticaprovider.cpp:322
+#: attica/atticaprovider.cpp:323
 #, kde-format
 msgid ""
 "Your account balance is too low:\n"
@@ -50,27 +50,27 @@ msgstr ""
 "Хәзер счётта: %1\n"
 "Бәя: %2"
 
-#: attica/atticaprovider.cpp:365
+#: attica/atticaprovider.cpp:366
 msgctxt "voting for an item (good/bad)"
 msgid "Your vote was recorded."
 msgstr "Сезнең тавышыгыз теркәлде."
 
-#: attica/atticaprovider.cpp:381
+#: attica/atticaprovider.cpp:382
 msgid "You are now a fan."
 msgstr "Хәзер сез бу өстәлмәнең яратучысы."
 
-#: attica/atticaprovider.cpp:392
+#: attica/atticaprovider.cpp:393
 #, kde-format
 msgid "Network error. (%1)"
 msgstr "Челтәр хатасы. (%1)"
 
-#: attica/atticaprovider.cpp:396
+#: attica/atticaprovider.cpp:397
 msgid "Too many requests to server. Please try again in a few minutes."
 msgstr ""
 "Серверга килгән элемтә саны артык зур. Берничә минуттан соң яңадан кереп "
 "карагыз."
 
-#: attica/atticaprovider.cpp:398
+#: attica/atticaprovider.cpp:399
 #, kde-format
 msgid "Unknown Open Collaboration Service API error. (%1)"
 msgstr "Open Collaboration Service хезмәтенең хатасы. (%1)"
