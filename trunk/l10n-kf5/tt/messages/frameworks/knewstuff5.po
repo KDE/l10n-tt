@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-10-25 07:39+0000\n"
+"POT-Creation-Date: 2016-11-04 07:09+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -23,7 +23,7 @@ msgstr ""
 msgid "All categories are missing"
 msgstr "Барлык төркемнәр"
 
-#: attica/atticaprovider.cpp:309
+#: attica/atticaprovider.cpp:316
 #, fuzzy, kde-format
 #| msgctxt ""
 #| "the price of a download item, parameter 1 is the currency, 2 is the price"
@@ -39,7 +39,7 @@ msgstr ""
 "Әсбапның бәясе %1 %2.\n"
 "Сатыа аласыгыз киләме?"
 
-#: attica/atticaprovider.cpp:323
+#: attica/atticaprovider.cpp:330
 #, kde-format
 msgid ""
 "Your account balance is too low:\n"
@@ -50,27 +50,27 @@ msgstr ""
 "Хәзер счётта: %1\n"
 "Бәя: %2"
 
-#: attica/atticaprovider.cpp:366
+#: attica/atticaprovider.cpp:373
 msgctxt "voting for an item (good/bad)"
 msgid "Your vote was recorded."
 msgstr "Сезнең тавышыгыз теркәлде."
 
-#: attica/atticaprovider.cpp:382
+#: attica/atticaprovider.cpp:389
 msgid "You are now a fan."
 msgstr "Хәзер сез бу өстәлмәнең яратучысы."
 
-#: attica/atticaprovider.cpp:393
+#: attica/atticaprovider.cpp:400
 #, kde-format
 msgid "Network error. (%1)"
 msgstr "Челтәр хатасы. (%1)"
 
-#: attica/atticaprovider.cpp:397
+#: attica/atticaprovider.cpp:404
 msgid "Too many requests to server. Please try again in a few minutes."
 msgstr ""
 "Серверга килгән элемтә саны артык зур. Берничә минуттан соң яңадан кереп "
 "карагыз."
 
-#: attica/atticaprovider.cpp:399
+#: attica/atticaprovider.cpp:406
 #, kde-format
 msgid "Unknown Open Collaboration Service API error. (%1)"
 msgstr "Open Collaboration Service хезмәтенең хатасы. (%1)"
@@ -106,7 +106,7 @@ msgstr "Тәэмин итүчеләр исемлеген файлдан алып
 msgid "Error initializing provider."
 msgstr "Тәэмин итәчесен башлап җибәреп булмады."
 
-#: core/engine.cpp:205 core/engine.cpp:522
+#: core/engine.cpp:205 core/engine.cpp:544
 msgid "Loading data"
 msgstr "Мәгълуматны кабул итү"
 
@@ -119,19 +119,19 @@ msgstr "Тәэмин итүчедән мәгүлуматны кабул итү"
 msgid "Loading of providers from file: %1 failed"
 msgstr "Тәэмин итүчеләрен файлдан алып булмады: %1"
 
-#: core/engine.cpp:482
+#: core/engine.cpp:504
 #, kde-format
 msgid "Re: %1"
 msgstr "Re: %1"
 
-#: core/engine.cpp:524
+#: core/engine.cpp:546
 #, kde-format
 msgid "Loading one preview"
 msgid_plural "Loading %1 previews"
 msgstr[0] "%1 кече сүрәтне кабул итү..."
 msgstr[1] "%1 кече сүрәтне кабул итү..."
 
-#: core/engine.cpp:526 ui/itemsgridviewdelegate.cpp:334
+#: core/engine.cpp:548 ui/itemsgridviewdelegate.cpp:334
 #: ui/itemsviewdelegate.cpp:128
 msgid "Installing"
 msgstr "Урнаштыру"
@@ -227,7 +227,7 @@ msgstr ""
 "<qt><i>gpg</i> җибәреп һәм файлны имзалап булмый. Истә тотыгыз, <i>gpg</i> "
 "урнаштырылган, чөнки ресурсларны имзалап булмаячак.</qt>"
 
-#: downloaddialog.cpp:82 downloadwidget.cpp:207
+#: downloaddialog.cpp:82 downloadwidget.cpp:209
 msgid "Get Hot New Stuff"
 msgstr "Алу"
 
@@ -241,47 +241,47 @@ msgstr "Программа установки дополнений для %1"
 msgid "Timeout. Check Internet connection."
 msgstr "Көтү вакыты үтте. Интернетка тоташуны тикшерегез."
 
-#: downloadwidget.cpp:179
+#: downloadwidget.cpp:181
 #, kde-format
 msgid "Server: %1"
 msgstr "Сервер: %1"
 
-#: downloadwidget.cpp:180
+#: downloadwidget.cpp:182
 #, kde-format
 msgid "<br />Provider: %1"
 msgstr "<br />Китереп бирүче: %1"
 
-#: downloadwidget.cpp:181
+#: downloadwidget.cpp:183
 #, kde-format
 msgid "<br />Version: %1"
 msgstr "<br />Юрама: %1"
 
-#: downloadwidget.cpp:185
+#: downloadwidget.cpp:187
 msgid "Provider information"
 msgstr "Китереп бирүче турында мәгълумат"
 
-#: downloadwidget.cpp:196
+#: downloadwidget.cpp:198
 #, kde-format
 msgid "Could not install %1"
 msgstr "Не удалось установить %1"
 
-#: downloadwidget.cpp:197
+#: downloadwidget.cpp:199
 msgid "Get Hot New Stuff!"
 msgstr "Әсбапларны Интернеттан кабул итү"
 
-#: downloadwidget.cpp:249
+#: downloadwidget.cpp:251
 msgid "Icons view mode"
 msgstr "Билгечекләр"
 
-#: downloadwidget.cpp:251
+#: downloadwidget.cpp:253
 msgid "Details view mode"
 msgstr "Исемлек"
 
-#: downloadwidget.cpp:266
+#: downloadwidget.cpp:268
 msgid "All Providers"
 msgstr "Булган тәэмин итүчеләр"
 
-#: downloadwidget.cpp:273
+#: downloadwidget.cpp:275
 msgid "All Categories"
 msgstr "Барлык төркемнәр"
 
