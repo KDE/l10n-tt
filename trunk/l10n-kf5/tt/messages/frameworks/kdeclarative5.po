@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-05-08 07:20+0000\n"
+"POT-Creation-Date: 2016-11-19 20:11+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -17,26 +17,29 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 1.2\n"
 
+#, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "Ainur Shakirov"
 
+#, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "ainur.shakirov.tt@gmail.com"
 
 #: kpackagelauncherqml/main.cpp:43
+#, kde-format
 msgid "KPackage QML application shell"
 msgstr ""
 
 #: kpackagelauncherqml/main.cpp:51
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "defines the application font"
 msgid "The unique name of the application (mandatory)"
 msgstr "кушымтаның хәрефен билгели"
 
 #: qmlcontrols/kquickcontrols/KeySequenceItem.qml:38
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid ""
 #| "Click on the button, then enter the shortcut like you would in the "
 #| "program.\n"
@@ -49,10 +52,12 @@ msgstr ""
 "Например, для комбинации клавиш Ctrl+A зажмите клавишу Ctrl и нажмите A."
 
 #: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:276
+#, kde-format
 msgid "Reserved Shortcut"
 msgstr "Зарезервированная комбинация клавиш"
 
 #: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:277
+#, kde-format
 msgid ""
 "The F12 key is reserved on Windows, so cannot be used for a global "
 "shortcut.\n"
@@ -63,6 +68,7 @@ msgstr ""
 "Выберите другую комбинацию клавиш."
 
 #: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:333
+#, kde-format
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Стандартлы төймә функциясе белән конфликт"
 
@@ -78,24 +84,29 @@ msgstr ""
 "Вы действительно хотите использовать эту комбинацию как глобальную?"
 
 #: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:339
+#, kde-format
 msgid "Reassign"
 msgstr "Яңа белән бәйләү"
 
 #: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:379
+#, kde-format
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "Кертү"
 
 #: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:386
+#, kde-format
 msgctxt "No shortcut defined"
 msgid "None"
 msgstr "Юк"
 
 #: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:407
+#, kde-format
 msgid "The key you just pressed is not supported by Qt."
 msgstr "Басылган төймә Qt коралы белән тотылмый."
 
 #: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:408
+#, kde-format
 msgid "Unsupported Key"
 msgstr "Төймә тотылмый"
 

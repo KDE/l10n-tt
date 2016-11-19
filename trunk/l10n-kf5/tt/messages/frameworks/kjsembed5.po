@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-27 20:58+0000\n"
+"POT-Creation-Date: 2016-11-19 20:12+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -38,10 +38,12 @@ msgid "library only takes 1 argument, not %1."
 msgstr "библиотека требует один аргумент, а не %1."
 
 #: kjsembed/builtins.cpp:137
+#, kde-format
 msgid "Alert"
 msgstr "Тревога"
 
 #: kjsembed/builtins.cpp:147
+#, kde-format
 msgid "Confirm"
 msgstr "Раслау"
 
@@ -62,6 +64,7 @@ msgid "Could not open file '%1'"
 msgstr "Не удалось открыть файл «%1»"
 
 #: kjsembed/fileio.cpp:106
+#, kde-format
 msgid "Could not create temporary file."
 msgstr "Не удалось создать временный файл."
 
@@ -76,14 +79,17 @@ msgid "%1 is not an Object type"
 msgstr "%1 не является объектом"
 
 #: kjsembed/qaction_binding.cpp:57
+#, kde-format
 msgid "Action takes 2 args."
 msgstr "Действие требует 2 аргумента."
 
 #: kjsembed/qaction_binding.cpp:79
+#, kde-format
 msgid "ActionGroup takes 2 args."
 msgstr "ActionGroup требует 2 аргумента."
 
 #: kjsembed/qaction_binding.cpp:84
+#, kde-format
 msgid "Must supply a valid parent."
 msgstr "Необходимо указать правильный родительский объект."
 
@@ -98,6 +104,7 @@ msgid "Could not read file '%1'"
 msgstr "Не удалось открыть файл «%1»"
 
 #: kjsembed/qformbuilder_binding.cpp:67 kjsembed/quiloader_binding.cpp:124
+#, kde-format
 msgid "Must supply a filename."
 msgstr "Необходимо указать имя файла."
 
@@ -107,18 +114,22 @@ msgid "'%1' is not a valid QLayout."
 msgstr "«%1» не является правильным объектом QLayout."
 
 #: kjsembed/qlayout_binding.cpp:93
+#, kde-format
 msgid "Must supply a layout name."
 msgstr "Необходимо указать имя компоновки."
 
 #: kjsembed/qobject_binding.cpp:141
+#, kde-format
 msgid "Wrong object type."
 msgstr "Неверное имя объекта."
 
 #: kjsembed/qobject_binding.cpp:148
+#, kde-format
 msgid "First argument must be a QObject."
 msgstr "Первый аргумент должен быть объектом QObject."
 
 #: kjsembed/qobject_binding.cpp:182
+#, kde-format
 msgid "Incorrect number of arguments."
 msgstr "Неверное количество аргументов."
 
@@ -165,34 +176,42 @@ msgid "Call to '%1' failed."
 msgstr "Ошибка вызова «%1»."
 
 #: kjsembed/qobject_binding.cpp:793
+#, kde-format
 msgid "Could not construct value"
 msgstr "Не удалось запустить конструктор значения"
 
 #: kjsembed/quiloader_binding.cpp:49
+#, kde-format
 msgid "Not enough arguments."
 msgstr "Недостаточно аргументов."
 
 #: kjsembed/quiloader_binding.cpp:68
+#, kde-format
 msgid "Failed to create Action."
 msgstr "Не удалось создать Action."
 
 #: kjsembed/quiloader_binding.cpp:82
+#, kde-format
 msgid "Failed to create ActionGroup."
 msgstr "Не удалось создать ActionGroup."
 
 #: kjsembed/quiloader_binding.cpp:90
+#, kde-format
 msgid "No classname specified"
 msgstr "Не указано имя класса"
 
 #: kjsembed/quiloader_binding.cpp:98
+#, kde-format
 msgid "Failed to create Layout."
 msgstr "Не удалось создать Layout."
 
 #: kjsembed/quiloader_binding.cpp:107
+#, kde-format
 msgid "No classname specified."
 msgstr "Имя класса не указано."
 
 #: kjsembed/quiloader_binding.cpp:115
+#, kde-format
 msgid "Failed to create Widget."
 msgstr "Не удалось создать Widget."
 
@@ -212,6 +231,7 @@ msgid "'%1' is not a valid QWidget."
 msgstr "«%1» не является правильным объектом QWidget."
 
 #: kjsembed/qwidget_binding.cpp:170
+#, kde-format
 msgid "Must supply a widget name."
 msgstr "Необходимо указать имя виджета."
 
