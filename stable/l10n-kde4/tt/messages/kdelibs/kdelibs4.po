@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-11-19 18:40+0100\n"
+"POT-Creation-Date: 2016-11-27 02:05+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -7956,7 +7956,7 @@ msgstr "ОК"
 msgid "&Cancel"
 msgstr "Үт&кәрмәү"
 
-#: kdeui/util/kstandardguiitem.cpp:120 khtml/java/kjavaappletserver.cpp:817
+#: kdeui/util/kstandardguiitem.cpp:120 khtml/java/kjavaappletserver.cpp:819
 #, kde-format
 msgid "&Yes"
 msgstr "&Әйе"
@@ -11009,12 +11009,12 @@ msgstr "Таныклыклар белән Java аплетларын җибәрү
 msgid "the following permission"
 msgstr "түбәндәге хокуклар"
 
-#: khtml/java/kjavaappletserver.cpp:814
+#: khtml/java/kjavaappletserver.cpp:815
 #, kde-format
 msgid "&Reject All"
 msgstr "&Бөтенесен кире кагу"
 
-#: khtml/java/kjavaappletserver.cpp:820
+#: khtml/java/kjavaappletserver.cpp:823
 #, kde-format
 msgid "&Grant All"
 msgstr "&Бөтенесен кабул итү"
