@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-11-27 02:48+0100\n"
+"POT-Creation-Date: 2016-12-07 02:43+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1488,33 +1488,33 @@ msgstr "Сөзгечнең хатасы"
 msgid "Inactive"
 msgstr "Актив булмаган тәрәзә"
 
-#: khtmlimage.cpp:46
+#: khtmlimage.cpp:49
 #, fuzzy, kde-format
 #| msgid "KHTML"
 msgid "KHTML Image"
 msgstr "KHTML"
 
-#: khtmlimage.cpp:217
+#: khtmlimage.cpp:195
 #, kde-format
 msgid "%1 (%2 - %3x%4 Pixels)"
 msgstr "%1 (%2 - %3x%4 пиксел)"
 
-#: khtmlimage.cpp:219
+#: khtmlimage.cpp:197
 #, kde-format
 msgid "%1 - %2x%3 Pixels"
 msgstr "%1 - %2x%3 пиксел"
 
-#: khtmlimage.cpp:224
+#: khtmlimage.cpp:202
 #, kde-format
 msgid "%1 (%2x%3 Pixels)"
 msgstr "%1 (%2x%3 пиксел)"
 
-#: khtmlimage.cpp:226
+#: khtmlimage.cpp:204
 #, kde-format
 msgid "Image - %1x%2 Pixels"
 msgstr "Сурәт - %1x%2 пикселов"
 
-#: khtmlimage.cpp:232
+#: khtmlimage.cpp:210
 #, kde-format
 msgid "Done."
 msgstr "Әзер."
