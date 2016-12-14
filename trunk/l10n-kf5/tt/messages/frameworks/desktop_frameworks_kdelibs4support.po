@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-08 11:41+0000\n"
+"POT-Creation-Date: 2016-12-14 02:05+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -2528,9 +2528,12 @@ msgid "Cyprus"
 msgstr ""
 
 #: src/l10n/cz/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Czech"
 msgctxt "Name"
-msgid "Czech Republic"
-msgstr ""
+msgid "Czechia"
+msgstr "Чех"
 
 #: src/l10n/de/country.desktop:2
 #, fuzzy
