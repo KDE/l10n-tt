@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-12-23 02:59+0000\n"
+"POT-Creation-Date: 2017-01-17 09:28+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1607,7 +1607,7 @@ msgctxt "Name"
 msgid "Soundcloud"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/soundcloud.desktop:38
+#: src/urifilters/ikws/searchproviders/soundcloud.desktop:39
 msgctxt "Query"
 msgid "https://soundcloud.com/search?q=\\\\{@}"
 msgstr ""

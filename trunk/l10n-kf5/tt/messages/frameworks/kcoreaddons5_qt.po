@@ -622,9 +622,7 @@ msgstr "%1 секунд"
 #| msgid_plural "%1 milliseconds"
 msgctxt "KFormat|"
 msgid "%n millisecond(s)"
-msgid_plural "%n millisecond(s)"
-msgstr[0] "%1 миллисекунд"
-msgstr[1] "%1 миллисекунд"
+msgstr "%1 миллисекунд"
 
 #. @item:intext %n is a whole number
 #: lib/util/kformatprivate.cpp:300
@@ -633,9 +631,7 @@ msgstr[1] "%1 миллисекунд"
 #| msgid "%1 days"
 msgctxt "KFormat|"
 msgid "%n day(s)"
-msgid_plural "%n day(s)"
-msgstr[0] "%1 көн"
-msgstr[1] "%1 көн"
+msgstr "%1 көн"
 
 #. @item:intext %n is a whole number
 #: lib/util/kformatprivate.cpp:305
@@ -644,9 +640,7 @@ msgstr[1] "%1 көн"
 #| msgid "%1 hours"
 msgctxt "KFormat|"
 msgid "%n hour(s)"
-msgid_plural "%n hour(s)"
-msgstr[0] "%1 сәгать"
-msgstr[1] "%1 сәгать"
+msgstr "%1 сәгать"
 
 #. @item:intext %n is a whole number
 #: lib/util/kformatprivate.cpp:310
@@ -655,9 +649,7 @@ msgstr[1] "%1 сәгать"
 #| msgid "%1 minutes"
 msgctxt "KFormat|"
 msgid "%n minute(s)"
-msgid_plural "%n minute(s)"
-msgstr[0] "%1 минут"
-msgstr[1] "%1 минут"
+msgstr "%1 минут"
 
 #. @item:intext %n is a whole number
 #: lib/util/kformatprivate.cpp:315
@@ -666,9 +658,7 @@ msgstr[1] "%1 минут"
 #| msgid "%1 seconds"
 msgctxt "KFormat|"
 msgid "%n second(s)"
-msgid_plural "%n second(s)"
-msgstr[0] "%1 секунд"
-msgstr[1] "%1 секунд"
+msgstr "%1 секунд"
 
 #. @item:intext days and hours. This uses the previous item:intext messages. If this does not fit the grammar of your language please contact the i18n team to solve the problem
 #. ----------
@@ -687,7 +677,16 @@ msgctxt "KFormat|"
 msgid "%1 and %2"
 msgstr "%1 %2"
 
-#: lib/util/kformatprivate.cpp:372
+#: lib/util/kformatprivate.cpp:366
+#, fuzzy
+#| msgid "Invalid item."
+msgctxt ""
+"KFormat|used when a relative date string can't be generated because the date "
+"is invalid"
+msgid "Invalid date"
+msgstr "Тотылмаган элемент."
+
+#: lib/util/kformatprivate.cpp:376
 #, fuzzy
 #| msgctxt "@option tomorrow"
 #| msgid "Tomorrow"
@@ -695,44 +694,140 @@ msgctxt "KFormat|"
 msgid "Tomorrow"
 msgstr "Иртәгә"
 
-#: lib/util/kformatprivate.cpp:374
+#: lib/util/kformatprivate.cpp:378
 #, fuzzy
 #| msgid "Today"
 msgctxt "KFormat|"
 msgid "Today"
 msgstr "Бүген"
 
-#: lib/util/kformatprivate.cpp:376
+#: lib/util/kformatprivate.cpp:380
 #, fuzzy
 #| msgid "Yesterday"
 msgctxt "KFormat|"
 msgid "Yesterday"
 msgstr "Кичә"
 
-#: lib/util/kformatprivate.cpp:383
-#, fuzzy, qt-format
-#| msgctxt "@option last week"
-#| msgid "Last Week"
-msgctxt "KFormat|"
-msgid "Last %1"
-msgstr "Ахыргы атна"
+#: lib/util/kformatprivate.cpp:386
+#, fuzzy
+#| msgctxt "@option last month"
+#| msgid "Last Month"
+msgctxt "KFormat|most recent such day before today"
+msgid "Last Monday"
+msgstr "Ахыргы ай"
 
 #: lib/util/kformatprivate.cpp:388
-#, fuzzy, qt-format
-#| msgctxt "Opposite to Back"
-#| msgid "Next"
-msgctxt "KFormat|"
-msgid "Next %1"
-msgstr "Алга бару"
+#, fuzzy
+#| msgctxt "@option last year"
+#| msgid "Last Year"
+msgctxt "KFormat|most recent such day before today"
+msgid "Last Tuesday"
+msgstr "Ахыргы ел"
+
+#: lib/util/kformatprivate.cpp:390
+#, fuzzy
+#| msgctxt ""
+#| "referring to a filter on the modification and usage date of files/"
+#| "resources"
+#| msgid "Last Week"
+msgctxt "KFormat|most recent such day before today"
+msgid "Last Wednesday"
+msgstr "Ахыргы атна"
+
+#: lib/util/kformatprivate.cpp:392
+msgctxt "KFormat|most recent such day before today"
+msgid "Last Thursday"
+msgstr ""
+
+#: lib/util/kformatprivate.cpp:394
+msgctxt "KFormat|most recent such day before today"
+msgid "Last Friday"
+msgstr ""
+
+#: lib/util/kformatprivate.cpp:396
+#, fuzzy
+#| msgctxt "@option last year"
+#| msgid "Last Year"
+msgctxt "KFormat|most recent such day before today"
+msgid "Last Saturday"
+msgstr "Ахыргы ел"
+
+#: lib/util/kformatprivate.cpp:398
+msgctxt "KFormat|most recent such day before today"
+msgid "Last Sunday"
+msgstr ""
+
+#: lib/util/kformatprivate.cpp:403
+#, fuzzy
+#| msgctxt "@option next month"
+#| msgid "Next Month"
+msgctxt "KFormat|the next such day after today"
+msgid "Next Monday"
+msgstr "Киләсе ай"
+
+#: lib/util/kformatprivate.cpp:405
+#, fuzzy
+#| msgid "Next year"
+msgctxt "KFormat|the next such day after today"
+msgid "Next Tuesday"
+msgstr "Киләсе ел"
+
+#: lib/util/kformatprivate.cpp:407
+#, fuzzy
+#| msgctxt "@option next week"
+#| msgid "Next Week"
+msgctxt "KFormat|the next such day after today"
+msgid "Next Wednesday"
+msgstr "Следующая неделя"
+
+#: lib/util/kformatprivate.cpp:409
+msgctxt "KFormat|the next such day after today"
+msgid "Next Thursday"
+msgstr ""
+
+#: lib/util/kformatprivate.cpp:411
+#, fuzzy
+#| msgid "Next year"
+msgctxt "KFormat|the next such day after today"
+msgid "Next Friday"
+msgstr "Киләсе ел"
+
+#: lib/util/kformatprivate.cpp:413
+#, fuzzy
+#| msgid "Next year"
+msgctxt "KFormat|the next such day after today"
+msgid "Next Saturday"
+msgstr "Киләсе ел"
+
+#: lib/util/kformatprivate.cpp:415
+#, fuzzy
+#| msgid "Next year"
+msgctxt "KFormat|the next such day after today"
+msgid "Next Sunday"
+msgstr "Киләсе ел"
 
 #. relative datetime with %1 result of formatReleativeDate() and %2 the formatted time If this does not fit the grammar of your language please contact the i18n team to solve the problem
-#: lib/util/kformatprivate.cpp:402
+#: lib/util/kformatprivate.cpp:430
 #, fuzzy, qt-format
 #| msgctxt "City, Country"
 #| msgid "%1, %2"
 msgctxt "KFormat|"
 msgid "%1, %2"
 msgstr "%1, %2"
+
+#, fuzzy
+#~| msgctxt "@option last week"
+#~| msgid "Last Week"
+#~ msgctxt "KFormat|"
+#~ msgid "Last %1"
+#~ msgstr "Ахыргы атна"
+
+#, fuzzy
+#~| msgctxt "Opposite to Back"
+#~| msgid "Next"
+#~ msgctxt "KFormat|"
+#~ msgid "Next %1"
+#~ msgstr "Алга бару"
 
 #, fuzzy
 #~ msgctxt "KPluginLoader|"
@@ -6579,14 +6674,6 @@ msgstr "%1, %2"
 #~ msgid "Next Year"
 #~ msgstr "Киләсе ел"
 
-#~ msgctxt "@option next month"
-#~ msgid "Next Month"
-#~ msgstr "Киләсе ай"
-
-#~ msgctxt "@option next week"
-#~ msgid "Next Week"
-#~ msgstr "Следующая неделя"
-
 #~ msgctxt "@option today"
 #~ msgid "Today"
 #~ msgstr "Бүген"
@@ -6594,14 +6681,6 @@ msgstr "%1, %2"
 #~ msgctxt "@option yesterday"
 #~ msgid "Yesterday"
 #~ msgstr "Кичә"
-
-#~ msgctxt "@option last month"
-#~ msgid "Last Month"
-#~ msgstr "Ахыргы ай"
-
-#~ msgctxt "@option last year"
-#~ msgid "Last Year"
-#~ msgstr "Ахыргы ел"
 
 #~ msgctxt "@option do not specify a date"
 #~ msgid "No Date"
@@ -6621,9 +6700,6 @@ msgstr "%1, %2"
 
 #~ msgid "Week %1"
 #~ msgstr "%1 атна"
-
-#~ msgid "Next year"
-#~ msgstr "Киләсе ел"
 
 #~ msgid "Previous year"
 #~ msgstr "Алдынгы ел"
@@ -9062,9 +9138,6 @@ msgstr "%1, %2"
 #~ msgid "Installing"
 #~ msgstr "Урнаштыру"
 
-#~ msgid "Invalid item."
-#~ msgstr "Тотылмаган элемент."
-
 #~ msgid "Download of item failed: no download URL for \"%1\"."
 #~ msgstr "Кабул итүдә хата: «%1» объектының адресы юк."
 
@@ -10049,12 +10122,6 @@ msgstr "%1, %2"
 #~ "resources"
 #~ msgid "This Week"
 #~ msgstr "Бу атна"
-
-#~ msgctxt ""
-#~ "referring to a filter on the modification and usage date of files/"
-#~ "resources"
-#~ msgid "Last Week"
-#~ msgstr "Ахыргы атна"
 
 #~ msgctxt ""
 #~ "referring to a filter on the modification and usage date of files/"
