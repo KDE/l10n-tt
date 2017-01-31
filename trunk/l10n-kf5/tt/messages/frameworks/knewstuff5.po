@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-01-25 03:55+0100\n"
+"POT-Creation-Date: 2017-01-31 09:03+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -186,12 +186,12 @@ msgstr "HTML файлын кабул итү омтылышы күзәтелә. �
 msgid "Could not install \"%1\": file not found."
 msgstr "«%1» объектын урнаштырып булмады: файл табылмады."
 
-#: core/installation.cpp:537
+#: core/installation.cpp:536
 #, kde-format
 msgid "Overwrite existing file?"
 msgstr "Булган файлны алыштырыргамы?"
 
-#: core/installation.cpp:538
+#: core/installation.cpp:537
 #, fuzzy, kde-format
 #| msgid "Download File:"
 msgid "Download File"
