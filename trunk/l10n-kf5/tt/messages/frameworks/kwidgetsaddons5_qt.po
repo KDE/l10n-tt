@@ -2843,7 +2843,7 @@ msgstr ""
 "\n"
 "Кертелгән серсүзне кулланырга телисезме?"
 
-#: knewpasswordwidget.cpp:65
+#: knewpasswordwidget.cpp:67
 #, fuzzy
 #| msgid ""
 #| "The password strength meter gives an indication of the security of the "
@@ -2867,7 +2867,7 @@ msgstr ""
 "- хәрефләрдән тыш анда саннар һәм махсус билгеләр (мәс. %, ?...) керергә "
 "тиеш."
 
-#: knewpasswordwidget.cpp:77
+#: knewpasswordwidget.cpp:80
 msgctxt "KNewPasswordWidget|"
 msgid "Change the visibility of the password"
 msgstr ""
