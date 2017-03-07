@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-03-02 03:15+0000\n"
+"POT-Creation-Date: 2017-03-07 09:35+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -39,7 +39,7 @@ msgctxt "Name"
 msgid "Remote URL Change Notifier"
 msgstr ""
 
-#: src/ioslaves/remote/kdedmodule/remotedirnotify.desktop:58
+#: src/ioslaves/remote/kdedmodule/remotedirnotify.desktop:59
 msgctxt "Comment"
 msgid "Provides change notification for network folders"
 msgstr ""
@@ -80,7 +80,7 @@ msgctxt "Comment"
 msgid "Configure web cache settings"
 msgstr ""
 
-#: src/kcms/kio/cache.desktop:144
+#: src/kcms/kio/cache.desktop:145
 msgctxt "X-KDE-Keywords"
 msgid "Cache,History,Browsing History,Ports,Size"
 msgstr ""
@@ -93,12 +93,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "Cookie Jar"
 
-#: src/kcms/kio/cookies.desktop:57
+#: src/kcms/kio/cookies.desktop:58
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr ""
 
-#: src/kcms/kio/cookies.desktop:143
+#: src/kcms/kio/cookies.desktop:144
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
@@ -568,7 +568,7 @@ msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:41
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:42
 msgctxt "Query"
 msgid "http://www.archlinux.org/packages/?q=\\\\{@}"
 msgstr ""
@@ -1121,7 +1121,7 @@ msgctxt "Name"
 msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/grec.desktop:43
+#: src/urifilters/ikws/searchproviders/grec.desktop:44
 msgctxt "Query"
 msgid "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
 msgstr ""
@@ -1617,7 +1617,7 @@ msgctxt "Name"
 msgid "Soundcloud"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/soundcloud.desktop:39
+#: src/urifilters/ikws/searchproviders/soundcloud.desktop:40
 msgctxt "Query"
 msgid "https://soundcloud.com/search?q=\\\\{@}"
 msgstr ""
