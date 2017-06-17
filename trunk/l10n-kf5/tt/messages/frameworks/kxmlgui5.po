@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-06-02 03:01+0200\n"
+"POT-Creation-Date: 2017-06-17 03:03+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -946,25 +946,25 @@ msgstr ""
 "во многих программах.\n"
 "Вы действительно хотите использовать эту комбинацию как глобальную?"
 
-#: kkeysequencewidget.cpp:672
+#: kkeysequencewidget.cpp:675
 #, kde-format
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "Кертү"
 
-#: kkeysequencewidget.cpp:679 kshortcuteditwidget.cpp:66
+#: kkeysequencewidget.cpp:682 kshortcuteditwidget.cpp:66
 #: kshortcuteditwidget.cpp:69
 #, kde-format
 msgctxt "No shortcut defined"
 msgid "None"
 msgstr "Юк"
 
-#: kkeysequencewidget.cpp:725
+#: kkeysequencewidget.cpp:728
 #, kde-format
 msgid "The key you just pressed is not supported by Qt."
 msgstr "Басылган төймә Qt коралы белән тотылмый."
 
-#: kkeysequencewidget.cpp:726
+#: kkeysequencewidget.cpp:729
 #, kde-format
 msgid "Unsupported Key"
 msgstr "Төймә тотылмый"
