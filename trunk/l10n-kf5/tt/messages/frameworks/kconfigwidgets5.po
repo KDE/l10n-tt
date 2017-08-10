@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-01-30 03:49+0100\n"
+"POT-Creation-Date: 2017-08-10 03:23+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -618,16 +618,15 @@ msgstr "KDE &турында"
 
 #: kstandardaction_p.h:116
 #, fuzzy, kde-format
-#| msgid "&Delete"
-msgid "&Delete File"
-msgstr "&Бетерү"
+#| msgid "Delete"
+msgid "&Delete"
+msgstr "Бетерү"
 
 #: kstandardaction_p.h:117
 #, fuzzy, kde-format
-#| msgid "&Send File"
-#| msgid_plural "&Send Files"
-msgid "&Rename File"
-msgstr "&Файлны тапшыру"
+#| msgid "&Replace..."
+msgid "&Rename..."
+msgstr "&Алыштыру..."
 
 #: kstandardaction_p.h:118
 #, kde-format
@@ -673,6 +672,17 @@ msgstr "&Кире кайту"
 msgctxt "@action:button Goes to next tip, opposite to previous"
 msgid "&Next"
 msgstr "&Алга бару"
+
+#, fuzzy
+#~| msgid "&Delete"
+#~ msgid "&Delete File"
+#~ msgstr "&Бетерү"
+
+#, fuzzy
+#~| msgid "&Send File"
+#~| msgid_plural "&Send Files"
+#~ msgid "&Rename File"
+#~ msgstr "&Файлны тапшыру"
 
 #~ msgid "Name"
 #~ msgstr "Исем"
@@ -4079,9 +4089,6 @@ msgstr "&Алга бару"
 
 #~ msgid "New..."
 #~ msgstr "Яңа..."
-
-#~ msgid "Delete"
-#~ msgstr "Бетерү"
 
 #~ msgid "More Actions"
 #~ msgstr "Башка гамәлләр"
