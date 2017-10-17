@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-11-19 20:12+0100\n"
+"POT-Creation-Date: 2017-10-17 03:36+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -343,22 +343,22 @@ msgstr "Буш урын"
 msgid "Digit"
 msgstr "Сан"
 
-#: findreplace/kfinddialog.cpp:568
+#: findreplace/kfinddialog.cpp:567
 #, kde-format
 msgid "Complete Match"
 msgstr "Тулы тәңгәл"
 
-#: findreplace/kfinddialog.cpp:573
+#: findreplace/kfinddialog.cpp:572
 #, kde-format
 msgid "Captured Text (%1)"
 msgstr "Эләктереп алынган текст (%1)"
 
-#: findreplace/kfinddialog.cpp:581
+#: findreplace/kfinddialog.cpp:580
 #, kde-format
 msgid "You must enter some text to search for."
 msgstr "Эзләү өчен текст кертергә кирәк."
 
-#: findreplace/kfinddialog.cpp:590
+#: findreplace/kfinddialog.cpp:589
 #, kde-format
 msgid "Invalid regular expression."
 msgstr "Дөрес булмаган регуляр гыйбарә."
