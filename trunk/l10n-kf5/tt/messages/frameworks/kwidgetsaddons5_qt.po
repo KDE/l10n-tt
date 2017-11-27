@@ -2910,6 +2910,13 @@ msgctxt "KPasswordDialog|"
 msgid "Password"
 msgstr "Серсүз"
 
+#: kpassworddialog.cpp:104
+#, fuzzy
+#| msgid "Supply a username and password below."
+msgctxt "KPasswordDialog|"
+msgid "Supply a password below."
+msgstr "Кулланучы исемен һәм серсүзен җыегыз."
+
 #: kpassworddialog.ui:26
 #, fuzzy
 #| msgid "Supply a username and password below."
