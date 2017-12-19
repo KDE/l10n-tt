@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-10-18 06:29+0200\n"
+"POT-Creation-Date: 2017-12-19 03:03+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -12255,7 +12255,7 @@ msgstr "Өлкә"
 msgid "Comment"
 msgstr "Комментарий"
 
-#: kdeui/kapplication.cpp:753
+#: kdeui/kapplication.cpp:746
 #, kde-format
 msgid "The style '%1' was not found"
 msgstr "Стиль «%1» не найден"
