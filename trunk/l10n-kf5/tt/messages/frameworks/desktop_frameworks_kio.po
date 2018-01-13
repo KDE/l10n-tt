@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-12-22 02:16+0000\n"
+"POT-Creation-Date: 2018-01-13 02:22+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -13,6 +13,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 1.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: src/ioslaves/file/kauth/file.actions:2
+msgctxt "Name"
+msgid "Execute action as root."
+msgstr ""
+
+#: src/ioslaves/file/kauth/file.actions:3
+msgctxt "Description"
+msgid "Root privileges are required to complete the action."
+msgstr ""
 
 #: src/ioslaves/http/http_cache_cleaner.desktop:3
 msgctxt "Name"
