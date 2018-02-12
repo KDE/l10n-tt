@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-10-12 01:32+0000\n"
+"POT-Creation-Date: 2018-02-12 02:29+0000\n"
 "PO-Revision-Date: 2012-01-14 21:54+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <kde-i18n-doc@kde.org>\n"
@@ -382,6 +382,11 @@ msgctxt "Name"
 msgid "Sinhala"
 msgstr "Сингал"
 
+#: sk/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Slovak"
+msgstr "Словак"
+
 #: sl/messages/frameworks/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Slovenian"
@@ -501,7 +506,3 @@ msgstr "Кытай (Гонконг)"
 msgctxt "Name"
 msgid "Traditional Chinese"
 msgstr "Гадәти Кытай."
-
-#~ msgctxt "Name"
-#~ msgid "Slovak"
-#~ msgstr "Словак"
