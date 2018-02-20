@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-11-13 03:08+0100\n"
+"POT-Creation-Date: 2018-02-20 03:17+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1354,29 +1354,29 @@ msgstr ""
 msgid "Application Language Changed"
 msgstr "Кушымтаның теле үзгәрелде"
 
-#: kswitchlanguagedialog_p.cpp:401
+#: kswitchlanguagedialog_p.cpp:392
 #, kde-format
 msgid "Primary language:"
 msgstr "Төп тел:"
 
-#: kswitchlanguagedialog_p.cpp:401
+#: kswitchlanguagedialog_p.cpp:392
 #, kde-format
 msgid "Fallback language:"
 msgstr "Запас язык:"
 
-#: kswitchlanguagedialog_p.cpp:420
+#: kswitchlanguagedialog_p.cpp:411
 #, kde-format
 msgid "Remove"
 msgstr "Бетерү"
 
-#: kswitchlanguagedialog_p.cpp:431
+#: kswitchlanguagedialog_p.cpp:422
 #, kde-format
 msgid ""
 "This is the main application language which will be used first, before any "
 "other languages."
 msgstr "Бу төп тел, кушымта өчен ул башка телләрдән өстенрәк тора."
 
-#: kswitchlanguagedialog_p.cpp:432
+#: kswitchlanguagedialog_p.cpp:423
 #, kde-format
 msgid ""
 "This is the language which will be used if any previous languages do not "

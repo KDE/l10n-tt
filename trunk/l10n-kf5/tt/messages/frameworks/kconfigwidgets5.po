@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-12-16 03:10+0100\n"
+"POT-Creation-Date: 2018-02-20 03:16+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -55,11 +55,6 @@ msgstr "Автоматик рәвештә билгеләү"
 msgctxt "@title:window"
 msgid "Configure"
 msgstr "Көйләү"
-
-#: klanguagebutton.cpp:195
-#, kde-format
-msgid "without name"
-msgstr "исемсез"
 
 #: krecentfilesaction.cpp:78
 #, kde-format
@@ -672,6 +667,9 @@ msgstr "&Кире кайту"
 msgctxt "@action:button Goes to next tip, opposite to previous"
 msgid "&Next"
 msgstr "&Алга бару"
+
+#~ msgid "without name"
+#~ msgstr "исемсез"
 
 #, fuzzy
 #~| msgid "&Delete"
