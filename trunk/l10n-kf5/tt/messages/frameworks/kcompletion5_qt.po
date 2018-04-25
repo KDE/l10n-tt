@@ -25,29 +25,21 @@ msgctxt "KHistoryComboBox|"
 msgid "Clear &History"
 msgstr "Тарихны &чистарту"
 
-#: klineedit.cpp:153
+#: klineedit.cpp:109
 #, fuzzy
 #| msgid "1"
 msgctxt "KLineEdit|Italic placeholder text in line edits: 0 no, 1 yes"
 msgid "1"
 msgstr "1"
 
-#: klineedit.cpp:223
-#, fuzzy
-#| msgctxt "@action:button Clear current text in the line edit"
-#| msgid "Clear text"
-msgctxt "KLineEdit|@action:button Clear current text in the line edit"
-msgid "Clear text"
-msgstr "Текстны чистарту"
-
-#: klineedit.cpp:1102
+#: klineedit.cpp:932
 #, fuzzy
 #| msgid "C&lear"
 msgctxt "KLineEdit|"
 msgid "C&lear"
 msgstr "&Чистарту"
 
-#: klineedit.cpp:1116
+#: klineedit.cpp:946
 #, fuzzy
 #| msgctxt "@action"
 #| msgid "Text Completion"
@@ -55,7 +47,7 @@ msgctxt "KLineEdit|@title:menu"
 msgid "Text Completion"
 msgstr "Текстны тәмамлау"
 
-#: klineedit.cpp:1123
+#: klineedit.cpp:953
 #, fuzzy
 #| msgctxt "No border line"
 #| msgid "None"
@@ -63,7 +55,7 @@ msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "None"
 msgstr "Юк"
 
-#: klineedit.cpp:1124
+#: klineedit.cpp:954
 #, fuzzy
 #| msgctxt "@item:inmenu Text Completion"
 #| msgid "Manual"
@@ -71,7 +63,7 @@ msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Manual"
 msgstr "Кулдан"
 
-#: klineedit.cpp:1125
+#: klineedit.cpp:955
 #, fuzzy
 #| msgctxt "@item:inmenu Text Completion"
 #| msgid "Automatic"
@@ -79,7 +71,7 @@ msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Automatic"
 msgstr "Актоматик рәвештә"
 
-#: klineedit.cpp:1126
+#: klineedit.cpp:956
 #, fuzzy
 #| msgctxt "@item:inmenu Text Completion"
 #| msgid "Dropdown List"
@@ -87,7 +79,7 @@ msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Dropdown List"
 msgstr "Төшә торган исемлектән"
 
-#: klineedit.cpp:1127
+#: klineedit.cpp:957
 #, fuzzy
 #| msgctxt "@item:inmenu Text Completion"
 #| msgid "Short Automatic"
@@ -95,7 +87,7 @@ msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Short Automatic"
 msgstr "Ярым автоматик"
 
-#: klineedit.cpp:1128
+#: klineedit.cpp:958
 #, fuzzy
 #| msgctxt "@item:inmenu Text Completion"
 #| msgid "Dropdown List && Automatic"
@@ -103,13 +95,20 @@ msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Dropdown List && Automatic"
 msgstr "Төшә торган исемлектән һәм автоматик рәвештә"
 
-#: klineedit.cpp:1158
+#: klineedit.cpp:988
 #, fuzzy
 #| msgctxt "Encodings menu"
 #| msgid "Default"
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Default"
 msgstr "Үрнәкле"
+
+#, fuzzy
+#~| msgctxt "@action:button Clear current text in the line edit"
+#~| msgid "Clear text"
+#~ msgctxt "KLineEdit|@action:button Clear current text in the line edit"
+#~ msgid "Clear text"
+#~ msgstr "Текстны чистарту"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
