@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-05-04 01:47+0000\n"
+"POT-Creation-Date: 2018-07-10 01:54+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -993,14 +993,14 @@ msgctxt "Query"
 msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/gitorious.desktop:5
+#: src/urifilters/ikws/searchproviders/gitlab.desktop:5
 msgctxt "Name"
-msgid "Gitorious"
+msgid "GitLab"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/gitorious.desktop:74
+#: src/urifilters/ikws/searchproviders/gitlab.desktop:6
 msgctxt "Query"
-msgid "https://gitorious.org/search?q=\\\\{@}&commit=Search"
+msgid "https://gitlab.com/search?search=\\\\{@}"
 msgstr ""
 
 #: src/urifilters/ikws/searchproviders/google_advanced.desktop:3
