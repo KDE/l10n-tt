@@ -3463,7 +3463,7 @@ msgctxt "KStandardGuiItem|"
 msgid "&Overwrite"
 msgstr "&Алыштыру"
 
-#: ktimecombobox.cpp:252
+#: ktimecombobox.cpp:269
 #, fuzzy
 #| msgctxt "@info"
 #| msgid "The time you entered is invalid"
@@ -3471,7 +3471,7 @@ msgctxt "KTimeComboBox|@info"
 msgid "The time you entered is invalid"
 msgstr "Хаталы вакыт кертелде"
 
-#: ktimecombobox.cpp:255
+#: ktimecombobox.cpp:272
 #, fuzzy, qt-format
 #| msgctxt "@info"
 #| msgid "Time cannot be earlier than %1"
@@ -3479,7 +3479,7 @@ msgctxt "KTimeComboBox|@info"
 msgid "Time cannot be earlier than %1"
 msgstr "Вакыт моннан иртәрәк була алмый: %1"
 
-#: ktimecombobox.cpp:262
+#: ktimecombobox.cpp:279
 #, fuzzy, qt-format
 #| msgctxt "@info"
 #| msgid "Time cannot be later than %1"
