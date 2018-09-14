@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-09-08 03:59+0200\n"
+"POT-Creation-Date: 2018-09-14 03:47+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -689,87 +689,87 @@ msgstr "Алга бару"
 msgid "Finish"
 msgstr "Тәмамлау"
 
-#: uploaddialog.cpp:179
+#: uploaddialog.cpp:183
 #, fuzzy, kde-format
 #| msgid "Loading provider information"
 msgid "Fetching provider information..."
 msgstr "Сервер турында мәгълуматны кабул итү"
 
-#: uploaddialog.cpp:186
+#: uploaddialog.cpp:190
 #, kde-format
 msgid "Fetching license data from server..."
 msgstr "Сервердан лицензияне кабул итү..."
 
-#: uploaddialog.cpp:193
+#: uploaddialog.cpp:197
 #, kde-format
 msgid "Fetching content data from server..."
 msgstr "Сервердан мәгълуматны кабул итү..."
 
-#: uploaddialog.cpp:268
+#: uploaddialog.cpp:272
 #, fuzzy, kde-format
 #| msgid "Loading provider information"
 msgid "Could not fetch provider information."
 msgstr "Сервер турында мәгълуматны кабул итү"
 
-#: uploaddialog.cpp:292
+#: uploaddialog.cpp:296
 #, kde-format
 msgid "Register a new account"
 msgstr ""
 
-#: uploaddialog.cpp:316
+#: uploaddialog.cpp:320
 #, kde-format
 msgid "Checking login..."
 msgstr "Кереп карау..."
 
-#: uploaddialog.cpp:338
+#: uploaddialog.cpp:342
 #, kde-format
 msgid "Fetching your previously updated content..."
 msgstr "Элегрәк яңартылган эчтәлекне кабул итү..."
 
-#: uploaddialog.cpp:341
+#: uploaddialog.cpp:345
 #, kde-format
 msgid "Could not verify login, please try again."
 msgstr "Теркәлү мәгълуматын тикшереп булмады. Соңрак кереп карагыз."
 
-#: uploaddialog.cpp:360
+#: uploaddialog.cpp:364
 #, kde-format
 msgid "Fetching your previously updated content finished."
 msgstr "Элегрәк яңартылган эчтәлекне кабул итүе тәмамланды."
 
-#: uploaddialog.cpp:378
+#: uploaddialog.cpp:382
 #, kde-format
 msgid "Fetching content data from server finished."
 msgstr "Сервердан эчтәлекне кабул итүе тәмамланды..."
 
-#: uploaddialog.cpp:401 uploaddialog.cpp:841
+#: uploaddialog.cpp:405 uploaddialog.cpp:845
 #, kde-format
 msgctxt "A link to the website where the get hot new stuff upload can be seen"
 msgid "Visit website"
 msgstr "Веб сәхифәсенә кереп чыгу"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, UploadDialog)
-#: uploaddialog.cpp:447 uploaddialog.ui:14
+#: uploaddialog.cpp:451 uploaddialog.ui:14
 #, kde-format
 msgid "Share Hot New Stuff"
 msgstr "Әсбапны нәшер итү"
 
-#: uploaddialog.cpp:470
+#: uploaddialog.cpp:474
 #, kde-format
 msgctxt "Program name followed by 'Add On Uploader'"
 msgid "%1 Add-On Uploader"
 msgstr "%1 объектының өстәлмәләрне бастыру кушымтасы"
 
-#: uploaddialog.cpp:490 uploaddialog.cpp:766
+#: uploaddialog.cpp:494 uploaddialog.cpp:770
 #, kde-format
 msgid "File not found: %1"
 msgstr "%1 файлы табылмады."
 
-#: uploaddialog.cpp:490 uploaddialog.cpp:617 uploaddialog.cpp:766
+#: uploaddialog.cpp:494 uploaddialog.cpp:621 uploaddialog.cpp:770
 #, kde-format
 msgid "Upload Failed"
 msgstr "Файлны серверга тапшырганда хата килеп чыкты."
 
-#: uploaddialog.cpp:570
+#: uploaddialog.cpp:574
 #, kde-format
 msgid ""
 "The server does not recognize the category %2 to which you are trying to "
@@ -786,37 +786,37 @@ msgstr[1] ""
 "выполнить загрузку.Сервер не поддерживает категорию (%2), в которую вы "
 "хотите выполнить загрузку."
 
-#: uploaddialog.cpp:573
+#: uploaddialog.cpp:577
 #, kde-format
 msgid "Error"
 msgstr "Хата"
 
-#: uploaddialog.cpp:617
+#: uploaddialog.cpp:621
 #, kde-format
 msgid "The selected category \"%1\" is invalid."
 msgstr "«%1» исемле хаталы төркем сайланды."
 
-#: uploaddialog.cpp:666 uploaddialog.cpp:681 uploaddialog.cpp:695
+#: uploaddialog.cpp:670 uploaddialog.cpp:685 uploaddialog.cpp:699
 #, kde-format
 msgid "Select preview image"
 msgstr "Кече сүрәт өчен рәсем сайлау"
 
-#: uploaddialog.cpp:710
+#: uploaddialog.cpp:714
 #, kde-format
 msgid "There was a network error."
 msgstr "Челтәр хатасы килеп чыкты."
 
-#: uploaddialog.cpp:710 uploaddialog.cpp:715
+#: uploaddialog.cpp:714 uploaddialog.cpp:719
 #, kde-format
 msgid "Uploading Failed"
 msgstr "Файлны серверга тапшырып булмады."
 
-#: uploaddialog.cpp:715
+#: uploaddialog.cpp:719
 #, kde-format
 msgid "Authentication error."
 msgstr "Тиңләштерү хатасы килеп чыкты."
 
-#: uploaddialog.cpp:725
+#: uploaddialog.cpp:729
 #, kde-format
 msgid "Upload failed: %1"
 msgstr "Серверга тапшырып булмады: %1"
