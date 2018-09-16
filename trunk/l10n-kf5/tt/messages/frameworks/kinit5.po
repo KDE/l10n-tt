@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:05+0200\n"
+"POT-Creation-Date: 2018-09-16 03:43+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 1.2\n"
 
-#: kdeinit/kinit.cpp:509
+#: kdeinit/kinit.cpp:510
 #, kde-format
 msgid ""
 "Unable to start new process.\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Процессны җибәреп булмый.\n"
 "Бәлки, системадагы мөмкин булган ачык файллар саны артты якикулланучы өчен."
 
-#: kdeinit/kinit.cpp:531
+#: kdeinit/kinit.cpp:532
 #, kde-format
 msgid ""
 "Unable to create new process.\n"
@@ -37,12 +37,12 @@ msgstr ""
 "Процессны җибәреп булмый.\n"
 "Бәлки, системадагы мөмкин булган ачык файллар саны артты якикулланучы өчен."
 
-#: kdeinit/kinit.cpp:614
+#: kdeinit/kinit.cpp:615
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "«%1» кушымтасын табып булмады."
 
-#: kdeinit/kinit.cpp:647
+#: kdeinit/kinit.cpp:648
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -51,7 +51,7 @@ msgstr ""
 "«%1» китапханәсен ачып булмады.\n"
 "%2"
 
-#: kdeinit/kinit.cpp:684
+#: kdeinit/kinit.cpp:685
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
