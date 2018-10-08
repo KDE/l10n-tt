@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:06+0200\n"
+"POT-Creation-Date: 2018-10-08 03:45+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -678,33 +678,33 @@ msgctxt "@action"
 msgid "Superscript"
 msgstr "Өске индекс"
 
-#: widgets/ktextedit.cpp:166
+#: widgets/ktextedit.cpp:163
 #, kde-format
 msgid "Nothing to spell check."
 msgstr "Нечего проверять."
 
-#: widgets/ktextedit.cpp:566
+#: widgets/ktextedit.cpp:563
 #, kde-format
 msgid "Check Spelling..."
 msgstr "Дөрес язылышны тикшерү..."
 
-#: widgets/ktextedit.cpp:571
+#: widgets/ktextedit.cpp:568
 #, fuzzy, kde-format
 #| msgid "Spell Checking"
 msgid "Spell Checking Language"
 msgstr "Дөрес язылышны тикшерү"
 
-#: widgets/ktextedit.cpp:594
+#: widgets/ktextedit.cpp:591
 #, kde-format
 msgid "Auto Spell Check"
 msgstr "Дөрес язылышны автоматик рәвештә тикшерү"
 
-#: widgets/ktextedit.cpp:600
+#: widgets/ktextedit.cpp:597
 #, kde-format
 msgid "Allow Tabulations"
 msgstr "Табуляцияне рөхсәт итү"
 
-#: widgets/ktextedit.cpp:633
+#: widgets/ktextedit.cpp:630
 #, kde-format
 msgid "Speak Text"
 msgstr "Текстны уку"
