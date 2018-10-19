@@ -2149,7 +2149,7 @@ msgctxt "KCharSelectData|"
 msgid "Unknown"
 msgstr "Билгесез"
 
-#: kcolorcombo.cpp:340
+#: kcolorcombo.cpp:341
 #, fuzzy
 #| msgctxt "Custom color"
 #| msgid "Custom..."
@@ -2259,70 +2259,70 @@ msgctxt "KDateComboBox|@info"
 msgid "Date cannot be later than %1"
 msgstr "Көн моннан соңрак була алмый: %1"
 
-#: kdatepicker.cpp:188
+#: kdatepicker.cpp:189
 #, fuzzy, qt-format
 #| msgid "Week %1"
 msgctxt "KDatePicker|"
 msgid "Week %1"
 msgstr "%1 атна"
 
-#: kdatepicker.cpp:293
+#: kdatepicker.cpp:294
 #, fuzzy
 #| msgid "Next year"
 msgctxt "KDatePicker|"
 msgid "Next year"
 msgstr "Киләсе ел"
 
-#: kdatepicker.cpp:294
+#: kdatepicker.cpp:295
 #, fuzzy
 #| msgid "Previous year"
 msgctxt "KDatePicker|"
 msgid "Previous year"
 msgstr "Алдынгы ел"
 
-#: kdatepicker.cpp:295
+#: kdatepicker.cpp:296
 #, fuzzy
 #| msgid "Next month"
 msgctxt "KDatePicker|"
 msgid "Next month"
 msgstr "Киләсе ай"
 
-#: kdatepicker.cpp:296
+#: kdatepicker.cpp:297
 #, fuzzy
 #| msgid "Previous month"
 msgctxt "KDatePicker|"
 msgid "Previous month"
 msgstr "Алдынгы ай"
 
-#: kdatepicker.cpp:297
+#: kdatepicker.cpp:298
 #, fuzzy
 #| msgid "Select a week"
 msgctxt "KDatePicker|"
 msgid "Select a week"
 msgstr "Атнаны сайлагыз"
 
-#: kdatepicker.cpp:298
+#: kdatepicker.cpp:299
 #, fuzzy
 #| msgid "Select a month"
 msgctxt "KDatePicker|"
 msgid "Select a month"
 msgstr "Айны сайлагыз"
 
-#: kdatepicker.cpp:299
+#: kdatepicker.cpp:300
 #, fuzzy
 #| msgid "Select a year"
 msgctxt "KDatePicker|"
 msgid "Select a year"
 msgstr "Елны сайлагыз"
 
-#: kdatepicker.cpp:300
+#: kdatepicker.cpp:301
 #, fuzzy
 #| msgid "Select the current day"
 msgctxt "KDatePicker|"
 msgid "Select the current day"
 msgstr "Агымдагы көнне сайлагыз"
 
-#: kdatepicker.cpp:641
+#: kdatepicker.cpp:642
 #, fuzzy
 #| msgid "Close"
 msgctxt "KDatePicker|@action:button"
@@ -2926,7 +2926,7 @@ msgctxt "KPasswordDialog|"
 msgid "Password"
 msgstr "Серсүз"
 
-#: kpassworddialog.cpp:104
+#: kpassworddialog.cpp:105
 #, fuzzy
 #| msgid "Supply a username and password below."
 msgctxt "KPasswordDialog|"
