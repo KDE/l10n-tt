@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-12-20 03:02+0100\n"
+"POT-Creation-Date: 2018-12-28 02:58+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -329,11 +329,11 @@ msgstr "Тәэмин итүче:"
 msgid "Category:"
 msgstr "Төркем:"
 
-#. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
+#. i18n: ectx: property (text), widget (QRadioButton, mostDownloadsRadio)
 #: downloadwidget.ui:90
 #, kde-format
-msgid "Rating"
-msgstr "Бәяләү буенча"
+msgid "Most downloads"
+msgstr "Иң таныклы"
 
 #. i18n: ectx: property (text), widget (QRadioButton, newestRadio)
 #: downloadwidget.ui:103
@@ -341,11 +341,11 @@ msgstr "Бәяләү буенча"
 msgid "Newest"
 msgstr "Иң яңалары"
 
-#. i18n: ectx: property (text), widget (QRadioButton, mostDownloadsRadio)
+#. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
 #: downloadwidget.ui:110
 #, kde-format
-msgid "Most downloads"
-msgstr "Иң таныклы"
+msgid "Rating"
+msgstr "Бәяләү буенча"
 
 #. i18n: ectx: property (text), widget (QRadioButton, installedRadio)
 #: downloadwidget.ui:117
