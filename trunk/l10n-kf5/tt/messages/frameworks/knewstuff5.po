@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-12-28 02:58+0100\n"
+"POT-Creation-Date: 2019-01-03 03:03+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -249,7 +249,7 @@ msgstr ""
 "<qt><i>gpg</i> җибәреп һәм файлны имзалап булмый. Истә тотыгыз, <i>gpg</i> "
 "урнаштырылган, чөнки ресурсларны имзалап булмаячак.</qt>"
 
-#: downloaddialog.cpp:83 downloadwidget.cpp:222
+#: downloaddialog.cpp:83 downloadwidget.cpp:223
 #, kde-format
 msgid "Get Hot New Stuff"
 msgstr "Алу"
@@ -260,57 +260,57 @@ msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
 msgstr "Программа установки дополнений для %1"
 
-#: downloadwidget.cpp:131
+#: downloadwidget.cpp:132
 #, kde-format
 msgid "Timeout. Check Internet connection."
 msgstr "Көтү вакыты үтте. Интернетка тоташуны тикшерегез."
 
-#: downloadwidget.cpp:194
+#: downloadwidget.cpp:195
 #, kde-format
 msgid "Server: %1"
 msgstr "Сервер: %1"
 
-#: downloadwidget.cpp:195
+#: downloadwidget.cpp:196
 #, kde-format
 msgid "<br />Provider: %1"
 msgstr "<br />Китереп бирүче: %1"
 
-#: downloadwidget.cpp:196
+#: downloadwidget.cpp:197
 #, kde-format
 msgid "<br />Version: %1"
 msgstr "<br />Юрама: %1"
 
-#: downloadwidget.cpp:200
+#: downloadwidget.cpp:201
 #, kde-format
 msgid "Provider information"
 msgstr "Китереп бирүче турында мәгълумат"
 
-#: downloadwidget.cpp:211
+#: downloadwidget.cpp:212
 #, kde-format
 msgid "Could not install %1"
 msgstr "Не удалось установить %1"
 
-#: downloadwidget.cpp:212
+#: downloadwidget.cpp:213
 #, kde-format
 msgid "Get Hot New Stuff!"
 msgstr "Әсбапларны Интернеттан кабул итү"
 
-#: downloadwidget.cpp:267
+#: downloadwidget.cpp:268
 #, kde-format
 msgid "Icons view mode"
 msgstr "Билгечекләр"
 
-#: downloadwidget.cpp:269
+#: downloadwidget.cpp:270
 #, kde-format
 msgid "Details view mode"
 msgstr "Исемлек"
 
-#: downloadwidget.cpp:284
+#: downloadwidget.cpp:285
 #, kde-format
 msgid "All Providers"
 msgstr "Булган тәэмин итүчеләр"
 
-#: downloadwidget.cpp:291
+#: downloadwidget.cpp:292
 #, kde-format
 msgid "All Categories"
 msgstr "Барлык төркемнәр"
