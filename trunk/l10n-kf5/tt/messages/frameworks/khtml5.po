@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:05+0200\n"
+"POT-Creation-Date: 2019-01-10 03:03+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -180,7 +180,7 @@ msgstr "Сылтама"
 
 #. i18n: ectx: property (text), widget (QTreeWidget, _headers)
 #: ecma/debugger/localvariabledock.cpp:52 htmlpageinfo.ui:219
-#: java/kjavaappletviewer.cpp:150
+#: java/kjavaappletviewer.cpp:148
 #, kde-format
 msgid "Value"
 msgstr "Мәгънә"
@@ -634,32 +634,32 @@ msgstr "&Әйе"
 msgid "&Grant All"
 msgstr "&Бөтенесен кабул итү"
 
-#: java/kjavaappletviewer.cpp:59
+#: java/kjavaappletviewer.cpp:57
 #, kde-format
 msgid "KDE Java Applet Plugin"
 msgstr "KDE чолганышының Java аплетларын тоту"
 
-#: java/kjavaappletviewer.cpp:141
+#: java/kjavaappletviewer.cpp:139
 #, kde-format
 msgid "Applet Parameters"
 msgstr "Аплетның көйләүләре"
 
-#: java/kjavaappletviewer.cpp:149
+#: java/kjavaappletviewer.cpp:147
 #, kde-format
 msgid "Parameter"
 msgstr "Көйләү"
 
-#: java/kjavaappletviewer.cpp:153
+#: java/kjavaappletviewer.cpp:151
 #, kde-format
 msgid "Class"
 msgstr "Класс"
 
-#: java/kjavaappletviewer.cpp:159
+#: java/kjavaappletviewer.cpp:157
 #, kde-format
 msgid "Base URL"
 msgstr "Нигез URL"
 
-#: java/kjavaappletviewer.cpp:165
+#: java/kjavaappletviewer.cpp:163
 #, kde-format
 msgid "Archives"
 msgstr "Архивлар"
@@ -1217,20 +1217,26 @@ msgid "   <a href=\"%1\">[Properties]</a>"
 msgstr "   <a href=\"%1\">[Сыйфатлар]</a>"
 
 #: khtml_part.cpp:4019
-#, kde-format
-msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
+#, fuzzy, kde-format
+#| msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
+#| msgid "Quirks"
+msgctxt "HTML rendering mode (see https://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Quirks"
 msgstr "Туры килү ысулы"
 
 #: khtml_part.cpp:4022
-#, kde-format
-msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
+#, fuzzy, kde-format
+#| msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
+#| msgid "Almost standards"
+msgctxt "HTML rendering mode (see https://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Almost standards"
 msgstr "Стандартларга туры килә диярлек"
 
 #: khtml_part.cpp:4026
-#, kde-format
-msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
+#, fuzzy, kde-format
+#| msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
+#| msgid "Strict"
+msgctxt "HTML rendering mode (see https://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Strict"
 msgstr "Стандартларга катгый рәвештә туры килү"
 
@@ -1532,15 +1538,23 @@ msgstr "JavaScript хаталары"
 
 #. i18n: ectx: property (whatsThis), widget (QDialog, KJSErrorDlgBase)
 #: kjserrordlgbase.ui:18
-#, kde-format
+#, fuzzy, kde-format
+#| msgid ""
+#| "This dialog provides you with notification and details of scripting "
+#| "errors that occur on web pages.  In many cases it is due to an error in "
+#| "the web site as designed by its author.  In other cases it is the result "
+#| "of a programming error in Konqueror.  If you suspect the former, please "
+#| "contact the webmaster of the site in question.  Conversely if you suspect "
+#| "an error in Konqueror, please file a bug report at http://bugs.kde.org/.  "
+#| "A test case which illustrates the problem will be appreciated."
 msgid ""
 "This dialog provides you with notification and details of scripting errors "
 "that occur on web pages.  In many cases it is due to an error in the web "
 "site as designed by its author.  In other cases it is the result of a "
 "programming error in Konqueror.  If you suspect the former, please contact "
 "the webmaster of the site in question.  Conversely if you suspect an error "
-"in Konqueror, please file a bug report at http://bugs.kde.org/.  A test case "
-"which illustrates the problem will be appreciated."
+"in Konqueror, please file a bug report at https://bugs.kde.org/.  A test "
+"case which illustrates the problem will be appreciated."
 msgstr ""
 "Бу диалогта веб битләрдәге скрипт хаталары күрсәтелгән. Еш очракта алар веб "
 "битләрендә башкарган чактагы хаталар белән бәйле, ләкин кайвакыт Konqueror "
@@ -1570,7 +1584,7 @@ msgstr "multipart/mixed өчен кертелә торган компонент"
 msgid "Copyright 2001-2011, David Faure <faure@kde.org>"
 msgstr "© David Faure <email>faure@kde.org</email>, 2001-2011"
 
-#: kmultipart/kmultipart.cpp:336
+#: kmultipart/kmultipart.cpp:335
 #, kde-format
 msgid "No handler found for %1."
 msgstr "%1 өчен эшкәрткеч табылмады."
