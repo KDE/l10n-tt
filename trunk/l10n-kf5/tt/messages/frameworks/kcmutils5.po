@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-01-04 03:02+0100\n"
+"POT-Creation-Date: 2019-01-12 03:00+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -463,9 +463,10 @@ msgstr[0] "%1 расширение автоматически удалено п�
 msgstr[1] "%1 расширения автоматически удалены при проверке зависимостей"
 
 #: kpluginselector.cpp:261
-#, kde-format
-msgid "Search Plugins"
-msgstr "Өстәлмәләрне эзләү"
+#, fuzzy, kde-format
+#| msgid "Search"
+msgid "Search..."
+msgstr "Поиск"
 
 #: kpluginselector.cpp:710
 #, fuzzy, kde-format
@@ -488,6 +489,9 @@ msgstr "Компонентларны сайлагыз"
 #, kde-format
 msgid "Enable component"
 msgstr "Компонентны эшләтү"
+
+#~ msgid "Search Plugins"
+#~ msgstr "Өстәлмәләрне эзләү"
 
 #~ msgid "Name"
 #~ msgstr "Исем"
@@ -4862,9 +4866,6 @@ msgstr "Компонентны эшләтү"
 #~ msgstr ""
 #~ "Бу «%1» хәрефенең үрнәге. Аны \"Сайлау...\" төймәсенә басып алыштырып "
 #~ "була."
-
-#~ msgid "Search"
-#~ msgstr "Поиск"
 
 #~ msgid "Stop"
 #~ msgstr "Туктату"
