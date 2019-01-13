@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-11-18 03:51+0100\n"
+"POT-Creation-Date: 2019-01-13 03:01+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -618,42 +618,42 @@ msgstr ""
 msgid "Close Message"
 msgstr "Хәбәрне ябу"
 
-#: kcheckaccelerators.cpp:232
+#: kcheckaccelerators.cpp:266
 #, kde-format
 msgctxt "@title:window"
 msgid "Dr. Klash' Accelerator Diagnosis"
 msgstr "Dr. Klash акселераторлар диагностикасы"
 
-#: kcheckaccelerators.cpp:239
+#: kcheckaccelerators.cpp:273
 #, kde-format
 msgctxt "@option:check"
 msgid "Disable automatic checking"
 msgstr "Автоматик рәвеште булга тикшерүне сүндерү"
 
-#: kcheckaccelerators.cpp:283
+#: kcheckaccelerators.cpp:317
 #, kde-format
 msgid "<h2>Accelerators changed</h2>"
 msgstr "<h2>Акселераторлар үзгәргән</h2>"
 
-#: kcheckaccelerators.cpp:285 kcheckaccelerators.cpp:296
+#: kcheckaccelerators.cpp:319 kcheckaccelerators.cpp:330
 #, fuzzy, kde-format
 #| msgid "Find Text"
 msgid "Old Text"
 msgstr "Текстны эзләү"
 
-#: kcheckaccelerators.cpp:287 kcheckaccelerators.cpp:305
+#: kcheckaccelerators.cpp:321 kcheckaccelerators.cpp:339
 #, fuzzy, kde-format
 #| msgctxt "@title:menu"
 #| msgid "Show Text"
 msgid "New Text"
 msgstr "Подписи кнопок"
 
-#: kcheckaccelerators.cpp:294
+#: kcheckaccelerators.cpp:328
 #, kde-format
 msgid "<h2>Accelerators removed</h2>"
 msgstr "<h2>Акселераторлар сөртелгән</h2>"
 
-#: kcheckaccelerators.cpp:303
+#: kcheckaccelerators.cpp:337
 #, kde-format
 msgid "<h2>Accelerators added (just for your info)</h2>"
 msgstr "<h2>Акселераторлар өстәлгән</h2>"
