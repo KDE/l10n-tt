@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-02-09 03:11+0100\n"
+"POT-Creation-Date: 2019-02-15 03:05+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -86,7 +86,7 @@ msgctxt "Argument is application name"
 msgid "This configuration section is already opened in %1"
 msgstr "Бу көйләү бүлеге %1"
 
-#: kcmultidialog.cpp:61
+#: kcmultidialog.cpp:63
 #, kde-format
 msgid ""
 "The settings of the current module have changed.\n"
@@ -95,12 +95,12 @@ msgstr ""
 "Бу модульнең көйләүләре үзгәртелде.\n"
 "Сез бу үзгерешләрне кулланырга телисезме?"
 
-#: kcmultidialog.cpp:63
+#: kcmultidialog.cpp:65
 #, kde-format
 msgid "Apply Settings"
 msgstr "Көйләүләрне куллану"
 
-#: kcmultidialog.cpp:254 kpluginselector.cpp:715
+#: kcmultidialog.cpp:262 kpluginselector.cpp:715
 #, kde-format
 msgid "Configure"
 msgstr "Көйләү"
