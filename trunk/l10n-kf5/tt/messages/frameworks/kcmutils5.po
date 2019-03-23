@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-22 03:10+0100\n"
+"POT-Creation-Date: 2019-03-23 03:21+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -106,7 +106,7 @@ msgstr ""
 msgid "Apply Settings"
 msgstr "Көйләүләрне куллану"
 
-#: kcmultidialog.cpp:261 kpluginselector.cpp:715
+#: kcmultidialog.cpp:261 kpluginselector.cpp:716
 #, kde-format
 msgid "Configure"
 msgstr "Көйләү"
@@ -424,7 +424,7 @@ msgstr ""
 "Для удовлетворения зависимости расширения будут предприняты следующие "
 "автоматические изменения:\n"
 
-#: kpluginselector.cpp:211
+#: kpluginselector.cpp:212
 #, kde-format
 msgid ""
 "\n"
@@ -434,7 +434,7 @@ msgstr ""
 "\n"
 "    Расширение %1 будет выбрано, так как от него зависит расширение %2"
 
-#: kpluginselector.cpp:213
+#: kpluginselector.cpp:214
 #, kde-format
 msgid ""
 "\n"
@@ -444,43 +444,43 @@ msgstr ""
 "\n"
 "    Расширение %1 не будет выбрано, так как зависит от расширения %2"
 
-#: kpluginselector.cpp:216
+#: kpluginselector.cpp:217
 #, kde-format
 msgid "Dependency Check"
 msgstr "Буйсынучыларга тикшерү"
 
-#: kpluginselector.cpp:233
+#: kpluginselector.cpp:234
 #, kde-format
 msgid "%1 plugin automatically added due to plugin dependencies"
 msgid_plural "%1 plugins automatically added due to plugin dependencies"
 msgstr[0] "%1 расширение автоматически добавлено при проверке зависимостей"
 msgstr[1] "%1 расширения автоматически добавлены при проверке зависимостей"
 
-#: kpluginselector.cpp:237
+#: kpluginselector.cpp:238
 #, kde-format
 msgid ", "
 msgstr ", "
 
-#: kpluginselector.cpp:241
+#: kpluginselector.cpp:242
 #, kde-format
 msgid "%1 plugin automatically removed due to plugin dependencies"
 msgid_plural "%1 plugins automatically removed due to plugin dependencies"
 msgstr[0] "%1 расширение автоматически удалено при проверке зависимостей"
 msgstr[1] "%1 расширения автоматически удалены при проверке зависимостей"
 
-#: kpluginselector.cpp:261
+#: kpluginselector.cpp:262
 #, fuzzy, kde-format
 #| msgid "Search"
 msgid "Search..."
 msgstr "Поиск"
 
-#: kpluginselector.cpp:710
+#: kpluginselector.cpp:711
 #, fuzzy, kde-format
 #| msgid "&About"
 msgid "About"
 msgstr "KDE &чолганышы турында"
 
-#: kpluginselector.cpp:813
+#: kpluginselector.cpp:814
 #, kde-format
 msgctxt "Used only for plugins"
 msgid "About %1"
@@ -491,7 +491,7 @@ msgstr "%1 турында"
 msgid "Select Components"
 msgstr "Компонентларны сайлагыз"
 
-#: ksettings/dialog.cpp:231
+#: ksettings/dialog.cpp:232
 #, kde-format
 msgid "Enable component"
 msgstr "Компонентны эшләтү"
