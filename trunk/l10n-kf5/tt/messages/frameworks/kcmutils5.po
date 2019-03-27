@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-23 03:21+0100\n"
+"POT-Creation-Date: 2019-03-27 03:14+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -106,7 +106,7 @@ msgstr ""
 msgid "Apply Settings"
 msgstr "Көйләүләрне куллану"
 
-#: kcmultidialog.cpp:261 kpluginselector.cpp:716
+#: kcmultidialog.cpp:261 kpluginselector.cpp:720
 #, kde-format
 msgid "Configure"
 msgstr "Көйләү"
@@ -474,13 +474,13 @@ msgstr[1] "%1 расширения автоматически удалены п�
 msgid "Search..."
 msgstr "Поиск"
 
-#: kpluginselector.cpp:711
+#: kpluginselector.cpp:715
 #, fuzzy, kde-format
 #| msgid "&About"
 msgid "About"
 msgstr "KDE &чолганышы турында"
 
-#: kpluginselector.cpp:814
+#: kpluginselector.cpp:818
 #, kde-format
 msgctxt "Used only for plugins"
 msgid "About %1"
