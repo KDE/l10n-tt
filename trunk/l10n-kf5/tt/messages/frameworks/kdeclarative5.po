@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:55+0200\n"
+"POT-Creation-Date: 2019-06-15 02:52+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -37,13 +37,6 @@ msgstr ""
 #| msgid "defines the application font"
 msgid "The unique name of the application (mandatory)"
 msgstr "кушымтаның хәрефен билгели"
-
-#: qmlcontrols/kcmcontrols/qml/GridDelegate.qml:108
-#, fuzzy, kde-format
-#| msgctxt "No shortcut defined"
-#| msgid "None"
-msgid "None"
-msgstr "Юк"
 
 #: qmlcontrols/kquickcontrols/KeySequenceItem.qml:38
 #, fuzzy, kde-format
@@ -116,6 +109,12 @@ msgstr "Басылган төймә Qt коралы белән тотылмый.
 #, kde-format
 msgid "Unsupported Key"
 msgstr "Төймә тотылмый"
+
+#, fuzzy
+#~| msgctxt "No shortcut defined"
+#~| msgid "None"
+#~ msgid "None"
+#~ msgstr "Юк"
 
 #~ msgid "Undo"
 #~ msgstr "Кире кагу"
