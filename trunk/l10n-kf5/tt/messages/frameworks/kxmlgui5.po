@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:58+0200\n"
+"POT-Creation-Date: 2019-07-19 02:59+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 1.2\n"
 
-#: kaboutapplicationdialog.cpp:81 khelpmenu.cpp:283
+#: kaboutapplicationdialog.cpp:81 khelpmenu.cpp:280
 #, kde-format
 msgid "About %1"
 msgstr "%1 турында"
@@ -98,18 +98,18 @@ msgstr "&Тәрҗемә итү"
 msgid "License Agreement"
 msgstr "Лицензион килешү"
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:61
+#: kaboutapplicationpersonlistdelegate_p.cpp:62
 #, kde-format
 msgctxt "Action to send an email to a contributor"
 msgid "Email contributor"
 msgstr "Канташучыга эл. почта аша хат тапшыру"
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:66
+#: kaboutapplicationpersonlistdelegate_p.cpp:67
 #, kde-format
 msgid "Visit contributor's homepage"
 msgstr "Катнашучының веб-сәхифәсенә күчү"
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:127
+#: kaboutapplicationpersonlistdelegate_p.cpp:128
 #, kde-format
 msgctxt "Action to send an email to a contributor"
 msgid ""
@@ -119,8 +119,8 @@ msgstr ""
 "Канташучыга эл. почта аша хат тапшыру:\n"
 "%1"
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:133
-#: kaboutapplicationpersonlistdelegate_p.cpp:169
+#: kaboutapplicationpersonlistdelegate_p.cpp:134
+#: kaboutapplicationpersonlistdelegate_p.cpp:170
 #, kde-format
 msgid ""
 "Visit contributor's homepage\n"
@@ -129,8 +129,8 @@ msgstr ""
 "Катнашучының веб-сәхифәсенә күчү:\n"
 "%1"
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:140
-#: kaboutapplicationpersonlistdelegate_p.cpp:172
+#: kaboutapplicationpersonlistdelegate_p.cpp:141
+#: kaboutapplicationpersonlistdelegate_p.cpp:173
 #, kde-format
 msgid ""
 "Visit contributor's profile on %1\n"
@@ -139,7 +139,7 @@ msgstr ""
 "Посетить страницу профиля помощника на %1\n"
 "%2"
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:163
+#: kaboutapplicationpersonlistdelegate_p.cpp:164
 #, kde-format
 msgid ""
 "Visit contributor's page\n"
@@ -148,7 +148,7 @@ msgstr ""
 "Посетить страницу помощника\n"
 "%1"
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:166
+#: kaboutapplicationpersonlistdelegate_p.cpp:167
 #, kde-format
 msgid ""
 "Visit contributor's blog\n"
@@ -157,7 +157,7 @@ msgstr ""
 "Катнашучының блогына күчү:\n"
 "%1"
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:264
+#: kaboutapplicationpersonlistdelegate_p.cpp:265
 #, kde-format
 msgctxt "@item Contributor name in about dialog."
 msgid "%1"
@@ -618,72 +618,72 @@ msgstr ""
 msgid "Close Message"
 msgstr "Хәбәрне ябу"
 
-#: kcheckaccelerators.cpp:266
+#: kcheckaccelerators.cpp:267
 #, kde-format
 msgctxt "@title:window"
 msgid "Dr. Klash' Accelerator Diagnosis"
 msgstr "Dr. Klash акселераторлар диагностикасы"
 
-#: kcheckaccelerators.cpp:273
+#: kcheckaccelerators.cpp:274
 #, kde-format
 msgctxt "@option:check"
 msgid "Disable automatic checking"
 msgstr "Автоматик рәвеште булга тикшерүне сүндерү"
 
-#: kcheckaccelerators.cpp:317
+#: kcheckaccelerators.cpp:318
 #, kde-format
 msgid "<h2>Accelerators changed</h2>"
 msgstr "<h2>Акселераторлар үзгәргән</h2>"
 
-#: kcheckaccelerators.cpp:319 kcheckaccelerators.cpp:330
+#: kcheckaccelerators.cpp:320 kcheckaccelerators.cpp:331
 #, fuzzy, kde-format
 #| msgid "Find Text"
 msgid "Old Text"
 msgstr "Текстны эзләү"
 
-#: kcheckaccelerators.cpp:321 kcheckaccelerators.cpp:339
+#: kcheckaccelerators.cpp:322 kcheckaccelerators.cpp:340
 #, fuzzy, kde-format
 #| msgctxt "@title:menu"
 #| msgid "Show Text"
 msgid "New Text"
 msgstr "Подписи кнопок"
 
-#: kcheckaccelerators.cpp:328
+#: kcheckaccelerators.cpp:329
 #, kde-format
 msgid "<h2>Accelerators removed</h2>"
 msgstr "<h2>Акселераторлар сөртелгән</h2>"
 
-#: kcheckaccelerators.cpp:337
+#: kcheckaccelerators.cpp:338
 #, kde-format
 msgid "<h2>Accelerators added (just for your info)</h2>"
 msgstr "<h2>Акселераторлар өстәлгән</h2>"
 
-#: kedittoolbar.cpp:57
+#: kedittoolbar.cpp:55
 #, kde-format
 msgid "--- separator ---"
 msgstr "--- бүлгеч ---"
 
-#: kedittoolbar.cpp:333
+#: kedittoolbar.cpp:331
 #, kde-format
 msgid "Change Text"
 msgstr "Текстны үзгәртү"
 
-#: kedittoolbar.cpp:344
+#: kedittoolbar.cpp:342
 #, kde-format
 msgid "Icon te&xt:"
 msgstr "Төй&мәнең тексты:"
 
-#: kedittoolbar.cpp:349
+#: kedittoolbar.cpp:347
 #, kde-format
 msgid "&Hide text when toolbar shows text alongside icons"
 msgstr "&Билгечек янында язулар күрсәтелгәндә текстны качыру"
 
-#: kedittoolbar.cpp:603
+#: kedittoolbar.cpp:601
 #, kde-format
 msgid "Configure Toolbars"
 msgstr "Кораллар панелен көйләү"
 
-#: kedittoolbar.cpp:666
+#: kedittoolbar.cpp:664
 #, kde-format
 msgid ""
 "Do you really want to reset all toolbars of this application to their "
@@ -692,17 +692,17 @@ msgstr ""
 "Алданук билгеләнгән кораллар панелен торгызыргамы? Үзгәрешләр шунда ук "
 "гамәлгә ашачак."
 
-#: kedittoolbar.cpp:666
+#: kedittoolbar.cpp:664
 #, kde-format
 msgid "Reset Toolbars"
 msgstr "Кораллар панелен торгызу"
 
-#: kedittoolbar.cpp:666
+#: kedittoolbar.cpp:664
 #, kde-format
 msgid "Reset"
 msgstr "Кайтару"
 
-#: kedittoolbar.cpp:989
+#: kedittoolbar.cpp:987
 #, kde-format
 msgid "&Toolbar:"
 msgstr "&Кораллар панеле:"
@@ -714,54 +714,54 @@ msgstr "&Кораллар панеле:"
 #. del_toolbar->setPixmap(BarIcon("edit-delete", KIconLoader::SizeSmall));
 #. del_toolbar->setEnabled(false); // disabled until implemented
 #. our list of inactive actions
-#: kedittoolbar.cpp:1004
+#: kedittoolbar.cpp:1002
 #, kde-format
 msgid "A&vailable actions:"
 msgstr "&Рөхсәт ителгән гамәлләр:"
 
-#: kedittoolbar.cpp:1019 kedittoolbar.cpp:1038
+#: kedittoolbar.cpp:1017 kedittoolbar.cpp:1036
 #, kde-format
 msgid "Filter"
 msgstr "Сөзгеч"
 
-#: kedittoolbar.cpp:1022
+#: kedittoolbar.cpp:1020
 #, kde-format
 msgid "Curr&ent actions:"
 msgstr "&Хәзерге гамәлләр:"
 
-#: kedittoolbar.cpp:1041
+#: kedittoolbar.cpp:1039
 #, kde-format
 msgid "Change &Icon..."
 msgstr "Билгечекне алыштыру..."
 
-#: kedittoolbar.cpp:1049
+#: kedittoolbar.cpp:1047
 #, kde-format
 msgid "Change Te&xt..."
 msgstr "Текстны үзгәртү..."
 
-#: kedittoolbar.cpp:1201
+#: kedittoolbar.cpp:1199
 #, kde-format
 msgctxt "@item:intable Action name in toolbar editor"
 msgid "%1"
 msgstr "%1"
 
-#: kedittoolbar.cpp:1221
+#: kedittoolbar.cpp:1219
 #, kde-format
 msgid ""
 "This element will be replaced with all the elements of an embedded component."
 msgstr "Кертелгән компонент бу элементны тулысынча алыштырачак."
 
-#: kedittoolbar.cpp:1223
+#: kedittoolbar.cpp:1221
 #, kde-format
 msgid "<Merge>"
 msgstr "<Кертү ноктасы>"
 
-#: kedittoolbar.cpp:1225
+#: kedittoolbar.cpp:1223
 #, kde-format
 msgid "<Merge %1>"
 msgstr "<%1 кертү ноктасы>"
 
-#: kedittoolbar.cpp:1231
+#: kedittoolbar.cpp:1229
 #, kde-format
 msgid ""
 "This is a dynamic list of actions. You can move it, but if you remove it you "
@@ -770,18 +770,18 @@ msgstr ""
 "Бу гамәлләр исемлеге. Сез аны икенче урынга күчерә аласыз, ләкин бетергән "
 "вакытта сез аны кире торгыза алмаячаксыз."
 
-#: kedittoolbar.cpp:1232
+#: kedittoolbar.cpp:1230
 #, kde-format
 msgid "ActionList: %1"
 msgstr "Гамәлләр җыелмасы: %1"
 
-#: kedittoolbar.cpp:1331 kedittoolbar.cpp:1358
+#: kedittoolbar.cpp:1329 kedittoolbar.cpp:1356
 #, kde-format
 msgctxt "@label Action tooltip in toolbar editor, below the action list"
 msgid "%1"
 msgstr "%1"
 
-#: kedittoolbar.cpp:1585
+#: kedittoolbar.cpp:1583
 #, kde-format
 msgid "Change Icon"
 msgstr "Билгечекне үзгәртү"
@@ -819,7 +819,7 @@ msgid "Hold %1, then push %2"
 msgstr "%1 төймәсен тотып, %2 төймәсенә басу"
 
 #. i18n: ectx: Menu (help)
-#: khelpmenu.cpp:175 ui_standards.rc:177
+#: khelpmenu.cpp:172 ui_standards.rc:177
 #, kde-format
 msgid "&Help"
 msgstr "Белешмә"
@@ -982,70 +982,70 @@ msgstr "Басылган төймә Qt коралы белән тотылмый.
 msgid "Unsupported Key"
 msgstr "Төймә тотылмый"
 
-#: kmainwindow.cpp:249
+#: kmainwindow.cpp:247
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "Ainur Shakirov"
 
-#: kmainwindow.cpp:250
+#: kmainwindow.cpp:248
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "ainur.shakirov.tt@gmail.com"
 
-#: kmenumenuhandler_p.cpp:50
+#: kmenumenuhandler_p.cpp:49
 #, kde-format
 msgid "Add to Toolbar"
 msgstr "Корал панеленә өстәү"
 
-#: kmenumenuhandler_p.cpp:233
+#: kmenumenuhandler_p.cpp:232
 #, kde-format
 msgid "Configure Shortcut..."
 msgstr "Төймә тезмәләрен көйләү"
 
-#: ksendbugmail/main.cpp:45
+#: ksendbugmail/main.cpp:44
 #, fuzzy, kde-format
 #| msgid "Create content on server"
 msgid "Error connecting to server."
 msgstr "Әсбапларны серверда ясау"
 
-#: ksendbugmail/main.cpp:48
+#: ksendbugmail/main.cpp:47
 #, fuzzy, kde-format
 #| msgid "Not found"
 msgid "Not connected."
 msgstr "Табылмады"
 
-#: ksendbugmail/main.cpp:51
+#: ksendbugmail/main.cpp:50
 #, fuzzy, kde-format
 #| msgid "Connection timed out"
 msgid "Connection timed out."
 msgstr "Тоташу вакыты үтте"
 
-#: ksendbugmail/main.cpp:54
+#: ksendbugmail/main.cpp:53
 #, kde-format
 msgid "Time out waiting for server interaction."
 msgstr ""
 
-#: ksendbugmail/main.cpp:58
+#: ksendbugmail/main.cpp:57
 #, fuzzy, kde-format
 #| msgid "Server: %1"
 msgid "Server said: \"%1\""
 msgstr "Сервер: %1"
 
-#: ksendbugmail/main.cpp:89
+#: ksendbugmail/main.cpp:88
 #, fuzzy, kde-format
 #| msgid "Send bug report."
 msgid "Sends a bug report by email."
 msgstr "Хата турында хисап җибәрү."
 
-#: ksendbugmail/main.cpp:91
+#: ksendbugmail/main.cpp:90
 #, fuzzy, kde-format
 #| msgid "The size of the dialog"
 msgid "The subject line of the email."
 msgstr "Диалогның зурлыгы"
 
-#: ksendbugmail/main.cpp:92
+#: ksendbugmail/main.cpp:91
 #, fuzzy, kde-format
 #| msgid "The email address this bug report is sent to."
 msgid "The email address to send the bug report to."
@@ -1317,22 +1317,22 @@ msgctxt "@item:intable Action name in shortcuts configuration"
 msgid "%1"
 msgstr "%1"
 
-#: kswitchlanguagedialog_p.cpp:161
+#: kswitchlanguagedialog_p.cpp:159
 #, kde-format
 msgid "Switch Application Language"
 msgstr "Кушымтаның телен үзгәртү"
 
-#: kswitchlanguagedialog_p.cpp:166
+#: kswitchlanguagedialog_p.cpp:164
 #, kde-format
 msgid "Please choose the language which should be used for this application:"
 msgstr "Бу кушымтада кулланырга теләгән телне сайлагыз:"
 
-#: kswitchlanguagedialog_p.cpp:193
+#: kswitchlanguagedialog_p.cpp:191
 #, kde-format
 msgid "Add Fallback Language"
 msgstr "Запас телне кушу:"
 
-#: kswitchlanguagedialog_p.cpp:194
+#: kswitchlanguagedialog_p.cpp:192
 #, kde-format
 msgid ""
 "Adds one more language which will be used if other translations do not "
@@ -1341,7 +1341,7 @@ msgstr ""
 "Сезнең телегезгә тәрҗемә булмаган вакытта бер яисә берничә кулланыла торган "
 "телне күрсәтү."
 
-#: kswitchlanguagedialog_p.cpp:291 kswitchlanguagedialog_p.cpp:313
+#: kswitchlanguagedialog_p.cpp:289 kswitchlanguagedialog_p.cpp:311
 #, kde-format
 msgid ""
 "The language for this application has been changed. The change will take "
@@ -1350,155 +1350,155 @@ msgstr ""
 "Бу кушымтаның теле үзгәртелде. Үзгәрешләр кушымтаның яңадан җибәргән вакытта "
 "тормышка ашырылачак."
 
-#: kswitchlanguagedialog_p.cpp:292 kswitchlanguagedialog_p.cpp:314
+#: kswitchlanguagedialog_p.cpp:290 kswitchlanguagedialog_p.cpp:312
 #, kde-format
 msgid "Application Language Changed"
 msgstr "Кушымтаның теле үзгәрелде"
 
-#: kswitchlanguagedialog_p.cpp:402
+#: kswitchlanguagedialog_p.cpp:400
 #, kde-format
 msgid "Primary language:"
 msgstr "Төп тел:"
 
-#: kswitchlanguagedialog_p.cpp:402
+#: kswitchlanguagedialog_p.cpp:400
 #, kde-format
 msgid "Fallback language:"
 msgstr "Запас язык:"
 
-#: kswitchlanguagedialog_p.cpp:417
+#: kswitchlanguagedialog_p.cpp:415
 #, kde-format
 msgid "Remove"
 msgstr "Бетерү"
 
-#: kswitchlanguagedialog_p.cpp:424
+#: kswitchlanguagedialog_p.cpp:422
 #, kde-format
 msgid ""
 "This is the main application language which will be used first, before any "
 "other languages."
 msgstr "Бу төп тел, кушымта өчен ул башка телләрдән өстенрәк тора."
 
-#: kswitchlanguagedialog_p.cpp:425
+#: kswitchlanguagedialog_p.cpp:423
 #, kde-format
 msgid ""
 "This is the language which will be used if any previous languages do not "
 "contain a proper translation."
 msgstr "Сезнең телегезгә тәрҗемә булмаган вакытта бу тел кулланылачак."
 
-#: ktoolbar.cpp:311
+#: ktoolbar.cpp:309
 #, kde-format
 msgctxt "@title:menu"
 msgid "Show Text"
 msgstr "Подписи кнопок"
 
-#: ktoolbar.cpp:314
+#: ktoolbar.cpp:312
 #, kde-format
 msgctxt "@title:menu"
 msgid "Toolbar Settings"
 msgstr "Меню панели инструментов"
 
-#: ktoolbar.cpp:316
+#: ktoolbar.cpp:314
 #, fuzzy, kde-format
 #| msgid "Orientation"
 msgctxt "Toolbar orientation"
 msgid "Orientation"
 msgstr "Урнашу"
 
-#: ktoolbar.cpp:318
+#: ktoolbar.cpp:316
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Top"
 msgstr "Өскә"
 
-#: ktoolbar.cpp:320
+#: ktoolbar.cpp:318
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Left"
 msgstr "Сул кыры буенча"
 
-#: ktoolbar.cpp:321
+#: ktoolbar.cpp:319
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Right"
 msgstr "Уң кыры буенча"
 
-#: ktoolbar.cpp:322
+#: ktoolbar.cpp:320
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Bottom"
 msgstr "Аска"
 
-#: ktoolbar.cpp:330
+#: ktoolbar.cpp:328
 #, kde-format
 msgid "Text Position"
 msgstr "Текст урнашуы"
 
-#: ktoolbar.cpp:332
+#: ktoolbar.cpp:330
 #, kde-format
 msgid "Icons Only"
 msgstr "Билгечекләр генә"
 
-#: ktoolbar.cpp:333
+#: ktoolbar.cpp:331
 #, kde-format
 msgid "Text Only"
 msgstr "Текст кына"
 
-#: ktoolbar.cpp:334
+#: ktoolbar.cpp:332
 #, kde-format
 msgid "Text Alongside Icons"
 msgstr "Имзалар билгечекләр янында"
 
-#: ktoolbar.cpp:335
+#: ktoolbar.cpp:333
 #, kde-format
 msgid "Text Under Icons"
 msgstr "Имзалар билгечекләр астында"
 
-#: ktoolbar.cpp:343
+#: ktoolbar.cpp:341
 #, kde-format
 msgid "Icon Size"
 msgstr "Билгечекләр зурлыгы"
 
-#: ktoolbar.cpp:345
+#: ktoolbar.cpp:343
 #, kde-format
 msgctxt "@item:inmenu Icon size"
 msgid "Default"
 msgstr "Үрнәкле"
 
-#: ktoolbar.cpp:362 ktoolbar.cpp:383
+#: ktoolbar.cpp:360 ktoolbar.cpp:381
 #, kde-format
 msgid "Small (%1x%2)"
 msgstr "Кече (%1x%2)"
 
-#: ktoolbar.cpp:364 ktoolbar.cpp:385
+#: ktoolbar.cpp:362 ktoolbar.cpp:383
 #, kde-format
 msgid "Medium (%1x%2)"
 msgstr "Уртача (%1x%2)"
 
-#: ktoolbar.cpp:366 ktoolbar.cpp:387
+#: ktoolbar.cpp:364 ktoolbar.cpp:385
 #, kde-format
 msgid "Large (%1x%2)"
 msgstr "Зур (%1x%2)"
 
-#: ktoolbar.cpp:368 ktoolbar.cpp:389
+#: ktoolbar.cpp:366 ktoolbar.cpp:387
 #, kde-format
 msgid "Huge (%1x%2)"
 msgstr "Бик зур (%1x%2)"
 
-#: ktoolbar.cpp:411
+#: ktoolbar.cpp:409
 #, kde-format
 msgid "Lock Toolbar Positions"
 msgstr "Корал панелен катыру"
 
-#: ktoolbarhandler.cpp:101
+#: ktoolbarhandler.cpp:103
 #, kde-format
 msgid "Toolbars Shown"
 msgstr "Чагылдыручы корал панелләре"
 
-#: kundoactions.cpp:43
+#: kundoactions.cpp:41
 #, kde-format
 msgid "Redo"
 msgstr "Кабатлау"
 
-#: kundoactions.cpp:62
+#: kundoactions.cpp:60
 #, kde-format
 msgid "Undo"
 msgstr "Кире кагу"
@@ -1508,7 +1508,7 @@ msgstr "Кире кагу"
 msgid "No text"
 msgstr "Текст юк"
 
-#: kxmlguiwindow.cpp:440
+#: kxmlguiwindow.cpp:437
 #, kde-format
 msgid ""
 "There are two actions (%1, %2) that want to use the same shortcut (%3). This "
@@ -1516,7 +1516,7 @@ msgid ""
 "org'>bugs.kde.org</a>"
 msgstr ""
 
-#: kxmlguiwindow.cpp:440
+#: kxmlguiwindow.cpp:437
 #, fuzzy, kde-format
 #| msgid "Ambiguous shortcut detected"
 msgid "Ambiguous Shortcuts"
