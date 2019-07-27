@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:58+0200\n"
+"POT-Creation-Date: 2019-07-27 02:42+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -100,26 +100,19 @@ msgstr "Файллар тикшерүен өзү (игьтибар булыгы�
 
 #: kbuildsycoca/kbuildsycoca_main.cpp:85
 #, fuzzy, kde-format
-#| msgid "Create global database"
-msgctxt "@info:shell command-line option"
-msgid "Create global database"
-msgstr "Глобаль базаны ясау"
-
-#: kbuildsycoca/kbuildsycoca_main.cpp:88
-#, fuzzy, kde-format
 #| msgid "Perform menu generation test run only"
 msgctxt "@info:shell command-line option"
 msgid "Perform menu generation test run only"
 msgstr "Меню ясау тикшерүен гына башкару"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:91
+#: kbuildsycoca/kbuildsycoca_main.cpp:88
 #, fuzzy, kde-format
 #| msgid "Track menu id for debug purposes"
 msgctxt "@info:shell command-line option"
 msgid "Track menu id for debug purposes"
 msgstr "Төзәткечнең идентификатор менюсын күзәтү"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:95
+#: kbuildsycoca/kbuildsycoca_main.cpp:92
 #, kde-format
 msgctxt "@info:shell command-line option"
 msgid "Switch QStandardPaths to test mode, for unit tests only"
@@ -218,6 +211,12 @@ msgstr "Ялгышлы хезмәт күрсәтелде"
 msgid "The service '%1' provides no library or the Library key is missing"
 msgstr ""
 "«%1» хезмәте китапханә белән тәэмин итә алмады яисә «Library» язуы табылмады "
+
+#, fuzzy
+#~| msgid "Create global database"
+#~ msgctxt "@info:shell command-line option"
+#~ msgid "Create global database"
+#~ msgstr "Глобаль базаны ясау"
 
 #, fuzzy
 #~| msgid "Do not signal applications to update"
