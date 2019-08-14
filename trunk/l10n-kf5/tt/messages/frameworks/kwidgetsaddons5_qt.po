@@ -2768,21 +2768,21 @@ msgctxt "KMessageWidget|"
 msgid "Close message"
 msgstr "Хәбәрне ябу"
 
-#: kmimetypechooser.cpp:87
+#: kmimetypechooser.cpp:86
 #, fuzzy
 #| msgid "Mime types"
 msgctxt "KMimeTypeChooser|"
 msgid "Mime Type"
 msgstr "MIME төрләре"
 
-#: kmimetypechooser.cpp:90
+#: kmimetypechooser.cpp:89
 #, fuzzy
 #| msgid "Comment"
 msgctxt "KMimeTypeChooser|"
 msgid "Comment"
 msgstr "Комментарий"
 
-#: kmimetypechooser.cpp:93
+#: kmimetypechooser.cpp:92
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Braille Patterns"
@@ -2790,14 +2790,14 @@ msgctxt "KMimeTypeChooser|"
 msgid "Patterns"
 msgstr "Брайль калыплары"
 
-#: kmimetypechooser.cpp:106
+#: kmimetypechooser.cpp:105
 #, fuzzy
 #| msgid "&Edit..."
 msgctxt "KMimeTypeChooser|"
 msgid "&Edit..."
 msgstr "&Үзгәртү..."
 
-#: kmimetypechooser.cpp:116
+#: kmimetypechooser.cpp:115
 msgctxt "KMimeTypeChooser|"
 msgid "Click this button to display the familiar KDE mime type editor."
 msgstr ""
