@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-02 02:42+0200\n"
+"POT-Creation-Date: 2019-08-25 02:37+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -430,53 +430,53 @@ msgstr "Юрама:"
 msgid "no version set (programmer error)"
 msgstr "юрама турында мәгълумат юк (кушымта ясаучының хатасы!)"
 
-#: kbugreport.cpp:226
+#: kbugreport.cpp:225
 #, kde-format
 msgid "OS:"
 msgstr "ОС:"
 
-#: kbugreport.cpp:234
+#: kbugreport.cpp:233
 #, kde-format
 msgid "Compiler:"
 msgstr "Компилятор:"
 
-#: kbugreport.cpp:242
+#: kbugreport.cpp:241
 #, kde-format
 msgid "Se&verity"
 msgstr "Мөһимлек &дәрәҗәсе"
 
-#: kbugreport.cpp:244
+#: kbugreport.cpp:243
 #, kde-format
 msgid "Critical"
 msgstr "Тәнкыйть хата"
 
-#: kbugreport.cpp:244
+#: kbugreport.cpp:243
 #, kde-format
 msgid "Grave"
 msgstr "Җитди хата"
 
-#: kbugreport.cpp:244
+#: kbugreport.cpp:243
 #, kde-format
 msgctxt "normal severity"
 msgid "Normal"
 msgstr "Гадәти"
 
-#: kbugreport.cpp:244
+#: kbugreport.cpp:243
 #, kde-format
 msgid "Wishlist"
 msgstr "Теләк"
 
-#: kbugreport.cpp:244
+#: kbugreport.cpp:243
 #, kde-format
 msgid "Translation"
 msgstr "Тәрҗемә"
 
-#: kbugreport.cpp:262
+#: kbugreport.cpp:261
 #, kde-format
 msgid "S&ubject: "
 msgstr "&Тема: "
 
-#: kbugreport.cpp:270
+#: kbugreport.cpp:269
 #, kde-format
 msgid ""
 "Enter the text (in English if possible) that you wish to submit for the bug "
@@ -488,7 +488,7 @@ msgstr ""
 "Әгәр сез \"Тапшыру\"га бассагыз, хәбәр шул программаны җаваплы "
 "эшкәртүчегәтапшырылачак.\n"
 
-#: kbugreport.cpp:294
+#: kbugreport.cpp:293
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>To submit a bug report, click on the button below. This will open a "
@@ -506,7 +506,7 @@ msgstr ""
 "org</a>, где можно будет заполнить форму. Информация будет отправлена на "
 "сервер учёта ошибок.</qt>"
 
-#: kbugreport.cpp:299
+#: kbugreport.cpp:298
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>To submit a bug report, click on the button below. This will open a "
@@ -522,24 +522,24 @@ msgstr ""
 "org</a>, где можно будет заполнить форму. Информация будет отправлена на "
 "сервер учёта ошибок.</qt>"
 
-#: kbugreport.cpp:316
+#: kbugreport.cpp:315
 #, kde-format
 msgid "&Launch Bug Report Wizard"
 msgstr "&Хата турында хәбәр тапшыру остасын җибәрү"
 
-#: kbugreport.cpp:318
+#: kbugreport.cpp:317
 #, fuzzy, kde-format
 #| msgid "Submit Bug Report"
 msgid "&Submit Bug Report"
 msgstr "Хата турында хисапны тапшыру"
 
-#: kbugreport.cpp:382
+#: kbugreport.cpp:381
 #, kde-format
 msgctxt "unknown program name"
 msgid "unknown"
 msgstr "билгесез"
 
-#: kbugreport.cpp:441
+#: kbugreport.cpp:440
 #, kde-format
 msgid ""
 "You must specify both a subject and a description before the report can be "
@@ -547,7 +547,7 @@ msgid ""
 msgstr ""
 "Тапшыру алдыннан хатаның темасын һәм аның тасвирлавын билгеләргә кирәк."
 
-#: kbugreport.cpp:450
+#: kbugreport.cpp:449
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Critical</b>. Please note that this severity is "
@@ -565,7 +565,7 @@ msgstr ""
 "<p>Является ли ошибка, о которой вы хотите сообщить, настолько серьёзной? "
 "Если нет, выберите другой, менее высокий уровень ошибки.</p>"
 
-#: kbugreport.cpp:462
+#: kbugreport.cpp:461
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Grave</b>. Please note that this severity is "
@@ -583,7 +583,7 @@ msgstr ""
 "<p>Является ли ошибка, о которой вы хотите сообщить, настолько серьёзной? "
 "Если нет, выберите другой, менее высокий уровень ошибки.</p>"
 
-#: kbugreport.cpp:476
+#: kbugreport.cpp:475
 #, fuzzy, kde-format
 #| msgid ""
 #| "Unable to send the bug report.\n"
@@ -599,12 +599,12 @@ msgstr ""
 "Аңлатмалар өчен http://bugs.kde.org/ сәхифәсенә\n"
 "мөрәҗәгать итегез."
 
-#: kbugreport.cpp:484
+#: kbugreport.cpp:483
 #, kde-format
 msgid "Bug report sent, thank you for your input."
 msgstr "Хата турында хәбәр тапшырылды, рәхмәт."
 
-#: kbugreport.cpp:493
+#: kbugreport.cpp:492
 #, kde-format
 msgid ""
 "Close and discard\n"
@@ -613,7 +613,7 @@ msgstr ""
 "Кертелгән хәбәрне\n"
 "ябаргамы, кире кагыргамы?"
 
-#: kbugreport.cpp:494
+#: kbugreport.cpp:493
 #, kde-format
 msgid "Close Message"
 msgstr "Хәбәрне ябу"
@@ -792,31 +792,31 @@ msgstr "%1"
 msgid "Change Icon"
 msgstr "Билгечекне үзгәртү"
 
-#: kgesture.cpp:505
+#: kgesture.cpp:503
 #, kde-format
 msgctxt "left mouse button"
 msgid "left button"
 msgstr "сул төймә"
 
-#: kgesture.cpp:507
+#: kgesture.cpp:505
 #, kde-format
 msgctxt "middle mouse button"
 msgid "middle button"
 msgstr "урта төймә"
 
-#: kgesture.cpp:509
+#: kgesture.cpp:507
 #, kde-format
 msgctxt "right mouse button"
 msgid "right button"
 msgstr "уң төймә"
 
-#: kgesture.cpp:511
+#: kgesture.cpp:509
 #, kde-format
 msgctxt "a nonexistent value of mouse button"
 msgid "invalid button"
 msgstr "хаталы төймә"
 
-#: kgesture.cpp:524
+#: kgesture.cpp:522
 #, kde-format
 msgctxt ""
 "a kind of mouse gesture: hold down one mouse button, then press another "
@@ -978,12 +978,12 @@ msgctxt "No shortcut defined"
 msgid "None"
 msgstr "Юк"
 
-#: kkeysequencewidget.cpp:721
+#: kkeysequencewidget.cpp:720
 #, kde-format
 msgid "The key you just pressed is not supported by Qt."
 msgstr "Басылган төймә Qt коралы белән тотылмый."
 
-#: kkeysequencewidget.cpp:722
+#: kkeysequencewidget.cpp:721
 #, kde-format
 msgid "Unsupported Key"
 msgstr "Төймә тотылмый"
