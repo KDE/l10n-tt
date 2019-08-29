@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-25 01:11+0000\n"
+"POT-Creation-Date: 2019-08-29 01:16+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -103,12 +103,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "Cookie Jar"
 
-#: src/kcms/kio/cookies.desktop:60
+#: src/kcms/kio/cookies.desktop:61
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr ""
 
-#: src/kcms/kio/cookies.desktop:145
+#: src/kcms/kio/cookies.desktop:146
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
@@ -156,7 +156,7 @@ msgctxt "Comment"
 msgid "Credentials used to access SMB shares"
 msgstr ""
 
-#: src/kcms/kio/smb.desktop:133
+#: src/kcms/kio/smb.desktop:134
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
@@ -388,7 +388,7 @@ msgctxt "Comment"
 msgid "Configure the User Agent exposed by the HTTP kioslave"
 msgstr ""
 
-#: src/kcms/kio/useragent.desktop:134
+#: src/kcms/kio/useragent.desktop:135
 msgctxt "X-KDE-Keywords"
 msgid "User Agent,Browser,Internet,WWW,Network,agent,bindings,server,login"
 msgstr ""
@@ -403,7 +403,7 @@ msgctxt "Comment"
 msgid "Configure web shortcuts"
 msgstr ""
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:146
+#: src/kcms/webshortcuts/webshortcuts.desktop:147
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,"
