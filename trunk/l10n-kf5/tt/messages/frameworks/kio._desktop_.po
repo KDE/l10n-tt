@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-29 01:16+0000\n"
+"POT-Creation-Date: 2019-08-31 01:43+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -415,32 +415,32 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "Челтәрнең прокси көйләнеше"
 
-#: src/kpac/proxyscout.notifyrc:53
+#: src/kpac/proxyscout.notifyrc:54
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Прокси скриптында хата"
 
-#: src/kpac/proxyscout.notifyrc:101
+#: src/kpac/proxyscout.notifyrc:103
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "Кабул ителгән прокси көйләүченең скрипты бозык"
 
-#: src/kpac/proxyscout.notifyrc:153
+#: src/kpac/proxyscout.notifyrc:156
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Бирелгән скрипта хата"
 
-#: src/kpac/proxyscout.notifyrc:201
+#: src/kpac/proxyscout.notifyrc:205
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "Прокси көйләүченең скриптын кабыл итеп булмый"
 
-#: src/kpac/proxyscout.notifyrc:254
+#: src/kpac/proxyscout.notifyrc:259
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Скрипт эчтәлегендә хата"
 
-#: src/kpac/proxyscout.notifyrc:300
+#: src/kpac/proxyscout.notifyrc:306
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Прокси көйләүченең скриптын җибәргәндә ялгыш килеп чыкты"
@@ -573,7 +573,7 @@ msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:44
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:45
 msgctxt "Query"
 msgid "https://www.archlinux.org/packages/?q=\\\\{@}"
 msgstr ""
@@ -938,7 +938,7 @@ msgctxt "Name"
 msgid "Freecode"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/freecode.desktop:57
+#: src/urifilters/ikws/searchproviders/freecode.desktop:58
 msgctxt "Query"
 msgid "http://freecode.com/search?q=\\\\{@}"
 msgstr ""
@@ -978,7 +978,7 @@ msgctxt "Name"
 msgid "GitLab"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/gitlab.desktop:33
+#: src/urifilters/ikws/searchproviders/gitlab.desktop:34
 msgctxt "Query"
 msgid "https://gitlab.com/search?search=\\\\{@}"
 msgstr ""
@@ -1086,7 +1086,7 @@ msgctxt "Name"
 msgid "Google Shopping"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/google_shopping.desktop:57
+#: src/urifilters/ikws/searchproviders/google_shopping.desktop:58
 msgctxt "Query"
 msgid "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
 msgstr ""
@@ -1096,7 +1096,7 @@ msgctxt "Name"
 msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/grec.desktop:46
+#: src/urifilters/ikws/searchproviders/grec.desktop:47
 msgctxt "Query"
 msgid "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
 msgstr ""
@@ -1373,7 +1373,7 @@ msgctxt "Name"
 msgid "Telephonebook Search Provider"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/nl-telephone.desktop:90
+#: src/urifilters/ikws/searchproviders/nl-telephone.desktop:89
 msgctxt "Query"
 msgid ""
 "https://www.detelefoongids.nl/\\\\{1}/\\\\{2}/10-1/?oWhat=\\\\{1}&oWhere=\\"
