@@ -2754,14 +2754,14 @@ msgctxt "KMessageBox|"
 msgid "Do not show this message again"
 msgstr "Бу хәбәрне башка күрсәтмәү"
 
-#: kmessagewidget.cpp:94
+#: kmessagewidget.cpp:95
 #, fuzzy
 #| msgid "&Close"
 msgctxt "KMessageWidget|"
 msgid "&Close"
 msgstr "&Ябу"
 
-#: kmessagewidget.cpp:95
+#: kmessagewidget.cpp:96
 #, fuzzy
 #| msgid "Close Message"
 msgctxt "KMessageWidget|"
