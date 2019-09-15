@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-17 02:53+0200\n"
+"POT-Creation-Date: 2019-09-15 02:47+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -199,12 +199,12 @@ msgstr "Терминал клиентын җибәреп булмый"
 msgid "No service implementing %1"
 msgstr ""
 
-#: services/kservice.cpp:1018
+#: services/kservice.cpp:1031
 #, kde-format
 msgid "The provided service is not valid"
 msgstr "Ялгышлы хезмәт күрсәтелде"
 
-#: services/kservice.cpp:1022
+#: services/kservice.cpp:1035
 #, fuzzy, kde-format
 #| msgid ""
 #| "The service '%1' provides no library or the Library key is missing in "
