@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-23 02:39+0200\n"
+"POT-Creation-Date: 2019-09-18 02:51+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -2505,68 +2505,68 @@ msgstr ""
 msgid "Turn area off"
 msgstr ""
 
-#: kdecore/k3resolver.cpp:535 kdecore/netsupp.cpp:868
+#: kdecore/k3resolver.cpp:534 kdecore/netsupp.cpp:868
 #, kde-format
 msgid "no error"
 msgstr "хатасыз"
 
-#: kdecore/k3resolver.cpp:536
+#: kdecore/k3resolver.cpp:535
 #, kde-format
 msgid "requested family not supported for this host name"
 msgstr "Күрсәтелгән сервер исеме өчен бу гаиләлек кабул ителми"
 
-#: kdecore/k3resolver.cpp:537 kdecore/netsupp.cpp:870
+#: kdecore/k3resolver.cpp:536 kdecore/netsupp.cpp:870
 #, kde-format
 msgid "temporary failure in name resolution"
 msgstr "исемнәрне билгеләгәндә вакытлы тоткарлык килеп чыкты"
 
-#: kdecore/k3resolver.cpp:538 kdecore/netsupp.cpp:872
+#: kdecore/k3resolver.cpp:537 kdecore/netsupp.cpp:872
 #, kde-format
 msgid "non-recoverable failure in name resolution"
 msgstr "Исемнернә билгеләгәндә тәнкыйть хата килеп чыкты"
 
-#: kdecore/k3resolver.cpp:539
+#: kdecore/k3resolver.cpp:538
 #, kde-format
 msgid "invalid flags"
 msgstr "хаталы әләмләр"
 
-#: kdecore/k3resolver.cpp:540 kdecore/netsupp.cpp:874
+#: kdecore/k3resolver.cpp:539 kdecore/netsupp.cpp:874
 #, kde-format
 msgid "memory allocation failure"
 msgstr "хәтер бирү хатасы"
 
-#: kdecore/k3resolver.cpp:541 kdecore/netsupp.cpp:876
+#: kdecore/k3resolver.cpp:540 kdecore/netsupp.cpp:876
 #, kde-format
 msgid "name or service not known"
 msgstr "исем яисә хезмәт билгесез"
 
-#: kdecore/k3resolver.cpp:542
+#: kdecore/k3resolver.cpp:541
 #, kde-format
 msgid "requested family not supported"
 msgstr "соралган гаиләлек тотылмый"
 
-#: kdecore/k3resolver.cpp:543
+#: kdecore/k3resolver.cpp:542
 #, kde-format
 msgid "requested service not supported for this socket type"
 msgstr "Бу сокет төре соралган хезмәтне тотмый"
 
-#: kdecore/k3resolver.cpp:544
+#: kdecore/k3resolver.cpp:543
 #, kde-format
 msgid "requested socket type not supported"
 msgstr "соралган сокетлар төре тотылмый"
 
-#: kdecore/k3resolver.cpp:545
+#: kdecore/k3resolver.cpp:544
 #, kde-format
 msgid "unknown error"
 msgstr "билгесез хата"
 
-#: kdecore/k3resolver.cpp:547
+#: kdecore/k3resolver.cpp:546
 #, kde-format
 msgctxt "1: the i18n'ed system error code, from errno"
 msgid "system error: %1"
 msgstr "системалы хата: %1"
 
-#: kdecore/k3resolver.cpp:558
+#: kdecore/k3resolver.cpp:557
 #, kde-format
 msgid "request was canceled"
 msgstr "сорау кире кагылгды"
