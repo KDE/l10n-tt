@@ -1614,21 +1614,21 @@ msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Symbols and Pictographs Extended-A"
 msgstr "Төәрле рәвештәге тамгалар һәм уклар"
 
-#: kcharselect.cpp:407 kcharselect.cpp:409
+#: kcharselect.cpp:405 kcharselect.cpp:407
 #, fuzzy
 #| msgid "Enter a search term or character here"
 msgctxt "KCharSelect|"
 msgid "Enter a search term or character here"
 msgstr "Эшләү юлын яисә тамганы кертеге"
 
-#: kcharselect.cpp:414
+#: kcharselect.cpp:412
 #, fuzzy
 #| msgid "&Find..."
 msgctxt "KCharSelect|"
 msgid "&Find..."
 msgstr "&Табу..."
 
-#: kcharselect.cpp:434
+#: kcharselect.cpp:432
 #, fuzzy
 #| msgctxt "Goes to previous character"
 #| msgid "Previous in History"
@@ -1636,14 +1636,14 @@ msgctxt "KCharSelect|Goes to previous character"
 msgid "Previous in History"
 msgstr "Исемлектә булган алдынгы тамга"
 
-#: kcharselect.cpp:436
+#: kcharselect.cpp:434
 #, fuzzy
 #| msgid "Previous Character in History"
 msgctxt "KCharSelect|"
 msgid "Previous Character in History"
 msgstr "Исемлектә булган алдынгы тамга"
 
-#: kcharselect.cpp:441
+#: kcharselect.cpp:439
 #, fuzzy
 #| msgctxt "Goes to next character"
 #| msgid "Next in History"
@@ -1651,21 +1651,21 @@ msgctxt "KCharSelect|Goes to next character"
 msgid "Next in History"
 msgstr "Исемлектә булган алдагы тамга"
 
-#: kcharselect.cpp:443
+#: kcharselect.cpp:441
 #, fuzzy
 #| msgid "Next Character in History"
 msgctxt "KCharSelect|"
 msgid "Next Character in History"
 msgstr "Исемлектә булган алдагы тамга"
 
-#: kcharselect.cpp:448
+#: kcharselect.cpp:446
 #, fuzzy
 #| msgid "&Back"
 msgctxt "KCharSelect|go back"
 msgid "&Back"
 msgstr "&Кире кайту"
 
-#: kcharselect.cpp:455
+#: kcharselect.cpp:453
 #, fuzzy
 #| msgctxt "go forward"
 #| msgid "&Forward"
@@ -1673,217 +1673,217 @@ msgctxt "KCharSelect|go forward"
 msgid "&Forward"
 msgstr "&Алга бару"
 
-#: kcharselect.cpp:470
+#: kcharselect.cpp:468
 #, fuzzy
 #| msgid "Select a category"
 msgctxt "KCharSelect|"
 msgid "Select a category"
 msgstr "Төркемне сайлау"
 
-#: kcharselect.cpp:474
+#: kcharselect.cpp:472
 #, fuzzy
 #| msgid "Select a block to be displayed"
 msgctxt "KCharSelect|"
 msgid "Select a block to be displayed"
 msgstr "Блокны сайлау"
 
-#: kcharselect.cpp:487
+#: kcharselect.cpp:485
 #, fuzzy
 #| msgid "Set font"
 msgctxt "KCharSelect|"
 msgid "Set font"
 msgstr "Хәрефне күрсәтү"
 
-#: kcharselect.cpp:494
+#: kcharselect.cpp:492
 #, fuzzy
 #| msgid "Set font size"
 msgctxt "KCharSelect|"
 msgid "Set font size"
 msgstr "Хәрефнең зурлыгын күрсәтү"
 
-#: kcharselect.cpp:782
+#: kcharselect.cpp:780
 #, fuzzy
 #| msgid "Character:"
 msgctxt "KCharSelect|"
 msgid "Character:"
 msgstr "Тамга:"
 
-#: kcharselect.cpp:788
+#: kcharselect.cpp:786
 #, fuzzy
 #| msgid "Name: "
 msgctxt "KCharSelect|"
 msgid "Name: "
 msgstr "Исем: "
 
-#: kcharselect.cpp:797
+#: kcharselect.cpp:795
 #, fuzzy
 #| msgid "Annotations and Cross References"
 msgctxt "KCharSelect|"
 msgid "Annotations and Cross References"
 msgstr "Аннотации и перекрёстные ссылки"
 
-#: kcharselect.cpp:801
+#: kcharselect.cpp:799
 #, fuzzy
 #| msgid "Alias names:"
 msgctxt "KCharSelect|"
 msgid "Alias names:"
 msgstr "Другие представления:"
 
-#: kcharselect.cpp:809
+#: kcharselect.cpp:807
 #, fuzzy
 #| msgid "Notes:"
 msgctxt "KCharSelect|"
 msgid "Notes:"
 msgstr "Искәрмәләр:"
 
-#: kcharselect.cpp:817
+#: kcharselect.cpp:815
 #, fuzzy
 #| msgid "See also:"
 msgctxt "KCharSelect|"
 msgid "See also:"
 msgstr "Шулай ук моны кара:"
 
-#: kcharselect.cpp:832
+#: kcharselect.cpp:830
 #, fuzzy
 #| msgid "Equivalents:"
 msgctxt "KCharSelect|"
 msgid "Equivalents:"
 msgstr "Эквивалентлар:"
 
-#: kcharselect.cpp:840
+#: kcharselect.cpp:838
 #, fuzzy
 #| msgid "Approximate equivalents:"
 msgctxt "KCharSelect|"
 msgid "Approximate equivalents:"
 msgstr "Охшаган эквивалентлар:"
 
-#: kcharselect.cpp:848
+#: kcharselect.cpp:846
 #, fuzzy
 #| msgid "Description:"
 msgctxt "KCharSelect|"
 msgid "Decomposition:"
 msgstr "Тасвирлама:"
 
-#: kcharselect.cpp:860
+#: kcharselect.cpp:858
 #, fuzzy
 #| msgid "CJK Ideograph Information"
 msgctxt "KCharSelect|"
 msgid "CJK Ideograph Information"
 msgstr "ККЯ иероглифы турында мәгълумат"
 
-#: kcharselect.cpp:863
+#: kcharselect.cpp:861
 #, fuzzy
 #| msgid "Definition in English: "
 msgctxt "KCharSelect|"
 msgid "Definition in English: "
 msgstr "Инглиз телендә булган билгеләмә: "
 
-#: kcharselect.cpp:870
+#: kcharselect.cpp:868
 #, fuzzy
 #| msgid "Mandarin Pronunciation: "
 msgctxt "KCharSelect|"
 msgid "Mandarin Pronunciation: "
 msgstr "Мандарин шивәсендәге әйтелеше: "
 
-#: kcharselect.cpp:877
+#: kcharselect.cpp:875
 #, fuzzy
 #| msgid "Cantonese Pronunciation: "
 msgctxt "KCharSelect|"
 msgid "Cantonese Pronunciation: "
 msgstr "Кантон шивәсендәге әйтелеше: "
 
-#: kcharselect.cpp:884
+#: kcharselect.cpp:882
 #, fuzzy
 #| msgid "Japanese On Pronunciation: "
 msgctxt "KCharSelect|"
 msgid "Japanese On Pronunciation: "
 msgstr "Он әйтелеше: "
 
-#: kcharselect.cpp:891
+#: kcharselect.cpp:889
 #, fuzzy
 #| msgid "Japanese Kun Pronunciation: "
 msgctxt "KCharSelect|"
 msgid "Japanese Kun Pronunciation: "
 msgstr "Кун әйтелеше: "
 
-#: kcharselect.cpp:898
+#: kcharselect.cpp:896
 #, fuzzy
 #| msgid "Tang Pronunciation: "
 msgctxt "KCharSelect|"
 msgid "Tang Pronunciation: "
 msgstr "Танг әйтелеше: "
 
-#: kcharselect.cpp:905
+#: kcharselect.cpp:903
 #, fuzzy
 #| msgid "Korean Pronunciation: "
 msgctxt "KCharSelect|"
 msgid "Korean Pronunciation: "
 msgstr "Корея әйтелеше: "
 
-#: kcharselect.cpp:911
+#: kcharselect.cpp:909
 #, fuzzy
 #| msgid "General Character Properties"
 msgctxt "KCharSelect|"
 msgid "General Character Properties"
 msgstr "Тамга турындагы гомуми мәгълумат"
 
-#: kcharselect.cpp:912
+#: kcharselect.cpp:910
 #, fuzzy
 #| msgid "Block: "
 msgctxt "KCharSelect|"
 msgid "Block: "
 msgstr "Блок: "
 
-#: kcharselect.cpp:913
+#: kcharselect.cpp:911
 #, fuzzy
 #| msgid "Unicode category: "
 msgctxt "KCharSelect|"
 msgid "Unicode category: "
 msgstr "Юникод төркемнәре: "
 
-#: kcharselect.cpp:917
+#: kcharselect.cpp:915
 #, fuzzy
 #| msgid "Various Useful Representations"
 msgctxt "KCharSelect|"
 msgid "Various Useful Representations"
 msgstr "Полезные представления"
 
-#: kcharselect.cpp:918
+#: kcharselect.cpp:916
 #, fuzzy
 #| msgid "UTF-8:"
 msgctxt "KCharSelect|"
 msgid "UTF-8:"
 msgstr "UTF-8:"
 
-#: kcharselect.cpp:922
+#: kcharselect.cpp:920
 #, fuzzy
 #| msgid "UTF-16: "
 msgctxt "KCharSelect|"
 msgid "UTF-16: "
 msgstr "UTF-16: "
 
-#: kcharselect.cpp:929
+#: kcharselect.cpp:927
 #, fuzzy
 #| msgid "C octal escaped UTF-8: "
 msgctxt "KCharSelect|"
 msgid "C octal escaped UTF-8: "
 msgstr "С телендәге UTF-8 форматында күрсәтелгән сигезле код: "
 
-#: kcharselect.cpp:933
+#: kcharselect.cpp:931
 #, fuzzy
 #| msgid "XML decimal entity:"
 msgctxt "KCharSelect|"
 msgid "XML decimal entity:"
 msgstr "XML форматындагы унлы сүрәтләү:"
 
-#: kcharselect.cpp:1080
+#: kcharselect.cpp:1078
 #, fuzzy
 #| msgid "Unicode code point:"
 msgctxt "KCharSelectItemModel|"
 msgid "Unicode code point:"
 msgstr "Юникодның коды:"
 
-#: kcharselect.cpp:1081
+#: kcharselect.cpp:1079
 #, fuzzy
 #| msgctxt "Character"
 #| msgid "In decimal:"
