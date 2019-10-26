@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-21 02:51+0200\n"
+"POT-Creation-Date: 2019-10-26 02:44+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -971,8 +971,7 @@ msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "Кертү"
 
-#: kkeysequencewidget.cpp:676 kshortcuteditwidget.cpp:67
-#: kshortcuteditwidget.cpp:70
+#: kkeysequencewidget.cpp:676 kshortcuteditwidget.cpp:63
 #, kde-format
 msgctxt "No shortcut defined"
 msgid "None"
@@ -1057,7 +1056,7 @@ msgstr "Диалогның зурлыгы"
 msgid "The email address to send the bug report to."
 msgstr "Хата турында хисапны тапшыру өчен почта адресы."
 
-#: kshortcuteditwidget.cpp:66
+#: kshortcuteditwidget.cpp:67
 #, kde-format
 msgid "Default:"
 msgstr "Стандарт:"
