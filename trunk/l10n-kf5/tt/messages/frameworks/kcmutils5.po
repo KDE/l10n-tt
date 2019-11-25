@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-08 02:53+0100\n"
+"POT-Creation-Date: 2019-11-25 02:49+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -486,12 +486,6 @@ msgstr "Поиск"
 msgid "About"
 msgstr "KDE &чолганышы турында"
 
-#: kpluginselector.cpp:821
-#, kde-format
-msgctxt "Used only for plugins"
-msgid "About %1"
-msgstr "%1 турында"
-
 #: ksettings/componentsdialog.cpp:56
 #, kde-format
 msgid "Select Components"
@@ -501,6 +495,10 @@ msgstr "Компонентларны сайлагыз"
 #, kde-format
 msgid "Enable component"
 msgstr "Компонентны эшләтү"
+
+#~ msgctxt "Used only for plugins"
+#~ msgid "About %1"
+#~ msgstr "%1 турында"
 
 #~ msgid "Search Plugins"
 #~ msgstr "Өстәлмәләрне эзләү"
