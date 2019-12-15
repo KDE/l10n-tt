@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-11 02:53+0100\n"
+"POT-Creation-Date: 2019-12-15 02:57+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -601,10 +601,26 @@ msgctxt ""
 msgid "Stuff"
 msgstr ""
 
-#: qtquick/qml/Button.qml:59 qtquick/qml/Dialog.qml:55
+#: qtquick/qml/Button.qml:59
 #, fuzzy, kde-format
 #| msgid "Download New Stuff..."
 msgid "Download New %1"
+msgstr "Әсбапларны кабул итү..."
+
+#: qtquick/qml/Dialog.qml:55
+#, fuzzy, kde-format
+#| msgid "Download New Stuff..."
+msgctxt "The dialog title when we know which type of stuff is being requested"
+msgid "Download New %1"
+msgstr "Әсбапларны кабул итү..."
+
+#: qtquick/qml/Dialog.qml:55
+#, fuzzy, kde-format
+#| msgid "Download New Stuff..."
+msgctxt ""
+"A placeholder title used in the dialog when there is no better title "
+"available"
+msgid "Download New Stuff"
 msgstr "Әсбапларны кабул итү..."
 
 #: qtquick/qml/Dialog.qml:100
