@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-15 02:57+0100\n"
+"POT-Creation-Date: 2020-01-15 02:57+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -589,7 +589,7 @@ msgctxt ""
 msgid "Unknown Category"
 msgstr "Билгесез хата"
 
-#. i18n("Download New %1").
+#. i18n("Download New %1...").
 #. *
 #. @note For the sake of consistency, you should NOT override the text propety, just set this one
 #.
@@ -597,14 +597,14 @@ msgstr "Билгесез хата"
 #, kde-format
 msgctxt ""
 "Used to contruct the button's label (which will become Download New 'this "
-"value')"
+"value'...)"
 msgid "Stuff"
 msgstr ""
 
 #: qtquick/qml/Button.qml:59
 #, fuzzy, kde-format
 #| msgid "Download New Stuff..."
-msgid "Download New %1"
+msgid "Download New %1..."
 msgstr "Әсбапларны кабул итү..."
 
 #: qtquick/qml/Dialog.qml:55
