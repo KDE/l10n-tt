@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-06 03:03+0100\n"
+"POT-Creation-Date: 2020-01-17 02:55+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -48,6 +48,19 @@ msgstr "Үрнәкле"
 msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "Автоматик рәвештә билгеләү"
+
+#: kcolorschememanager.cpp:109
+#, fuzzy, kde-format
+#| msgctxt "Encodings menu"
+#| msgid "Default"
+msgid "Default"
+msgstr "Үрнәкле"
+
+#: kcolorschememanager.cpp:215 kcolorschememanager.cpp:220
+#, fuzzy, kde-format
+#| msgid "Shortcut Schemes"
+msgid "Color Scheme"
+msgstr "Бәйләнү схемалары"
 
 #: kconfigdialog.cpp:44
 #, fuzzy, kde-format
@@ -4079,9 +4092,6 @@ msgstr "&Алга бару"
 
 #~ msgid "Custom:"
 #~ msgstr "Кулдан:"
-
-#~ msgid "Shortcut Schemes"
-#~ msgstr "Бәйләнү схемалары"
 
 #~ msgid "Current scheme:"
 #~ msgstr "Хәзерге схема:"
