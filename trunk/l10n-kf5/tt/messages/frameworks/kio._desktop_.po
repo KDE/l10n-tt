@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-04 02:58+0000\n"
+"POT-Creation-Date: 2020-02-03 02:24+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -759,7 +759,7 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/dictfr.desktop:76
 msgctxt "Query"
-msgid "http://www.cnrtl.fr/definition/\\\\{@}"
+msgid "https://www.cnrtl.fr/definition/\\\\{@}"
 msgstr ""
 
 #: src/urifilters/ikws/searchproviders/docbook.desktop:5
@@ -1275,7 +1275,7 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/magnatune.desktop:74
 msgctxt "Query"
-msgid "http://my.magnatune.com/search?w=\\\\{@}&t=m&x=0&y=0"
+msgid "https://my.magnatune.com/search?w=\\\\{@}&t=m&x=0&y=0"
 msgstr ""
 
 #: src/urifilters/ikws/searchproviders/metacrawler.desktop:3
@@ -1520,7 +1520,7 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/rae.desktop:94
 msgctxt "Query"
-msgid "http://www.rae.es/drae/?val=\\\\{@}"
+msgid "https://www.rae.es/drae/?val=\\\\{@}"
 msgstr ""
 
 #: src/urifilters/ikws/searchproviders/rag.desktop:5
@@ -1667,7 +1667,7 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/voila.desktop:97
 msgctxt "Query"
-msgid "http://www.voila.com/S/geek?an=1&kw=\\\\{@}&dt=*"
+msgid "https://www.voila.com/S/geek?an=1&kw=\\\\{@}&dt=*"
 msgstr ""
 
 #: src/urifilters/ikws/searchproviders/webster.desktop:3
