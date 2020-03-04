@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-19 02:53+0100\n"
+"POT-Creation-Date: 2020-03-04 03:02+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -228,7 +228,7 @@ msgstr ""
 "булмый. Ипләп карагыз, <i>gpg</i> программа чыннан да дөрес урнаштырылганмы, "
 "чөнки йөкләндерелгән ресурсларның верификациясебулдырыла алмый.</qt>"
 
-#: core/security.cpp:207
+#: core/security.cpp:211
 #, kde-format
 msgid ""
 "<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br /><i>%2&lt;%3&gt;</"
@@ -237,7 +237,7 @@ msgstr ""
 "<qt>Введите ключевую фразу для ключа <b>0x%1</b>, принадлежащего<br /><i>"
 "%2&lt;%3&gt;</i><br />:</qt>"
 
-#: core/security.cpp:285
+#: core/security.cpp:289
 #, kde-format
 msgid ""
 "<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure "
@@ -248,17 +248,17 @@ msgstr ""
 "<i>gpg</i> программа чыннан да дөрес урнаштырылганмы, чөнки йөкләндерелгән "
 "ресурсларның верификациясебулдырыла алмый.</qt>"
 
-#: core/security.cpp:340
+#: core/security.cpp:344
 #, kde-format
 msgid "Key used for signing:"
 msgstr "Имза өчен кулланылган ачкыч:"
 
-#: core/security.cpp:341
+#: core/security.cpp:345
 #, kde-format
 msgid "Select Signing Key"
 msgstr "Имза өчен ачкыч сайлагыз"
 
-#: core/security.cpp:376
+#: core/security.cpp:380
 #, kde-format
 msgid ""
 "<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> is "
