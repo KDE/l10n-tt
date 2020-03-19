@@ -1881,14 +1881,14 @@ msgctxt "KCharSelect|"
 msgid "XML decimal entity:"
 msgstr "XML форматындагы унлы сүрәтләү:"
 
-#: kcharselect.cpp:1078
+#: kcharselect.cpp:1077
 #, fuzzy
 #| msgid "Unicode code point:"
 msgctxt "KCharSelectItemModel|"
 msgid "Unicode code point:"
 msgstr "Юникодның коды:"
 
-#: kcharselect.cpp:1079
+#: kcharselect.cpp:1078
 #, fuzzy
 #| msgctxt "Character"
 #| msgid "In decimal:"
