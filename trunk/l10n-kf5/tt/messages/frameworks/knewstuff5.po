@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-04-20 03:05+0200\n"
+"POT-Creation-Date: 2020-04-24 03:14+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -549,7 +549,7 @@ msgstr "Көйләү"
 msgid "Configure menu - %1"
 msgstr "%1 &көйләүләре..."
 
-#: kmoretools/kmoretoolsmenufactory.cpp:185
+#: kmoretools/kmoretoolsmenufactory.cpp:194
 #, fuzzy, kde-format
 #| msgid "%1 folder"
 #| msgid_plural "%1 folders"
@@ -557,13 +557,13 @@ msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - current folder"
 msgstr "%1 каталогы"
 
-#: kmoretools/kmoretoolsmenufactory.cpp:193
+#: kmoretools/kmoretoolsmenufactory.cpp:202
 #, kde-format
 msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - current device"
 msgstr ""
 
-#: kmoretools/kmoretoolsmenufactory.cpp:208
+#: kmoretools/kmoretoolsmenufactory.cpp:215
 #, kde-format
 msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - all devices"
