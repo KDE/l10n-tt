@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-05-13 03:02+0200\n"
+"POT-Creation-Date: 2020-05-31 17:58+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -102,27 +102,27 @@ msgctxt "@info:whatsthis"
 msgid "This is the file name suggested by the server"
 msgstr "Сервер белән тәкъдим ителгән файлның исеме."
 
-#: browserrun.cpp:347
+#: browserrun.cpp:349
 #, kde-format
 msgid "Do you really want to execute '%1'?"
 msgstr "«%1» объектын башкарырга телисезме?"
 
-#: browserrun.cpp:348
+#: browserrun.cpp:350
 #, kde-format
 msgid "Execute File?"
 msgstr "Файлны башкарыргамы?"
 
-#: browserrun.cpp:348
+#: browserrun.cpp:350
 #, kde-format
 msgid "Execute"
 msgstr "Башкару"
 
-#: browserrun.cpp:407
+#: browserrun.cpp:409
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "$PATH юнәлешендә менеджер йөкләндерү программасын табып булмый (%1). "
 
-#: browserrun.cpp:408
+#: browserrun.cpp:410
 #, kde-format
 msgid ""
 "Try to reinstall it  \n"
@@ -133,7 +133,7 @@ msgstr ""
 "\n"
 "Konqueror белән бәйләнеш өзеләчәк."
 
-#: browserrun.cpp:435
+#: browserrun.cpp:437
 #, kde-format
 msgid "Save As"
 msgstr "... итеп саклау"
@@ -148,14 +148,14 @@ msgstr "Рөхсәт итү"
 msgid "Reject"
 msgstr "Кире кагу"
 
-#: partloader.cpp:177
+#: partloader.cpp:181
 #, fuzzy, kde-format
 #| msgid ""
 #| "The service '%1' does not provide an interface '%2' with keyword '%3'"
 msgid "The plugin '%1' does not provide an interface '%2' with keyword '%3'"
 msgstr "Служба «%1» не предоставляет интерфейс «%2» с ключевыми словами «%3»."
 
-#: partloader.cpp:192
+#: partloader.cpp:196
 #, fuzzy, kde-format
 #| msgid "No handler found for %1."
 msgid "No part was found for mimeType %1"
