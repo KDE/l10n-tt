@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-05-10 02:09+0000\n"
+"POT-Creation-Date: 2020-06-08 00:28+0000\n"
 "PO-Revision-Date: 2012-01-14 21:54+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <kde-i18n-doc@kde.org>\n"
@@ -12,497 +12,497 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: af/messages/frameworks/kf5_entry.desktop:2
+#: af/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Afrikaans"
 msgstr "Африкаанс"
 
-#: ar/messages/frameworks/kf5_entry.desktop:2
+#: ar/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Arabic"
 msgstr "Гарәп"
 
-#: as/messages/frameworks/kf5_entry.desktop:2
+#: as/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Assamese"
 msgstr "Ассам"
 
-#: az/messages/frameworks/kf5_entry.desktop:2
+#: az/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Azerbaijani"
 msgstr ""
 
-#: be@latin/messages/frameworks/kf5_entry.desktop:2
+#: be@latin/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Belarusian Latin"
 msgstr "Беларус (Латин алф.)"
 
-#: be/messages/frameworks/kf5_entry.desktop:2
+#: be/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Belarusian"
 msgstr "Белорус"
 
-#: bg/messages/frameworks/kf5_entry.desktop:2
+#: bg/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Bulgarian"
 msgstr "Болгар"
 
-#: bn_IN/messages/frameworks/kf5_entry.desktop:2
+#: bn_IN/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Bengali (India)"
 msgstr "Бенгаль (Һинд.)"
 
-#: bn/messages/frameworks/kf5_entry.desktop:2
+#: bn/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Bengali"
 msgstr "Бенгаль"
 
-#: br/messages/frameworks/kf5_entry.desktop:2
+#: br/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Breton"
 msgstr "Бретон"
 
-#: bs/messages/frameworks/kf5_entry.desktop:2
+#: bs/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Bosnian"
 msgstr "Босния"
 
-#: ca/messages/frameworks/kf5_entry.desktop:2
+#: ca/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Catalan"
 msgstr "Каталон"
 
-#: ca@valencia/messages/frameworks/kf5_entry.desktop:2
+#: ca@valencia/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Catalan (Valencian)"
 msgstr "Каталан (Валенсия)"
 
-#: crh/messages/frameworks/kf5_entry.desktop:2
+#: crh/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Crimean Tatar"
 msgstr "Татарча (Кырым)"
 
-#: csb/messages/frameworks/kf5_entry.desktop:2
+#: csb/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Kashubian"
 msgstr "Кашуб"
 
-#: cs/messages/frameworks/kf5_entry.desktop:2
+#: cs/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Czech"
 msgstr "Чех"
 
-#: cy/messages/frameworks/kf5_entry.desktop:2
+#: cy/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Welsh"
 msgstr "Уэльс"
 
-#: da/messages/frameworks/kf5_entry.desktop:2
+#: da/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Danish"
 msgstr "Дания"
 
-#: de/messages/frameworks/kf5_entry.desktop:2
+#: de/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "German"
 msgstr "Алман"
 
-#: el/messages/frameworks/kf5_entry.desktop:2
+#: el/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Greek"
 msgstr "Грек"
 
-#: en_GB/messages/frameworks/kf5_entry.desktop:2
+#: en_GB/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "British English"
 msgstr "Инглиз (Британия)"
 
-#: eo/messages/frameworks/kf5_entry.desktop:2
+#: eo/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Esperanto"
 msgstr "Эсперанто"
 
-#: es/messages/frameworks/kf5_entry.desktop:2
+#: es/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Spanish"
 msgstr "Испан"
 
-#: et/messages/frameworks/kf5_entry.desktop:2
+#: et/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Estonian"
 msgstr "Эстон"
 
-#: eu/messages/frameworks/kf5_entry.desktop:2
+#: eu/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Basque"
 msgstr "Баск"
 
-#: fa/messages/frameworks/kf5_entry.desktop:2
+#: fa/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Farsi"
 msgstr "Фарсы"
 
-#: fi/messages/frameworks/kf5_entry.desktop:2
+#: fi/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Finnish"
 msgstr "Фин"
 
-#: fr/messages/frameworks/kf5_entry.desktop:2
+#: fr/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "French"
 msgstr "Француз"
 
-#: fy/messages/frameworks/kf5_entry.desktop:2
+#: fy/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Frisian"
 msgstr "Фриз"
 
-#: ga/messages/frameworks/kf5_entry.desktop:2
+#: ga/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Irish"
 msgstr "Ирланд"
 
-#: gl/messages/frameworks/kf5_entry.desktop:2
+#: gl/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Galician"
 msgstr "Галисия"
 
-#: gu/messages/frameworks/kf5_entry.desktop:2
+#: gu/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Gujarati"
 msgstr "Гөҗәрәти"
 
-#: ha/messages/frameworks/kf5_entry.desktop:2
+#: ha/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Hausa"
 msgstr "Хауз"
 
-#: he/messages/frameworks/kf5_entry.desktop:2
+#: he/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Hebrew"
 msgstr "Иврит"
 
-#: hi/messages/frameworks/kf5_entry.desktop:2
+#: hi/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Hindi"
 msgstr "Һинд"
 
-#: hne/messages/frameworks/kf5_entry.desktop:2
+#: hne/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Chhattisgarhi"
 msgstr "Чхаттисгарх"
 
-#: hr/messages/frameworks/kf5_entry.desktop:2
+#: hr/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Croatian"
 msgstr "Хорват"
 
-#: hsb/messages/frameworks/kf5_entry.desktop:2
+#: hsb/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Upper Sorbian"
 msgstr "Сорбча (Өске)"
 
-#: hu/messages/frameworks/kf5_entry.desktop:2
+#: hu/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Hungarian"
 msgstr "Венгер"
 
-#: hy/messages/frameworks/kf5_entry.desktop:2
+#: hy/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Armenian"
 msgstr "Әрмән"
 
-#: ia/messages/frameworks/kf5_entry.desktop:2
+#: ia/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Interlingua"
 msgstr "Интерлингва"
 
-#: id/messages/frameworks/kf5_entry.desktop:2
+#: id/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Indonesian"
 msgstr "Индонезия"
 
-#: is/messages/frameworks/kf5_entry.desktop:2
+#: is/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Icelandic"
 msgstr "Исланд"
 
-#: it/messages/frameworks/kf5_entry.desktop:2
+#: it/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Italian"
 msgstr "Итальян"
 
-#: ja/messages/frameworks/kf5_entry.desktop:2
+#: ja/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Japanese"
 msgstr "Япон"
 
-#: ka/messages/frameworks/kf5_entry.desktop:2
+#: ka/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Georgian"
 msgstr "Грузин"
 
-#: kk/messages/frameworks/kf5_entry.desktop:2
+#: kk/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Kazakh"
 msgstr "Казах"
 
-#: km/messages/frameworks/kf5_entry.desktop:2
+#: km/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Khmer"
 msgstr "Кхмер"
 
-#: kn/messages/frameworks/kf5_entry.desktop:2
+#: kn/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Kannada"
 msgstr "Каннада"
 
-#: ko/messages/frameworks/kf5_entry.desktop:2
+#: ko/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Korean"
 msgstr "Корея"
 
-#: ku/messages/frameworks/kf5_entry.desktop:2
+#: ku/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Kurdish"
 msgstr "Курд"
 
-#: lb/messages/frameworks/kf5_entry.desktop:2
+#: lb/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Luxembourgish"
 msgstr "Люксембург"
 
-#: lt/messages/frameworks/kf5_entry.desktop:2
+#: lt/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Lithuanian"
 msgstr "Литва"
 
-#: lv/messages/frameworks/kf5_entry.desktop:2
+#: lv/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Latvian"
 msgstr "Латыш"
 
-#: mai/messages/frameworks/kf5_entry.desktop:2
+#: mai/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Maithili"
 msgstr "Майтхили"
 
-#: mk/messages/frameworks/kf5_entry.desktop:2
+#: mk/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Macedonian"
 msgstr "Македония"
 
-#: ml/messages/frameworks/kf5_entry.desktop:2
+#: ml/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Malayalam"
 msgstr "Малаялам"
 
-#: mr/messages/frameworks/kf5_entry.desktop:2
+#: mr/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Marathi"
 msgstr "Маратхи"
 
-#: ms/messages/frameworks/kf5_entry.desktop:2
+#: ms/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Malay"
 msgstr "Малай"
 
-#: nb/messages/frameworks/kf5_entry.desktop:2
+#: nb/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Norwegian Bokmål"
 msgstr "Норвегия (әдәби)"
 
-#: nds/messages/frameworks/kf5_entry.desktop:2
+#: nds/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Low Saxon"
 msgstr "Аскы Саксон"
 
-#: ne/messages/frameworks/kf5_entry.desktop:2
+#: ne/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Nepali"
 msgstr "Непал"
 
-#: nl/messages/frameworks/kf5_entry.desktop:2
+#: nl/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Dutch"
 msgstr "Голланд"
 
-#: nn/messages/frameworks/kf5_entry.desktop:2
+#: nn/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Norwegian Nynorsk"
 msgstr "Норвегия (Нинорск)"
 
-#: or/messages/frameworks/kf5_entry.desktop:2
+#: or/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Oriya"
 msgstr "Ория"
 
-#: pa/messages/frameworks/kf5_entry.desktop:2
+#: pa/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Punjabi"
 msgstr "Пәнҗәби"
 
-#: pl/messages/frameworks/kf5_entry.desktop:2
+#: pl/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Polish"
 msgstr "Польша"
 
-#: ps/messages/frameworks/kf5_entry.desktop:2
+#: ps/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Pashto"
 msgstr "Пашто"
 
-#: pt_BR/messages/frameworks/kf5_entry.desktop:2
+#: pt_BR/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Brazil portuguese"
 msgstr "Португал (Бразилия)"
 
-#: pt/messages/frameworks/kf5_entry.desktop:2
+#: pt/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Portuguese"
 msgstr "Португал"
 
-#: ro/messages/frameworks/kf5_entry.desktop:2
+#: ro/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Romanian"
 msgstr "Румын"
 
-#: ru/messages/frameworks/kf5_entry.desktop:2
+#: ru/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Russian"
 msgstr "Рус"
 
-#: se/messages/frameworks/kf5_entry.desktop:2
+#: se/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Northern Sami"
 msgstr "Төньяк Саами"
 
-#: si/messages/frameworks/kf5_entry.desktop:2
+#: si/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Sinhala"
 msgstr "Сингал"
 
-#: sk/messages/frameworks/kf5_entry.desktop:2
+#: sk/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Slovak"
 msgstr "Словак"
 
-#: sl/messages/frameworks/kf5_entry.desktop:2
+#: sl/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Slovenian"
 msgstr "Словен"
 
-#: sq/messages/frameworks/kf5_entry.desktop:2
+#: sq/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Albanian"
 msgstr "Албан"
 
-#: sr@ijekavianlatin/messages/frameworks/kf5_entry.desktop:2
+#: sr@ijekavianlatin/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Serbian Ijekavian Latin"
 msgstr "Сербия (Штокав д., латин)"
 
-#: sr@ijekavian/messages/frameworks/kf5_entry.desktop:2
+#: sr@ijekavian/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Serbian Ijekavian"
 msgstr "Сербия (Штокав д.)"
 
-#: sr@latin/messages/frameworks/kf5_entry.desktop:2
+#: sr@latin/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Serbian Latin"
 msgstr "Сербия (Латин)"
 
-#: sr/messages/frameworks/kf5_entry.desktop:2
+#: sr/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Serbian"
 msgstr "Сербия"
 
-#: sv/messages/frameworks/kf5_entry.desktop:2
+#: sv/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Swedish"
 msgstr "Швед"
 
-#: ta/messages/frameworks/kf5_entry.desktop:2
+#: ta/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Tamil"
 msgstr "Тамиль"
 
-#: te/messages/frameworks/kf5_entry.desktop:2
+#: te/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Telugu"
 msgstr "Телугу"
 
-#: tg/messages/frameworks/kf5_entry.desktop:2
+#: tg/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Tajik"
 msgstr "Таҗик"
 
-#: th/messages/frameworks/kf5_entry.desktop:2
+#: th/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Thai"
 msgstr "Тай"
 
-#: tr/messages/frameworks/kf5_entry.desktop:2
+#: tr/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Turkish"
 msgstr "Төрек"
 
-#: tt/messages/frameworks/kf5_entry.desktop:2
+#: tt/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Tatar"
 msgstr ""
 
-#: ug/messages/frameworks/kf5_entry.desktop:2
+#: ug/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Uyghur"
 msgstr "Уйгур"
 
-#: uk/messages/frameworks/kf5_entry.desktop:2
+#: uk/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Ukrainian"
 msgstr "Украин"
 
-#: uz@cyrillic/messages/frameworks/kf5_entry.desktop:2
+#: uz@cyrillic/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Uzbek (Cyrillic)"
 msgstr "Үзбәк (кирилл)"
 
-#: uz/messages/frameworks/kf5_entry.desktop:2
+#: uz/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Uzbek"
 msgstr "Үзбәк"
 
-#: vi/messages/frameworks/kf5_entry.desktop:2
+#: vi/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Vietnamese"
 msgstr "Вьетнам"
 
-#: wa/messages/frameworks/kf5_entry.desktop:2
+#: wa/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Walloon"
 msgstr "Валлон"
 
-#: xh/messages/frameworks/kf5_entry.desktop:2
+#: xh/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Xhosa"
 msgstr "Коса"
 
-#: x-test/messages/frameworks/kf5_entry.desktop:2
+#: x-test/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "KDE Test Language"
 msgstr "KDE тикшертү теле"
 
-#: zh_CN/messages/frameworks/kf5_entry.desktop:2
+#: zh_CN/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Simplified Chinese"
 msgstr "Гади кытай"
 
-#: zh_HK/messages/frameworks/kf5_entry.desktop:2
+#: zh_HK/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Chinese (Hong Kong)"
 msgstr "Кытай (Гонконг)"
 
-#: zh_TW/messages/frameworks/kf5_entry.desktop:2
+#: zh_TW/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Traditional Chinese"
 msgstr "Гадәти Кытай."
