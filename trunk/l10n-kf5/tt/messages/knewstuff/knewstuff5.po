@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-09 02:02+0200\n"
+"POT-Creation-Date: 2020-06-13 02:04+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1087,8 +1087,8 @@ msgctxt ""
 msgid "Show Reviews and Replies"
 msgstr ""
 
-#: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:154
-#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:198
+#: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:155
+#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:199
 #, fuzzy, kde-format
 #| msgid "1 download"
 #| msgid_plural "%1 downloads"
@@ -1096,8 +1096,8 @@ msgctxt "The number of times the item has been downloaded"
 msgid "%1 downloads"
 msgstr "%1 кабул итү"
 
-#: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:167
-#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:179
+#: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:168
+#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:180
 #, fuzzy, kde-format
 #| msgctxt "Show the author of this item in a list"
 #| msgid "By <i>%1</i>"
