@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-05 02:01+0200\n"
+"POT-Creation-Date: 2020-06-20 02:01+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -859,7 +859,7 @@ msgid "Change Icon"
 msgstr "Билгечекне үзгәртү"
 
 #. i18n: ectx: Menu (help)
-#: khelpmenu.cpp:172 ui_standards.rc:177
+#: khelpmenu.cpp:172 ui_standards.rc:178
 #, kde-format
 msgid "&Help"
 msgstr "Белешмә"
@@ -1379,10 +1379,10 @@ msgstr "%1"
 
 #: kswitchlanguagedialog_p.cpp:159
 #, fuzzy, kde-format
-#| msgid "Switch Application Language"
+#| msgid "Configure"
 msgctxt "@title:window"
-msgid "Switch Application Language"
-msgstr "Кушымтаның телен үзгәртү"
+msgid "Configure Language"
+msgstr "Көйләү"
 
 #: kswitchlanguagedialog_p.cpp:164
 #, kde-format
@@ -1671,10 +1671,16 @@ msgid "&Settings"
 msgstr "&Көйләүләр"
 
 #. i18n: ectx: ToolBar (mainToolBar)
-#: ui_standards.rc:196
+#: ui_standards.rc:195
 #, kde-format
 msgid "Main Toolbar"
 msgstr "Баш кораллар панеле"
+
+#, fuzzy
+#~| msgid "Switch Application Language"
+#~ msgctxt "@title:window"
+#~ msgid "Switch Application Language"
+#~ msgstr "Кушымтаның телен үзгәртү"
 
 #~ msgid "Compiler:"
 #~ msgstr "Компилятор:"
@@ -4737,9 +4743,6 @@ msgstr "Баш кораллар панеле"
 
 #~ msgid "Finish"
 #~ msgstr "Тәмамлау"
-
-#~ msgid "Configure"
-#~ msgstr "Көйләү"
 
 #~ msgid "Job"
 #~ msgstr "Эш"
