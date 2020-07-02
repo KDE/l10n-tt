@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-16 02:07+0200\n"
+"POT-Creation-Date: 2020-07-02 02:01+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -805,12 +805,12 @@ msgctxt ""
 msgid "Download New Stuff"
 msgstr "Әсбапларны кабул итү..."
 
-#: qtquick/qml/DownloadItemsSheet.qml:49
+#: qtquick/qml/DownloadItemsSheet.qml:46
 #, kde-format
 msgid "Pick Your Installation Option"
 msgstr ""
 
-#: qtquick/qml/DownloadItemsSheet.qml:55
+#: qtquick/qml/DownloadItemsSheet.qml:57
 #, kde-format
 msgid ""
 "Please select the option you wish to install from the list of downloadable "
