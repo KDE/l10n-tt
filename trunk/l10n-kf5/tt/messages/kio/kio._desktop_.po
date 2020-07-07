@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-07-04 00:24+0000\n"
+"POT-Creation-Date: 2020-07-07 00:32+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -19,7 +19,7 @@ msgctxt "Name"
 msgid "Execute action as root."
 msgstr ""
 
-#: src/ioslaves/file/kauth/file.actions:36
+#: src/ioslaves/file/kauth/file.actions:37
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr ""
@@ -450,7 +450,7 @@ msgctxt "Name"
 msgid "Folder..."
 msgstr ""
 
-#: src/new_file_templates/Directory.desktop:87
+#: src/new_file_templates/Directory.desktop:88
 msgctxt "Comment"
 msgid "Enter folder name:"
 msgstr ""
@@ -460,7 +460,7 @@ msgctxt "Name"
 msgid "HTML File..."
 msgstr ""
 
-#: src/new_file_templates/HTMLFile.desktop:87
+#: src/new_file_templates/HTMLFile.desktop:88
 msgctxt "Comment"
 msgid "Enter HTML filename:"
 msgstr ""
@@ -470,7 +470,7 @@ msgctxt "Name"
 msgid "Basic Link to File or Directory..."
 msgstr ""
 
-#: src/new_file_templates/linkPath.desktop:31
+#: src/new_file_templates/linkPath.desktop:32
 msgctxt "Comment"
 msgid "Enter path of file or directory:"
 msgstr ""
@@ -480,7 +480,7 @@ msgctxt "Name"
 msgid "Link to Application..."
 msgstr ""
 
-#: src/new_file_templates/linkProgram.desktop:82
+#: src/new_file_templates/linkProgram.desktop:83
 msgctxt "Comment"
 msgid "New Link to Application"
 msgstr ""
@@ -490,7 +490,7 @@ msgctxt "Name"
 msgid "Link to Location (URL)..."
 msgstr ""
 
-#: src/new_file_templates/linkURL.desktop:86
+#: src/new_file_templates/linkURL.desktop:87
 msgctxt "Comment"
 msgid "Enter link to location (URL):"
 msgstr ""
@@ -500,7 +500,7 @@ msgctxt "Name"
 msgid "Text File..."
 msgstr ""
 
-#: src/new_file_templates/TextFile.desktop:86
+#: src/new_file_templates/TextFile.desktop:87
 msgctxt "Comment"
 msgid "Enter text filename:"
 msgstr ""
@@ -583,7 +583,7 @@ msgctxt "Name"
 msgid "ArchWiki"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/archwiki.desktop:24
+#: src/urifilters/ikws/searchproviders/archwiki.desktop:25
 msgctxt "Query"
 msgid "https://wiki.archlinux.org/index.php?search=\\\\{@}"
 msgstr ""
@@ -638,7 +638,7 @@ msgctxt "Name"
 msgid "KDE Bugs"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/bug.desktop:19
+#: src/urifilters/ikws/searchproviders/bug.desktop:20
 msgctxt "Query"
 msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 msgstr ""
@@ -757,7 +757,7 @@ msgctxt "Name"
 msgid "DeepL"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/deepl.desktop:16
+#: src/urifilters/ikws/searchproviders/deepl.desktop:17
 msgctxt "Query"
 msgid "https://www.deepl.com/translator#any/any/\\\\{@}"
 msgstr ""
