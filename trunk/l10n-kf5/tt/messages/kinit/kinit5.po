@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-05-31 17:58+0200\n"
+"POT-Creation-Date: 2020-07-16 02:01+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -60,50 +60,50 @@ msgstr ""
 "'%1'да kdemain'ны табып булмады.\n"
 "%2"
 
-#: klauncher/klauncher.cpp:436
+#: klauncher/klauncher.cpp:431
 #, fuzzy, kde-format
 #| msgid "KDEInit could not launch '%1'."
 msgid "KDEInit could not launch '%1'"
 msgstr "KDEInit '%1 кушымтасын җибәрә алмый."
 
-#: klauncher/klauncher.cpp:617 klauncher/klauncher.cpp:631
+#: klauncher/klauncher.cpp:612 klauncher/klauncher.cpp:626
 #, kde-format
 msgid "Could not find service '%1'."
 msgstr "'%1' хезмәтен табып булмый."
 
-#: klauncher/klauncher.cpp:649
+#: klauncher/klauncher.cpp:644
 #, kde-format
 msgid "Service '%1' must be executable to run."
 msgstr "Служба «%1» должна быть сделана выполняемой для запуска."
 
-#: klauncher/klauncher.cpp:651 klauncher/klauncher.cpp:712
+#: klauncher/klauncher.cpp:646 klauncher/klauncher.cpp:707
 #, kde-format
 msgid "Service '%1' is malformatted."
 msgstr "'%1' хезмәте дөрес булмаган форматка ия."
 
-#: klauncher/klauncher.cpp:807
+#: klauncher/klauncher.cpp:802
 #, kde-format
 msgid "Launching %1"
 msgstr "%1 җибәрелә"
 
-#: klauncher/klauncher.cpp:988
+#: klauncher/klauncher.cpp:983
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "'%1' билгесез беркетмә.\n"
 
-#: klauncher/klauncher.cpp:994
+#: klauncher/klauncher.cpp:989
 #, fuzzy, kde-format
 #| msgid "Could not find service '%1'."
 msgid "Could not find the '%1' plugin.\n"
 msgstr "'%1' хезмәтен табып булмый."
 
-#: klauncher/klauncher.cpp:1067
+#: klauncher/klauncher.cpp:1062
 #, fuzzy, kde-format
 #| msgid "Error loading '%1'.\n"
 msgid "Error loading '%1'."
 msgstr "'%1' йөкләндерү хатасы:\n"
 
-#: klauncher/klauncher_main.cpp:146
+#: klauncher/klauncher_main.cpp:148
 #, fuzzy, kde-format
 #| msgid ""
 #| "klauncher: This program is not supposed to be started manually.\n"
