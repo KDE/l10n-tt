@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-07-03 02:01+0200\n"
+"POT-Creation-Date: 2020-07-17 02:04+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1161,7 +1161,7 @@ msgstr ""
 msgid "None"
 msgstr "Юк"
 
-#: qtquick/quickengine.cpp:142
+#: qtquick/quickengine.cpp:151
 #, kde-format
 msgctxt ""
 "An informational message which is shown to inform the user they are not "
