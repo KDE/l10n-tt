@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-07-16 02:02+0200\n"
+"POT-Creation-Date: 2020-08-11 02:10+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -121,24 +121,24 @@ msgstr ""
 "dt><dd>вакыйганы тудырган кушымта</dd><dt>%m</dt><dd>кушымтада алынган "
 "хәбәр</dd></dl></qt>"
 
-#: knotifyconfigwidget.cpp:128
+#: knotifyconfigwidget.cpp:117
 #, kde-format
 msgid "Configure Notifications"
 msgstr "Белдерүләрне көйләү"
 
-#: knotifyeventlist.cpp:91
+#: knotifyeventlist.cpp:81
 #, kde-format
 msgctxt "State of the notified event"
 msgid "State"
 msgstr "Торыш"
 
-#: knotifyeventlist.cpp:91
+#: knotifyeventlist.cpp:81
 #, kde-format
 msgctxt "Title of the notified event"
 msgid "Title"
 msgstr "Баш исем"
 
-#: knotifyeventlist.cpp:91
+#: knotifyeventlist.cpp:81
 #, kde-format
 msgctxt "Description of the notified event"
 msgid "Description"
