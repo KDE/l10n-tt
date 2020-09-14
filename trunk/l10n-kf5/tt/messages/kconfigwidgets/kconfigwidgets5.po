@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-22 02:07+0200\n"
+"POT-Creation-Date: 2020-09-14 02:09+0200\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -37,13 +37,13 @@ msgstr "Перед сохранением настроек нужно будет
 msgid "You are not allowed to save the configuration"
 msgstr "Бу үзгәрешләрне ясау өчен хокуклар юк."
 
-#: kcodecaction.cpp:71
+#: kcodecaction.cpp:69
 #, kde-format
 msgctxt "Encodings menu"
 msgid "Default"
 msgstr "Үрнәкле"
 
-#: kcodecaction.cpp:79
+#: kcodecaction.cpp:77
 #, kde-format
 msgctxt "Encodings menu"
 msgid "Autodetect"
