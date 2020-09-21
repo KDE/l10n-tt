@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-09-15 00:42+0000\n"
+"POT-Creation-Date: 2020-09-21 00:45+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -19,7 +19,8 @@ msgctxt "Name"
 msgid "Browser View"
 msgstr "Браузер күренеше"
 
-#: src/kpart.desktop:4 src/krop.desktop:5 src/krwp.desktop:5
+#: src/kpart.desktop:4 src/kparts-readonlypart.desktop:5
+#: src/kparts-readwritepart.desktop:5
 msgctxt "Comment"
 msgid "KDE Component"
 msgstr "KDE өлеше"
