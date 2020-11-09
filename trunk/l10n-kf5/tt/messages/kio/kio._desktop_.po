@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-08 01:48+0000\n"
+"POT-Creation-Date: 2020-11-09 01:47+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -108,7 +108,7 @@ msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr ""
 
-#: src/kcms/kio/cookies.desktop:149
+#: src/kcms/kio/cookies.desktop:150
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
@@ -398,12 +398,12 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr ""
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:39
+#: src/kcms/webshortcuts/webshortcuts.desktop:40
 msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr ""
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:65
+#: src/kcms/webshortcuts/webshortcuts.desktop:67
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
@@ -747,7 +747,7 @@ msgctxt "Name"
 msgid "Debian Package Search"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/deb.desktop:92
+#: src/urifilters/ikws/searchproviders/deb.desktop:93
 msgctxt "Query"
 msgid "https://packages.debian.org/\\\\{@}"
 msgstr ""
@@ -757,7 +757,7 @@ msgctxt "Name"
 msgid "DeepL"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/deepl.desktop:30
+#: src/urifilters/ikws/searchproviders/deepl.desktop:31
 msgctxt "Query"
 msgid "https://www.deepl.com/translator#any/any/\\\\{@}"
 msgstr ""
@@ -827,7 +827,7 @@ msgctxt "Name"
 msgid "Ecosia search engine"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/ecosia.desktop:74
+#: src/urifilters/ikws/searchproviders/ecosia.desktop:75
 msgctxt "Query"
 msgid "https://ecosia.org/search.php?q=\\\\{@}&meta=normal"
 msgstr ""
@@ -842,7 +842,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: English to Spanish"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/en2es.desktop:93
+#: src/urifilters/ikws/searchproviders/en2es.desktop:94
 msgctxt "Query"
 msgid "https://www.wordreference.com/es/translation.asp?tranword=\\\\{@}"
 msgstr ""
@@ -852,7 +852,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: English to French"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/en2fr.desktop:93
+#: src/urifilters/ikws/searchproviders/en2fr.desktop:94
 msgctxt "Query"
 msgid "https://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
 msgstr ""
@@ -862,7 +862,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: English to Italian"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/en2it.desktop:93
+#: src/urifilters/ikws/searchproviders/en2it.desktop:94
 msgctxt "Query"
 msgid "https://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
 msgstr ""
@@ -872,7 +872,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: Spanish to English"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/es2en.desktop:93
+#: src/urifilters/ikws/searchproviders/es2en.desktop:94
 msgctxt "Query"
 msgid "https://www.wordreference.com/es/en/translation.asp?spen=\\\\{@}"
 msgstr ""
@@ -938,7 +938,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: French to English"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/fr2en.desktop:93
+#: src/urifilters/ikws/searchproviders/fr2en.desktop:94
 msgctxt "Query"
 msgid "https://www.wordreference.com/fr/en/translation.asp?fren=\\\\{@}"
 msgstr ""
@@ -998,7 +998,7 @@ msgctxt "Name"
 msgid "Google Advanced Search"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/google_advanced.desktop:95
+#: src/urifilters/ikws/searchproviders/google_advanced.desktop:96
 msgctxt "Query"
 msgid ""
 "https://www.google.com/search?as_q=\\\\{all,@}&num=\\\\{num,\"10\"}"
@@ -1176,7 +1176,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: Italian to English"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/it2en.desktop:93
+#: src/urifilters/ikws/searchproviders/it2en.desktop:94
 msgctxt "Query"
 msgid "https://www.wordreference.com/it/en/translation.asp?iten=\\\\{@}"
 msgstr ""
@@ -1208,7 +1208,7 @@ msgctxt "Name"
 msgid "KDE App Search"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kde_apps.desktop:95
+#: src/urifilters/ikws/searchproviders/kde_apps.desktop:96
 msgctxt "Query"
 msgid "https://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
 msgstr ""
@@ -1221,7 +1221,7 @@ msgctxt "Name"
 msgid "KDE API Documentation"
 msgstr "Name=KDE өстәмәсе турында мәгълүмат"
 
-#: src/urifilters/ikws/searchproviders/kde.desktop:96
+#: src/urifilters/ikws/searchproviders/kde.desktop:97
 msgctxt "Query"
 msgid "https://api.kde.org/classmapper.php?class=\\\\{@}"
 msgstr ""
@@ -1231,7 +1231,7 @@ msgctxt "Name"
 msgid "KDE Forums"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kde_forums.desktop:74
+#: src/urifilters/ikws/searchproviders/kde_forums.desktop:75
 msgctxt "Query"
 msgid ""
 "https://forum.kde.org/search.php?keywords=\\\\{@}"
@@ -1253,7 +1253,7 @@ msgctxt "Name"
 msgid "KDE TechBase"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kde_techbase.desktop:73
+#: src/urifilters/ikws/searchproviders/kde_techbase.desktop:74
 msgctxt "Query"
 msgid "https://techbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
 msgstr ""
@@ -1263,7 +1263,7 @@ msgctxt "Name"
 msgid "KDE UserBase"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kde_userbase.desktop:74
+#: src/urifilters/ikws/searchproviders/kde_userbase.desktop:75
 msgctxt "Query"
 msgid "https://userbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
 msgstr ""
@@ -1448,7 +1448,7 @@ msgctxt "Name"
 msgid "Qt4 Documentation"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qt4.desktop:61
+#: src/urifilters/ikws/searchproviders/qt4.desktop:62
 msgctxt "Query"
 msgid "https://doc.qt.io/archives/qt-4.8/search-results.html?q=\\\\{@}"
 msgstr ""
