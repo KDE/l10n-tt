@@ -2699,6 +2699,48 @@ msgctxt "KMessageBox|"
 msgid "Do not show this message again"
 msgstr "Бу хәбәрне башка күрсәтмәү"
 
+#: kmessagedialog.cpp:133
+#, fuzzy
+#| msgid "Details"
+msgctxt "KMessageDialog|"
+msgid "Details"
+msgstr "Өстәмә"
+
+#: kmessagedialog.cpp:198
+#, fuzzy
+#| msgid "Question"
+msgctxt "KMessageDialog|"
+msgid "Question"
+msgstr "Сорау"
+
+#: kmessagedialog.cpp:203
+#, fuzzy
+#| msgid "Warning"
+msgctxt "KMessageDialog|"
+msgid "Warning"
+msgstr "Кисәтү"
+
+#: kmessagedialog.cpp:206
+#, fuzzy
+#| msgid "Information"
+msgctxt "KMessageDialog|"
+msgid "Information"
+msgstr "Мәгълумат"
+
+#: kmessagedialog.cpp:209
+#, fuzzy
+#| msgid "Sorry"
+msgctxt "KMessageDialog|"
+msgid "Sorry"
+msgstr "Ялгыш"
+
+#: kmessagedialog.cpp:212
+#, fuzzy
+#| msgid "Error"
+msgctxt "KMessageDialog|"
+msgid "Error"
+msgstr "Хата"
+
 #: kmessagewidget.cpp:76
 #, fuzzy
 #| msgid "&Close"
