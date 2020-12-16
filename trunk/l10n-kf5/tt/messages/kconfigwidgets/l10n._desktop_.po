@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-07-30 00:39+0000\n"
+"POT-Creation-Date: 2020-12-16 02:04+0000\n"
 "PO-Revision-Date: 2012-01-14 21:54+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <kde-i18n-doc@kde.org>\n"
@@ -26,6 +26,11 @@ msgstr "Гарәп"
 msgctxt "Name"
 msgid "Assamese"
 msgstr "Ассам"
+
+#: ast/messages/kconfigwidgets/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Asturian"
+msgstr "Астурий"
 
 #: az/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
@@ -132,6 +137,11 @@ msgctxt "Name"
 msgid "Estonian"
 msgstr "Эстон"
 
+#: eu/messages/kconfigwidgets/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Basque"
+msgstr "Баск"
+
 #: fa/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Farsi"
@@ -156,6 +166,11 @@ msgstr "Фриз"
 msgctxt "Name"
 msgid "Irish"
 msgstr "Ирланд"
+
+#: gd/messages/kconfigwidgets/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Scottish Gaelic"
+msgstr ""
 
 #: gl/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
@@ -326,6 +341,11 @@ msgstr "Голланд"
 msgctxt "Name"
 msgid "Norwegian Nynorsk"
 msgstr "Норвегия (Нинорск)"
+
+#: oc/messages/kconfigwidgets/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Occitan"
+msgstr ""
 
 #: or/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
@@ -501,11 +521,3 @@ msgstr "Кытай (Гонконг)"
 msgctxt "Name"
 msgid "Traditional Chinese"
 msgstr "Гадәти Кытай."
-
-#~ msgctxt "Name"
-#~ msgid "Basque"
-#~ msgstr "Баск"
-
-#~ msgctxt "Name"
-#~ msgid "Asturian"
-#~ msgstr "Астурий"
