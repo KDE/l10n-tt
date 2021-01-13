@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-05 02:14+0100\n"
+"POT-Creation-Date: 2021-01-13 02:55+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -393,21 +393,21 @@ msgid ""
 "uninstallation process"
 msgstr ""
 
-#: core/jobs/kpackagejob.cpp:104
+#: core/jobs/kpackagejob.cpp:103
 #, kde-format
 msgid ""
 "Failed to create a job for the package management task. This is usually "
 "because the package is invalid. We attempted to operate on the package %1"
 msgstr ""
 
-#: core/jobs/kpackagejob.cpp:108
+#: core/jobs/kpackagejob.cpp:107
 #, kde-format
 msgid ""
 "Could not create a package installer for the service type %1: The installer "
 "does not have a valid structure"
 msgstr ""
 
-#: core/jobs/kpackagejob.cpp:112
+#: core/jobs/kpackagejob.cpp:111
 #, kde-format
 msgid "The service type %1 was not understood by the KPackage installer"
 msgstr ""
