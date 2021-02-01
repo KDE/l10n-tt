@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-11 02:30+0100\n"
+"POT-Creation-Date: 2021-02-01 02:22+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1574,12 +1574,12 @@ msgstr "Корал панелен катыру"
 msgid "Toolbars Shown"
 msgstr "Чагылдыручы корал панелләре"
 
-#: kundoactions.cpp:29
+#: kundoactions.cpp:30
 #, kde-format
 msgid "Redo"
 msgstr "Кабатлау"
 
-#: kundoactions.cpp:48
+#: kundoactions.cpp:49
 #, kde-format
 msgid "Undo"
 msgstr "Кире кагу"
