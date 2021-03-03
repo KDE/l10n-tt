@@ -18,14 +18,14 @@ msgstr ""
 "X-Generator: Lokalize 1.2\n"
 "X-Qt-Contexts: true\n"
 
-#: kglobalaccel.cpp:536
+#: kglobalaccel.cpp:534
 #, fuzzy
 #| msgid "Conflict with Global Shortcut"
 msgctxt "KGlobalAccel|"
 msgid "Conflict with Global Shortcut"
 msgstr "Глобаль комбинация белән бәрелештә"
 
-#: kglobalaccel.cpp:537
+#: kglobalaccel.cpp:535
 #, fuzzy, qt-format
 #| msgid ""
 #| "The '%1' key combination has already been allocated to the global action "
@@ -40,14 +40,14 @@ msgstr ""
 "Комбинация клавиш %1 уже связана с глобальным действием «%2» в %3.\n"
 "Связать комбинацию с текущим действием?"
 
-#: kglobalaccel.cpp:545 kglobalaccel.cpp:578
+#: kglobalaccel.cpp:543 kglobalaccel.cpp:576
 #, fuzzy
 #| msgid "Reassign"
 msgctxt "KGlobalAccel|"
 msgid "Reassign"
 msgstr "Яңа белән бәйләү"
 
-#: kglobalaccel.cpp:564
+#: kglobalaccel.cpp:562
 #, fuzzy, qt-format
 #| msgid ""
 #| "The '%1' key combination is registered by application %2 for action %3:"
@@ -55,14 +55,14 @@ msgctxt "KGlobalAccel|"
 msgid "The '%1' key combination is registered by application %2 for action %3:"
 msgstr "Клавиша «%1» уже назначена в приложении %2 на действие %3:"
 
-#: kglobalaccel.cpp:568
+#: kglobalaccel.cpp:566
 #, fuzzy, qt-format
 #| msgid "In context '%1' for action '%2'\n"
 msgctxt "KGlobalAccel|"
 msgid "In context '%1' for action '%2'\n"
 msgstr "Контекст «%1» для действия «%2»\n"
 
-#: kglobalaccel.cpp:570
+#: kglobalaccel.cpp:568
 #, fuzzy, qt-format
 #| msgid ""
 #| "The '%1' key combination is registered by application %2.\n"
@@ -75,7 +75,7 @@ msgstr ""
 "Клавиша «%1» уже назначена в приложении %2.\n"
 "%3"
 
-#: kglobalaccel.cpp:573
+#: kglobalaccel.cpp:571
 #, fuzzy
 #| msgid "Conflict With Registered Global Shortcut"
 msgctxt "KGlobalAccel|"
