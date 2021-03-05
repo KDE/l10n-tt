@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-13 02:11+0100\n"
+"POT-Creation-Date: 2021-03-05 02:25+0100\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -32,7 +32,7 @@ msgstr "ainur.shakirov.tt@gmail.com"
 msgid "KPackage QML application shell"
 msgstr ""
 
-#: kpackagelauncherqml/main.cpp:37
+#: kpackagelauncherqml/main.cpp:38
 #, fuzzy, kde-format
 #| msgid "defines the application font"
 msgid "The unique name of the application (mandatory)"
@@ -63,12 +63,12 @@ msgstr ""
 "Нажмите на кнопке и введите комбинацию клавиш.\n"
 "Например, для комбинации клавиш Ctrl+A зажмите клавишу Ctrl и нажмите A."
 
-#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:118
+#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:115
 #, kde-format
 msgid "Reserved Shortcut"
 msgstr "Зарезервированная комбинация клавиш"
 
-#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:119
+#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:117
 #, kde-format
 msgid ""
 "The F12 key is reserved on Windows, so cannot be used for a global "
@@ -79,12 +79,12 @@ msgstr ""
 "глобальных комбинациях клавиш.\n"
 "Выберите другую комбинацию клавиш."
 
-#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:174
+#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:171
 #, kde-format
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Стандартлы төймә функциясе белән конфликт"
 
-#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:175
+#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:173
 #, kde-format
 msgid ""
 "The '%1' key combination is also used for the standard action \"%2\" that "
@@ -95,7 +95,7 @@ msgstr ""
 "во многих программах.\n"
 "Вы действительно хотите использовать эту комбинацию как глобальную?"
 
-#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:180
+#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:179
 #, kde-format
 msgid "Reassign"
 msgstr "Яңа белән бәйләү"
