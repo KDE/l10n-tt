@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-28 02:21+0100\n"
+"POT-Creation-Date: 2021-03-31 00:15+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -68,6 +68,32 @@ msgstr "Бәйләнү схемалары"
 msgctxt "@title:window"
 msgid "Configure"
 msgstr "Көйләү"
+
+#: khamburgermenu.cpp:126
+#, fuzzy, kde-format
+#| msgctxt "keyboard-key-name"
+#| msgid "Menu"
+msgctxt "@action:inmenu General purpose menu"
+msgid "&Menu"
+msgstr "Menu"
+
+#: khamburgermenu.cpp:337
+#, fuzzy, kde-format
+#| msgid "Shortcut '%1' for action '%2'\n"
+msgctxt "@action:inmenu A menu text advertising its contents (more features)."
+msgid "For %1 more action:"
+msgid_plural "For %1 more actions:"
+msgstr[0] "Комбинация клавиш «%1» для действия «%2»\n"
+msgstr[1] "Комбинация клавиш «%1» для действия «%2»\n"
+
+#: khamburgermenu.cpp:340
+#, kde-format
+msgctxt ""
+"@action:inmenu A section heading advertising the contents of the menu bar"
+msgid "%1 Menu Bar Exclusive Action"
+msgid_plural "%1 Menu Bar Exclusive Actions"
+msgstr[0] ""
+msgstr[1] ""
 
 #: krecentfilesaction.cpp:68
 #, kde-format
@@ -647,6 +673,12 @@ msgstr ""
 #, kde-format
 msgid "&Donate"
 msgstr ""
+
+#: kstandardaction_p.h:114
+#, fuzzy, kde-format
+#| msgid "Open &Recent"
+msgid "Open &Menu"
+msgstr "&Күптән түгелдәге файллар"
 
 #: ktipdialog.cpp:217
 #, fuzzy, kde-format
@@ -2647,10 +2679,6 @@ msgstr "&Алга бару"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Left"
 #~ msgstr "Сул кыры буенча"
-
-#~ msgctxt "keyboard-key-name"
-#~ msgid "Menu"
-#~ msgstr "Menu"
 
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Meta"
@@ -6538,9 +6566,6 @@ msgstr "&Алга бару"
 #~ msgid_plural "Shortcut Conflicts"
 #~ msgstr[0] "Конфликты комбинаций клавиш"
 #~ msgstr[1] "Конфликты комбинаций клавиш"
-
-#~ msgid "Shortcut '%1' for action '%2'\n"
-#~ msgstr "Комбинация клавиш «%1» для действия «%2»\n"
 
 #~ msgctxt "%1 is the number of ambigious shortcut clashes (hidden)"
 #~ msgid ""
