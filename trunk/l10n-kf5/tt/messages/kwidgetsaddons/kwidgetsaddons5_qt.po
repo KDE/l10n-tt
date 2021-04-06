@@ -3068,26 +3068,12 @@ msgctxt "KStandardGuiItem|"
 msgid "&Yes"
 msgstr "&Әйе"
 
-#: kstandardguiitem.cpp:170
-#, fuzzy
-#| msgid "Yes"
-msgctxt "KStandardGuiItem|"
-msgid "Yes"
-msgstr "Әйе"
-
 #: kstandardguiitem.cpp:175
 #, fuzzy
 #| msgid "&No"
 msgctxt "KStandardGuiItem|"
 msgid "&No"
 msgstr "&Юк"
-
-#: kstandardguiitem.cpp:175
-#, fuzzy
-#| msgid "No"
-msgctxt "KStandardGuiItem|"
-msgid "No"
-msgstr "Юк"
 
 #: kstandardguiitem.cpp:180
 #, fuzzy
@@ -3545,6 +3531,18 @@ msgstr "Тулы экран"
 msgctxt "KToggleFullScreenAction|@info:tooltip"
 msgid "Display the window in full screen"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Yes"
+#~ msgctxt "KStandardGuiItem|"
+#~ msgid "Yes"
+#~ msgstr "Әйе"
+
+#, fuzzy
+#~| msgid "No"
+#~ msgctxt "KStandardGuiItem|"
+#~ msgid "No"
+#~ msgstr "Юк"
 
 #, fuzzy
 #~| msgid "&Back"
