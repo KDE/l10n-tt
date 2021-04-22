@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-16 18:02+0000\n"
+"POT-Creation-Date: 2021-04-22 00:15+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -863,12 +863,12 @@ msgid "Change Icon"
 msgstr "Билгечекне үзгәртү"
 
 #. i18n: ectx: Menu (help)
-#: khelpmenu.cpp:147 ui_standards.rc:178
+#: khelpmenu.cpp:146 ui_standards.rc:178
 #, kde-format
 msgid "&Help"
 msgstr "Белешмә"
 
-#: khelpmenu.cpp:254
+#: khelpmenu.cpp:253
 #, kde-format
 msgid "About %1"
 msgstr "%1 турында"
