@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-30 00:15+0000\n"
+"POT-Creation-Date: 2021-05-13 00:15+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -330,38 +330,31 @@ msgctxt "@title:tab"
 msgid "&Support KDE"
 msgstr "&KDE проектына ярдәм итү"
 
-#: kabstractaboutdialog_p.cpp:35
+#: kabstractaboutdialog_p.cpp:36
 #, fuzzy, kde-format
-#| msgid ""
-#| "<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />&nbsp;</html>"
-msgid "<html><font size=\"5\">%1</font><br />Version %2</html>"
-msgstr ""
-"<html><font size=\"5\">%1</font><br /><b>%2 юрамасы</b><br />&nbsp;</html>"
+#| msgid "Version %1"
+msgctxt "Version version-number"
+msgid "Version %1"
+msgstr "Юрама %1"
 
 #: kabstractaboutdialog_p.cpp:79
 #, kde-format
 msgid "License: %1"
 msgstr "Лицензия: %1"
 
-#: kabstractaboutdialog_p.cpp:111
+#: kabstractaboutdialog_p.cpp:112
 #, fuzzy, kde-format
-#| msgid ""
-#| "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to "
-#| "report bugs.\n"
-msgid ""
-"Please use <a href=\"https://bugs.kde.org\">https://bugs.kde.org</a> to "
-"report bugs.\n"
-msgstr ""
-"Хаталар турында хәбәрләү өчен <a href=\"http://bugs.kde.org\">http://bugs. "
-"kde.org</a> белән кулланыгыз.\n"
+#| msgid "Please use http://bugs.kde.org to report bugs.\n"
+msgctxt "Reference to website"
+msgid "Please use %1 to report bugs.\n"
+msgstr "Хаталар турында хәбәрләр өчен http://bugs.kde.org белән кулланыгыз.\n"
 
-#: kabstractaboutdialog_p.cpp:117
+#: kabstractaboutdialog_p.cpp:120
 #, fuzzy, kde-format
-#| msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
-msgid "Please report bugs to <a href=\"%1\">%2</a>.\n"
-msgstr ""
-"Ялгышлар турында хәбәр итү өчен <a href=\"mailto:%1\">%2</a> белән "
-"кулланыгыз.\n"
+#| msgid "Please report bugs to %1.\n"
+msgctxt "Reference to email address"
+msgid "Please report bugs to %1.\n"
+msgstr "Хаталар турында хәбәрләр өчен %1 белән кулланыгыз.\n"
 
 #: kactionconflictdetector.cpp:38
 #, fuzzy, kde-format
@@ -1668,6 +1661,32 @@ msgstr "&Көйләүләр"
 msgid "Main Toolbar"
 msgstr "Баш кораллар панеле"
 
+#, fuzzy
+#~| msgid ""
+#~| "<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />&nbsp;</"
+#~| "html>"
+#~ msgid "<html><font size=\"5\">%1</font><br />Version %2</html>"
+#~ msgstr ""
+#~ "<html><font size=\"5\">%1</font><br /><b>%2 юрамасы</b><br />&nbsp;</html>"
+
+#, fuzzy
+#~| msgid ""
+#~| "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to "
+#~| "report bugs.\n"
+#~ msgid ""
+#~ "Please use <a href=\"https://bugs.kde.org\">https://bugs.kde.org</a> to "
+#~ "report bugs.\n"
+#~ msgstr ""
+#~ "Хаталар турында хәбәрләү өчен <a href=\"http://bugs.kde.org\">http://"
+#~ "bugs. kde.org</a> белән кулланыгыз.\n"
+
+#, fuzzy
+#~| msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
+#~ msgid "Please report bugs to <a href=\"%1\">%2</a>.\n"
+#~ msgstr ""
+#~ "Ялгышлар турында хәбәр итү өчен <a href=\"mailto:%1\">%2</a> белән "
+#~ "кулланыгыз.\n"
+
 #~ msgid "The key you just pressed is not supported by Qt."
 #~ msgstr "Басылган төймә Qt коралы белән тотылмый."
 
@@ -2924,13 +2943,6 @@ msgstr "Баш кораллар панеле"
 #~ msgid ""
 #~ "This application was written by somebody who wants to remain anonymous."
 #~ msgstr "Кушымтаның авторы билгесез булып калырга теләде."
-
-#~ msgid "Please use http://bugs.kde.org to report bugs.\n"
-#~ msgstr ""
-#~ "Хаталар турында хәбәрләр өчен http://bugs.kde.org белән кулланыгыз.\n"
-
-#~ msgid "Please report bugs to %1.\n"
-#~ msgstr "Хаталар турында хәбәрләр өчен %1 белән кулланыгыз.\n"
 
 #~ msgid "Unexpected argument '%1'."
 #~ msgstr "'%1' аргументы хаталы."
@@ -9193,9 +9205,6 @@ msgstr "Баш кораллар панеле"
 
 #~ msgid "This operation requires authentication."
 #~ msgstr "Гамәл тиңләштерүне таләп итә."
-
-#~ msgid "Version %1"
-#~ msgstr "Юрама %1"
 
 #~ msgid "Leave a comment"
 #~ msgstr "Фикерне калдыру"
