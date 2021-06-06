@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-05 00:25+0000\n"
+"POT-Creation-Date: 2021-06-06 00:26+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -33,16 +33,6 @@ msgstr "HTTP кешын бушату"
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "HTTP кэшенда булган иске керемнәрне бетерү"
-
-#: src/ioslaves/protocols/data.protocol:8
-msgctxt "Description"
-msgid "A kioslave for data URIs (rfc2397)"
-msgstr "URI файлы өчен kioslave (rfc2397)"
-
-#: src/ioslaves/protocols/mms.protocol:10
-msgctxt "Description"
-msgid "Microsoft Media Server Protocol"
-msgstr "Microsoft Media Server беркетмәсе"
 
 #: src/ioslaves/remote/kdedmodule/remotedirnotify.desktop:3
 msgctxt "Name"
@@ -1594,6 +1584,14 @@ msgstr "Сайлау диалогы өчен өстәмә"
 msgctxt "Name"
 msgid "Enhanced Browsing Plugin"
 msgstr "Киңәйтелгән күзәтү өстәмәсе"
+
+#~ msgctxt "Description"
+#~ msgid "A kioslave for data URIs (rfc2397)"
+#~ msgstr "URI файлы өчен kioslave (rfc2397)"
+
+#~ msgctxt "Description"
+#~ msgid "Microsoft Media Server Protocol"
+#~ msgstr "Microsoft Media Server беркетмәсе"
 
 #~ msgctxt "Name"
 #~ msgid "KMailService"
