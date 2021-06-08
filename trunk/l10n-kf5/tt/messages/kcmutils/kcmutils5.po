@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-27 00:15+0000\n"
+"POT-Creation-Date: 2021-06-08 00:14+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -192,7 +192,7 @@ msgstr "Поиск"
 msgid "About"
 msgstr "KDE &чолганышы турында"
 
-#: ksettings/dialog.cpp:216
+#: ksettings/dialog.cpp:220
 #, kde-format
 msgid "Enable component"
 msgstr "Компонентны эшләтү"
