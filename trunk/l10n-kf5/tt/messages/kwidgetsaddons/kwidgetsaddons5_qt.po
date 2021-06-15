@@ -19,7 +19,7 @@ msgstr ""
 "X-Qt-Contexts: true\n"
 
 #. Generic sans serif font presented in font choosers. When selected, the system will choose a real font, mandated by distro settings.
-#: fonthelpers.cpp:16
+#: fonthelpers_p.h:22
 #, fuzzy
 #| msgctxt "@item Font name"
 #| msgid "Sans Serif"
@@ -28,7 +28,7 @@ msgid "Sans Serif"
 msgstr "Sans Serif"
 
 #. Generic serif font presented in font choosers. When selected, the system will choose a real font, mandated by distro settings.
-#: fonthelpers.cpp:19
+#: fonthelpers_p.h:25
 #, fuzzy
 #| msgctxt "@item Font name"
 #| msgid "Serif"
@@ -37,7 +37,7 @@ msgid "Serif"
 msgstr "Киртек"
 
 #. Generic monospace font presented in font choosers. When selected, the system will choose a real font, mandated by distro settings.
-#: fonthelpers.cpp:22
+#: fonthelpers_p.h:28
 #, fuzzy
 #| msgctxt "@item Font name"
 #| msgid "Monospace"
@@ -45,7 +45,7 @@ msgctxt "FontHelpers|@item Font name"
 msgid "Monospace"
 msgstr "Берара"
 
-#: fonthelpers.cpp:65
+#: fonthelpers_p.h:89
 #, fuzzy, qt-format
 #| msgctxt "@application/plain"
 #| msgid "%1"
@@ -53,7 +53,7 @@ msgctxt "FontHelpers|@item Font name"
 msgid "%1"
 msgstr "%1"
 
-#: fonthelpers.cpp:69
+#: fonthelpers_p.h:93
 #, fuzzy, qt-format
 #| msgctxt "dictionary name. %1-language and %2-variant name"
 #| msgid "%1 [%2]"
@@ -2411,14 +2411,14 @@ msgctxt "KEditListWidget|@action:button"
 msgid "Move &Down"
 msgstr "Аскарак &күчерү"
 
-#: kfontchooser.cpp:169
+#: kfontchooser.cpp:161
 #, fuzzy
 #| msgid "Requested Font"
 msgctxt "KFontChooser|@title:group"
 msgid "Requested Font"
 msgstr "Соралган хәреф"
 
-#: kfontchooser.cpp:183
+#: kfontchooser.cpp:175
 #, fuzzy
 #| msgctxt "@option:check"
 #| msgid "Font"
@@ -2426,7 +2426,7 @@ msgctxt "KFontChooser|@option:check"
 msgid "Font"
 msgstr "Хәреф"
 
-#: kfontchooser.cpp:188
+#: kfontchooser.cpp:180
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Font:"
@@ -2434,7 +2434,7 @@ msgctxt "KFontChooser|@label"
 msgid "Font:"
 msgstr "Хәреф:"
 
-#: kfontchooser.cpp:220
+#: kfontchooser.cpp:212
 #, fuzzy
 #| msgctxt "@option:check"
 #| msgid "Font style"
@@ -2442,14 +2442,14 @@ msgctxt "KFontChooser|@option:check"
 msgid "Font style"
 msgstr "Хәреф стиле"
 
-#: kfontchooser.cpp:225
+#: kfontchooser.cpp:217
 #, fuzzy
 #| msgid "Font style:"
 msgctxt "KFontChooser|@label"
 msgid "Font style:"
 msgstr "Хәреф стиле:"
 
-#: kfontchooser.cpp:238
+#: kfontchooser.cpp:230
 #, fuzzy
 #| msgctxt "normal severity"
 #| msgid "Normal"
@@ -2457,7 +2457,7 @@ msgctxt "KFontChooser|@item font"
 msgid "Normal"
 msgstr "Гадәти"
 
-#: kfontchooser.cpp:239 kfontchooser.cpp:587
+#: kfontchooser.cpp:231 kfontchooser.cpp:579
 #, fuzzy
 #| msgctxt "@item font"
 #| msgid "Italic"
@@ -2465,7 +2465,7 @@ msgctxt "KFontChooser|@item font"
 msgid "Italic"
 msgstr "Курсив"
 
-#: kfontchooser.cpp:240 kfontchooser.cpp:588
+#: kfontchooser.cpp:232 kfontchooser.cpp:580
 #, fuzzy
 #| msgctxt "@item font"
 #| msgid "Oblique"
@@ -2473,7 +2473,7 @@ msgctxt "KFontChooser|@item font"
 msgid "Oblique"
 msgstr "Авыш"
 
-#: kfontchooser.cpp:241
+#: kfontchooser.cpp:233
 #, fuzzy
 #| msgctxt "@item font"
 #| msgid "Bold"
@@ -2481,7 +2481,7 @@ msgctxt "KFontChooser|@item font"
 msgid "Bold"
 msgstr "Калын"
 
-#: kfontchooser.cpp:242
+#: kfontchooser.cpp:234
 #, fuzzy
 #| msgctxt "@item font"
 #| msgid "Bold Italic"
@@ -2489,7 +2489,7 @@ msgctxt "KFontChooser|@item font"
 msgid "Bold Italic"
 msgstr "Калын курсив"
 
-#: kfontchooser.cpp:259
+#: kfontchooser.cpp:251
 #, fuzzy
 #| msgctxt "@option:check"
 #| msgid "Size"
@@ -2497,7 +2497,7 @@ msgctxt "KFontChooser|@option:check"
 msgid "Size"
 msgstr "Зурлык"
 
-#: kfontchooser.cpp:264
+#: kfontchooser.cpp:256
 #, fuzzy
 #| msgctxt "@label:listbox Font size"
 #| msgid "Size:"
@@ -2505,7 +2505,7 @@ msgctxt "KFontChooser|@label:listbox Font size"
 msgid "Size:"
 msgstr "Зурлык:"
 
-#: kfontchooser.cpp:281
+#: kfontchooser.cpp:273
 #, fuzzy
 #| msgctxt "@item font size"
 #| msgid "Relative"
@@ -2513,7 +2513,7 @@ msgctxt "KFontChooser|@item font size"
 msgid "Relative"
 msgstr "Чагыштырма"
 
-#: kfontchooser.cpp:282
+#: kfontchooser.cpp:274
 #, fuzzy
 #| msgid "Font size<br /><i>fixed</i> or <i>relative</i><br />to environment"
 msgctxt "KFontChooser|@info:tooltip"
@@ -2522,7 +2522,7 @@ msgstr ""
 "Размер шрифта<br /><i>фиксированный</i> или <i>относительный</i><br /> к "
 "среде"
 
-#: kfontchooser.cpp:283
+#: kfontchooser.cpp:275
 #, fuzzy
 #| msgid ""
 #| "Here you can switch between fixed font size and font size to be "
@@ -2538,14 +2538,14 @@ msgstr ""
 "зурлыкларыарасында күчеп йөреп була һәм шуңа караган мохит үзгәрешләре дә "
 "(Тәрәзә элементларызурлыгы, кәгазь зурлыгы һ.б.)."
 
-#: kfontchooser.cpp:339
+#: kfontchooser.cpp:331
 #, fuzzy
 #| msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgctxt "KFontChooser|"
 msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgstr "Җөмһүриятебездәге матурлыкларны үзебез дә яратабыз да без, иптәшләр!"
 
-#: kfontchooser.cpp:341
+#: kfontchooser.cpp:333
 #, fuzzy
 #| msgid ""
 #| "This sample text illustrates the current settings. You may edit it to "
@@ -2558,12 +2558,12 @@ msgstr ""
 "Бу текст агымдагы параметрларны сурәтли. Аның корректлыгын тикшерү "
 "өченмахсус символларның чагылуын үзгәртегез."
 
-#: kfontchooser.cpp:356
+#: kfontchooser.cpp:348
 msgctxt "KFontChooser|@option:check"
 msgid "Show only monospaced fonts"
 msgstr ""
 
-#: kfontchooser.cpp:572
+#: kfontchooser.cpp:564
 #, fuzzy, qt-format
 #| msgctxt "@application/plain"
 #| msgid "%1"
