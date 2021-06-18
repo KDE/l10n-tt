@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-15 00:14+0000\n"
+"POT-Creation-Date: 2021-06-18 00:14+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -278,37 +278,37 @@ msgctxt "@title:tab"
 msgid "&Support KDE"
 msgstr "&KDE проектына ярдәм итү"
 
-#: kabstractaboutdialog_p.cpp:37
+#: kabstractaboutdialog_p.cpp:38
 #, fuzzy, kde-format
 #| msgid "Version %1"
 msgctxt "Version version-number"
 msgid "Version %1"
 msgstr "Юрама %1"
 
-#: kabstractaboutdialog_p.cpp:80
+#: kabstractaboutdialog_p.cpp:81
 #, kde-format
 msgid "License: %1"
 msgstr "Лицензия: %1"
 
-#: kabstractaboutdialog_p.cpp:100
+#: kabstractaboutdialog_p.cpp:101
 #, fuzzy, kde-format
 #| msgid "Show author information"
 msgid "Show author photos"
 msgstr "Автор турында мәгълүматны күрсәтү"
 
-#: kabstractaboutdialog_p.cpp:101
+#: kabstractaboutdialog_p.cpp:102
 #, kde-format
 msgid "Enabling this will fetch images from an online location"
 msgstr ""
 
-#: kabstractaboutdialog_p.cpp:140
+#: kabstractaboutdialog_p.cpp:141
 #, fuzzy, kde-format
 #| msgid "Please use http://bugs.kde.org to report bugs.\n"
 msgctxt "Reference to website"
 msgid "Please use %1 to report bugs.\n"
 msgstr "Хаталар турында хәбәрләр өчен http://bugs.kde.org белән кулланыгыз.\n"
 
-#: kabstractaboutdialog_p.cpp:148
+#: kabstractaboutdialog_p.cpp:149
 #, fuzzy, kde-format
 #| msgid "Please report bugs to %1.\n"
 msgctxt "Reference to email address"
@@ -337,19 +337,19 @@ msgctxt "@title:window"
 msgid "Ambiguous shortcut detected"
 msgstr "Гамәлләрнең бәрелеше"
 
-#: kbugreport.cpp:102
+#: kbugreport.cpp:100
 #, fuzzy, kde-format
 #| msgid "Submit Bug Report"
 msgctxt "@title:window"
 msgid "Submit Bug Report"
 msgstr "Хата турында хисапны тапшыру"
 
-#: kbugreport.cpp:130
+#: kbugreport.cpp:128
 #, kde-format
 msgid "Submit Bug Report"
 msgstr "Хата турында хисапны тапшыру"
 
-#: kbugreport.cpp:142
+#: kbugreport.cpp:140
 #, kde-format
 msgid ""
 "Your email address. If incorrect, use the Configure Email button to change it"
@@ -357,52 +357,52 @@ msgstr ""
 "Бу сезнең электрон адресыгыз. Ул дөрес булмаса, \"Электрон почтаны көйләү\" "
 "төймәсенә басыгыз һәм аны үзгәртегез."
 
-#: kbugreport.cpp:143
+#: kbugreport.cpp:141
 #, kde-format
 msgctxt "Email sender address"
 msgid "From:"
 msgstr "Кемнән:"
 
-#: kbugreport.cpp:151
+#: kbugreport.cpp:149
 #, fuzzy, kde-format
 #| msgid "Configure Email..."
 msgctxt "@action:button"
 msgid "Configure Email..."
 msgstr "Электрон почтаны көйләү..."
 
-#: kbugreport.cpp:158
+#: kbugreport.cpp:156
 #, kde-format
 msgid "The email address this bug report is sent to."
 msgstr "Хата турында хисапны тапшыру өчен почта адресы."
 
-#: kbugreport.cpp:159
+#: kbugreport.cpp:157
 #, kde-format
 msgctxt "Email receiver address"
 msgid "To:"
 msgstr "Кемгә:"
 
-#: kbugreport.cpp:168
+#: kbugreport.cpp:166
 #, fuzzy, kde-format
 #| msgid "&Send"
 msgctxt "@action:button"
 msgid "&Send"
 msgstr "&Тапшыру"
 
-#: kbugreport.cpp:170
+#: kbugreport.cpp:168
 #, fuzzy, kde-format
 #| msgid "Send bug report."
 msgctxt "@info:tooltip"
 msgid "Send bug report."
 msgstr "Хата турында хисап җибәрү."
 
-#: kbugreport.cpp:171
+#: kbugreport.cpp:169
 #, fuzzy, kde-format
 #| msgid "Send this bug report to %1."
 msgctxt "@info:whatsthis"
 msgid "Send this bug report to %1."
 msgstr "Хата турында хисапны %1 га җибәрү."
 
-#: kbugreport.cpp:180
+#: kbugreport.cpp:178
 #, kde-format
 msgid ""
 "The application for which you wish to submit a bug report - if incorrect, "
@@ -412,12 +412,12 @@ msgstr ""
 "кулланылган булса, \"Хата турында хәбәр җибәрү\" менюсындагы пунктны "
 "кулланыгыз."
 
-#: kbugreport.cpp:181
+#: kbugreport.cpp:179
 #, kde-format
 msgid "Application: "
 msgstr "Кушымта: "
 
-#: kbugreport.cpp:191
+#: kbugreport.cpp:189
 #, kde-format
 msgid ""
 "The version of this application - please make sure that no newer version is "
@@ -426,43 +426,43 @@ msgstr ""
 "Кушымтаның юрамасы. Хата турында хисапны җибәргәнче, яңа юраманың тәшкил "
 "булуын тикшерегез."
 
-#: kbugreport.cpp:192
+#: kbugreport.cpp:190
 #, kde-format
 msgid "Version:"
 msgstr "Юрама:"
 
-#: kbugreport.cpp:197
+#: kbugreport.cpp:195
 #, kde-format
 msgid "no version set (programmer error)"
 msgstr "юрама турында мәгълумат юк (кушымта ясаучының хатасы!)"
 
-#: kbugreport.cpp:209
+#: kbugreport.cpp:207
 #, kde-format
 msgid "OS:"
 msgstr "ОС:"
 
-#: kbugreport.cpp:219
+#: kbugreport.cpp:217
 #, fuzzy, kde-format
 #| msgid "Se&verity"
 msgctxt "@title:group"
 msgid "Se&verity"
 msgstr "Мөһимлек &дәрәҗәсе"
 
-#: kbugreport.cpp:226
+#: kbugreport.cpp:224
 #, fuzzy, kde-format
 #| msgid "Critical"
 msgctxt "bug severity"
 msgid "Critical"
 msgstr "Тәнкыйть хата"
 
-#: kbugreport.cpp:227
+#: kbugreport.cpp:225
 #, fuzzy, kde-format
 #| msgid "Grave"
 msgctxt "bug severity"
 msgid "Grave"
 msgstr "Җитди хата"
 
-#: kbugreport.cpp:228
+#: kbugreport.cpp:226
 #, fuzzy, kde-format
 #| msgctxt "normal severity"
 #| msgid "Normal"
@@ -470,26 +470,26 @@ msgctxt "bug severity"
 msgid "Normal"
 msgstr "Гадәти"
 
-#: kbugreport.cpp:229
+#: kbugreport.cpp:227
 #, fuzzy, kde-format
 #| msgid "Wishlist"
 msgctxt "bug severity"
 msgid "Wishlist"
 msgstr "Теләк"
 
-#: kbugreport.cpp:230
+#: kbugreport.cpp:228
 #, fuzzy, kde-format
 #| msgid "Translation"
 msgctxt "bug severity"
 msgid "Translation"
 msgstr "Тәрҗемә"
 
-#: kbugreport.cpp:248
+#: kbugreport.cpp:246
 #, kde-format
 msgid "S&ubject: "
 msgstr "&Тема: "
 
-#: kbugreport.cpp:257
+#: kbugreport.cpp:255
 #, kde-format
 msgid ""
 "Enter the text (in English if possible) that you wish to submit for the bug "
@@ -501,7 +501,7 @@ msgstr ""
 "Әгәр сез \"Тапшыру\"га бассагыз, хәбәр шул программаны җаваплы "
 "эшкәртүчегәтапшырылачак.\n"
 
-#: kbugreport.cpp:280
+#: kbugreport.cpp:278
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>To submit a bug report, click on the button below. This will open a "
@@ -519,7 +519,7 @@ msgstr ""
 "org</a>, где можно будет заполнить форму. Информация будет отправлена на "
 "сервер учёта ошибок.</qt>"
 
-#: kbugreport.cpp:286
+#: kbugreport.cpp:284
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>To submit a bug report, click on the button below. This will open a "
@@ -535,21 +535,21 @@ msgstr ""
 "org</a>, где можно будет заполнить форму. Информация будет отправлена на "
 "сервер учёта ошибок.</qt>"
 
-#: kbugreport.cpp:303
+#: kbugreport.cpp:301
 #, fuzzy, kde-format
 #| msgid "&Launch Bug Report Wizard"
 msgctxt "@action:button"
 msgid "&Launch Bug Report Wizard"
 msgstr "&Хата турында хәбәр тапшыру остасын җибәрү"
 
-#: kbugreport.cpp:305
+#: kbugreport.cpp:303
 #, fuzzy, kde-format
 #| msgid "Submit Bug Report"
 msgctxt "@action:button"
 msgid "&Submit Bug Report"
 msgstr "Хата турында хисапны тапшыру"
 
-#: kbugreport.cpp:398
+#: kbugreport.cpp:396
 #, kde-format
 msgid ""
 "You must specify both a subject and a description before the report can be "
@@ -557,7 +557,7 @@ msgid ""
 msgstr ""
 "Тапшыру алдыннан хатаның темасын һәм аның тасвирлавын билгеләргә кирәк."
 
-#: kbugreport.cpp:407
+#: kbugreport.cpp:405
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Critical</b>. Please note that this severity is "
@@ -575,7 +575,7 @@ msgstr ""
 "<p>Является ли ошибка, о которой вы хотите сообщить, настолько серьёзной? "
 "Если нет, выберите другой, менее высокий уровень ошибки.</p>"
 
-#: kbugreport.cpp:423
+#: kbugreport.cpp:421
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Grave</b>. Please note that this severity is "
@@ -593,7 +593,7 @@ msgstr ""
 "<p>Является ли ошибка, о которой вы хотите сообщить, настолько серьёзной? "
 "Если нет, выберите другой, менее высокий уровень ошибки.</p>"
 
-#: kbugreport.cpp:442
+#: kbugreport.cpp:440
 #, fuzzy, kde-format
 #| msgid ""
 #| "Unable to send the bug report.\n"
@@ -609,12 +609,12 @@ msgstr ""
 "Аңлатмалар өчен http://bugs.kde.org/ сәхифәсенә\n"
 "мөрәҗәгать итегез."
 
-#: kbugreport.cpp:449
+#: kbugreport.cpp:447
 #, kde-format
 msgid "Bug report sent, thank you for your input."
 msgstr "Хата турында хәбәр тапшырылды, рәхмәт."
 
-#: kbugreport.cpp:457
+#: kbugreport.cpp:455
 #, kde-format
 msgid ""
 "Close and discard\n"
@@ -623,7 +623,7 @@ msgstr ""
 "Кертелгән хәбәрне\n"
 "ябаргамы, кире кагыргамы?"
 
-#: kbugreport.cpp:458
+#: kbugreport.cpp:456
 #, fuzzy, kde-format
 #| msgid "Close Message"
 msgctxt "@title:window"
@@ -670,44 +670,44 @@ msgstr "<h2>Акселераторлар сөртелгән</h2>"
 msgid "<h2>Accelerators added (just for your info)</h2>"
 msgstr "<h2>Акселераторлар өстәлгән</h2>"
 
-#: kedittoolbar.cpp:45
+#: kedittoolbar.cpp:44
 #, kde-format
 msgid "--- separator ---"
 msgstr "--- бүлгеч ---"
 
-#: kedittoolbar.cpp:46
+#: kedittoolbar.cpp:45
 #, fuzzy, kde-format
 #| msgid "--- separator ---"
 msgid "--- expanding spacer ---"
 msgstr "--- бүлгеч ---"
 
-#: kedittoolbar.cpp:335
+#: kedittoolbar.cpp:334
 #, fuzzy, kde-format
 #| msgid "Change Text"
 msgctxt "@title:window"
 msgid "Change Text"
 msgstr "Текстны үзгәртү"
 
-#: kedittoolbar.cpp:345
+#: kedittoolbar.cpp:344
 #, kde-format
 msgid "Icon te&xt:"
 msgstr "Төй&мәнең тексты:"
 
-#: kedittoolbar.cpp:350
+#: kedittoolbar.cpp:349
 #, fuzzy, kde-format
 #| msgid "&Hide text when toolbar shows text alongside icons"
 msgctxt "@option:check"
 msgid "&Hide text when toolbar shows text alongside icons"
 msgstr "&Билгечек янында язулар күрсәтелгәндә текстны качыру"
 
-#: kedittoolbar.cpp:599
+#: kedittoolbar.cpp:598
 #, fuzzy, kde-format
 #| msgid "Configure Toolbars"
 msgctxt "@title:window"
 msgid "Configure Toolbars"
 msgstr "Кораллар панелен көйләү"
 
-#: kedittoolbar.cpp:662
+#: kedittoolbar.cpp:661
 #, kde-format
 msgid ""
 "Do you really want to reset all toolbars of this application to their "
@@ -716,17 +716,17 @@ msgstr ""
 "Алданук билгеләнгән кораллар панелен торгызыргамы? Үзгәрешләр шунда ук "
 "гамәлгә ашачак."
 
-#: kedittoolbar.cpp:663
+#: kedittoolbar.cpp:662
 #, kde-format
 msgid "Reset Toolbars"
 msgstr "Кораллар панелен торгызу"
 
-#: kedittoolbar.cpp:664
+#: kedittoolbar.cpp:663
 #, kde-format
 msgid "Reset"
 msgstr "Кайтару"
 
-#: kedittoolbar.cpp:993
+#: kedittoolbar.cpp:992
 #, kde-format
 msgid "&Toolbar:"
 msgstr "&Кораллар панеле:"
@@ -738,58 +738,58 @@ msgstr "&Кораллар панеле:"
 #. del_toolbar->setPixmap(BarIcon("edit-delete", KIconLoader::SizeSmall));
 #. del_toolbar->setEnabled(false); // disabled until implemented
 #. our list of inactive actions
-#: kedittoolbar.cpp:1009
+#: kedittoolbar.cpp:1008
 #, kde-format
 msgid "A&vailable actions:"
 msgstr "&Рөхсәт ителгән гамәлләр:"
 
-#: kedittoolbar.cpp:1030 kedittoolbar.cpp:1055
+#: kedittoolbar.cpp:1029 kedittoolbar.cpp:1054
 #, kde-format
 msgid "Filter"
 msgstr "Сөзгеч"
 
-#: kedittoolbar.cpp:1033
+#: kedittoolbar.cpp:1032
 #, kde-format
 msgid "Curr&ent actions:"
 msgstr "&Хәзерге гамәлләр:"
 
-#: kedittoolbar.cpp:1058
+#: kedittoolbar.cpp:1057
 #, fuzzy, kde-format
 #| msgid "Change &Icon..."
 msgctxt "@action:button"
 msgid "Change &Icon..."
 msgstr "Билгечекне алыштыру..."
 
-#: kedittoolbar.cpp:1067
+#: kedittoolbar.cpp:1066
 #, fuzzy, kde-format
 #| msgid "Change Te&xt..."
 msgctxt "@action:button"
 msgid "Change Te&xt..."
 msgstr "Текстны үзгәртү..."
 
-#: kedittoolbar.cpp:1229
+#: kedittoolbar.cpp:1228
 #, kde-format
 msgctxt "@item:intable Action name in toolbar editor"
 msgid "%1"
 msgstr "%1"
 
-#: kedittoolbar.cpp:1257
+#: kedittoolbar.cpp:1256
 #, kde-format
 msgid ""
 "This element will be replaced with all the elements of an embedded component."
 msgstr "Кертелгән компонент бу элементны тулысынча алыштырачак."
 
-#: kedittoolbar.cpp:1259
+#: kedittoolbar.cpp:1258
 #, kde-format
 msgid "<Merge>"
 msgstr "<Кертү ноктасы>"
 
-#: kedittoolbar.cpp:1261
+#: kedittoolbar.cpp:1260
 #, kde-format
 msgid "<Merge %1>"
 msgstr "<%1 кертү ноктасы>"
 
-#: kedittoolbar.cpp:1271
+#: kedittoolbar.cpp:1270
 #, kde-format
 msgid ""
 "This is a dynamic list of actions. You can move it, but if you remove it you "
@@ -798,18 +798,18 @@ msgstr ""
 "Бу гамәлләр исемлеге. Сез аны икенче урынга күчерә аласыз, ләкин бетергән "
 "вакытта сез аны кире торгыза алмаячаксыз."
 
-#: kedittoolbar.cpp:1272
+#: kedittoolbar.cpp:1271
 #, kde-format
 msgid "ActionList: %1"
 msgstr "Гамәлләр җыелмасы: %1"
 
-#: kedittoolbar.cpp:1373 kedittoolbar.cpp:1398
+#: kedittoolbar.cpp:1372 kedittoolbar.cpp:1397
 #, kde-format
 msgctxt "@label Action tooltip in toolbar editor, below the action list"
 msgid "%1"
 msgstr "%1"
 
-#: kedittoolbar.cpp:1626
+#: kedittoolbar.cpp:1625
 #, kde-format
 msgid "Change Icon"
 msgstr "Билгечекне үзгәртү"
@@ -825,7 +825,7 @@ msgstr "Белешмә"
 msgid "About %1"
 msgstr "%1 турында"
 
-#: kkeysequencewidget.cpp:146
+#: kkeysequencewidget.cpp:144
 #, fuzzy, kde-format
 #| msgid ""
 #| "Click on the button, then enter the shortcut like you would in the "
@@ -839,7 +839,7 @@ msgstr ""
 "Нажмите на кнопке и введите комбинацию клавиш.\n"
 "Например, для комбинации клавиш Ctrl+A зажмите клавишу Ctrl и нажмите A."
 
-#: kkeysequencewidget.cpp:169
+#: kkeysequencewidget.cpp:167
 #, kde-format
 msgctxt "%1 is the number of conflicts"
 msgid "Shortcut Conflict"
@@ -847,12 +847,12 @@ msgid_plural "Shortcut Conflicts"
 msgstr[0] "Конфликты комбинаций клавиш"
 msgstr[1] "Конфликты комбинаций клавиш"
 
-#: kkeysequencewidget.cpp:173
+#: kkeysequencewidget.cpp:171
 #, kde-format
 msgid "Shortcut '%1' for action '%2'\n"
 msgstr "Комбинация клавиш «%1» для действия «%2»\n"
 
-#: kkeysequencewidget.cpp:178
+#: kkeysequencewidget.cpp:176
 #, kde-format
 msgctxt "%1 is the number of ambigious shortcut clashes (hidden)"
 msgid ""
@@ -881,22 +881,22 @@ msgstr[1] ""
 "\n"
 "%3"
 
-#: kkeysequencewidget.cpp:188 kkeysequencewidget.cpp:297
-#: kkeysequencewidget.cpp:361
+#: kkeysequencewidget.cpp:186 kkeysequencewidget.cpp:295
+#: kkeysequencewidget.cpp:359
 #, fuzzy, kde-format
 #| msgid "Reassign"
 msgctxt "@action:button"
 msgid "Reassign"
 msgstr "Яңа белән бәйләү"
 
-#: kkeysequencewidget.cpp:193
+#: kkeysequencewidget.cpp:191
 #, fuzzy, kde-format
 #| msgid "Shortcut conflict"
 msgctxt "@title:window"
 msgid "Shortcut conflict"
 msgstr "Төймә тезмәләре бәрелештә"
 
-#: kkeysequencewidget.cpp:195
+#: kkeysequencewidget.cpp:193
 #, kde-format
 msgid ""
 "<qt>The '%1' key combination is already used by the <b>%2</b> action."
@@ -905,12 +905,12 @@ msgstr ""
 "<qt>Комбинация клавиш %1 уже связана с действием <b>%2</b>.<br>Выберите "
 "уникальную комбинацию клавиш.</qt>"
 
-#: kkeysequencewidget.cpp:277
+#: kkeysequencewidget.cpp:275
 #, kde-format
 msgid "Shortcut '%1' in Application %2 for action %3\n"
 msgstr "Комбинация клавиш «%1» в приложении %2 для действия «%3»\n"
 
-#: kkeysequencewidget.cpp:286
+#: kkeysequencewidget.cpp:284
 #, kde-format
 msgctxt ""
 "%1 is the number of conflicts (hidden), %2 is the key sequence of the "
@@ -925,7 +925,7 @@ msgstr[1] ""
 "Комбинация клавиш «%2» конфликтует со следующими комбинациями клавиш:\n"
 "Комбинация клавиш «%2» конфликтует со следующей комбинацией клавиш:\n"
 
-#: kkeysequencewidget.cpp:293
+#: kkeysequencewidget.cpp:291
 #, kde-format
 msgctxt "%1 is the number of shortcuts with which there is a conflict"
 msgid "Conflict with Registered Global Shortcut"
@@ -933,12 +933,12 @@ msgid_plural "Conflict with Registered Global Shortcuts"
 msgstr[0] "Конфликт с глобальными комбинациями клавиш"
 msgstr[1] "Конфликт с глобальными комбинациями клавиш"
 
-#: kkeysequencewidget.cpp:306
+#: kkeysequencewidget.cpp:304
 #, kde-format
 msgid "Reserved Shortcut"
 msgstr "Зарезервированная комбинация клавиш"
 
-#: kkeysequencewidget.cpp:308
+#: kkeysequencewidget.cpp:306
 #, kde-format
 msgid ""
 "The F12 key is reserved on Windows, so cannot be used for a global "
@@ -949,14 +949,14 @@ msgstr ""
 "глобальных комбинациях клавиш.\n"
 "Выберите другую комбинацию клавиш."
 
-#: kkeysequencewidget.cpp:353
+#: kkeysequencewidget.cpp:351
 #, fuzzy, kde-format
 #| msgid "Conflict with Standard Application Shortcut"
 msgctxt "@title:window"
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Стандартлы төймә функциясе белән конфликт"
 
-#: kkeysequencewidget.cpp:355
+#: kkeysequencewidget.cpp:353
 #, kde-format
 msgid ""
 "The '%1' key combination is also used for the standard action \"%2\" that "
@@ -967,13 +967,13 @@ msgstr ""
 "во многих программах.\n"
 "Вы действительно хотите использовать эту комбинацию как глобальную?"
 
-#: kkeysequencewidget.cpp:399
+#: kkeysequencewidget.cpp:397
 #, kde-format
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "Кертү"
 
-#: kkeysequencewidget.cpp:401 kshortcuteditwidget.cpp:51
+#: kkeysequencewidget.cpp:399 kshortcuteditwidget.cpp:51
 #, kde-format
 msgctxt "No shortcut defined"
 msgid "None"
@@ -986,13 +986,13 @@ msgctxt "@title:window"
 msgid "License Agreement"
 msgstr "Лицензион килешү"
 
-#: kmainwindow.cpp:257
+#: kmainwindow.cpp:256
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "Ainur Shakirov"
 
-#: kmainwindow.cpp:258
+#: kmainwindow.cpp:257
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
@@ -1010,48 +1010,48 @@ msgctxt "@action:inmenu"
 msgid "Configure Shortcut..."
 msgstr "Төймә тезмәләрен көйләү"
 
-#: ksendbugmail/main.cpp:31
+#: ksendbugmail/main.cpp:30
 #, fuzzy, kde-format
 #| msgid "Create content on server"
 msgid "Error connecting to server."
 msgstr "Әсбапларны серверда ясау"
 
-#: ksendbugmail/main.cpp:34
+#: ksendbugmail/main.cpp:33
 #, fuzzy, kde-format
 #| msgid "Not found"
 msgid "Not connected."
 msgstr "Табылмады"
 
-#: ksendbugmail/main.cpp:37
+#: ksendbugmail/main.cpp:36
 #, fuzzy, kde-format
 #| msgid "Connection timed out"
 msgid "Connection timed out."
 msgstr "Тоташу вакыты үтте"
 
-#: ksendbugmail/main.cpp:40
+#: ksendbugmail/main.cpp:39
 #, kde-format
 msgid "Time out waiting for server interaction."
 msgstr ""
 
-#: ksendbugmail/main.cpp:44
+#: ksendbugmail/main.cpp:43
 #, fuzzy, kde-format
 #| msgid "Server: %1"
 msgid "Server said: \"%1\""
 msgstr "Сервер: %1"
 
-#: ksendbugmail/main.cpp:74
+#: ksendbugmail/main.cpp:73
 #, fuzzy, kde-format
 #| msgid "Send bug report."
 msgid "Sends a bug report by email."
 msgstr "Хата турында хисап җибәрү."
 
-#: ksendbugmail/main.cpp:76
+#: ksendbugmail/main.cpp:75
 #, fuzzy, kde-format
 #| msgid "The size of the dialog"
 msgid "The subject line of the email."
 msgstr "Диалогның зурлыгы"
 
-#: ksendbugmail/main.cpp:78
+#: ksendbugmail/main.cpp:77
 #, fuzzy, kde-format
 #| msgid "The email address this bug report is sent to."
 msgid "The email address to send the bug report to."
@@ -1271,46 +1271,46 @@ msgstr "Тычканның ишарә төймәсе"
 msgid "Mouse Shape Gesture"
 msgstr "Тычканның ишарә сыны"
 
-#: kshortcutseditor.cpp:546
+#: kshortcutseditor.cpp:545
 #, kde-format
 msgctxt "header for an applications shortcut list"
 msgid "Shortcuts for %1"
 msgstr "%1 өчен төймә тезмәсе"
 
 #. i18n: ectx: property (text), widget (QLabel, priLabel)
-#: kshortcutseditor.cpp:562 kshortcutwidget.ui:22
+#: kshortcutseditor.cpp:561 kshortcutwidget.ui:22
 #, kde-format
 msgid "Main:"
 msgstr "Баш:"
 
 #. i18n: ectx: property (text), widget (QLabel, altLabel)
-#: kshortcutseditor.cpp:563 kshortcutwidget.ui:52
+#: kshortcutseditor.cpp:562 kshortcutwidget.ui:52
 #, kde-format
 msgid "Alternate:"
 msgstr "Өстәмә:"
 
-#: kshortcutseditor.cpp:564
+#: kshortcutseditor.cpp:563
 #, kde-format
 msgid "Global:"
 msgstr "Глобаль:"
 
-#: kshortcutseditor.cpp:565
+#: kshortcutseditor.cpp:564
 #, fuzzy, kde-format
 #| msgid "Global Alternate"
 msgid "Global alternate:"
 msgstr "Глобаль өстәмә"
 
-#: kshortcutseditor.cpp:581
+#: kshortcutseditor.cpp:580
 #, kde-format
 msgid "Action Name"
 msgstr "Гамәлнең исеме"
 
-#: kshortcutseditor.cpp:585
+#: kshortcutseditor.cpp:584
 #, kde-format
 msgid "Shortcuts"
 msgstr "Төймә тезмәләре"
 
-#: kshortcutseditor.cpp:589
+#: kshortcutseditor.cpp:588
 #, kde-format
 msgid "Description"
 msgstr "Тасвирлама"
