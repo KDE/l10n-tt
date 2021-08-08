@@ -18,6 +18,51 @@ msgstr ""
 "X-Generator: Lokalize 1.2\n"
 "X-Qt-Contexts: true\n"
 
+#: lib/io/kfilesystemtype.cpp:166
+msgctxt "KFileSystemType|"
+msgid "NFS"
+msgstr ""
+
+#: lib/io/kfilesystemtype.cpp:168
+msgctxt "KFileSystemType|"
+msgid "SMB"
+msgstr ""
+
+#: lib/io/kfilesystemtype.cpp:170
+msgctxt "KFileSystemType|"
+msgid "FAT"
+msgstr ""
+
+#: lib/io/kfilesystemtype.cpp:172
+msgctxt "KFileSystemType|"
+msgid "RAMFS"
+msgstr ""
+
+#: lib/io/kfilesystemtype.cpp:174
+#, fuzzy
+#| msgctxt "@item Text character set"
+#| msgid "Other"
+msgctxt "KFileSystemType|"
+msgid "Other"
+msgstr "Башкалар"
+
+#: lib/io/kfilesystemtype.cpp:176
+msgctxt "KFileSystemType|"
+msgid "NTFS"
+msgstr ""
+
+#: lib/io/kfilesystemtype.cpp:178
+msgctxt "KFileSystemType|"
+msgid "ExFAT"
+msgstr ""
+
+#: lib/io/kfilesystemtype.cpp:180
+#, fuzzy
+#| msgid "Unknown"
+msgctxt "KFileSystemType|"
+msgid "Unknown"
+msgstr "Билгесез"
+
 #: lib/kaboutdata.cpp:264
 #, fuzzy
 #| msgid ""
@@ -2350,10 +2395,6 @@ msgstr ""
 #~ msgid "Northern Saami"
 #~ msgstr "Төньяк Саами"
 
-#~ msgctxt "@item Text character set"
-#~ msgid "Other"
-#~ msgstr "Башкалар"
-
 #~ msgctxt "@item %1 character set, %2 encoding"
 #~ msgid "%1 ( %2 )"
 #~ msgstr "%1 ( %2 )"
@@ -4630,9 +4671,6 @@ msgstr ""
 
 #~ msgid "Mouse Shape Gesture"
 #~ msgstr "Тычканның ишарә сыны"
-
-#~ msgid "Unknown"
-#~ msgstr "Билгесез"
 
 #~ msgid "Key Conflict"
 #~ msgstr "Төймәләр бәрелештә"

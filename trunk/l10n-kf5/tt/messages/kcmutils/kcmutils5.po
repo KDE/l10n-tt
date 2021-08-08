@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-22 00:13+0000\n"
+"POT-Creation-Date: 2021-08-08 00:13+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -118,7 +118,7 @@ msgstr ""
 msgid "Apply Settings"
 msgstr "Көйләүләрне куллану"
 
-#: kcmultidialog.cpp:245 kpluginselector.cpp:806
+#: kcmultidialog.cpp:245 kpluginselector.cpp:805
 #, kde-format
 msgid "Configure"
 msgstr "Көйләү"
@@ -142,7 +142,7 @@ msgstr ""
 "Для удовлетворения зависимости расширения будут предприняты следующие "
 "автоматические изменения:\n"
 
-#: kpluginselector.cpp:201
+#: kpluginselector.cpp:203
 #, kde-format
 msgid ""
 "\n"
@@ -162,37 +162,37 @@ msgstr ""
 "\n"
 "    Расширение %1 не будет выбрано, так как зависит от расширения %2"
 
-#: kpluginselector.cpp:210
+#: kpluginselector.cpp:209
 #, kde-format
 msgid "Dependency Check"
 msgstr "Буйсынучыларга тикшерү"
 
-#: kpluginselector.cpp:228
+#: kpluginselector.cpp:227
 #, kde-format
 msgid "%1 plugin automatically added due to plugin dependencies"
 msgid_plural "%1 plugins automatically added due to plugin dependencies"
 msgstr[0] "%1 расширение автоматически добавлено при проверке зависимостей"
 msgstr[1] "%1 расширения автоматически добавлены при проверке зависимостей"
 
-#: kpluginselector.cpp:232
+#: kpluginselector.cpp:231
 #, kde-format
 msgid ", "
 msgstr ", "
 
-#: kpluginselector.cpp:236
+#: kpluginselector.cpp:235
 #, kde-format
 msgid "%1 plugin automatically removed due to plugin dependencies"
 msgid_plural "%1 plugins automatically removed due to plugin dependencies"
 msgstr[0] "%1 расширение автоматически удалено при проверке зависимостей"
 msgstr[1] "%1 расширения автоматически удалены при проверке зависимостей"
 
-#: kpluginselector.cpp:258
+#: kpluginselector.cpp:257
 #, fuzzy, kde-format
 #| msgid "Search"
 msgid "Search..."
 msgstr "Поиск"
 
-#: kpluginselector.cpp:801
+#: kpluginselector.cpp:800
 #, fuzzy, kde-format
 #| msgid "&About"
 msgid "About"
