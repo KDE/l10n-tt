@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-06 02:33+0100\n"
+"POT-Creation-Date: 2021-08-14 00:14+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -27,12 +27,12 @@ msgstr "PTY'ны укып булмады"
 msgid "Error writing to PTY"
 msgstr "PTY'га язып булмады"
 
-#: kptydevice.cpp:404
+#: kptydevice.cpp:405
 #, kde-format
 msgid "PTY operation timed out"
 msgstr "PTY гамәленең ахырын көтү вакыты үтте"
 
-#: kptydevice.cpp:463 kptydevice.cpp:477
+#: kptydevice.cpp:464 kptydevice.cpp:478
 #, kde-format
 msgid "Error opening PTY"
 msgstr "PTY'ны ачу хатасы"
