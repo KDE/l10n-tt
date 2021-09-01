@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-12-16 02:04+0000\n"
+"POT-Creation-Date: 2021-09-01 00:28+0000\n"
 "PO-Revision-Date: 2012-01-14 21:54+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <kde-i18n-doc@kde.org>\n"
@@ -316,6 +316,11 @@ msgstr "Маратхи"
 msgctxt "Name"
 msgid "Malay"
 msgstr "Малай"
+
+#: my/messages/kconfigwidgets/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Burmese"
+msgstr ""
 
 #: nb/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
