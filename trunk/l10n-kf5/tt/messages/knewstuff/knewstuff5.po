@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-18 00:14+0000\n"
+"POT-Creation-Date: 2021-09-04 00:14+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -823,14 +823,14 @@ msgstr ""
 msgid "Download New %1..."
 msgstr "Әсбапларны кабул итү..."
 
-#: qtquick/qml/Dialog.qml:42
+#: qtquick/qml/Dialog.qml:41
 #, fuzzy, kde-format
 #| msgid "Download New Stuff..."
 msgctxt "The dialog title when we know which type of stuff is being requested"
 msgid "Download New %1"
 msgstr "Әсбапларны кабул итү..."
 
-#: qtquick/qml/Dialog.qml:42
+#: qtquick/qml/Dialog.qml:41
 #, fuzzy, kde-format
 #| msgid "Download New Stuff..."
 msgctxt ""
@@ -839,7 +839,7 @@ msgctxt ""
 msgid "Download New Stuff"
 msgstr "Әсбапларны кабул итү..."
 
-#: qtquick/qml/Dialog.qml:128
+#: qtquick/qml/Dialog.qml:127
 #, fuzzy, kde-format
 #| msgid "Continue operation"
 msgid "Contribute your own..."
