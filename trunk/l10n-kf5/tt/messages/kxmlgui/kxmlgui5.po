@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-12 00:15+0000\n"
+"POT-Creation-Date: 2021-09-13 00:15+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -63,7 +63,7 @@ msgctxt "@title:window"
 msgid "About %1"
 msgstr "%1 турында"
 
-#: kaboutapplicationdialog.cpp:98 kaboutplugindialog.cpp:83
+#: kaboutapplicationdialog.cpp:98 kaboutplugindialog.cpp:91
 #, fuzzy, kde-format
 #| msgid "&About"
 msgctxt "@title:tab"
@@ -77,7 +77,7 @@ msgctxt "@title:tab"
 msgid "Components"
 msgstr "Фикерләр"
 
-#: kaboutapplicationdialog.cpp:117 kaboutplugindialog.cpp:91
+#: kaboutapplicationdialog.cpp:117 kaboutplugindialog.cpp:99
 #, fuzzy, kde-format
 #| msgid "Author"
 msgctxt "@title:tab"
@@ -86,14 +86,14 @@ msgid_plural "Authors"
 msgstr[0] "Автор"
 msgstr[1] "Автор"
 
-#: kaboutapplicationdialog.cpp:124 kaboutplugindialog.cpp:98
+#: kaboutapplicationdialog.cpp:124 kaboutplugindialog.cpp:106
 #, fuzzy, kde-format
 #| msgid "&Thanks To"
 msgctxt "@title:tab"
 msgid "Thanks To"
 msgstr "&Рәхмәтләр"
 
-#: kaboutapplicationdialog.cpp:131 kaboutplugindialog.cpp:104
+#: kaboutapplicationdialog.cpp:131 kaboutplugindialog.cpp:112
 #, fuzzy, kde-format
 #| msgid "Translation"
 msgctxt "@title:tab"
