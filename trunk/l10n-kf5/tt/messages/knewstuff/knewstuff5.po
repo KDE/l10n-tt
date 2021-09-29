@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-15 00:15+0000\n"
+"POT-Creation-Date: 2021-09-29 00:14+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -216,7 +216,7 @@ msgid_plural "Loading %1 previews"
 msgstr[0] "%1 кече сүрәтне кабул итү..."
 msgstr[1] "%1 кече сүрәтне кабул итү..."
 
-#: core/engine.cpp:1216
+#: core/engine.cpp:1215
 #, fuzzy, kde-format
 #| msgid "Failed to load file '%1'"
 msgid ""
