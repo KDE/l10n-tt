@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-14 00:14+0000\n"
+"POT-Creation-Date: 2021-10-24 00:14+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -148,18 +148,25 @@ msgstr "Рөхсәт итү"
 msgid "Reject"
 msgstr "Кире кагу"
 
-#: partloader.cpp:184
+#: partloader.cpp:183
 #, fuzzy, kde-format
 #| msgid ""
 #| "The service '%1' does not provide an interface '%2' with keyword '%3'"
 msgid "The plugin '%1' does not provide an interface '%2' with keyword '%3'"
 msgstr "Служба «%1» не предоставляет интерфейс «%2» с ключевыми словами «%3»."
 
-#: partloader.cpp:201
+#: partloader.cpp:200 partloader.h:106
 #, fuzzy, kde-format
 #| msgid "No handler found for %1."
 msgid "No part was found for mimeType %1"
 msgstr "%1 өчен эшкәрткеч табылмады."
+
+#: partloader.h:97
+#, fuzzy, kde-format
+#| msgid ""
+#| "The service '%1' does not provide an interface '%2' with keyword '%3'"
+msgid "The plugin '%1' does not provide an interface '%2'"
+msgstr "Служба «%1» не предоставляет интерфейс «%2» с ключевыми словами «%3»."
 
 #: readwritepart.cpp:80
 #, kde-format
