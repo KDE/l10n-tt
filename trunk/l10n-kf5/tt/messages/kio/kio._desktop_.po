@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-23 00:37+0000\n"
+"POT-Creation-Date: 2021-11-26 00:35+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -924,7 +924,7 @@ msgctxt "Name"
 msgid "KDE Invent"
 msgstr "KDE өлеше"
 
-#: src/urifilters/ikws/searchproviders/invent.desktop:24
+#: src/urifilters/ikws/searchproviders/invent.desktop:25
 msgctxt "Query"
 msgid "https://invent.kde.org/search?search=\\\\{@}"
 msgstr ""
@@ -934,7 +934,7 @@ msgctxt "Name"
 msgid "KDE Invent Repositories"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_repo.desktop:24
+#: src/urifilters/ikws/searchproviders/invent_repo.desktop:25
 msgctxt "Query"
 msgid "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
 msgstr ""
