@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-30 00:41+0000\n"
+"POT-Creation-Date: 2022-04-24 00:40+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -124,7 +124,7 @@ msgstr ""
 msgid "Apply Settings"
 msgstr "Көйләүләрне куллану"
 
-#: kcmultidialog.cpp:258 kpluginselector.cpp:809 kpluginwidget.cpp:365
+#: kcmultidialog.cpp:258 kpluginselector.cpp:809 kpluginwidget.cpp:327
 #, kde-format
 msgid "Configure"
 msgstr "Көйләү"
@@ -192,13 +192,13 @@ msgid_plural "%1 plugins automatically removed due to plugin dependencies"
 msgstr[0] "%1 расширение автоматически удалено при проверке зависимостей"
 msgstr[1] "%1 расширения автоматически удалены при проверке зависимостей"
 
-#: kpluginselector.cpp:264 kpluginwidget.cpp:57
+#: kpluginselector.cpp:264 kpluginwidget.cpp:59
 #, fuzzy, kde-format
 #| msgid "Search"
 msgid "Search..."
 msgstr "Поиск"
 
-#: kpluginselector.cpp:804 kpluginwidget.cpp:360
+#: kpluginselector.cpp:804 kpluginwidget.cpp:322
 #, fuzzy, kde-format
 #| msgid "&About"
 msgid "About"
@@ -208,6 +208,73 @@ msgstr "KDE &чолганышы турында"
 #, kde-format
 msgid "Enable component"
 msgstr "Компонентны эшләтү"
+
+#: qml/components/KPluginDelegate.qml:45
+#, fuzzy, kde-format
+#| msgid "&About"
+msgctxt "@info:tooltip"
+msgid "About"
+msgstr "KDE &чолганышы турында"
+
+#: qml/components/KPluginDelegate.qml:56
+#, fuzzy, kde-format
+#| msgid "Confi&gure..."
+msgctxt "@info:tooltip"
+msgid "Configure..."
+msgstr "&Көйләү..."
+
+#: qml/components/KPluginSelector.qml:78
+#, kde-format
+msgid "No matches"
+msgstr ""
+
+#: qml/components/KPluginSelector.qml:78
+#, fuzzy, kde-format
+#| msgid "Not found"
+msgid "No plugins found"
+msgstr "Табылмады"
+
+#: qml/components/private/AboutPlugin.qml:42
+#, fuzzy, kde-format
+#| msgctxt "concatenation of dates and time"
+#| msgid "%1 %2"
+msgctxt "Plugin name and plugin version"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: qml/components/private/AboutPlugin.qml:64
+#, fuzzy, kde-format
+#| msgid "Copy"
+msgid "Copyright"
+msgstr "Күчереп язу"
+
+#: qml/components/private/AboutPlugin.qml:81
+#, kde-format
+msgid "License:"
+msgstr "Лицензия:"
+
+#: qml/components/private/AboutPlugin.qml:100
+#, fuzzy, kde-format
+#| msgid "A&uthors"
+msgid "Authors"
+msgstr "&Авторлар"
+
+#: qml/components/private/AboutPlugin.qml:117
+#, kde-format
+msgid "Credits"
+msgstr ""
+
+#: qml/components/private/AboutPlugin.qml:134
+#, fuzzy, kde-format
+#| msgid "Translation"
+msgid "Translators"
+msgstr "Тәрҗемә"
+
+#: qml/components/private/AboutPlugin.qml:161
+#, fuzzy, kde-format
+#| msgid "&Send Email"
+msgid "Send an email to %1"
+msgstr "&Е-mail тапшыру"
 
 #~ msgid "Distance between desktop icons"
 #~ msgstr "Эш өстәлендәге билгечекләрнең арасы"
@@ -472,9 +539,6 @@ msgstr "Компонентны эшләтү"
 
 #~ msgid "A&uthor"
 #~ msgstr "А&втор"
-
-#~ msgid "A&uthors"
-#~ msgstr "&Авторлар"
 
 #~ msgid ""
 #~ "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to "
@@ -2024,10 +2088,6 @@ msgstr "Компонентны эшләтү"
 
 #~ msgid "Yesterday"
 #~ msgstr "Кичә"
-
-#~ msgctxt "concatenation of dates and time"
-#~ msgid "%1 %2"
-#~ msgstr "%1 %2"
 
 #~ msgctxt "concatenation of date/time and time zone"
 #~ msgid "%1 %2"
@@ -3637,9 +3697,6 @@ msgstr "Компонентны эшләтү"
 
 #~ msgid "Wishlist"
 #~ msgstr "Теләк"
-
-#~ msgid "Translation"
-#~ msgstr "Тәрҗемә"
 
 #~ msgid "S&ubject: "
 #~ msgstr "&Тема: "
@@ -5354,9 +5411,6 @@ msgstr "Компонентны эшләтү"
 #~ msgid "Front"
 #~ msgstr "Фронт"
 
-#~ msgid "Copy"
-#~ msgstr "Күчереп язу"
-
 #~ msgid "Open"
 #~ msgstr "Ачу"
 
@@ -5502,9 +5556,6 @@ msgstr "Компонентны эшләтү"
 #~ msgctxt "Verb"
 #~ msgid "&Insert"
 #~ msgstr "&Кертелеш"
-
-#~ msgid "Confi&gure..."
-#~ msgstr "&Көйләү..."
 
 #~ msgid "Add"
 #~ msgstr "Өстәү"
@@ -7790,9 +7841,6 @@ msgstr "Компонентны эшләтү"
 #~ "Форманың мәгълүматлар сайтка электрон почта тапшырып каралган.\n"
 #~ "Чыннан да дәвам иттерергәме?"
 
-#~ msgid "&Send Email"
-#~ msgstr "&Е-mail тапшыру"
-
 #~ msgid ""
 #~ "<qt>The form will be submitted to <br /><b>%1</b><br />on your local "
 #~ "filesystem.<br />Do you want to submit the form?</qt>"
@@ -8149,9 +8197,6 @@ msgstr "Компонентны эшләтү"
 
 #~ msgid "Find &links only"
 #~ msgstr "Сылтамаларны гына эзләү"
-
-#~ msgid "Not found"
-#~ msgstr "Табылмады"
 
 #~ msgid "No more matches for this search direction."
 #~ msgstr "Не найдено вхождений в выбранном направлении"
@@ -8810,9 +8855,6 @@ msgstr "Компонентны эшләтү"
 
 #~ msgid "Email address:"
 #~ msgstr "E-Mail адресы:"
-
-#~ msgid "License:"
-#~ msgstr "Лицензия:"
 
 #~ msgid "GPL"
 #~ msgstr "GPL"
