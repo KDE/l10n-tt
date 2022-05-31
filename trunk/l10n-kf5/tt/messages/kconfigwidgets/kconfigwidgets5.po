@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-03 00:40+0000\n"
+"POT-Creation-Date: 2022-05-31 00:42+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -344,7 +344,9 @@ msgid "&Replace..."
 msgstr "&Алыштыру..."
 
 #: kstandardaction_p.h:58
-msgid "&Actual Size"
+#, fuzzy
+#| msgid "&Actual Size"
+msgid "Zoom to &Actual Size"
 msgstr "&Фактик зурлык"
 
 #: kstandardaction_p.h:58
