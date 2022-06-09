@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-01 00:44+0000\n"
+"POT-Creation-Date: 2022-06-09 00:44+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1366,46 +1366,46 @@ msgstr "Тычканның ишарә төймәсе"
 msgid "Mouse Shape Gesture"
 msgstr "Тычканның ишарә сыны"
 
-#: kshortcutseditor.cpp:547
+#: kshortcutseditor.cpp:557
 #, kde-format
 msgctxt "header for an applications shortcut list"
 msgid "Shortcuts for %1"
 msgstr "%1 өчен төймә тезмәсе"
 
 #. i18n: ectx: property (text), widget (QLabel, priLabel)
-#: kshortcutseditor.cpp:563 kshortcutwidget.ui:22
+#: kshortcutseditor.cpp:573 kshortcutwidget.ui:22
 #, kde-format
 msgid "Main:"
 msgstr "Баш:"
 
 #. i18n: ectx: property (text), widget (QLabel, altLabel)
-#: kshortcutseditor.cpp:564 kshortcutwidget.ui:52
+#: kshortcutseditor.cpp:574 kshortcutwidget.ui:52
 #, kde-format
 msgid "Alternate:"
 msgstr "Өстәмә:"
 
-#: kshortcutseditor.cpp:565
+#: kshortcutseditor.cpp:575
 #, kde-format
 msgid "Global:"
 msgstr "Глобаль:"
 
-#: kshortcutseditor.cpp:566
+#: kshortcutseditor.cpp:576
 #, fuzzy, kde-format
 #| msgid "Global Alternate"
 msgid "Global alternate:"
 msgstr "Глобаль өстәмә"
 
-#: kshortcutseditor.cpp:582
+#: kshortcutseditor.cpp:592
 #, kde-format
 msgid "Action Name"
 msgstr "Гамәлнең исеме"
 
-#: kshortcutseditor.cpp:586
+#: kshortcutseditor.cpp:596
 #, kde-format
 msgid "Shortcuts"
 msgstr "Төймә тезмәләре"
 
-#: kshortcutseditor.cpp:590
+#: kshortcutseditor.cpp:600
 #, kde-format
 msgid "Description"
 msgstr "Тасвирлама"
