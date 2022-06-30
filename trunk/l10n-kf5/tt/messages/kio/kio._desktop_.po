@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-26 00:54+0000\n"
+"POT-Creation-Date: 2022-06-30 00:54+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -200,6 +200,17 @@ msgctxt "Comment"
 msgid "Enter folder name:"
 msgstr ""
 
+#: src/new_file_templates/EmptyFile.desktop:2
+msgctxt "Name"
+msgid "Empty File..."
+msgstr ""
+
+#: src/new_file_templates/EmptyFile.desktop:5
+#: src/new_file_templates/TextFile.desktop:92
+msgctxt "Comment"
+msgid "Enter text filename:"
+msgstr ""
+
 #: src/new_file_templates/HTMLFile.desktop:2
 msgctxt "Name"
 msgid "HTML File..."
@@ -243,11 +254,6 @@ msgstr ""
 #: src/new_file_templates/TextFile.desktop:2
 msgctxt "Name"
 msgid "Text File..."
-msgstr ""
-
-#: src/new_file_templates/TextFile.desktop:92
-msgctxt "Comment"
-msgid "Enter text filename:"
 msgstr ""
 
 #: src/urifilters/ikws/searchprovider.desktop:4
