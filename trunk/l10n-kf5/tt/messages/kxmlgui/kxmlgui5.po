@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-16 00:43+0000\n"
+"POT-Creation-Date: 2022-07-03 00:42+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1248,39 +1248,39 @@ msgid ""
 "Note that this will not remove any system wide shortcut schemes."
 msgstr "«%1» схемасын бетерергәме?"
 
-#: kshortcutschemeseditor.cpp:169
+#: kshortcutschemeseditor.cpp:172
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
 msgctxt "@title:window"
 msgid "Export Shortcuts"
 msgstr "Төймә тезмәләре"
 
-#: kshortcutschemeseditor.cpp:169 kshortcutschemeseditor.cpp:180
+#: kshortcutschemeseditor.cpp:172 kshortcutschemeseditor.cpp:183
 #, fuzzy, kde-format
 #| msgctxt "header for an applications shortcut list"
 #| msgid "Shortcuts for %1"
 msgid "Shortcuts (*.shortcuts)"
 msgstr "%1 өчен төймә тезмәсе"
 
-#: kshortcutschemeseditor.cpp:180
+#: kshortcutschemeseditor.cpp:183
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
 msgctxt "@title:window"
 msgid "Import Shortcuts"
 msgstr "Төймә тезмәләре"
 
-#: kshortcutschemeseditor.cpp:191
+#: kshortcutschemeseditor.cpp:194
 #, fuzzy, kde-format
 #| msgid "The removal request was successfully registered."
 msgid "Shortcut scheme successfully saved."
 msgstr "Бетерүгә таләп теркәлде."
 
-#: kshortcutschemeseditor.cpp:194
+#: kshortcutschemeseditor.cpp:197
 #, kde-format
 msgid "Error saving the shortcut scheme."
 msgstr ""
 
-#: kshortcutsdialog.cpp:69
+#: kshortcutsdialog.cpp:70
 #, kde-format
 msgid ""
 "The current shortcut scheme is modified. Save before switching to the new "
@@ -1289,13 +1289,13 @@ msgstr ""
 "Схемаларның хәзерге бәйләнүе үзгәртелде. Икенче схемага күчүгә кадәр "
 "үзгәрешләрне сакларгамы?"
 
-#: kshortcutsdialog.cpp:119
+#: kshortcutsdialog.cpp:124
 #, fuzzy, kde-format
 #| msgid "New Scheme"
 msgid "Manage &Schemes"
 msgstr "Яңа схема"
 
-#: kshortcutsdialog.cpp:144
+#: kshortcutsdialog.cpp:149
 #, fuzzy, kde-format
 #| msgid "Configure Shortcuts"
 msgctxt "@title:window"
