@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-22 00:41+0000\n"
+"POT-Creation-Date: 2022-07-07 00:41+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1330,6 +1330,15 @@ msgstr "Урнаштыру"
 msgctxt "Title for a dialog box which shows error messages"
 msgid "An Error Occurred"
 msgstr ""
+
+#: qtquick/qml/private/ErrorDisplayer.qml:51
+#, fuzzy, kde-format
+#| msgid "Please put in a name."
+msgid ""
+"\n"
+"\n"
+"Please try again later."
+msgstr "Исем кертегез."
 
 #: qtquick/qml/private/GridTileDelegate.qml:113
 #, fuzzy, kde-format
@@ -10069,9 +10078,6 @@ msgstr "<p>Кабул итү саны: %1</p>\n"
 
 #~ msgid "No provider selected."
 #~ msgstr "Тәэмин итүче сайланмаган."
-
-#~ msgid "Please put in a name."
-#~ msgstr "Исем кертегез."
 
 #~ msgid "Old upload information found, fill out fields?"
 #~ msgstr "Баштагы нәшер итүнең параметрлары табылды. Аларны кулланыргамы?"
