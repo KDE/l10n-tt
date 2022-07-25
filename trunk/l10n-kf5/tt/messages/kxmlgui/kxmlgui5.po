@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-15 00:42+0000\n"
+"POT-Creation-Date: 2022-07-25 00:43+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1220,63 +1220,63 @@ msgctxt "@action:inmenu"
 msgid "Import Scheme..."
 msgstr "Схеманы чыгару..."
 
-#: kshortcutschemeseditor.cpp:108
+#: kshortcutschemeseditor.cpp:109
 #, fuzzy, kde-format
 #| msgid "Name for New Scheme"
 msgctxt "@title:window"
 msgid "Name for New Scheme"
 msgstr "Яңа схеманың исеме"
 
-#: kshortcutschemeseditor.cpp:108
+#: kshortcutschemeseditor.cpp:109
 #, kde-format
 msgid "Name for new scheme:"
 msgstr "Яңа схеманың исеме:"
 
-#: kshortcutschemeseditor.cpp:108
+#: kshortcutschemeseditor.cpp:109
 #, kde-format
 msgid "New Scheme"
 msgstr "Яңа схема"
 
-#: kshortcutschemeseditor.cpp:114
+#: kshortcutschemeseditor.cpp:115
 #, kde-format
 msgid "A scheme with this name already exists."
 msgstr "Мондый исемле схема инде бар."
 
-#: kshortcutschemeseditor.cpp:144
+#: kshortcutschemeseditor.cpp:145
 #, kde-format
 msgid ""
 "Do you really want to delete the scheme %1?\n"
 "Note that this will not remove any system wide shortcut schemes."
 msgstr "«%1» схемасын бетерергәме?"
 
-#: kshortcutschemeseditor.cpp:180
+#: kshortcutschemeseditor.cpp:181
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
 msgctxt "@title:window"
 msgid "Export Shortcuts"
 msgstr "Төймә тезмәләре"
 
-#: kshortcutschemeseditor.cpp:180 kshortcutschemeseditor.cpp:191
+#: kshortcutschemeseditor.cpp:181 kshortcutschemeseditor.cpp:192
 #, fuzzy, kde-format
 #| msgctxt "header for an applications shortcut list"
 #| msgid "Shortcuts for %1"
 msgid "Shortcuts (*.shortcuts)"
 msgstr "%1 өчен төймә тезмәсе"
 
-#: kshortcutschemeseditor.cpp:191
+#: kshortcutschemeseditor.cpp:192
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
 msgctxt "@title:window"
 msgid "Import Shortcuts"
 msgstr "Төймә тезмәләре"
 
-#: kshortcutschemeseditor.cpp:202
+#: kshortcutschemeseditor.cpp:203
 #, fuzzy, kde-format
 #| msgid "The removal request was successfully registered."
 msgid "Shortcut scheme successfully saved."
 msgstr "Бетерүгә таләп теркәлде."
 
-#: kshortcutschemeseditor.cpp:205
+#: kshortcutschemeseditor.cpp:206
 #, kde-format
 msgid "Error saving the shortcut scheme."
 msgstr ""
