@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-25 00:43+0000\n"
+"POT-Creation-Date: 2022-07-26 00:42+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1174,109 +1174,109 @@ msgctxt "@title:group"
 msgid "Shortcut Schemes"
 msgstr "Бәйләнү схемалары"
 
-#: kshortcutschemeseditor.cpp:57
+#: kshortcutschemeseditor.cpp:37
 #, kde-format
 msgid "Current scheme:"
 msgstr "Хәзерге схема:"
 
-#: kshortcutschemeseditor.cpp:73
+#: kshortcutschemeseditor.cpp:47
 #, fuzzy, kde-format
 #| msgid "New..."
 msgctxt "@action:button"
 msgid "New..."
 msgstr "Яңа..."
 
-#: kshortcutschemeseditor.cpp:76
+#: kshortcutschemeseditor.cpp:50
 #, kde-format
 msgctxt "@action:button"
 msgid "Delete"
 msgstr "Бетерү"
 
-#: kshortcutschemeseditor.cpp:79
+#: kshortcutschemeseditor.cpp:53
 #, fuzzy, kde-format
 #| msgid "More Actions"
 msgctxt "@action:button"
 msgid "More Actions"
 msgstr "Башка гамәлләр"
 
-#: kshortcutschemeseditor.cpp:84
+#: kshortcutschemeseditor.cpp:58
 #, fuzzy, kde-format
 #| msgid "Shortcut Schemes"
 msgctxt "@action:inmenu"
 msgid "Save shortcuts to scheme"
 msgstr "Бәйләнү схемалары"
 
-#: kshortcutschemeseditor.cpp:88
+#: kshortcutschemeseditor.cpp:62
 #, fuzzy, kde-format
 #| msgid "Export Scheme..."
 msgctxt "@action:inmenu"
 msgid "Export Scheme..."
 msgstr "Схеманы чыгару..."
 
-#: kshortcutschemeseditor.cpp:92
+#: kshortcutschemeseditor.cpp:66
 #, fuzzy, kde-format
 #| msgid "Export Scheme..."
 msgctxt "@action:inmenu"
 msgid "Import Scheme..."
 msgstr "Схеманы чыгару..."
 
-#: kshortcutschemeseditor.cpp:109
+#: kshortcutschemeseditor.cpp:115
 #, fuzzy, kde-format
 #| msgid "Name for New Scheme"
 msgctxt "@title:window"
 msgid "Name for New Scheme"
 msgstr "Яңа схеманың исеме"
 
-#: kshortcutschemeseditor.cpp:109
+#: kshortcutschemeseditor.cpp:115
 #, kde-format
 msgid "Name for new scheme:"
 msgstr "Яңа схеманың исеме:"
 
-#: kshortcutschemeseditor.cpp:109
+#: kshortcutschemeseditor.cpp:115
 #, kde-format
 msgid "New Scheme"
 msgstr "Яңа схема"
 
-#: kshortcutschemeseditor.cpp:115
+#: kshortcutschemeseditor.cpp:121
 #, kde-format
 msgid "A scheme with this name already exists."
 msgstr "Мондый исемле схема инде бар."
 
-#: kshortcutschemeseditor.cpp:145
+#: kshortcutschemeseditor.cpp:151
 #, kde-format
 msgid ""
 "Do you really want to delete the scheme %1?\n"
 "Note that this will not remove any system wide shortcut schemes."
 msgstr "«%1» схемасын бетерергәме?"
 
-#: kshortcutschemeseditor.cpp:181
+#: kshortcutschemeseditor.cpp:187
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
 msgctxt "@title:window"
 msgid "Export Shortcuts"
 msgstr "Төймә тезмәләре"
 
-#: kshortcutschemeseditor.cpp:181 kshortcutschemeseditor.cpp:192
+#: kshortcutschemeseditor.cpp:187 kshortcutschemeseditor.cpp:198
 #, fuzzy, kde-format
 #| msgctxt "header for an applications shortcut list"
 #| msgid "Shortcuts for %1"
 msgid "Shortcuts (*.shortcuts)"
 msgstr "%1 өчен төймә тезмәсе"
 
-#: kshortcutschemeseditor.cpp:192
+#: kshortcutschemeseditor.cpp:198
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
 msgctxt "@title:window"
 msgid "Import Shortcuts"
 msgstr "Төймә тезмәләре"
 
-#: kshortcutschemeseditor.cpp:203
+#: kshortcutschemeseditor.cpp:209
 #, fuzzy, kde-format
 #| msgid "The removal request was successfully registered."
 msgid "Shortcut scheme successfully saved."
 msgstr "Бетерүгә таләп теркәлде."
 
-#: kshortcutschemeseditor.cpp:206
+#: kshortcutschemeseditor.cpp:212
 #, kde-format
 msgid "Error saving the shortcut scheme."
 msgstr ""
