@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-06 00:41+0000\n"
+"POT-Creation-Date: 2022-08-06 00:42+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1592,11 +1592,6 @@ msgstr "Новое сокращение Веб"
 msgid "%1 is already assigned to %2"
 msgstr "%1 уже назначено для %2"
 
-#: rendering/render_form.cpp:922
-#, kde-format
-msgid "Error"
-msgstr "Хата"
-
 #: rendering/render_form.cpp:968
 #, kde-format
 msgid "Search &provider name:"
@@ -1734,6 +1729,9 @@ msgstr "эшкәртүдә тәнкыйть хата: %1 %2 юлында, поз
 #, kde-format
 msgid "XML parsing error"
 msgstr "XML файлын уку вакытында хата килеп чыкты"
+
+#~ msgid "Error"
+#~ msgstr "Хата"
 
 #~ msgid "Initializing Applet \"%1\"..."
 #~ msgstr "«%1» аплеты ачыла..."
