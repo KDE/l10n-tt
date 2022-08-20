@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-14 00:55+0000\n"
+"POT-Creation-Date: 2022-08-20 00:53+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -205,7 +205,7 @@ msgctxt "Name"
 msgid "Empty File..."
 msgstr ""
 
-#: src/new_file_templates/EmptyFile.desktop:34
+#: src/new_file_templates/EmptyFile.desktop:35
 #: src/new_file_templates/TextFile.desktop:92
 msgctxt "Comment"
 msgid "Enter text filename:"
@@ -444,7 +444,7 @@ msgctxt "Name"
 msgid "CPlusPlus"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/cplusplus.desktop:39
+#: src/urifilters/ikws/searchproviders/cplusplus.desktop:40
 msgctxt "Query"
 msgid "http://cplusplus.com/search.do?q=\\\\{@}"
 msgstr ""
@@ -1334,7 +1334,7 @@ msgctxt "Name"
 msgid "ProtonDB"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/protondb.desktop:39
+#: src/urifilters/ikws/searchproviders/protondb.desktop:40
 msgctxt "Query"
 msgid "https://www.protondb.com/search?q=\\\\{@}"
 msgstr ""
@@ -1764,7 +1764,7 @@ msgctxt "Name"
 msgid "Yandex"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yandex.desktop:36
+#: src/urifilters/ikws/searchproviders/yandex.desktop:37
 msgctxt "Query"
 msgid "https://yandex.ru/search/?text=\\\\{@}"
 msgstr ""
