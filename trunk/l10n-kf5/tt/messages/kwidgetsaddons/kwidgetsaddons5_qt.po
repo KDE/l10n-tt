@@ -2725,42 +2725,42 @@ msgctxt "KMessageBox|"
 msgid "Do not show this message again"
 msgstr "Бу хәбәрне башка күрсәтмәү"
 
-#: kmessagedialog.cpp:177
+#: kmessagedialog.cpp:179
 #, fuzzy
 #| msgid "Details"
 msgctxt "KMessageDialog|"
 msgid "Details"
 msgstr "Өстәмә"
 
-#: kmessagedialog.cpp:252
+#: kmessagedialog.cpp:254
 #, fuzzy
 #| msgid "Question"
 msgctxt "KMessageDialog|"
 msgid "Question"
 msgstr "Сорау"
 
-#: kmessagedialog.cpp:257
+#: kmessagedialog.cpp:259
 #, fuzzy
 #| msgid "Warning"
 msgctxt "KMessageDialog|"
 msgid "Warning"
 msgstr "Кисәтү"
 
-#: kmessagedialog.cpp:260
+#: kmessagedialog.cpp:262
 #, fuzzy
 #| msgid "Information"
 msgctxt "KMessageDialog|"
 msgid "Information"
 msgstr "Мәгълумат"
 
-#: kmessagedialog.cpp:264
+#: kmessagedialog.cpp:266
 #, fuzzy
 #| msgid "Sorry"
 msgctxt "KMessageDialog|"
 msgid "Sorry"
 msgstr "Ялгыш"
 
-#: kmessagedialog.cpp:268
+#: kmessagedialog.cpp:270
 #, fuzzy
 #| msgid "Error"
 msgctxt "KMessageDialog|"
