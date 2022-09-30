@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-13 00:42+0000\n"
+"POT-Creation-Date: 2022-09-30 00:40+0000\n"
 "PO-Revision-Date: 2011-11-26 15:12+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -117,37 +117,37 @@ msgstr "Язмасыз"
 msgid "Clear List"
 msgstr "Исемлекне чистарту"
 
-#: kstandardaction.cpp:158
+#: kstandardaction.cpp:157
 #, kde-format
 msgctxt "go back"
 msgid "&Back"
 msgstr "&Кире кайту"
 
-#: kstandardaction.cpp:165
+#: kstandardaction.cpp:164
 #, kde-format
 msgctxt "go forward"
 msgid "&Forward"
 msgstr "&Алга бару"
 
-#: kstandardaction.cpp:172
+#: kstandardaction.cpp:171
 #, kde-format
 msgctxt "home page"
 msgid "&Home"
 msgstr "&Башына күчү"
 
-#: kstandardaction.cpp:176
+#: kstandardaction.cpp:175
 #, kde-format
 msgctxt "show help"
 msgid "&Help"
 msgstr "Белешмә"
 
-#: kstandardaction.cpp:233
+#: kstandardaction.cpp:232
 #, kde-format
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr ""
 "Менюны чагылдыру<p>Качырылганнан соң менюны тагын бер тапкыр чагылдыру</p>"
 
-#: kstandardaction.cpp:254
+#: kstandardaction.cpp:253
 #, fuzzy, kde-format
 #| msgid ""
 #| "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
