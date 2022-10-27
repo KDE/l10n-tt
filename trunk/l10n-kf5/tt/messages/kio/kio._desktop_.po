@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-25 00:56+0000\n"
+"POT-Creation-Date: 2022-10-27 00:56+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -667,7 +667,7 @@ msgctxt "Name"
 msgid "Flatpak Documentation"
 msgstr "Name=KDE өстәмәсе турында мәгълүмат"
 
-#: src/urifilters/ikws/searchproviders/flatpak.desktop:45
+#: src/urifilters/ikws/searchproviders/flatpak.desktop:46
 msgctxt "Query"
 msgid ""
 "https://docs.flatpak.org/en/latest/search.html?q=\\\\{@}"
@@ -968,7 +968,7 @@ msgctxt "Name"
 msgid "KDE Invent Issues"
 msgstr "KDE өлеше"
 
-#: src/urifilters/ikws/searchproviders/invent_issues.desktop:43
+#: src/urifilters/ikws/searchproviders/invent_issues.desktop:44
 msgctxt "Query"
 msgid "https://invent.kde.org/search?scope=issues&search=\\\\{@}"
 msgstr ""
@@ -978,7 +978,7 @@ msgctxt "Name"
 msgid "KDE Invent Merge Requests"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_mr.desktop:42
+#: src/urifilters/ikws/searchproviders/invent_mr.desktop:43
 msgctxt "Query"
 msgid "https://invent.kde.org/search?scope=merge_requests&search=\\\\{@}"
 msgstr ""
@@ -1098,7 +1098,7 @@ msgctxt "Name"
 msgid "KDE Reddit"
 msgstr "KDE өлеше"
 
-#: src/urifilters/ikws/searchproviders/kreddit.desktop:45
+#: src/urifilters/ikws/searchproviders/kreddit.desktop:46
 msgctxt "Query"
 msgid "https://www.reddit.com/r/kde/search/?q=\\\\{@}&restrict_sr=1"
 msgstr ""
@@ -1108,7 +1108,7 @@ msgctxt "Name"
 msgid "Krita Manual"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/krita.desktop:45
+#: src/urifilters/ikws/searchproviders/krita.desktop:46
 msgctxt "Query"
 msgid "https://docs.krita.org/en/search.html?q=\\\\{@}"
 msgstr ""
@@ -1118,7 +1118,7 @@ msgctxt "Name"
 msgid "Learn CPP"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/learncpp.desktop:45
+#: src/urifilters/ikws/searchproviders/learncpp.desktop:46
 msgctxt "Query"
 msgid "https://www.learncpp.com/gsearch/?q=\\\\{@}"
 msgstr ""
@@ -1171,7 +1171,7 @@ msgctxt "Name"
 msgid "Microsoft C++ Documentation"
 msgstr "Name=KDE өстәмәсе турында мәгълүмат"
 
-#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:44
+#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:45
 msgctxt "Query"
 msgid "https://docs.microsoft.com/search/?terms=\\\\{@}&scope=C%2B%2B"
 msgstr ""
@@ -1294,7 +1294,7 @@ msgctxt "Name"
 msgid "openSUSE Software"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/opensuse.desktop:43
+#: src/urifilters/ikws/searchproviders/opensuse.desktop:44
 msgctxt "Query"
 msgid "https://software.opensuse.org/search?utf8=%E2%9C%93&q=\\\\{@}"
 msgstr ""
@@ -1349,7 +1349,7 @@ msgctxt "Name"
 msgid "Qt5 Online Documentation"
 msgstr "Name=KDE өстәмәсе турында мәгълүмат"
 
-#: src/urifilters/ikws/searchproviders/qt5.desktop:45
+#: src/urifilters/ikws/searchproviders/qt5.desktop:46
 msgctxt "Query"
 msgid "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
 msgstr ""
@@ -1362,7 +1362,7 @@ msgctxt "Name"
 msgid "Qt6 Online Documentation"
 msgstr "Name=KDE өстәмәсе турында мәгълүмат"
 
-#: src/urifilters/ikws/searchproviders/qt6.desktop:45
+#: src/urifilters/ikws/searchproviders/qt6.desktop:46
 msgctxt "Query"
 msgid "https://doc.qt.io/qt-6/search-results.html?q=\\\\{@}"
 msgstr ""
@@ -1570,7 +1570,7 @@ msgctxt "Name"
 msgid "Ubuntu Package Search"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/ubuntu.desktop:45
+#: src/urifilters/ikws/searchproviders/ubuntu.desktop:46
 msgctxt "Query"
 msgid "https://packages.ubuntu.com/\\\\{@}"
 msgstr ""
@@ -1664,7 +1664,7 @@ msgctxt "Name"
 msgid "WineHQ Database"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/wine.desktop:45
+#: src/urifilters/ikws/searchproviders/wine.desktop:46
 msgctxt "Query"
 msgid "https://www.winehq.org/search?q=\\\\{@}"
 msgstr ""
@@ -1792,7 +1792,7 @@ msgctxt "Name"
 msgid "C++"
 msgstr ""
 
-#: templates/kioworker/kioworker.kdevtemplate:32
+#: templates/kioworker/kioworker.kdevtemplate:33
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
