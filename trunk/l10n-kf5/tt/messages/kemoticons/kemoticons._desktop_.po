@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-24 01:07+0000\n"
+"POT-Creation-Date: 2023-03-23 00:54+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -29,7 +29,7 @@ msgctxt "Name"
 msgid "KDE Emoticons Theme"
 msgstr "KDE көлчекләр җыелмасы"
 
-#: src/providers/kde/emoticonstheme_kde.desktop:75
+#: src/providers/kde/emoticonstheme_kde.desktop:76
 msgctxt "Comment"
 msgid "Library to use KDE emoticons theme"
 msgstr "KDE көлчек җыелмасы өчен китапханә"
