@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-03-28 03:00+0000\n"
+"POT-Creation-Date: 2023-05-20 02:07+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1658,12 +1658,12 @@ msgctxt "Comment"
 msgid "Plugin for the Konqueror Popup Menu"
 msgstr "KIO файлның контекст меню өстәлмәсе"
 
-#: templates/kioworker/kioworker.kdevtemplate:2
+#: templates/kioworker6/kioworker6.kdevtemplate:2
 msgctxt "Name"
-msgid "C++"
+msgid "C++ (KF6)"
 msgstr ""
 
-#: templates/kioworker/kioworker.kdevtemplate:44
+#: templates/kioworker6/kioworker6.kdevtemplate:3
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
