@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-05 02:03+0000\n"
+"POT-Creation-Date: 2023-06-06 02:12+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -22,11 +22,6 @@ msgstr ""
 #: src/kioworkers/file/kauth/file.actions:56
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
-msgstr ""
-
-#: src/kioworkers/trash/kcm_trash.desktop:7
-msgctxt "Name"
-msgid "Trash"
 msgstr ""
 
 #: src/kpac/proxyscout.notifyrc:3
