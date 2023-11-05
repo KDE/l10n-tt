@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-04 16:56+0000\n"
+"POT-Creation-Date: 2023-11-05 01:13+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -23,41 +23,6 @@ msgstr ""
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr ""
-
-#: src/kpac/proxyscout.notifyrc:3
-msgctxt "Comment"
-msgid "Network Proxy Configuration"
-msgstr "Челтәрнең прокси көйләнеше"
-
-#: src/kpac/proxyscout.notifyrc:72
-msgctxt "Name"
-msgid "Invalid Proxy Script"
-msgstr "Прокси скриптында хата"
-
-#: src/kpac/proxyscout.notifyrc:140
-msgctxt "Comment"
-msgid "The downloaded proxy configuration script is invalid"
-msgstr "Кабул ителгән прокси көйләүченең скрипты бозык"
-
-#: src/kpac/proxyscout.notifyrc:212
-msgctxt "Name"
-msgid "Script Download Error"
-msgstr "Бирелгән скрипта хата"
-
-#: src/kpac/proxyscout.notifyrc:280
-msgctxt "Comment"
-msgid "The proxy configuration script could not be downloaded"
-msgstr "Прокси көйләүченең скриптын кабыл итеп булмый"
-
-#: src/kpac/proxyscout.notifyrc:353
-msgctxt "Name"
-msgid "Script Evaluation Error"
-msgstr "Скрипт эчтәлегендә хата"
-
-#: src/kpac/proxyscout.notifyrc:420
-msgctxt "Comment"
-msgid "There was an error executing the proxy configuration script"
-msgstr "Прокси көйләүченең скриптын җибәргәндә ялгыш килеп чыкты"
 
 #: src/new_file_templates/Directory.desktop:2
 msgctxt "Name"
@@ -1682,6 +1647,34 @@ msgstr ""
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
+
+#~ msgctxt "Comment"
+#~ msgid "Network Proxy Configuration"
+#~ msgstr "Челтәрнең прокси көйләнеше"
+
+#~ msgctxt "Name"
+#~ msgid "Invalid Proxy Script"
+#~ msgstr "Прокси скриптында хата"
+
+#~ msgctxt "Comment"
+#~ msgid "The downloaded proxy configuration script is invalid"
+#~ msgstr "Кабул ителгән прокси көйләүченең скрипты бозык"
+
+#~ msgctxt "Name"
+#~ msgid "Script Download Error"
+#~ msgstr "Бирелгән скрипта хата"
+
+#~ msgctxt "Comment"
+#~ msgid "The proxy configuration script could not be downloaded"
+#~ msgstr "Прокси көйләүченең скриптын кабыл итеп булмый"
+
+#~ msgctxt "Name"
+#~ msgid "Script Evaluation Error"
+#~ msgstr "Скрипт эчтәлегендә хата"
+
+#~ msgctxt "Comment"
+#~ msgid "There was an error executing the proxy configuration script"
+#~ msgstr "Прокси көйләүченең скриптын җибәргәндә ялгыш килеп чыкты"
 
 #, fuzzy
 #~| msgctxt "Name"
