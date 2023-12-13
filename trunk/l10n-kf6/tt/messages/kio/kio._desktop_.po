@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-12-04 01:42+0000\n"
+"POT-Creation-Date: 2023-12-13 01:39+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -220,7 +220,7 @@ msgctxt "Name"
 msgid "openSUSE Bugzilla"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/boo.desktop:26
+#: src/urifilters/ikws/searchproviders/boo.desktop:27
 msgctxt "Query"
 msgid "https://bugzilla.opensuse.org/show_bug.cgi?id=\\\\{@}"
 msgstr ""
@@ -274,7 +274,7 @@ msgctxt "Name"
 msgid "Codeberg"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/codeberg.desktop:28
+#: src/urifilters/ikws/searchproviders/codeberg.desktop:29
 msgctxt "Query"
 msgid ""
 "https://codeberg.org/explore/repos?sort=recentupdate&language=&q=\\\\{@}"
@@ -1195,7 +1195,7 @@ msgctxt "Name"
 msgid "PyPI"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/pypi.desktop:27
+#: src/urifilters/ikws/searchproviders/pypi.desktop:28
 msgctxt "Query"
 msgid "https://pypi.org/search/?q=\\\\{@}"
 msgstr ""
