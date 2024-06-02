@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-05-25 00:44+0000\n"
+"POT-Creation-Date: 2024-06-02 00:44+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -13,6 +13,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 1.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: src/kiod/org.kde.kiod6.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "ICO"
+msgctxt "Name"
+msgid "KIO"
+msgstr "ICO"
 
 #: src/kioworkers/file/kauth/file.actions:2
 msgctxt "Name"
@@ -2851,10 +2859,6 @@ msgstr ""
 #~ msgctxt "Name"
 #~ msgid "HDR"
 #~ msgstr "HDR"
-
-#~ msgctxt "Name"
-#~ msgid "ICO"
-#~ msgstr "ICO"
 
 #~ msgctxt "Name"
 #~ msgid "JP2"
