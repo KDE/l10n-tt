@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-26 00:48+0000\n"
+"POT-Creation-Date: 2025-02-27 00:47+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -449,7 +449,7 @@ msgctxt "Name"
 msgid "DuckDuckGo"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:23
+#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:26
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&t=kde"
 msgstr ""
@@ -506,7 +506,7 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/en2fr.desktop:99
 msgctxt "Query"
-msgid "https://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
+msgid "https://www.wordreference.com/enfr/\\\\{@}"
 msgstr ""
 
 #: src/urifilters/ikws/searchproviders/en2it.desktop:5
@@ -515,8 +515,9 @@ msgid "WordReference.com Translation: English to Italian"
 msgstr ""
 
 #: src/urifilters/ikws/searchproviders/en2it.desktop:99
+#: src/urifilters/ikws/searchproviders/it2en.desktop:99
 msgctxt "Query"
-msgid "https://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
+msgid "https://www.wordreference.com/iten/\\\\{@}"
 msgstr ""
 
 #: src/urifilters/ikws/searchproviders/es2en.desktop:5
@@ -537,6 +538,16 @@ msgstr ""
 #: src/urifilters/ikws/searchproviders/facebook.desktop:85
 msgctxt "Query"
 msgid "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
+msgstr ""
+
+#: src/urifilters/ikws/searchproviders/fedora.desktop:2
+msgctxt "Name"
+msgid "Fedora Packages"
+msgstr ""
+
+#: src/urifilters/ikws/searchproviders/fedora.desktop:5
+msgctxt "Query"
+msgid "https://packages.fedoraproject.org/search?query=\\\\{@}"
 msgstr ""
 
 #: src/urifilters/ikws/searchproviders/feedster.desktop:3
@@ -607,7 +618,7 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/fr2en.desktop:99
 msgctxt "Query"
-msgid "https://www.wordreference.com/fr/en/translation.asp?fren=\\\\{@}"
+msgid "https://www.wordreference.com/fren/\\\\{@}"
 msgstr ""
 
 #: src/urifilters/ikws/searchproviders/freecode.desktop:3
@@ -887,11 +898,6 @@ msgstr ""
 #: src/urifilters/ikws/searchproviders/it2en.desktop:5
 msgctxt "Name"
 msgid "WordReference.com Translation: Italian to English"
-msgstr ""
-
-#: src/urifilters/ikws/searchproviders/it2en.desktop:99
-msgctxt "Query"
-msgid "https://www.wordreference.com/it/en/translation.asp?iten=\\\\{@}"
 msgstr ""
 
 #: src/urifilters/ikws/searchproviders/jamendo.desktop:5
@@ -1577,7 +1583,7 @@ msgctxt "Name"
 msgid "Wikipedia"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/wikipedia.desktop:23
+#: src/urifilters/ikws/searchproviders/wikipedia.desktop:26
 msgctxt "Query"
 msgid "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgstr ""
