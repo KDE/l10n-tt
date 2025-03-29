@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-03-21 00:48+0000\n"
+"POT-Creation-Date: 2025-03-29 00:48+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -449,7 +449,7 @@ msgctxt "Name"
 msgid "DuckDuckGo"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:33
+#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:34
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&t=kde"
 msgstr ""
@@ -545,7 +545,7 @@ msgctxt "Name"
 msgid "Fedora Packages"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/fedora.desktop:31
+#: src/urifilters/ikws/searchproviders/fedora.desktop:32
 msgctxt "Query"
 msgid "https://packages.fedoraproject.org/search?query=\\\\{@}"
 msgstr ""
@@ -928,7 +928,7 @@ msgctxt "Name"
 msgid "Plasma Add-Ons and Extensions"
 msgstr "Plasma анимация өчен корал"
 
-#: src/urifilters/ikws/searchproviders/kde_apps.desktop:32
+#: src/urifilters/ikws/searchproviders/kde_apps.desktop:33
 msgctxt "Query"
 msgid "https://store.kde.org/browse?tag=\\\\{@}"
 msgstr ""
@@ -1583,7 +1583,7 @@ msgctxt "Name"
 msgid "Wikipedia"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/wikipedia.desktop:33
+#: src/urifilters/ikws/searchproviders/wikipedia.desktop:34
 msgctxt "Query"
 msgid "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgstr ""
