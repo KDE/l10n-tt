@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-17 01:57+0000\n"
+"POT-Creation-Date: 2025-05-11 02:03+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -19,7 +19,7 @@ msgctxt "Name"
 msgid "Execute action as root."
 msgstr ""
 
-#: src/ioslaves/file/kauth/file.actions:59
+#: src/ioslaves/file/kauth/file.actions:60
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr ""
@@ -53,12 +53,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "Cookie Jar"
 
-#: src/kcms/cookies/cookies.desktop:77
+#: src/kcms/cookies/cookies.desktop:78
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr ""
 
-#: src/kcms/cookies/cookies.desktop:172
+#: src/kcms/cookies/cookies.desktop:173
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
@@ -106,7 +106,7 @@ msgctxt "Comment"
 msgid "Credentials used to access SMB shares"
 msgstr ""
 
-#: src/kcms/smb/smb.desktop:168
+#: src/kcms/smb/smb.desktop:169
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
@@ -123,7 +123,7 @@ msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr ""
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:124
+#: src/kcms/webshortcuts/webshortcuts.desktop:125
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
@@ -135,7 +135,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr "HTTP кешын бушату"
 
-#: src/kioworkers/http/http_cache_cleaner.desktop:73
+#: src/kioworkers/http/http_cache_cleaner.desktop:74
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "HTTP кэшенда булган иске керемнәрне бетерү"
@@ -145,32 +145,32 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "Челтәрнең прокси көйләнеше"
 
-#: src/kpac/proxyscout.notifyrc:71
+#: src/kpac/proxyscout.notifyrc:72
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Прокси скриптында хата"
 
-#: src/kpac/proxyscout.notifyrc:139
+#: src/kpac/proxyscout.notifyrc:140
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "Кабул ителгән прокси көйләүченең скрипты бозык"
 
-#: src/kpac/proxyscout.notifyrc:211
+#: src/kpac/proxyscout.notifyrc:212
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Бирелгән скрипта хата"
 
-#: src/kpac/proxyscout.notifyrc:279
+#: src/kpac/proxyscout.notifyrc:280
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "Прокси көйләүченең скриптын кабыл итеп булмый"
 
-#: src/kpac/proxyscout.notifyrc:352
+#: src/kpac/proxyscout.notifyrc:353
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Скрипт эчтәлегендә хата"
 
-#: src/kpac/proxyscout.notifyrc:419
+#: src/kpac/proxyscout.notifyrc:420
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Прокси көйләүченең скриптын җибәргәндә ялгыш килеп чыкты"
@@ -190,7 +190,7 @@ msgctxt "Name"
 msgid "Empty File..."
 msgstr ""
 
-#: src/new_file_templates/EmptyFile.desktop:51
+#: src/new_file_templates/EmptyFile.desktop:52
 #: src/new_file_templates/TextFile.desktop:94
 msgctxt "Comment"
 msgid "Enter text filename:"
@@ -211,7 +211,7 @@ msgctxt "Name"
 msgid "Link to File or Directory..."
 msgstr ""
 
-#: src/new_file_templates/linkPath.desktop:57
+#: src/new_file_templates/linkPath.desktop:58
 msgctxt "Comment"
 msgid "File or directory to link to:"
 msgstr ""
@@ -968,7 +968,7 @@ msgctxt "Name"
 msgid "KDE Invent Issues"
 msgstr "KDE өлеше"
 
-#: src/urifilters/ikws/searchproviders/invent_issues.desktop:52
+#: src/urifilters/ikws/searchproviders/invent_issues.desktop:53
 msgctxt "Query"
 msgid "https://invent.kde.org/search?scope=issues&search=\\\\{@}"
 msgstr ""
@@ -978,7 +978,7 @@ msgctxt "Name"
 msgid "KDE Invent Merge Requests"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_mr.desktop:51
+#: src/urifilters/ikws/searchproviders/invent_mr.desktop:52
 msgctxt "Query"
 msgid "https://invent.kde.org/search?scope=merge_requests&search=\\\\{@}"
 msgstr ""
@@ -988,7 +988,7 @@ msgctxt "Name"
 msgid "KDE Invent Repositories"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_repo.desktop:55
+#: src/urifilters/ikws/searchproviders/invent_repo.desktop:56
 msgctxt "Query"
 msgid "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
 msgstr ""
@@ -1790,7 +1790,7 @@ msgctxt "Name"
 msgid "C++"
 msgstr ""
 
-#: templates/kioworker/kioworker.kdevtemplate:48
+#: templates/kioworker/kioworker.kdevtemplate:49
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
