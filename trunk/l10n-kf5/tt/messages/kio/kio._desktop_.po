@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-07-19 06:39+0000\n"
+"POT-Creation-Date: 2025-07-28 02:01+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -667,7 +667,7 @@ msgctxt "Name"
 msgid "Flatpak Documentation"
 msgstr "Name=KDE өстәмәсе турында мәгълүмат"
 
-#: src/urifilters/ikws/searchproviders/flatpak.desktop:54
+#: src/urifilters/ikws/searchproviders/flatpak.desktop:55
 msgctxt "Query"
 msgid ""
 "https://docs.flatpak.org/en/latest/search.html?q=\\\\{@}"
@@ -724,7 +724,7 @@ msgctxt "Name"
 msgid "Freecode"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/freecode.desktop:70
+#: src/urifilters/ikws/searchproviders/freecode.desktop:71
 msgctxt "Query"
 msgid "http://freecode.com/search?q=\\\\{@}"
 msgstr ""
