@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-08-05 02:28+0000\n"
+"POT-Creation-Date: 2025-08-07 02:08+0000\n"
 "PO-Revision-Date: 2011-10-02 11:46+0400\n"
 "Last-Translator: Ainur Shakirov <ainur.shakirov.tt@gmail.com>\n"
 "Language-Team: Tatar <>\n"
@@ -1496,7 +1496,7 @@ msgctxt "Name"
 msgid "Rust STD Documentation"
 msgstr "Name=KDE өстәмәсе турында мәгълүмат"
 
-#: src/urifilters/ikws/searchproviders/rust.desktop:52
+#: src/urifilters/ikws/searchproviders/rust.desktop:53
 msgctxt "Query"
 msgid "https://doc.rust-lang.org/std/index.html?search=\\\\{@}"
 msgstr ""
